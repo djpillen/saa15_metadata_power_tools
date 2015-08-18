@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::wickliff.xml//EN" encodinganalog="Identifier">
+umich-bhl-9745</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Letty M. Wickliffe papers, ca. 1860s-ca. 1992
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Suzanne J. Bergstrom </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-01-23</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Letty M. Wickliffe papers, ca. 1860s-ca. 1992</titleproper>
+
+<author>Finding aid created by<lb/> 
+Suzanne J. Bergstrom, 1997</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Wickliffe, Letty M., 1902-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Letty M. Wickliffe papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1860s-ca. 1992
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1960s-1976
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet (2 boxes)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9745 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Teacher; Ann Arbor, Michigan, community activist; member of the North Central Property Owners Association in Ann Arbor. Articles written for the local newspaper, awards, scattered correspondence, biographical information, and photographs.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Letty M. Wickliffe (Donor No. <num type="donor" encodinganalog="541$e">8190</num>) in October, 1993.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Letty M. Wickliffe papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Born on January 25, 1902, in Ann Arbor, Michigan, Letty Wickliffe is the daughter of an escaped slave, Joseph Holt Wickliffe and Mary Jewett Wickliffe.  She grew up in the Ann Arbor area and attended the University of Michigan, receiving a bachelor's degree in education in 1924 and a master's degree in psychology in 1938.</p>
+
+<p>Letty Wickliffe taught from 1924 to 1928 in a segregated Dallas, Texas, high school before moving to Indianapolis, Indiana where she spent the remainder of her educational career at Crispus Attucks High School, a school serving the African-American community.  While there she was head of the Department of Exceptional Children for forty years and received various awards for her work in the field of education.  Former student, now actor Meshach Taylor, was so influenced by Wickliffe that he invited her to appear on the television talk show "Vicki!" as the teacher who made the most difference in his life.</p>
+
+<p>After retiring in 1969, she returned to her hometown of Ann Arbor to begin a second career as a community activist and volunteer for the Republican party.  Among the organizations that she headed or played an integral role in are the North Central Property Owner's Association, Ann Arbor 2000 Board, Ann Arbor Public Library Advisory Committee, Kerrytown Council Board, and the Citizen's Association for Area Planning.  She also served the Republican party as vice chair of the Washtenaw County Committee, a member of the Republican City Committee, and a candidate for several local offices.  In addition, she was an alternate delegate at the 1980 convention and attended the Reagan/Bush inaugural ceremonies in 1981.</p>
+
+<p>Letty Wickliffe has received many awards and honors for her participation in her many endeavors.  These awards include a Citation for Distinguished Professional Leadership by the Council for Exceptional Children, a listing in Who's Who in Special Education, the Book of Golden Deeds Award and a Presidential Certificate of Appreciation from George Bush.  More recently, she was honored by a 90th birthday party celebration, which was attended by the many friends she has made throughout her educational and retirement careers.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Letty M. Wickliffe collection documents the life of a devoted educator, Ann Arbor community activist, and active member of the Republican party.  The collection is divided into two series, Topical and Visual.  Folders are arranged alphabetically within each series and the items inside the folders are in chronological order.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Wickliffe, Letty M., 1902-</persname>
+<subject source="lcsh" encodinganalog="650">Civic leaders--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Women civic leaders--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">African American women--Michigan--Ann Arbor.</subject>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<persname source="lcnaf" encodinganalog="600">Wickliffe, Letty M., 1902-</persname>
+<subject source="lctgm" encodinganalog="650">African Americans--Michigan--Ann Arbor.</subject>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Classrooms--Michigan--Ann Arbor--ca. 1915.</subject>
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Ann Arbor.</subject>
+<subject source="lctgm" encodinganalog="650">Business enterprises--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">North Central Property Owners Association.</corpname>
+<persname source="lcnaf" encodinganalog="600">King, Martin Luther, Jr., 1929-1968.</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. School of Education. Class of 1924.</corpname>
+
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Topical File</unittitle></did><scopecontent><p>The Topical series contains material concerning awards and relating news clippings dating from 1976 to approximately 1992, diplomas and certificates from 1924 to 1961, letters of recognition spanning from 1980 to 1988, news clippings concerning her family dating from 1938 to 1968, and a copy of her resume.  There is also a folder of correspondence that contains one letter to the trustees of the Ann Arbor School Board dated 1980 and a folder of newspaper letters to the editor and a guest editorial. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Awards, <unitdate type="inclusive">1976-ca. 1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Education (diploma, certificates), <unitdate type="inclusive">1924-1961</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Family, <unitdate type="inclusive">1938-ca. 1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters of Recognition, <unitdate type="inclusive">1980-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper articles (letters to the editor, guest editorial), <unitdate type="inclusive">1981-ca. 1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Resume, <unitdate type="inclusive">ca. 1993</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Visual Material</unittitle></did><scopecontent><p>The Visual series is divided into two subseries of photographs and slides.  The five folders and one oversize box of photographs deal primarily with Wickliffe's class pictures, family and friends.  The oversize box contains a photo album of black and white photographs and an album documenting Wickliffe's 90th birthday celebration.  Also included are photographs of Wickliffe with various Republican officials including one photograph with George Bush which was taken in 1987.  Of possible interest to researchers are three candid and distant photographs of Dr. Martin Luther King Jr. on the steps of a church in Montgomery, Alabama in the 1960s.</p>
+
+<p>The slides subseries contains seven folders of slides taken for various North Central Property Owners Association projects.  Included are folders dealing with aerial views of Ann Arbor, the interiors of neighborhood homes, maps, planning charts and reports, site analyses of a child care center and park plans and many slides of neighborhood streets and houses.  Slides in this subseries are dated from approximately 1968 to 1976 with the bulk of them being from the 1974 time period.  Anyone interested in studying the development of Ann Arbor's North Central area in this time span would find these slides useful.</p>
+</scopecontent>
+<c02 level="file"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Class Pictures, <unitdate type="inclusive">ca. 1913-ca. 1970</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Family, <unitdate type="inclusive">1860s-ca. 1925</unitdate></unittitle><note><p>See also family album in oversized Box 2</p></note></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Letty Wickliffe Portraits and Informal Photos, <unitdate type="inclusive">ca. 1915-ca. 1985</unitdate> </unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>King, Martin Luther (Montgomery, Alabama), <unitdate type="inclusive">ca. 1960s</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ninetieth Birthday Celebration, <unitdate type="inclusive">1992</unitdate> </unittitle></did> <note><p>(see framed portrait and album of memorabilia in oversized Box 2)</p></note></c03></c02>
+<c02 level="file"><did><unittitle>Slides--North Central Property Owners Association</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Aerial Views, <unitdate type="inclusive">1972-1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Interiors of Homes, <unitdate type="inclusive">1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Maps and Charts, <unitdate type="inclusive">ca. 1972</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Neighborhood Views, <unitdate type="inclusive">ca. 1968-ca. 1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Parks, <unitdate type="inclusive">1972-1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Reports and Studies, <unitdate type="inclusive">1973-1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Site Analyses, <unitdate type="inclusive">1972-1976</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Framed portrait and album of memorabilia</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

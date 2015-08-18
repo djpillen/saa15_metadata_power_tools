@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::johnstge.xml//EN" encodinganalog="Identifier">
+umich-bhl-851588</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+George Johnston letterbook, 1832-1860
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-26</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+George Johnston letterbook, 1832-1860</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Johnston, George.
+</persname>
+</origination>
+<unittitle encodinganalog="245">
+George Johnston letterbook 
+<unitdate type="inclusive" encodinganalog="245$f">
+1832-1860
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 microfilm reel (positive)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851588 AA microcopy
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Sub-Indian agent at La Pointe, Wisconsin, later surveyor of Indian lands in Michigan's Upper Peninsula, and interpreter among the Chippewa Indians. Letters relating to his work among the Indians, also including descriptions of Michigan's copper deposits and of Johnston's efforts to exploit the area's natural resources.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+No copyright restrictions.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+George Johnston letterbook, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>George Johnston (also spelled Johnson) was the son of John Johnston, an Irish immigrant and O-Shau-gus-co-day-way-gua, a Chippewa Indian woman. In 1826, he was a sub-Indian agent at LaPointe, Wisconsin; later in 1835, he was appointed by the then Secretary of War Lewis Cass to survey the northern Michigan boundary between the Sioux and Chippewa Indians. In 1854, Johnston served as U.S. Indian Agent for the United States-Chippewa Indian Treaty of August 2, 1855. By this treaty, those Chippewa Indians of mixed blood were to receive eighty acres of land. Although Johnston qualified under this provision of the treaty, the Indian agent at Detroit, H.C. Gilbert, refused to honor his claim.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The George Johnston letterbook provides a chronology of the events in his life. Included are copies of letters from Chippewa Indian chiefs appealing to the President of the United States to honor its past treaties with the Indians. There are also many letters describing the copper deposits of Michigan's Upper Peninsula, including letters to copper mining companies (i.e. the Native Copper Association and the Bruce Mining Company) urging them to exploit the natural resources of the Upper Peninsula. Letters to Henry Schoolcraft, Johnston's brother-in-law, indicate something of his interest in Michigan's copper resources. Of interest are the series of letters written to Secretary of War, Lewis Cass, Henry R. Schoolcraft, and H.C. Gilbert defending his claim to receive land under the treaty of 1855.  Johnston addressed letters to the following individuals: Lewis Cass, Zachariah Chandler, Peter Dougherty, Bishop Samuel McCoskry, Robert McClelland, Henry R. Schoolcraft, Charles Stuart, and C.C. Trowbridge.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Ojibwa Indians--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Copper--Michigan--Upper Peninsula.</subject>
+<subject source="lcsh" encodinganalog="650">Indians of North America--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">La Pointe (Wis.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Upper Peninsula (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Natural resources.</subject>
+
+
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Cass, Lewis, 1782-1866.</persname>
+<persname source="lcnaf" encodinganalog="700">Chandler, Zachariah, 1813-1879.</persname>
+<persname source="lcnaf" encodinganalog="700">Dougherty, Peter, 1805-1894.</persname>
+<persname source="lcnaf" encodinganalog="700">McClelland, Robert, 1807-1880.</persname>
+<persname source="lcnaf" encodinganalog="700">McCoskry, Samuel Allen, 1804-1886.</persname>
+<persname source="lcnaf" encodinganalog="700">Schoolcraft, Henry Rowe, 1793-1864.</persname>
+<persname source="lcnaf" encodinganalog="700">Stuart, Charles Edward, 1810-1887.</persname>
+<persname source="lcnaf" encodinganalog="700">Trowbridge, C. C. (Charles Christopher), 1800-1883.</persname></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Letterbook, <unitdate type="inclusive">1832-1860</unitdate></unittitle><physdesc><physfacet>microfilm positive</physfacet></physdesc></did></c01>
+</dsc></archdesc>
+
+</ead>

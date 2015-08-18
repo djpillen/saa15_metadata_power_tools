@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::friars.xml//EN" encodinganalog="Identifier">
+umich-bhl-9441</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Friars (Musical Group) records,1956-1993
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Karen Jania, 1994</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-12-15</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Friars (Musical Group) records, 1956-1993</titleproper>
+
+<author>Finding aid created by<lb/> 
+Karen Jania, 1994</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Friars (Musical Group).
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Friars (Musical Group) records
+<unitdate type="inclusive" encodinganalog="245$f">
+1956-1993
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1963-1992
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9441 Bimu F19 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+University of Michigan a capella octet formed in 1955, composed of members of the men's glee club. Collection consists of Topical files and photographs.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records (Donor <num type="donor" encodinganalog="541$e">8233</num>) were received beginning in 1994.  Periodic accessions to continue.
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Friars (Musical Group) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Friars is an a cappella octet named after a turn-of-the-century student organization (drinking club).  The Friars originated in 1955 when two rival quartets, the Arbors and the Whatchamacallits, decided to merge their musical talents.  In 1960, four members of the Friars decided to form a new group called The Arbors.  The new quartet traveled extensively from Minnesota to New York.  In 1961 the group recorded an album with Vanguard Recording Company.</p>
+
+<p>The Friars are composed of University of Michigan Men's Glee Club members.  The group creates its own choreography and arranges its own music, borrowing from a variety of artists.  The octet has been aired on national television and has performed at the White House, the Rose Bowl, and exotic places such as Jamaica, Acapulco, Hawaii and Cancun.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The records span the years 1956-1993; the bulk of the materials cover 1963-1992.  The records are divided into two series: TOPICAL FILES and PHOTOGRAPHS.</p>
+
+<p>The TTopical Filea.4 linear feet) are arranged alphabetically.  The records are a good source for documenting the performances of the Friars.  The "Performance Contract/Data Sheets" indicate the time and place of the performance, in addition to the amount paid to the Friars.  The programs contain information on the eight members.  Historical information can be gleaned from the promotional letters.</p>
+
+<p>The Photogrpahs (12 folders) are arranged in chronological order.  Each folder contains at least one promotional black and white photograph used by the Friars for the particular academic year.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Friars (Musical group)</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Choral organizations.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Choral organizations.</corpname>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>TOPICAL FILES</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The Arbors, <unitdate type="inclusive">ca. 1963</unitdate> (</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Audition Materials, <unitdate type="inclusive">1989-1991</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1964-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Logo, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Member Lists, <unitdate type="inclusive">1977</unitdate>, <unitdate type="inclusive">1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper Clippings, <unitdate type="inclusive">1992-1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Performance Contract/Data Sheets</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1964-1978</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1983-1984</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1984-1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1985-1986</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1986-1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1988-1989</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1989-1990</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1990-1991</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Programs, <unitdate type="inclusive">1974-1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Promotional Letters, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Publicity Flyers, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Repertoire, <unitdate type="inclusive">1967-1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Sounds from the Summit</title>, <unitdate type="inclusive">1963-1966</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>PHOTOGRAPHS</unittitle></did>
+<c02 level="file"><did><unittitle>Members</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1956-1957</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1958-1959</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1959-1960</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1962-1963</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1964-1965</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1965-1966</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1967-1970</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1980-1981</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1981-1982</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1982-1983</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1991-1992</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

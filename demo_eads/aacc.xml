@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::miu-h//TXT us::miu-h::aacc.xml//EN" encodinganalog="identifier">umich-bhl-00143</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Ann Arbor Community Center Records <date>1920s-1998</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by RIva Pollard</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">December 2000</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Riva Pollard, <date>December 2000</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>2001-02-08</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Ann Arbor Community Center Records, <date type="inclusive">1920s-1988</date></titleproper><author>Finding aid prepared by: <lb/>Riva Pollard</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="recordgrp" relatedencoding="marc21"><did>
+<origination><corpname source="lcnaf" encodinganalog="110">Ann Arbor Community Center</corpname></origination>
+<unittitle encodinganalog="245">Ann Arbor Community Center Records
+<unitdate type="inclusive" encodinganalog="245$f">1920s-1988</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">0.5 linear ft.</extent></physdesc>
+<abstract>Organization established to promote civic, cultural, and recreational interests and activities of Ann Arbor's African American community. Administrative reports, informational brochures, collected information, and photographs.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">00143 Bd 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository encodinganalog="852"><corpname><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The records were accessioned from the Center in February of 2000. Donor no. <num type="donor" encodinganalog="541$e">6775</num>.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The record group is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has not been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Ann Arbor Community Center Records, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>In 1923, the Reverend R.M. Gilbert, pastor of the Second Baptist Church of Ann Arbor, Michigan, spearheaded the effort that led to the establishment of the Dunbar Community Center. The original intent of the Center was to provide housing for Black laborers working on area roads and University of Michigan building projects.  The Center's first building, located at 209-11 North Fourth Avenue, was used primarily for sleeping quarters, but there were also a few areas set aside for club meetings and social events.  Gradually the purpose of the Center changed from one of providing temporary housing to that of being a place where Ann Arbor's Black population could gather for social, recreational, and civic activities.</p><p>In 1926, a new administrator, Mrs. Savonia L. Carson, was appointed Executive Secretary and the Center moved to 1009 East Catherine where it remained until 1937. That same year, Mr. Douglas Williams moved to Ann Arbor to assume the leadership of the Dunbar Center. Mr. Williams, although trained as a pharmacist, had a certificate from the Atlanta School of Social Work. His first priority was to reorganize and revitalize the Center who membership was then quite small. He quickly arranged for the purchase of a new facility at 420 North Fourth Avenue. He also set about revitalizing the programs -- and succeeded to such an extent that the membership in a very short time jumped from 57 to 371.</p><p>The constitution of the Center, under Williams' guidance, was revised and broadened to read as follows: "The purpose of the Association shall be to promote civic and cultural and recreational interest and activities to serve all ages and both sexes and to direct character building and community betterment programs among the colored citizens of Ann Arbor and its suburbs."</p><p>During the 1940's and 1950's, the program at the Dunbar Center was influenced to a large extent by the personality and interests of Mr. Williams. He was a member of innumerable organizations and performed many charitable works, both as a member of these groups and on a personal basis. Because of his influence, Blacks were given jobs previously reserved for white applicants. He sought to bring about good race relations and community harmony through his own good works and personal magnetism. Through Mr. Williams' efforts and close personal contacts, he was able to build a new modern Center at 625 N. Main St.  Sometime in 1958, the name of the organization was changed to the Ann Arbor Community Center. Six months after the new building was dedicated in 1960, Mr. Williams died.</p><p>Mr. Walter W. Hill, who also completed his professional training at the Atlanta School of Social Work, became the next head of the center. In 1962, the Board stated its intention that Program development should be its major priority. Still relying primarily on volunteer staff in 1963, the Center developed a closer relationship with the University's School of Social Work for student placements.</p><p>In the early 1970s, the center began to hire part-time and then full-time professionally trained staff. In 1972, the Center purchased a former YM-YWCA Camp that provided summertime activities for Ann Arbor African-American youth.</p><p>By 1973, the staff included the Director, a Program Director, an Administrative Assistant, two social workers and five part-time program specialists. A custodian and receptionist-typist and eight Camp Counselors completed the staff.</p><p>While many activities continued at the Center, much staff time was spent in "reaching out" to youth in trouble in the schools and courts. Block clubs were established to help groups in the community develop civic pride and civic strength, which led to the establishment of the North Central Neighborhood Association.</p><p>Many programs developed in conjunction with other community groups. A program for "In School Mothers" and educational counseling was a joint effort of the center and school personnel. A bookmobile station at the Center was established with cooperation of the Library Advisory Committee. A program for school dropouts was established with the Human Rights Department. a Voter Education program with the City Clerk's office, and a transportation program with Model Cities.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The records of the Ann Arbor Community Center, spannig the period 19 linear feet document the Center's service to Ann Arbor's African-American community. The records, including annual reports, brochures, clippings and photographs have been arranged into three series: Administrative, 1936-1998; Topical, 1936-1997; and Visual, 1920s-1990s</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><corpname source="lcnaf" encodinganalog="610">Ann Arbor Community Center.</corpname><subject source="lcsh" encodinganalog="650">African Americans--Michigan--Ann Arbor.</subject><geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Race relations.</geogname></controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head><corpname source="lcnaf" encodinganalog="610">Ann Arbor Community Center.</corpname><subject source="lctgm" encodinganalog="650">African Americans--Michigan--Ann Arbor.</subject><subject source="lctgm" encodinganalog="650">African Americans--Children--Michigan--Ann Arbor.</subject><geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Buildings, structures, etc.</geogname><subject source="lctgm" encodinganalog="650">Camps.</subject><subject source="lctgm" encodinganalog="650">Children--Michigan--Ann Arbor.</subject><subject source="lctgm" encodinganalog="650">Community centers--Michigan--Ann Arbor.</subject></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Administrative, <unitdate type="inclusive">1936-1998</unitdate></unittitle></did><scopecontent><p>The Administrative series spans less than 0.1 linear feet and includes materials pertaining primarily to the early years of the Center.  Of particular note are Annual Reports of the Center (then the Dunbar Community Association) from 1937 to 1954, as well as Brochures, Fliers and Invitations regarding Center events and services from 1936 to 1998.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Reports, Dunbar Community Association, <unitdate type="inclusive">1937-1954</unitdate>, <unitdate>undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Brochures, Fliers and Invitations, <unitdate type="inclusive">1936-1998</unitdate>, <unitdate>undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dedication Ceremony 
+Program, <unitdate type="inclusive">January 24, 1960</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Expansion Proposal, "The Dunbar Story"</unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Topical Files, <unitdate type="inclusive">1936-1997</unitdate></unittitle></did><scopecontent><p>The Topical series spans approximately 0.2 linear feet and includes materials kept by the Center on related organizations or individuals, as well as a considerable quantity of newspaper clippings relating to the Center itself.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Report, Boys Department, St. Antoine Branch YMCA, <unitdate type="inclusive">1939</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution and Bylaws, Ann Arbor Civic Forum, <unitdate type="inclusive">1950</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History, Second Baptist Church of Ann Arbor</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Memorial Program, Douglas E. H. Williams, <unitdate type="inclusive">November 20, 1960</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>News Clippings</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>From an album, <unitdate type="inclusive">1978-1981</unitdate>, <unitdate>undated</unitdate></unittitle></did><note><p>(include photocopy of newspaper photo of original Board of Directors)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive">1941-1997</unitdate>, <unitdate>undated</unitdate></unittitle></did></c03></c02></c01>
+<c01 level="series"><did><unittitle>Visual, <unitdate type="inclusive">1920s-1990s</unitdate></unittitle></did><scopecontent><p>The Visual series spans approximately .3 linear feet and consists of negatives and photographs.  The bulk of the photographs are undated, although there are a fair amount for which a date or date range was apparent.  Of these, photographs of the 1940s, 1960s and 1970s are the most abundant.</p></scopecontent>
+<c02 level="file"><did><unittitle><genreform source="aat" normal="Photographs">Photographs</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1920s</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1940s</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1950s</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1960s</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1970s</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1980s-1990s</unitdate></unittitle><note><p>include some negatives</p></note></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate>Undated</unitdate></unittitle><physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Negatives</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1930s</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1950s</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate>Undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Postcards of Ann Arbor Community Center, <unitdate>undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Scrapbook<unitdate type="inclusive">1936-1949</unitdate>, <unitdate>undated</unitdate></unittitle><note><p>(includes photographs and news clippings)</p></note></did></c02></c01></dsc></archdesc></ead>   

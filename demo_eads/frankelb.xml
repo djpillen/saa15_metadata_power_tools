@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::frankelb.xml//EN" encodinganalog="Identifier">
+umich-bhl-2012086</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Betty Frankel papers, 1958-1993
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Jarrett Drake </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2012">
+2012</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2012</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2012-06-26</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Betty Frankel papers, 1958-1993</titleproper>
+
+<author>Finding aid created by<lb/> 
+Jarrett Drake, 2012</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+
+<persname source="lcnaf" encodinganalog="100">
+Frankel, Betty.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Betty Frankel papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1958-1993
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+5.25 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2012086 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Betty Frankel was an award-winning writer for the <title render="italic">Observer</title> and <title render="italic">Detroit Free Press</title> newspapers. The Betty Frankel Papers document her career as a writer for over three decades. The majority of the collection is comprised of Frankel's weekly columns in the <title render="italic">Observer</title> and <title render="italic">Detroit Free Press</title>.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was received from Richard W. Frankel (donor no. <num type="donor" encodinganalog="541$e">10705</num>) in January 2012.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Betty Frankel papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Betty Frankel was an award-winning writer for the <title render="italic">Observer</title> and <title render="italic">Detroit Free Press</title> newspapers, where she authored the garden and landscape columns for more than three decades. She graduated from the University of Michigan with a Bachelor of Science degree in botany and a Master's degree in landscape architecture in 1973. She and her husband, Richard, resided in the northern suburb of Farmington Hills. Frankel belonged to many professional organizations, including the Garden Writers Association of America Inc., the Landscape Critics Council of the Federated Garden Clubs of Michigan Inc. (of which she was a charter member), and the Cranbrook Gardens Auxiliary. Her in-depth articles of landscaping and gardening earned Frankel numerous awards, with official recognition coming from the Garden Writers Association of America Inc., the Women's National Farm and Garden Association Inc., and the Metropolitan Detroit Landscape Association. On February 21, 1993, Frankel passed away at the age of 69.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Betty Frankel Papers document her career as a writer for over three decades. The majority of the collection is comprised of Frankel's weekly columns in the <title render="italic">Observer</title> and <title render="italic">Detroit Free Press</title>. Materials are arranged into two series: Personal and Publications. Taken together, the Betty Frankel Papers chronicle the growth and development of gardening and landscapes techniques across the Metropolitan Detroit area from the 1960's through the 1990's.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Frankel, Betty.</persname>
+<subject source="lcsh" encodinganalog="650">Gardening--Michigan--Detroit.</subject>
+<subject source="lcsh" encodinganalog="650">Horticulture--Michigan--Detroit.</subject>
+<subject source="lcsh" encodinganalog="650">Women in landscape architecture--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Women journalists--Michigan--Detroit.</subject>
+<subject source="lcsh" encodinganalog="630">Detroit free press.</subject>
+<subject source="lcsh" encodinganalog="630">Observer &amp; eccentric.</subject>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Personal</unittitle></did><scopecontent><p>The Personal series contains awards, notebooks, calendar books, and a sketch diary. The awards include original certificates from the award ceremonies in addition to press coverage of the events as well as correspondence informing Frankel of her selection. The notebooks primarily consist of information Frankel used for stories that would later be published. They span from 1977 to 1989 with no significant gaps. The calendar books are appointments and meetings Frankel scheduled in order to complete her stories. The sketches can be found in one notebook with no dates. In the book are illustrations of nature sites that reflect Frankel's interest in landscaping.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Awards, <unitdate type="inclusive">1971-1979</unitdate> (scattered)</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Notebooks</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1977-1983</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1984-1989</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Memo &amp; Date Books, <unitdate type="inclusive">1978-1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sketch Diary, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Publications</unittitle></did><scopecontent><p>The Publications series is first organized by format (newspapers, books, and miscellaneous) then by company. The newspaper clippings derive from the <title render="italic">Detroit Free Press</title>, the <title render="italic">Observer</title>, and the <title render="italic">Farmington Enterprise &amp; Observer</title>. They are arranged chronologically by year and an index for the year's article can be found at the beginning of most folders. Both books in the series were published by the<title render="italic">Free Press</title> . The publication of <title render="italic">Adventures in Landscaping</title> in 1973 also fulfilled the requirements for Frankel's master's degree in landscape architecture at the University of Michigan.</p></scopecontent>
+<c02 level="file"><did><unittitle>Newspapers</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Compiled Clippings, <unitdate type="inclusive">1958-1971</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><unittitle><title render="italic">Detroit Free Press</title></unittitle></did>
+<c04 level="file"><did><unittitle>Clippings</unittitle></did>
+<c05 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1969-1973</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c05>
+<c05 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1974-1979</unitdate> </unittitle> <physdesc><extent>12 folders</extent></physdesc></did></c05>
+<c05 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1980-1984</unitdate> </unittitle> <physdesc><extent>10 folders</extent></physdesc></did></c05>
+<c05 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">1985-1988</unitdate> </unittitle> <physdesc><extent>9 folders</extent></physdesc></did></c05>
+<c05 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1989-1993</unitdate> </unittitle> <physdesc><extent>9 folders</extent></physdesc></did></c05></c04>
+<c04 level="file"><did><container type="box" label="Box">5</container><unittitle>Promotional Articles, <unitdate type="inclusive">1971-1976</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">5</container><unittitle>Gardening Guides, <unitdate type="inclusive">1974-1985</unitdate> (scattered)</unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle><title render="italic">Detroit World</title> Clippings, <unitdate type="inclusive">1962</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">6</container><unittitle><title render="italic">Farmington Enterprise &amp; Observer</title> Clippings, <unitdate type="inclusive">1970-1971</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">6</container><unittitle><title render="italic">Observer</title> Clippings, <unitdate type="inclusive">1972-1973</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Books</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">6</container><unittitle><title render="italic">Adventures in Landscaping</title>, <unitdate type="inclusive">1973</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">6</container><unittitle><title render="italic">1986 Garden Calendar</title>, <unitdate type="inclusive">1986</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Miscellaneous</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">6</container><unittitle>"A Presentation for Lawn &amp; Garden Advertisers," <unitdate type="inclusive">1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">6</container><unittitle>"Earthly Delights," <unitdate type="inclusive">1990</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">6</container><unittitle>"Sail into Columbus and Discover AmeriFlora '92," <unitdate type="inclusive">1992</unitdate></unittitle></did></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

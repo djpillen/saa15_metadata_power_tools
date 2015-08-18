@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::kimballd.xml//EN" encodinganalog="identifier">umich-bhl-9857</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Donald A. Kimball Architectural Drawings and Photographs <date>1935-1954</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Kathy L. Steiner</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1998</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Kathy L. Steiner, <date>August 1998</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>2000-04-26</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Donald A. Kimball<lb/> Architectural Drawings and Photographs, <date type="inclusive">1935-1954</date></titleproper><author>Finding aid prepared by: <lb/>Kathy L. Steiner</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Kimball, Donald A., 1907-1998.</persname></origination>
+<unittitle encodinganalog="245">Donald A. Kimball Architectural Drawings and Photographs
+<unitdate type="inclusive" encodinganalog="245$f">1935-1954</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">8 oversized folders and .25 linear ft.</extent></physdesc>
+<abstract>Saginaw based Michigan architect; 1929 graduate of University of Michigan's School of Architecture.  Designed a variety of private and public buildings in the 1940s and early 1950s, mainly in mid and northern Michigan. Collection comprised of six pencil and watercolor renderings, sixty-three measured working drawings, and twenty-two black and white photographs.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">9857 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository encodinganalog="852"><corpname><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The material was donated by Jane A. Kimball (donor no. <num type="donor" encodinganalog="541$e">8714</num>) in April of 1998.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Donald A. Kimball Architectural Drawings and Photographs, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Donald A. Kimball, the eldest son of Eva and Chester Kimball, was born in Saginaw, Michigan on September 9, 1907.  After graduation from Saginaw High School, he studied architecture at the University of Michigan, earning a B. S. degree in Architecture in 1929.  After an additional year of graduate studies, he worked briefly for an architectural firm in Saginaw before starting an architectural practice in his home city.  Kimball had a distinguished architectural career, designing a wide variety of private and public buildings throughout Michigan in the late 30s, 40s and early 50s.  In addition, he served on a committee appointed by the Governor of Michigan to write a new building code for the state and was vice-president of the Michigan Society of Architects and president of the American Institute of Architects of the Saginaw Valley.</p>
+<p>Kimball married Dorothy Bartlett in 1935, and she became his lifelong partner in both his professional and his family life.  In 1954, they moved to Hope Ranch in Santa Barbara, and in 1973 into a house he built across from the Santa Barbara Mission and Rose Garden.  He continued to practice while in California, designing several houses and an addition to the First Congregational Church.  Donald Kimball died in 1998 at the age of 90.  He had a daughter, Jane and a son, Andrew.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The Donald A. Kimball collection (7 oversized folders and .25 linear ft., 1935-1954) is a concentrated and fine example of the work of a Michigan architect practicing largely in mid and northern Michigan during the late 30s through the mid 50s.  The collection is comprised wholly of visual architectural material representative of the spirit of the times.  Researchers should note that an additional Kimball collection is held at Central Michigan University in the Clarke Historical Library.</p>
+<p>There are three series in the collection: Renderings (6 boards, 1935-1946 and undated); Architectural Drawings (63 drawings for 6 projects, 1936-1954); and Photographs (22 prints, undated). There is some overlap between the series.  For example, there are items representing Saginaw's Michigan Bean Company in each of the series; and there are both drawings and photographs for WSAM Radio Station, also a Saginaw building.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects - Visual Material:</head><persname source="lcnaf" encodinganalog="600">Kimball, Donald A., 1907-1998.</persname><subject source="lcsh" encodinganalog="650">Architects--Michigan--Saginaw.</subject><subject source="lctgm" encodinganalog="650">Architecture--Michigan.</subject><subject source="lcsh" encodinganalog="650">Architecture, Domestic--Michigan.</subject><subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Saginaw.</subject><subject source="lctgm" encodinganalog="650">Business enterprises--Michigan.</subject><genreform source="lctgm" encodinganalog="655">Architectural photographs.</genreform><genreform source="aat" encodinganalog="655">Architectural drawings.</genreform></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Renderings</unittitle></did><scopecontent><p>Renderings, effectively executed in pencil and watercolor, well illustrate the range of building types generated in Kimball's office, from suburban residences to offices and factories.  When considered together, the Michigan Bean Company, Great Lakes Greyhound Bus Station and Restaurant, downtown storefront, office building, and two distinctly different residences, provide a glimpse into the built environment typical to a midwestern community of this era.</p></scopecontent>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>Residence, <unitdate type="inclusive">1935</unitdate></unittitle><physdesc><physfacet>pencil, colored pencil, white paint on board</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>Residence, <unitdate type="inclusive">October 1941</unitdate></unittitle><physdesc><physfacet>black and white watercolor on green board</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>Michigan Bean Company [Saginaw, Mich.], <unitdate type="inclusive">1945</unitdate></unittitle><physdesc><physfacet>pencil and watercolor on board</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">2</container><unittitle>Bus Station (Great Lakes Greyhound Lines) and Restaurant [Mackinaw, Mich.], </unittitle><physdesc><physfacet>pencil and watercolor on board</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">2</container><unittitle>Downtown Storefront, <unitdate type="inclusive">1946</unitdate></unittitle><physdesc><physfacet>pencil and watercolor on board</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">2</container><unittitle>505 Eddy Building</unittitle><physdesc><physfacet>pencil, colored pencil and watercolor on board</physfacet></physdesc></did></c02></c01>
+<c01 level="series"><did><unittitle><genreform source="aat" normal="Architectural drawings">Architectural Drawings</genreform></unittitle></did><scopecontent><p>Architectural Drawings are all original, measured working drawings, including floor plans, elevations, details and sections.  Six projects are represented-- a personal Kimball residence, a bus station, a service station, a radio station, a bean factory and a pickle and canning company.  Most drawings are pencil on linen, although there a few pencil drawings on tracing paper.</p></scopecontent>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">3</container><unittitle>No. 164 / Mr. &amp; Mrs. Donald Kimball, <unitdate type="inclusive">1936</unitdate></unittitle><physdesc><extent>4 drawings</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">4</container><unittitle>No. 246 / Service Station for Mr. Maurice E. Brown, Saginaw, Mich., <unitdate type="inclusive">1940</unitdate></unittitle><physdesc><extent>7 drawings</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">5</container><unittitle>No. 4900 / Radio Station WSAM, Saginaw, Mich., <unitdate type="inclusive">1948</unitdate></unittitle><physdesc><extent>2 drawings</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">6</container><unittitle>Nos. 316; 4904; 5018 / Michigan Bean Company, Saginaw, Mich., <unitdate type="inclusive">1944-1950</unitdate></unittitle><physdesc><extent>22 drawings</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">7</container><unittitle>No. 4502 / Bus Station and Garage Building; Great Lakes Greyhound Lines, Inc., Mackinaw, Mich., <unitdate type="inclusive">1946</unitdate></unittitle><physdesc><extent>11 drawings</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">8</container><unittitle>Nos. 5405; 5215 / Daily Pickle and Canning Company, Saginaw, Mich., <unitdate type="inclusive">1951-1954</unitdate></unittitle><physdesc><extent>17 drawings</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did><scopecontent><p>Photographs (all in black and white), while unfortunately undated and unidentified, provide evidence of Kimball's diverse interests and ability to respond to client preferences.  Researchers interested in documentation of neighborhoods of the 40s and 50s -- in particular, movie theaters, service stations, supermarkets, and factories in midsize midwestern cities, will find many images of value.  The series also includes seven residences, ranging from variations on the suburban ranch to the fifties modern and the familiar traditional.  In addition, there are three images of Kimball at professional gatherings with colleagues.</p></scopecontent>
+<c02 level="file"><did><unittitle>Commercial</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Household Finance</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Goes Seeds</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Bean Company</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Office Building</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Peet Community Center</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Phillips Service Station</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ray's Food Fair</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Royal Movie Theater</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Schaubel News Co</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Storefront (S. Michigan and Adams)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Williams Service Station</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>WSAM</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>People</unittitle><physdesc><extent>3 prints</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Residential</unittitle><physdesc><extent>7 prints</extent></physdesc></did></c02></c01></dsc></archdesc></ead>   

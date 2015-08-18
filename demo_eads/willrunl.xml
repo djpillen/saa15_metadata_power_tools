@@ -1,0 +1,300 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::willrunl.xml//EN" encodinganalog="Identifier">
+umich-bhl-86304</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Willow Run Public School Library records, 1944-1969
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>June 2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-06-13</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Willow Run Public School Library records, 1944-1969</titleproper>
+      <author>Finding aid created by<lb /> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<corpname source="lcnaf" encodinganalog="110">
+Willow Run Public School Library.
+</corpname>
+</origination>
+      <unittitle encodinganalog="245">
+Willow Run Public School Library records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1944-1969
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+4 linear feet and 3 outsize volumes.
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86304 Bz 2; BZ Outsize
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Files collected by Nell Barrett, head librarian, Willow Run Public School Library concerning history of Willow Run, Michigan, and activities of the schools and library system.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload" /></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was donated by Nell Barrett (donor no. <num type="donor" encodinganalog="541$e">4948</num>).</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is not held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Willow Run Public School Library records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Nell Barrett was head librarian at the Willow Run Public School Library. In addition, she was a collector of material relating to the history of the Willow Run community.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The collection consists of materials collected by Nell Barrett, head librarian at the Willow Run Public School Library relating to Willow Run. Included are materials relating to her work as a librarian, background information, scrapbooks and clippings, and photographs.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="650">Libraries--Michigan--Willow Run.</subject>
+        <subject source="lcsh" encodinganalog="650">Schools--Michigan--Willow Run.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Washtenaw Area Library Association (Mich.)</corpname>
+        <geogname source="lcsh" encodinganalog="651">Willow Run (Mich.)</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <subject source="lctgm" encodinganalog="650">Art education.</subject>
+        <subject source="lctgm" encodinganalog="650">Buildings--Michigan--Willow Run.</subject>
+        <subject source="lctgm" encodinganalog="650">Children--1941-1950.</subject>
+        <subject source="lctgm" encodinganalog="650">Children drawing and painting.</subject>
+        <subject source="lctgm" encodinganalog="650">Children playing.</subject>
+        <subject source="lctgm" encodinganalog="650">Classrooms--Michigan--Willow Run.</subject>
+        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Willow Run.</subject>
+        <subject source="lctgm" encodinganalog="650">Education.</subject>
+        <subject source="lctgm" encodinganalog="650">Fires--Michigan--Willow Run.</subject>
+        <subject source="lctgm" encodinganalog="650">Interiors.</subject>
+        <subject source="lctgm" encodinganalog="650">Libraries--Michigan--Willow Run.</subject>
+        <subject source="lctgm" encodinganalog="650">Schools--Michigan--Willow Run.</subject>
+        <geogname source="lctgm" encodinganalog="651">Willow Run (Mich.)--Buildings.</geogname>
+        <geogname source="lctgm" encodinganalog="651">Willow Run (Mich.)--Dwellings.</geogname>
+        <geogname source="lctgm" encodinganalog="651">Willow Run (Mich.)--Fires.</geogname>
+        <geogname source="lctgm" encodinganalog="651">Willow Run (Mich.)--Schools.</geogname>
+        <corpname source="lcnaf" encodinganalog="610">Willow Run Public School Library.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Willow Run Community Schools (Willow Run, Mich.)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Barrett, Nell.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Materials collected by Nell Barrett, head librarian, Willow Run Public School Library</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Willow Run Public School Library</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Washtenaw Area Library Association</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volumes">1-3</container>
+            <unittitle>
+              <genreform normal="Scrapbooks">Scrapbooks</genreform> relating to Willow Run, <unitdate type="inclusive">1942-1944</unitdate> </unittitle>
+            <physdesc>
+              <extent>3 volumes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>
+              <genreform normal="Scrapbooks">Scrapbooks</genreform> and clippings re. Willow Run, <unitdate type="inclusive">1940s-1950s</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Ypsilanti Township news clippings, <unitdate type="inclusive">1961-1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Willow Run Association for Neighborhood Development (WRAND) newsletter</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Paper by John McConnell, "The Ypsilanti Township Republican Party" <unitdate type="inclusive">1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>"The Willow Run Story" by Marion F. Wilson </unittitle>
+          </did>
+          <note>
+            <p>(edited manuscript)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Miscellaneous concerning history of Willow Run</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <genreform normal="Photographs">Photographs</genreform>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>The Photographs includes prints of buildings and school activities of the Willow Run (Mich.) Public Schools; also photos of Willow Run housing during and after World War II.</p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">4</container>
+              <unittitle>Buildings-Other than schools and housing</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Housing</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">4</container>
+                <unittitle>Fires</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">4</container>
+                <unittitle>Miscellaneous activities</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">4</container>
+              <unittitle>Library</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Schools</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">4</container>
+                <unittitle>Classroom scenes-Art</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">4</container>
+                <unittitle>Classroom scenes-General</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">4</container>
+                <unittitle>Exteriors </unittitle>
+                <physdesc>
+                  <extent>2 folders</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">4</container>
+                <unittitle>Miscellaneous activities-Adults</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">4</container>
+                <unittitle>Miscellaneous activities-Children</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">4</container>
+                <unittitle>Staff and administration</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

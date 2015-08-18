@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::trevorjb.xml//EN" encodinganalog="identifier">umich-bhl-87161</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for John Bond Trevor Papers <date>1921-1951</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Thomas E. Powers </author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1984</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>May 2001</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>2010-0802</date><item>Change made to indicate opening of collection.</item></change>
+<change><date>20061106</date><item>accessrestrict tags added, closed until Aug. 2010</item></change>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>2001-06-08</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>John Bond Trevor Papers, <date type="inclusive">1921-1951</date></titleproper><author>Finding aid prepared by: <lb/>Thomas E. Powers</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Trevor, John Bond, 1878-</persname></origination>
+<unittitle encodinganalog="245">John Bond Trevor Papers
+<unitdate type="inclusive" encodinganalog="245$f">1921-1951</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">2 linear feet</extent></physdesc>
+<abstract>New York attorney, officer of the American Coalition of Patriotic,  Civic and Fraternal Societies, 1927-1950, and activist in the movement to restrict immigration into the United States. Minutes, resolutions, and other records of the American Coalition; also correspondence of Trevor with congressman Albert Johnson of Washington state relating to immigration matters.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">87161 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository encodinganalog="852"><corpname><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The Trevor papers were donated by John B. Tevor, Jr. and came to the the library thorugh Dr. John Tanton (Donor no. <num type="donor" encodinganalog="541$e">7087</num>).</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open to research.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., John Bond Trevor Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>John B. Trevor was born November 19, 1878 in Yonkers, New York.  He was educated at Harvard (B.A., 1902; M.A., 1903) and the Columbia University Law School (LL.B., 1906).  During World War I, Trevor served in the Military Intelligence Division as Commander (1918-1918).  He next served as deputy attorney general of the state of New York (1919), then in 1920 as associate counsel for the U.S. Senate Subcommittee on Foreign Relations andadditional, as counsel of the New York State Legislative Committee Investigating Subversive Activities.  In 1924, he assisted in the writing of the Immigration and Naturalization Act with its provisions for limiting immigration to a percentage of the number derived from census data of each nationality then living in the United States.</p>
+<p>Much of Trevor's career was devoted to various efforts to restrict immigration into the United States.  He was a founder and chairman of the board of the American Coalition of Patriotic Societies (1927-1933), and later president of the American Coalition (1933-1955).</p>
+<p>Trevor was active in other patriotic societies, including the Sons of the American Revolution.  He was also author of different works on immigration policy.  He died February 20, 1956.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The papers of John B. Trevor relate primarily to his association with the American Coalition of Patriotic Societies (beginning in 1929) and his association with Albert Johnson, chairman of the Committee on Immigration and Naturalization of the US House of Representatives.  The collection is an important resource for the study of various immigration restriction legislation in the 1920s.</p></scopecontent>
+
+<controlaccess>
+
+<controlaccess><head>Subjects:</head><corpname source="lcnaf" encodinganalog="610">American Coalition of Patriotic, Civic and Fraternal Societies.</corpname><subject source="lcsh" encodinganalog="650">Immigrants--United States.</subject><persname source="lcnaf" encodinganalog="600">Johnson, Albert, 1869-1957.</persname><persname source="lcnaf" encodinganalog="600">Trevor, John Bond, 1878-</persname><geogname source="lcsh" encodinganalog="651">United States--Emigration and immigration.</geogname></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>American Coalition of Patriotic Societies</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Origins (April 6, 1929), papers regarding, <unitdate type="inclusive">1929-1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Advisory board meeting, <unitdate type="inclusive">1931</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Various documents, <unitdate type="inclusive">1930-1933</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Various documents, <unitdate type="inclusive">1930s-1940s</unitdate></unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Committee reports</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Committee correspondence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Executive Committee minutes, <unitdate type="inclusive">1934-1951</unitdate>  (scattered)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Executive Committee correspondence, <unitdate type="inclusive">1937-1944</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Coalitionist</title>, <unitdate type="inclusive">1929-1932</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Proceedings of Annual Meetings, <unitdate type="inclusive">1935-1951</unitdate></unittitle><physdesc><extent>20 booklets</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Article: "Union Now" and related background information, <unitdate type="inclusive">1941</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Albert Johnson</unittitle></did><note><p>chairman of the Committee on Immigration and Naturalization of the US House of Representatives</p></note>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Correspondence, bills, and other materials, <unitdate type="inclusive">1921-1930</unitdate></unittitle><physdesc><extent>17 folders</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><unittitle>The World That Was</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Testimony of John B. Trevor before congressional committees, bulletins, and letters, <unitdate type="inclusive">1934-1950</unitdate></unittitle><physdesc><extent>2 binders</extent></physdesc></did></c02></c01></dsc></archdesc></ead>   

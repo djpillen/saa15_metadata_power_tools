@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::grandcon.xml//EN" encodinganalog="Identifier">
+umich-bhl-86756</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Grandville-Jenison Congregational Church (Grandville, Mich.) records, 1838-1936
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>May 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2012-11-09</date><item>The originals were returned to the donor in 2012. The finding aid was changed as only microfilmed records are now available.</item></change><change><date>2007-05-11</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Grandville-Jenison Congregational Church <lb/>(Grandville, Mich.) <lb/>Records, 1838-1936</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Grandville-Jenison Congregational Church (Grandville, Mich.)
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Grandville-Jenison Congregational Church (Grandville, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1838-1936
+</unitdate>
+
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 microfilm roll
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86756 mf 634c
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Church formed from merger of First Congregational Church, Grandville, and Jenison Congregational Church; church records.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was deposited by church through Rev. Walter M. Swann (donor no. <num type="donor" encodinganalog="541$e">666</num>) in 1939.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<originalsloc><p>The originals were returned to the donor in 2012.  The library has only the microfilm copy.</p></originalsloc><prefercite encodinganalog="524"><p>[item], folder, box,
+Grandville-Jenison Congregational Church (Grandville, Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Grandville-Jenison Congregational Church was formed by the merger of the First Congregational Church of Grandville and the Jenison Congregational Church. </p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The record group includes records of the individual churches. Records of the First Congregational Church of Grandville include minutes and membership lists, 1838-1934, minutes of the Congregational Society, 1863-1891, and of the Sunday School, 1868-1885 and 1908. Records of the Jenison Congregational Church include minutes and membership records, 1903-1936. Other records include articles of association, historical notes, and miscellaneous correspondence, notices, and receipts.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Congregational Churches--Michigan--Grandville.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Congregational Churches--Michigan--Jenison.</corpname>
+<geogname source="lcsh" encodinganalog="651">Grandville (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Jenison (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Grandville-Jenison Congregational Church (Grandville, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">First Congregational Church (Grandville, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Jenison Congregational Church (Jenison, Mich.)</corpname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>First Congregational Church, Grandville</unittitle></did>
+<c02 level="file"><did><unittitle>Minutes and membership lists</unittitle></did>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">1838-1869</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">1868-1907</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">1907-1916</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">1917-1934</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Minutes of Congregational Society, <unitdate type="inclusive">1863-1891</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Sunday School minutes, membership lists, accounts</unittitle></did>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">1868-1885</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">1908</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Jenison Congregational Church</unittitle></did>
+<c02 level="file"><did><unittitle>Minutes and membership lists</unittitle></did>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">1903-1924</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">1923-1936</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other records</unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Articles of association; incorporation materials</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Historical notes</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Miscellaneous (correspondence, notices, receipts, etc.)</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

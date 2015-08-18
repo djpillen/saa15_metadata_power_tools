@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::pontaul.xml//EN" encodinganalog="identifier">
+umich-bhl-9144
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Pontiac Area Urban League Records, 1950-1989
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Lisa Pratt</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2005 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Lisa Pratt, 
+<date>April 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050405</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Pontiac Area Urban League Records, 1950-1989</titleproper>
+
+<author>Finding aid created by<lb/> 
+Lisa Pratt, January 1991</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory"  relatedencoding="marc21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Pontiac Area Urban League.
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Pontiac Area Urban League records  
+<unitdate type="inclusive" encodinganalog="245$f">
+1950-1989
+</unitdate>
+
+<unitdate  type="bulk" encodinganalog="245$g">
+1978-1987
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.7 linear ft. (in 2 boxes)
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+9144 Bd 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Pontiac, Michigan, chapter of the National Urban League.  The record group includes scattered minutes and annual reports, clippings and scrapbooks, publications, subject files relating to chapter activities, and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was donated in December 1990 by the Pontiac Area Urban League through the president, Jacqueline Washington (Donor No. <num type="donor" encodinganalog="541$e">7879</num>).  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been retained by the Pontiac Area Urban League.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Pontiac Area Urban League Records
+, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Pontiac Area Urban League (PAUL) was formed in 1950, replacing the Southwest Community Center, as a service agency designed to improve living conditions, health, welfare, education, employment opportunities, and housing for Blacks and other minority groups in the Pontiac area.  It is an affiliate of the National Urban League.</p>
+<p>The majority of the collection dates from 1978 to 1987, during which time PAUL had two major committees, the Education Committee and the Employment Services Committee. PAUL was committed to the belief that the future of Pontiac youth was dependent upon the education they received.  Events organized by the Education Committee have included a rally in 1979 encouraging voters to support an increase in property taxes in order to improve the Pontiac school system.  In 1981, the committee established the Hubbard-McNeill scholarship fund for honor students in science and technology fields in which minorities have a small representation, and, in 1982, it organized a summer tutorial program in math and reading for high school students.  PAUL also sponsored numerous youth group activities and workshops for all ages designed to promote leadership qualities and encourage education.</p>
+<p>The Employment Services Committee was devoted to job training and placement of minorities and encouraged Pontiac High School to offer courses in career planning and vocational studies.  It organized annual job fairs and began a job placement program with area employers which included screening of applicants, referrals to employers and follow-up calls.  Also, the president of PAUL, Hugh Jackson, hosted a weekly radio program which discussed such topics as career training and hiring of minorities.</p>
+<p>The Health Task Force of PAUL promoted health education through such activities as a free sickle cell screening clinic in 1980 in cooperation with the NAACP of Oakland County and free dental screenings for children in 1985.</p>
+<p>Other activities of note are the Pontiac Area Urban League's Martin Luther King, Jr. commemorations, especially the "Pontiac Area 1978 Martin Luther King, Jr. Day Observances" and the Martin Luther King, Jr. week in 1987.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520"><p>This record group is a valuable source of information regarding community activities in the Pontiac area during the years 1978 to 1987 and documents PAUL's continuing efforts to provide minorities with a better quality of life.  The series in the record group include: Reports and Minutes; Topical Files; Publications/Newspaper Clippings; and Photographs. Most of the information regarding Pontiac Area Urban League's involvement in the community can be found in the files of newspaper clippings and scrapbooks. The photographs and slides depict youth group activities and workshops and job fairs and employees in the job placement program.  Of particular interest are photographs documenting poor housing conditions in the Pontiac area.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">African Americans--Michigan--Pontiac.</subject>
+<geogname source="lcsh" encodinganalog="651">Pontiac (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Pontiac Area Urban League.</corpname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">African Americans--Michigan--Pontiac.</subject>
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Pontiac.</subject>
+<subject source="lctgm" encodinganalog="650">Occupations.</subject>
+<geogname source="lcsh" encodinganalog="651">Pontiac (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Pontiac Area Urban League.</corpname>
+<subject source="lctgm" encodinganalog="650">Privies.</subject>
+<subject source="lctgm" encodinganalog="650">Slums--Michigan--Pontiac.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+</controlaccess></controlaccess>
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Reports and minutes</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Statement of Mission</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, Board of Directors, <unitdate type="inclusive">1979-1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Reports, <unitdate type="inclusive">1979</unitdate> and <unitdate type="inclusive">1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Report to National Urban League, <unitdate type="inclusive">1986</unitdate></unittitle></did><note><p>includes <genreform normal="Photographs">photos</genreform> of activities</p></note></c02></c01>
+
+<c01 level="series"><did><unittitle>Topical files</unittitle></did>
+<c02 level="file"><did><unittitle>Annual Dinners</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1973</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1978</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1980</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1982</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1984</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1987</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches of PAUL Officers, <unitdate type="inclusive">1980</unitdate> and <unitdate type="inclusive">1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Editorials of PAUL Officers, <unitdate type="inclusive">1977</unitdate> and <unitdate type="inclusive">1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Project SEED</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Martin Luther King, Jr. Commemorations</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellanea, <unitdate type="inclusive">1970-1977</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1978</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellanea, <unitdate type="inclusive">1979</unitdate></unittitle></did></c03></c02></c01>
+
+<c01 level="series"><did><unittitle>Publications/Newspaper clippings</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters, <unitdate type="inclusive">July 1978-February 1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Publications</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1978</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1980</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1981</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1982-1984</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1985</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Pontiac-Metro Citizen's Post</title>, <unitdate type="inclusive">September 1985-March 1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Newspaper Clippings</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>PAUL Activities, <unitdate type="inclusive">1978-1982</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Martin Luther King, Jr. Commemorations, <unitdate type="inclusive">1978-1983</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Martin Luther King, Jr. Week, <unitdate type="inclusive">January-February 1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Twentieth Anniversary of <unitdate type="inclusive">1967</unitdate> Riots, <unitdate type="inclusive">July 1987</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Scrapbook</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1950-1962</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1970-1972</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1986</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1989</unitdate></unittitle></did></c03></c02></c01>
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Captioned and mounted, PAUL activities</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Housing Conditions</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>PAUL Activities</unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Slides, Job Fair <unitdate type="inclusive">1974</unitdate> and Youth Activities <unitdate type="inclusive">1973</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

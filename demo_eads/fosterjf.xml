@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::fosterjf.xml//EN" encodinganalog="Identifier">
+umich-bhl-88420</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+James Foster Foundation records, 1950-1963
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Audra Bellmore</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-05</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+James Foster Foundation records, 1950-1963</titleproper>
+
+<author>Finding aid created by<lb/> 
+Audra Bellmore, 1993</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+James Foster Foundation.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+James Foster Foundation records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1950-1963
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+88420 Bm 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Correspondence, reports, and financial statements, dealing with the foundation's support of marriage counseling, child guidance programs, and other social programs.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was donated by Paul Proud Jr. (Donor No. <num type="donor" encodinganalog="541$e">4075</num>) in 1963.  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+James Foster Foundation records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Founded in 1950 by Clarice N. Foster as a memorial to her late husband, James Foster of Ann Arbor, Michigan, the James Foster Foundation was established to "promote the welfare of mankind through educational, charitable, and religious pursuits, with particular emphasis on the general welfare of the people of Michigan."  During the thirteen years of its corporate life, the foundation made grants to organizations generally described as charitable, educational, religious, scientific, and literary, or to civic organizations concerned with social welfare.  In addition, it provided scholarships and loans and other assistance to students at the University of Michigan.  The Foundation ceased operation in 1963 after its funds had been distributed to various charitable organizations.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The James Foster Foundation records (0.5 linear feet) document the organization's charitable activities between 1950 and 1963, with the bulk covering the period 1950-1956.</p>
+     
+<p>The collection is arranged into folders containing background clippings, bylaws and governing documents, board minutes, financial materials, and correspondence.  In addition, there are a few files relating to specific activities of the Foundation, notably the evaluative research in social work conducted by David French and the Michigan Welfare League, a marriage counseling program for Washtenaw County, and a Michigan Foundation's conference sponsored in 1954.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Charitable uses, trusts and foundations--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Child welfare--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Endowments--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">James Foster Foundation (Ann Arbor, Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Marriage counseling.</subject>
+<corpname source="lcnaf" encodinganalog="610">Michigan Foundations (Organization)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan Welfare League.</corpname>
+<subject source="lcsh" encodinganalog="630">Michigan reconnaissance study on evaluative research in social work.</subject>
+<subject source="lcsh" encodinganalog="650">Social service--Michigan.</subject>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Corporate records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Background clippings, <unitdate type="inclusive">1950-1952</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bylaws and governing documents, <unitdate type="inclusive">1950-1961</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1950-1963</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial materials, <unitdate type="inclusive">1950-1963</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1950-1956</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Real estate</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Topical Files</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>French, David G. and the Michigan Welfare League, <unitdate type="inclusive">1949-1955</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>French, David G. and the Michigan Welfare League, Book Chapters of <title render="italic">Evaluative Research and Social Work</title></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Marriage Counseling Service, <unitdate type="inclusive">1951-1953</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Foundations Conference, <unitdate type="inclusive">1954</unitdate></unittitle></did></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

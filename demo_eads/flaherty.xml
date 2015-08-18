@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::flaherty.xml//EN" encodinganalog="identifier">umich-bhl-86526</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for  Edward Flaherty papers,<date>1918-1919.</date></titleproper>
+<author encodinganalog="creator">Finding aid prepared by Len Coombs</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2003-06</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Len Coombs, <date>2003-05</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20091222</date><item>Edited for style LAC</item></change>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20030530</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+<titleproper>Finding Aid for <lb/>Edward Flaherty papers,<date>1918-1919.</date></titleproper>
+<author>Finding aid prepared by: <lb/>Len Coombs</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Flaherty, Edward.</persname></origination>
+<unittitle encodinganalog="245">Edward Flaherty papers
+<unitdate type="inclusive" encodinganalog="245$f">1918-1919.</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">2  folders</extent></physdesc>
+<abstract>Member of Co. H, 339th U.S. Infantry who served in the Allied intervention in Russia, 1918-1920, the 
+"Polar Bear Expedition." Collection includes field diary recounting the Polar Bear expedition and photographs of Archangel and members of the expedition. </abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">86526 Aa 1</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was donated by Edwrd Flaherty, of Detroit, Michigan, in 1964 
+(Donor no.: <num type="donor" encodinganalog="541$e">4193</num>).</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Edward Flaherty papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Served with <corpname normal="United States. Army. Infantry, 339th. Company H.">Co. H, 339th Infantry</corpname>.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The collection contains a copy of the field <genreform normal="Diaries.">diary</genreform> of 
+<corpname normal="United States. Army. Infantry, 339th. Company H.">Co. H</corpname>, Sept. 1918-Apr. 1919, describing the company's service 
+on the <geogname normal="Onega (Russia)">Onega</geogname> front, including fighting at <geogname normal="Chekuyevo (Russia)">Chekuevo</geogname>, 
+Sept. 1918; <geogname normal="Wazentia (Russia)">Wazentia[?]</geogname>, Oct. 1918; <geogname normal="Turchasovo (Russia)">Turchasovo</geogname>, 
+Dec. 1918; <geogname normal="Chinova (Russia)">Chinova</geogname>, March 1919; and <geogname normal="Bol'shiye Ozerki (Russia)">Bolshie Ozerki</geogname>, 
+March and April 1919. Also included are 34 <genreform normal="Photographs.">photos</genreform> by the <corpname normal="American Red Cross.">American 
+Red Cross</corpname>, containing <genreform normal="Group portraits.">group portraits</genreform> and 
+<genreform normal="Photographs.">pictures</genreform> of base areas, churches, Russian people, soldiers on patrol, and fortifications, all taken 
+in the <geogname normal="Onega (Russia)">Onega</geogname>-<geogname normal="Chekuyevo (Russia)">Chekuevo</geogname> area.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects</head>
+<persname source="lcnaf" encodinganalog="600">Flaherty, Edward.</persname>
+<geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied Intervention, 1918-1920.</geogname>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+<subject source="local" encodinganalog="690">Polar Bear Expedition.</subject></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Diaries.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Field diary</unittitle></did>
+
+<c02 level="file"><did><container type="folder" label="Folder">1</container>
+<unittitle><unitdate type="inclusive">1918-1919</unitdate></unittitle>
+<physdesc><extent>1 item</extent></physdesc></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Photographs</unittitle></did>
+
+<c02 level="file"><did><container type="folder" label="Folder">2</container>
+<unittitle><unitdate type="inclusive">1918-1919</unitdate></unittitle>
+<physdesc><extent>34 prints</extent></physdesc></did></c02></c01></dsc></archdesc></ead>    

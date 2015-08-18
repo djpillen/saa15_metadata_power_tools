@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::coakleyj.xml//EN" encodinganalog="Identifier">
+umich-bhl-2009185</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+James F. Coakley Papers, 1966-1971
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Jessica Scott, November 2009</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2009">
+2010</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>20100210</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2010-02-10</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>University Archives and Records Program<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+James F. Coakley Papers, 1966-1971
+</titleproper>
+      <author>Finding aid created by<lb /> 
+Jessica Scott, November 2009
+</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<corpname source="lcnaf" encodinganalog="110">
+Coakley, James F. 
+</corpname></origination>
+      <unittitle encodinganalog="245">
+James F. Coakley papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1966-1971
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+1 linear foot
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2009185 Aa 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+James F. Coakley was an assistant professor in the Department of Speech at the University of Michigan from 1966 to1971.  Focusing mainly in theatre and literary interpretation, he was responsible for directing and managing many of the plays that were put on by the University Players during his time at the University of Michigan.  Notable productions include <title render="italic">The Homecoming</title>, <title render="italic">Lysistrata</title>, <title render="italic">Much Ado About Nothing</title>, <title render="italic"></title> and Arthur Miller's <title render="italic">After the Fall</title> .  Includes photographs from a 1967 production of <title render="italic">After the Fall</title> where Arthur Miller was present.  Also scrapbooks, photos, and slides from other productions by the University of Michigan's University Players during 1966-1971. 
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload" /></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+Material was received in October 2009 (donor 
+<num type="donor" encodinganalog="541$e">10281</num>).
+ 
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>Periodic additions to the records expected.</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>The collection is open without restriction.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright status is undetermined.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+James F. Coakley Papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+      <processinfo>
+        <p>A small amount of processing was conducted for this collection, including re-housing of the slides, the removal of materials from binders, and conservation efforts to remove photographs that were glued to their original backing board. </p>
+        <p>The dates of the plays in the Slides series are based on the dates posted on the slides themselves, which is the date of development, not the date of the play itself (please refer to the scrapbooks for individual dates). </p>
+      </processinfo>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>James Francis Coakley was born on December 12, 1933, in Pittsburgh, Pennsylvania.  He earned his BFA at the Carnegie Mellon Institute of Technology in 1955.  From 1956 to 1958, he served in the U.S. Army Signal Corps working as a cryptographer.  In 1959, he earned his MA from the University of Minnesota, and soon after earned his Ph.D. from Northwestern University in 1964.  During his years as a student, he earned a Mellon Scholarship while attending the Carnegie Mellon Institute of Technology, a graduate scholarship from Northwestern University, and a Woodrow Wilson Dissertation Year Fellowship. </p>
+      <p>In the late 1950s and early 1960s, Coakley was involved in many local theaters (in Northport, NY, Pittsburgh, PA, and at the University of Minnesota), serving either as director or stage manager.</p>
+      <p>Coakley first taught at Loyola University, then the University of Michigan, and concluded his teaching career at Northwestern University.  He also taught for a short time at Roosevelt University, and served as a visiting professor at the Art Institute of Chicago.   </p>
+      <p>While at the University of Michigan, Coakley taught classes on the technical aspects of theatre, and was in charge of the stage design or directorship for major productions of the Speech Department, such as <title render="italic">The Homecoming, Lysistrata, Much Ado About Nothing,</title> and<title render="italic">After the Fall</title> . Some of his research topics included Shakespeare promptbooks and Shaw-Craig literary and theatrical relations. </p>
+      <p>Coakley was a member of many theatre-related organizations, including the American Educational Theatre Association, the Speech Association of America, the American National Theatre and Academy, and the Shaw Society. </p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The collection provides some documentation of plays Coakley staged  with the University Players, notably Arthur Millers <title>After the Fall</title>,  and lecture notes for  courses he taught.  The collection is organized into three series: "After the Fall",   Photographic Slides, Speech 230 “The Arts of the Theatre” and Scrapbooks.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <persname source="lcnaf" encodinganalog="600">Coakley, James F.</persname>
+        <subject source="lcsh" encodinganalog="650">Drama.</subject>
+        <persname source="lcnaf" encodinganalog="600">Miller, Arthur, 1915-2005.</persname>
+        <subject source="lcsh" encodinganalog="650">Theater--Michigan--Ann Arbor.</subject>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Speech.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Dramatics.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University Players (University of Michigan)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <persname source="lcnaf" encodinganalog="600">Coakley, James F.</persname>
+        <persname source="lcnaf" encodinganalog="600">Miller, Arthur, 1915-2005.</persname>
+        <subject source="lctgm" encodinganalog="650">Theatrical productions.</subject>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Speech.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University Players (University of Michigan)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>"After the Fall," <unitdate type="inclusive">1967</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>The "After the Fall" series is composed of a binder of black and white photographs from the performance of Arthur Miller's play in March 1967.  Arthur Miller was present during this particular performance, and is visible in many of the photographs.  The first folder contains the cover of the original binder that housed the photographs.  It was saved because there is a label on the cover that describes the contents of the binder . The remaining folders contain the photographs themselves, removed from their original cardboard backings. </p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>"After the Fall" binder cover, <unitdate type="inclusive">1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>"After the Fall" scrapbook photographs, <unitdate type="inclusive">1967</unitdate> </unittitle>
+            <physdesc>
+              <extent>2 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Slides</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Slides series contains three folders of Kodachrome slides from the plays Coakley was involved with, ranging from the years 1966 to 1971.  The names of the plays are usually written on the slides themselves.  The plays include <title render="italic">Camino Real, Sgt. Musgrave's Dance</title>, <title render="italic">The Homecoming</title>  , <title render="italic">The Ghost Sonata</title>  ,<title render="italic">Major Barbara</title>  ,<title render="italic">Lysistrata</title>, <title render="italic">Of Mice and Men</title>, <title render="italic">Much Ado About Nothing</title>, <title render="italic">The Balcony</title>  ,<title render="italic">Plough</title>, <title render="italic"></title>  and an unidentified play from 1970 to 1971. </p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>"Camino Real," "Serjeants Musgrave's Dance," "The Homecoming," "The Ghost Sonata," "Major Barbara," "Lysistrata, 1970"</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>"Of Mice and Men," "Much Ado About Nothing," "The Balcony," "The Plough and the Stars," <unitdate type="inclusive">1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">1970-1971</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Speech 230 "The Arts of the Theatre"</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Speech 230 series contains four folders of lecture notes from a class called "The Arts of the Theatre" taught by Coakley.  The course surveyed the arts and crafts which contribute to theatrical performance.  The notes cover many aspects of conducting a stage production (directing, acting, stage design, analysis of plays, etc). </p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Lecture Notes, <unitdate type="inclusive">ca. 1969</unitdate> </unittitle>
+            <physdesc>
+              <extent>4 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbooks</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Scrapbooks series contains four scrapbooks with reviews, articles, photographs, and programs from plays that Coakley was involved with, dating from 1966 to 1971.  The productions featured the University of Michigan University Players.  The majority of the material is pasted to the scrapbook pages, although some have separated. The photographs are either silver halide, color, or Polaroid.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>University Players, <unitdate type="inclusive">1966-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>University Players, <unitdate type="inclusive">1966-1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>University Players, <unitdate type="inclusive">1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>University Players, <unitdate type="inclusive">1969-1971</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

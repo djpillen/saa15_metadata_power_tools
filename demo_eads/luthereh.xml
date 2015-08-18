@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::luthereh.xml//EN" encodinganalog="Identifier">
+umich-bhl-85275</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+E. Hardy Luther papers, 1945-1982
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+John D. Beatty </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-11-25</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+E. Hardy Luther papers, 1945-1982</titleproper>
+
+<author>Finding aid created by<lb/> 
+John D. Beatty, 1984</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Luther, E. Hardy, 1898-1982.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+E. Hardy Luther papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1945-1982
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85275 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Executive and historian of Consumers Power Company of Michigan. Correspondence, speeches, articles, and copy of his history of the company entitled, "Song of Service; A Century of Consumers Power Company and Its Predecessors"; also include articles on history of Jackson County, Michigan; and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of E. W. Luther (donor no. <num type="donor" encodinganalog="541$e">2181</num>).  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+E. Hardy Luther papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>E. Hardy Luther was born on August 25, 1898 in Grand Rapids, Michigan. After graduation from Jackson High School and the University of Michigan, Luther joined Consumers Power Company in 1921. He served as an assistant to the Division Manager of Pontiac from 1926 to 1943, at which time he was transferred to Kalamazoo. In 1951 Luther was promoted to General Training and Educational Supervisor, and in 1956 to General Personnel Development Supervisor.</p>
+
+<p>In the 1940s, Luther became interested in the history of Consumers Power and began recording the recollections of past company employees. The result of his efforts was a company history entitled, "Song of Service: A Century of Consumers Power Company and Its Predecessors, 1856-1956." Luther also maintained an interest in the local history of Jackson and Kalamazoo. He wrote a history of St. Paul's Church in Jackson, and, as a member of the Jackson County Historical Society, gave numerous lectures on Jackson history and the history of electrical power in Michigan.</p>
+
+<p>Luther died in 1982.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The papers of E. Hardy Luther reflect his life-long interest in Consumers Power and the local history of Jackson County. Luther's history of Consumer's Power, "Song of Service," comprises the bulk of the collection. The several inches of Luther's personal papers include correspondence, speeches, interviews, and unpublished articles relative to the development of electrical power in Michigan, management techniques of Consumers Power and the history of the Jackson Community in the 19th century.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Consumers Power Company.</corpname>
+<subject source="lcsh" encodinganalog="650">Electric industries.</subject>
+<geogname source="lcsh" encodinganalog="651">Jackson County (Mich.)--History.</geogname>
+<persname source="lcnaf" encodinganalog="600">Luther, E. Hardy, 1898-1982.</persname>
+<subject source="lcsh" encodinganalog="650">Public utilities--Michigan.</subject>
+<title source="aacr2" encodinganalog="740">Song of service.</title>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<geogname source="lcsh" encodinganalog="651">Au Sable River (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Business enterprises--Michigan--Kalamazoo.</subject>
+<corpname source="lcnaf" encodinganalog="610">Consumers Power Company.</corpname>
+<subject source="lctgm" encodinganalog="650">Fishing--Michigan--Au Sable River.</subject>
+<geogname source="lctgm" encodinganalog="651">Kalamazoo (Mich.)--Business enterprises.</geogname>
+<subject source="local" encodinganalog="690">Wanigans.</subject>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Consumer's Power / Jackson County</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1945-1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Jackson County High School Alumni correspondence and programs, <unitdate type="inclusive">1952-1972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches and Interviews re: Michigan History and Business Management, <unitdate type="inclusive">1951-1970s</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Articles (unpublished) on Michigan History, <unitdate type="inclusive">ca. 1950-1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Jackson County Historical Associations articles and honorary Material, <unitdate type="inclusive">1975-1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Consumers Power Company history</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches and Unpublished Articles, <unitdate type="inclusive">1958-1959</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Song of Service: A History of Consumers Power Company, 1856-1956" </unittitle> <physdesc><extent>4 volumes</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform>, <unitdate type="inclusive">ca. 1912</unitdate> of Consumers Power Company employees and investors camping and traveling by wanigan on the Au Sable River; also copy print photographs of the Kalamazoo, Michigan business district, <unitdate type="inclusive">ca. 1856</unitdate> and <unitdate type="inclusive">1875</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

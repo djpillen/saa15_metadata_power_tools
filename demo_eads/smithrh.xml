@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::smithrh.xml//EN" encodinganalog="Identifier">
+umich-bhl-2010084</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Roberta Holland Smith papers, ca. 1900-ca. 2000
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff, 2010 </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2010">
+2010</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2010</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2010-05-14</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Roberta Holland Smith papers, ca. 1900-ca. 2000</titleproper>
+      <author>Finding aid created by<lb /> 
+Michigan Historical Collections staff, 2010</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">
+Smith, Roberta Holland.
+</persname>
+      </origination>
+      <unittitle encodinganalog="245">
+Roberta Holland Smith papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1900-ca. 2000
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+0.6 linear feet and 1 oversize folder
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2010084 Aa 2; UAm
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload" />
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was the gift of Steve Smith (donor no. <num type="donor" encodinganalog="541$e">10347</num>) and came to the library in 2010.</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+The donor has transferred his copyright to the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Roberta Holland Smith papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Roberta Holland was a 1939 graduate of Ann Arbor High School. On February 17, 1945, she married Ogden ("Bud") Clark Smith. A dedicated family historian and genealogist, Roberta Holland Smith wrote about herself and her family and collected materials relating to various family lines, including the Schmid family, the Holland family and the Kingsbury family.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Roberta Holland Smith collection includes personal and autobiographical material, collected genealogical information about the Schmid, Holland and Kingsbury families. Portraits of family members are scattered throughout the collection.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">Ann Arbor High School (Mich.). Class of 1939.</corpname>
+        <famname source="lcnaf" encodinganalog="600">Holland family.</famname>
+        <famname source="lcnaf" encodinganalog="600">Kingsbury family.</famname>
+        <persname source="lcnaf" encodinganalog="600">Smith, Roberta Holland.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <corpname source="lcnaf" encodinganalog="610">Ann Arbor High School (Mich.). Washington Club.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Personal Materials and Writings</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Autobiography</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Ann Arbor High School and World War II memorabilia</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Stories (with some scanned <genreform normal="Photographs">photographs</genreform>); topics include Sand Lake, Mother, "M.O.M., My Other Mother"</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Ann Arbor High School, Class of <unitdate type="inclusive">1939</unitdate> material</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Ann Arbor High School, Class of <unitdate type="inclusive">1939</unitdate> 50 Year Reunion, <unitdate type="inclusive">1989</unitdate></unittitle>
+            <physdesc>
+              <physfacet>
+                <genreform normal="Videotapes">VHS videotape</genreform>
+              </physfacet>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Family / Genealogical Materials</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>Schmid family</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Genealogy and related information</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Miscellaneous</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Schmid / Mann family <genreform normal="Photographs">portraits</genreform></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Howard Kingsbury Holland and related family members </unittitle>
+            <physdesc>
+              <extent>2 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Holland family <genreform normal="Photographs">portraits</genreform></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>John M. Holland reminiscence entitled "John M. Holland Remembers"</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Kingsbury family</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Sand Lake, Lenawee County, Michigan</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Roberta Holland Smith genealogical research files </unittitle>
+            <physdesc>
+              <extent>3 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Family <genreform normal="Photographs">portraits</genreform> (largely unidentified)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder" label="Oversize Folder">1</container>
+            <unittitle>Ann Arbor High School Girls Washington Club group <genreform normal="Photographs">portrait</genreform> near Lincoln Memorial, <unitdate type="inclusive">April 11, 1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder" label="Oversize Folder">1</container>
+            <unittitle>Betty and Lee Nelson <genreform normal="Photographs">photograph album</genreform>, <unitdate type="inclusive">1944-1994</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

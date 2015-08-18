@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::umcoe47.xml//EN" encodinganalog="identifier">
+umich-bhl-2009093</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+College of Engineering, Class of 1947 (University of Michigan) records, 1952-2007
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+David Rosenfeld, May 2009</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20090625</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+College of Engineering, Class of 1947 <lb/>(University of Michigan) <lb/>records, 1952-2007
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+David Rosenfeld, May 2009
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. College of Engineering. Class of 1947.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+College of Engineering, Class of 1947 (University of Michigan) records
+<unitdate type="inclusive" encodinganalog="245$f">
+1952-2007
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+2009093 Bimu 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Files relating to class reunions of the University of Michigan College of Engineering class of 1947, dating from 1952 to 2007.  Records include plans for a major gift to the university at the 50th reunion (a reflecting pool) and biographical information on class members.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection (Donor No. <num type="donor" encodinganalog="541$e">8736</num>) was received in one accession on 1/09/08 from Edward E. Moon, member of the class.
+<num type="donor" encodinganalog="541$e">8736</num>
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The records are are open without restriction.</p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+College of Engineering, Class of 1947 (University of Michigan) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The class of 1947 of the University of Michigan College of Engineering included students who entered the university over a broad range of years, since most had left school during World War II to serve in the military.  Although many students were considered class of 1947 by the university based on the year they completed their degrees, many 1947 graduates affiliated themselves with the class they enrolled with prior to leaving for military service.</p>
+
+<p>The records from 1947 to 1987 were created by class president Harold L. Walters.  After his death, class management responsibilities were taken on by Edward E. Moon.</p>
+
+
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The material in the University of Michigan College of Engineering Class of 1947 records relate mainly to class reunions, held every five years from 1952 through 2007, including materials related to fundraising for and planning of the 50th reunion gift, a reflecting pool and fountain on the university's North Campus.</p>
+
+<p>The material also includes responses to questionnaires sent out around each reunion collecting information about class members since graduation relating to their occupations and personal lives.  A complete roster of the class as of 1987 was compiled for the 40th reunion and can be found in that folder.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Engineers--Michigan--Ann Arbor.</subject>
+<geogname source="lcsh" encodinganalog="651">North Campus (University of Michigan)</geogname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Alumni and alumnae.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Engineering.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Class of 1947.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Engineering. Class of 1947.</corpname>
+</controlaccess>
+
+
+
+
+
+
+
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>5th Reunion: Reunion report and photo, <unitdate type="inclusive">1947-1952</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>10th Reunion: Reunion report, including class survey, <unitdate type="inclusive">1952-1957</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>15th &amp; 20th Reunion: Reunion planning materials and class survey responses for 15th reunion, <unitdate type="inclusive">1957-1967</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>25th &amp; 30th Reunion: Reunion planning materials and class survey responses for 25th reunion, <unitdate type="inclusive">1967-1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>35th &amp; 40th Reunion: Reunion planning materials and class survey responses and roster for 40th reunion, <unitdate type="inclusive">1977-1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>45th Reunion: Reunion planning materials and class survey responses, <unitdate type="inclusive">1987-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>50th Reunion/Class Gift: Correspondence and plans related to 50th-reunion class gift (reflecting pool and fountain to be built on UM North Campus), <unitdate type="inclusive">1992-1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>50th Reunion/Class Gift: Correspondence and plans related to 50th-reunion class gift, <unitdate type="inclusive">1992-1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>55th Reunion: Reunion planning materials and class survey responses, <unitdate type="inclusive">1997-2002</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>60th Reunion: Reunion planning materials and class survey responses, <unitdate type="inclusive">2002-2007</unitdate></unittitle></did></c02></c01>
+
+
+</dsc>
+
+<descgrp type="add"><relatedmaterial><head>Related Material</head><p>Directories (1997, 2002, 2007) and newsletters (1972) for the Engineering Class of 1947 are housed separately in University of Michigan College of Engineering publications record group under subunit publications.</p></relatedmaterial></descgrp></archdesc>
+
+
+
+</ead>

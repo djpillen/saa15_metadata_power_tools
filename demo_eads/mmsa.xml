@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::mmsa.xml//EN" encodinganalog="identifier">
+umich-bhl-9539
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Michigan Medical Self-Determination Association Records, 1984-1992 
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Kathy L. Steiner </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2004 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Kathy L. Steiner, 
+<date>July 2004</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20040727 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Michigan Medical Self-Determination Association <lb/> Records, 1984-1992</titleproper>
+
+<author>Finding aid created by<lb/> 
+Kathy L. Steiner,1995</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory"  relatedencoding="marc21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Michigan Medical Self-Determination Association
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Michigan Medical Self-Determination Association Records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1984-1992
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+9539 Bj 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Advocacy organization officially established to defend the rights of terminally-ill patients.  The focus of the organization was directed toward legislative and educational activities. Series in collection include Board of Directors consisting of minutes, correspondence, bylaws and resolutions, and related materials; Educational/Outreach Activity consisting of subject files, newsletters, and press releases; and Legislative/Lobbying Activity which includes correspondence,  copies of bills, and statements about legislation. 
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Ronald Bishop for the organization in March 1995 (Donor No. <num type="donor" encodinganalog="541$e">8339</num>).      
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Michigan Medical Self-Determination Association Records
+, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Originally the Living Will Association of Washtenaw County (LAW), the Michigan Medical Self-Determination Association (MMSA), was established by Miriam Samson as an advocacy organization for the rights of terminally-ill patients. Rep. David Hollister addressed the first informal meeting on October 25, 1983, and on October 19, 1984, the official organizing meeting of the Association was held. According to adopted bylaws, its purposes were "To inform and educate the general public, legal and medical professionals, and others in related fields on the problems and needs of all persons involved in the dying process and death; to support judicial and legislative action involved in the dying process and death; to support judicial and legislative action concerning the right to die with dignity; and to distribute literature that furnishes information on the individual's right to die with dignity." Throughout its eight-year history, MMSA focused on legislative and educational activities geared toward these purposes, becoming the largest organization of its kind in the state.</p>
+
+<p>The living will, a document in which a person, in the event of incapacitation, expresses in advance his or her wishes concerning the use of medical measures to prolong life, was first legalized in California in 1976. In ensuing years, a number of states passed similar measures. LAW kept in close contact with Michigan state legislators, particularly Rep. David Hollister and Rep. Perry Bullard, each of whom had worked for many years to pass living will legislation in the state. By 1984, when the organization was established, twenty states had enacted legislation and during 1985 and 1986, sixteen more followed. LAW monitored activity in other states, held periodic public meetings, published a newsletter, and managed a speaker's bureau. An all-volunteer association, its only income came from donations and a one-time membership fee of $15. It offered living wills upon request at no charge, processing requests from all over the United States.</p>
+<p>In 1987, LAW sent out hundreds of letters to voters urging them to contact legislators in support of Rep. Bullard's House Bill 4176, "The Michigan Medical Self-Determination Act," written to establish the right of individuals to specify wishes regarding medical treatment through a legal living will. The same campaign supported Rep. Hollister's House Bill 4647, written to establish the legality of appointing a durable power of attorney for care, custody, and medical treatment decisions. The organization targeted and contacted undecided legislators throughout Michigan. In 1987, LAW elected to change its name to Michigan Medical Self-Determination Association (MMSA), reflecting its interest in outreach to the entire state and its support for House Bills 4176 and 4647. Both bills were receiving strong opposition at the time, particularly from Right to Life organizations.</p>
+<p>In August of 1990, the United States Supreme Court in the case of Nancy Cruzan, upheld the right of the State of Missouri to demand "clear and convincing evidence" of the wishes of an incompetent person before life-sustaining treatment is withdrawn, agreeing that such evidence was lacking in the case. In reaction to the Cruzan ruling, MMSA responded to over 2,000 requests for living wills. In the same year, it published and distributed to 200 hospitals "Proposed Guidelines on Foregoing Life-Sustaining Treatment."</p>
+<p>Federal legislation took effect in the fall of 1991 requiring hospitals and nursing homes participating in Medicare or Medicaid to inform patients whether their state allowed them to refuse treatment prolonging their lives if they became incapacitated. The measure, "The Patient Self-Determination Act", allowed for a signed advance directive in the form of a living will or the designation of someone to make health care decisions when the patient could not. Michigan was one of seven states at the time of passage without legislation, although efforts had been ongoing for more than fifteen years.</p>
+<p>In December of 1990, Governor James J. Blanchard signed into law Rep. David Hollister's bill legalizing a durable power of attorney for health care decisions. While still believing in the need for continuing education and further living will legislation, MMSA elected to dissolve in 1992, citing that it had achieved its purposes in educating the public about living wills, durable power of attorney, and advance medical directives. Among the individuals active in the organization were Miriam Samson (President, 1984-1990), Jenny Bates, Dr. Ronald Bishop, Rev. Richard Weeden, and Ingrid Deininger.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520"><p>The records of the Michigan Medical Self-Determination Association are comprised of material documenting its eight-year history from 1984 to 1992. The collection will interest researchers examining the role of citizen groups in securing living will legislation during a nationwide medical advance directive movement. It also depicts the role such groups often play in drawing attention to legislative issues, garnering support, and influencing legislative activity.</p>
+<p>A small, wholly volunteer organization, MMSA's energies were focused more on outreach and projects related to its purposes than on maintaining documentation of its efforts. Thus, the material is limited in scope and content.</p>
+<p>There are three small series in the collection: Board of Directors, Educational/Outreach Activity, Legislative/ Lobbying Activity. 
+</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Michigan Medical Self-Determination Association.</corpname>
+<subject source="lcsh" encodinganalog="650">Right to die--Law and legislation--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Patients--Legal status, laws, etc.--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Right to die--Michigan.</subject>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Board of Directors</unittitle></did><scopecontent><p>The core of the collection is the Board of Director series, which includes the minutes of LAW and MMSA board meetings. These files most clearly and comprehensively document the emphasis the organization placed on legislative and educational activities. The correspondence files are particularly representative of a grass-roots effort that kept its eye on the statewide political scene, while at the same time focusing on providing information to individuals interested in the movement from a personal perspective. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bylaws and Resolutions</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, Incoming, <unitdate type="inclusive">1984-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, Internal, <unitdate type="inclusive">1986-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, Outgoing, <unitdate type="inclusive">1984-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Material, 1990-1992.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership Material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, Agendas, LAW, <unitdate type="inclusive">1984-1988</unitdate>  (scattered)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, Agendas, MMSA, <unitdate type="inclusive">1988-1992</unitdate>  (scattered)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Personnel</unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Educational/Outreach Activity</unittitle></did><scopecontent><p>The Educational/Outreach series holds newsletters published between 1985 and 1991, which contain information regarding the evolution of the living will movement in Michigan and the national context in which it operated. The series includes a newspaper article clipping file and educational material collected by the organization, also useful in providing context. "Proposed Guidelines on Foregoing Life-Sustaining Treatment," written for hospital personnel, provided information before federal law forced most medical institutions to develop policies. Published material of the organization includes "A Living Will: Questions and Answers" and instructions for creating a medical durable power of attorney. An undated document, "History of the Living Will Movement," gives a brief history of the national movement and LAW and was originally mounted on cardboard for display.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Collected Material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History of the Living Will Movement</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Living Will Drafts/Sample Formats</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Meeting Notices</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters, <unitdate type="inclusive">1985-1991</unitdate>  (scattered)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper Articles, <unitdate type="inclusive">1986-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Press Releases/Press Lists</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Proposed Guidelines on Foregoing Life-Sustaining</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Treatment, <unitdate type="inclusive">1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Published Material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Workshops and Symposiums</unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Legislative/Lobbying Activity</unittitle></did><scopecontent><p>The Legislative/Lobbying series includes correspondence and written comments regarding proposed legislation and correspondence with Rep. David Hollister and Rep. Perry Bullard. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lists/Legislators</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Related Correspondence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Related Michigan Bills</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Statements</unittitle></did></c02></c01>
+
+
+
+</dsc></archdesc>
+
+</ead>

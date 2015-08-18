@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::saundcm.xml//EN" encodinganalog="Identifier">
+umich-bhl-85362</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Carl M. Saunders papers, 1915-1964
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2006">
+2006</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>November 2006</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2006-11-20</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Carl M. Saunders papers, 1915-1964</titleproper>
+      <author>Finding aid created by<lb /> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">
+Saunders, Carl M. (Carl Maxon), 1890-1974.
+</persname>
+      </origination>
+      <unittitle encodinganalog="245">
+Carl M. Saunders papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1915-1964
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+1 linear foot and 1 oversize volume
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85362 Aa 2; AC
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Newspaper editor of the Grand Rapids Herald and the Jackson Citizen Patriot; personal and professional papers.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload" />
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was the gift of Saunders family members (donor no. <num type="donor" encodinganalog="541$e">5861</num>) and came to the library in 1976.</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Carl M. Saunders papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Carl M. Saunders was born October 26, 1890 in Grand Rapids, Michigan. Following graduation from high school, he began his newspaper career as a reporter for the <title render="italic">Grand Rapids News</title> (1909). He then moved to the <title render="italic">Kalamazoo Telegraph-Press</title> (1911), becoming managing editor in 1912.  He was copy editor for the <title render="italic"> Detroit Free Press</title> (1913-14).  The bulk of his career was spent in Grand Rapids and Kalamazoo, Michigan. He served as editorial writer for the <title render="italic">Grand Rapids Herald</title>, 1915-1928, associate editor, 1928-1932, and then editor, 1932-1933.  In 1934, Saunders became editor of the <title render="italic">Jackson Citizen Patriot</title> where he remained until his retirement in 1961. Throughout his career, Saunders was member of many professional and civic organizations.  In 1949, he was the recipient of the Pulitzer Prize for editorial writing.  He died October 2, 1974.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The collection consists of correspondence, including many letters from Michigan Senator Arthur Vandenberg, scrapbooks, newspaper clippings, and photographs concerning his newspaper career.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="650">American newspapers--Michigan--Jackson.</subject>
+        <subject source="lcsh" encodinganalog="650">American newspapers--Michigan--Grand Rapids.</subject>
+        <subject source="lcsh" encodinganalog="630">Grand Rapids herald (1892)</subject>
+        <subject source="lcsh" encodinganalog="630">Jackson citizen patriot.</subject>
+        <subject source="lcsh" encodinganalog="650">Journalists--Michigan--Jackson.</subject>
+        <subject source="lcsh" encodinganalog="650">Journalists--Michigan--Grand Rapids.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Vandenberg, Arthur H. (Arthur Hendrick), 1884-1951.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Newspaper career</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Autobiography</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1915-1933</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1945</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1947-1964</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence with Arthur Vandenberg, <unitdate type="inclusive">1919-1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Papers concerning Arthur Vandenberg</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Papers concerning Saunders' nomination for a Brotherhood Media award</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Papers concerning trip to Europe, <unitdate type="inclusive">1945</unitdate></unittitle>
+            <physdesc>
+              <extent>3 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Papers concerning retirement, <unitdate type="inclusive">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellaneous papers </unittitle>
+            <physdesc>
+              <extent>2 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Photographs </unittitle>
+            <physdesc>
+              <extent>5 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">1</container>
+            <unittitle>
+              <genreform normal="Scrapbooks">Scrapbook</genreform> concerning Saunders' nomination for a Pulitzer Prize, <unitdate type="inclusive">1949</unitdate></unittitle>
+          </did>
+          <note>
+            <p>(oversize volume)</p>
+          </note>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

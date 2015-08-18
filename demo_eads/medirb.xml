@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::medirb.xml//EN" encodinganalog="Identifier">
+umich-bhl-2011087</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Medical School Institutional Review Board (University of Michigan) records, 1966-1995
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Rachel Lwin, October 2008</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2011</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2011-07-07</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Medical School Institutional Review Board<lb/> (University of Michigan)<lb/> records, 1966-1995
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Rachel Lwin, October 2008
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Medical School Institutional Review Board.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Medical School Institutional Review Board (University of Michigan) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1966-1995
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2011087 Bimu 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+This record group consists of Institutional Review Board meeting minutes from the years 1966 to 1995.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were received in June 2000 from donor #<num type="donor" encodinganalog="541$e">#8705</num>
+ as an addition to a previous acquisition of Institutional Review Board materials.
+ 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>Periodic additions to the records expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The Medical School Institutional Review Board records are currently entirely restricted by statute and university policy.  Restricted material includes personnel-related files, including search, review, promotion, and tenure files; student educational records; client/patient records; and records of executive officers of the university.</p>
+
+<p>The RECORD GROUP record group includes restricted material in the following categories: 
+<list type="simple">
+<item>Patient/Client Records -- Box 1-2</item>
+<item>Executive Officer Records -- Box 1-2</item>
+</list></p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Medical School Institutional Review Board (University of Michigan) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>On February 8, 1966, U.S. Surgeon General William H. Stewart sent a letter to all research institutions detailing a new policy concerning the use of federal grants for experiments on human subjects. This new policy required that all such institutions create a board for the "protection of the rights and welfare of the individual or individuals involved, of the appropriateness of the methods used to secure informed consent, and the risks and potential medical benefits of the investigation." In response, University of Michigan Medical School created what was then called the Standing Committee on Clinical Research and Investigation Involving Human Beings, in March of that same year.</p>
+
+<p>The committee was first chaired by William J. Fry, and included eleven other members, with one or more specializing in each of the following departments: Internal Medicine, Surgery, Psychiatry, Anesthesiology, Obstetrics, Gynecology, Pharmacology and Pediatrics. The committee also included consultants from the School of Law, as well as the Chaplain of the University Medical Center.</p>
+
+<p>The committee was charged with reviewing only those experiments which were partially or fully funded by federal Public Health Service grants, which that year amounted to $9.8 million for the University of Michigan. To do so, they were given full access to the actual grant application, minus the financial statements. Each grant application was assigned to a subcommittee of two members to review and subsequently present their findings to the rest of the committee. The committee would then vote for approval, rejection or modification of the proposal; any committee member that had a personal interest in the proposal would be excused from the meeting during the discussion of that particular proposal.</p>
+
+<p>In 1969 Nurse McDowell became the first member from her department to join the committee, despite hesitation from some committee members.  Fry's retirement in 1970 marked the beginning of William W. Coon's 25 year tenure as chair of the committee, until Sumer B. Pek took over in 1995. In 1985 the committee added the first pharmacist, a Ms. Colwin.</p>
+
+<p>The committee is now referred to as the University of Michigan Medical School Institutional Review Board (IRB-MED). IRB-MED has five separate boards with a total of over 100 members reviewing applications three times per week.</p>
+
+<p>---------------------------------------------</p><p>Sources Consulted</p>
+
+<p>Memorandum of the Surgeon General William H. Stewart to the Heads of Institutions Conducting Research with Public Health Grants. February 8, 1966</p>
+
+<p><title render="italic">University of Michigan President's Report</title> 1966-1967, pp.88-93.</p>
+
+
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The University of Michigan Medical School IRB meeting minutes dates from 1966 to 1995 and are organized in chronological order by year, and in reverse chronological order within the folders. The original organization of the collection was maintained, except where notes that were originally grouped together could not physically fit in the same folder, in which case they were split into two or more folders as needed.  Due to the nature of the content, the minutes are restricted.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname encodinganalog="600" source="lcnaf">Medicine--Research--Michigan</persname>
+</controlaccess>
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Meeting Minutes</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1966-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1987-1995</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Voting Agenda</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">June 1995-July 1995</unitdate></unittitle></did></c02></c01>
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

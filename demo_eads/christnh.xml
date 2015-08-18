@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::christnh.xml//EN" encodinganalog="identifier">
+umich-bhl-9845</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Halvor N. Christensen papers,1939-1997
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michael Perry, 2008</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+209</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Grg Kinney 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20090625</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Halvor N. Christensen papers, 1939-1997
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michael Perry, 2008
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Christensen, Halvor N.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Halvor N. Christensen papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1939-1997
+</unitdate>
+
+<unitdate type="inclusive" encodinganalog="245$g">
+1972-1995
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+9845 Aa2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Halvor Niels Christensen was a professor and researcher in the field of biochemistry, specializing in amino acid transports.  The majority of his academic career was spent at the University of Michigan where he was a professor (1955-1986) and chair (1955-1970) of the Biochemistry department.  The bulk of this collection is correspondence covering 1968-1997.  Also biographical material, selected articles (reprints) authored by Christensen, and photographs of Christensen and colleagues including Albert Baird Hastings and Olliver Lowry.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Collection received in 1998 (donor no. <num type="donor" encodinganalog="541$e">8743</num>) and in 2007 (donor no. <num type="donor" encodinganalog="541$e">9878</num>).
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The collection is open without restriction.</p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Halvor N. Christensen papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Halvor Niels Christensen was born October 24, 1915, in Cozad, Nebraska to Niels and Matena Christensen.  He was the third of six children.  Christensen attended the Nebraska State Teacher's College and earned a Bachelor's degree in chemistry in 1935.  In 1937, he obtained his Master's in biochemistry from Purdue University, and earned his PhD in biochemistry from Harvard University in 1939.</p>
+
+<p>His academic professional career began at Harvard Medical School (1942-1948), first as an instructor, and then as assistant professor in biochemistry.  Christensen taught at Tufts University School of Medicine as a professor and chair of its Biochemistry Department from 1949 to 1955.  He then moved to the University of Michigan where he spent the majority of his career.  He was a professor (1955-1986) and chair (1955-1970) of the Department of Biological Chemistry.  He retired in 1986 and was named professor emeritus.  Christensen moved to La Jolla, California where he served as an adjunct professor in pediatrics at the University of California in San Diego from 1989 to 1999. </p>
+
+<p>Christensen was an internationally known authority in the area of amino acid transport.  He was the author of a number of books in the field of biochemistry and over 270 journal articles.</p>
+
+<p>He remained active in his field well into his retirement.  Christensen died on October 2, 2003, at the age of 88.  He was survived by his three children, Hugh, Carl and Karen.  His wife Mary died in 2003. </p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The bulk of the Halvor N. Christensen collection  collection consists of correspondence covering the years 1968-1997.  The papers also include biographical material, selected articles (reprints) authored by Christensen, and photographs of Christensen and colleagues including Albert Baird Hastings and Olliver Lowry.  The collection has been divided into four series:  Biographical Information, Correspondence, Articles and Reprints, and Photographs.  </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Christensen, Halvor N.</persname>
+<subject source="lcsh" encodinganalog="650">Biological transport.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Biological Chemistry.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+</controlaccess>
+<controlaccess><head>Genre Terms:</head>
+<genreform encodinganalog="655" source="AAT">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Biographical</unittitle></did>
+<scopecontent>
+<p>Biographical Information includes a bibliography of Christensen's academic journal articles, some personal recollections about his childhood, and some brief professional information.  The journal article listing is current to 1995 and is assembled from many different summaries found in his papers.  The personal childhood reflection is dated 1990 and is approximately 25 pages long.  The professional information includes a summary of his University of Michigan personnel record (when he arrived in 1955) and also has a ten page reflection about his time as Chair of the Biochemistry Department at the University of Michigan (as recollected in 1992).</p></scopecontent>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Academic Journal Bibliography, <unitdate type="inclusive">1995</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Personal Biography, <unitdate type="inclusive">1990</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Professional Biography, <unitdate type="inclusive">1955-1993</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<scopecontent>
+<p>The majority of the collection is found in the Correspondence series.  It is a collection of letters sent to or by Christensen.  It is arranged alphabetically by the last name of the correspondent.  Most of the correspondence is single letters and are captured under the "General" heading.  There are a handful of individuals with whom Christensen had more extensive correspondence and they have separate folders.  There are also letters about specific events and they have also been separated into individual folders.  Most of the correspondence relates to research areas.  There are few personal letters.  The bulk of the correspondence is written after his retirement in 1985.  This series is not meant to be a complete account of Christensen's academic or personal correspondence.</p></scopecontent>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>A, <unitdate type="inclusive">1977-1992</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>"Biomembrane Transport" Book, <unitdate type="inclusive">1995-1996</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Bristol-Meyer Award, <unitdate type="inclusive">1997</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>B, <unitdate type="inclusive">1956-1995</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>C, <unitdate type="inclusive">1972-1996</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>"Crossing Boundaries" Book, <unitdate type="inclusive">1988-1996</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>D, <unitdate type="inclusive">1988-1994</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>De Cespedes, Carlos, <unitdate type="inclusive">1989-1992</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>E, <unitdate type="inclusive">1974-1996</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>F, <unitdate type="inclusive">1972-1995</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>G, <unitdate type="inclusive">1976-1994</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Garcia-Sancho, Javier, <unitdate type="inclusive">1995-1996</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>H, <unitdate type="inclusive">1980-1995</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Halvor Christensen's 70th Birthday, <unitdate type="inclusive">1985</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Hastings, Albert Baird, <unitdate type="inclusive">1965-1986</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Hastings, Baird (son of Albert Baird Hastings), <unitdate type="inclusive">1988-1994</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>K, <unitdate type="inclusive">1939-1997</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>L, <unitdate type="inclusive">1971-1996</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>M, <unitdate type="inclusive">1991-1996</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>N, <unitdate type="inclusive">1978-1990</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>O, <unitdate type="inclusive">1971-1996</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>P, <unitdate type="inclusive">1969-1994</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>R, <unitdate type="inclusive">1970-1994</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Ronquist, Gunnar, <unitdate type="inclusive">1989-1996</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>S, <unitdate type="inclusive">1968-1995</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Symposium Honoring Halvor Christensen, <unitdate type="inclusive">1972</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>T, <unitdate type="inclusive">1971-1992</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>U, <unitdate type="inclusive">1976-1993</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>V, <unitdate type="inclusive">1992</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Von Winkle, Lon, <unitdate type="inclusive">1991-1997</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>W, <unitdate type="inclusive">1972-1995</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Y, <unitdate type="inclusive">1984-1994</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Young, James, <unitdate type="inclusive">1984-1993</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Unknown or first name only, <unitdate type="inclusive">1971-1995</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Articles and Reprints</unittitle></did>
+<scopecontent>
+<p>Articles and Reprints contains a portion of articles and scientific reprints of articles by Christensen.  They date from 1938 to 1992 but are far from complete.</p></scopecontent>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Articles and Reprints, <unitdate type="inclusive">1938-1992</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Photographs</unittitle></did>
+<scopecontent>
+<p>Photographs contains pictures of Christensen alone and in group photos, as well as his colleagues Albert Baird Hastings and Olliver Lowrey.  Many of the images of Baird Hastings are copies of group photographs taken at Harvard and elsewhere and were likely collected by Christensen as part his efforts to edit Hastings' life story.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photographs, <unitdate type="inclusive">ca. 1930s-1995</unitdate></unittitle></did></c02></c01>
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::berlinl.xml//EN" encodinganalog="Identifier">
+umich-bhl-9819</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Lawrence S. Berlin papers, 1971-1983
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Amy Cooper</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-10-03</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Lawrence S. Berlin papers, 1971-1983</titleproper>
+
+<author>Finding aid created by<lb/> 
+Amy Cooper, 1998</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Berlin, Lawrence S.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Lawrence S. Berlin papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1971-1983
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9819 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor in the University of Michigan School of Education. Subject files relating mainly to his interest in adult and continuing education.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Lawrence S. Berlin (Donor No. <num type="donor" encodinganalog="541$e">6966</num>) in August, 1996.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Lawrence S. Berlin papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Lawrence S. Berlin was born in 1928 in Kansas City, Missouri.  After receiving his MA in political science from the University of Michigan in 1958, Berlin joined the Institute of Labor and Industrial Relations.  In the years that followed this appointment in 1959, Berlin would serve in several positions in the U-M School of Education.  In 1962, he was named director of course programs for the University of Michigan Extension Service, a position he held until 1978.  In 1967, he joined the University of Michigan Adult Education Department, holding a joint appointment with the School of Social Work.  In 1978, Berlin was named Director of the Continuing Education Program in Human Services for the School of Social Work and Chairman of the Adult and Continuing Education (ACE) Department at the University of Michigan.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Berlin papers pertain to those several areas of service which Professor Berlin performed for the University of Michigan School of Education, primarily in the area of adult and continuing education.  The papers focus on curriculum and program development for the Department of Adult and Continuing Education, with a small amount of information about other areas in which Berlin was involved.</p>
+
+<p>The collection is arranged into one alphabetical series.  By far the richest of the collection concerns his involvement with Adult and Continuing Education (ACE).  It is organized by date in five separate folders, spanning the years 1971 through 1983.  These files include reports and other information on the curriculum's development, departmental memos regarding faculty and staff, and Berlin's rise within the department from professor to department chair.  ACE was, at times, a controversial endeavor for the School of Education and sparked much discussion on the theories and practices of adult education. The ACE files end with a folder containing issues of the ACE Reporter, a student publication of the ACE Department where Berlin was a frequent contributor and subject for student writings.</p>
+
+<p>Smaller in size are files relating to Continuing Education and Community Development (CECD), the U-M Extension Service, and the Gerontology and Program in Human Resources Development. While these files are interesting because their presence testifies to a relationship between the School of Education and these branch areas, the records are so sporadic that none of them significantly clarify the relationship shared with the School of Education.</p>
+
+<p>The collection concludes with miscellaneous correspondence and publications.  The publication file contains a copy of <title render="italic"> Continuum</title>, an adult education magazine to which Berlin contributed.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Berlin, Lawrence S.</persname>
+<subject source="lcsh" encodinganalog="650">Adult education.</subject>
+<subject source="lcsh" encodinganalog="650">Continuing education.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. School of Education.</corpname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Alphabetical File</unittitle></did>
+<c02 level="file"><did><unittitle>Adult and Continuing Education (ACE)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1971-1977</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1978-1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1980-1981</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1982-1983</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>ACE Reporter</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Continuing Education and Community Development (CECD)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Extension Service</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gerontology</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Correspondence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Publications</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Program in Human Resources Development (PHRD)</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

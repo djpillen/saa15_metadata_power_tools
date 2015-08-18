@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::forsythr.xml//EN" encodinganalog="Identifier">
+umich-bhl-85168</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Richard A. Forsyth papers, ca. 1907-1970
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-04</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Richard A. Forsyth papers, ca. 1907-1970</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Forsyth, Richard Alexander.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Richard A. Forsyth papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1907-1970
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85168 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Student at the University of Michigan, later professional stage actor. Playbills from Detroit and University of Michigan productions, theatrical publications, miscellaneous correspondence, clippings, and writings; and photographs.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was transferred from the library of Eastern Michigan University (donor no. <num type="donor" encodinganalog="541$e">2018</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Richard A. Forsyth papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Richard A. Forsyth received his B.A. from the University of Michigan in 1920 and his law degree in 1922. While a student, Forsyth was a member of the Mimes and the Comedy Club. He also appeared in several Union Operas, including "Top O' The Morning." As a practicing attorney in Detroit, Forsyth was well known in amateur theater, both as actor and director, where he contributed to many stage successes.  For several years he served as President of The Players.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Forsyth collection includes some correspondence, journals (1914-1917), playbills from productions in the Detroit and Ann Arbor area, clippings about his theatrical career, and miscellaneous photographs.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Actors.</subject>
+<persname source="lcnaf" encodinganalog="600">Forsyth, Richard Alexander.</persname>
+<subject source="lcsh" encodinganalog="650">Theater--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Theater--Michigan--Detroit.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Dramatics.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1911-1920.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<persname source="lcnaf" encodinganalog="600">Forsyth, Richard Alexander.</persname>
+<subject source="lctgm" encodinganalog="650">Theatrical productions.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Personal</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical and personal, <unitdate type="inclusive">ca. 1907-1934</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1920-1948</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Journals</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1914-1916</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1916-1917</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Theatrical career and related</unittitle></did>
+<c02 level="file"><did><unittitle>Player's Playhouse, Detroit, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General (scattered dates)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>The Player magazine, <unitdate type="inclusive">1926-1959</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Playbills, <unitdate type="inclusive">ca. 1926-1959</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Playbills (Detroit area)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous theatres, <unitdate type="inclusive">ca. 1930-1934</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous, <unitdate type="inclusive">ca. 1925-1961</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Playbills (local)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor Theatre, <unitdate type="inclusive">ca. 1938-1970</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>University of Michigan</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Department of Speech, <unitdate type="inclusive">1942-1970</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Drama Season, <unitdate type="inclusive">1959-1964</unitdate></unittitle></did></c04>
+<c04 level="file"><did><unittitle>Professional Theatre</unittitle></did>
+<c05 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1962-1966</unitdate></unittitle></did></c05>
+<c05 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1967-1071</unitdate></unittitle></did></c05></c04>
+<c04 level="file"><did><unittitle>University Musical Society</unittitle></did>
+<c05 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1926-1928</unitdate></unittitle></did></c05>
+<c05 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1956-1970</unitdate></unittitle></did></c05></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Theatres, miscellaneous</unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Whitney Theatre, <unitdate type="inclusive">ca. 1925-1927</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Scripts</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">ca. 1924-1927</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1959</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Caribbean trip, <unitdate type="inclusive">1936-1937</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous notes, <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous poems, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Clippings</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous and <unitdate type="inclusive">undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">ca. 1922-1928</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1929-1931</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1932-1936</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1937-1952</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform> of theatrical productions; also portraits</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

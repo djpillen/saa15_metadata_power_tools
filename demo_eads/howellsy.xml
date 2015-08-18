@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::howellsy.xml//EN" encodinganalog="Identifier">
+umich-bhl-851482</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Seymour Howell papers [microform], 1864-1912
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-03-05</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Seymour Howell papers [microform], 1864-1912</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Howell, Seymour, 1841-1909.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Seymour Howell papers [microform] 
+<unitdate type="inclusive" encodinganalog="245$f">
+1864-1912
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 microfilm reels
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851482 mf 472c-mf473c
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Officer with the 6th Michigan Infantry and Heavy Artillery Regiment during the Civil War; personal papers relating to wartime service and accumulated records of the 6th Michigan Heavy Artillery.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The originals of this microfilmed collection came from Howell Taylor (donor no. <num type="donor" encodinganalog="541$e">2115</num>) and the Washtenaw County Historical Society (donor no. <num type="donor" encodinganalog="541$e">945</num>).  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<originalsloc><p>The originals of the microfilmed material are located at the Bentley Historical Library.</p></originalsloc><prefercite encodinganalog="524"><p>[item], folder, box,
+Seymour Howell papers [microform], Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Seymour Howell was a businessman from Saline, Michigan. During the Civil War he served as paymaster with the 6th Michigan Infantry and Heavy Artillery Regiment.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The microfilm collection of the papers of Seymour Howell have been brought together from two separate collections: papers donated by the family and records which Howell himself donated to the Washtenaw County Historical Society and which subsequently have been deposited with the Bentley Historical Library. The collection from the family includes more personal items: a diary, a wartime notebook, letters, photographs, and a scrapbook. The Howell papers from the Washtenaw County Historical Society consist almost entirely of records of the 6th Michigan Artillery maintained by Howell. These include invoices, receipts, requisitions, ordnance reports and communications, and orders.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+
+<persname source="lcnaf" encodinganalog="600">Howell, Seymour, 1841-1909.</persname>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Artillery Regiment, 6th (1863-1865). Company F.</corpname>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Howell, Charles S., d. 1903.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Civil War Collection</unittitle></did>
+<c02 level="file"><did><unittitle>Diary, letters, and other war-related materials </unittitle></did> <note><p>(these are papers donated to the library by a Howell family member)</p></note>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Biographical notes</unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Civil War <genreform normal="Diaries">diary</genreform>, <unitdate type="inclusive">1864</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Civil War notebook</unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Correspondence, <unitdate type="inclusive">1864-1912</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Civil War orders, <unitdate type="inclusive">1864-1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Civil War discharge and military commissions, <unitdate type="inclusive">1861-1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Military commissions, <unitdate type="inclusive">1891-1903</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Receipts, <unitdate type="inclusive">1864-1897</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Charles S. Howell naturalization and Civil War papers</unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Scrapbook</unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Loose clippings from scrapbook</unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Loose miscellanea from scrapbook</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>6th Michigan Heavy Artillery records, <unitdate type="inclusive">1863-1866</unitdate> </unittitle></did> <note><p>(These are papers accumulated by Seymour Howell and deposited with the Washtenaw County Historical Society; the files now form part of the collected historical materials of the WCHS and have been placed on deposit with the Bentley Historical Library)</p></note>
+<c03 level="file"><did><unittitle>Invoices of ordnance and ordnance stores</unittitle></did>
+<c04 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">1863-1864</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">January-March 1865</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">April-September 1865</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Receipts for ordnance stores</unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Abstracts of receipts, <unitdate type="inclusive">1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Receipts  of clothes, and camp and garrison equipment, <unitdate type="inclusive">1864-1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Requisitions for ordnance stores, <unitdate type="inclusive">1864-1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Reports on the returns of clothing, camp and garrison equipage, <unitdate type="inclusive">1864</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Report of quarterly return of ordnance and ordnance stores, <unitdate type="inclusive">1864-1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Special field orders, <unitdate type="inclusive">1864-1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>General orders of the War Dept., <unitdate type="inclusive">1863-1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Printed communications of the Ordnance Office, <unitdate type="inclusive">1863-1864</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Official communications of the Ordnance Office, <unitdate type="inclusive">1864-1866</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Papers include official correspondence, <unitdate type="inclusive">1863-1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Correspondence of Capt. Seymour Howell, <unitdate type="inclusive">1864-1866</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>List of articles received by Seymour Howell at Fort Gaines, Ala., <unitdate type="inclusive">1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Miscellaneous lists</unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Inventory of ordnance stores, <unitdate type="inclusive">1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Proceedings of board of survey at Fort Gaines, Ala., <unitdate type="inclusive">1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Abstracts of expenditures at Fort Gaines, Ala., <unitdate type="inclusive">1863-1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Miscellaneous, <unitdate type="inclusive">1860s</unitdate></unittitle></did><note><p>( include Civil War blank forms)</p></note></c03></c02></c01>
+ 
+
+</dsc><descgrp type="add"><relatedmaterial><head>Related Material</head><p>The library also has other materials from the Seymour Howell collection which were not microfilmed because they were unrelated to his wartime service. These include diaries, 1873-1904, and several artifacts from the war.</p></relatedmaterial></descgrp></archdesc>
+
+</ead>

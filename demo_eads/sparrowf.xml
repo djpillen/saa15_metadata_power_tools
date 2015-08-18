@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::sparrowf.xml//EN" encodinganalog="Identifier">
+umich-bhl-85393</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Frederick K. Sparrow papers, 1925-1977
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Christine Weideman </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>September 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-09-21</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Frederick K. Sparrow papers, 1925-1977</titleproper>
+
+<author>Finding aid created by<lb/> 
+Christine Weideman, August 1983</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Sparrow, Frederick K. (Frederick Kroeber), 1903-1977.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Frederick K. Sparrow papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1925-1977
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85393 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of botany at the University of Michigan. Correspondence and subject files relating to his professional activities, notably his specialization in mycology; and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Mrs. Anna E. Sparrow (donor no. <num type="donor" encodinganalog="541$e">6917</num>) in 1983.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Frederick K. Sparrow papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Frederick K. Sparrow, internationally known expert on botany and mycology, was born on May 11, 1903 in Washington, D.C. He attended the University of Michigan as an undergraduate and received his B.S. in 1925. In that same year, he married Anna (Nan) Gabler, a scholar in the field of literature. Sparrow did his graduate work at Harvard University, where he earned his M.A. in 1926 and his Ph. D. in 1929.</p>
+
+<p>From 1929 to 1936 Sparrow held a variety of positions, including instructor at Dartmouth and research fellow at Woods Hole Oceanographic Institute.</p>
+
+<p>In 1936, Sparrow became a member of the faculty of the University of Michigan, where he remained for 37 years. He was considered to be an excellent teacher, and was highly respected for his productive research. He was closely associated with the University's Biological Station and became its director in 1968.</p>
+
+<p>During his career, Dr. Sparrow received numerous awards and honors. From the University of Michigan, he received the Russel Award, the highest award given to faculty, for excellence in teaching and research, and from the Botanical Society of America he received the Award of Merit. He was elected president of several organizations, including the Michigan Academy of Arts, Sciences, and Letters, the Mycological Society of America, and the Second International Mycological Congress.</p>
+
+<p>Sparrow and his wife continued to live in Ann Arbor after his retirement in 1973, and he remained actively involved in research and academic life until his death in 1977.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Frederick K. Sparrow Collection has been organized alphabetically by topic. Correspondence is filed under the letter "C" and is in chronological order. In the biographical folder, the researcher will find a summary of the disposition of Dr. Sparrow's botanical effects, listings of his personal mycological library and his holdings of rare mycological books and publications, and a detailed bibliography of his works.</p>
+
+<p>Dr. Sparrow corresponded with friends, mentors, and fellow mycologists and botanists from around the world on a variety of topics. His correspondence comprises over one-half of the collection. The researcher should note that letters dealing with the Second International Mycological Congress are included with the rest of the materials from the Congress.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Botany.</subject>
+<subject source="lcsh" encodinganalog="650">Mycology.</subject>
+<persname source="lcnaf" encodinganalog="600">Sparrow, Frederick K. (Frederick Kroeber), 1903-1977.</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Botany.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Dwellings.</geogname>
+<subject source="lctgm" encodinganalog="650">Barbering.</subject>
+<subject source="lctgm" encodinganalog="650">Botany.</subject>
+<geogname source="lcsh" encodinganalog="651">Cuba.</geogname>
+<geogname source="lcsh" encodinganalog="651">Douglas Lake (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Ann Arbor.</subject>
+<geogname source="lcsh" encodinganalog="651">Ferry Field (University of Michigan)</geogname>
+<subject source="lctgm" encodinganalog="650">Fishing--Michigan.</subject>
+<subject source="lctgm" encodinganalog="650">Gardening.</subject>
+<geogname source="lcsh" encodinganalog="651">Hawaii.</geogname>
+<corpname source="lcnaf" encodinganalog="610">International Mycological Congress.</corpname>
+<subject source="lctgm" encodinganalog="650">Laboratories.</subject>
+<persname source="lcnaf" encodinganalog="600">Sparrow, Nan.</persname>
+<persname source="lcnaf" encodinganalog="600">Sparrow, Frederick K. (Frederick Kroeber), 1903-1977.</persname>
+<famname source="lcnaf" encodinganalog="600">Sparrow family.</famname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Biological Station.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Commencements--1925.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+
+<c01 level="series"><did><unittitle>Professional papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Book Reviews </unittitle></did> <note><p>(includes one mini-review by Sparrow, all others are reviews of Sparrow works, also contains some correspondence)</p></note></c02>
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1925-1977</unitdate> </unittitle> <physdesc><extent>12 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters from Europe, <unitdate type="inclusive">1935</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters from Cuba, <unitdate type="inclusive">1949</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Weston, William H., <unitdate type="inclusive">1929-1956</unitdate> </unittitle></did> <note><p>(Sparrow's major advisor at Harvard, mostly incoming, see also General Correspondence)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters received by Mrs. Sparrow re: the death of her husband, <unitdate type="inclusive">1977-1979</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fest-Schrift (collection of works dedicated to Sparrow) </unittitle></did> <note><p>(includes volume and additions to the volume)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Music and drama reviews written by Sparrow</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pamphlets and Periodicals </unittitle> <physdesc><extent>2 folders</extent></physdesc></did> <note><p>(<title render="italic">The Michigan Forester</title>; "The Henry Russel Lectureship"; "The University of Michigan Botanical Gardens"; issues contain references to Sparrow)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Prepared Papers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Retirement </unittitle></did> <note><p>(mostly correspondence, also contains retirement dinner information)</p></note></c02>
+<c02 level="file"><did><unittitle>Second International Mycological Congress, <unitdate type="inclusive">1974-1977</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence (includes undated)</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>University of Michigan Biological Station (session booklets)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Professional</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Family</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Personal and University of Michigan graduation, <unitdate type="inclusive">June 1925</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Douglas Lake</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Nan Sparrow photographs</unittitle></did></c03></c02></c01>
+
+
+
+
+</dsc></archdesc>
+
+</ead>

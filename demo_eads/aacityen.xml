@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+    <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+        <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::aacityen.xml//EN" encodinganalog="identifier">umich-bhl-730</eadid>
+
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Finding Aid for Maps of the University of Michigan Campus [1906?-1913] </titleproper>
+                <author encodinganalog="creator">Collection processed and finding aid created by Michigan Historical Colections Staff</author>
+            </titlestmt>
+
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+                <date encodinganalog="date"> 2005</date>
+            </publicationstmt>
+        </filedesc>
+
+        <profiledesc>
+            <creation>Encoded finding aid created by Greg Kinney <date>June 2005</date></creation>
+
+            <langusage>The finding aid is written in <language langcode="eng">English</language></langusage>
+        </profiledesc>
+
+        <revisiondesc>
+            <change>
+                <date>20050621</date>
+                <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+
+    <frontmatter>
+        <titlepage>
+
+            <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+            <titleproper>Finding aid for<lb/> Maps of the University of Michigan Campus [1906?-1913] <lb/> (Ann Arbor (Mich.). City Engineer's Office, Collector)</titleproper>
+
+            <author>Finding aid created by<lb/> Michigan Historical Colections Staff</author>
+
+        </titlepage>
+    </frontmatter>
+
+    <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21">
+        <did>
+
+            <origination>
+                <corpname source="lcnaf" encodinganalog="110"> Ann Arbor (Mich.). City Engineer's Office, Collector </corpname></origination>
+
+            <unittitle encodinganalog="245"> Maps of the University of Michigan Campus <unitdate type="inclusive" encodinganalog="245$f"> 1906?-1913 </unitdate>
+            </unittitle>
+
+            <physdesc><extent encodinganalog="300"> 12 maps </extent></physdesc>
+
+            <unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number"> M 4114 .A8 : 2U5 1906 A5 Out </unitid>
+
+            <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language>
+            </langmaterial>
+
+            <abstract> 12 maps of the University of Michigan campus collected by the Ann Arbor City Engineer’s Office. </abstract>
+
+
+            <repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+                <extptr href="bhladd" show="embed" actuate="onload"/></repository>
+        </did>
+
+        <descgrp type="admin">
+            <acqinfo encodinganalog="541">
+                <p> Maps were donated to the library by the Ann Arbor City Engineer's Office</p>
+            </acqinfo>
+
+            <accessrestrict encodinganalog="506">
+                <p> The records are open without restriction. </p>
+            </accessrestrict>
+
+            <userestrict encodinganalog="540">
+                <p> Copyright is held by the Regents fo the University of Michigan. </p>
+            </userestrict>
+
+
+            <prefercite encodinganalog="524">
+                <p>[item], folder, box, Maps of the University of Michigan Campus [1906?-1913], Bentley Historical Library, University of Michigan</p>
+            </prefercite>
+        </descgrp>
+
+
+        <scopecontent encodinganalog="520">
+            <p>Twelve maps of the University of Michigan campus, 1906?-1913, collected by the Ann Arbor City Engineer’s Office maps showing university buildings, adjoining property ownership, proposed
+                utility tunnels, and university railroad spur.</p>
+        </scopecontent>
+
+        <controlaccess>
+            <p><extptr href="accnote" show="embed" actuate="onload"/></p>
+            <controlaccess>
+                <head>Subjects:</head>
+
+                <corpname source="lcnaf" encodinganalog="610">University of Michigan--Maps.</corpname>
+                <geogname source="lcsh" encodinganalog="651">Nichols Arboretum (University of Michigan)--Maps.</geogname>
+                <subject source="lcsh" encodinganalog="650">Railroads--Michigan--Ann Arbor--Maps.</subject>
+                <geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Maps.</geogname>
+                <subject source="lcsh" encodinganalog="650">Real property--Michigan--Ann Arbor--Maps.</subject>
+
+            </controlaccess>
+
+
+
+            <controlaccess>
+                <head>Genre Terms:</head>
+                <genreform source="aat" encodinganalog="655">Maps.</genreform>
+            </controlaccess>
+
+        </controlaccess>
+
+
+        <dsc type="combined">
+
+            <c01 level="series">
+                <did>
+                    <unittitle>Maps</unittitle>
+                </did>
+                <c02 level="file">
+                    <did>
+                        <container type="folder" label="Folder">1</container>
+                        <unittitle>School Girls Glen property, <unitdate type="inclusive">1906</unitdate> ? </unittitle>
+                    </did>
+                    <note>
+                        <p>(index no. 170)</p>
+                    </note>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder" label="Folder">1</container>
+                        <unittitle>Nichols Arboretum property ownership. <unitdate type="inclusive">ca. 1910</unitdate> ? </unittitle>
+                    </did>
+                    <note>
+                        <p>(index no. 237)</p>
+                    </note>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder" label="Folder">1</container>
+                        <unittitle>Campus area buildings and adjoining property ownership, <unitdate type="inclusive">ca. 1910</unitdate>
+                        </unittitle>
+                        <physdesc><extent>6 sheets</extent></physdesc>
+                    </did>
+                    <note>
+                        <p>(sheet 2 missing)</p>
+                    </note>
+                    <note>
+                        <p>(index nos. 582-587)</p>
+                    </note>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder" label="Folder">1</container>
+                        <unittitle>Topographic map showing proposed Fuller St. power plant and utility tunnels, <unitdate type="inclusive">1911</unitdate>
+                        </unittitle>
+                    </did>
+                    <note>
+                        <p>(index no. 588)</p>
+                    </note>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder" label="Folder">1</container>
+                        <unittitle>Layout of power plant and coal storage, Huron St. site, <unitdate type="inclusive">1912</unitdate>
+                        </unittitle>
+                    </did>
+                    <note>
+                        <p>(index no. 589)</p>
+                    </note>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder" label="Folder">1</container>
+                        <unittitle>Topographic map of power plant at Huron St. site, <unitdate type="inclusive">1912</unitdate>
+                        </unittitle>
+                    </did>
+                    <note>
+                        <p>(index no. 590)</p>
+                    </note>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder" label="Folder">1</container>
+                        <unittitle>Map of proposed utility tunnel, <unitdate type="inclusive">1913</unitdate>
+                        </unittitle>
+                    </did>
+                    <note>
+                        <p>(index no. 593)</p>
+                    </note>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder" label="Folder">1</container>
+                        <unittitle>Map of U of M railroad spur, <unitdate type="inclusive">1912</unitdate>
+                        </unittitle>
+                    </did>
+                    <note>
+                        <p>(index no. 594)</p>
+                    </note>
+                </c02>
+            </c01>
+
+        </dsc>
+    </archdesc>
+
+</ead>

@@ -1,0 +1,296 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::ilirrec.xml//EN" encodinganalog="Identifier">
+umich-bhl-8747</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Institute of Labor and Industrial Relations (University of Michigan-Wayne State University) records, 1949-1975
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Frank Boles </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-10-23</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Universityt Archives and Records Program<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Institute of Labor and Industrial Relations <lb />(University of Michigan-Wayne State University) <lb />records, 1949-1975</titleproper>
+      <author>Finding aid created by<lb /> 
+Frank Boles, 1986</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<corpname source="lcnaf" encodinganalog="110">
+Institute of Labor and Industrial Relations (University of Michigan-Wayne State University).
+</corpname>
+</origination>
+      <unittitle encodinganalog="245">
+Institute of Labor and Industrial Relations (University of Michigan-Wayne State University) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1949-1975
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+1 linear foot
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8747 Bimu C542 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Organization founded jointly by the University of Michigan and Wayne State University to encourage practical education and research in all areas of industrial relations. Files from the University of Michigan office, including executive board records, unpublished papers, and miscellaneous topical files; and photographs.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload" /></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The records were donated by the Institute (donor no. <num type="donor" encodinganalog="541$e">3794</num>) and came to the library in 1986.</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The record group is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Institute of Labor and Industrial Relations (University of Michigan-Wayne State University) records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>The Institute of Labor and Industrial Relations was founded in the Spring of 1957 under the joint auspices of the University of Michigan and Wayne State University. Its objective is to encourage practical education and research in all areas of industrial relations.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Institute's records measure one linear foot and date from 1949 to 1975. They consist of a scattering of materials, arbitrarily arranged into a single topical file. Of most interest are the executive board records (1957-1960; 1966-1969) and a few unpublished papers regarding aspects of labor relations in Michigan.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="650">Industrial relations--United States.</subject>
+        <subject source="lcsh" encodinganalog="650">Labor--Michigan.</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Topical File, <unitdate type="inclusive">1949-1975</unitdate></unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Allen, Donna, <unitdate type="inclusive">1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Axelrod, S. J., <unitdate type="inclusive">1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Barkin, Solomon, <unitdate type="inclusive">1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Certificates, <unitdate type="inclusive">ca. 1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Community Services</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Councils</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Community, <unitdate type="inclusive">1957-1959</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Faculty, <unitdate type="inclusive">1957-1960</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Labor Advisory, <unitdate type="inclusive">1957</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Executive Board</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1957-1960</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1966-1969</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Ferman, Lou, and Scott Harvey, "Job Retraining in Michigan," <unitdate type="inclusive">1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>French Trade Union Development Team, <unitdate type="inclusive">1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Hunter, Woodrow, "Pre-Retirement Report," <unitdate type="inclusive">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Italian Trade Union Development Team, <unitdate type="inclusive">1959-1960</unitdate> </unittitle>
+            <physdesc>
+              <extent>4 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Labor School Brochures, <unitdate type="inclusive">1965-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Marcus, Philip M., <unitdate type="inclusive">1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Michigan, University of</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Bureau of Industrial Relations, <unitdate type="inclusive">1956</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Institute for Social Research, <unitdate type="inclusive">1949-1956</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Pikulinski, Jerome, "Use of Organizational Constructs to Shape the Behavior of Semi-Professional Trainers in Detroit," <unitdate type="inclusive">1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Programs, <unitdate type="inclusive">1957-1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Rehmus, Charles M. and Anita W. Schoomaker, "Public Safety 'Final Offer' Arbitration in Michigan," <unitdate type="inclusive">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Sexton, Brendon, <unitdate type="inclusive">1957-1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Social Security Conferences</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>
+            <genreform normal="Photographs">Photographs</genreform>
+          </unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Photos of labor conferences at the University of Michigan, <unitdate type="inclusive">1957-1964</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

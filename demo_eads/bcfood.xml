@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::bcfood.xml//EN" encodinganalog="identifier">
+umich-bhl-734
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Battle Creek Food Company  [Miscellaneous printed items] {19--]-1938
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2005 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>June 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050621</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Battle Creek Food Company  <lb/>[Miscellaneous printed items] [19--]-1938</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections Staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="100">
+Battle Creek Food Company
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Battle Creek Food Company  [Miscellaneous printed items] 
+<unitdate type="inclusive" encodinganalog="245$f">
+[19--]-1938
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 lin. ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+FB 2 BF686 M678 
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Miscellaneous printed items of the Battle Creek Food Company mostly relating to health and diet.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The Battle Creek Food Company Miscellaneous printed items were received as individual items or as parts of various accessions. </p>
+</acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open without restriction.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright status is unclear, presumably held by the publisher.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Battle Creek Food Company  [Miscellaneous printed items], Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Battle Creek, Michigan company formed by John Harvey Kellogg ca. 1906, after his split with his brother Will, to develop and market soy products and health foods.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>Miscellaneous printed items of the Battle Creek Food Company mostly relating to health and diet.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Battle Creek Food Company.</corpname><subject source="lcsh" encodinganalog="650">Food.</subject>
+<subject source="lcsh" encodinganalog="650">Hygiene.</subject>
+<subject source="lcsh" encodinganalog="650">Medicine--Michigan--Battle Creek.</subject>
+<subject source="lcsh" encodinganalog="650">Public health--United States.</subject>
+</controlaccess>
+</controlaccess>
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Miscellaneous printed items</unittitle></did>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>The art of slenderizing, <unitdate type="inclusive">[19-]</unitdate> </unittitle> <physdesc><physfacet>30 p. ; 10 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>The art of slenderizing the Battle Creek way, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>31 p. ; 14 cm.</physfacet></physdesc></did> <note><p>(2 copies, slightly different.)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Battle Creek selling aids for building business, <unitdate type="inclusive">[1938]</unitdate> </unittitle> <physdesc><physfacet>23 p. ; 28 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Battle Creek special purpose foods, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>23 p. ; 18 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Colitis: a common and increasing American disease, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>15 p. ; 19 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Colitis: a common and increasing American disease, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>17 p. ; 19 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Diet helps for docotors, <unitdate type="inclusive">1928</unitdate> </unittitle> <physdesc><physfacet> 43 p., 2 folded leaves ; 23 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>The ethics of eating flesh, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>18 p. ; 15 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Foods for high blood pressure, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>12 p. ; 16 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Foods for slenderizing, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>25 p. ; 16 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Good eating for health, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>28 p. ; 18 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Healthful living: fundamental facts about food and feeding, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>47 p. ; 23 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Healthful living: fundamental facts about food and feeding, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>60 p. ; 22 cm.</physfacet></physdesc></did> <note><p>(2 copies: identical covers but different text)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Healthful living: fundamental facts about food and feeding, <unitdate type="inclusive">[1930 ?]</unitdate> </unittitle> <physdesc><physfacet>64 p. ; 23 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>High blood pressure, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>15 p. ; 16 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Home digest, <unitdate type="inclusive">1926</unitdate> </unittitle> <physdesc><physfacet>25-28 cm.</physfacet></physdesc></did> <note><p>(Issues for May 1927, November 1927,  March1933, July 1933)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>How to eat to build and to maintain good health, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>63 p. ; 21 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>How to eat to build and to maintain good health, <unitdate type="inclusive">ca. 1933</unitdate> </unittitle> <physdesc><physfacet>47 p. ; 18 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>The insulin-dietetic treatment of diabetes, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>12 p., 1 folded leaf ; 23 cm</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>The intestinal flora, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>32 p. ; 23 cm.</physfacet></physdesc></did> <note><p>(2 copies, slightly different)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Modern menus and recipes for your health, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>28 p. ; 18 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>The natural method of changing the intestinal flora by causing growth of b. acidophilus without the use of cultures, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>11 p. ; 23 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Nutritional facts as an aid to healthful living, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>63 p. ; 21 cm</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>100 per cent American blood, <unitdate type="inclusive">[1925 ?]</unitdate> </unittitle> <physdesc><physfacet>12 p. ; 16 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>A practical method of changing the intestinal flora, <unitdate type="inclusive">ca. 1932</unitdate> </unittitle> <physdesc><physfacet>16 p. ; 22 cm</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Suggestions for the child's diet, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>14 p. ; 16 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Tired...sluggish?, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>13 p. ; 16 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Vitamins, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>22 leaves ; 22 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>What medical authorities say about changing the intestinal flora and worthless commerical cultures, <unitdate type="inclusive">[192-?]</unitdate> </unittitle> <physdesc><physfacet>12 p. ; 23 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>What to eat in diabetes, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>40 p. ; 16 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>You will enjoy these modern recipes, <unitdate type="inclusive">[19--]</unitdate> </unittitle> <physdesc><physfacet>16 p. ; 18 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous flyers, advertisements, and recipes.</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

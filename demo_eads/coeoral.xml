@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::coeoral.xml//EN" encodinganalog="Identifier">
+umich-bhl-2011113</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+College of Engineering (University of Michigan) Oral History Interviews, 2003
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Christopher Schunter, September 2011</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2009">
+2009</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2012</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2012-01-13</date>
+        <item>Original encoding from Word 2007 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>University Archives and Records Program<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+College of Engineering<lb /> (University of Michigan) <lb />Oral History Interviews, 2003
+</titleproper>
+      <author>Finding aid created by<lb /> 
+Christopher Schunter, September 2011
+</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan.  College of Engineering.
+</corpname></origination>
+      <unittitle encodinganalog="245">
+College of Engineering (University of Michigan) Oral History Interviews
+<unitdate type="inclusive" encodinganalog="245$f">
+2003
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+17 audio cassettes.
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2011113
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Oral histories of University of Michigan College of Engineering faculty members, conducted by Enid Galler in 2003, discussing their background, education, careers, and the college and university
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload" /></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The oral history interview tapes and transcripts were received from the University of Michigan College of Engineering (donor no. <num type="donor" encodinganalog="541$e">1884</num>) in December 2006.
+ 
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>Periodic additions to the records are expected.</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>The collection is open without restriction.</p>
+        <p>
+          <extptr href="uarpacc" show="embed" actuate="onload" />
+        </p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright has not been transferred to the Regents of the University of Michigan. No release forms are on file for the interviews.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+College of Engineering (University of Michigan) Oral History Interviews, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Oral history project conducted by Enid Galler in 2003 to document the history of the University of Michigan College of Engineering.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The University of Michigan College of Engineering Oral History Interviews are comprised of typed transcripts and audio cassette tapes of nine interviews with retired faculty members recorded during an oral history project undertaken by the college. The interviews were conducted by Enid H. Galler in 2003.</p>
+      <p>Interviews typically include information on the subject's background, education, and family, and commentary on his or her career and overall involvement with the university. The interviews also contain a great deal of information on the administration of, and issues within the College of Engineering, as well as on the operation of the university as a whole.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Engineering.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Sound Recordings:</head>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Engineering.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Adamson, Thomas Charles.</persname>
+        <persname source="lcnaf" encodinganalog="700">Balzhiser, Richard E.</persname>
+        <persname source="lcnaf" encodinganalog="700">Benford, Harry.</persname>
+        <persname source="lcnaf" encodinganalog="700">Buning, Harm Leopold.</persname>
+        <persname source="lcnaf" encodinganalog="700">Burks, Arthur W. (Arthur Walter), 1915-2008.</persname>
+        <persname source="lcnaf" encodinganalog="700">Duderstadt, James J., 1942-</persname>
+        <persname source="lcnaf" encodinganalog="700">Frey, Donald Welson.</persname>
+        <persname source="lcnaf" encodinganalog="700">Galler, Enid H.</persname>
+        <persname source="lcnaf" encodinganalog="700">Harden, Elaine.</persname>
+        <persname source="lcnaf" encodinganalog="700">Howe, Robert Milton, 1925-</persname>
+        <persname source="lcnaf" encodinganalog="700">Smith, Goff.</persname>
+        <persname source="lcnaf" encodinganalog="700">Wyman, Irma.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Oral histories.</genreform>
+        <genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Transcripts</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Tom Adamson, Harm Buning, Robert Howe, <unitdate type="inclusive">2003</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Richard Balzhiser, <unitdate type="inclusive">2003</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Harry Benford, <unitdate type="inclusive">2003</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Arthur W. Burks, <unitdate type="inclusive">2003</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>James Duderstadt, <unitdate type="inclusive">2003</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Donald N. Frey, <unitdate type="inclusive">2003</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Elaine Harden, <unitdate type="inclusive">2003</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Goff Smith, <unitdate type="inclusive">2003</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Irma Wyman, <unitdate type="inclusive">2003</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box" label="Box">1</container>
+          <unittitle>Audiocassettes</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Tom Adamson, Harm Buning, Robert Howe, <unitdate type="inclusive">March 2003</unitdate> </unittitle>
+            <physdesc>
+              <extent>2 tapes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Richard Balzhiser, <unitdate type="inclusive">April 2003</unitdate> </unittitle>
+            <physdesc>
+              <extent>2 tapes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Harry Benford, <unitdate type="inclusive">March 2003</unitdate> </unittitle>
+            <physdesc>
+              <extent>2 tapes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Arthur W. Burks, <unitdate type="inclusive">May 2003</unitdate> </unittitle>
+            <physdesc>
+              <extent>3 tapes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>James Duderstadt,  June </unittitle>
+            <physdesc>
+              <extent>2 tapes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Donald N. Frey, <unitdate type="inclusive">June 2003</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Elaine Harden,  <unitdate type="inclusive">June 2003</unitdate></unittitle>
+            <physdesc>
+              <extent>2 tapes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Goff Smith, <unitdate type="inclusive">June 2003</unitdate></unittitle>
+            <physdesc>
+              <extent>2 tapes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Irma Wyman, <unitdate type="inclusive">April 2003</unitdate> </unittitle>
+            <physdesc>
+              <extent>2 tapes</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

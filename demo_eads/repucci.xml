@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::repucci.xml//EN" encodinganalog="Identifier">
+umich-bhl-2008092</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Shirine M. Repucci papers, 2003-2004
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Shannon Wait, May 2008</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2007">
+XX</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>may 2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-06-17</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Shirine M. Repucci papers, 2003-2004
+</titleproper>
+      <author>Finding aid created by<lb /> 
+Shannon Wait, May 2008</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<persname source="lcnaf" encodinganalog="100">
+Repucci , Shirine M. 
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+Shirine M. Repucci papers
+<unitdate type="inclusive" encodinganalog="245$f">
+2003-2004
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+0.5 linear feet
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2008092 Aa
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Shirine M. Repucci served as Coordinator of MichNet recruitment for Merit Network, and wrote a Master's thesis at Eastern Michigan University, entitled "Women's Role in the Development of the Internet and the Social Movement They Propelled." Collection includes tape recordings and typed transcripts of interviews with staff from Merit Network, and National Science Foundation NSFNet, as well as Repucci's Master's thesis. 
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload" /></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The records were received from Shirine Repucci (Donor No. <num type="donor" encodinganalog="541$e">9724</num>) in April 2006.
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is retained by Shirine M. Repucci. In some cases, researchers must request permission from interviewees, in order to quote from interviews. See consent forms for more information.  
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Shirine M. Repucci papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Shirine M. Repucci wrote her Master's Thesis, entitled "Women's Role in the Development of the Internet and the Social Movement They Propelled" in 2004 for Eastern Michigan University.  Previously, she served as Coordinator of MichNet recruitment for Merit Network, an organization established in 1966 to facilitate networked computing on large research universities.</p>
+      <p>Repucci has contributed articles to the <title render="italic">Encyclopedia of Gender and Information Technology.</title> </p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Repucci Collection consists of three series relating to her research on women's roles in the development of the internet: interviews on cassette tape; transcripts of these interviews, along with consent forms; and Repucci's Master's thesis based on the interviews, entitled, "Women's Role in the Development of the Internet and the Social Movement They Propelled." </p>
+      <p>The following were interviewed by Repucci:<list type="simple"><item>Eric Aupperle, Director of Merit from 1974-2001</item><item>Jane Caviness, Program Director, NSFNet</item><item>Elise Gerich, Associate Director for National Networking at Merit</item><item>Susan Hares, Internet Engineer at Merit, 1988-2001</item><item>Ellen Hoffman, Manager of User Services at Merit</item><item>Jo Ann Ward, Computer Systems Consultant at Merit , 1988-</item><item>Stephen Wolff, Division Chief, NSFNet</item><item>Jessica Yu, co-Principle Investigator at Merit; Engineer, NSFNet</item></list>
+</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="650">Internet--History.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Merit Network, Inc.</corpname>
+        <persname source="lcnaf" encodinganalog="600">Repucci, Shirine M.</persname>
+        <subject source="lcsh" encodinganalog="650">Women in computer science.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Auperle, Eric M.</persname>
+        <persname source="lcnaf" encodinganalog="700">Cavines, Jane.</persname>
+        <persname source="lcnaf" encodinganalog="700">Gerich, Elise.</persname>
+        <persname source="lcnaf" encodinganalog="700">Hares, Susan.</persname>
+        <persname source="lcnaf" encodinganalog="700">Hoffman, Ellen.</persname>
+        <persname source="lcnaf" encodinganalog="700">Ward, Joann.</persname>
+        <persname source="lcnaf" encodinganalog="700">Wolff, Stephen.</persname>
+        <persname source="lcnaf" encodinganalog="700">Yu, Jessica.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Audiocassettes.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Audio Recordings</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Interviews on Audio Cassettes</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Eric Aupperle, <unitdate type="inclusive">2/21/2003</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Jane Caviness, <unitdate type="inclusive">5/1/2003</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Elise Gerich, <unitdate type="inclusive">10/17/2003</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Susan Hares, <unitdate type="inclusive">2/14/2003</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Ellen Hoffman, <unitdate type="inclusive">2/23/2003</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>JoAnn Ward, <unitdate type="inclusive">2/7/2003</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Steve Wolff, <unitdate type="inclusive">10/24/2003</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Transcripts of Interviews (with Participant Consent Forms)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Eric Aupperle, Director of Merit</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Elise Gerich, Associate Director for National Networking at Merit</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Ellen Hoffman, Manager of User Services at Merit</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>JoAnn Ward, Computer Systems Consultant at Merit</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Jane Caviness, Program Director, NSFNet</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Jessica Yu, co-Principle Investigator at Merit; Engineer, NSFNet</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Stephen Wolff, Division Chief, NSFNet</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Susan Hares, Internet Engineer at Merit</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Master's Thesis</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>"Women's Role in the Development of the Internet and the Social Movement They Propelled," <unitdate type="inclusive">March 2004</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

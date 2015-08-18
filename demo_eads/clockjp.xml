@@ -1,0 +1,87 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::clockjp.xml//EN" encodinganalog="identifier">umich-bhl-2010197</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for John Percey Clock papers,<date>1918-2010.</date></titleproper>
+<author encodinganalog="creator">Finding aid prepared by Len Coombs</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2011</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Len Coombs, <date>2011</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20110216</date><item>Original encoding in EAD2002 using manual tagging.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+<titleproper>Finding Aid for <lb/>John Percey Clock papers,<date>1918-2010.</date></titleproper>
+<author>Finding aid prepared by: <lb/>Len Coombs</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Clock, John Percey.</persname></origination>
+<unittitle encodinganalog="245">John Percey Clock papers
+<unitdate type="inclusive" encodinganalog="245$f">1918-2010</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">0.1 linear feet and  254 MB [4 digital files]</extent></physdesc>
+<abstract>Member of 337th Ambulance Company who served in the Allied intervention in Russia, 1918-1920, the "Polar Bear Expedition." 
+Collection includes inteview and miscellaneous papers. </abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">2010197 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was donated by Cheryl Gross in 2010
+(Donor no.: <num type="donor" encodinganalog="541$e">10349</num>).</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., John Percey Clock papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>John Percey Clock, of <geogname normal="Detroit (Mich.)">Detroit</geogname> and later 
+<geogname normal="Southfield (Mich.)">Southfield, Mich.</geogname>, served in the 
+<corpname normal="United States. Army. Ambulance Company, 337th.">337th Ambulance Company</corpname> during the American intervention in North Russia, 
+the "Polar Bear Expedition."</p></bioghist>
+
+<scopecontent><p>This collection contains physical files as well as digital reproductions.  In this finding aid, the collection has been arranged into one series, Papers.</p><p>This collection contains digitized sound recordings (Folder 1); the original sound recordings are owned by the donor.  The digital items in this collection were digitized from originals by the individual donor before being received by the Bentley Historical Library.  Preservation copies of these files with their original file names and CD-ROM file structures intact have been submitted to Deep Blue.  Access copies of these digital files can be viewed by clicking on the links next to the individual folders in the Content List below.</p>
+<p>Papers include an interview with<genreform normal="Transcriptions."> transcription</genreform> of <persname normal="Clock, John Percey">John Percey Clock</persname> and 
+<persname normal="Montgomery, Lawrence K.">Lawrence K. Montgomery</persname> of <geogname normal="Charlevoix (Mich.)">Charlevoix, Mich.</geogname>, 
+who served in <corpname normal="United States. Army. Infantry, 339th. Company K.">Company K, 339th Infantry</corpname>, interviewed by 
+<persname normal="Clock, John Robert">John Robert Clock</persname> June 25, 1978. Also miscellaneous papers relating to Clock's service and 
+activities of the <corpname normal="Polar Bear Association.">Polar Bear Association</corpname>.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects</head>
+<persname source="lcnaf" encodinganalog="600">Clock, John Percey.</persname>
+<persname source="lcnaf" encodinganalog="600">Montgomery, Lawrence K.</persname>
+<corpname source="lcsh" encodinganalog="610">Polar Bear Association.</corpname>
+<geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied Intervention, 1918-1920.</geogname>
+<corpname source="lcsh" encodinganalog="610">United States. Army. Ambulance Company, 337th.</corpname>
+<corpname source="lcsh" encodinganalog="610">United States. Army. Infantry, 339th.</corpname>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+<subject source="local" encodinganalog="690">Polar Bear Expedition.</subject></controlaccess>
+
+<controlaccess><head>Genre/Form:</head>
+<genreform source="aat" encodinganalog="655" normal="Oral histories.">Oral histories.</genreform>
+<genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+</controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Papers</unittitle></did>
+
+<c02 level="file"><did><container type="folder" label="Folder">1</container>
+<unittitle>Digitized sound recording of interview</unittitle><physdesc><extent>4 mp3 files compressed in 1 zip file</extent></physdesc><dao show="new" actuate="onrequest" href="clock0001"><daodesc><p>[download file]</p></daodesc></dao></did></c02><c02 level="file"><did><container type="folder" label="Folder">2</container>
+<unittitle>Interview transcript</unittitle></did></c02>
+
+
+
+<c02 level="file"><did><container type="folder" label="Folder">3</container>
+<unittitle><corpname normal="Polar Bear Association.">Polar Bear Association</corpname> publications</unittitle></did></c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">4</container>
+<unittitle>Miscellaneous papers</unittitle>
+</did></c02>
+
+
+
+</c01></dsc></archdesc></ead> 

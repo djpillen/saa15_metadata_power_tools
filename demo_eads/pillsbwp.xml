@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::pillsbwp.xml//EN" encodinganalog="Identifier">
+umich-bhl-726</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+W. B. Pillsbury pamphlets and reprints, 1900-1950
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-11-15</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+W. B. Pillsbury pamphlets and reprints, 1900-1950</titleproper>
+      <author>Finding aid created by<lb /> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<persname source="lcnaf" encodinganalog="100">
+Pillsbury, W. B. (Walter Bowers), 1872-1960.
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+W. B. Pillsbury pamphlets and reprints
+<unitdate type="inclusive" encodinganalog="245$f">
+1900-1950
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+42 items (1 box)
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+[726] DA 2; P642; P186
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Pillsbury was professor of psychology at the University of Michigan from 1897 to 1942; collection consists of reprints of articles an book reviews.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload" /></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was  assembled forma variety of sources.</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+The copyright status of individual pamphlets is unclear.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+W. B. Pillsbury pamphlets and reprints, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Walter Bowers Pillsbury was professor of psychology at the University of Michigan, teaching first in the philosophy department and then helping to establish a psychology department.  Pillsbury was born July 21, 1872 in Burlington, Iowa.  He studied at Penn College, the University of Nebraska, and Cornell University where he received his Ph. D. degree in 1896.  After teaching for a year at Cornell, Pillsbury in 1897 came to the University of Michigan as an instructor in psychology (in the philosophy department).  In 1901, he became director of the psychology laboratory.  In 1910, he was made full professor and in 1929, when the department of psychology was established, he was appointed chairman.</p>
+      <p>Before coming to the university, there were only occasional lectures in psychology, given by philosophy professors.  Pillsbury introduced regular courses in psychology.  He also established the psychological laboratory which introduced students to laboratory work and stimulated extensive experimentation with humans as well as animals.  In his research and writing, Pillsbury was renowned for his work in the area of reasoning and attention, publishing monographs on both topics.  He was skilled as a teacher and lecturer, and was a prolific writer.  Pillsbury retired from the university in 1942 and died in 1960.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Walter Pillsbury pamphlets and reprints collection consists of articles and book review on various topics in psychology, including articles about contemporary psychologists Edouard Claparede , Harvey A. Carr, James McKeen Cattell, John Dewey, Joseph Jastrow, and Clarence Stone Yoakum</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <persname encodinganalog="600" source="lcnaf">Carr, Harvey, 1873-</persname>
+        <persname encodinganalog="600" source="lcnaf"> 	 Claparède, Edouard, 1873-1940.</persname>
+        <persname encodinganalog="600" source="lcnaf">Cattell, James McKeen, 1860-1944.</persname>
+        <persname encodinganalog="600" source="lcnaf">Dewey, John, 1859-1952.</persname>
+        <persname encodinganalog="600" source="lcnaf">Jastrow, Joseph, 1863-1944.</persname>
+        <persname encodinganalog="600" source="lcnaf"> 	 Washburn, Margaret Floy, 1871-1939.</persname>
+        <persname encodinganalog="600" source="lcnaf">  	 Yoakum, Clarence Stone, 1879-1945</persname>
+        <geogname encodinganalog="655" source="lcsh">Psychology.</geogname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Pamphlets and Reprints.</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>An attempt to harmonize the current psychological theories of the judgment. <unitdate type="inclusive">1907</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Attention. <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Attention: a reply. <unitdate type="inclusive">1909</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Attention waves as a means of measuring fatigue. <unitdate type="inclusive">1903</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Body form and introversion-extroversion. <unitdate type="inclusive">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>A case of mental conflict. <unitdate type="inclusive">1936</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Clarence Stone Yoakum. 1879-1945.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The common points in recent theories of problem solving. <unitdate type="inclusive">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The concept in psychology. <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Correlations between the university-grades of parents and children and of siblings. <unitdate type="inclusive">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Does the sensation of movement originate in the joint? <unitdate type="inclusive">1901</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Edouard Claparede. 1873-1940.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The ego and empirical psychology. <unitdate type="inclusive">1907</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>An extension of the Kohler-Restorff inhibition phenomenon. 1943. </unittitle>
+          </did>
+          <note>
+            <p>(with H.L. Raush)</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Gestalt vs. concept as a principle of explanation in psychology. <unitdate type="inclusive">1926</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Harvey A. Carr: 1873-1954. <unitdate type="inclusive">1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>James McKeen Cattell 1860-1944. <unitdate type="inclusive">1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>John Dewey 1859-1952. <unitdate type="inclusive">1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Joseph Jastrow 1863-1944. <unitdate type="inclusive">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Knowledge in modern psychology. <unitdate type="inclusive">1950</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Margaret Floy Washburn (1871-1939). <unitdate type="inclusive">1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The new developments in psychology in the past quarter century. <unitdate type="inclusive">1917</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>A new form of piston recorder and some of the changes of the volume of the finger which it records. <unitdate type="inclusive">1899</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>A note on 'advancing and retreating' colors. <unitdate type="inclusive">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The place of movement in consciousness. <unitdate type="inclusive">1911</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Propaganda and the democratic state. <unitdate type="inclusive">1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The psychological nature of casualty. <unitdate type="inclusive">1904</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The psychology of Edward Bradford Titchener. <unitdate type="inclusive">1928</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Recent naturalistic theories of reasoning. <unitdate type="inclusive">1924</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Retroactive and proactive inhibition in immediate memory. <unitdate type="inclusive">1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The role of the type in simple mental processes. <unitdate type="inclusive">1911</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Secondary rhythms of the normal human heart. <unitdate type="inclusive">1899</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Selection--an unnoticed function of education. <unitdate type="inclusive">1921</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>A study in apperception. <unitdate type="inclusive">1897</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>A suggestion toward reinterpretation of Introspection. <unitdate type="inclusive">1904</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Suggestions for a compromise of existing controversies in psychology. <unitdate type="inclusive">1922</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Titchener and James. <unitdate type="inclusive">1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Trial and error as a factor in evolution. <unitdate type="inclusive">1906</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The units of experience--meaning or gestalt. <unitdate type="inclusive">1933</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>What is native in the so-called instincts? <unitdate type="inclusive">1927</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Book Reviews</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>"How We Learn" by Boyd H. Bode (book review) from <title render="italic">American Journal of Psychology</title>, <unitdate type="inclusive">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>"Psychologie der Veranderungsauffassung" by Von L. Wilhelm Stern (book review) from <title render="italic">The Critical Review</title>, <unitdate type="inclusive">1900</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+    <descgrp>
+      <relatedmaterial>
+        <head>Related Material</head>
+        <p>W. B. Pillsbury papers, 1890-1942 (3.5 linear feet) are held by the Bentley Historical Library. Walter</p>
+      </relatedmaterial>
+    </descgrp>
+  </archdesc>
+</ead>

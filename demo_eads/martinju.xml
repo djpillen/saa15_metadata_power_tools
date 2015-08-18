@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::martinju.xml//EN" encodinganalog="Identifier">
+umich-bhl-851848</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Julia Bird Martin papers, 1796-1965
+</titleproper>
+
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>June 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-06-05</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Julia Bird Martin papers, 1796-1965</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Martin, Julia Bird
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Julia Bird Martin papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1796-1965
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear feet (in 2 boxes) and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851848 Aa 2; Ac; UAx
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The Slatford Bird families were residents of Ann Arbor, Michigan. Correspondence and family papers, including letters, 1851-1853, of John Slatford written from the California gold fields describing his activities.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Earl W. Martin (donor no. <num type="donor" encodinganalog="541$e">4699</num>) in 1968.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Julia Bird Martin papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Job Slatford and wife Hannah came to Ann Arbor in 1832. Job Slatford was a carpenter, but with the discovery of gold in California, he and one of his sons, John, set out for the gold field in 1851. Unfortunately, Job Slatford died on the way. </p>
+
+<p>Another of the eight children born to Job and Hannah Slatford was Jane Slatford Bird (born October 6, 1824; died November 29, 1907). Married to John C. Bird on November 5, 1844, she spent most of her life farming and maintaining a peach and apple orchard. </p>
+
+<p>John Bird was the son of Elijah Bird who was born October 1810 in Morris County, New York. Like Job and Hannah Slatford, Elijah Bird had originally come to Ann Arbor in 1832. He thereafter moved to a farm in Argentine in Genesee County, Michigan, then to Linden in 1866.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Slatford and Bird family papers were collected by Julia Bird Martin, who was the great grand-daughter of Job Slatford and grand-daughter of Jane Slatford Bird. The collection consists of family correspondence from various members of both the Slatford and Bird families.  The collection not only relates to family matters, but also includes letters of John Slatford written from the California gold fields, 1851-1853.  In addition there are clippings, photographs, postcards, and family memorabilia.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">California--Gold discoveries.</geogname>
+<geogname source="lcsh" encodinganalog="651">California--Social life and customs</geogname>
+<geogname source="lcsh" encodinganalog="651">Washtenaw County (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor.</subject>
+<persname source="lcnaf" encodinganalog="600">Martin, Julia Bird.</persname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<persname source="lcnaf" encodinganalog="600">Martin, Julia Bird.</persname>
+<famname source="lcnaf" encodinganalog="600">Martin family.</famname>
+<persname source="lcnaf" encodinganalog="600">Slatford, Hannah, 1796 or 7-1872.</persname>
+<famname source="lcnaf" encodinganalog="600">Slatford family.</famname>
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Bird, John Chambres, 1822-1887.</persname>
+<persname source="lcnaf" encodinganalog="700">Bird, Judson S., d. 1882.</persname>
+<famname source="lcnaf" encodinganalog="700">Bird family.</famname>
+<persname source="lcnaf" encodinganalog="700">Slatford, Job, 1795-1851.</persname>
+<persname source="lcnaf" encodinganalog="700">Slatford, John, b. 1817.</persname>
+<famname source="lcnaf" encodinganalog="700">Slatford family.</famname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="gmgpc" encodinganalog="655">Daguerreotypes.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Family papers</unittitle></did>
+<c02 level="file"><did><unittitle>Correspondence and other family documents </unittitle></did> <note><p>(see also oversize folder, Ac)</p></note>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> fragments</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1796-1840</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1841-1860</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1861-1870</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1871-1875</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1876-1880</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1881-1890</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1891-1965</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Correspondence and papers, <unitdate type="inclusive">1875-1898</unitdate> concerning Northern Pacific Railroad Company</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Clippings concerning the Slatford Bird family of Ann Arbor</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Clippings: largely newspaper front pages with announcements of assassinations of Lincoln, Garfield, etc.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Christmas cards and miscellaneous postcards</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellanea; include printed material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Notes and enlarged copies of selected family letters used by Professor Russell Bidlack in his research</unittitle></did></c02>
+<c02 level="file"><did><unittitle><genreform normal="Photographs">Photographs</genreform> </unittitle></did> <c03><did><container type="box" label="Box">2</container><unittitle>Family portraits</unittitle></did></c03><c03><did><physloc>Vault</physloc><unittitle>daguerreotype of  Hannah Slatford</unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

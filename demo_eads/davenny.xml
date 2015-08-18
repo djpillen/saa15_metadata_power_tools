@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::davenny.xml//EN" encodinganalog="Identifier">
+umich-bhl-851068</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Wilson I. Davenny papers, 1889-1917
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>July 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-07-28</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Wilson I. Davenny papers, 1889-1917</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Davenny, Wilson Imbrie, 1859-1917.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Wilson I. Davenny papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1889-1917
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+3 linear feet and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851068 Aa 2; UAm
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Newspaperman, lobbyist for the National Rivers and Harbors Congress, and spokesman for the United Spanish War Veterans. Correspondence, scrapbooks, speeches, business papers and account books relating primarily to his work as a lobbyist.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection came from Mr. and Mrs. Donald Adams (donor no. <num type="donor" encodinganalog="541$e">857</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Wilson I. Davenny papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Wilson I. Davenny was a veteran of the Spanish-American War. In his career, he was newspaperman for the <title render="italic">New York Tribune</title>, field secretary for the National Rivers and Harbors Congress, a waterways lobby, and assistant adjutant general of the United Spanish War Veterans organization.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Davenny collection is comprised of the following series: Correspondence and other papers; United Spanish War Veterans Organization; National Rivers and Harbors Congress; and Other materials. The National Rivers and Harbors Congress series provides insight into the financing and operation of the lobby. Much of the correspondence in this series is with M.A. Thompson, secretary and treasurer of the organization.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Lobbying.</subject>
+<corpname source="lcnaf" encodinganalog="610">National Rivers and Harbors Congress.</corpname>
+<corpname source="lcnaf" encodinganalog="610">United Spanish War Veterans.</corpname>
+<subject source="lcsh" encodinganalog="650">Veterans--Michigan--Societies, etc.</subject>
+<subject source="lcsh" encodinganalog="650">Spanish-American War, 1898</subject>
+
+
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<geogname source="lcsh" encodinganalog="651">Cuba.</geogname>
+<persname source="lcnaf" encodinganalog="600">Davenny, Wilson Imbrie, 1859-1917.</persname>
+<corpname source="lcnaf" encodinganalog="610">Maine (Battleship)</corpname>
+<subject source="lctgm" encodinganalog="650">Military art and science.</subject>
+<subject source="lcsh" encodinganalog="650">Spanish-American War, 1898</subject>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Ransdell, Joseph Eugene, 1858-1954.</persname>
+<persname source="lcnaf" encodinganalog="700">Smith, Samuel William, 1852-1931.</persname>
+<persname source="lcnaf" encodinganalog="700">Washington, Booker T., 1856-1915.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+<genreform source="gmgpc" encodinganalog="655">Tintypes.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence and other papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1889-1933</unitdate> </unittitle> <physdesc><extent>24 folders</extent></physdesc></did> <note><p>(include letter from Booker T. Washington, 1911, and from Rep. Samuel Smith, May 11, June 15 and June 22, 1914)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>United Spanish War Veterans Organization </unittitle></did> <note><p>(and related organizations)</p></note>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1898-1916</unitdate> </unittitle> <physdesc><extent>11 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous, <unitdate type="inclusive">1901-1912</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Speeches</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic">Spanish War Review</title>, <unitdate type="inclusive">1911-1912</unitdate> </unittitle></did> <note><p>(Davenny was editor and manager during this period)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>National Rivers and Harbors Congress </unittitle></did> <note><p>(waterways lobby; Davenny was field secretary)</p></note>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1912-1917</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>25 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Letters containing endorsements of Davenny for US Consular Service, <unitdate type="inclusive">1897</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Abstracts, deeds, and inventory of the Davenny library</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Cash book, <unitdate type="inclusive">1909</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform>, <unitdate type="inclusive">1903-1906</unitdate> </unittitle> <physdesc><extent>8 volumes</extent></physdesc></did> <note><p>(probably clippings of articles that Davenny wrote for the<title render="italic">New York Tribune</title> )</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Pocket expense books, <unitdate type="inclusive">1906-1909</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><genreform normal="Photographs">Photograph</genreform> album relating to the raising and commemoration of the U.S.S. Maine in <unitdate type="inclusive">1912</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><genreform normal="Photographs">Photograph</genreform>: portraits of Davenny, his wife, and acquaintances </unittitle> <physdesc><extent>2 folders</extent></physdesc></did> <note><p>(see also oversize folder UAm)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

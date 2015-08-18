@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::loshhaz.xml//EN" encodinganalog="Identifier">
+umich-bhl-861079</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Hazel Marie Losh papers, 1870s-1978
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collection staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>March 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-03-08</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Hazel Marie Losh papers, 1870s-1978</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collection staff</author>
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Losh, Hazel Marie, 1898-1978.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Hazel Marie Losh papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1870s-1978
+</unitdate>
+
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+861079 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of astronomy at the University of Michigan, friend and booster of U-M athletics and athletes; correspondence, speeches, class materials, and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection came from the estate of Hazel Losh (donor no. <num type="donor" encodinganalog="541$e">6254</num>) in 1978.</p></acqinfo>
+
+
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Hazel Marie Losh papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Hazel M. Losh was born August 28, 1898 in Blanchester, Ohio. She was educated at Ohio Wesleyan (B.A., 1920) and the University of Michigan (M.A., 1922; Ph.D. in Astronomy, 1924). She began her career as an instructor in astronomy at Smith College (1924-1925) and with the Mt. Wilson Observatory Solar Department (1925-1927). She came to the University of Michigan Department of Astronomy in 1927 as instructor.  She would eventually work her way up to full professor in 1965. She retired in 1969 and died October 5, 1978.</p>
+
+<p>Professor Losh was a popular undergraduate teacher.  Many of the University's student athletes took her introductory course in astronomy.  In addition, she gave many public lectures as well as a monthly radio program on astronomy for the U-M's public radio station.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection is comprised of three series: Correspondence, course materials, and other papers; Photographs; and Sound Recording. The photographs are of Losh family members, photos relating to University of Michigan athletics and other interests.  There are also photos of Hazel Losh teaching in the classroom.  The Sound Recording is of Professor Thomas Slavens interviewing Professor Losh about her life and career.  A transcript has been made of this recording.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Astronomy--Michigan--Ann Arbor.</subject>
+<persname source="lcnaf" encodinganalog="600">Losh, Hazel Marie, 1898-1978.</persname>
+<genreform source="aat" encodinganalog="655">Oral histories.</genreform>
+<corpname source="lcnaf" encodinganalog="610">Phi Beta Kappa. Alpha Chapter (University of Michigan)</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Sports.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Astronomy.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<persname source="lcnaf" encodinganalog="600">Losh, Hazel Marie, 1898-1978.</persname>
+<famname source="lcnaf" encodinganalog="600">Losh family.</famname>
+
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Sports.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Astronomy.</corpname>
+<subject source="lctgm" encodinganalog="650">Women.</subject>
+<subject source="lctgm" encodinganalog="650">Classrooms--Michigan--Ann Arbor.</subject>
+</controlaccess>
+
+<controlaccess><head>Subjects - Sound Recordings:</head>
+<persname source="lcnaf" encodinganalog="600">Losh, Hazel Marie, 1898-1978.</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--History.</corpname>
+
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Slavens, Thomas P., 1928-</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="gmgpc" encodinganalog="655">Albums.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence, course materials, and other papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical material</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1921-1923</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1924</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1925-1928</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1931-1953</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1954-1961</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1962-1965</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1966-1968</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1969-1970</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1971-1978</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers re. Ann Arbor residences (910 E. Huron St. and 844 E. University Ave.)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Transcript of interview with Hazel Losh conducted by Thomas Slavens, <unitdate type="inclusive">ca. 1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Publications </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speech notes, Astronomy and Sports (on cards) </unittitle> <physdesc><extent>1 envelope</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches and speech notes (astronomy and sports)</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Student papers</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"History of Astronomy" (in verse) by Seibert S. Sproull, <unitdate type="inclusive">1948</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"History of Astronomy" (in verse and illustrated) by Robert Wild, <unitdate type="inclusive">1949</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"History of Astronomy" (in verse) by Tom Dudley, <unitdate type="inclusive">1961</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Teaching appointments</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Student papers and examinations (sample)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><unittitle>Activities, interests</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Athletes and coaches</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Dinners and Awards</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Observatories</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Professional Groups</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Residences</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Sporting Events</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Trip to Blanchester, Ohio (birthplace), <unitdate type="inclusive"> August 1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>With Tom Harmon</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Family</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Aunts and Uncles</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Clara Belle Losh, cousin</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Group photos, black and white</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Group photos, color</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Hazel M. Losh and others, black and white</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Hazel M. Losh and others, color</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Mabel (May Belle ?) Losh, sister</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Mrs. Mary Losh (mother)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Mrs. Mary Losh (mother) and Hazel M. Losh</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Relatives and Friends, unidentified</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Personal</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Adult</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Color photos</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Graduation, Ohio Wesleyan University, <unitdate type="inclusive">1920</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Later years</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Youth</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Negatives</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><genreform normal="Albums">Album</genreform> presented at tea honoring Professor Hazel Marie Losh, <unitdate type="inclusive"> April 11, 1968</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Sound recordings">Sound recording</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Interview conducted by Professor Thomas Slavens, <unitdate type="inclusive">circa. 1976</unitdate> </unittitle></did> <note><p>(transcript of interview located in box 1)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+    <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511"
+        dateencoding="iso8601" relatedencoding="Dublin Core">
+        <eadid countrycode="us" mainagencycode="MiU-H"
+            publicid="-//us::MiU-H//TEXT us::MiU-H::obrienjf.xml//EN" encodinganalog="identifier"
+            >umich-bhl-2011070</eadid>
+
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Finding Aid for James F. O'Brien
+                        papers,<date>1918-1945.</date></titleproper>
+                <author encodinganalog="creator">Finding aid prepared by Len Coombs</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Bentley Historical Library, University of
+                    Michigan</publisher>
+                <date encodinganalog="date">2011</date>
+            </publicationstmt>
+        </filedesc>
+
+        <profiledesc>
+            <creation>Encoded finding aid created by Len Coombs, <date>2011</date></creation>
+            <langusage>The finding aid is written in <language encodinganalog="language"
+                    langcode="eng">English.</language></langusage>
+        </profiledesc>
+
+        <revisiondesc>
+            <change>
+                <date>20110216</date>
+                <item>Original encoding in EAD2002 using manual tagging.</item>
+            </change>
+            <change>
+                <date>20120214</date>
+                <item>Edited to reflect migration of content from CD-ROM to Deep Blue JMBG</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+
+    <frontmatter>
+        <titlepage>
+            <publisher>Michigan Historical Collections <lb/>Bentley Historical
+                Library<lb/>University of Michigan</publisher>
+            <titleproper>Finding Aid for <lb/>James F. O'Brien
+                papers,<date>1918-1945.</date></titleproper>
+            <author>Finding aid prepared by: <lb/>Len Coombs</author>
+        </titlepage>
+    </frontmatter>
+
+    <archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21">
+        <did>
+            <origination><persname source="lcnaf" encodinganalog="100">O'Brien, James
+                F.</persname></origination>
+            <unittitle encodinganalog="245">James F. O'Brien papers <unitdate type="inclusive"
+                    encodinganalog="245$f">1918-1945</unitdate></unittitle>
+            <physdesc><extent>24.6 MB [14 digital files]</extent></physdesc>
+            <abstract>Digital copies of materials relating to the military service of James F.
+                O'Brien, who served as 2nd lieutenant in Company E, 339th Infantry, sent to
+                Archangel, Russia at the end of World War I, the "Polar Bear Expedition."</abstract>
+            <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number"
+                >2011070 Aa 2</unitid>
+            <langmaterial>The materials are in <language encodinganalog="041" langcode="eng"
+                    >English.</language></langmaterial>
+            <repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>
+                    University of Michigan</corpname><extptr href="bhladd" show="embed"
+                    actuate="onload"/></repository>
+        </did>
+
+        <descgrp type="admin">
+            <acqinfo encodinganalog="541">
+                <p>The collection was donated by Eileen O'Brien in 2010 (Donor no.: <num
+                        type="donor" encodinganalog="541$e">10560</num>).</p>
+            </acqinfo>
+            <accessrestrict encodinganalog="506">
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+            <originalsloc>
+                <p>The collection was scanned by the donor who retained the original materials.</p>
+            </originalsloc>
+            <prefercite encodinganalog="524">
+                <p>item, folder title, box no., James F. O'Brien papers, Bentley Historical Library,
+                    University of Michigan</p>
+            </prefercite>
+        </descgrp>
+
+        <bioghist encodinganalog="545">
+            <p>A resident of <geogname normal="Detroit (Mich.)">Detroit, Mich.</geogname>, <persname
+                    normal="O'Brien, James F.">James F. O'Brien</persname> served as 2nd lieutenant
+                in <corpname normal="United States. Army. Infantry, 339th. Company E.">Company E,
+                    339th Infantry</corpname>, during the American intervention at <geogname
+                    normal="Arkhangel'sk (Russia)">Archangel, Russia</geogname>, the "Polar Bear
+                Expedition."</p>
+        </bioghist>
+
+        <scopecontent encodinganalog="520">
+            <p>This collection contains digital records; the original papers and/or photographs are
+                owned by the donor. The digital items in this collection were digitized from
+                originals by the individual donors before being received by the Bentley Historical
+                Library. Preservation copies of these files with their original file names and
+                CD-ROM file structures intact have been submitted to Deep Blue. Access copies of
+                these digital files can be viewed by clicking on the links next to the individual
+                folders in the Content List below.</p>
+            <p>In this finding aid, the files have been arranged into one series, Papers and
+                Photographs. Within each series, files are listed numerically according to the file
+                arrangement they were given by the donor. The files in this collection are in JPG
+                and BMP format.</p>
+            <p>Files include digitized military documents, <genreform normal="Diaries."
+                    >diary</genreform> entries, photographs relating to his service ca. 1918; also
+                includes <genreform normal="Photographs.">photographs</genreform> of O'Brien and
+                Captain Otto Odjard in a hospital ward, and photographs and newspaper clippings,
+                possibly at the Detroit Ordnance District ca. 1943.</p>
+        </scopecontent>
+
+        <controlaccess>
+            <p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+            <controlaccess>
+                <head>Subjects</head>
+                <persname source="lcnaf" encodinganalog="600">O'Brien, James F.</persname>
+                <corpname source="lcsh" encodinganalog="610">Polar Bear Association.</corpname>
+                <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied
+                    Intervention, 1918-1920.</geogname>
+                <corpname source="lcsh" encodinganalog="610">United States. Army. Infantry, 339th.
+                    Company E.</corpname>
+                <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+                <subject source="local" encodinganalog="690">Polar Bear Expedition.</subject>
+            </controlaccess>
+
+            <controlaccess>
+                <head>Subjects - Visual Material:</head>
+                <corpname source="lcnaf" encodinganalog="610">United States. Army. Ordnance Dept.
+                    Detroit Ordnance District.</corpname>
+                <persname source="lcnaf" encodinganalog="600">O'Brien, James F.</persname>
+                <persname source="lcnaf" encodinganalog="600">Odjard, Otto Arthur.</persname>
+                <geogname source="lcnaf" encodinganalog="651">Soviet Union -- History -- Allied
+                    intervention, 1918-1920.</geogname>
+                <subject source="local" encodinganalog="690">Polar Bear Expedition.</subject>
+            </controlaccess>
+
+            <controlaccess>
+                <head>Genre/Form:</head>
+
+                <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+                <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+            </controlaccess>
+        </controlaccess>
+
+        <dsc type="combined">
+            <c01 level="series">
+                <did>
+                    <unittitle>Papers </unittitle>
+                </did>
+
+                <c02 level="file">
+                    <did>
+                        <container type="folder" label="Folder">1</container>
+                        <unittitle>Papers</unittitle>
+                        <physdesc><extent>11 files</extent></physdesc>
+                        <dao show="new" actuate="onrequest" href="obrien0001">
+                            <daodesc>
+                                <p>[view items]</p>
+                            </daodesc>
+                        </dao>
+                    </did>
+                </c02>
+
+
+            </c01>
+            <c01>
+                <did>
+                    <unittitle>Photographs [Series]</unittitle>
+                </did>
+                <c02>
+                    <did>
+                        <container type="folder" label="Folder">2</container>
+                        <unittitle>Photographs</unittitle>
+                        <physdesc><extent>3 files</extent></physdesc>
+                        <dao show="new" actuate="onrequest" href="obrien0002">
+                            <daodesc>
+                                <p>[view items]</p>
+                            </daodesc>
+                        </dao>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

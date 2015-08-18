@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::armstron.xml//EN" encodinganalog="Identifier">
+umich-bhl-854</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Arthur E. Armstrong papers, 1911-1938
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>August 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-08-13</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Arthur E. Armstrong papers, 1911-1938</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Armstrong, Arthur E. (Arthur Edward), 1884-1976.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Arthur E. Armstrong papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1911-1938
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet (3 boxes).
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+854 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Hillsdale, Michigan, Singer Sewing Machine Company representative in central China, 1911-1917; wife, Elsa F. Armstrong of Northfield, Minnesota, Evangelical Lutheran missionary in China, 1911-1917. Correspondence between Arthur and Elsa Armstrong, Elsa Armstrong's family, and other missionaries, concerning life in China; also photographs and Arthur and Elsa Armstrong's reminiscences of China.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Philip E. Armstrong (donor no. <num type="donor" encodinganalog="541$e">6098</num>), October 1977.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Arthur E. Armstrong papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Arthur E. Armstrong was born in Frontier in Hillsdale County, Michigan.  He graduated from Hillsdale College in 1910, then in 1911, he went to China with Underwood &amp; Underwood Stereoptican Views.  While in Hankow, he transferred over to the Singer Sewing Machine Company.  It was while in China that he met his wife Elsa Bianca Felland.  Elsa Felland was born in Northfield, Minnesota on March 15, 1890.  She went to China in 1912 as a teacher-missionary under the auspices of the Norwegian Lutheran Church of America.  She and Arthur Armstrong were married June 30, 1915.  The Armstrongs remained in China until 1917 when they returned to the United States.</p>
+
+<p>The Armstrong collection consists of correspondence, photographs, and other materials largely relating to the period of their stay in China.  Included is the correspondence Elsa Felland exchanged with her parents, and letters exchanged between Elsa Felland and Arthur Armstrong before their marriage and in periods of separation after their marriage.  These letters are useful for their discussions of missionary life and for insight into Arthur Armstrong's work with an American company in China.  During part of their stay in China, Elsa Felland and Arthur Armstrong were witnesses to the 1911-1912 revolution in China.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>Approximately fifty per cent of the collection consists of visual materials, primarily photographs, although there are some striking posters from the period of the Chinese revolution, 1911-1912.  The photographs concern such subjects as Chinese urban life, mission activities, daily life in China, and Arthur Armstrong's work with the Singer Sewing Machine Company.  The Armstrong collection also contains a large number of stereoptic card views of China, the St. Louis World's Fair, Port Arthur, the Philippine Islands, and Japan.  These were probably sample cards that Armstrong sold in connection with his work with the Underwood &amp; Underwood Company.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Missions--China.</subject>
+<subject source="lcsh" encodinganalog="650">Missionaries--China.</subject>
+<geogname source="lcsh" encodinganalog="651">China--History--Republic, 1912-1949.</geogname>
+<subject source="lcsh" encodinganalog="650">Lutheran Church--Missions--China</subject>
+<persname source="lcnaf" encodinganalog="700">Armstrong, Elsa F. (Elsa Felland), 1890- .</persname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<geogname source="lcsh" encodinganalog="651">China--History--Republic, 1912-1949.</geogname>
+<geogname source="lcsh" encodinganalog="651">China--History--Revolution, 1911-1912.</geogname>
+<famname source="lcnaf" encodinganalog="600">Felland family.</famname>
+<geogname source="lcsh" encodinganalog="651">Japan.</geogname>
+<subject source="lctgm" encodinganalog="650">Missionaries--China.</subject>
+<subject source="lctgm" encodinganalog="650">Missions--China.</subject>
+<corpname source="lcnaf" encodinganalog="610">Singer Sewing Machine Company.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Lutheran Church--Missions--China.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Armstrong, Elsa F. (Elsa Felland), 1890-</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="gmgpc" encodinganalog="655">Posters.</genreform>
+<genreform source="gmgpc" encodinganalog="655">Stereographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters of Elsa B. Felland to the Felland family</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1917</unitdate> </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Letters of Elsa B. Felland to Arthur E. Armstrong</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1913-1916</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Letters of Arthur E. Armstrong to Elsa B. Felland</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1917</unitdate> </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Letters of Arthur E. Armstrong to Felland family members</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1914-1916</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Letters of Felland family members to Arthur E. Armstrong and Elsa B. Felland</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1912-1916</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Miscellaneous</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1911-1938</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fragmentary letters</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Maps and clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reminiscences of Arthur E. Armstrong and Elsa B. Armstrong</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous (1981 and <unitdate type="inclusive">1983</unitdate> accessions)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Visual Materials</unittitle></did>
+<c02 level="file"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Armstrong, Ella B.:  trip to China; mission scenes</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Armstrong family</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Chinese civil war, <unitdate type="inclusive">1911-1912</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Chinese life scenes</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Chinese urban scenes</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Friends and associates in China</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Mission building and churches</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Singer Sewing Machine Company in China</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>China postcards</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Color prints of Japan</unittitle></did></c03>
+<c03 level="file"><did><unittitle><genreform normal="Stereographs">Stereoptic</genreform> views</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>China </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>World views </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>St. Louis World's Fair</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Port Arthur</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Philippine Islands</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Japan</unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Albums</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Mission life, mostly Sinyang Girls' School</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Chinese urban and rural life</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Elsa Felland's trip to China</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Chinese civil war, <unitdate type="inclusive">1911-1912</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Shanghai and miscellaneous Chinese scenes, Singer Sewing Machine Company, funeral of Empress Dowager, Sun Yat Sen's visit to Hankow</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><genreform normal="Posters">Posters</genreform></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

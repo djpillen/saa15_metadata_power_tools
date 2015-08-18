@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::grigaut.xml//EN" encodinganalog="identifier">umich-bhl-9983</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Paul L. Grigaut Papers <date>1929-1969</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Robert Hickam</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1999</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Robert Hickam, <date>October 1999</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>1999-10-28</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Paul L. Grigaut Papers, <date type="inclusive">1929-1969</date></titleproper><author>Finding aid prepared by: <lb/>Robert Hickam</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Grigaut, Paul L.</persname></origination>
+<unittitle encodinganalog="245">Paul L. Grigaut Papers
+<unitdate type="inclusive" encodinganalog="245$f">1929-1969</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">0.7 linear ft.</extent></physdesc>
+<abstract>Art museum curator, professor of history of art at the University of Michigan; correspondence, photographs and slides, printed ephemera, administrative materials and lecture notes.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">9983 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was the gift of Charles H. Sawyer (donor no. <num type="donor" encodinganalog="541$e">6366</num>) and was received at the Bentley Library in 1999.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has not been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Paul L. Grigaut Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Paul Leroy Grigaut was born on August 24, 1905, in Paris, France.  He studied at the Lycée Henri IV, the Ecole de Louvre, the University of Paris and the University of Chicago.  He also studied at the Fogg Museum of Harvard in 1946 and 1947.</p>
+<p>From 1927 to 1946, Mr. Grigaut was an instructor and professor of the humanities at the University of New Hampshire.  He joined the Detroit Institute of Arts in 1946 as an assistant curator and became the Institute's chief curator in 1955.  He also served as acting director for a time in the early 1960s.</p>
+<p>Mr. Grigaut left the Detroit Institute of Arts in 1963 to become the associate director of the Virginia Museum of Fine Arts in Richmond.  This career move proved to be short-lived, however, as Grigaut grew increasingly unhappy--both with his surroundings and museum administration.  He left Richmond in late 1965 and accepted positions as a professor of the history of art and associate director of the University of Michigan's art museum, positions he retained until his sudden death on Tuesday, March 4,1969.</p>
+<p>At the time of his death, Mr. Grigaut was widely recognized as one of the world's leading authorities on American and European decorative art, and the correspondence of his colleagues after his death is an impressive index of the esteem in which he was held.  One short telegram simply reads, "Grieve for a great scholar and friend."</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The Paul Grigaut collection contains correspondence, photographs and slides, printed ephemera, administrative materials and lecture notes.  The collection has been arranged into two series: academic affiliations and a topical file.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><persname source="lcnaf" encodinganalog="600">Grigaut, Paul L.</persname><subject source="lcsh" encodinganalog="650">Art--Michigan.</subject><corpname source="lcnaf" encodinganalog="610">Detroit Institute of Arts.</corpname><corpname source="lcnaf" encodinganalog="610">Richmond Museum of Fine Arts.</corpname><corpname source="lcnaf" encodinganalog="610">University of Michigan. Museum of Art.</corpname><corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname></controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head><persname source="lcnaf" encodinganalog="600">Grigaut, Paul L.</persname><corpname source="lcnaf" encodinganalog="610">Detroit Institute of Arts.</corpname></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Academic Affiliations, <unitdate type="inclusive">1945-1969</unitdate></unittitle></did><scopecontent><p>The Academic Affiliations series (1945-1969; .3 lin. ft.) consists of three subseries: Detroit Institute of Arts (1945-1963), Richmond Museum of Fine Arts (1963-1965) and University of Michigan Museum of Art (1965-1969).  The three subseries contain materials related to Grigaut's tenure at these institutions.  The Detroit Institute of Arts subseries consists of four folders and contains typed and written correspondence, materials published by the Institute during Grigaut's tenure, memoranda regarding Grigaut's position as acting director and miscellaneous items.  The Richmond Museum of Fine Arts subseries consists of four folders and contains typed and written correspondence, memoranda, an annual report and a few miscellaneous items.  The University of Michigan Museum of Art subseries consists of three folders and contains memoranda, typed and written correspondence and miscellaneous items.</p></scopecontent>
+<c02 level="subseries"><did><unittitle>Detroit Institute of Arts, <unitdate type="inclusive">1945-1963</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Administrative Materials, <unitdate type="inclusive">1962-1965</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">December 1955-July 1963</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Institute Publications, <unitdate type="inclusive">1953-1965</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Richmond Museum of Fine Arts, <unitdate type="inclusive">1963-1965</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Administrative Materials, <unitdate type="inclusive">1962-1963</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">August 1963-May 1965</unitdate></unittitle><physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c03></c02>
+<c02 level="subseries"><did><unittitle>University of Michigan Museum of Art, <unitdate type="inclusive">1965-1969</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Administrative Materials, <unitdate type="inclusive">October 1964-April 1968</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">July 1965-March 1969</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous, <unitdate type="inclusive">1965-1969</unitdate></unittitle></did></c03></c02></c01>
+<c01 level="series"><did><unittitle>Topical File</unittitle></did><scopecontent><p>The Topical File series (.4 lin. ft.) contains 12 folders and consists of a variety of materials, including photographs, newspaper articles, obituaries, biographic materials and correspondence regarding Grigaut's death.  There are also substantial amounts of materials related to Grigaut's estate, including correspondence, legal documents and inventory lists.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographic Materials, <unitdate type="inclusive">1929-1965</unitdate></unittitle></did><note><p>(Includes photographic portraits and negatives)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence Regarding Grigaut's Death, <unitdate type="inclusive">1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Estate Correspondence, <unitdate type="inclusive">1969-1973</unitdate></unittitle><physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Estate Inventory, <unitdate type="inclusive">1969</unitdate></unittitle></did><note><p>(includes slides)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Exhibition Catalogues, <unitdate type="inclusive">1930-1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>French Silver</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lecture Materials<unitdate type="inclusive">1956</unitdate>, <unitdate type="inclusive">1957</unitdate></unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper Articles, <unitdate type="inclusive">1962-1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Obituaries, <unitdate type="inclusive">1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform>Photographs</genreform></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Publication Materials, <unitdate type="inclusive">1964</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Silversmiths, <unitdate type="inclusive">1945-1952</unitdate></unittitle></did></c02></c01></dsc></archdesc></ead>   

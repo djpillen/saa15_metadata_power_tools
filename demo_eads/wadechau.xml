@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::wadechau.xml//EN" encodinganalog="Identifier">
+umich-bhl-0756</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Chauncey C. Wade papers, 1917-1932</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections, Bentley Historical Library </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2010">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Len Coombs, 
+<date>2010</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc>
+<change><date>20100526</date><item>Corrected errors LAC</item></change>
+<change><date>20100106</date><item>Original encoding.</item></change>
+</revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Chauncey C. Wade papers, 1917-1932</titleproper>
+
+<author>Finding aid created by<lb/> 
+Len Coombs, 2010</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Wade, Chauncey C.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Chauncey C. Wade papers<unitdate type="inclusive" encodinganalog="245$f">
+1917-1932</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet, 2 oversize photographs and 744 digital files.</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0756 Aa 2 UAl</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Papers of a soldier with the 339th Infantry in the  Allied intervention in Russia, 1918-1920, the "Polar Bear Expedition."</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Wade Henderson Weisman, of St. Charles, Illinois, in 2007 
+(Donor No. <num type="donor" encodinganalog="541$e">9880</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Wade Weisman assigned his copyright to the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>item, folder title, box. no., Chauncey C. Wade papers, 1917-1932, Bentley Historical Library, 
+University of Michigan</p></prefercite>
+</descgrp>
+<bioghist encodinganalog="545">
+<p>Wade, a resident of <geogname normal="San Francisco, Calif.">San Francisco, California,</geogname> was Captain, Regimental supply officer, 
+<corpname normal="United States. Army. Infantry, 339th.">339th Infantry</corpname> and Expeditionary Supply officer during the 
+American Intervention in North Russia, 1918-1919.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520"><p>
+Includes Wade's <genreform normal="Letters (correspondence)">correspondence,</genreform> mainly to his family, during his service at 
+<geogname normal="Fort Sheridan (Ill.)">Fort Sheridan, Illinois,</geogname> <geogname normal="Battle Creek (Mich.)">Battle Creek, Michigan,</geogname> 
+<geogname normal="Camp Albert L. Mills (N.Y.)">Camp Mills, New York,</geogname> and Russia (primarily 
+<geogname normal="Bakaritsa (Russia)">Bakaritsa</geogname> and <geogname normal="Arkhangel'sk">Archangel</geogname>). Wade's papers also include 
+his detailed response to a questionnaire from a student studying the North Russian Expedition and a roster of the 
+<corpname normal="United States. Army. Infantry, 339th. Supply Company.">Supply Company.</corpname> Also, 
+<genreform normal="Photographs.">photographs</genreform> and a <genreform normal="Photograph albums.">photograph album.</genreform> (The photograph album 
+is available in digital form only.)</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Wade, Chauncey C.</persname>
+<geogname source="lcnaf" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920</geogname>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+<corpname encodinganalog="690" source="local">Polar Bear Expedition.</corpname>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Infantry, 339th. Supply Company.</corpname>
+<geogname source="lcnaf" encodinganalog="651">Arkhangel'sk (Russia)</geogname>
+<geogname source="lcnaf" encodinganalog="651">Bakaritsa (Russia)</geogname>
+<subject source="lctgm" encodinganalog="650">Soldiers -- American -- Russia (Federation)</subject>
+<subject source="lctgm" encodinganalog="650">Ships.</subject>
+<subject source="lctgm" encodinganalog="650">Reindeer.</subject>
+<subject source="lctgm" encodinganalog="650">Sleds and sleighs -- Russia (Federation)</subject>
+<subject source="lctgm" encodinganalog="650">Women -- Soviet Union -- Work.</subject>
+<subject source="lctgm" encodinganalog="650">Forts and fortifications -- Russia (Federation)</subject>
+<subject source="lctgm" encodinganalog="650">Barracks -- American -- Russia (Federation)</subject>
+<subject source="lctgm" encodinganalog="650">Weddings -- Russia (Federation)</subject>
+<subject source="lctgm" encodinganalog="650">Villages -- Russia (Federation)</subject>
+<subject source="lctgm" encodinganalog="650">Stores and shops -- Russia (Federation)</subject>
+
+</controlaccess>
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">CD-ROMs.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+
+<c02 level="file"><did><container type="folder" label="Folder">2</container>
+<unittitle><unitdate type="inclusive">August 2-August 14, 1917</unitdate>(Fort Sheridan, Illinois)</unittitle><dao href="wadec0002" show="new" actuate="onrequest"><daodesc><p>[view items]</p></daodesc></dao></did></c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">3</container>
+<unittitle><unitdate type="inclusive">August, 1917-July, 1918</unitdate>(Battle Creek, Michigan)</unittitle><dao href="wadec0003" show="new" actuate="onrequest"><daodesc><p>[view items]</p></daodesc></dao></did></c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">4</container>
+<unittitle><unitdate type="inclusive">July 17-19, 1918</unitdate>(Camp Mills, New York)</unittitle><dao href="wadec0004" show="new" actuate="onrequest"><daodesc><p>[view items]</p></daodesc></dao></did></c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">5</container>
+<unittitle><unitdate type="inclusive">July 21-October, 1918</unitdate></unittitle><dao href="wadec0005" show="new" actuate="onrequest"><daodesc><p>[view items]</p></daodesc></dao></did></c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">6</container>
+<unittitle><unitdate type="inclusive">November-December, 1918</unitdate></unittitle><dao href="wadec0006" show="new" actuate="onrequest"><daodesc><p>[view items]</p></daodesc></dao></did></c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">7</container>
+<unittitle><unitdate type="inclusive">January-February, 1919</unitdate></unittitle><dao href="wadec0007" show="new" actuate="onrequest"><daodesc><p>[view items]</p></daodesc></dao></did></c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">8</container>
+<unittitle><unitdate type="inclusive">March-June, 1919</unitdate></unittitle><dao href="wadec0008" show="new" actuate="onrequest"><daodesc><p>[view items]</p></daodesc></dao></did></c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">13</container><physloc>UAl outsize</physloc>
+<unittitle>Red Guard Broadside oversize</unittitle></did>
+<note><p>Not digitized</p></note></c02>
+
+</c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellanea</unittitle></did>
+
+<c02 level="file"><did><container type="folder" label="Folder">9</container>
+<unittitle>Papers</unittitle><dao href="wadec0009" show="new" actuate="onrequest"><daodesc><p>[view items]</p></daodesc></dao></did></c02>
+</c01>
+
+<c01 level="series"><did><unittitle>Visual Materials</unittitle> </did>
+
+<c02 level="file"><did><container type="folder" label="Folder">10</container>
+<unittitle>Photographs, Camp Custer, Michigan, <unitdate type="inclusive">1917</unitdate></unittitle>
+<dao href="wadec0010" show="new" actuate="onrequest"><daodesc><p>[view items]</p></daodesc></dao></did></c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">1</container>
+<unittitle>Photograph album</unittitle><physdesc><extent>116 images</extent></physdesc><dao href="wadec0001" show="new" actuate="onrequest"><daodesc><p>[view items]</p></daodesc></dao></did></c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">11</container><physloc>UAl outsize</physloc>
+<unittitle>Group photo, Camp Pontanezen, Brest France, <unitdate type="inclusive">1919</unitdate></unittitle><dao href="wadec0011" show="new" actuate="onrequest"><daodesc><p>[view items]</p></daodesc></dao></did></c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">12</container><physloc>UAl outsize</physloc>
+<unittitle>U.S.S. Grant, (outsize photograph)</unittitle><dao href="wadec0012" show="new" actuate="onrequest"><daodesc><p>[view items]</p></daodesc></dao></did></c02>
+
+</c01>
+
+
+
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,303 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::hutchfam.xml//EN" encodinganalog="Identifier">
+umich-bhl-851509</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Hutchins family papers, 1837-1951
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-12-02</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Hutchins family papers, 1837-1951</titleproper>
+      <author>Finding aid created by<lb /> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <famname source="lcnaf" encodinganalog="110">
+Hutchins family.</famname>
+      </origination>
+      <unittitle encodinganalog="245">
+Hutchins family papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1837-1951
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+4 linear feet, 2 oversize volumes, and 1 oversize folder
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851509 Aa 2; AC; UAm</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Allegan County, Michigan, family; correspondence, diaries, photographs, and business papers.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload" />
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was the gift of Evert O. Hutchins (donor no. <num type="donor" encodinganalog="541$e">3788</num>)  
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Hutchins family papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>The Hutchins family were early settlers to Allegan County, Michigan. Members of the family were involved in fruit farming and in the development of the Saugatuck and Ganges Telephone Company.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The collection consists of family correspondence, genealogical materials pertaining to the history of the Hutchins and Robertson families, miscellaneous writings of Henry Hudson Hutchins, papers concerning the family's fruit growing interests, and the development of the Saugatuck and Ganges Telephone Co. The collection is of significance for materials relating to the history of Allegan County, Michigan.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="650">Agriculture--Michigan--Allegan County.</subject>
+        <geogname source="lcsh" encodinganalog="651">Allegan County (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Ganges (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Saugatuck (Mich.)</geogname>
+        <corpname source="lcnaf" encodinganalog="610">Saugatuck and Ganges Telephone Company.</corpname>
+        <subject source="lcsh" encodinganalog="650">Telephone--Michigan--Allegan County.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <subject source="lctgm" encodinganalog="650">Bicycles and tricycles.</subject>
+        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Fennville.</subject>
+        <subject source="lctgm" encodinganalog="650">Farming.</subject>
+        <geogname source="lcsh" encodinganalog="651">Fennville (Mich.)</geogname>
+        <geogname source="lctgm" encodinganalog="651">Fennville (Mich.)--Dwellings.</geogname>
+        <geogname source="lcsh" encodinganalog="651">Ganges (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650">Hunting--Michigan.</subject>
+        <famname source="lcnaf" encodinganalog="600">Hutchins family.</famname>
+        <subject source="lctgm" encodinganalog="650">Lumber industry.</subject>
+        <subject source="lctgm" encodinganalog="650">Recreation.</subject>
+        <subject source="lctgm" encodinganalog="650">Women.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Hutchins, Evert O. (Evert Olney), 1890-</persname>
+        <persname source="lcnaf" encodinganalog="700">Hutchins, Henry Hudson, 1853-1933.</persname>
+        <famname source="lcnaf" encodinganalog="700">Robertson family.</famname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="lctgm" encodinganalog="655">Albums.</genreform>
+        <genreform source="gmgpc" encodinganalog="655">Drawings.</genreform>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655">Tintypes.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Family papers</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1920-1925</unitdate>, of Henry H., Harry, Lora, Lee, Samuel, Edward and Ira Hutchins</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence, and diaries, <unitdate type="inclusive">1910-1915</unitdate>, of Lee Hutchins</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1890-1900</unitdate>, with Dr. Brunson, Blackman, A.D. Goodrich, and D.S. Morgan and Company.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Business and miscellaneous correspondence of Henry Hutchins</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1920-1930</unitdate>, about the history of Allegan and Pier Cove, Michigan; also genealogy</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Correspondence concerning Saugatuck and Ganges Telephone Company, <unitdate type="inclusive">1892-1900</unitdate></unittitle>
+          </did>
+          <note>
+            <p>(Topics iclude an automobile collision and insurance settlement; agriculture, 1885-1930; fruit sorting and packaging; marketing and poultry)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Newspaper clippings concerning Singapore</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Notes, pamphlets, and clippings concerning the American Legion, including notes of Henry Hutchins when he was a commander</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Diaries and notes, <unitdate type="inclusive">1880-1925</unitdate>, of Henry Hutchins</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Family <genreform normal="Photographs">photographs</genreform></unittitle>
+            <physdesc>
+              <extent>2 folders</extent>
+            </physdesc>
+          </did>
+          <note>
+            <p>(see also oversize photographs UAm)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Photograph <genreform normal="Albums">albums</genreform></unittitle>
+            <physdesc>
+              <extent>2 volumes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Scrapbooks </unittitle>
+            <physdesc>
+              <extent>2 volumes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1896-1928</unitdate> and <unitdate type="inclusive">1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Genealogical data on the Hutchins and Robertson families</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Notebooks, <unitdate type="inclusive">1843-1869</unitdate>, containing family correspondence and genealogical materials relating primarily to the Hutchins and Robertson families of Allegan County, Michigan</unittitle>
+            <physdesc>
+              <extent>2 volumes</extent>
+            </physdesc>
+            <note>
+              <p>(The volumes were compiled by Evert O. Hutchins in 1951.)</p>
+            </note>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Notebook, <unitdate type="inclusive">undated</unitdate>, entitled "Genealogical Records and Historical Writings of Henry Hudson Hutchins"</unittitle>
+          </did>
+          <note>
+            <p>(include copies of newspaper articles, 1919, entitled "Pioneer Days in Western Allegan County"</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">1</container>
+            <unittitle>Scrapbook, <unitdate type="inclusive">1837-1942</unitdate>, of Harrison A. Harrison</unittitle>
+          </did>
+          <note>
+            <p>( include family <genreform normal="Photographs">photographs</genreform>, <genreform normal="Drawings">drawings</genreform> of family members, and memorabilia)</p>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Saugatuck and Ganges Telephone Company</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">2</container>
+            <unittitle>Scrapbook, <unitdate type="inclusive">1902-1905</unitdate></unittitle>
+          </did>
+          <note>
+            <p>(Include drawings, financial statements, reports, lists of subscribers, etc.)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Ledgers and journals, <unitdate type="inclusive">1903-1906</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

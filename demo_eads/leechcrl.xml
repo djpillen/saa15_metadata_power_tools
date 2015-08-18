@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::leechcrl.xml//EN" encodinganalog="Identifier">
+umich-bhl-851659</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Carl Addison Leech papers, 1928-1940
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-02-22</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Carl Addison Leech papers, 1928-1940</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+
+<persname source="lcnaf" encodinganalog="100">
+Leech, Carl Addison.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Carl Addison Leech papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1928-1940
+</unitdate>
+
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851659 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Historian of Michigan’s lumber industry; correspondence and research materials.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Carl A. Leech (donor no. <num type="donor" encodinganalog="541$e">917</num>) and came to the library beginning in 1939.  
+</p></acqinfo>
+
+
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Carl Addison Leech papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Carl A. Leech was a resident of Detroit, Michigan and a writer of historical articles on the history of lumbering, Michigan lumbering communities, and the careers of individuals associated with lumbering in Michigan.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of three series: Correspondence; Research materials; and Miscellaneous.  The correspondence dates from 1928 to 1940 and includes letters received in response to various queries. The research materials include notes relating to his interest in Michigan lumbering, the development of lumbering within such cities as Deward, Roscommon, Saginaw, Meredith, Seney, and Muskegon.  One of Leech's principal research interest was the life and career of "Silver Jack" John Driscoll. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Deward (Mich.)</geogname>
+<persname source="lcnaf" encodinganalog="600">Driscoll, John.</persname>
+<persname source="lcnaf" encodinganalog="600">Harcourt, Bert.</persname>
+<subject source="lcsh" encodinganalog="650">Logging--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Lumbering--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">Meredith (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Muskegon (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Roscommon (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Saginaw (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Seney (Mich.)</geogname>
+
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1928-1931</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1932</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1933</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1934</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1935-1938</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1939-1940</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Research materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan prisons</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Roscommon</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Local color, songs and ballads </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Saginaw </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Meredith, Mich.</unittitle></did></c02>
+<c02 level="file"><did><unittitle>"Silver Jack" John Driscoll</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence with Bert Harcourt regarding Driscoll and other topiccs, <unitdate type="inclusive">1938-1940</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Reminiscence of Bert Harcourt concerning "Silver Jack" Driscoll, <unitdate type="inclusive">1940</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Seney, Mich.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lumbering in Michigan </unittitle> <physdesc><extent>8 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Muskegon</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Land grabbing and fraud in timber acquisition </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notes on events in various years </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Articles written and miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Article on "Paul Bunyan's Land and the First Sawmills of Michigan"</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Article on "Deward-the Model of Michigan's Old Lumbering Towns"</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>List of photographs in the Leech collection</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous papers </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Notebooks </unittitle> <physdesc><extent>26 volumes</extent></physdesc></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

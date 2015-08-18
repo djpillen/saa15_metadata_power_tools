@@ -1,0 +1,334 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::haidosal.xml//EN" encodinganalog="identifier">
+umich-bhl-0697
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Alice Berberian Haidostian papers.
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Bentley Historical Library staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Ash Brown, 
+<date>January 21, 2008</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2007 </date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Alice Berberian Haidostian Papers, 1970s-2006</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Library staff, 2007	</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Haidostian, Alice Berberian
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Alice Berberian Haidostian papers		 
+<unitdate type="inclusive" encodinganalog="245$f">
+1970s-2006
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+6 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+0697 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Concert pianist, active in Armenian American organizations, fundraiser; files relating to her organizational activities.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Alice Berberian Haidostian (donor no. <num type="donor" encodinganalog="541$e">9524</num>)  and came to the library in two accessions, 2005 and 2007.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open without restriction.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Alice Berberian Haidostian papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Alice Berberian Haidostian was born September 21, 1925 in Highland Park, Michigan, the daughter of Harry M. and Siroun Vartabedian Berberian. She graduated from the University of Michigan School of Music, receiving her bachelor's degree in 1946 and her master's degree in music in 1949. She married Dr. Berj H. Haidostian on October 1, 1949.</p>
+
+<p>Alice Haidostian had a dual career, first as a concert pianist, a music teacher in the Detroit Public Schools system, and a director of a vocal trio, The Haidostians.  The second great activity of her life was as a member, promoter, and fundraiser for mainly Armenian civic, cultural, and educational organizations. Although most of her efforts related to the Armenian community of the Detroit metropolitan area, Haidostian was also involved in national Armenian organizations. Of most significance was her work with the Armenian General Benevolent Union Alex Manoogian School, the Detroit chapter of the A.G.B.U., and the Detroit Armenian Women's Club. She was also active in the Wayne County Medical Society Auxiliary and Project Hope Women's Division. Many of the groups reflected her different church interests, with the Armenian Congregational Church, the Armenian Missionary Association of America, and St. John's Armenian Church of Greater Detroit. One of her proudest accomplishments, Haidostian was instrumental in the founding of the Armenian Studies Program at the University of Michigan in <date>1984</date> where she also served as a member of the Program's advisory council.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Alice Haidostian papers have been arranged into a single Organizational Activities / Topical series. The files consist of organizational mailings, newsletters, informational material, but also including some correspondence, fundraising materials, notes, and memoranda reflecting Haidostian's own work with the various organizations. The largest set of files relate to her work with Armenian General Benevolent Union Alex Manoogian School, Wayne County Medical Society Auxiliary, Project HOPE Women's Division, and the University of Michigan Armenian Studies Program.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname encodinganalog="600" source="lcnaf">Haidostian, Alice Berberian</persname>
+<subject encodinganalog="650" source="lcsh">Armenian Americans--Michigan.</subject>
+<subject encodinganalog="650" source="lcsh">Armenian American women--Michigan.</subject>
+<subject encodinganalog="650" source="lcsh">Armenian Americans--Societies, etc.</subject>
+</controlaccess>
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series">
+	<did>
+		<unittitle>Organizational Activities / Topical, 
+		<unitdate>ca. 1970s-2006 </unitdate></unittitle>
+	</did>	
+		<note><p>(dates for individual organizations vary)</p></note>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="box">1</container>
+				<unittitle>American Armenian International College</unittitle>
+			</did>								
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="box">1</container><unittitle>Armenian American Business Council</unittitle>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="box">1</container><unittitle>Armenian Assembly of America</unittitle>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="box">1</container><unittitle>Armenian Community Center</unittitle>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="box">1</container><unittitle>Armenian Congregational Church</unittitle>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="box">1</container><unittitle>Armenia Democratic Liberal Organization</unittitle>
+			</did>
+		</c02>
+		<c02>
+			<did>
+				<container label="Box" type="box">1</container><unittitle>Armenian embroidery</unittitle>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="box">1</container><unittitle>Armenian Fund</unittitle>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="box">1</container><unittitle></unittitle>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="box">2</container>
+				<unittitle>Armenian General Benevolent Union Alex Manoogian School</unittitle>
+			</did>								
+		</c02>		
+		<c02 level="file">
+			<did>
+				<container label="Box" type="box">2</container>
+				<unittitle>Armenian General Benevolent Union – Detroit Chapter</unittitle>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="box">3</container>								
+				<unittitle>Armenian genocide</unittitle>
+			</did>
+		</c02>		
+		<c02 level="file">
+			<did>
+				<container label="Box" type="box">3</container>								
+				<unittitle>Armenian groups (miscellaneous)</unittitle>
+			</did>
+		</c02>		
+		<c02 level="file">
+			<did>
+				<container label="Box" type="box">3</container>								
+				<unittitle>Armenian Memorial Monument</unittitle>
+			</did>
+		</c02>		
+		<c02 level="file">
+			<did>
+				<container label="Box" type="box">3</container>								
+				<unittitle>Armenian Missionary Association of America</unittitle>
+			</did>
+		</c02>		
+		<c02 level="file">
+			<did>
+				<container label="Box" type="box">3</container>								
+				<unittitle>Armenian Programs: musical performances</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">3</container>								
+				<unittitle>Armenian Relief Society</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">3</container>								
+				<unittitle>Azadian, Edmond Y.</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">3</container>								
+				<unittitle>Cultural Society of Armenians from Istanbul</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">3</container>								
+				<unittitle>Detroit Armenian Women's Club</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">4</container>
+				<unittitle>Detroit Association of University of Michigan Women</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">4</container>
+				<unittitle>Earthquake relief</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">4</container>
+				<unittitle>Haigazian College</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">4</container>
+				<unittitle>Lyric Chamber Ensemble</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">4</container>
+				<unittitle>Michigan State Medical Society Auxiliary</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">4</container>
+				<unittitle>National Association for Armenian Studies and Research</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">4</container>
+				<unittitle>Project HOPE Women's Division</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">4</container>
+				<unittitle>St. John's Armenian Church of Greater Detroit </unittitle>
+			<physdesc><extent>1 expandable folder</extent></physdesc></did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">5</container>
+				<unittitle>St. John's Armenian Church of Greater Detroit (cont.) </unittitle>
+			<physdesc><extent>1 expandable folder</extent></physdesc></did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">5</container>
+				<unittitle>St. Sarkis Armenian Apostolic Church</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">5</container>
+				<unittitle>Tekeyan Cultural Association</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">5</container>
+				<unittitle>University of Michigan. Armenian Studies Program</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">5</container>
+				<unittitle>University of Michigan – Dearborn. Center for Armenian Research</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">5</container>
+				<unittitle>Wayne County Medical Society Auxiliary</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">6</container><unittitle>Wayne County Medical Society Auxiliary (cont.)</unittitle>
+			</did>
+		</c02>																								
+<c02 level="file">
+			<did>
+				<container label="Box" type="box">6</container><unittitle>Westminster Church of Detroit</unittitle>
+			</did>
+		</c02>																								
+</c01></dsc></archdesc>
+
+</ead>

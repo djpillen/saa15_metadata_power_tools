@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::perrone.xml//EN" encodinganalog="Identifier">
+umich-bhl-2014134</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Dominic J. Perrone papers
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Elena Colón-Marrero </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2014">
+2014</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2014</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2014-09-11</date><item>Original encoding from Word 2010 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Dominic J. Perrone papers, 1927-1987</titleproper>
+
+<author>Finding aid created by<lb/> 
+Elena Colón-Marrero, September 2014</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+ 
+
+<persname source="lcnaf" encodinganalog="100">
+Perrone, Dominic Joseph</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Dominic J. Perrone papers<unitdate type="inclusive" encodinganalog="245$f">
+1927-1987
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1949-1958</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2014134 Aa 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Dominic J. Perrone Jr. was a prominent business man and Democrat politician in Ionia County, Michigan in the 1950s.  He was an active member of the Ionia Public Board of Education and served for 16 years on the board.  The collection contains files relating to his political career and businesses, his personal diaries, and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+This collection was donated by Lee Perrone (donor no.  <num type="donor" encodinganalog="541$e">11129</num>) and came to the library in June, 2014.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Dominic J. Perrone papers, Bentley Historical Library, University of Michigan</p></prefercite>
+
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Dominic Joseph Perrone Jr. was born in Johnsonburg, Pennsylvania on June 3, 1909.  Perrone owned and operated a store and soda fountain in Ionia, Michigan with his wife Margaret Perrone and published a small newspaper called<title render="italic"> The News Stand</title> .  His political career began in 1949 when he announced his candidacy for Mayor of Ionia, though he would later drop out of the race.  Perrone served on the Ionia Public Board of Education for 16 years.  He ran on the democratic ticket for the state representative for Ionia in 1954, 1956, and 1958. In 1954 Perrone opened the Nix Distribution Company as a wholesale beer and wine distributor for Ionia and Montcalm counties.  He was also a member of the Ionia County Memorial Hospital Board of Trustees, Ionian Lions Club, Ionia Elks, Rotary and Travelers Protective Association.  Perrone died in 2004 and is buried in Ionia, Michigan.</p>
+
+</bioghist>
+
+<arrangement encodinganalog="351">
+<p>The collection is divided into two series: Personal and Business Materials and Political Materials.</p></arrangement>
+
+<scopecontent encodinganalog="520">
+<p>The papers of Dominic Joseph Perrone Jr. reflect Perrone's growth as a newsboy to a prominent business man and politician in Ionia County, Michigan.   The papers date from 1927 to 1987.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Businesspeople--Michigan--Ionia County.</subject>
+<corpname source="lcnaf" encodinganalog="610">Ionia County (Mich.) Board of Education.</corpname>
+<geogname source="lcsh" encodinganalog="651">Ionia County (Mich.)--Politics and government--20th century.</geogname>
+<persname source="lcnaf" encodinganalog="600">Perrone, Dominic Joseph.</persname>
+<subject source="lcsh" encodinganalog="650">Politicians--Michigan--Ionia County.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Personal and Business Materials, <unitdate type="inclusive">1927-1942</unitdate></unittitle></did><scopecontent><p>The Personal and Business Materials series, 1927-1942, primarily covers the period before his mayoral run in 1949.  His diaries detail his day to day activities starting in 1927 and ending in 1945.  Of interest is a letter written by his son Michael regarding his experience in the Vietnam War.  Included are a number of newspapers relating to his business ventures and several photographs of Perrone.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Diaries, <unitdate type="inclusive">1927-1942</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence and clippings, <unitdate type="inclusive">1931-1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspapers, <unitdate type="inclusive">1945-1960</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photographs, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Political Materials, <unitdate type="inclusive">1949-1956</unitdate></unittitle></did><scopecontent><p>The Political Materials, 1949-1956, provide a wealth of information regarding Ionia politics during the 1950s.  It includes information regarding his run for mayoral office, the Ionia Public Board of Education, and his attempts for state office.  </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence and clippings, <unitdate type="inclusive">1949-1958</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspapers, <unitdate type="inclusive">1949-1956</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

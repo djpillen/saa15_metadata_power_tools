@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::brashare.xml//EN" encodinganalog="Identifier">
+umich-bhl-85815</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Charles W. Brashares papers, 1912-1972
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-24</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Charles W. Brashares papers, 1912-1972</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Brashares, Charles W., 1891-1982.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Charles W. Brashares papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1912-1972
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85815 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Pastor of the First Methodist Church of Ann Arbor, Michigan, 1934-1944, later Methodist Episcopal Bishop of the Des Moines, Iowa area and the Chicago, Illinois area. Correspondence, newspaper clippings, and topical files, and miscellanea concerning his; and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of the Rev. Charles W. Brashares (donor no. <num type="donor" encodinganalog="541$e">4942</num>).</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Charles W. Brashares papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Charles W. Brashares was born March 31, 1891 at Williamsport, Ohio. He attended Ohio Wesleyan, Boston University, Harvard and Cornell, receiving degrees of A.B., D.D., LL.D. He was ordained in the Methodist Episcopal Church in 1917 and served as pastor in Massachusetts, Maine, Ohio, and Michigan from 1917 to 1944. He served in Ann Arbor from 1934 to 1944. He was bishop of the Des Moines area from 1944 to 1952 and bishop of Chicago area since 1952. He died in 1982.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Brashares collection includes correspondence and topical files relating in part to his pastoral responsibilities, to his work as delegate to the 2nd Assembly of the World Council of Churches, and to his engagement with various social problems. There is some correspondence with G. Bromley Oxnam concerning his appearance before the House Committee on Un-American Activities in 1953.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<persname source="lcnaf" encodinganalog="600">Brashares, Charles W., 1891-1982.</persname>
+<subject source="lcsh" encodinganalog="650">Clergy--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">First Methodist Church (Ann Arbor, Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Juvenile delinquency--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Methodist Episcopal Church.</corpname>
+<corpname source="lcnaf" encodinganalog="610">World Council of Churches.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Methodist Episcopal Church--Michigan--Ann Arbor.</corpname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lctgm" encodinganalog="650">Churches.</subject>
+<subject source="lctgm" encodinganalog="650">Clergy.</subject>
+<corpname source="lcnaf" encodinganalog="610">First Methodist Church (Ann Arbor, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Grace Methodist Church (Dayton, Ohio)</corpname>
+<subject source="lctgm" encodinganalog="650">Methodist churches.</subject>
+<corpname source="lcnaf" encodinganalog="610">Newton Methodist Church (Newton, Mass.)</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Oxnam, G. Bromley (Garfield Bromley), 1891-1963</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1936-1939</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1940-1946</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1947-1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1950-1951</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1952</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1953-1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1955</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1956</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1957-1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1960-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1963</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1964-1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1966-1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1970-1972</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Topical files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bishops, <unitdate type="inclusive">1948-1964</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Chicago, <unitdate type="inclusive">1945-1964</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings, <unitdate type="inclusive">1927-1963</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Coordinating Council, 1959-196o</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>India, <unitdate type="inclusive">1948-1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Japan, <unitdate type="inclusive">1947-1952</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Juvenile Delinquency, <unitdate type="inclusive">1955</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Liberia, <unitdate type="inclusive">1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Nicholson, Evelyn, <unitdate type="inclusive">1953-1967</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>North Central Jurisdictional Conference, <unitdate type="inclusive">1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Oxnam, G. Bromley, <unitdate type="inclusive">1953</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Race Relation and Interracial Cooperation, <unitdate type="inclusive">1942-1963</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Town and County Conference, <unitdate type="inclusive">1951</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Training Youth, <unitdate type="inclusive">1946-1952</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Universal Military Training, <unitdate type="inclusive">1942-1955</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>University of Michigan, <unitdate type="inclusive">1937-1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Vatican Mission, <unitdate type="inclusive">1951</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>World Council of Churches, <unitdate type="inclusive">1954</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Writings" <unitdate type="inclusive">1912-1955</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellanea </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Miscellanea </unittitle> <physdesc><extent>8 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Portraits</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Churches: Ann Arbor First United Methodist Church and other churches where Brashares served</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Groups and meetings</unittitle></did></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::frgol159.xml//EN" encodinganalog="Identifier">
+umich-bhl-2010012</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Freemasons. Golden Rule Lodge No. 159 (Ann Arbor, Mich.) records, 1864-1997
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2010">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2010</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2010-02-04</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Freemasons, Golden Rule Lodge No. 159 (Ann Arbor, Mich.)<lb/> Records, 1864-1997</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Freemasons. Golden Rule Lodge No. 159 (Ann Arbor, Mich.).
+</corpname>
+
+</origination>
+<unittitle encodinganalog="245">
+Freemasons, Golden Rule Lodge No. 159 (Ann Arbor, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1864-1997
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet and 18 oversize volumes
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2010012 Bd 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records came from the Lodge (donor no. <num type="donor" encodinganalog="541$e">10272</num>) in 2009.  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Freemasons, Golden Rule Lodge No. 159 (Ann Arbor, Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Freemason Golden Rule Lodge No. 159 was formed in Ann Arbor, Michigan in 1865. In 1927, the lodge had 1036 members. From this high mark, membership would decline to 516 in 1979. In the 1990s, among the charitable organizations supported by the Lodge was the Juvenile Diabetes Foundation. The Lodge also provided scholarships for area high school students.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The records of the Golden Rule Lodge No. 159, Ann Arbor, Michigan include minutes of the special and regular meetings of the lodge, membership materials, by-laws, and some financial records. Included is a volume of memorial programs for past state grand masters.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Freemasons. Golden Rule Lodge No. 159 (Ann Arbor, Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Freemasons--Michigan--Ann Arbor.</subject>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+
+<c01 level="series"><did><unittitle>Minutes of Special and Regular Communications (meetings)</unittitle></did>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">1</container><unittitle><unitdate type="inclusive">1864-1872</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">2</container><unittitle><unitdate type="inclusive">1873-1885</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">3</container><unittitle><unitdate type="inclusive">1886-1894</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">4</container><unittitle><unitdate type="inclusive">1894-1901</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">5</container><unittitle><unitdate type="inclusive">1901-1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">6</container><unittitle><unitdate type="inclusive">1907-1913</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">7</container><unittitle><unitdate type="inclusive">1913-1917</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">8</container><unittitle><unitdate type="inclusive">1917-1919</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">9</container><unittitle><unitdate type="inclusive">1919-1921</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">10</container><unittitle><unitdate type="inclusive">1922-1926</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">11</container><unittitle><unitdate type="inclusive">1927-1931</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">12</container><unittitle><unitdate type="inclusive">1932-1942</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">13</container><unittitle><unitdate type="inclusive">1943-1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">14</container><unittitle><unitdate type="inclusive">1950-1956</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">15</container><unittitle><unitdate type="inclusive">1957-1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><note><p>[volumes for 1960-1970 not received]</p></note></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">16</container><unittitle><unitdate type="inclusive">1971-1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">17</container><unittitle><unitdate type="inclusive">1980-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1993-1997</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>By-laws</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Registers of Officers, Members and Visitors</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1905-1906</unitdate> </unittitle></did> <note><p>(combined volume for Golden Rule Lodge 159 and Fraternity Lodge 262)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1985-1995</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Souvenir programs, <unitdate type="inclusive">1990-1991</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Informational material; include lists, history, etc.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous records, <unitdate type="inclusive">1994-1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Financial Records</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Reports of Secretary-Treasurer and Finance Committee, <unitdate type="inclusive">1860s-1898</unitdate> (scattered dates) </unittitle></did> <note><p>(also include some sundry reports)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous vouchers, bills, receipts</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">18</container><unittitle>Record of Memorials (past grand masters)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Membership materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Annual Return to the Grand Lodge F. &amp; A. M., <unitdate type="inclusive">1865-1922</unitdate> </unittitle> <physdesc><extent>1 folder and 1 expandable folder</extent></physdesc></did> <note><p>(include lists of officers, members, transfers, rejected applicants, etc.)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Questionnaires submitted by applicants for membership, <unitdate type="inclusive">1920s</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Petitions, applications, summons </unittitle> <physdesc><extent>3 expandable folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Charges against members (mainly for non-payment of dues)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Black Book (expulsion of members mainly for non-payment of dues), <unitdate type="inclusive">1874-1895</unitdate> </unittitle></did> <note><p>(include rejected, suspended and expelled in sister lodges, 1890-1898)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Membership miscellaneous</unittitle></did></c02></c01>
+ 
+
+ 
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::grshiloh.xml//EN" encodinganalog="Identifier">
+umich-bhl-90173</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Greater Shiloh Missionary Baptist Church (Detroit, Mich.) records, 1920-2008
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Rachel Powers and Marc Levitt</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-05</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Greater Shiloh Missionary Baptist Church (Detroit, Mich.) records, 1920-2008</titleproper>
+
+<author>Finding aid created by<lb/> 
+Rachel Powers and Marc Levitt, 2008</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Greater Shiloh Missionary Baptist Church (Detroit, Mich.).
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Greater Shiloh Missionary Baptist Church (Detroit, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1920-2008
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+90173 Ba 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+African-American Baptist congregation located in Detroit, MI.; also called Shiloh Baptist Church.  The record group includes a church history, celebratory and obsequy programs, clippings, and notebooks of materials accumulated during the pastorates of R. B. James, Solomon David Ross, William H. Crews, and Harold Knox; also bulletins of church services.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were donated by the church (donor no. <num type="donor" encodinganalog="541$e">7815</num>) in various installments beginning in 1990.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records expected.
+</p></accruals>
+
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Greater Shiloh Missionary Baptist Church (Detroit, Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Greater Shiloh Missionary Baptist Church is the second oldest African-American Baptist congregation in Detroit and was founded in 1881 by the Reverend John Wills; at its founding, there were 25 members.</p>
+
+<p>The church at the Benton Street site was designed by a black draftsman--Carlos N. Stokes--in 1920, but the church was not completed until 1926 when the congregation moved from their previous church in the Eastern Market.</p>
+
+<p>Reverend Solomon Ross was called to the pastoral vacancy in 1929 (following Reverend Robert James' death) and was integral to the church's survival in the depression years. In 1931 he detected fraud among some of the church officials, and had more than 50 members expelled. In 1935, Reverend Ross fought the federal government's attempt to raze the church. He succeeded in his fight and this explains the seemingly unusual location of the church within the Brewster Project.  In 1937, Ross organized a Junior Church to train the children in running the church as they grew older. Ross would continue to facilitate African-American progress and opportunities well into the 1960s.</p>
+
+<p>Reverend William Crews was called after Ross' passing, and served through 2003.  Crews helped triple the number of people who tithed in Shiloh, and engaged in interstate visitation for the first time in its history.  In 1977, Crews and the congregation engaged in a massive remodeling of Shiloh, modernizing the building throughout.  Reverend Crews engaged in another renovation project, this time to construct the Mary O. Ross Education Building.  In 1981, Shiloh celebrated its Centennial Anniversary, with a special banquet and program of events.</p>
+
+<p>In 2003, Reverend Harold Lee Knox was installed as pastor, though he would come into conflict with the congregation and the deacons of the church two years later.  Knox resigned as pastor in 2007 after legal proceedings.</p>
+
+<p>The church is a large, redbrick, one-story building resting upon a concrete pod with limestone trim. In the front, a major addition was constructed in 1978. This is a large two-story brick entryway with a flat roof. In the Eric Hill, John Gallagher book, <title render="italic">AIA Detroit: The American Institute of Architects Guide to Detroit Architecture</title> (Wayne State University Press, 2003) one can find a sketch of the original entrance designed by Carlos Stokes. It is a classical church entrance strongly influenced by traditional European church architecture.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Greater Shiloh Missionary Baptist Church records includes a church history, celebratory and obsequy programs, clippings, and notebooks of materials accumulated during the pastorates of R. B. James, Solomon David Ross, William H. Crews, and Harold Knox; also bulletins of church services. The record group consists of four series: Church Publications, History, Topical File, and Miscellaneous Records.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">African American churches--Michigan--Detroit.</subject>
+<subject source="lcsh" encodinganalog="650">African Americans--Michigan--Detroit.</subject>
+<subject source="lcsh" encodinganalog="650">Baptists, Black--Michigan--Detroit.</subject>
+<persname source="lcnaf" encodinganalog="600">Crews, William H.</persname>
+<geogname source="lcsh" encodinganalog="651">Detroit (Mich.)--Church history.</geogname>
+<persname source="lcnaf" encodinganalog="600">James, Robert B.</persname>
+<persname source="lcnaf" encodinganalog="600">Knox, Harold.</persname>
+<persname source="lcnaf" encodinganalog="600">Ross, Solomon David.</persname>
+<corpname source="lcnaf" encodinganalog="610">Greater Shiloh Missionary Baptist Church (Detroit, Mich.)</corpname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Church Publications</unittitle></did><scopecontent><p>The Church Publications series contains newsletters from 1929, and a selection of bulletins from the 21st century.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bulletins, <unitdate type="inclusive">2001-2008</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters, <unitdate type="inclusive">1929</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>History </unittitle></did><scopecontent><p>The History series is organized chronologically, and is organized under the pastor of those relevant years.  It ends with a general history, including a book describing the church's first 100 years.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reverend Robert James, <unitdate type="inclusive">1920-1928</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reverend Solomon Ross, <unitdate type="inclusive">1929-1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Reverend William Crews, <unitdate type="inclusive">1969-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>General</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Topical File</unittitle></did><scopecontent><p>The Topical Files cover news articles, a record of deceased members, and a legal dispute with Reverend Knox.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Dispute involving Reverend Harold Knox, <unitdate type="inclusive">2005-2007</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>News Articles, <unitdate type="inclusive">1945</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>The Saints Beyond </unittitle> <physdesc><extent>2 folders</extent></physdesc></did> <note><p>(record of deceased members)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous Records</unittitle></did><scopecontent><p>The Miscellaneous Records series covers the years from 1971 to 2003 and documents various special events and sermons held at the church.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1971-1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1981-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1990-1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1996-2000</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">2001</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">2002</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">2003</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">Undated</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

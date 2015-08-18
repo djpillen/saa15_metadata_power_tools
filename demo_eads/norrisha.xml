@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::norrisha.xml//EN" encodinganalog="Identifier">
+umich-bhl-851941</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Harold Norris papers, 1946-1971
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-02</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Harold Norris papers, 1946-1971</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Norris, Harold.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Harold Norris papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1946-1971
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+3 linear feet and 1 oversize item
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851941 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Delegate to the Michigan Constitutional Convention. Correspondence and other papers concerning his professional and public service activities.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Harold Norris (donor no. <num type="donor" encodinganalog="541$e">4415</num>)  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Harold Norris papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Harold Norris was a Detroit attorney and professor at the Detroit College of Law. In addition, he was Democratic delegate to the Michigan Constitutional Convention, 1961-1962, and was an officer of the National Lawyers Guild.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The bulk of the collection concerns Norris' work as an officer with the National Lawyers Guild and as a delegate to the Michigan Constitutional Convention, 1961-1962.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Apportionment (Election law)--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Civil rights--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Democratic Party (Mich.)</corpname>
+<geogname source="lcsh" encodinganalog="651">Detroit (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Lawyers--Michigan--Detroit.</subject>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Constitutional Convention (1961-1962)</corpname>
+<corpname source="lcnaf" encodinganalog="610">National Lawyers Guild.</corpname>
+<persname source="lcnaf" encodinganalog="600">Norris, Harold.</persname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence and other papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1946-1960</unitdate> </unittitle> <physdesc><extent>26 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1961-1962</unitdate> </unittitle> <physdesc><extent>23 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1963-1971</unitdate> </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Michigan Constitutional Convention, <unitdate type="inclusive">1961-1963</unitdate> </unittitle> <physdesc><extent>10 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Pamphlets of the National Lawyers Guild, <unitdate type="inclusive">1947-1960</unitdate></unittitle></did></c02>
+    <c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>Resolution in Memoriam (re. Michigan Constitutional Convention)</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::fprescad.xml//EN" encodinganalog="Identifier">
+umich-bhl-86825</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+First Presbyterian Church (Cadillac, Mich.) records, 1876-1999
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>June 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-06-12</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+First Presbyterian Church (Cadillac, Mich.) records, 1876-1999</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+First Presbyterian Church (Cadillac, Mich.).
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+<persname source="lcnaf" encodinganalog="100">
+First Presbyterian Church (Cadillac, Mich.) records
+</persname> 
+<unitdate type="inclusive" encodinganalog="245$f">
+1876-1999
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86825 Ba 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Cadillac, Michigan Presbyterian church established in 1872; history; governance records; records of Sunday School; women’s organizations; and scattered other records.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was deposited by the church (donor no. <num type="donor" encodinganalog="541$e">5505</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+First Presbyterian Church (Cadillac, Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The First Presbyterian Society of Clam Lake, later named the First Presbyterian Church of Cadillac, was established in 1872 and built its first church in 1873. Fire destroyed this facility in 1903. For two years, member met in the Opera House for services. In 1905, a new church building was completed.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The records of the First Presbyterian Church of Cadillac, Michigan includes a history; records of the original church, the First Presbyterian Society of Clam Lake; minutes of the session of the church and of the board of trustees; and minutes of the annual meetings. In addition, the record group contains record books of the various women's organizations, including the Church Women's Association, the Crescent Circle, the Ladies Aid Society, and the Women's Missionary Society.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Cadillac (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">United Presbyterian Church in the U.S.A.--Michigan--Cadillac.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>History</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"The First Century, <unitdate type="inclusive">1872-1972</unitdate>" by Betty Warren Best, <unitdate type="inclusive">1972</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Governance</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Records of First Presbyterian Society of Clam Lake, <unitdate type="inclusive"> March 1876-June 1895</unitdate> </unittitle></did> <note><p>(church later reformed as First Presbyterian Church of Cadillac)</p></note></c02>
+<c02 level="file"><did><unittitle>Minutes of the Session</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> August 1883-March 1937</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> April 1937-March 1955</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> April 1955-January 1966</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Minutes of the Board of Trustees</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1891-1921</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> April 1940-1953</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1954-February 1963</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> March 1963-December 1969</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Board of Deacons financial records, <unitdate type="inclusive">1956-1971</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Minutes of the Annual Meetings</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> February 1898-January 1954</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> January 1955-1970</unitdate> (also annual reports,  <unitdate type="inclusive">January 1955-1970</unitdate>)</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Church education</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Sunday School records, <unitdate type="inclusive">1954-1955</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Records of Christian Education Committee, <unitdate type="inclusive">1956-1967</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Women's organizations</unittitle></did>
+<c02 level="file"><did><unittitle>Church Women's Association records</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1948-1955</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1955-1957</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1958-1959</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1959-1962</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1963-1966</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1967-1968</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Crescent Circle records, <unitdate type="inclusive">1950-1961</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Ladies Aid Society minutes, <unitdate type="inclusive">1932-1947</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Secretary's book of the Women's Missionary Society secretary's books, <unitdate type="inclusive">1880-1939</unitdate> </unittitle> <physdesc><extent>9 volumes</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Annual reports, <unitdate type="inclusive">1989-1999</unitdate> (lacking 1996)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Membership directories, <unitdate type="inclusive">1990-1997</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

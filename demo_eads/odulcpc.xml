@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::odulcpc.xml//EN" encodinganalog="Identifier">
+umich-bhl-85333</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Original Dulcimer Players Club 
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Krista Gray  </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2013">
+2013</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2013</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2013-11-21</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Original Dulcimer Players Club records, 1963-2012</titleproper>
+
+<author>Finding aid created by<lb/> 
+Krista Gray, January 2013</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Original Dulcimer Players Club
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Original Dulcimer Players Club records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1963-2012
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet and 1 box of audiotapes</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8533 Bp 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Organization dedicated to furthering "the art of playing the Hammered Dulcimer" founded in 1963 by Elgia C. Hickok in Michigan.  Records include correspondence, minutes, newsletters, programs, event flyers, and oral histories, sound recordings of interviews and meetings, and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by the Original Dulcimer Players Club in (donor no. <num type="donor" encodinganalog="541$e">6491</num>) in several accessions in the 1980s, and by Paul Gifford (donor no. <num type="donor" encodinganalog="541$e">7128</num>) in November 2012.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Original Dulcimer Players Club records, Bentley Historical Library, University of Michigan</p></prefercite>
+
+
+
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Original Dulcimer Players Club (ODPC) was founded in 1963 by Elgia C. Hickok in Michigan.  The group aims to "promote and preserve the art of playing the Hammered Dulcimer."  Beginning in 1974, the ODPC has hosted a FunFest each summer at the Osceola County Fairgrounds in Evart, Michigan.  The event includes concerts, workshops, and informal jam sessions.  The event focuses on the hammered dulcimer, but other instruments are welcome as well (excluding band brass instruments, woodwind instruments with mechanical keys, most drums, and electrified instruments).</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Original Dulcimer Players Club records document the group's organization and activities from its founding in 1963.  The records are arranged into six series: Administrative materials, Publications and events, Articles and newspaper clippings, Miscellaneous, Visual materials, and Audio materials. </p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Dulcimer.</subject>
+<subject source="lcsh" encodinganalog="650">Music--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Musicians--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Original Dulcimer Players Club.</corpname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<geogname source="lcsh" encodinganalog="651">Evart (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Fair Lane (Dearborn, Mich.)</corpname>
+<subject source="lctgm" encodinganalog="650">Music ensembles.</subject>
+<corpname source="lcnaf" encodinganalog="610">Ruffwater Stringband.</corpname>
+<subject source="lctgm" encodinganalog="650">Stringed instruments.</subject></controlaccess>
+
+
+<controlaccess><head>Subjects - Sound Recordings:</head>
+<persname source="lcnaf" encodinganalog="600">Cox, Eugene.</persname>
+<persname source="lcnaf" encodinganalog="600">Cox, Viola.</persname>
+<persname source="lcnaf" encodinganalog="600">Hickok, Mildred.</persname>
+</controlaccess>
+	
+
+
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Cox, Eugene.</persname>
+<persname source="lcnaf" encodinganalog="700">Cox, Viola.</persname>
+<persname source="lcnaf" encodinganalog="700">Hickok, Mildred.</persname>
+
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Interviews.</genreform>
+<genreform source="aat" encodinganalog="655">Microfilms.</genreform>
+<genreform source="aat" encodinganalog="655">Oral histories.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+<genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Administrative materials, <unitdate type="inclusive">1972-1983</unitdate></unittitle></did><scopecontent><p>The Administrative materials series consists of governing documents, correspondence, minutes, and other materials.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>By-laws, <unitdate type="inclusive">1979</unitdate> and financial document, <unitdate type="inclusive">1972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, minutes, and other materials, <unitdate type="inclusive">1973-1983</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Publications and events, <unitdate type="inclusive">1971-2012</unitdate></unittitle></did><scopecontent><p>The Publications and events series includes organization newsletters, FunFest programs, event flyers, and a calendar.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters, <unitdate type="inclusive">1984-1997</unitdate> and <unitdate type="inclusive">2012</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Funfest programs, <unitdate type="inclusive">1994-1997</unitdate>, <unitdate type="inclusive">2000</unitdate> and <unitdate type="inclusive">2012</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Flyers, <unitdate type="inclusive">1971-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Calendar, <unitdate type="inclusive">1984-1985</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Articles and newspaper clippings, <unitdate type="inclusive">1965-1984</unitdate></unittitle></did><scopecontent><p>The Articles and newspaper clippings series is composed of various news articles about the ODPC and dulcimer playing.  Most clippings originate from the<title render="italic">Grand Rapids Press</title> .  Issues of the <title render="italic">Evart Review</title> are also included as well as one issue of <title render="italic">North Country Folk.</title> </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper articles, <unitdate type="inclusive">1965-1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper articles, <unitdate type="inclusive">1967-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> North Country Folk</title> article, <unitdate type="inclusive">1981</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous, <unitdate type="inclusive">1976-1986</unitdate></unittitle></did><scopecontent><p>The Miscellaneous series includes two essays or papers, materials related to the oral history project, and other mixed materials.  These mixed materials may overlap with the series above.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Michigan's Hammered Dulcimers" by Jan Alm, <unitdate type="inclusive">1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Materials regarding "It's not a bagpipe" essay, <unitdate type="inclusive">1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Oral history project, <unitdate type="inclusive">1978</unitdate> and <unitdate type="inclusive">1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mixed materials including oral history project materials, correspondence, news articles, and event materials, <unitdate type="inclusive">1976-1980</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Visual materials, <unitdate type="inclusive">1974-1998</unitdate></unittitle></did><scopecontent><p>The Visual materials series consists of photographs of ODPC people and events, as well as a reel of microfilm with ODCP scrapbook.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photographs of meetings and performances, <unitdate type="inclusive">1970s</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photographs of dulcimer players and events, <unitdate type="inclusive">1974-1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photograph of the Ruffwater Stringband, <unitdate type="inclusive">September 12, 1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Scrapbook (on microfilm reel)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Audio materials, <unitdate type="inclusive">1963-1980</unitdate></unittitle></did>
+<c02 level="file"><did><unittitle>Meetings</unittitle></did><scopecontent><p>The Audio materials series contains audiotapes of ODPC meetings and oral history interviews.</p></scopecontent>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>First meeting of the Original Dulcimer Players Club, Barryton, MI, <unitdate type="inclusive">September 28, 1963</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>"Dulcimers at Barryton" </unittitle></did> <note><p>(probably meeting in 1964)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>ODPC meeting, <unitdate type="inclusive">September 30, 1967</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>ODPC meeting, <unitdate type="inclusive">May 1968</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>ODPC meeting, <unitdate type="inclusive">September 27, 1969</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Oral History Project</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Viola Cox, ODPC Oral History Project Tape 1, <unitdate type="inclusive">1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Mildred Hickok, ODPC Oral History Project Tape 2, <unitdate type="inclusive">1980</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Eugene Cox, ODPC Oral History Project Tape 3, <unitdate type="inclusive">1980</unitdate></unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

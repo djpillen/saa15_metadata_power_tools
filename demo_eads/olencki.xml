@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::olencki.xml//EN" encodinganalog="identifier">
+umich-bhl-0485
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Edward V. Olencki Papers, 1946-1993
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Dharma Fowler, June 2004 </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+Sept. 2004 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>Sept. 2004</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20040920</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Edward V. Olencki Papers, 1946-1993</titleproper>
+
+<author>Finding aid created by<lb/> 
+Dharma Fowler, June 2004</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory"  relatedencoding="marc21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Olencki, Edward V.
+</persname></origination>
+
+<unittitle encodinganalog="245">
+Edward V. Olencki papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1946-1993
+</unitdate>
+
+<unitdate  type="bulk" encodinganalog="245$g">
+1960-1983
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+0485 Aa 2  
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Edward V. Olencki was a practicing architect and a professor at the University of Michigan College of Architecture and Urban Planning from 1949 to 1987.  Prior to coming to Ann Arbor, Olencki worked as a designer and draftsman for prominent architect Mies van der Rohe while studying at the Illinois Institute of Technology.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+This collection was donated by Mrs. Irene Olencki (Donor <num type="donor" encodinganalog="541$e">9271</num>) in November 2002.  </p>
+</acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open without restriction.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright status is undetermined.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Edward V. Olencki Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Edward Olencki attended the Illinois Institute of Technology (IIT.), where he earned a BS in architecture in 1944 and an MS in 1949.  During his time at IIT, he worked as a draftsman and designer in the offices of famed architect, Mies van der Rohe in Chicago from 1943 to 1948.  In 1948, Olencki left Chicago to take a position at the University of Michigan as an instructor.  He was promoted to assistant professor in 1950, associate professor in 1953, and full professor in 1963.  Olencki primarily taught courses on construction materials and methods, comprehensive architectural design, and furniture design.  His research interests focused on modern church architecture, and he completed two sabbaticals in Europe studying this theme.  During his time at Michigan Olencki also ran his own architectural firm, designing homes, churches, and commercial buildings.  </p>
+<p>In 2000 Olencki saluted his former mentor and employer, Mies van der Rohe, by donating a collection of over 200 of Mies van der Rohe's architectural drawings to the University of Michigan.  These drawings were exhibited as "Mies in Michigan."  </p>
+<p>When he retired in 1987, Olencki was named Professor Emeritus of Architecture in honor of his years as an excellent and devoted teacher (See Proceedings of the Board of Regents, June 1987).  Olencki died on March 14, 2002 at the age of 79.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>This collection primarily reflects Olencki's work as a practicing architect, but also contains some materials related to his research interest in church design, and his association with Mies van der Rohe.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Olencki, Edward V.</persname>
+<subject source="lcsh" encodinganalog="650">Architecture--Designs and plans.</subject>
+<subject source="lcsh" encodinganalog="650">Architects--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Architecture and Urban Planning</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty</corpname>
+<persname source="lcnaf" encodinganalog="600">Mies van der Rohe, Ludwig 1886-1969.</persname>
+<persname source="lcnaf" encodinganalog="600">Eaton, Leonard K.</persname>
+<corpname source="lcnaf" encodinganalog="610">St Mary Stdent Parish (Ann Arbor, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Divine Savior Parish (Westland, Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Church architecture.</subject>
+<persname source="lcnaf" encodinganalog="600">Mies van der Rohe, Ludwig 1886-1969.</persname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<persname source="lcnaf" encodinganalog="600">Olencki, Edward V.</persname>
+<subject source="lcsh" encodinganalog="650">Architecture.</subject>
+<subject source="lcsh" encodinganalog="650">Architects.</subject>
+<subject source="lcsh" encodinganalog="650">Church architecture.</subject>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<persname source="lcnaf" encodinganalog="600">Mies van der Rohe, Ludwig 1886-1969.</persname>
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Illinois Institute of Technology, <unitdate type="inclusive">1949-1950</unitdate></unittitle></did>
+<scopecontent><p>The series Illinois Institute of Technology, 1949-1950, consists of Olencki's 1949 Masters thesis paper on church design, including photographs of his church model.</p>
+</scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Thesis Photos and Negatives, <unitdate type="inclusive">1949</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Church Model</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Church Elevation</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Masters Thesis, "The Small Catholic Church:  Problem and Proposed Solution," <unitdate type="inclusive">1950</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Architectural Plans, <unitdate type="inclusive">1946-1993</unitdate></unittitle></did>
+<scopecontent>
+<p>The Architectural Plans, 1946-1993 series is the largest part of the collection and contains architectural drawings and blueprints, letters, and proposals.  The series contains three files on Mies van der Rohe buildings (technology center at Illinois Institute of Technology, and Algonquin Apartments and Lakeview Apartments).  The series is divided by type of structure: residential, commercial, church, or academic.  Residential architecture includes the home built for fellow architecture professor Leonard K. Eaton.  Church architecture includes an addition to St. Mary's Student Chapel In Ann Arbor, and Divine Savior Church in Westland.</p>
+</scopecontent>
+<c02 level="file"><did><unittitle>Residential</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Various Sketches of New House Plans, <unitdate type="inclusive">1953</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Freedman Residence, Ann Arbor, MI, <unitdate type="inclusive">1953</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Eaton Residence, Ann Arbor, MI, <unitdate type="inclusive">1962</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Algonquin Apartments, Mies van der Rohe, Architect</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Lakeview Apartments, Mies van der Rohe, Architect</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Magee Residence, Isle of Capri, Florida, <unitdate type="inclusive">1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Scott Residence Addition, <unitdate type="inclusive">1993</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Amsters Residence Remodel, Ann Arbor, MI, <unitdate type="inclusive">1993</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Commercial</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Campbell Construction Company, Detroit, MI, <unitdate type="inclusive">1953</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Gabriel Richard Center, Ann Arbor, MI, <unitdate type="inclusive">1963</unitdate> <unitdate type="inclusive">1979</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Churches</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>St. Mary's Student Chapel, Ann Arbor, MI, <unitdate type="inclusive">1966</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Divine Savior Church, Westland, MI, <unitdate type="inclusive">1976</unitdate> </unittitle> <physdesc><extent>(2 folders)</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Academic</unittitle></did>
+<c03 level="file"><did><unittitle>New Technology Center for the Illinois Institute of Technology, Chicago, Illinois, Mies van der Rohe, Architect, <unitdate type="inclusive">1946</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous, <unitdate type="inclusive">ca. 1960-1971</unitdate></unittitle></did>
+<scopecontent>
+<p>The Miscellaneous, ca. 1960-1971, series contains church sketches and furniture designs, notes and letters from Olencki's sabbaticals, and greeting cards from Mies van der Rohe.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Church Sketches and Ideas</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Church Furniture Designs</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Greeting Cards from Mies van der Rohe</unittitle></did></c02>
+<c02 level="file"><did><unittitle>University of Michigan Sabbaticals</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1959-1960</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle><unitdate type="inclusive">1966</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+
+<c01 level="series"><did><unittitle>Photographs, <unitdate type="inclusive">ca. 1940s-1070s</unitdate></unittitle></did>
+<scopecontent>
+<p>The Photographs, ca. 1940s-1970s series contains photos of building exteriors from Olencki's time with Mies van der Rohe as well as photos of Taliesin, Frank Lloyd Wright's home and workspace in Spring Green, Wisconsin.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Building Exteriors from time at the offices of Mies van der Rohe (includes photographs of Olencki with Mies)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Taliesin (by Frank Lloyd Wright) and exterior photos of Frank Lloyd Wright-designed office building</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous and unidentified photographs</unittitle></did></c02>
+<c02 level="file"><did><unittitle></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

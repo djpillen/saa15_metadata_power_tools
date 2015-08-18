@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::toddstan.xml//EN" encodinganalog="identifier">
+umich-bhl-86498
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Stanton W. Todd Papers, 1942-1984
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Kathy Koehler </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2004 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>September 2004</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20040902 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Stanton W. Todd Papers, date</titleproper>
+
+<author>Finding aid created by<lb/> 
+Kathy Koehler, 1985</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Todd, Stanton W. (Stanton Wesley), 1908-
+</persname></origination>
+
+<unittitle encodinganalog="245">
+Stanton W. Todd Papers,  
+<unitdate type="inclusive" encodinganalog="245$f">
+1942-1984
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+86498 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Grand Rapids, Michigan, businessman, and participant in the Home Front, a reform group within the Republican Party of Grand Rapids. Reminiscences and biographical material; Home Front files, including correspondence, and newsletters; and topical files relating to other political and civic activities. 
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Stanton W. Todd (donor no. <num type="donor" encodinganalog="541$e">5611</num>) in March and June 1985.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Stanton W. Todd Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>During the 1940s in Grand Rapids, Michigan, a group of young Republicans led a reform movement aimed at wiping out the "bossism" of Frank M. McKay in the Republican party of Kent County. It was Gerald Ford's involvement in this reform group, called the Republican Home Front, which launched his poltical career. One of the founders of the Home Front and its chief spokesman for the period of 1942-1948 was a young Grand Rapids businessman named Stanton W. Todd, Jr.</p>
+<p>Todd was born on September 20, 1908, in Grand Rapids. He graduated from Grand Rapids Central High School in 1926 and went on to study at the University of Michigan at Ann Arbor. He graduated in 1930, but continued his studies in political science and law until 1932. In 1934, Todd obtained a job with American Radiator Corporation of New York City and Detroit. In 1935, while in New York, he met and married Rosemary Hunt. The Todds had three children: Rosemary, Sally and Stanton III.</p>
+
+<p>In 1942, the Todds moved to Grand Rapids. It was a chance encounter with Paul Goebel, another University of Michigan graduate, which drew Todd into the Home Front movement. Goebel, familiar with Todd's interest in politics from his campus days, invited him to attend a meeting with other men who opposed Frank McKay, a powerful politician who virtually controlled the Republican party in Kent County. Other men involved with what became known as the Home Front included Phil Buchen, Bert Cole, Gerald Ford, Sr., Gerald Ford, Jr., Jack Hibbard, Clair Kuiper, Hugh Schaddelee, Ted Swain (the uncle of Gerald Ford, Jr.), Willard B. VerMeulen and Fred Wetmore.</p>
+
+<p>Todd, as executive secretary of the Home Front, was the party's spokesman. Even as early as 1942, the Home Front mounted a serious challenge to the established Republican party. By June 1944, the Home Front was able to wrest control of the Republican Convention from the McKay faction. During the 1946 primaries, the Home Front itself was challenged by a veteran's organization composed primarily of McKay's supporters, but the Home Front managed to retain control of the convention. By 1948, the Home Front was firmly established as the Republican power in Kent County. In that year, Gerald Ford was chosen as the party's candidate for Congress.</p>
+
+<p>Todd's active involvement in the reform movement and his vocal opposition to McKay made him unpopular with McKay and his many supporters. In 1942, perhaps for this reason, Todd lost his job with the American Radiator Company. He immediately established his own business, the Todd Coal Company, only to be drafted by the Army in 1944. He managed to obtain an officer's commission in the Navy instead, and served nearly a year and a half in the South Pacific. During his absence, his wife Rosemary remained active in the Home Front, serving as executive secretary in 1944-1945. Upon his return home, Todd became owner of Steele Brothers and Todd, a building materials company, and resumed his active political role. He ran in two close races, for City Council in 1947 and 1949, losing both by narrow margins. He also served in 1946 as executive secretary of the Kent County Republican Finance Committee, and continued his work as executive secretary of the Home Front. By 1949, Todd retired from active political involvement, although he campaigned actively in Pat Cleary's bid for the governorship in 1954, and has remained active in civic affairs in Grand Rapids.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>Stanton Todd's papers document the political activities of a Grand Rapids, Michigan businessman who was involved in reform movements, notably the "Republican Home Front," within the city's Republican Party.  The Todd papers have been divided into three series: Biographical/Family Materials, the Home Front (Republican Party), and Topical Files.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Grand Rapids (Mich.)--Politics and government.</geogname>
+<subject source="lcsh" encodinganalog="650">Municipal government--Michigan--Grand Rapids.</subject>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1939-1945.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
+<persname source="lcnaf" encodinganalog="600">Todd, Stanton W. (Stanton Wesley), 1908-</persname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Biographical/Family Materials</unittitle></did><scopecontent><p>The Biographical/Family Materials series includes Todd's reminiscences largely concerning the period 1942-1948 and his involvement in the Home Front. There are also several versions of a letter to his son written on the eve of Ford's inauguration, as well as a synopsis of his experience in Republican politics addressed to his grandson.  This series includes one photograph from a dinner in honor of Bill VerMeulen in which several Home Front members, including Todd, are identified. Finally, there are two privately-published family histories, one written by Todd about his mother's family and one written by a cousin, Charles Todd, about his boyhood in Chautauqua County, New York. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reminiscences and Biographical Material, <unitdate type="inclusive">1974-1983</unitdate></unittitle></did><note><p>(include <genreform normal="Photograph">photograph</genreform>)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Let Me Live"-Stanton Todd reminiscences</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">The Chauncey Family: Nine Generations, 1590-1934 </title> <unitdate>1934</unitdate> </unittitle><note><p>transferred to the printed collection and separately cataloged</p></note></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">The Sittin' Stone: Memories of a Chautauqua County Boyhood,</title> <unitdate type="inclusive">1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Chauncey family miscellanea</unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Home Front (Republican party)</unittitle></did><scopecontent><p>The series of materials relating to the Home Front is the most substantial series in the collection..  There are chronological files dating from 1942 to 1948, except for 1945, the year in which Todd was in the service.  These contain some correspondence as well as flyers and political pamphlets, newspaper clippings, and membership lists. The Home Front put out a newsletter, the <title render="italic">Home Front Sentinel</title>, of which there are issues for 1942-1943. During much of this period, Gerald Ford was serving in World War II,, and there is not a great deal of material on Ford's involvement with the Home Front prior to 1948.</p></scopecontent>
+<c02 level="file"><did><unittitle>Chronological Files</unittitle></did><note><p>(include correspondence, flyers, clippings, etc.)</p></note>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1942</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1943</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1944</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1946</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1947</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1948</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Home Front Sentinel</title> (Newsletter), <unitdate type="inclusive">1942-1943</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Topical Files</unittitle></did><scopecontent><p>The Topical Files covers a variety of subjects, from Todd's World War II experiences to his involvement in the Cleary for Governor Campaign in 1954 to his participation in two high school political science programs, Operation Bentley and the Senior Government Day Program. The typescript World War II correspondence is from Todd to his colleagues at the Todd Coal Company and is concerned chiefly with family and business matters.</p></scopecontent>
+<c02 level="file"><did><unittitle>World War II, <unitdate type="inclusive">1943-1945</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Application for Naval Commission, <unitdate type="inclusive">1943-1944</unitdate>  (includes correspondence)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1944-1945</unitdate></unittitle><note><p>bound typescript</p></note></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Cleary for Governor Campaign, <unitdate type="inclusive">1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Operation Bentley, <unitdate type="inclusive">1966</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Senior Government Day Program</unittitle></did></c02></c01>
+
+
+
+</dsc></archdesc>
+
+</ead>

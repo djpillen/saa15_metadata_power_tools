@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::milegpho.xml//EN" encodinganalog="Identifier">
+umich-bhl-93265</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Michigan Legislature photograph collection, 1875-1990
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>April 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-04-01</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Michigan Legislature photograph collection, 1875-1990</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Michigan. Legislature.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Michigan Legislature photograph collection 
+<unitdate type="inclusive" encodinganalog="245$f">
+1875-1990
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+3 oversize folders
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+93265 UCA.3m; UCA.3l
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Group and composite portraits of the members of the Michigan Legislature.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was accumulated from different sources  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+No copyright restrictions
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Michigan Legislature photograph collection, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Beginning around 1870, the Michigan Legislature produced group and composite portraits of its members.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>This is a collection of group and composite portraits of the members of the Michigan Legislature. The photographs were accumulated from different sources.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Legislature. House of Representatives.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Legislature. Senate.</corpname>
+
+<subject source="lctgm" encodinganalog="650">Politics and government.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Group and composite portraits of the members of the Michigan Legislature</unittitle></did>
+<c02 level="file"><did><unittitle>House of Representatives </unittitle></did> <note><p>(in oversize folder UCA.3m unless otherwise indicated)</p></note>
+    <c03 level="file"><did><container type="folder" label="Oversize Folder">UCA.3m</container><unittitle><unitdate type="inclusive">1877/1878</unitdate></unittitle></did></c03>
+    <c03 level="file"><did><container type="folder" label="Oversize Folder">UCA.3m</container><unittitle><unitdate type="inclusive">1883/1884</unitdate></unittitle></did></c03>
+    <c03 level="file"><did><container type="folder" label="Oversize Folder">UCA.3m</container><unittitle><unitdate type="inclusive">1885/1886</unitdate> </unittitle> <physdesc><physfacet>copy print</physfacet></physdesc></did></c03>
+    <c03 level="file"><did><container type="folder" label="Oversize Folder">UCA.3m</container><unittitle><unitdate type="inclusive">1899/1900</unitdate></unittitle></did></c03>
+    <c03 level="file"><did><container type="folder" label="Oversize Folder">UCA.3l</container><unittitle><unitdate type="inclusive">1903/1904</unitdate> </unittitle></did> </c03>
+    <c03 level="file"><did><container type="folder" label="Oversize Folder">UCA.3l</container><unittitle><unitdate type="inclusive">1905/1906</unitdate> </unittitle></did> </c03>
+    <c03 level="file"><did><container type="folder" label="Oversize Folder">UCA.3m</container><unittitle><unitdate type="inclusive">1919/1920</unitdate></unittitle></did></c03>
+    <c03 level="file"><did><container type="folder" label="Oversize Folder">UCA.3m</container><unittitle><unitdate type="inclusive">1925/1926</unitdate></unittitle></did></c03>
+    <c03 level="file"><did><container type="folder" label="Oversize Folder">UCA.3m</container><unittitle><unitdate type="inclusive">1989/1990</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Senate</unittitle></did>
+    <c03 level="file"><did><container type="folder" label="Oversize Folder">UCA.3m</container><unittitle><unitdate type="inclusive">1875/1876</unitdate></unittitle></did></c03>
+    <c03 level="file"><did><container type="folder" label="Oversize Folder">UCA.3m</container><unittitle><unitdate type="inclusive">1877/1878</unitdate></unittitle></did></c03>
+    <c03 level="file"><did><container type="folder" label="Oversize Folder">UCA.3m</container><unittitle><unitdate type="inclusive">1883/1884</unitdate> group, composite, and "Kickers"</unittitle></did></c03>
+    <c03 level="file"><did><container type="folder" label="Oversize Folder">UCA.3m</container><unittitle><unitdate type="inclusive">1921/1922</unitdate></unittitle></did></c03>
+    <c03 level="file"><did><container type="folder" label="Oversize Folder">UCA.3m</container><unittitle><unitdate type="inclusive">1927/1928</unitdate></unittitle></did></c03>
+    <c03 level="file"><did><container type="folder" label="Oversize Folder">UCA.3m</container><unittitle><unitdate type="inclusive">1929/1930</unitdate></unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

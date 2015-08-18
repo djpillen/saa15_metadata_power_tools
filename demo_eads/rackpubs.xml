@@ -1,0 +1,300 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::rackpubs.xml//EN" encodinganalog="identifier">
+umich-bhl-0578</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Finding Aid for 
+Announcements, Bulletins, Handbooks (University of Michigan), 1883-ongoing
+
+</titleproper>
+        <author encodinganalog="creator">Collection processed and finding aid created by 
+Nancy Deromedi, June 2005</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="date">
+Nov. 2005</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>20051105</date></creation>
+      <langusage>The finding aid is written in  <language langcode="eng">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>20051105</date>
+        <item>added WAS website links.</item>
+      </change>
+      <change>
+        <date>20051105</date>
+        <item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>University Archives and Records Program<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Announcements, Bulletins, Handbooks <lb />(University of Michigan), <lb />1883-ongoing
+</titleproper>
+      <author>Finding aid created by<lb /> 
+Nancy Deromedi, June 2005
+</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21">
+    <did>
+      <origination>
+        <corpname source="lcnaf" encodinganalog="110">
+Horace H. Rackham School of Graduate Studies
+</corpname>
+      </origination>
+      <unittitle encodinganalog="245">
+Announcements, Bulletins, Handbooks (Horace H. Rackham School of Graduate Studies)
+<unitdate type="inclusive" encodinganalog="245$f">
+1883-ongoing
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+3.5 linear feet
+</extent>
+      </physdesc>
+      <unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+0578 Fimu C164
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Graduate School of the University of Michigan. Includes Bulletins and Anouncements of courses and degree requirements, graudate student hand books and other infomration for graudate students.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload" />
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+Publications from Horace H. Rackham School of Graduate Studies (Donor no. <num type="donor" encodinganalog="541$e">972</num>) are received periodically.
+</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>
+The record group is open without restriction.</p>
+        <p>
+          <extptr href="uarpacc" show="embed" actuate="onload" />
+        </p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Announcements, Bulletins, Handbooks (Horace H. Rackham School of Graduate Studies), Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>For history, see the finding aid for Horace H. Rackham School of Graduate Studies records.  </p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Horace H. Rackham School of Graduate Studies Announcements, Bulletins and Handbooks series consists of publications directly related to graduate school policies and procedures and includes information on degree program requirements and curriculum.   The core titles included in the series are Announcement/Bulletin, Graduate Student Handbook and Information for Graduate Students.   Some publications (or their successors)  may no longer be available in print but are available on the school s website.</p>
+      <p>Note:  Other publications produced under the auspices of the Horace H. Rackham School of Graduate Studies, such as Rackham Reports, are separately cataloged.  </p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Graduate work.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Curricula--Periodicals.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Horace H. Rackham School of Graduate Studies.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform encodinganalog="655" source="aat">CD-roms</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Announcements, Bulletins, Handbooks</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>Announcement</unittitle>
+          </did>
+          <note>
+            <p>(includes Program Degree Requirements)</p>
+          </note>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1883-1887</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1892-1910</unitdate>
+              </unittitle>
+              <physdesc>
+                <extent>3 volumes</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">2</container>
+              <unittitle>1916-1957/58 </unittitle>
+              <physdesc>
+                <extent>18 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>
+                <unitdate type="inclusive">1958/59-1961/62</unitdate>
+              </unittitle>
+              <physdesc>
+                <extent>2 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Bulletin </unittitle>
+          </did>
+          <note>
+            <p>(includes Program Degree Requirements)</p>
+          </note>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>
+                <unitdate type="inclusive">1962/63-1985/86</unitdate>
+              </unittitle>
+              <physdesc>
+                <extent>14 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">4</container>
+              <unittitle>
+                <unitdate type="inclusive">1986/87-2004/05</unitdate>
+              </unittitle>
+              <physdesc>
+                <extent>10 folders and one CD-ROM</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Doctoral Student Handbook, <unitdate type="inclusive">1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Graduate Student Handbook</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">4</container>
+              <unittitle>
+                <unitdate type="inclusive">1981-1998</unitdate>
+              </unittitle>
+              <physdesc>
+                <extent>7 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>The Graduate Handbook, published by Rackham Student Government, <unitdate type="inclusive">1969-1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Information for Graduate Students (includes application form)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">4</container>
+              <unittitle>1965-1991/92 </unittitle>
+              <physdesc>
+                <extent>16 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Archived Rackham Graduate School Website</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Rackham School of Graduate Studies  Archived Website series documents the academic programs, accomplishments, resources, events, and people at the Rackham School of Graduate Studies. Content includes important news and announcements, publications (such as newsletters and course catalogs), and information about admissions, curriculum, degree requirements, faculty, and the overall mission of the School.  The website series is arranged chronologically, with captures from 2002 and 2003 stored on CD. Starting in 2010, this archived website will be captured on a regular, ongoing basis as part of the University of Michigan Web Archives, hosted at http://webarchives.cdlib.org/a/universityofmichigan/.  </p>
+        </scopecontent>
+        <c02 level="item">
+          <did>
+            <container type="box" label="CD Box">2</container>
+            <unittitle>Website capture, <unitdate type="inclusive">May 15, 2002</unitdate></unittitle>
+            <physdesc>
+              <extent>1 cd</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="CD Box">3</container>
+            <unittitle>Website capture, <unitdate type="inclusive">June 22, 2003</unitdate></unittitle>
+            <physdesc>
+              <extent>1 cd</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <physloc>Online</physloc>
+            <unittitle>Archived Horace H. Rackham School of Graduate Studies home page, <unitdate type="inclusive">2010-[ongoing]</unitdate></unittitle>
+            <dao show="new" actuate="onrequest" href="87198-w-1">
+              <daodesc>
+                <p>[view website]</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <physloc>Online</physloc>
+            <unittitle>Archived websites related to the Rackham School of Graduate Studies, <unitdate type="inclusive">2010-[ongoing]</unitdate></unittitle>
+            <dao show="new" actuate="onrequest" href="2">
+              <daodesc>
+                <p>[view website]</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

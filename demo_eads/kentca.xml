@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::kentca.xml//EN" encodinganalog="identifier">
+umich-bhl-851595
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Charles A. Kent papers, 1877 and 1898
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+1877 and 1898</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney 
+<date>Nov. 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20051129 </date><item>Original encoding from MARDC record using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Charles A. Kent Papers, 1877 and 1898</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Library Staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Kent, Charles A. (Charles Artemas),1835-1917.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Charles A. Kent papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1877 and 1898
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+13 items in 1 folder
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+851595 Aa/1
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of law at University of Michigan. Papers include a report of his faculty activities for the period 1876-1877, and correspondence relating to his study of Michigan jurist, Thomas M. Cooley, including letters from James B. Angell, Henry Carter Adams, Charles Horton Cooley, Norman Geddes and Benjamin L. Baxter.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Door no. <num type="donor" encodinganalog="541$e">1333</num></p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Charles A. Kent Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>
+
+
+Charles Artemas Kent was born in Hopkinton, New York, Oct. 11, 1835, the son of Artemas and Sarah (Weed) Kent.  He received a A.B. from the University of Vermont in 1856 and studied at Andover Theological Seminary, 1857-1859.  Kent was admitted to the Michigan Bar in 1960 began practicing law in Detroit.  Kent joined the Law School faculty in 1868. He had been a student in the law office of Professor Charles I. Walker before joining the faculty as the Fletcher Professor of Law. The position named for Judge Fletcher of Massachusetts, who had made a valuable contribution to the Law Library.  Kent succeeded Thomas M. Cooley as dean of the Law School in 1883 and held the position until 1886.  Kent died May 17, 1917.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Charles A. Kent papers consist of a report of his faculty activities for the period 1876-1877, and correspondence relating to his study of Michigan jurist, Thomas M. Cooley, including letters from James B. Angell, Henry Carter Adams, Charles Horton Cooley, Norman Geddes and Benjamin L. Baxter.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Cooley, Thomas McIntyre, 1824-1898.</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Law.</corpname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Adams, Henry Carter, 1851-1921.</persname>
+<persname source="lcnaf" encodinganalog="700">Angell, James Burrill, 1829-1916.</persname>
+<persname source="lcnaf" encodinganalog="700">Baxter, Benjamin Levi, 1815-1902.</persname>
+<persname source="lcnaf" encodinganalog="700">Cooley, Charles Horton, 1864-1929.</persname>
+<persname source="lcnaf" encodinganalog="700">Geddes, Norman, b. 1823.</persname>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Papers</unittitle></did>
+<c02 level="file"><did><container label="Folder" type="folder">1</container><unittitle>Report on faculty duties, <unitdate type="inclusive">1876/77</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Correspondence relating to Judge Thomas M. Cooley,</unittitle></did>
+<c03 level="item"><did><unittitle>From Charles H. Cooley, <unitdate type="inclusive">October 28, 1898</unitdate></unittitle></did></c03>
+<c03 level="item"><did><unittitle>From Charles H Cooley, <unitdate type="inclusive">November 2, 1898</unitdate></unittitle></did></c03>
+<c03 level="item"><did><unittitle>From Benjamin Levi Baxter, <unitdate type="inclusive">November 2, 1898</unitdate></unittitle></did></c03>
+<c03 level="item"><did><unittitle>From B.F. Graves, <unitdate type="inclusive">November 2, 1898</unitdate></unittitle></did></c03>
+<c03 level="item"><did><unittitle>From James E. Callahan, <unitdate type="inclusive">November 4, 1898</unitdate></unittitle></did></c03>
+<c03 level="item"><did><unittitle>From J. W. Champlin, <unitdate type="inclusive">November 9, 1898</unitdate></unittitle></did></c03>
+<c03 level="item"><did><unittitle>From W. J. Cocker, <unitdate type="inclusive">November 10, 1898</unitdate></unittitle></did></c03>
+<c03 level="item"><did><unittitle>From Norma n A. Geddes, <unitdate type="inclusive">November 14, 1898</unitdate> </unittitle> <physdesc><extent>2 items</extent></physdesc></did></c03>
+<c03 level="item"><did><unittitle>From J. H. Loomis, <unitdate type="inclusive">November 18, 1898</unitdate></unittitle></did></c03>
+<c03 level="item"><did><unittitle>From Norman A. Geddes, <unitdate type="inclusive">November 19, 1898</unitdate></unittitle></did></c03>
+<c03 level="item"><did><unittitle>From Henry Carter Adams, <unitdate type="inclusive">November 23, 1898</unitdate></unittitle></did></c03>
+<c03 level="item"><did><unittitle>From Charles Horton Cooley, <unitdate type="inclusive">December 12, 1898</unitdate></unittitle></did></c03>
+<c03 level="item"><did><unittitle>From James B. Angell, <unitdate type="inclusive">December 28, 1898</unitdate></unittitle></did></c03></c02></c01>
+</dsc>
+
+<descgrp type="add">
+
+
+<relatedmaterial><head>Related Material</head>
+
+<p>Copies of several essays and lectures by Charles A. Kent are cataloged separately at the Bentley Historical Library, including:</p>
+<p><title render="italic">Memorial Address on Thomas McIntyre Cooley</title>, Feb. 26, 1899 [call no. DB 2 C774 M624]</p>
+<p><title render="italic">The Law as a Means of Justice</title>, closing Address  Delivered to the Graduating Law Class of the U of M, 1881 [call no. J 17 .K37 L415]</p>
+
+<p><title render="italic">Direct Government by the People</title>, An essay.  [call no. J 17 .K37]</p>
+
+<p><title render="italic">The Truth</title>, An essay.  [call no. J 17 .K37]</p> 
+
+</relatedmaterial></descgrp></archdesc>
+
+
+
+</ead>

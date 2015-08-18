@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::bookert.xml//EN" encodinganalog="Identifier">
+umich-bhl-9995</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Booker T. Washington Business Association records, 1941-1999
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Library staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-10-30</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Booker T. Washington Business Association records, 1941-1999</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Library staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Booker T. Washington Business Association.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Booker T. Washington Business Association records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1941-1999
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1968-1971
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9995 Bc 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Organization of Detroit African American business and professional men and women; scattered records of the organization including newsletters, directories, and topical files of some of the group’s presidents.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was donated by the organization (donor no. <num type="donor" encodinganalog="541$e">8956</num>) in 1999-2000.  Some published material came from Wardell Croft (donor no. <num type="donor" encodinganalog="541$e">8895</num>).</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Booker T. Washington Business Association records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Booker T. Washington Business Association was organized in 1930 by a small group of Detroit business and professional men headed by William H. Peck. The original name of the organization was the Booker T. Washington Trade Association. One of the purposes of the organization was to promote the development of local businesses.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The record group has been arranged into four series: Background/Informational; President's Files; National Business League, and Wallace Williams File. Included are scattered business and membership directories, newsletters, and annual meeting programs; records of organization presidents Homer D. Waterman, Joseph W. Williams, and Wallace Williams; and files relating to its relations with the National Business League, 1968-1970.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">African American businesspeople--Michigan--Detroit.</subject>
+<subject source="lcsh" encodinganalog="650">African Americans--Michigan--Detroit.</subject>
+<subject source="lcsh" encodinganalog="650">African American business enterprises--Michigan--Detroit.</subject>
+<corpname source="lcnaf" encodinganalog="610">Booker T. Washington Business Association.</corpname>
+<geogname source="lcsh" encodinganalog="651">Detroit (Mich.)--Commerce.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Booker T. Washington Trade Association.</corpname>
+<corpname source="lcnaf" encodinganalog="610">National Business League (U.S.)</corpname>
+
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Williams, Joseph W.</persname>
+<persname source="lcnaf" encodinganalog="700">Williams, Wallace C., 1921-</persname>
+<persname source="lcnaf" encodinganalog="700">Waterman, Homer D.</persname></controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Background/Informational</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution and bylaws, <unitdate type="inclusive">1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters, <unitdate type="inclusive">1984-1991</unitdate> (scattered)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Banquet programs</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Guide to Better Service" business directories, <unitdate type="inclusive">1962-1985</unitdate> (scattered)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous published materials</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous directories</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>President's Files</unittitle></did>
+<c02 level="file"><did><unittitle>Homer D. Waterman, <unitdate type="inclusive">1968-1969</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Business Service Committee, <unitdate type="inclusive">1968</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Dr. Martin Luther King Jr. Memorial Fund, University of Michigan, <unitdate type="inclusive">1968-1969</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Joseph W. Williams, <unitdate type="inclusive">1970-1971</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Activity Reports, <unitdate type="inclusive">1970</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Black-Polish Conference, <unitdate type="inclusive">1971</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Business protection, <unitdate type="inclusive">1971</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Business Service Committee</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Chairman of the Board (Homer Waterman)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Clippings</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Committee chairmen</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Committees</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Community Service Committee</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Ellis (Jackie Ray) extradition</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Imperial Shirt, Inc.</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Membership, <unitdate type="inclusive">1967-1971</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Minority Caucus meeting</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Minutes, <unitdate type="inclusive">1970-1971</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>New Detroit, Inc., <unitdate type="inclusive">1971</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Newsletter material</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Office correspondence, <unitdate type="inclusive">1970-1971</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Rogers (Hank) obituary; also papers re Urban Design Development Group</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Women in Community Service</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Women's Day Program</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Wallace Williams, <unitdate type="inclusive">1985-1986</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>National Business League</unittitle></did>
+<c02 level="file"><did><unittitle>Project Outreach</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Progress Report, <unitdate type="inclusive">1968</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Activity Reports, <unitdate type="inclusive">1970</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Project Director (R. Conrad Vaughn) file, <unitdate type="inclusive">1968</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Convention file, Detroit, <unitdate type="inclusive">1970</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Publicity</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Wallace Williams File, <unitdate type="inclusive">1991-1999</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Scattered minutes, mailings, etc.</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

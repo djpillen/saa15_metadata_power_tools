@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::babergw.xml//EN" encodinganalog="identifier">umich-bhl-8538</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for George W. Baber Papers  <date>1942-1970</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Chris Leonard</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1984</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>September 2000</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031001</date><item>Converted to EAD2002 using Word macro and Xmetal.</item></change>
+<change><date>20031001</date><item>Converted to EAD2002 using Word marco and Xmetal</item></change>
+<change><date>2000-09-29</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using Word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>George W. Baber Papers, <date>1942-1970</date></titleproper><author>Finding aid prepared by: <lb/>Chris Leonard</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Baber, George W. (George Wilbur), 1898-1970.</persname></origination>
+<unittitle encodinganalog="245">George W. Baber Papers
+<unitdate type="inclusive" encodinganalog="245$f">1942-1970</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">1 linear ft.</extent></physdesc>
+<abstract>Bishop of the African Methodist Episcopal Church, pastor of various churches in Michigan and elsewhere. Correspondence, prayers and speeches, clippings, and programs; collected A.M.E. minutes, published material, and miscellaneous; and photographs illustrative of his career activities.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">8538 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository encodinganalog="852"><corpname><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was the gift of Mrs. Elvira Baber (donor no. <num type="donor" encodinganalog="541$e">7120</num>) and came to the library through Reverend Kenneth Hill.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., George W. Baber Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Bishop George Wilbur Baber was born in 1898 in Cleveland, Ohio, the son of an African Methodist Episcopal minister. He attended Wilberforce University and was licensed to preach in 1919 by his father. Admitted to the Michigan Conference in 1923, he built churches and served as pastor in LaPorte, Indiana, Benton Harbor, Michigan, and Flint, Michigan.</p>
+<p>In 1934, Baber became pastor of the Ebenezer A.M.E. Church in Detroit. Under his leadership, Ebenezer grew from 600 to 6000 members by 1944, making it the largest pastorate in the A.M.E. denomination.</p>
+<p>At the General Conference of 1944, Baber was made 63rd bishop of the church. After brief service in Baltimore and Arkansas, Baber was assigned to the Fourth Episcopal District, encompassing Michigan, Canada, Illinois, Indiana, and Iowa. Then in 1956, he was reassigned to the First District, which ran from Philadelphia through New England.</p>
+<p>Barber's final assignment was to the Second District in 1964. It included the District of Columbia, Maryland, Virginia, and North Carolina. Based in the nation's capital, Baber became vocal in national politics. He publicly called on A.M.E. ministers to back President Johnson's 1965 urban housing program. And in 1968, he was an active supporter of Hubert Humphrey.</p>
+<p>Baber has been president of both the A.M.E. Bishops Council and General Board. He also served on the board of Kittrell College and as A.M.E. delegate to the New Delhi conference of the World Council of Churches.</p>
+<p>Baber first married in 1918 to Alma Marie Wims who died in 1954. He remarried in 1955 to Elvira Mayfield Derrick. Baber is the father of two sons and three daughters.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The papers of Bishop George Wilbur Baber are divided into seven series: biographical, correspondence, prayers and speeches, clippings, programs, African Methodist Episcopal Church, and photographs.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><subject source="lcsh" encodinganalog="650">African Americans.</subject>
+<persname source="lcnaf" encodinganalog="600">Baber, George W. (George Wilbur), 1898-1970.</persname>
+<subject source="lcsh" encodinganalog="650">Clergy--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">African Methodist Episcopal Church.</corpname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head>
+<corpname source="lcnaf" encodinganalog="610">African Methodist Episcopal Church.</corpname>
+<subject source="lcsh" encodinganalog="650">Afro-American clergy.</subject>
+<subject source="lcsh" encodinganalog="650">Afro-Americans.</subject>
+<persname source="lcnaf" encodinganalog="600">Agnew, Spiro T., 1918-</persname>
+<persname source="lcnaf" encodinganalog="600">Baber, George W. (George Wilbur), 1898-1970.</persname>
+<subject source="lctgm" encodinganalog="650">Church vestments.</subject>
+<subject source="lctgm" encodinganalog="650">Clergymen.</subject>
+<geogname source="lcsh" encodinganalog="651">Egypt.</geogname>
+<subject source="lctgm" encodinganalog="650">Government officials--United States.</subject>
+<persname source="lcnaf" encodinganalog="600">Humphrey, Hubert H. (Hubert Horatio), 1911-1978.</persname>
+<geogname source="lcsh" encodinganalog="651">India.</geogname>
+<geogname source="lcsh" encodinganalog="651">Israel.</geogname>
+<persname source="lcnaf" encodinganalog="600">Kennedy, John F. (John Fitzgerald), 1917-1963.</persname>
+<subject source="lctgm" encodinganalog="650">Rites and ceremonies.</subject>
+<persname source="lcnaf" encodinganalog="600">Rockefeller, Nelson A. (Nelson Aldrich), 1908-1979.</persname>
+<persname source="lcnaf" encodinganalog="600">Williams, G. Mennen, 1911-</persname>
+</controlaccess>
+
+<controlaccess><head>Genre/Form:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Biographical</unittitle></did><scopecontent><p>The Biographical series consists of general background material on the life of Bishop Baber. Included are newspaper obituaries, awards and certificates, and a biographical pamphlet published in 1944 upon Baber's selection as a bishop.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical material</unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Correspondence, <unitdate type="inclusive">1945-1971</unitdate></unittitle></did><scopecontent><p>All correspondence to and from Baber is arranged chronologically in the Correspondence series. There is some correspondence with individual church members, particularly before 1965. The bulk of the series begins in 1965 and deals mostly with the administrative operations of the church and Kittrell College. There is also correspondence with political and religious leaders dealing with political and philosophical issues.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1945-January 1971</unitdate></unittitle><physdesc><extent>12 folders</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><unittitle>Prayers and Speeches</unittitle></did><scopecontent><p>Prayers and speeches by Bishop Baber are found in the Prayers and Speeches.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Scattered documents</unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Clippings</unittitle></did><scopecontent><p>Clippings series includes press clippings about Baber.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1950-1970</unitdate>, <unitdate>undated</unitdate></unittitle><physdesc><extent>4 folders</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><unittitle>Programs, <unitdate type="inclusive">1957-1968</unitdate></unittitle></did><scopecontent><p>Programs come from various events attended by Baber.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Scattered programs</unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>African Methodist Episcopal Church</unittitle></did><scopecontent><p>The African Methodist Episcopal Church series contains a variety of church papers and publications which do not relate directly to the life of Bishop Baber. Included are the minutes from meetings of church leaders, pamphlets and publications, and a chronological series of miscellaneous church papers.</p></scopecontent>
+<c02 level="file"><did><unittitle>Minutes</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General Conference, <unitdate type="inclusive">1944</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Council of Bishops, <unitdate type="inclusive">1956-1966</unitdate></unittitle><physdesc><extent>8 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General Board</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pamphlets, <unitdate type="inclusive">1962-1972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Publications</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Missionary Magazine</title>, <unitdate type="inclusive">1957-1958</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Voice of Missions</title>, <unitdate type="inclusive">1957-1963</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">The Anvil</title>, <unitdate type="inclusive">1966</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous A.M.E. papers, <unitdate type="inclusive">1942-1968</unitdate>, <unitdate>undated</unitdate></unittitle><physdesc><extent>5 folders</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did><scopecontent><p>Photographs include personal portraits, family photographs, award presentations to political leaders and others, portraits with fellow A.M.E. clergy, and photographs from Baber's trips to the Holy Lands and to New Delhi for a conference of the World Council of Churches. The series includes photos of Baber with political dignitaries, <persname>John F. Kennedy</persname>, <persname>Hubert Humphrey</persname>, <persname>Spiro T. Agnew</persname>, <persname>Nelson Rockefeller</persname>, and <persname>G. Mennen Williams</persname>.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Portraits of George W. Baber</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>With family</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Award ceremonies</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>With religious leaders</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Trip to Holy Lands</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>World Council of Churches Conference, New Delhi</unittitle></did></c02></c01></dsc></archdesc></ead>   

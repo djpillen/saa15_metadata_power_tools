@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::fairfldp.xml//EN" encodinganalog="Identifier">
+umich-bhl-741</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Edmund B. Fairfield pamphlets and sermons, 1958-1899
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-11-18</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Edmund B. Fairfield pamphlets and sermons, 1958-1899</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Fairfield, Edmund B. (Edmund Burke), 1821-1904.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Edmund B. Fairfield pamphlets and sermons
+<unitdate type="inclusive" encodinganalog="245$f">
+1958-1899
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+11 items
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+[741] DA 2; F166; P186
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Educator and state senator (1857-1859) and lieutenant governor (1859-1861) of Michigan, President of Hillsdale College (1847-1869); speeches and lecture on political, religious and patriotic topics, notably 1857 speech on  prohibition of slavery in the territories.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was assembled for several sources.
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is in the public domain.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Edmund B. Fairfield pamphlets and sermons, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Edmund Burke Fairfield was minister, educator and college administrator in Ohio, Michigan and Nebraska, and republican politician, who first gained fame for a speech opposing slavery in the territories delivered in 1857.</p>
+
+<p>Fairfield was born in August 7, 1821 Parkersburg, Virginia (later West Virginia).  His father Micaiah was a slaveholder who emancipated his slaves when the family moved to Troy, Ohio and established a printing business.  Edmund enrolled first at Denison University then spent three years at Marietta College before graduating from Oberlin in 19452.  He then spent three years tutoring Latin and Greek at Oberlin and studying theology.  He spent two years as a minister in New Hampshire and two years as pastor of the Ruggle Street Baptist  in Boston. </p>
+
+<p>In 1848 Fairfield become president of  Michigan Central College, later renamed Hillsdale college, and served in the post for twenty years.  He was elected t the Michigan State Senate in 1857, representing the  14th district for one term before being elected Lieutenant Governor on the Republican ticket with Governor Moses Wisner, 1859-1861.  In 1863 Fairfield embarked on a ten-month tour of Europe and upon his return went on extended lecture tour through Massachusetts, New York, Ohio and Illinois.</p>
+
+<p>Fairfield resigned the Presidency of Hillsdale in 1869 and spent time in Mansfield, Ohio before being chosen as Chancellor of the University of Nebraska in 1876.  </p>
+
+<p>Fairfield was married three times: to Lucia Ann Jennison, in 1845, with whom he had three children; to Mary A. Baldwin on August 22, 1859 with whom he had ten children and lastly to Mary Allen Tibbitts on June 16, 1883.  He died November 7, 1904 in Oberlin, Ohio.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Fairfield collection consist of printed copies of eleven speeches and lectures on political religious and patriotic topics, including his 1857 speech on prohibition of  slavery in the territories.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject encodinganalog="65o" source="lcsh">Sermons, American.</subject><subject encodinganalog="65o" source="lcsh">Slavery--United States --Anti-slavery movements.</subject>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Pamphlets and sermons</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Slavery in the territories, <unitdate type="inclusive">1857</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Christian patriotism, <unitdate type="inclusive">1863</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Effective speech, <unitdate type="inclusive">1863</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Wickedness in high places, <unitdate type="inclusive">1874</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The republican party or the prohibition party-which?, <unitdate type="inclusive">1886</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The character of the pilgrim fathers, <unitdate type="inclusive">1897</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The heroes of the war for the union worthy of honor, <unitdate type="inclusive">1897</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Who was Jesus, the Christ?, <unitdate type="inclusive">1897</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A plea for delivery, <unitdate type="inclusive">1898</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>New opportunities for the nation for training millions of people to greater and better living, <unitdate type="inclusive">1899</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The heroism in demand, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

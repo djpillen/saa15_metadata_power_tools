@@ -1,0 +1,363 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::aitonasp.xml//EN" encodinganalog="Identifier">
+umich-bhl-7219</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Arthur Scott Aiton pamphlets and reprints, 1926-1949
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>October 2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-10-01</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Arthur Scott Aiton pamphlets and reprints, 1926-1949</titleproper>
+      <author>Finding aid created by<lb /> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<persname source="lcnaf" encodinganalog="100">
+Aiton, Arthur Scott, 1894-1955.
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+Arthur Scott Aiton pamphlets and reprints 
+<unitdate type="inclusive" encodinganalog="245$f">
+1926-1949
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+0.3 linear feet (1 box)
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+[7219] DA 2; A311; P186
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Professor of Latin American history at the University of Michigan. Reprints of journal articles and other writings.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload" /></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was assembled from various sources.  
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright status is unclear.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Arthur Scott Aiton pamphlets and reprints, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Arthur S. Aiton was born in Alameda, California, on April 15, 1894.  He attended the University of California, receiving three degrees (AB, 1916; AM, 1918; PhD, 1923).  He joined the history department of the University of Michigan as an instructor in 1921.  He became an assistant professor in 1923, associate profess in 1926, and professor in 1929.</p>
+      <p>Aiton was an expert on Hispanic-American history and an acknowledged authority on the sixteenth century Conquistadores.  His research illuminated the Coronado expedition across the American Southwest. His most notable book was <title render="italic">Antonio de Mendoza, First Viceroy of New Spain</title>.  He was working on a history of Latin America at the time of his death.</p>
+      <p>During World War II, he was director of the U.S. Army Latin-American Area Training Program at the University of Michigan.</p>
+      <p>Professor Aiton died December 29, 1955.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Aiton printed material is a collection of 26 reprints of journal articles on various aspects of Latin American history and other writings.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject encodinganalog="650" source="lcsh">Latin America--History</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>
+            <bibref>Pamphlets and reprints.</bibref>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"The Asiento Treaty as Reflected in the Papers of Lord Shelburne"</title>.  (<title render="italic">The Hispanic American Historical Review</title>,  May, l928)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Biblioteca popular de cultura Colombiana"</title>.  (<title render="italic">The Hispanic American Historical Review</title>,  February, l948)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Chronology of Events of Scientific Importance in North and South America in the Sixteenth Century"</title>.  (<title render="italic">Archeion</title>,  February, l94l)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Coronado's commission as captain-general"</title>.  (<title render="italic">The Hispanic American Historical Review</title>,  February, l940)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Coronado's First Report on the Government of New Galicia"</title>.  (<title render="italic">The Hispanic American Historical Review"</title>,  August, l939)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Coronado's Muster Roll"</title>.  (<title render="italic">American Historical Review</title>,  April, l939)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"The Diplomacy of the Louisiana Cession"</title>.  (<title render="italic">American Historical Review</title>,  July, l93l)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Early American Price-Fixing Legislation"</title>.  (<title render="italic">Michigan Law Review"</title>,  November, l926)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"The First American Mint"</title>.  (<title render="italic">The Hispanic American Historical Review"</title>,  May, l93l)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Ideas on the Church-State Problem in Nineteenth-Century Latin America"</title>. (<title render="italic">The Catholic Historical Review</title>,  January, l943)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Institute of Latin-American Studies"</title>.  (<title render="italic">The Hispanic American Historical Review</title>,  November l939)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Latin-American Frontiers"</title>.  (<title render="italic">The Canadian Historical Association"</title>, l940)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"A Neglected Intrigue of the Family Compact"</title>.  (<title render="italic">The Hispanic American Historical Review</title>,  August, l93l)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Ordenancas Hechas por el Sr. Visorrey Don Antonia de Mendoca Sobre las"</title>
+              </bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Minas de la Nueva Espana Ano de M.D.L"</title>.  (<title render="italic">Revista de Hisotria de America</title>,  June, l942)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Poems"</title>.  (<title render="italic">Quarterly Review</title> )</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title render="italic">Publications on Latin American History in l937</title> .</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title render="italic">Publications on Latin American History in l938</title> .</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Real Hacienda in New Spain Under the First Victory"</title>.  (<title render="italic">The Hispanic American Historical Review</title>,  November, l926)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Report on the Residencia of the Coronado Government)</title>.  (l940)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Robert Louis Stevenson and Jules Simoneau--A California Friendship"</title>. (<title render="italic">The Quarterly Review</title>, l95l)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"The Secret Visita Against Viceroy Mendoza"</title>.  (<title render="italic">New Spain and the West</title>, l932)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title render="italic">Spain and the Family Compact</title> .  (Hispanic American Essays, l942)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Spanish Colonial Reorganization Under the Family Compact"</title>.  (<title render="italic">Hispanic American Historical Review"</title>,  August, l932)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"A Treasure House of American History:  The Archivo General de Indias in Seville"</title>.  (<title render="italic">The Quarterly Review</title>, [l949])</bibref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <bibref>
+                <title>"Difficulties Confronting the Good Neighbor Policy"</title>.  (<title render="italic">Michigan Alumnus Quarterly Review</title>, Autumn, l944)</bibref>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

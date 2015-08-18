@@ -1,0 +1,363 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::stmatthi.xml//EN" encodinganalog="identifier">umich-bhl-9431</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Finding Aid for St. Matthias Episcopal Church, Detroit, Mich., Records <date>1901-1978</date></titleproper>
+        <author encodinganalog="creator">Collection processed and finding aid prepared by Leonard A. Coombs</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="date">March 2002</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by Leonard A. Coombs, <date>March 2002</date></creation>
+      <langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>20031010</date>
+        <item>Converted to EAD2002 using Word macro and Xmetal</item>
+      </change>
+      <change>
+        <date>2002-03-29</date>
+        <item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections <lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding Aid for <lb />St. Matthias Episcopal Church, Detroit, Mich., Records, <date type="inclusive">1901-1978</date></titleproper>
+      <author>Finding aid prepared by: <lb />Leonard A. Coombs</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc audience="external" type="inventory" level="recordgrp" relatedencoding="marc21">
+    <did>
+      <origination>
+        <corpname source="lcnaf" encodinganalog="110">St. Matthias Episcopal Church (Detroit, Mich.)</corpname>
+      </origination>
+      <unittitle encodinganalog="245">St. Matthias Episcopal Church, Detroit, Mich., Records
+<unitdate type="inclusive" encodinganalog="245$f">1901-1978</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">1 linear ft.</extent>
+      </physdesc>
+      <abstract>Episcopal church located in Detroit, Michigan. Sacramental records including baptismal, marriage, and burial registers; registers of confirmations and communicants; vestry minutes; and photographs.</abstract>
+      <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">9431 Ba 2</unitid>
+      <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea> University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload" />
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>The record group was deposited by the Episcopal Diocese of Michigan <num type="donor" encodinganalog="541$e">donor no. 1059</num> in March 2002.</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>The record group is open for research.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>Copyright has not been transferred to the Regents of the University.</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>item, folder title, box no., St. Matthias Episcopal Church, Detroit, Mich., Records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>St. Matthias Episcopal Church was established in Detroit as a Sunday school in 1897. It became a mission of the Diocese of Michigan in 1901. In 1906 St. Matthias was admitted to the diocese as a parish. The parish soon grew to become a congregation of over 1,000 members. After meeting in several locations a church building was dedicated in 1926 on Grand River Avenue at West Grand Boulevard. By the 1950s the parish had almost 2,000 members, and was for a time the largest Episcopal parish in Detroit. In the 1960s and 1970s, however, membership declined precipitously, and the parish was closed August 13, 1978.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The collection contains chiefly the sacramental records of the parish: Baptismal, marriage, and burial records are relatively complete for the period 1901-1978. Records of confirmations and communicants are somewhat less complete. Vestry minutes are incomplete--several volumes of minutes are missing from the collection.</p>
+      <p>The collection also includes a few photographs.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <geogname source="lcsh" encodinganalog="651">Detroit (Mich.)--Church history.</geogname>
+        <corpname source="lcnaf" encodinganalog="610">Episcopal Church--Michigan--Detroit.</corpname>
+        <subject source="lcsh" encodinganalog="650">Registers of births, etc.--Michigan--Detroit.</subject>
+        <corpname source="lcnaf" encodinganalog="610">St. Matthias' Episcopal Church (Detroit, Mich.)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Material:</head>
+        <corpname source="lcnaf" encodinganalog="610">St. Matthias Episcopal Church (Detroit, Mich.)</corpname>
+        <subject source="lctgm" encodinganalog="650">Churches--Michigan--Detroit.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre/Form:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Church registers</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>Parish register</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="volume" label="Oversize Volume">1</container>
+              <unittitle>Vol. 1, <unitdate type="inclusive">1901-1920</unitdate></unittitle>
+            </did>
+            <note>
+              <p>(includes Communicants, January 1903-January 1915; Baptisms, June 1901-April 1917; Confirmations, February 1905-June 1916; Marriages, May 1902-May 1920; Burials,  July 1902-April 1917; and List of families, undated)</p>
+            </note>
+            <note>
+              <p>(outsize vol. 1)</p>
+            </note>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>[Vol. 2 lost since 1919--note in vol. 3]</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="volume" label="Oversize Volume">2</container>
+              <unittitle>Vol. 3, <unitdate type="inclusive">1920-1947</unitdate></unittitle>
+            </did>
+            <note>
+              <p>(includes Communicants, September 1920-December 1927; Baptisms, February 1920-August 1942; Confirmations, May 1920-May 1936; Burials,  January 1920-December 1947]</p>
+            </note>
+            <note>
+              <p>(outsize vol. 2)</p>
+            </note>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">3</container>
+            <unittitle>Communicants register, <unitdate type="inclusive">December 1927-November 1968</unitdate></unittitle>
+          </did>
+          <note>
+            <p>(outsize vol. 3)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Baptismal register</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">August 1942-July 1949</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">July 1949-June 1959</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">September 1959-October 1974</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Confirmation register, <unitdate type="inclusive">May 1957-February 1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Marriage register</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="volume" label="Oversize Volume">4</container>
+              <unittitle>
+                <unitdate type="inclusive">February 1920-March 1932</unitdate>
+              </unittitle>
+            </did>
+            <note>
+              <p>(outsize vol. 4)</p>
+            </note>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="volume" label="Oversize Volume">5</container>
+              <unittitle>
+                <unitdate type="inclusive">April 1932-November 1942</unitdate>
+              </unittitle>
+            </did>
+            <note>
+              <p>(outsize vol. 5)</p>
+            </note>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">December 1942-February 1947</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">February 1947-May 1951</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">June 1951-June 1978</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Burial register, <unitdate type="inclusive">January 1948-August 1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Church service register</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">January 1922-September 1942</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">September 1942-September 1959</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">September 1959-July 1963</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">May 1963-October 1967</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">October 1967-August 1978</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Vestry minutes</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive">September 1905-April 1909</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive">April 1909-March 1911</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p> (also includes parish meetings, April 1911-April 1915 )</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive">April 1911-December 1915</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive">January 1921-December 1930</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive">September 1940-December 1949</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Other records</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Correspondent secretary book, <unitdate type="inclusive">1930-1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Miscellanea</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <genreform source="aat" normal="Photographs">Photographs</genreform>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>The Photographs series includes eight black and white of  the  exterior and interior of the church.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

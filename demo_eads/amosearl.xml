@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+    <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+        <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::amosearl.xml//EN" encodinganalog="Identifier">umich-bhl-05143</eadid>
+
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="Title">Finding Aid for Earl V. Amos papers, 1918-1919 </titleproper>
+                <author encodinganalog="Creator">Collection processed and finding aid created by Michigan Historical Collections, Bentley Historical Library </author>
+            </titlestmt>
+
+            <publicationstmt>
+                <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+                <date encodinganalog="Date" normal="2008"> 2008</date>
+            </publicationstmt>
+        </filedesc>
+
+        <profiledesc>
+            <creation>Encoded finding aid created by Christa Lemelin, <date>2008</date></creation>
+
+            <langusage encodinganalog="Language">The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage>
+            <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+        </profiledesc>
+
+        <revisiondesc>
+            <change>
+                <date>20100105</date>
+                <item>Edited for style and added subject tagging LAC</item>
+            </change>
+            <change>
+                <date>20080327</date>
+                <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+            </change>
+            <change>
+                <date>20120208</date>
+                <item>Edited to reflect migration of content from CD-ROM to Deep Blue JMBG</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+
+    <frontmatter>
+        <titlepage>
+
+            <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+            <titleproper>Finding aid for<lb/> Earl V. Amos papers, 1918-1919</titleproper>
+
+            <author>Finding aid created by<lb/> Christa Lemelin, 2008</author>
+
+        </titlepage>
+    </frontmatter>
+
+    <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+        <did>
+
+            <origination>
+                <persname source="lcnaf" encodinganalog="100"> Amos, Earl V.</persname>
+            </origination>
+
+            <unittitle encodinganalog="245"> Earl V. Amos papers <unitdate type="inclusive" encodinganalog="245$f"> 1918-1919</unitdate>
+            </unittitle>
+
+            <physdesc><extent> 109 MB [18 digital files]</extent></physdesc>
+
+            <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number"> 05143 Aa 2 </unitid>
+
+            <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language>
+            </langmaterial>
+
+            <abstract> Papers of a soldier in the Allied intervention in Russia, 1918-1920, the "Polar Bear Expedition."</abstract>
+
+
+            <repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+                <extptr href="bhladd" show="embed" actuate="onload"/></repository>
+        </did>
+
+        <descgrp type="admin">
+            <acqinfo encodinganalog="541">
+                <p> The collection was donated by Kristina Eden, of Ann Arbor, Michigan, in 2005 (Donor No. <num type="donor" encodinganalog="541$e">9636</num>).</p>
+            </acqinfo>
+
+            <accruals encodinganalog="584">
+                <p> No further additions to the papers are expected. </p>
+            </accruals>
+
+            <accessrestrict encodinganalog="506">
+                <p> The collection is open to research. </p>
+            </accessrestrict>
+
+            <userestrict encodinganalog="540">
+                <p> The copyright status is unknown.</p>
+            </userestrict>
+
+
+            <prefercite encodinganalog="524">
+                <p>item, folder title, box no., Earl V. Amos papers and photographs, Bentley Historical Library, University of Michigan</p>
+            </prefercite>
+        </descgrp>
+        <bioghist encodinganalog="545">
+            <p>Resident of <geogname normal="Cheshire (Mich. : Township)">Cheshire, Allegan County, Mich.,</geogname> who served with <corpname
+                    normal="United States. Army. Engineer Regiment, 310th. Company B.">Company B, 310th Engineers</corpname> during the U.S. intervention at Archangel, Russia.</p>
+
+        </bioghist>
+
+        <scopecontent encodinganalog="520">
+            <p>This collection contains digital records; the original papers and/or photographs are owned by the donor. The digital items in this collection were digitized from originals by the
+                individual donors before being received by the Bentley Historical Library. Preservation copies of these files with their original file names and CD-ROM file structures intact have been
+                submitted to Deep Blue. Access copies of these digital files can be viewed by clicking on the links next to the individual folders in the Content List below.</p>
+            <p>In this finding aid, the files have been arranged into two series, Papers and Visual Materials. Within each series, files are listed numerically according to the number they were given
+                by the donor. A short description of the digitized object follows the file number. The files in this collection are in TIF format. </p>
+            <p>Digitized papers include the <corpname normal="United States. Army. Engineer Regiment, 310th.">310th Engineers</corpname> Christmas Greetings, Archangel Russia, the <title>Midnight
+                    Sun</title>, a <genreform normal="Diaries.">diary</genreform> of his service, which he called his Army record, two newspaper <genreform normal="Clippings.">clippings</genreform>
+                and an untitled document dated June 30, 1919. Digitized photographs include: Amos by himself in uniform, Amos with three other soldiers, <persname normal="Firchow, Walter H."
+                    >Firchow,</persname>
+                <persname normal="Mull, L. K.">Mull,</persname> and <persname normal="Drews, William A.">Drew,</persname> in winter uniform, an unidentified photograph and a digital photograph of a
+                uniform button. </p>
+        </scopecontent>
+
+        <controlaccess>
+            <p><extptr href="accnote" show="embed" actuate="onload"/>
+            </p>
+            <controlaccess>
+                <head>Subjects:</head>
+
+
+
+                <persname source="lcnaf" encodinganalog="600">Amos, Earl V.</persname>
+                <corpname source="lcnaf" encodinganalog="610">United States. Army. Engineer Regiment, 310th.</corpname>
+                <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920</geogname>
+                <subject encodinganalog="690" source="local">Polar Bear Expedition.</subject>
+            </controlaccess>
+
+
+            <controlaccess>
+                <head>Genre Terms:</head>
+
+                <genreform>Diaries.</genreform>
+            </controlaccess>
+
+        </controlaccess>
+
+
+        <dsc type="combined">
+            <c01 level="series">
+                <did>
+                    <container type="folder" label="Folder">1</container>
+                    <unittitle>Papers</unittitle>
+                    <dao show="new" actuate="onrequest" href="amos0001">
+                        <daodesc>
+                            <p>[view items]</p>
+                        </daodesc>
+                    </dao>
+                </did>
+
+                <c02 level="file">
+                    <did>
+                        <unitid>001-004</unitid>
+                        <unittitle><corpname normal="United States. Army. Engineer Regiment, 310th.">310th Engineers</corpname> Christmas greetings, Archangel, Russia</unittitle>
+                        <physdesc><extent>4 files</extent></physdesc>
+                    </did>
+                </c02>
+
+                <c02 level="file">
+                    <did>
+                        <unitid>005, 049</unitid>
+                        <unittitle><title>Midnight sun</title> (newsletter), <unitdate type="inclusive">June 30, 1919</unitdate></unittitle>
+                        <physdesc><extent>2 files</extent></physdesc>
+                    </did>
+                </c02>
+
+                <c02 level="file">
+                    <did>
+                        <unitid>006-011</unitid>
+                        <unittitle>Army record of Earl V. Amos, 310th Engineers</unittitle>
+                        <physdesc><extent>6 files</extent></physdesc>
+                    </did>
+                </c02>
+
+                <c02 level="file">
+                    <did>
+                        <unitid>012-013</unitid>
+                        <unittitle>Newspaper Clipping, unknown date and source</unittitle>
+                        <physdesc><extent>2 files</extent></physdesc>
+                    </did>
+                </c02>
+
+            </c01>
+
+
+            <c01 level="series">
+                <did>
+                    <container type="folder" label="Folder">2</container>
+                    <unittitle>Visual Materials</unittitle>
+                    <dao show="new" actuate="onrequest" href="amos0002">
+                        <daodesc>
+                            <p>[view items]</p>
+                        </daodesc>
+                    </dao>
+                </did>
+
+                <c02 level="file">
+                    <did>
+                        <unitid>07b</unitid>
+                        <unittitle>Earl V. Amos, unknown date and place</unittitle>
+                        <physdesc><extent>1 file</extent></physdesc>
+                    </did>
+                </c02>
+
+                <c02 level="file">
+                    <did>
+                        <unitid>07c</unitid>
+                        <unittitle><persname normal="Firchow, Walter H.">Firchow,</persname>
+                            <persname normal="Mull, L. K.">Mull,</persname>, <persname normal="Drews, William A.">Drew,</persname> and Amos in uniform</unittitle>
+                        <physdesc><extent>1 file</extent></physdesc>
+                    </did>
+                </c02>
+
+                <c02 level="file">
+                    <did>
+                        <unitid>08b</unitid>
+                        <unittitle>Unidentified Photograph</unittitle>
+                        <physdesc><extent>1 file</extent></physdesc>
+                    </did>
+                </c02>
+
+                <c02 level="file">
+                    <did>
+                        <unitid>050</unitid>
+                        <unittitle>Uniform button</unittitle>
+                        <physdesc><extent>1 file</extent></physdesc>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+
+    </archdesc>
+</ead>

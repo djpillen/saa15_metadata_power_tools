@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::alawraad.xml//EN" encodinganalog="Identifier">
+umich-bhl-2009103</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Raad Alawan video collection, 1960-2005
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-07-08</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Raad Alawan video collection, 1960-2005</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff.</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Alawan, Raad.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Raad Alawan video collection 
+<unitdate type="inclusive" encodinganalog="245$f">
+1960-2005
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+2004-2005
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+19 DVDs
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2009103 Aa 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Charles K. Alawan (donor no. <num type="donor" encodinganalog="541$e">9887</num>) and came to the library in 2009.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the collection are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Raad Alawan video collection, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Raad Alawan is a Dearborn, Michigan writer and television producer. He was the producer of "New beginnings: the story of the Islamic Center of America."</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Raad Alawan collection consists of DVDs of the interview and film footage used in the production of his documentary, "New beginnings: the story of the Islamic Center of America." </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects - Visual Materials:</head>
+
+<persname source="lcnaf" encodinganalog="600">Alawan, Raad.</persname>
+<subject source="lcsh" encodinganalog="650">Islam--United States.</subject>
+<corpname source="lcnaf" encodinganalog="610">Islamic Center of America (Dearborn, Mich.)</corpname>
+<title source="aacr2" encodinganalog="740">New beginnings.</title></controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Qazwini, Hassan, 1964-</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">DVDs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>New Beginnings Documentary: Interviews and film footage </unittitle> <physdesc><physfacet><genreform normal="DVDs">DVDs</genreform></physfacet></physdesc></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Interviews: Hussein Makled, Rev. William Gepford, Sadone 'Sid' Mashike </unittitle></did> <note><p>(DVD #1)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sadone 'Sid' Mashike, Ron Amen, Ali Makled </unittitle></did> <note><p>(DVD #2)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Charles Khalil Alawan </unittitle></did> <note><p>(DVD #3)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Nabiha Makki, Hussein Hamood </unittitle></did> <note><p>(DVD #4)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Nayef Samhat; Paul Bertin, David Donnellon (Designer &amp; Architect of Ford Road Mosque), Alan Abbas </unittitle></did> <note><p>(DVD #5)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mohammad Turfe, Walid Harb, Joy Road Mosque/prayer, Nassib Fawaz </unittitle></did> <note><p>(DVD #6)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Adnan Chirri, Nadia Bazzy, Nouridine Saab </unittitle></did> <note><p>(DVD #7)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Imam Sayed Hassen Al-Qazwini </unittitle></did> <note><p>(DVD #8) </p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Jim Jouney, Various site locations, Hussein Makled </unittitle></did> <note><p>(DVD #9)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Various Locations: Women Baking, Ramadan, Joy Road Mosque, <unitdate type="inclusive">2004</unitdate>; Ford Road Mosque new construction; Warren Ave. .</unittitle></did> <note><p>(DVD #10)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Various: Ford road site: winter day/night, interior, tour/Eide Alawan </unittitle></did> <note><p>(DVD #11)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Joy road site: Baking, Board of Trustees meeting, classrooms, Fellowship Breakfast; interviews/Hassen Restum &amp; Taher Mansour </unittitle></did> <note><p>(DVD #12)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Emad 'Eddie' Beydoun, Nassib Fawaz, Ford Road Mosque Interior </unittitle></did> <note><p>(DVD #14)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Nassib Fawaz; Exterior: Ford Road site/YMA, Littlefield Presbyterian Church, Dearborn </unittitle></did> <note><p>(DVD #15)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ford Road construction; Old Hashmie Hall, Dearborn; Interviews: Allan Abass, Chafic Moussa, Moussa and Shadia Hamka </unittitle></did> <note><p>(DVD #16)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Islamic Center of Toledo; Ford Road construction; Hamka wedding, 4/29/05; Chandeliers, New Mosque Sanctuary, Ford Road </unittitle></did> <note><p>(DVD #17)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Altar Road/Ford Road; Roseland Park Cemetery; United Memorial Gardens, Islamic Section, M-14 &amp; Beck Road </unittitle></did> <note><p>(DVD #18)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Video Lectures of  Imam Mohammad Jawad Chirri and miscellaneous footgae., <unitdate type="inclusive">ca. 1960-ca.1970</unitdate>; </unittitle></did> <note><p>(Includes video Lectures Imam Mohammad Jawad Chirri; fund raising Event; Imam Sayed Hassen Al-Qazwini prayer/U S House of Representatives; President Jimmy Carter; Various 8 mm Films by Eide Alawan: Hassan &amp; Nada traditional Lebanese Wedding, circa 1970; Imam M.J. Chirri &amp; Sheikh Khalil Bazzy officiating, reception &amp; banquet, at Joy Road Mosque (no sound); Groundbreaking/excavation Islamic Center of Detroit (Later America), circa 1960; early construction, steel framing &amp; Basement, Imam M. J. Chirri, Ibrahim 'Abe' Alawan, Fuad Hassen (Joy Road Mosque Architect), and congregation )</p></note><note><p>(DVD #30,dubbed from VHS videotape)</p></note></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

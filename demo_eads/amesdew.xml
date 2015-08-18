@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::amesdew.xml//EN" encodinganalog="Identifier">
+umich-bhl-2010224</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Dewey Ames Papers, 1982-1998
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Owen Ellis </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2011">
+2011</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2011</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2011-01-26</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Dewey Ames Papers, 1992-1998</titleproper>
+
+<author>Finding aid created by<lb/> 
+Owen Ellis, December 2010</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+
+<persname source="lcnaf" encodinganalog="100">
+Ames, Dewey.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Dewey Ames Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1992-1998
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2010224 Aa 2; UAl
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Papers of Dewey Ames, a resident of the Metro Detroit Area who participated and organized athletic events, organizations, including the Gay Games. The collection is divided into two series Personal Records, and Other Materials.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The papers came to the library from Dewey Ames (donor no. <num type="donor" encodinganalog="541$e">10432</num>)in 2010.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Dewey Ames Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Dewey Ames was a Michigan native, residing in the Detroit Metro Area. As an active member of the gay community, Ames joined and organized the Detroit team, and later Team Great Lakes, which both participated in the Gay Games. The games began in 1982 as a cultural event for the purpose of unity and identity within the national and international gay and lesbian community. Ames was also involved in charity and fundraising events supporting a local AIDS organization.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection largely documents Dewey Ames involvement in the Gay Games throughout the 1980's and 1990's. The emphasis of these sporting events was to help the Gay and Lesbian Community establish a global unity and strengthen their identity. The Papers of Dewey Ames are arranged into two series, Personal Records, and Other Materials. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Ames, Dewey.</persname>
+<subject source="lcsh" encodinganalog="650">Gays and sports.</subject>
+<corpname source="lcnaf" encodinganalog="610">Gay Games.</corpname>
+<subject source="lcsh" encodinganalog="650">Track and field--United States.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Posters.</genreform>
+<genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Personal Records</unittitle></did><scopecontent><p>The Personal Records series documents Ames' involvement in the Gay Games, as well as the organizing of Team Great Lakes, in which he participated. Other items are related to his personal life and interest in Gay issues and culture.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Athletic Event Participation</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Charity and Fundraising</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Equal Employment Opportunity Policy</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gay Games I, San Francisco <unitdate type="inclusive">1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gay Games II, San Francisco, <unitdate type="inclusive">1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gay Games III, Vancouver, <unitdate type="inclusive">1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gay Games IV, New York, <unitdate type="inclusive">1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gay Games V, Amsterdam, <unitdate type="inclusive">1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspapers, Clippings, and Magazines</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pride Guides and Festivals</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Social Organizations and Other Events</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Stone Riots 25th Anniversary Events</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Team Great Lakes <unitdate type="inclusive">1992-1998</unitdate> Newsletters </unittitle> <physdesc><extent>8 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Travel and Accommodation</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other Materials</unittitle></did><scopecontent><p>The Other Materials series contains pictures of Team Great Lakes, Gay Games IV, and of the 25th Anniversary of Stonewall March in New York. Negatives are included with each set of the photos in a separate envelope. Ephemera included are pins, identification cards, and similar items from the Gay Games and other events. There is also one short video which includes Ames as an interviewee about the Gay Games and their significance.</p></scopecontent>
+<c02 level="file"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Team Great Lakes, Gay Games IV </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>25th Anniversary of the Stonewall Riots  March, New York, <unitdate type="inclusive">1994</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Ephemera</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Pins, identification cards, banner, and similar items from the Gay Games and other events</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><genreform normal="Videotapes">Videotape</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Promotional video entitled "Spirit of the Games" <unitdate type="inclusive">1993</unitdate> </unittitle> <physdesc><physfacet>1 VHS tape; ca. 5 min</physfacet></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle><genreform normal="Posters">Posters</genreform></unittitle></did>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>Announcements from the Gay Games, <unitdate type="inclusive">1982-1994</unitdate> </unittitle> <physdesc><extent>6 posters</extent></physdesc></did> <note><p>(the poster from 1982 is autographed by the design artist Geoffrey Graham)</p></note></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

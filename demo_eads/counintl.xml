@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::counintl.xml//EN" encodinganalog="identifier">
+umich-bhl-87123</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Council for International Living(University of Michigan) records, 1949-1966
+
+
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Susan Avery, May 1993</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+February 2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Leslie Knoblauch, 
+<date>February 2005</date></creation>
+
+<langusage>The finding aid is written in<language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050224</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Council for International Living <lb/>(University of Michigan), <lb/>Records, 1949-1966
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Susan Avery, May 1993</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Council for International Living. 
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Council for International Living. (University of Michigan) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1949-1966
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+.5 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+87123 Bimu F22 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The records of the Council for International Living, at the University of Michigan, contain adminsitrative files, bylaws, financial records, meeting minutes, house policies, and newsletters.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Professor and Mrs. Wilfred Kincaid in 1975 (Donor #
+<num type="donor" encodinganalog="541$e">5754</num>).
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.</p>
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Council for International Living. (University of Michigan) Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Council for International Living at the University of Michigan was established in 1949 in response to the concerns of a group of students and faculty who sought to ease the difficult living situation many international students experienced at the university.  At that time, there were no international living facilities at the university where intercultural living could be shared.  The Council was to provide international residence houses, operated on a non-profit basis, where students from different nations could live and study together.</p>
+<p>The first residence house established was the J. Raleigh Nelson House for men in 1949-1950.  Named for the founder of the International Center, it housed approximately thirty students.  The house consisted of fifty percent international and fifty percent American students who lived in a semi-cooperative housing situation in which each member contributed to the work of the house.  An interest in expanding the program to include women led to the opening of the Agatha Harrison House in 1955 and the Tappan House in 1956.  Following the closing of the mens' house in 1960, the Tappan House was renamed the J. Raleigh Nelson House for Women.</p>
+<p>The Council was incorporated under the laws of the state of Michigan in 1952.  Administratively, the board of trustees of the Council consisted of nine elected members and the advisors and elected representatives of each residence house.  The board was responsible for the general policies of each house, for the establishment of member houses through appointed founding committees, and for a working capital fund which was loaned to a house on a yearly basis.  Each house sponsored by the Council was approved by the University of Michigan and recognized by the Office of Student Affairs.
+</p></bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The records of the Council for International Living at the University of Michigan encompass the years 1949-1966.  They are divided into four series: Topical, Houses, Photographs, and Printed Works.</p>
+<p>The Topical series (six folders) is arranged alphabetically and includes background materials, bylaws, clippings, financial records, and minutes of board of trustee meetings.  The folders, for the most part, contain only scattered records.  The minutes are the most valuable for charting activities of the Council.  For researching student life in the residence houses, the Houses series (8 folders) includes background information, financial records, house policies, and minutes from house meetings.  It is arranged alphabetically by house name, and like the topical series, its files are quite incomplete.  The Photographs series (one folder) consists of one 8X10 black and white print (undated and unidentified) of a group of international students.  Finally, the Printed Works series (4 folders) includes various annual reports, constitutions, manuals, and newsletters.
+</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Council for International Living.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing.</corpname>
+<subject source="lcsh" encodinganalog="650">Students, Foreign--Michigan--Ann Arbor.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="lcsh" encodinganalog="655">College publications.</genreform></controlaccess></controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Topical Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bylaws, <unitdate type="inclusive">undated 1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings, <unitdate type="inclusive">undated 1956-1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Records, <unitdate type="inclusive">1959-1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Minutes</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1949-1957</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1958-1964</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous (memos, correspondence), <unitdate type="inclusive">1950-1963</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Houses</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Agatha Harrison House, undated, <unitdate type="inclusive">1956-1957</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Nelson House</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Records, <unitdate type="inclusive">1955-1958</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>House Policies, undated, <unitdate type="inclusive">1964-1965</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, undated, <unitdate type="inclusive">1955-1961</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Tappan House</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive">1951</unitdate>, <unitdate type="inclusive">1962</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Records, <unitdate type="inclusive">1956-1957</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1956-1957</unitdate></unittitle></did></c03></c02></c01>
+
+<c01 level="series"><did><unittitle>Photographs</unittitle></did>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Unidentified foreigh students, <unitdate type="inclusive">undated</unitdate></unittitle><physdesc><extent>8X10, black and white print</extent></physdesc></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Printed Works</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Reports, <unitdate type="inclusive">1954-1958</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitutions, undated, <unitdate type="inclusive">1949-1956</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Manuals</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>The Personnel Chairman's Vade Mecum or How To Live With Bureaucracy, <unitdate type="inclusive">1956</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Newsletters</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Nelson House News, <unitdate type="inclusive">1955</unitdate> (includes directory of alumni)</unittitle></did></c03></c02></c01>
+
+</dsc>
+
+</archdesc>
+
+
+</ead>

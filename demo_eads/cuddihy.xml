@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::cuddihy.xml//EN" encodinganalog="Identifier">
+umich-bhl-85118</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Joan F. Cuddihy papers, 1945-1972
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-11-11</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Joan F. Cuddihy papers, 1945-1972</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Cuddihy, Joan F.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Joan F. Cuddihy papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1945-1972
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.3 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85118 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Forest Hills, New York, resident. Personal correspondence from U. S. Supreme Court Justice Frank Murphy; also miscellaneous newspaper clippings and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Joan F. Cuddihy (donor no. <num type="donor" encodinganalog="541$e">5765</num>).</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Joan F. Cuddihy papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Joan F. Cuddihy was engaged to be married to Supreme Court Justice Frank Murphy in 1949.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Cuddihy collection consists of personal correspondence from U. S. Supreme Court Justice Frank Murphy. Also included are miscellaneous newspaper clippings and photographs.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Women--New York (State)--New York</subject>
+<geogname source="lcsh" encodinganalog="651">Forest Hills (New York, N.Y.)</geogname>
+
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lctgm" encodinganalog="650">Churches--Michigan--Harbor Beach.</subject>
+<persname source="lcnaf" encodinganalog="600">Cuddihy, Joan F.</persname>
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Harbor Beach.</subject>
+<subject source="lctgm" encodinganalog="650">Funeral rites and ceremonies.</subject>
+<geogname source="lctgm" encodinganalog="651">Harbor Beach (Mich.)--Churches.</geogname>
+<geogname source="lctgm" encodinganalog="651">Harbor Beach (Mich.)--Dwellings.</geogname>
+<persname source="lcnaf" encodinganalog="600">Murphy, Frank, 1890-1949.</persname>
+<corpname source="lcnaf" encodinganalog="610">Our Lady of Lake Huron Church (Harbor Beach, Mich.)</corpname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Murphy, Frank, 1890-1949.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence and other papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellanea</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Correspondence from Frank Murphy</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1945</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1946</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1947</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1948</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1949</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence from friends and Murphy family, <unitdate type="inclusive">1945-1972</unitdate> </unittitle></did> <note><p>(include letters from Murphy's biographer Sidney Fine)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Copies of Correspondence to Frank Murphy, <unitdate type="inclusive">1933-1949</unitdate> </unittitle></did> <note><p>(include letters from Arthur M. Schlesinger)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Journal articles about Murphy, <unitdate type="inclusive">1959</unitdate>, <unitdate type="inclusive">1966</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings concerning death of Frank Murphy and of his engagement to Joan Cuddihy, <unitdate type="inclusive">1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous newspaper clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Memorabilia from Truman inauguration, <unitdate type="inclusive">1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform> of the Murphy family home in Harbor Beach, Michigan; photos of Frank Murphy's funeral <unitdate type="inclusive">1949</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

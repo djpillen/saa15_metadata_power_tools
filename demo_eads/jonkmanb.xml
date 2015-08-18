@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::jonkmanb.xml//EN" encodinganalog="Identifier">
+umich-bhl-85224</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Bartel J. Jonkman papers, 1908-1952
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-09-11</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Bartel J. Jonkman papers, 1908-1952</titleproper>
+      <author>Finding aid created by<lb /> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">
+Jonkman, Bartel J. (Bartel John), 1884-1955.
+</persname>
+      </origination>
+      <unittitle encodinganalog="245">
+Bartel J. Jonkman papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1908-1952
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+1 linear foot and 2 oversize volumes
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85224 Aa 2; AC
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+U.S. Congressman from Grand Rapids, Michigan. Programs, clippings, photographs, campaign materials and scattered correspondence and speeches concerning his career.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload" />
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was the gift of Mrs. Esther VandenBerge (donor no. <num type="donor" encodinganalog="541$e">5928</num>).  
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is not held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Bartel J. Jonkman papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Bartel J. Jonkman was born in Grand Rapids, Michigan. He graduated from the University of Michigan Law School in 1914 and immediately began the practice of law in his Grand Rapids. He was assistant prosecuting attorney of Kent County, Michigan, 1915-1920, and prosecuting attorney, 1929-1936. In February 1940, Jonkman was elected as a Republican to fill out the term of U.S. Congressman Carl E. Mapes. He was elected in his own right that same year and then re-elected three times, serving until January 1949. He then resumed the practice of law in Grand Rapids. He died June 13, 1955.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Bartel Jonkman papers consists of a miscellanea of correspondence, speeches, clippings, articles, and other materials relating to his Congressional career and to his activities in Grand Rapids.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <geogname source="lcsh" encodinganalog="651">Grand Rapids (Mich.).</geogname>
+        <persname source="lcnaf" encodinganalog="600">Jonkman, Bartel J. (Bartel John), 1884-1955.</persname>
+        <geogname source="lcsh" encodinganalog="651">Kent County (Mich.).</geogname>
+        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1929-1938.</geogname>
+        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1939-1945.</geogname>
+        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1946-1960.</geogname>
+        <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.).</corpname>
+        <corpname source="lcnaf" encodinganalog="610">United States. Congress. House.</corpname>
+        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1933-1953.</geogname>
+        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <persname source="lcnaf" encodinganalog="600">Jonkman, Bartel J. (Bartel John), 1884-1955.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Papers: correspondence, clippings, speeches, etc.</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1908-1952</unitdate></unittitle>
+            <physdesc>
+              <extent>23 folders</extent>
+            </physdesc>
+          </did>
+          <note>
+            <p>(some gaps in the chronology)</p>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Other papers</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Articles written by Jonkman, <unitdate type="inclusive">1940-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Background material for trip to Latin America, <unitdate type="inclusive">1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellaneous notes </unittitle>
+            <physdesc>
+              <extent>3 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <genreform normal="Photographs">Photographs</genreform>: portraits of Jonkman and of a colleague</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">1</container>
+            <unittitle>Scrapbooks, <unitdate type="inclusive">1939-1942</unitdate></unittitle>
+            <physdesc>
+              <extent>2 volumes</extent>
+            </physdesc>
+          </did>
+          <note>
+            <p>(largely concerning Congressional career)</p>
+          </note>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

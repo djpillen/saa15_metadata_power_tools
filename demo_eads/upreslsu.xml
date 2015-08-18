@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::upreslsu.xml//EN" encodinganalog="Identifier">
+umich-bhl-852116</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+United Presbyterian Church in the U.S.A. Presbytery of Lake Superior records, 1853-1961
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-02-25</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+United Presbyterian Church in the U.S.A. <lb/>Presbytery of Lake Superior<lb/> records, 1853-1961</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+United Presbyterian Church in the U.S.A. Presbytery of Lake Superior.
+</corpname>
+
+
+</origination>
+
+<unittitle encodinganalog="245">
+United Presbyterian Church in the U.S.A. Presbytery of Lake Superior records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1853-1961
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+852116 Ba 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Now known as Mackinac Presbytery. Minutes, 1857-1961, roll of presbytery, 1893-1960; treasurer's account book, 1895-1931; histories, 1876 and 1887; correspondence, 1921-1926, concerning Stanton Fund and dissolution of Hessel church; and miscellaneous.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was deposited by the Presbytery (donor no. <num type="donor" encodinganalog="541$e">1151</num>)</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<altformavail><p>A microfilm copy of  te presbytery minute, 1857-1922 is availalbe at the library.</p></altformavail><userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+United Presbyterian Church in the U.S.A. Presbytery of Lake Superior records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Presbytery of Lake Superior, after reorganization, is now the Presbytery of Mackinac.  Its responsibilities are to the United Presbyterian Churches of northern Michigan.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The organizational records include minutes, 1857-1961, roll of presbytery, 1893-1960; treasurer's account book, 1895-1931; histories, 1876 and 1887; correspondence, 1921-1926, concerning Stanton Fund and dissolution of Hessel church; and miscellaneous.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Hessel (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Presbyterian Church (Hessel, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">United Presbyterian Church in the U.S.A.--Michigan.</corpname>
+<corpname source="lcnaf" encodinganalog="610">United Presbyterian Church in the U.S.A. Presbytery of Lake Superior.</corpname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Organizational records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1857-1961</unitdate> </unittitle></did> <note><p>(microfilm copy available of minutes from 1857 to 1922)</p></note>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1857-1861</unitdate> (Old School)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1857-1883</unitdate> (New School) </unittitle></did> <note><p>(volume no. I)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1883-1892</unitdate> </unittitle></did> <note><p>(volume no. II)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1892-1897</unitdate> </unittitle></did> <note><p>(volume no. III)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1898-1912</unitdate> </unittitle></did> <note><p>(volume no. IV)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1913-1922</unitdate> </unittitle></did> <note><p>(volume no. V)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1922-1939</unitdate> </unittitle></did> <note><p>(volume no. VI)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1939-1957</unitdate> </unittitle></did> <note><p>(volume no. VII)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1957-1961</unitdate> </unittitle></did> <note><p>(volume no. VIII)</p></note></c03></c02>
+<c02 level="file"><did><unittitle>Roll of Presbytery; Churches, etc.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1894-1923</unitdate> (?) </unittitle></did> <note><p>(microfilm copy available)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1893-1947</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1939-1960</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Treasurer's Accounts, <unitdate type="inclusive">1895-1931</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Histories, <unitdate type="inclusive">1867</unitdate> and <unitdate type="inclusive">1887</unitdate> and miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence concerning Stanton Fund and the dissolution of the Hessel, Michigan, church, <unitdate type="inclusive">1921-1926</unitdate>.</unittitle></did></c02>
+</c01>
+
+
+</dsc></archdesc>
+
+</ead>

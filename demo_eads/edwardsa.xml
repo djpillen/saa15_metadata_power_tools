@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::edwardsa.xml//EN" encodinganalog="Identifier">
+umich-bhl-851189</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Ann Edwards papers, 1946-1957
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-10-27</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Ann Edwards papers, 1946-1957</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Edwards, Ann, d. 1962.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Ann Edwards papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1946-1957
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851189 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Prohibition party worker in Indiana and Missouri. Correspondence and other political papers relating primarily to her work with the Missouri Prohibition Party and the Greater St. Louis Prohibition Clubs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection came from the Prohibition Party, National Committee (donor no. <num type="donor" encodinganalog="541$e">4545</num>) in 1973  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Ann Edwards papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Ann Edwards was a native of Monroe County, Indiana. She worked as a bookkeeper for some years in a Bloomington clothing store. In 1944, she was a candidate for State Auditor on the Prohibition Party ticket.</p>
+
+<p>Ann Edwards was active in the national activities of the Young Prohibitionists' Association. Interested also in various peace groups, she identified with the party's leftist wing which dominated the YPA. As a result of Stuart Hamblen's stridently anti-communist campaign of 1952, most of the YPA broke with the party to form Democracy Unlimited. Ann Edwards served as Secretary-Treasurer of Democracy Unlimited.</p>
+
+<p>Unlike most of the dissidents, Edwards remained loyal to the Prohibition Party. She apparently had some foreknowledge and approval of Lowell Coate's unsuccessful coup d'état of 1955, hoping to bring the dissidents back into a reconstituted party. By this time, Edwards had moved to St. Louis, Missouri, where she remained active in Prohibition Party activities until her death in late 1962. </p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Ann Edwards collection consists of papers, letters and party records relating her activities with the Missouri Prohibition Party and the Greater St. Louis Prohibition Clubs. Included are correspondence, minutes of meetings, and printed material.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Indiana.</geogname>
+<geogname source="lcsh" encodinganalog="651">Missouri.</geogname>
+<geogname source="local" encodinganalog="691">Missouri--Politics and government.</geogname>
+<subject source="lcsh" encodinganalog="650">Prohibition--Missouri.</subject>
+<corpname source="lcnaf" encodinganalog="610">Prohibition Party (Mo.)</corpname>
+<geogname source="lcsh" encodinganalog="651">Saint Louis (Mo.)</geogname>
+<subject source="lcsh" encodinganalog="650">Women in politics--Missouri.</subject>
+<subject source="lcsh" encodinganalog="650">Women in politics--Indiana.</subject>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Prohibition Party papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1948-1956</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes of the Greater St. Louis Prohibition Clubs, <unitdate type="inclusive">1946-1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes of the Greater St. Louis Prohibition Clubs, <unitdate type="inclusive">1950-1952</unitdate> and <unitdate type="inclusive">1955-1956</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers concerning the Missouri Prohibition Party, <unitdate type="inclusive">1946-1957</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Missouri Prohibition Party miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Missouri Prohibitionist newsletter; miscellaneous printed material</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

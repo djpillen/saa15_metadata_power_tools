@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::mitchstr.xml//EN" encodinganalog="Identifier">
+umich-bhl-921116</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Mitchell-Strong family papers, 1836-1925
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-01-12</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Mitchell-Strong family papers, 1836-1925</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<famname source="lcnaf" encodinganalog="100">
+Mitchell-Strong family
+</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Mitchell-Strong family papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1836-1925
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+921116 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Residents of Calhoun and Lenawee counties, Michigan. Family letters and documents.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Homer D. Strong and family (donor no. <num type="donor" encodinganalog="541$e">7586</num>) and came to the library in various accessions, 1988-1991.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Mitchell-Strong family papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Mitchell and Strong families were long-time residents of Calhoun and Lenawee Counties in Michigan.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>This is a collection of family letters preserved by Betsey Mitchell Strong and donated to the Michigan Historical Collections by her grandson Homer Dennis Strong.  The collection consists of approximately 1400 family letters and documents covering the period of 1836 to 1925 and three volumes of transcriptions of the documents made by Doris Boldt.</p>
+
+<p>The collection is maintained in numbered envelopes in approximate chronological order.  In 1988, the library received a first accession of some 440 letters with a register of these letters compiled by Doris Boldt.  This register included document number, date, recipient, sender, and notes about contents.</p>
+
+<p>In 1990, Mr. Strong donated nearly 1000 additional letters and documents with typed transcriptions of the collection made by Doris Boldt.  In the two year interim since the first accession, however, Boldt had created a new numbering sequence for the collection.  This numbers refer to the pages of the transcription volumes.  Once again, Boldt provided a register to letters.  This register includes both original numbers and revised numbers.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Calhoun County (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Lenawee County (Mich.)</geogname>
+<famname source="lcnaf" encodinganalog="600">Mitchell family.</famname>
+<famname source="lcnaf" encodinganalog="600">Strong family.</famname>
+<geogname source="local" encodinganalog="691">Michigan--Social life and customs--1851-1860.</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Social life and customs--1861-1870</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Social life and customs--1871-1880.</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Social life and customs--1881-1890.</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Social life and customs--1891-1900.</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Social life and customs--1901-1910.</geogname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Social life and customs--19th century.</geogname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Social life and customs--20th century.</geogname>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Family letters and related</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Transcriptions of family letters, <unitdate type="inclusive">1836-1925</unitdate> </unittitle> <physdesc><extent>3 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Register of letters, including date, recipient, sender, brief notation about content</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Family letters </unittitle></did> <note><p>(see register in box 1 to translate original number into revised numbering sequence)</p></note>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Original nos 1-440</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Revised nos. 1-760</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Revised nos. 761-1441</unittitle></did></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

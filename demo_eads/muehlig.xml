@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::muehlig.xml//EN" encodinganalog="identifier">
+umich-bhl-047
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Muehlig Funeral Chapel records, 1846-1867 and 1882-1995
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2004 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>March 2004</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20040525 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Muehlig Funeral Chapel <lb/>Records, 1846-1867 and 1882-1995</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff, 2004</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory"  relatedencoding="marc21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Muehlig Funeral Chapel
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Muehlig Funeral Chapel records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1846-1867 and 1882-1995
+</unitdate>
+
+<unitdate  type="bulk" encodinganalog="245$g">
+1846-1867 and 1882-1916
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+047 Bb 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Firm established in Ann Arbor, Michigan in the mid-nineteenth century as a furniture-undertaking business. Ledgers and daybooks of furniture and undertaking business, 1846-1867; funeral record books, 1882-1916, containing such vital information as name, date of death, age, cause of death, and occupation; register, 1919-1940, of funerals, containing names only. The records from May 1909 through 1916 include occasional information about deceased's parents.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were donated by Muehlig Funeral Chapel (donor no. <num type="donor" encodinganalog="541$e">9400</num>) in December 2003  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Muehlig transferred its copyright to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Muehlig Funeral Chapel records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+
+
+<scopecontent encodinganalog="520"><p>
+The series in this record group include: Funeral Records; Funeral Record Books; Miscellaneous Funeral Records; and Financial Records.
+</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Muehlig Funeral Chapel.</corpname>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">German Americans--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Registers of births, etc.--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Undertakers and undertaking--Michigan--Ann Arbor.</subject>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Funeral Records (early miscellaneous)</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1882-1889</unitdate></unittitle></did><note><p>(includes name, date of death, age and cause of death)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1896-1900</unitdate></unittitle></did><note><p>(includes name, date of death, age and cause of death; also itemization of funeral expenses)</p></note></c02></c01>
+
+<c01 level="series"><did><unittitle>Funeral Record Books</unittitle></did><note><p>(includes vital information, age, cause of death, occupation; records following May 1909 also includes information about parents)</p></note>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January 1898-June 1902</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">June 1902-December 1904</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">December 1904-July 1906</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">July 1906-February 1908</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">February 1908-May 1909</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">May 1909-August 1912</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">August 1912-December 1916</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1919-1940</unitdate></unittitle></did><note><p>(list of names only, arranged by month of burial date)</p></note></c02></c01>
+
+<c01 level="series"><did><unittitle>Miscellaneous funeral records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Inventory book, ca. <unitdate type="inclusive">1920</unitdate></unittitle></did><note><p>(cover of volume reads "Ambulance")</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Inventory book, <unitdate type="inclusive">1952-1995</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Financial Records</unittitle></did><note><p>(furniture and undertaking business; these volumes, written in German, do not include vital information)</p></note>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Ledgers (with index), <unitdate type="inclusive">1846-1867</unitdate> </unittitle><physdesc><extent>3 volumes and 1 folder</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Daybooks, <unitdate type="inclusive">1849-1866</unitdate></unittitle><physdesc><extent>3 volumes</extent></physdesc></did></c02></c01>
+</dsc></archdesc>
+
+</ead>

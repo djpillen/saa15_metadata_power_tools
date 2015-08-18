@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::irelandm.xml//EN" encodinganalog="Identifier">
+umich-bhl-85230</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Mark L. Ireland papers, 1925-1962
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-10-22</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Mark L. Ireland papers, 1925-1962</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Ireland, Mark Lorin.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Mark L. Ireland papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1925-1962
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85230 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Washington, D. C. and Chesaning, Michigan, resident. Correspondence, research files, and photographs, largely relating to the writing of a centennial history of Chesaning, Saginaw County, Michigan.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Mrs. Mary Rogers (donor no. <num type="donor" encodinganalog="541$e">5690</num>) and came to the library in 1980.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Mark L. Ireland papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Mark Lorin Ireland (b. 1880) wrote a history of Chesaning, Michigan.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Mark Ireland collection includes correspondence, genealogical information collected on settlers to Chesaning, and research notes on his history <title render="italic">Place of the Big Rock: Chesaning, Michigan, 1842-1950</title>.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Chesaning (Mich.).</geogname>
+<geogname source="lcsh" encodinganalog="651">Saginaw County (Mich.).</geogname>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence, <unitdate type="inclusive">1925-1962</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Undated, <unitdate type="inclusive">1891</unitdate>, <unitdate type="inclusive">1925-1944</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1945-1951</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1952-1962</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Research for Book</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Early history, 'How They Came...' (Chap. III, V)</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Pioneer Life (Chap. VII)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Notes and materials</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>'The Pioneer Tradition'</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>'As We Were--Family Life in America, <unitdate type="inclusive">1850-1900</unitdate>'</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Sports and entertainment </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Child Life </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Development of Local Self-government (Chap. VIII)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mail Service (Chap. X)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Trails, Roads and Highways (Chap. XI) </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Home story (Chap. XII)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Food (Chap. XII) </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clothing (Chap. XIV) </unittitle> <physdesc><extent>9 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Railroad (Chap. XV)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Agriculture (Chap. XVII)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Medical Service and Public Health (Chap. XVIII) </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspapers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Early Schools (Chap. XX)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Organizations (Chap. XXI)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Riot at Chesaning (Chap. XXII)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Holidays</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>War Years (Chap. XXV)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Churches (Chap. XXVI)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>People and Places (Chap. XXVII) </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Topical and other research material</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Industry and manufacturing</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Banking</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Business</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Land</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Firsts" in Chesaning</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Footnotes and general references </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Personal file</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Book-related materials: notes about working on Chesaning history</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Methodology</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bibliography</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

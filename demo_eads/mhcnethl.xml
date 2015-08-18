@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::mhcnethl.xml//EN" encodinganalog="Identifier">
+umich-bhl-87201</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Immigration Sources Project (Netherlands) records, ca. 1850-1933
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>April 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-04-01</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Immigration Sources Project (Netherlands) records, ca. 1850-1933</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Michigan Historical Collections.
+</corpname>
+
+
+</origination>
+
+<unittitle encodinganalog="245">
+Immigration Sources Project (Netherlands) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1850-1933
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+87201 Bimu C445 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Papers collected in the Netherlands under the auspices of the Immigration Sources Project of the Michigan Historical Collections. Copies of letters and other materials of Dutch immigrants to Michigan written to friends and relatives in the Netherlands.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were accumulated in the name of the project(donor no. <num type="donor" encodinganalog="541$e">5994</num>)</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Immigration Sources Project (Netherlands) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The aim of the Immigration Sources Project of the Michigan Historical Collection was to collect copies of materials written by immigrants to Michigan and sent to family and friends back home in the Netherlands. The assumption was that these letters would provide the most revealing documentation of the immigrant experience.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection of photocopied letters has been arranged alphabetically by the name of the city in Michigan which was home to the immigrant family, and thereafter by family name of. Most of these cities were in western Michigan.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Allegan (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Borculo (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Coopersville (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Drenthe (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Dutch Americans--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">East Saugatuck (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Forest Grove (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Graafschap (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Grand Haven (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Grand Rapids (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Holland (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Hudsonville (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Jamestown (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Kalamazoo (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Muskegon (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Noordeloos (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Vriesland (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Zeeland (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Emigration and immigration.</geogname>
+<geogname source="lcsh" encodinganalog="651">Netherlands--Emigration and immigration.</geogname>
+<subject source="lcsh" encodinganalog="650">Immigrants--Michigan.</subject>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>America Letters</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Introductory essay: "The 'America" Letter" by H.J. Brinks</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Allegan, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Heerspink</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Borculo, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Kieskamp</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Coopersville, Mich</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Henson</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Drenthe, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Lanning</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>East Saugatuck, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Becksvoort</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Plesscher</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Forest Grove (Ottawa County)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Brandt</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Graafschap, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Beuker</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Bouws</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Gruppen</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Tijmes</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Grand Haven, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Bos (also Den Herder)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Buithuis</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Kuiper</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Nienhuis</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Vander Meer</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Wabeke-vanden Boomgaard</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Grand Rapids, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Beuker</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Bolt-Kuyper</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>DeLange-Houck</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Duiker-Ds. de Beij</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Holtman-Kuyper</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Hulst-Kuyper</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Jellema</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Mazereeuw</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Pieneman-Wolterink</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Pieterson</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Vander  May-Kuyper</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Plaiser</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Timmerman-Schipper</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Vander Bosch-Wilms</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Vos-Kuyper</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Wonnink-Peterkamp</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Wormser-Kuyper</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Holland, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>DeJonge-Kuyper</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Dosker-Kuyper</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Fredriks</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Koster-Beukema</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Oggel</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Slootman-Kleinheksel</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>VanDer Haar E423</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Van Raalte-Brummelkamp</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Van Raalte-DeCock</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Van Raalte-Kuyper</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Van Schelven</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Veldman</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Zagers</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Hudsonville, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Walkotten-Hensen</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Jamestown, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Brandt</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Kalamazoo, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Beuker</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Burggraff</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Oggel</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Van Beek-Kuyper</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Muskegon, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Mulder-Kuyper</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Oggel</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Noordeloos, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Talen</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Vriesland, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Koke</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Zwemer-DeCock</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Zeeland, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Brinks</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>De Pree E613</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Dunnink</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Everhard</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Oggel</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Timmer</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Veldink</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Wabeke-Schipper</unittitle></did></c03></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

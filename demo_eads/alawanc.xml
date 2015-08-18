@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::alawanc.xml//EN" encodinganalog="Identifier">
+umich-bhl-07112</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Charles Khalil Alawan papers, 1940-2001
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Leonard A. Coombs </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-10-17</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Charles Khalil Alawan papers, 1940-2001</titleproper>
+
+<author>Finding aid created by<lb/> 
+Leonard A. Coombs, 2007</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Alawan, Charles Khalil
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Charles Khalil Alawan papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1940-2001
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear ft. and 1 outsize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+07112 Aa 2; UAm
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Charles Khalil Alawan is a leader in the Arab American and American Muslim community of Southeastern Michigan, as well as a leader of the Michigan Republican Party. The collection documents the development of the Islamic Center of America, Dearborn, Mich., of which Alawan is a founding member, as well as other community activities.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Charles Khalil Alawan (donor no. <num type="donor" encodinganalog="541$e">9887</num>) in 2007.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Charles Khalil Alawan papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Charles Khalil Alawan was born in Detroit in 1930, the son of Lebanese immigrants. He earned an engineering degree from Wayne University and served in the U.S. Army for six years in the 1950s. He became a successful businessman, working for Altair Industries, a Brighton, Mich., manufacturer, and later for Ansar Communications, a marketing firm. </p>
+
+<p>During the 1950s Alawan was part of a group of young men in the Dearborn area who helped found what became the Islamic Center of America. Under the spiritual leadership of Imam Mohamad Jawad Chirri the Center grew to become one of the largest mosques in North America. Alawan was instrumental in attracting Mohammad Ali Elahi to the Center in 1991 to become imam after Chirri's retirement. Elahi went on to found the Islamic House of Wisdom in Dearborn Heights, Mich., in 1995. </p>
+
+<p>Alawan has been active in the Michigan Republican Party, elected president of the Republican State Nationalities Council in 1967. He has been involved in a wide variety of interfaith activities, working especially to improve communication and understanding between the Muslim and non-Muslim communities in Michigan. </p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The papers of Charles Alawan document his work as a leader in the Arab American community in Southeastern Michigan as well as in the Republican Party of Michigan. The collection is divided into three series: Correspondence, Topical files, and Photographs. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Alawan, Charles Khalil.</persname>
+<subject source="lcsh" encodinganalog="650">Arab Americans--Michigan.</subject>
+<persname source="lcnaf" encodinganalog="600">Elahi, Mohammad ʻAli.</persname>
+<corpname source="lcnaf" encodinganalog="610">Islamic Center of America (Dearborn, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Islamic House of Wisdom (Dearborn Heights, Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Muslims--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.). Republican State Nationalities Council.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<persname source="lcnaf" encodinganalog="600">Alawan, Charles Khalil.</persname>
+<subject source="lcsh" encodinganalog="650">Arab Americans--Egypt.</subject>
+<subject source="lcsh" encodinganalog="650">Arab Americans--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">Egypt.</geogname>
+<persname source="lcnaf" encodinganalog="600">Nasser, Gamal Abdel, 1918-1970.</persname>
+<persname source="lcnaf" encodinganalog="600">Thomas, Danny.</persname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Nasser, Gamal Abdel, 1918-1970.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did><scopecontent><p>The correspondence series chiefly relates to Alawan's political activities, including exchanges of letters with political leaders and Republican Party activists at the state and national levels. Some correspondence concerning the development of the Islamic Center is also included. Of particular interest is a telegram (1959) confirming the transfer of over $40,000 donated by Egyptian president Gamal Abdel Nasser for the building of the Center, as well as a 1961 telegram from Nasser sending his best wishes to the Center.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1961</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1966</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1967</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1967</unitdate> re Middle East war</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1971</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1998</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Topical files</unittitle></did><scopecontent><p>The Topical files series includes files on various of Alawan's activities, noteworthy among them papers relating to the Boy Scout "In the Name of God" award for Muslim scouts (documents developed in part by Alawan), diversity and the portrayal of Arab Americans and Muslims in the Detroit <title render="italic">Free Press</title> and <title render="italic">News</title>, the arrival of Imam Elahi from Iran in 1991, and an early publication of the Progressive Arabian Hashmie Society (predecessor of the Islamic Center) on its 4th anniversary in 1940.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Boy Scouts</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Detroit Free Press and News, <unitdate type="inclusive">1994-1997</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Detroit Historical Museums Arab American Advisory Committee, <unitdate type="inclusive">1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dr. Martin Luther King Award, <unitdate type="inclusive">1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Guido, Michael, campaign literature</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Islamic Center Foundation Society, <unitdate type="inclusive">1966</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Islamic Center of America, <unitdate type="inclusive">1989-1999</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Islamic Center of America--Mohammad Ali Elahi, <unitdate type="inclusive">1991-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Islamic Hospice Services, <unitdate type="inclusive">1998-1999</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Islamic House of Wisdom, <unitdate type="inclusive">1995-1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Military intelligence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic">Muslim-American Perspective</title>, <unitdate type="inclusive">1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Progressive Arabian Hashmie Society, <unitdate type="inclusive">1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Republican State Nationalities Council, <unitdate type="inclusive">1965-1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Zogby American Muslim poll, <unitdate type="inclusive">2001</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did><scopecontent><p>Most of the photos in the Photographs series relate to Alawan's 1961 trip to Egypt and the Middle East with a delegation of Arab American community leaders. The photos document their activities, chiefly in Cairo but also in Alexandria, Gaza, and Damascus, including a meeting with President Nasser. The Photographs series also includes photos of Alawan at Republican Party and other gatherings, and an oversize photo of a large group including the Alawan family and many others (among them entertainer Danny Thomas) at a 1945 Detroit banquet honoring Syrian leader Ali al-Atrash.</p></scopecontent>
+<c02 level="file"><did><unittitle>Trip to Egypt and Middle East, <unitdate type="inclusive">1961</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Al Azhar University</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Banquets</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Damascus and Gaza</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Nasser, Gamal Abdel</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous photos</unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Miscellaneous </unittitle><note><p>(oversize folder UAm)</p></note></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

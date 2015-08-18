@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::walshjhn.xml//EN" encodinganalog="Identifier">
+umich-bhl-86190</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+John Klaerr Walsh papers, 1928-1958
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2009">
+2009</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2009-02-05</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+John Klaerr Walsh papers, 1928-1958</titleproper>
+      <author>Finding aid created by<lb /> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">
+Walsh, John Klaerr, 1887-1964.
+</persname>
+      </origination>
+      <unittitle encodinganalog="245">
+John Klaerr Walsh papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1928-1958
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+1928-1958
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86190 Aa 2; AC
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Kalamazoo, Michigan newspaperman; papers relating to his career in journalism and to his trip to the Far East in 1940.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload" />
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was the gift of Mrs. Eck Stanger (donor no. <num type="donor" encodinganalog="541$e">5387</num>). 
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+John Klaerr Walsh papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>John K. Walsh was a newspaperman for the <title render="italic">Kalamazoo Gazette</title>. In 1940, he was the representative of the Associated Press on a Pan American Clipper flight to the Far East. The purpose of the flight was in part to inaugurate the opening of passenger flights to the Far East and to inform readers about the people, customs, and politics of these countries. The route taken included stops in New Zealand, Australia, Singapore, Saigon, Hong King, Manila, and Honolulu.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Walsh papers includes scattered materials relating to his career as a newspaperman. The bulk of the collection concerns the flight of American newspapermen aboard a clipper plane to the South Pacific prior to World War II. Other materials relate to the history and operation of the <title render="italic">Kalamazoo Gazette</title>. Items of interest include research material concerning Dr. William E. Upjohn and the history of the Upjohn family. There is also correspondence received, 1929-1930, supporting the newspaper's editorial position regarding enforcement of the 18th Amendment. Some of the correspondents in the collection include: Caroline Bartlett Crane, Fred W. Green, Frank Murphy, Chase S. Osborn, Franklin D. Roosevelt, Arthur H. Vandenberg, and Wendell L. Willkie.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="650">Aeronautics.</subject>
+        <subject source="lcsh" encodinganalog="650">Journalists--Michigan--Kalamazoo.</subject>
+        <geogname source="lcsh" encodinganalog="651">Kalamazoo (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="630">Kalamazoo gazette.</subject>
+        <subject source="lcsh" encodinganalog="650">American newspapers--Michigan--Kalamazoo.</subject>
+        <subject source="lcsh" encodinganalog="650">Prohibition--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651">Oceania</geogname>
+        <persname source="lcnaf" encodinganalog="600">Upjohn, William E.</persname>
+        <famname source="lcnaf" encodinganalog="600">Upjohn family.</famname>
+        <subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <subject source="lctgm" encodinganalog="650">Airplanes.</subject>
+        <geogname source="lcsh" encodinganalog="651">Australia.</geogname>
+        <subject source="lctgm" encodinganalog="650">Eating and drinking.</subject>
+        <subject source="lctgm" encodinganalog="650">Graduation ceremonies.</subject>
+        <subject source="lctgm" encodinganalog="650">Interiors.</subject>
+        <subject source="lctgm" encodinganalog="650">Journalism.</subject>
+        <subject source="lctgm" encodinganalog="650">Journalists--Michigan--Kalamazoo.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Kalamazoo College.</corpname>
+        <subject source="lcsh" encodinganalog="630">Kalamazoo gazette.</subject>
+        <geogname source="lcsh" encodinganalog="651">Kalamazoo (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650">Military art and science.</subject>
+        <subject source="lctgm" encodinganalog="650">Newspapers--Michigan--Kalamazoo.</subject>
+        <subject source="lctgm" encodinganalog="650">Passengers.</subject>
+        <subject source="lctgm" encodinganalog="650">Sheep.</subject>
+        <subject source="lctgm" encodinganalog="650">Sleeping.</subject>
+        <subject source="lctgm" encodinganalog="650">Travel.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Crane, Caroline Bartlett, 1858-1935.</persname>
+        <persname source="lcnaf" encodinganalog="700">Green, Fred Warren, 1872-1936.</persname>
+        <persname source="lcnaf" encodinganalog="700">Murphy, Frank, 1890-1949.</persname>
+        <persname source="lcnaf" encodinganalog="700">Osborn, Chase S. (Chase Salmon), b. 1860</persname>
+        <persname source="lcnaf" encodinganalog="700">Roosevelt, Franklin D. (Franklin Delano), 1882-1945.</persname>
+        <persname source="lcnaf" encodinganalog="700">Vandenberg, Arthur H. (Arthur Hendrick), 1884-1951.</persname>
+        <persname source="lcnaf" encodinganalog="700">Willkie, Wendell L. (Wendell Lewis), 1892-1944.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655">Postcards.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Newspaper career</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1928-1952</unitdate></unittitle>
+          </did>
+          <note>
+            <p>(include letters, 1929-1930, responding to editorial urging enforcement of 18th Amendment; other correspondents include: Fred W. Green, Caroline Bartlett Crane, Chase S. Osborn, Wendell Willkie)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Letters of congratulations, <unitdate type="inclusive">1936-1937</unitdate></unittitle>
+          </did>
+          <note>
+            <p>(written on occasion of the centennial celebration of the <title render="italic"> Kalamazoo Gazette</title>. Correspondents include President Franklin D. Roosevelt, Chase S. Osborn, Arthur H. Vandenberg, Frank Murphy)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Research material relating to history of Upjohn family of Kalamazoo</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Papers, <unitdate type="inclusive">1947-l959</unitdate> and <unitdate type="inclusive">undated</unitdate>, largely concerning the history of the <title render="italic"> Kalamazoo Gazette</title></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence and newspaper clippings, <unitdate type="inclusive">1957-1958</unitdate>, concerning exhibit sponsored by U.S. Information Agency, staged in Europe on Kalamazoo, Michigan</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Papers, <unitdate type="inclusive">1943</unitdate>, concerning honorary degree received from Kalamazoo College</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <genreform normal="Photographs">Photograph</genreform>, <unitdate type="inclusive">1920s</unitdate> of the <title render="italic"> Kalamazoo Gazette</title> copy room</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>South Pacific tour</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">August-November 1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Reports, newspaper clippings and observations</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Maps, routes, and timetables</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Brochures and miscellanea from South Pacific tour</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <genreform normal="Photographs">Photographs</genreform>, <unitdate type="inclusive">1940</unitdate> of South Pacific tour</unittitle>
+          </did>
+          <note>
+            <p>(includes members of the tour, military subjects and planes)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <genreform normal="Photographs">Photographs</genreform>, <unitdate type="inclusive">1940</unitdate> of South Pacific tour </unittitle>
+            <physdesc>
+              <extent>2 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">1</container>
+            <unittitle>Scrapbook, <unitdate type="inclusive">1940</unitdate>, of South Pacific Tour</unittitle>
+          </did>
+          <note>
+            <p>(including clippings containing accounts of visits to New Zealand, Australia, the Netherlands East Indies, Hong Kong, and Manila, and other Pacific military positions.)</p>
+          </note>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

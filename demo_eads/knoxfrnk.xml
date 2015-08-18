@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::knoxfrnk.xml//EN" encodinganalog="Identifier">
+umich-bhl-851630
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Frank Knox Papers, 1907-1910 and 1934-1938
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date">
+2006 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>April 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20060426 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Frank Knox Papers, 1907-1910 and 1934-1938</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Knox, Frank, 1874-1944.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Frank Knox papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1907-1910 and 1934-1938
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+6 linear ft. and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+851630 Aa 2; Da Oversized
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Newspaper publisher, manager of Chase S. Osborn’s campaign for governor in 1910, vice presidential candidate in 1936. Correspondence, 1907-1910 and Addresses, 1934-1938.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection came from two principal sources.  In 1938, Col. Knox (donor no. <num type="donor" encodinganalog="541$e">467</num>) donated copies of his addresses.  The correspondence was taken from the papers of Chase S. Osborn (donor no. <num type="donor" encodinganalog="541$e">238</num>). Other materials came from Mr. And Mrs. Donald Adams (donor no. <num type="donor" encodinganalog="541$e">857</num>)</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Frank Knox Papers
+, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Frank Knox was born in Boston on January 1, 1874.  While still a boy, his family moved to Grand Rapids, Michigan.  He attended Alma College, but interrupted his studies to enlisted in the Spanish-American War.  Discharged when he contracted malaria, Knox accepted a position with the <title render="italic">Grand Rapids Herald</title>.  In 1902, he and a printer of his acquaintance purchased the <title render="italic">Evening Journal</title> in Sault Ste. Marie, Michigan.  A year later, they changed the name of the paper to the <title render="italic">Evening News</title>.</p>
+
+<p>Knox was a progressive Republican who aligned himself with fellow Sault journalist Chase S. Osborn whom he had met in 1901.  When Osborn ran for governor in 1910, Knox was his campaign manager, and following his nomination, he became chairman of the Republican State Central Committee.  In 1912, Knox left the state to take over the <title render="italic"> Manchester Leader</title> in New Hampshire.</p>
+
+<p>Knox's subsequent career included ownership of the <title render="italic">Chicago Daily News</title>, vice presidential candidacy with Alfred Landon in 1936, and Secretary of the Navy (1940-1944).</p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Frank Knox papers consist of two series: Correspondence and Addresses.  The Correspondence series dates from 1907 to November 1910 and was donated by Chase S. Osborn.  These are the papers from Osborn's campaign for governor, 1909-1910, and detail the close relationship between Osborn and Knox.  The second series of Addresses was donated by Col. Knox in 1938, then at the Chicago Daily News, and concern his interest in public affairs, the New Deal, and his own campaign as vice presidential candidate in 1936.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Elections--Michigan--1910.</subject>
+<persname source="lcnaf" encodinganalog="600">Landon, Alfred M. (Alfred Mossman), 1887-1987.</persname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1899-1916.</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1929-1938.</geogname>
+<persname source="lcnaf" encodinganalog="600">Osborn, Chase S. (Chase Salmon), b. 1860</persname>
+<subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1936.</subject>
+<corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
+<geogname source="lcsh" encodinganalog="651">United States--Politics and government--1933-1945.</geogname>
+<subject source="lcsh" encodinganalog="650">Governors--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1907-January 1910</unitdate> </unittitle> <physdesc><extent>75 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">February-March 1910</unitdate> </unittitle> <physdesc><extent>51 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">April 1910-June 1910</unitdate> </unittitle> <physdesc><extent>86 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">July 1910</unitdate> </unittitle> <physdesc><extent>46 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">August 1910</unitdate> </unittitle> <physdesc><extent>64 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">September 1910-November 1910</unitdate> </unittitle> <physdesc><extent>48 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Addresses</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">March 1934</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">June-September 1935</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">October-December 1935</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">January 1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">August 1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">September 1-15, 1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">September 16-30, 1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">October 1-15, 1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">October 16-31, 1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">January-June 1938</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">Da</container><unittitle>Miscellaneous campaign addresses </unittitle></did> <note><p>(sheets from newspapers)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

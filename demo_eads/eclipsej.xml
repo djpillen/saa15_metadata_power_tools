@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::eclipsej.xml//EN" encodinganalog="Identifier">
+umich-bhl-87334</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Eclipse Jazz (University of Michigan) records, 1975-1987
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-02-26</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Eclipse Jazz <lb/>(University of Michigan) <lb/>records, 1975-1987</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Eclipse Jazz (University of Michigan).
+</corpname>
+
+
+</origination>
+
+<unittitle encodinganalog="245">
+Eclipse Jazz (University of Michigan) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1975-1987
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+87334 Bimu F71 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+University of Michigan student organization founded to promote interest in jazz through concert and lecture series. Audio-tapes of lectures, photographs, posters, announcements of concerts, newsletters, grant files, and scattered correspondence.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was received from the organization (donor no. <num type="donor" encodinganalog="541$e">7444</num>)  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+The organization transferred its copyright to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Eclipse Jazz (University of Michigan) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Eclipse Jazz was a University of Michigan student organization founded to promote interest in jazz through a series of concerts and lectures.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Eclipse Jazz records include photographs, sound records of the various lectures and concerts, posters and flyer notices of concerts, and miscellaneous administrative materials, such as grant applications, correspondence, and newsletters of their activities.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Eclipse Jazz (University of Michigan)</corpname>
+<subject source="lcsh" encodinganalog="650">Jazz--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Music--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Musicians--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Societies, etc.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Eclipse Jazz (University of Michigan)</corpname>
+<subject source="lctgm" encodinganalog="650">Jazz music.</subject>
+<corpname source="lcnaf" encodinganalog="610">Ann Arbor Art Fairs (Ann Arbor, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan Union.</corpname>
+<subject source="lctgm" encodinganalog="650">Musicians.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Societies, etc.</corpname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Sound Recordings:</head>
+<corpname source="lcnaf" encodinganalog="610">Eclipse Jazz (University of Michigan)</corpname>
+<subject source="lcsh" encodinganalog="650">Jazz--Michigan.</subject>
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="gmgpc" encodinganalog="655">Posters.</genreform>
+<genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Performers, A-W </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Performers, unidentified</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Eclipse staff and office</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Summer concerts</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Art Fair</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Sound recordings">Sound recordings</genreform> of lecture series </unittitle> <physdesc><physfacet>10 in. reel-to-reel; 7 1/2 ips</physfacet></physdesc></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>James Dapogny, <unitdate type="inclusive">October 11, 1983</unitdate> </unittitle> <physdesc><extent>2 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Richard Crawford, <unitdate type="inclusive">November 1, 1983</unitdate> </unittitle> <physdesc><extent>2 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hazen Schumacher, <unitdate type="inclusive">September 20, 1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hazen Schumacher, <unitdate type="inclusive">October 4, 1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Morris Lawrence Jr., <unitdate type="inclusive">September 27, 1983</unitdate> </unittitle> <physdesc><extent>3 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Richard Watson, <unitdate type="inclusive">October 25, 1983</unitdate> </unittitle> <physdesc><extent>2 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Theodore Grenier, <unitdate type="inclusive">October 18, 1983</unitdate> </unittitle> <physdesc><extent>2 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Louis Smith, <unitdate type="inclusive">January 31, 1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Ed Nelson, <unitdate type="inclusive">January 24, 1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>J.C. Heard, <unitdate type="inclusive">November 22, 1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Kim Heron, <unitdate type="inclusive">February 7, 1984</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Grant applications</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Grant file (NEA)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Art Fair</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Correspondence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Term paper and clipping re: Eclipse Jazz</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Newsletters</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Programs</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><genreform normal="Posters">Posters</genreform> and flyer notices for concerts</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

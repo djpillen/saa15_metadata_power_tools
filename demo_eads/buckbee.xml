@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::buckbee.xml//EN" encodinganalog="Identifier">
+umich-bhl-0056</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Buckbee Family Papers, 1841-1999
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Library staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Laura Schmidt, 
+<date>2004</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-07-19</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Buckbee Family Papers, 1841-1999</titleproper>
+
+<author>Finding aid created by<lb/> 
+Laura Schmidt, 2004</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<famname source="lcnaf" encodinganalog="100">
+Buckbee Family
+</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Buckbee Family Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1841-1999
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1862-1866, 1898
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.7 linear feet and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0056 Aa 2 Ac
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Civil War and Spanish-American War letters, family photographs, and other materials relating to the Buckbee and Church families from Illinois and Michigan.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Gift of John W. Buckbee (Donor No. <num type="donor" encodinganalog="541$e">8946</num>) The collection was received in March 2000 and the original letters were added in June of 2004. Additions were received in 2005 and 2006.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright of the materials has been transferred by John W. Buckbee to the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Buckbee Family Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Walter Adsit Buckbee and his wife Amanda left Vermont and settled in Ypsilanti, Michigan where they raised four children. Walter later served as a member of the Michigan Legislature beginning in 1838. Their son, Julian Edward (who preferred to be called "Edward J. Buckbee"), served in the Civil War joining the 1st Regiment Michigan Sharp Shooters on January 1, 1863 when he was eighteen years old. He began as First Lieutenant and Adjutant, rose in rank to Major, and later was promoted to Lieutenant Colonel for his actions during the capture of Petersburg, Virginia on April 2, 1865. Before the capture of Petersburg Julian was taken as a prisoner of war and held in captivity from June 1864 until early 1865 when he successfully escaped after several failed attempts.</p>
+
+<p>After the war Julian married Mary Marble "Mollie" Church on November 18, 1868, later settling in Winnetka, Illinois where they opened the Winnetka Inn. Julian also joined the Land Department of the Northwest Railroad in the 1870s. Two of Julian's six children, Julian Edward Jr. and Henry Cheever, joined the military during the Spanish-American War in 1898. Although they both began in Company K of the 1st Illinois Infantry, "Cheever" Buckbee eventually was separated from his brother as he was sent to Cuba and Julian to Puerto Rico. Both of the Buckbee brothers survived the war and were able to come back and begin families of their own, Julian marrying in 1900 and Cheever marrying in 1905. Cheever later became a successful businessman and ran for the Michigan Legislature on the progressive ticket, but ended up losing the race. Later letters in the collection show that Cheever D. Buckbee, son of Henry Cheever, also served in the military in 1942.</p>
+
+<p>The father of Mary Marble Church was William L. Church, who during the Civil War, was appointed by the governor of Illinois to investigate the condition and needs of the men of Illinois regiments.  As part of his duties, Church visited and wrote home from such battlefront areas as Vicksburg and Pittsburg Landing. He also wrote letters from Pilot Knob, Missouri and Washington DC.  Church was one of two men representing Illinois on the Gettysburg platform during President Lincoln's address</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Buckbee Family Papers includes a variety of material but is most significant for its documentation of the Civil War service of Julian E. Buckbee and for the many letters exchanged with his sons Henry Cheever and Julian Edward, Jr., who served in the military during the Spanish-American War.  These later letters provide a unique look into daily life during the war and at home in Illinois at the turn of the century. The letters contain both original and photocopied letters, along with transcriptions, to and from Julian Edward Jr. and Henry Cheever Buckbee during their service from April to September 1898. The photocopies all have matching original letters except for letter dated August 21, 1898, and those that were small notes probably sent with packages.</p>
+
+<p>Other files in the collection include newspaper articles, genealogical information, and other various materials related to the Buckbee family from 1859 to 1999; photographs (duplicates and originals) of family members, scenes from the Spanish-American War, and of the family-owned Winnetka Inn located in Winnetka, Illinois; various letters to and from Julian Edward Buckbee Sr., military documents, and other materials relating to E.J. Buckbee's service in the Civil War; and later family papers which include reminiscences of Julian Buckbee Sr., and letters from Cheever D. Buckbee during his military service in 1942.  There are also letters of William L. Church written during the Civil War and relating to his visits to various Illinois regiments.  Of special note is a letter he received from Colonel William Gamble describing the operation of Illinois troops at the Battle of Gettysburg.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<famname source="lcnaf" encodinganalog="600">Bugbee family.</famname>
+<subject source="lcsh" encodinganalog="650">Spanish American War, 1898.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Illinois Infantry Regiment, 1st (1898). Company K.</corpname>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Sharpshooters Regiment, 1st (1863-1865).</corpname>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865--Prisoners and prisons, Confederate.</geogname>
+<subject source="lcsh" encodinganalog="650">Petersburg (Va.)--History--Siege, 1864-1865.</subject>
+<geogname source="lcsh" encodinganalog="651">Vicksburg (Miss.)--History--Siege, 1863.</geogname>
+<geogname source="lcsh" encodinganalog="651">Winnetka (Ill.)</geogname>
+<persname source="lcnaf" encodinganalog="600">Buckbee, Julian Edward.</persname>
+<persname source="lcnaf" encodinganalog="600">Buckbee, Henry Cheever.</persname>
+<persname source="lcnaf" encodinganalog="600">Church, William L.</persname>
+<subject source="lcsh" encodinganalog="650">Gettysburg, Battle of, Gettysburg, Pa., 1863.</subject>
+
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<famname source="lcnaf" encodinganalog="600">Bugbee family.</famname>
+<subject source="lcsh" encodinganalog="650">Spanish-American War, 1898.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Sharpshooters Regiment, 1st (1863-1865)</corpname>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+<geogname source="lcsh" encodinganalog="651">Winnetka (Ill.)</geogname>
+
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Church, William L.</persname>
+<persname source="lcnaf" encodinganalog="700">Buckbee, Julian Edward.</persname>
+<persname source="lcnaf" encodinganalog="700">Buckbee, Henry Cheever.</persname>
+<persname source="lcnaf" encodinganalog="700">Gamble, William.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Tintypes.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Buckbee Family papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letter of Walter A. Buckbee to his daughter at school in Chicago, <unitdate type="inclusive">1849</unitdate> </unittitle></did> <note><p>(original and transcription; also issue of <title render="italic">Chicago Daily Tribune</title>, April 23, 1849)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings and Family Information, <unitdate type="inclusive">1859-1999</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform> and ephemera</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Civil War Letters and Related Materials (primarily of Julian E. / Edward J. Buckbee), <unitdate type="inclusive">1862-1926</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Memoirs, "The Story I Tell My Children, being a true story of Capture, Prison Pen, and Escape," <unitdate type="inclusive">ca. 1886</unitdate></unittitle></did></c02>
+    <c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>Commission from the State of Michigan giving Edward J. Buckbee the rank of Major in the 1st Regiment Michigan Sharp Shooters, <unitdate type="inclusive">April 11, 1865</unitdate> </unittitle></did> <note><p>(Includes piece of the regimental battle flag and a <genreform normal="Tintypes">tintype</genreform> of E.J.B. shortly after the capture of Petersburg, Virginia)</p></note></c02>
+    <c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>Newspaper, <title render="italic">The Union Picket Guard</title> (Paducah, Kentucky), Vol.1, no. 2, <unitdate type="inclusive">September 18, 1861</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Spanish-American War Letters, <unitdate type="inclusive">April-September 1898</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Originals </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Photocopies and transcriptions </unittitle> <physdesc><extent>4 folders</extent></physdesc></did> <note><p>(The photocopies all have matching original letters except for letter dated August 21, 1898 and those that were small notes probably sent with packages.)</p></note></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Later family letters, etc., <unitdate type="inclusive">1911-1942</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Henry Cheever Buckbee papers </unittitle></did> <note><p>(include <genreform normal="Photographs">photos</genreform> from Spanish-American War service)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02><c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">The Cuban Campaign of the First Infantry Illinois Volunteers April 25-September 9, 1898</title></unittitle></did><note><p>(One photograph in the book is of Cheever Buckbee)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Church family papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters of William L. Church to his brother Selden, <unitdate type="inclusive">1841-1843</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Letters to and from William L. Church from the period of his Civil War service</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Originals, <unitdate type="inclusive">1862-1864</unitdate> </unittitle></did> <note><p>(include letters describing siege of Vicksburg and battle of Gettysburg)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Photocopies, <unitdate type="inclusive">1862-1864</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>William L. Church miscellaneous </unittitle></did> <note><p>(include family information, obituary, appointment notices, etc.)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

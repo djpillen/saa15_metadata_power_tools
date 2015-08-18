@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::honeyedw.xml//EN" encodinganalog="Identifier">
+umich-bhl-92272</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Edward M. Honey photographs, 1903-1929
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-01-08</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Edward M. Honey photographs, 1903-1929</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Honey, Edward M.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Edward M. Honey photographs 
+<unitdate type="inclusive" encodinganalog="245$f">
+1903-1929
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+92272 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Detroit, Michigan, resident; Detroit area construction photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Kay Schwartz (donor no. <num type="donor" encodinganalog="541$e">5859</num>).  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the collection are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Edward M. Honey photographs, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Edward M. Honey was resident of Detroit, Michigan.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of construction photographs of buildings in Detroit, Michigan in the period of 1903 to 1929. The collection also includes two albums, in one of which there are photographs of Hill Auditorium in Ann Arbor in 1912.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lctgm" encodinganalog="650">Buildings--Michigan--Detroit.</subject>
+<subject source="lctgm" encodinganalog="650">Construction industry.</subject>
+<geogname source="lcsh" encodinganalog="651">Detroit (Mich.)</geogname>
+<geogname source="lctgm" encodinganalog="651">Detroit (Mich.)--Buildings.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Hill Auditorium (University of Michigan)</corpname>
+<subject source="lctgm" encodinganalog="650">Laborers.</subject>
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="gmgpc" encodinganalog="655">Cyanotypes.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Barlum Tower, Detroit, <unitdate type="inclusive">1927</unitdate> </unittitle></did> <note><p>(folder no. 1)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bell Telephone Building, Detroit, <unitdate type="inclusive">1927</unitdate> </unittitle></did> <note><p>(folder no. 2)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fort Shelby Hotel, Detroit, <unitdate type="inclusive">1927</unitdate> </unittitle></did> <note><p>(folder no. 3)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hunter Building, Detroit, <unitdate type="inclusive">1911</unitdate> </unittitle></did> <note><p>(folder no. 4)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan State Fair, <unitdate type="inclusive">1929</unitdate> </unittitle></did> <note><p>(folder no. 5)</p></note></c02>
+<c02 level="file"><did><unittitle>Miscellaneous, Detroit </unittitle></did> <note><p>(folder no. 6)</p></note>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Palms Building, <unitdate type="inclusive">1908</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>1200 Washington Boulevard</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Vocational High School</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Masonic Temple</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Unidentified, <unitdate type="inclusive">1911</unitdate> </unittitle></did> <note><p>(folder no. 7)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Unidentified, <unitdate type="inclusive">1914-1920</unitdate> </unittitle></did> <note><p>(folder no. 8)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Unidentified, <unitdate type="inclusive">1922</unitdate> </unittitle></did> <note><p>(folder no. 9)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Unidentified, <unitdate type="inclusive">undated</unitdate> </unittitle></did> <note><p>(folder no. 10)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Albums</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Album, <unitdate type="inclusive">1911</unitdate>; include Hunter Building, Detroit and unidentified building next to Detroiter Abend Post Building</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Album, <unitdate type="inclusive">1903-1912</unitdate></unittitle></did><note><p>(include Hill Auditorium, Ann Arbor, 1912, Palms Building, 1908, unidentified building, 1903, next to State Savings Bank, Detroit; Wayne Pavilion, 1908, and Y.M.C.A., Detroit, 1908)</p></note></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

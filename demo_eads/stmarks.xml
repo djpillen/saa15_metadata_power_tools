@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::stmarks.xml//EN" encodinganalog="identifier">
+umich-bhl-0248</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+St. Mark's Episcopal Church (Detroit, Mich. : 1927-) Records, 1927-1994
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Thomas E. Powers </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>May 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-05-05</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+St. Mark's Episcopal Church (Detroit, Mich. : 1927-) Records, 1927-1994
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Thomas E. Powers, 2003</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+St. Mark's Episcopal Church (Detroit, Mich. : 1927-)
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+St. Mark's Episcopal Church (Detroit, Mich. : 1927-) Records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1927-1994
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+4 linear ft. and 1 oversize volume
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0248 Ba 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Episcopal church located in the Seven Mile-Gratiot area of Detroit. Registers of baptisms, confirmations, marriages, burials, etc.; registers of church services; vestry minute books; records of church organizations; historical information; subject files; and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records of the church were donated by the Episcopal Church, Diocese of Michigan (donor no. <num type="donor" encodinganalog="541$e">1059</num>) in 2002.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+St. Mark's Episcopal Church (Detroit, Mich. : 1927-) Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Episcopal church located in the Seven Mile-Gratiot area of Detroit founded in 1927.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>Registers of baptisms, confirmations, marriages, burials, etc.; registers of church services; vestry minute books; records of church organizations; historical information; subject files; and photographs.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">St. Mark's Episcopal Church (Detroit, Mich. : 1927-)</corpname>
+<subject source="lcsh" encodinganalog="650">Registers of births, etc.--Michigan--Detroit.</subject>
+<geogname source="lcsh" encodinganalog="651">Detroit (Mich.)--Church history.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Episcopal Church--Michigan--Detroit.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>History and Background</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Historical sketches</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Anniversary program and other informational publications</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership directories and various other lists </unittitle> <physdesc><extent>1 folder and 21 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Program: Dedication of St. Mark's Church, <unitdate type="inclusive">June 14, 1953</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>First meeting and charter members, <unitdate type="inclusive">November 4, 1927</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Request and dialog concerning admission of St. Mark's to parish status, <unitdate type="inclusive">1943</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Vestry Minutes <unitdate type="inclusive">1927-1952</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1927-1928</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1936-1941</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1941-1943</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle> Volume I, <unitdate type="inclusive">1943-1953</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle> Volume II, <unitdate type="inclusive">1953-1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle> Volume III, <unitdate type="inclusive">1960-1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle> Volume IV, <unitdate type="inclusive">1966-1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle> Volume V, <unitdate type="inclusive">1985-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Communications to the Vestry, <unitdate type="inclusive">1943-1952</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Church Organizations</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Minute book, League of Women of St. Mark's Episcopal Church, <unitdate type="inclusive">1927-1930</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Minutes of St. Mark's Episcopal Churchwomen, <unitdate type="inclusive">1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Record book, Men of St. Marks, <unitdate type="inclusive">1959-1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Mary Herron Guild miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Church School Teacher's record book, <unitdate type="inclusive">1936-1946</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Parish organization reports, <unitdate type="inclusive">1951</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Registers of Baptisms, marriages, confirmations; burials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Combined record book: Baptisms, <unitdate type="inclusive">1928-1949</unitdate> Confirmations, <unitdate type="inclusive">1928-1945</unitdate> Burials, <unitdate type="inclusive">1928-1955</unitdate> Marriages, <unitdate type="inclusive">1928-1954</unitdate> </unittitle></did> <note><p>(oversize volume)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Confirmations, <unitdate type="inclusive">1946-1993</unitdate></unittitle></did></c02>
+
+
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Marriages, <unitdate type="inclusive">1955-1993</unitdate></unittitle></did>
+
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Marriages, <unitdate type="inclusive">1955-1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Marriages, <unitdate type="inclusive">1974-1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Marriages, <unitdate type="inclusive">1987-1993</unitdate></unittitle></did></c03></c02>
+
+
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Communicants, <unitdate type="inclusive">1946-1997</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Communicants, <unitdate type="inclusive">1946-1963</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Communicants, <unitdate type="inclusive">1964-1997</unitdate></unittitle></did></c03></c02>
+
+
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Baptisms, <unitdate type="inclusive">1949-1997</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Baptisms, <unitdate type="inclusive">1949-1977</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Baptisms, <unitdate type="inclusive">1977-1997</unitdate></unittitle></did></c03></c02>
+
+
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Burials, <unitdate type="inclusive">1955-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Burial miscellaneous</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Register of Church Services, <unitdate type="inclusive">1927-2001</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">1927-1944</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">1945-1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">1955-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">1962-1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">1965-1972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">1972-1978</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">1979-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">1987-2001</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Miscellaneous annual reports, <unitdate type="inclusive">1955-1960</unitdate></unittitle></did></c02>
+
+
+<c02 level="file"><did><unittitle>Financial Reports, <unitdate type="inclusive">1940-1965</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Financial Reports, <unitdate type="inclusive">1960-1965</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Financial Reports, <unitdate type="inclusive">1940-1952</unitdate></unittitle></did></c03></c02>
+
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Minutes of St. Marks Bldg. Committee, <unitdate type="inclusive">1945-1953</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Church school meetings, <unitdate type="inclusive">1947-1961</unitdate> (scattered)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::stewartd.xml//EN" encodinganalog="Identifier">
+umich-bhl-9590</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Donald C. Stewart collection of research materials on Fred Newton Scott, 1980s-1990s
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-02-20</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Donald C. Stewart collection of research materials<lb/> on Fred Newton Scott, 1980s-1990s</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Stewart, Donald C.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Donald C. Stewart collection of research materials on Fred Newton Scott 
+<unitdate type="inclusive" encodinganalog="245$f">
+1980s-1990s
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+5.2 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9590 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was received from Patricia L. Stewart donor no. <num type="donor" encodinganalog="541$e">8649</num> in 2000.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Stewart’s copyright, excepting for his published biography of Scott, has been transferred to the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Donald C. Stewart collection of research materials on Fred Newton Scott, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Donald C. Stewart was professor of English at Kansas State University.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Donald C. Stewart collection consists of manuscripts of early drafts of his biography of Fred Newton Scott and collected Newton materials, including correspondence and articles by and about Scott. There are also cassette tape recordings of interviews with individuals who had recollections of Scott.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Stewart, Donald C.</persname>
+<persname source="lcnaf" encodinganalog="600">Scott, Fred Newton, 1860-1931.</persname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Sound Recordings:</head>
+<persname source="lcnaf" encodinganalog="600">Stewart, Donald C.</persname>
+<persname source="lcnaf" encodinganalog="600">Scott, Fred Newton, 1860-1931.</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Rhetoric.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--History.</corpname>
+</controlaccess>
+
+<controlaccess><head>Contributors: Sound Recordings</head>
+
+<persname source="lcnaf" encodinganalog="700">Bader, Arno Lehman.</persname>
+<persname source="lcnaf" encodinganalog="700">Goodrich, Marion Scott.</persname>
+<persname source="lcnaf" encodinganalog="700">Stevens, Albert Kunnen, 1901-1984.</persname>
+<persname source="lcnaf" encodinganalog="700">Slusser, Jean Paul, 1886-</persname>
+<persname source="lcnaf" encodinganalog="700">Wells, Carlton F. (Carlton Frank), 1898-</persname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Stewart, Patricia L.</persname></controlaccess>
+<controlaccess><head>Genre Terms:</head>
+
+<genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Life and legacy of Fred Newton Scott</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Manuscript of first draft of published volume </unittitle> <physdesc><extent>4 expandable folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Drafts, outlines and notes of published volume</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous project materials</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Research files </unittitle></did> <note><p>(copies of FNS correspondence, published materials, etc.)</p></note>
+<c02 level="file"><did><container type="box" label="Box">3</container><unitid>Vol. I, </unitid> <unittitle>Research materials</unittitle></did> <note><p>(List of materials requested from Bentley Library; record of correspondence with friends, relatives and others who knew FNS; questions to be asked of participants in oral interviews; transcripts of oral interviews)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unitid>Vol. II, </unitid><unittitle>FNS life and career, <unitdate type="inclusive">1860-1890</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unitid>Vol. III, </unitid><unittitle>FNS life and career, <unitdate type="inclusive">1891-1900</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unitid>Vol. IV, </unitid><unittitle>FNS life and career, <unitdate type="inclusive">1900-1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unitid>Vol. V,  part 1, </unitid><unittitle>FNS life and career, <unitdate type="inclusive">1905-1910</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unitid>Vol. VI,  part 2,  </unitid><unittitle>FNS life and career, <unitdate type="inclusive">1905-1910</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unitid>Vol. VII, part A, </unitid><unittitle>FNS life and career, <unitdate type="inclusive">1911-1915</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unitid>Vol. VII, part B</unitid><unittitle>FNS life and career, <unitdate type="inclusive">1911-1915</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unitid>Vol. VIII, </unitid><unittitle>FNS life and career, <unitdate type="inclusive">1915-1920</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unitid>Vol. IX, </unitid><unittitle>FNS life and career, <unitdate type="inclusive">1921-1925</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unitid>Vol. X, </unitid><unittitle>FNS life and career, <unitdate type="inclusive">1925-1927</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unitid>Vol. XI, </unitid><unittitle>FNS career and departmental matters after his retirement until his death</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unitid>Vol. XII, </unitid><unittitle>FNS correspondence, obituaries, post-death materials, notes on children</unittitle><note><p>now in folder</p></note></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unitid>Vol. XIII, A, </unitid><unittitle>Articles, essays, contributions to literary theory (published and unpublished) by FNS, <unitdate type="inclusive">1885-1900</unitdate></unittitle> <physdesc><extent>1 binder and 1 folder</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unitid>Vol. XIII, B, </unitid><unittitle>Articles, essays, contributions to literary theory (published and unpublished) by FNS, <unitdate type="inclusive">1900-1915</unitdate></unittitle> <physdesc><extent>1 binder</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unitid>Vol. XIII, C, </unitid><unittitle>Articles, essays, contributions to literary theory (published and unpublished) by FNS, <unitdate type="inclusive">1915-1930</unitdate></unittitle> <physdesc><extent>1 binder</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unitid>Vol. XIII, D-1, </unitid><unittitle>Articles, essays, contributions to literary theory (published and unpublished) by FNS, <unitdate type="inclusive">undated</unitdate></unittitle> <physdesc><extent>1 expandable folder</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unitid>Vol. XIII, D-2, </unitid><unittitle>Programs, <unitdate type="inclusive">1920-1924</unitdate> teaching materials; tribute to Detroit war dead </unittitle> <physdesc><extent>1 expandable folder</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Sound recordings">Sound Recordings</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle>Interviews with individuals who had recollections of Fred Newton Scott </unittitle> <physdesc><extent>9 sound cassettes</extent></physdesc></did> <note><p>(Interviewees include Arno Bader, Carlton Wells, Jean Paul Slusser, A.K. Stevens, Mrs. Charles Fries, and Marion (Scott) Goodrich)</p></note></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

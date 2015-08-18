@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::crouserb.xml//EN" encodinganalog="Identifier">
+umich-bhl-851009</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Robert Crouse papers, 1846 and 1856-1866
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-03-03</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Robert Crouse papers, 1846 and 1856-1866</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Crouse, Robert, 1813-1869.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Robert Crouse papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1846 and 1856-1866
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet (in 3 boxes) and 1 roll microfilm
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851009 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of members of the Crouse family (donor nos. <num type="donor" encodinganalog="541$e">5435</num> and <num type="donor" encodinganalog="541$e">9730</num>)  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+ Researchers must use microfilm of the Correspndence series.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<altformavail><p>The correspondence series, which includes Civil War era letters, has been microfilmed.</p></altformavail><prefercite encodinganalog="524"><p>[item], folder, box,
+Robert Crouse papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Robert Crouse was born in Avon, New York on October 2, 1813. He came to Michigan in 1832 and from 1834 to 1841, he was merchant at Kensington. He subsequently became a mill owner and farmer in Hartland, Michigan. In 1860, he became interested in real estate and the manufacture of salt at East Saginaw, and in 1862, he built the Crouse block and the Everett House in Hartland. He died in February 1869.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Robert Crouse papers consist of Civil War Era correspondence, including letters from soldiers describing camp life and other war-time activities. There is also letters received from businessmen in Michigan and New York state relating to business transactions. These letters date from the 1850s and 1860. Finally, the papers include business invoices and express and railroad receipts.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Hartland (Mich.)--Economic conditions.</geogname>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">1856</unitdate> and <unitdate type="inclusive">1862</unitdate> </unittitle></did> <note><p>(access to originals is restricted)</p></note></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">1863</unitdate> </unittitle></did> <note><p>(access to originals is restricted)</p></note></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">1864</unitdate> </unittitle></did> <note><p>(access to originals is restricted)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1858-1865</unitdate> (Civil War and personal)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Business correspondence</unittitle></did>
+<note><p>(letters received; arranged by location)</p></note><c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Oakland County merchants</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Detroit merchants</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Bay City, Frankenmuth, and Saginaw merchants</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Ingham and Washtenaw county merchants</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous Michigan merchants</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>New York State merchants </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Out-of-state merchants (non-New York)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Washington D.C. officials</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other business papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Invoices, <unitdate type="inclusive">1854-1865</unitdate> </unittitle> <physdesc><extent>34 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Express and railroad receipts, <unitdate type="inclusive">1856-1866</unitdate> </unittitle> <physdesc><extent>10 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Miscellaneous, <unitdate type="inclusive">1846</unitdate> and <unitdate type="inclusive">1857-1858</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

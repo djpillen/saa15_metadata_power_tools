@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::micithum.xml//EN" encodinganalog="Identifier">
+umich-bhl-85279</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Michigan Citizens for Humphrey and Muskie records, 1968
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>November 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-11-15</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Michigan Citizens for Humphrey and Muskie records, 1968</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Michigan Citizens for Humphrey and Muskie.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Michigan Citizens for Humphrey and Muskie records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1968
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85279 Bt 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Political organization supporting the Democratic ticket for President in 1968. Correspondence and financial records concerning the campaign; also papers and photographs concerning the pre-convention campaign for the nomination of Hubert Humphrey for President.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was received from Congressman James O’Hara (donor no. <num type="donor" encodinganalog="541$e">5939</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Michigan Citizens for Humphrey and Muskie records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The organization was established in the summer of 1968 to support the candidacy of Hubert Humphrey for Democratic nomination for President of the United States. The organization was originally named Michigan Citizens for Humphrey. With Humphrey's nomination, the organization became Michigan Citizens for Humphrey and Muskie.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The record group consists of correspondence, memoranda, organizational papers, a financial report, and delegate material from the Democratic National Convention. There is, in addition, a folder of campaign photos and a reel-to-reel tape of a campaign message.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Democratic Party (Mich.).</corpname>
+<persname source="lcnaf" encodinganalog="600">Humphrey, Hubert H. (Hubert Horatio), 1911-1978.</persname>
+<corpname source="lcnaf" encodinganalog="610">Michigan Citizens for Humphrey and Muskie.</corpname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1961-1970.</geogname>
+<persname source="lcnaf" encodinganalog="600">Muskie, Edmund S., 1914-</persname>
+<subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1968.</subject>
+<geogname source="lcsh" encodinganalog="651">United States--Politics and government--1963-1969.</geogname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<persname source="lcnaf" encodinganalog="600">Humphrey, Hubert H. (Hubert Horatio), 1911-1978.</persname>
+<subject source="lctgm" encodinganalog="650">Political elections--1968.</subject>
+<subject source="lctgm" encodinganalog="650">Politics and government--1961-1970.</subject>
+</controlaccess>
+
+<controlaccess><head>Subjects - Sound Recordings:</head>
+<corpname source="lcnaf" encodinganalog="610">Michigan Citizens for Humphrey and Muskie.</corpname>
+<subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1968.</subject>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1961-1970.</geogname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+</controlaccess>
+
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Organizational records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Operational certificates and applications</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial report, <unitdate type="inclusive"> November 26, 1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Employees Time book</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Correspondence, memoranda, mailings, etc.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">April-May 1968</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">June 1968</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">July 1968</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">August 1968</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">September 1968</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October 1968</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">November 1968</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan National Convention Delegates </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform> of   Hubert Humphrey campaigning in Michigan.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Sound recordings">Sound recording</genreform>: political message sponsored during the <unitdate type="inclusive">1968</unitdate> presidential campaign </unittitle> <physdesc><physfacet>(7 1/2 ips ;5 in.</physfacet></physdesc></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

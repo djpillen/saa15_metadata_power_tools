@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::kahnray.xml//EN" encodinganalog="Identifier">
+umich-bhl-861134</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Raymond H. Kahn papers, 1968-1982
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>July 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-07-11</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Raymond H. Kahn papers, 1968-1982</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+
+<persname source="lcnaf" encodinganalog="100">
+Kahn, Raymond H., 1930-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Raymond H. Kahn papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1968-1982
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+861134 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Physician and professor of anatomy at the University of Michigan. Files relate to police-student relations, 1968-1973, to the review of the Division of Research Development and Administration, 1980, and to research policy and Department of Defense sponsored research at the University.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Professor Kahn (donor no. <num type="donor" encodinganalog="541$e">6831</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Raymond H. Kahn papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Raymond H. Kahn earned his bachelor's and master's degrees in zoology at the University of California. He was awarded a Ph.D. in zoology from the University of California, Berkeley, in 1953, then joined the University of Michigan Medical School faculty in 1954 as instructor of anatomy. He became assistant professor in 1958, associate professor in 1962 and was promoted to professor in 1967. He retired from the University in1982, after which he became assistant director of research for the Research Institute of Scripps Clinic in La Jolla.</p>
+
+<p>At the University of Michigan, Kahn was elected to the Medical School Executive Committee and to the University's Senate Assembly. He also helped initiate the School's Integrated Medical-Premedical Program, or Inteflex. In addition, Kahn received national and international recognition for his research in tissue and organ culture. He conducted pioneering studies on the development of endothelial linings for vascular prostheses. </p>
+
+<p>Raymond H. Kahn died July 5, 1996 in La Jolla, Calif.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Kahn papers consists of a single Topical file relating primarily to Kahn's participation in various University of Michigan reviews, surveys, committees, and task forces. Much of the collection concerns police-student relations at the University and Kahn's participation in a review of the Division of Research Development and Administration in 1980.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Division of Research Development and Administration.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Research.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1961-1970.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1971-1980.</corpname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Topical file</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alumnae Athena Awards, <unitdate type="inclusive">1974-1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biomedical Research Council, <unitdate type="inclusive">1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Police Student Relations, <unitdate type="inclusive">1968-1973</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Campus Disorder Planning (J.F. Brinkerhoff), <unitdate type="inclusive">1971</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Security Operations: Survey of University of Michigan Security Operations (Berg and Berg Associates), <unitdate type="inclusive">1969</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>University Council</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Emergency Guidelines, <unitdate type="inclusive">1971</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>A Survey of Police and Security Needs of the University of Michigan at Ann Arbor, <unitdate type="inclusive">1973</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>University Police Relations Committee, <unitdate type="inclusive">1968</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous, <unitdate type="inclusive">1971-1973</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Review of the Division of Research Development and Administration, <unitdate type="inclusive">1980</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Report and Notes</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes of Ad Hoc DRDA Review Committee</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Documents </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Senate Assembly</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Advisory Committee on Academic Affairs, <unitdate type="inclusive">1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Department of Defense Sponsored Research at the University of Michigan</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Indirect Costs</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Research Policies Committee</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1975-1981</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1981-1982</unitdate></unittitle></did></c04></c03></c02>
+<c02 level="file"><did><unittitle>Vice-President for Research</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Governor's Molecular Biology Task Force, <unitdate type="inclusive">1981</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Incentives for Research at the University of Michigan, <unitdate type="inclusive">1981</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Report on the Volume of Research to the Regents, <unitdate type="inclusive">1980-1981</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Task Force on University/Industry Interaction -- Michigan Research Council, <unitdate type="inclusive">1981</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

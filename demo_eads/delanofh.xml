@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::delanofh.xml//EN" encodinganalog="Identifier">
+umich-bhl-921098</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Fred H. DeLano papers,1907-1923 and 1949-1987 
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Diana Casey </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>July 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-07-09</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Fred H. DeLano papers, 1907-1923 and 1949-1987</titleproper>
+
+<author>Finding aid created by<lb/> 
+Diana Casey, 1992</author>
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+DeLano, Fred H., 1916-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Fred H. DeLano papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1907-1923 and 1949-1987
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+921098 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Journalist from Dowagiac, Michigan with interest in sports public relations; general manager of the Detroit Pistons.Resumes, correspondence received in 1952 in response to letter sent to college athletic directors asking the question, "What is the use of athletics for young people?"; scattered correspondence relating to his career with the Detroit Pistons; collected material about family member, Ervin Hurst; and photographs.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Martha Davis (Donor No. <num type="donor" encodinganalog="541$e">7964</num>) in September 1991.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Fred H. DeLano papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Fred H. DeLano was born in Dowagiac, Michigan on April 1, 1916.  He attended Dowagiac High School, where he began his lifelong interest in sports by joining the Dowagiac football team.  After graduating in 1933, DeLano continued this interest at the University of Michigan, where he became sports editor for the <title render="italic">Michigan Daily</title>, and the Ann Arbor correspondent for the <title render="italic">Chicago Tribune</title>.  DeLano graduated in 1937 from the university with degrees in history and journalism.  He embarked upon a journalism career immediately after graduation and continued writing throughout his life for many newspapers, including the <title render="italic">Detroit Free Press</title> and the <title render="italic">Plymouth Observer</title>.  Beyond his journalism career, DeLano was also heavily involved with sports public relations and promotions, which landed him the position of General Manager for the Detroit Pistons, 1957-1958, the first year the team played in Detroit.  Throughout his many change of positions and moves, DeLano remained involved with his home state of Michigan, his high school, college, and friends.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Fred H. DeLano Papers contain a small amount of correspondence and publications on a wide variety of topics. The collection begins with a folder of material on Ervin Hurst, DeLano's uncle, who attended the University of Michigan (class of 1913).  This one folder contains newspaper clippings about Hurst's marriage, and a leather-bound graduation program from 1913. The other files relates to Fred DeLano's activities from 1949 to 1987. Included here are copies of his resumes from 1955 to 1982, and correspondence, year books, and publications of the 50th reunions of his high school and college classes.   A small portion of the material concerns DeLano's involvement with the Detroit Pistons.  One set of correspondence shows the replies of about 50 college athletic directors from around the country to DeLano's question of 1952 about athletic de-emphasis,  "What is the use of athletics for young people?" The collection may contain information of interest to those studying DeLano's life, sports writing, or those interested in Dowagiac High School and the University of Michigan Class of 1937.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Athletics--Michigan--Detroit.</subject>
+<corpname source="lcnaf" encodinganalog="610">Detroit Pistons (Basketball team)</corpname>
+<geogname source="lcsh" encodinganalog="651">Dowagiac (Mich.)</geogname>
+<persname source="lcnaf" encodinganalog="600">Hurst, Ervin.</persname>
+<subject source="lcsh" encodinganalog="650">Journalists--Michigan--Dowagiac.</subject>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<persname encodinganalog="600">DeLano, Fred H., 1916-</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>DeLano papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ervin Hurst, <unitdate type="inclusive">1907-1923</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Resumes, <unitdate type="inclusive">1955-1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Tournament of Roses Parade Program, <unitdate type="inclusive">1949</unitdate></unittitle></did><note><p>(edited by DeLano))</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, Athletic De-emphasis, <unitdate type="inclusive">1952</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pistons, Publications and Personal Correspondence, <unitdate type="inclusive">1957-1958</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dowagiac High School, 50th Reunion, Class of  <unitdate type="inclusive">1933</unitdate>, <unitdate type="inclusive">1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>University of Michigan, 50th Reunion, Class of  <unitdate type="inclusive">1937</unitdate>, <unitdate type="inclusive">1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Photographs, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Carl F. DeLano (state legislator) materials</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

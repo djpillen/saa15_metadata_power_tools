@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::guthriej.xml//EN" encodinganalog="Identifier">
+umich-bhl-86648</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+James W. Guthrie papers, 1845-1907
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>May 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-05-21</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+James W. Guthrie papers, 1845-1907</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff, June 1979</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Guthrie, James W. (James Welch), 1827-1911.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+James W. Guthrie papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1845-1907
+</unitdate>
+
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86648 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Resident of Wooster, Ohio (later of Bedford, Iowa); 1862 graduate of the University of Michigan Department of Medicine and Surgery; surgeon in the 20th Ohio Volunteer Infantry during the Civil War. Civil War letters, diaries, newspapers, miscellanea and photographs; Civil War letters of his brother John Guthrie, also with the 20th Ohio Volunteer Infantry; and manuscript biography written by Helen Stephenson Guthrie.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Mrs. Elizabeth Guthrie Foster (donor no. <num type="donor" encodinganalog="541$e">6305</num>) and came to the library in 1979. 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+No copyright restrictions.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+James W. Guthrie papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>James Welch Guthrie graduated from the University of Michigan Department of Medicine and Surgery in 1862. He then enlisted as assistant surgeon with the 20th Ohio Volunteer Infantry.  Following the war, he became a physician in Bedford, Iowa. He died September 27, 1911.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of school records, and correspondence and other documents relating to his Civil War service and activities.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Bedford (Iowa)</geogname>
+<geogname source="lcsh" encodinganalog="651">Iowa.</geogname>
+<geogname source="lcsh" encodinganalog="651">Ohio.</geogname>
+<subject source="lcsh" encodinganalog="650">Physicians--Ohio.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Ohio Infantry Regiment, 20th (1861-1865)</corpname>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Medicine and Surgery. Class of 1862.</corpname>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865--Medical care.</geogname>
+<geogname source="lcsh" encodinganalog="651">Wooster (Ohio)</geogname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<persname source="lcnaf" encodinganalog="600">Guthrie, James W. (James Welch), 1827-1911.</persname>
+<subject source="lctgm" encodinganalog="650">Medical aspects of war.</subject>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Ohio Infantry Regiment, 20th (1861-1865)</corpname>
+</controlaccess>
+
+
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Guthrie, Helen Stephenson.</persname>
+<persname source="lcnaf" encodinganalog="700">Guthrie, John.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Personal and Civil War service</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>School records, <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive">1853-1854</unitdate> and <unitdate type="inclusive">1857</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate>, <unitdate type="inclusive">1845</unitdate> and <unitdate type="inclusive">1850-1859</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1860-1862</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1863-1869</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1870-1879</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1880-1889</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1890-1909</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Civil War records, <unitdate type="inclusive">1862-1865</unitdate>, including enlistment papers and special orders</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Journal, <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive">1864</unitdate> and <unitdate type="inclusive">1875</unitdate> (unbound)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Equipment requests and property indebtedness records, <unitdate type="inclusive">undated</unitdate> and <unitdate type="inclusive">1862-1867</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pension records, <unitdate type="inclusive">1865-1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Battles fought by 20th Ohio Volunteer Infantry</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspapers, <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive">1863</unitdate> and <unitdate type="inclusive">1865</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Manuscript of  "Doctor Guthrie's War," <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notes, <unitdate type="inclusive">undated</unitdate>, by Helen Stephenson Guthrie on James Welch Guthrie</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Diaries">Diaries</genreform>, <unitdate type="inclusive">1860</unitdate> and <unitdate type="inclusive">1864</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photos</genreform> of Guthrie and other soldiers, and photos of medical tools</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Diplomas</unittitle> <physdesc><extent>3 items</extent></physdesc></did> <note><p>(removed to library's diploma collection)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

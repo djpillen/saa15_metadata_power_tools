@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::goodmang.xml//EN" encodinganalog="Identifier">
+umich-bhl-0336</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Grant K Goodman papers, 1943-1995
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Natalie Bond, January 2011</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg kinney, 
+<date>2011</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2012-05-14</date><item>Correction made.</item></change><change><date>2011-04-13</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Grant K. Goodman papers, 1943-1995</titleproper>
+
+<author>Finding aid created by<lb/> 
+Natalie Bond, January 2011</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Goodman, Grant Kohn
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Grant K Goodman papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1943-1995
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0336 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Grant K. Goodman was a student at the University of Michigan's Army Intensive Japanese Language School (AIJLS) during World War II.  Goodman was the primary organizer of several AIJLS class reunions in the late 1980s and early 1990s.  The collection contains papers documenting the AIJLS, specifically the Second Class, 1943-1944.  It includes educational materials, reports, and commencement programs, as well as materials from the School's 1943 production of the musical "Nips in the Bud."  A significant portion of the collection is made up of photographs, depicting life at AIJLS, Fort McClellan, Alabama, and in post-surrender Japan.  Also included are materials related to Goodman's organization of the AIJLS reunions, largely comprised of correspondence, various written recollections, and a collection of six videocassettes.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Materials were received from Grant Goodman in 1997 and 2010. (donor no. <num type="donor" encodinganalog="541$e">8647</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Grant K Goodman papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Grant Kohn Goodman was a student at the University of Michigan's Army Intensive Japanese Language School (AIJLS) from 1943 to 1944.  The AIJLS was created by the United States War Department in order to build an elite corps of Japanese-speaking officers, who were to do intelligence work and provide support for combat troops.  The school was an intensive course, consisting of intensive Japanese language and culture classes, as well as military drills, inspections, and typical army exercises characteristic of U.S. military training camps.</p>
+
+<p>Goodman's class (Company A, 3651st Service Unit), graduated from AIJLS on January 4, 1944, and continued on to complete further training at the Military Intelligence Service Language School in Minnesota (MISLS).  There, they underwent courses in the more technical and complicated aspects of intelligence work, and graduated on November 18, 1944.  The soldiers were then sent to basic training at Fort McClellan in Alabama, and went on to join combat units in China, Burma, India, New Guinea, the Philippines, Australia, and Hawaii, where they served as translators and interrogators for Japanese prisoners of war.  After the surrender, most of the AIJLS graduates became part of the Japanese occupation forces.</p>
+
+<p>After the war Goodman returned to the University of Michigan where he received his masters degree in Far Eastern Studies under Professor Joseph Yamagiwa in 1939 and a PHD.</p>
+
+<p>Goodman worked as a professor of Japanese history at the University of Kansas for thirty years, and spent time in the late 1980s and early 1990s at the International Research Center for Japanese Studies in Kyoto, Japan.</p>
+
+<p>Goodman is the author of "Amerika no Nippon Gannen (America's Japan: The First Year)", published in 1990.</p>
+
+<p>Goodman was instrumental in organizing reunions for students in the first two AIJLS courses at Ann Arbor.  In May 1990 the last major reunion of the Ann Arbor AIJLS students was held in Ann Arbor.</p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Grant K. Goodman collection documents the establishment and daily operations of the Army Intensive Japanese Language School (AIJLS), operating on the University of Michigan campus during World War II, as well as Goodman's later efforts to organize AIJLS reunions.  The files are divided into seven series, and consist of papers, photographs and AV materials: Army Intensive Japanese Language School, Correspondence, "Nips in the Bud," Photographs, Publicity, "Random Recollections of the Second Class, AIJLS", and Videotapes.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname encodinganalog="610" source="lcnaf">	United States. Army. Japanese Language School (University of Michigan)</corpname>
+<persname encodinganalog="600" source="lcnaf">Goodman, Grant K.</persname>
+<subject normal="650" source="lcsh">	World War, 1939-1945 -- Michigan -- Ann Arbor</subject>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<corpname encodinganalog="610" source="lcnaf">	United States. Army. Japanese Language School (University of Michigan)</corpname>
+<subject normal="650" source="lcsh">	World War, 1939-1945 -- Michigan -- Ann Arbor</subject>
+<geogname encodinganalog="655" source="lcsh">Tokyo.</geogname></controlaccess>
+
+<controlaccess><head>Subjects - Sound Recordings:</head>
+<corpname encodinganalog="610" source="lcnaf">	United States. Army. Japanese Language School (University of Michigan)</corpname>
+<title encodinganalog="730" source="lcnaf">Nips in the Bud.</title>
+<subject normal="650" source="lcsh">	World War, 1939-1945 -- Michigan -- Ann Arbor</subject></controlaccess>
+
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform>Photographs.</genreform><genreform>Sound recordings.</genreform><genreform>Videotates.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Army Intensive Japanese Language School (AIJLS)</unittitle></did>
+<scopecontent><p>The Army Intensive Japanese Language School papers encompass three years of the operation of the AIJLS, and include educational materials, commencement programs and an "AIJLS Day" proclamation by the mayor of Ann Arbor in 1990.  Educational materials include reports on "Amenities in the Japanese Armed Forces" and "Japanese Methods of Prisoner of War Interrogation".  These papers date from 1944 to 1990.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>AIJLS Day Proclamation (and reunion material), <unitdate type="inclusive">1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Commencement, <unitdate type="inclusive">1944</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Research Reports (Allied Translator and Interpreter Section)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Amenities in the Japanese Armed Forces (photocopy), <unitdate type="inclusive">1946</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Glossary of Japanese Medical Terms, <unitdate type="inclusive">1944</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Japanese Methods of Prisoner of War Interrogation, <unitdate type="inclusive">1946</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>List of Japanese Personal Names with Unusual Readings, <unitdate type="inclusive">1944</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ryakuji -- Abbreviated Characters, <unitdate type="inclusive">1944</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<scopecontent><p>Correspondence consists mainly of letters between Goodman and various AIJLS alumni regarding the organization of AIJLS class reunions from 1988 to 1993.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1988-1990</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>"Nips in the Bud"</unittitle></did>
+<scopecontent><p>"Nips in the Bud" contains materials relating to a musical put on by AIJLS students (Company A, 3651st Service Unit) in 1943.  It includes performance programs and song lyrics, as well as a cassette tape recording of the musical's War Bond performance on Sept. 30, 1943.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Programs and Recording, <unitdate type="inclusive">1943</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Publicity</unittitle></did>
+<scopecontent><p>The Publicity series contains various newspaper and magazine articles covering both the history of the AIJLS and the class reunion organized by Goodman.  The series covers the period between 1988 and 1993.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1988-1993</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>"Random Recollections of the Second Class, AIJLS"</unittitle></did>
+<scopecontent><p>"Random Recollections of the Second Class, AIJLS", compiled by Donald M. Richardson, was written in 1988 and thoroughly documents his memories of his time in AIJLS.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">September 1988</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Photographs</unittitle></did>
+<scopecontent><p>The Photographs series contains photographs depicting life in the AIJLS on the University of Michigan campus, Goodman's experiences at Fort McClellan, and the American occupational forces in post-surrender Japan.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>AIJLS </unittitle> <physdesc><extent>2 folders</extent></physdesc></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Fort McClellan, Alabama, <unitdate type="inclusive">1944</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Portrait, Miscellaneous, Ernie Pyle Theater</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>NYK Building, Tokyo, GHQ, SCAP, officer's Club</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Tokyo, Candids, Train Station</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>AIJLS Inspection, <unitdate type="inclusive">1943</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>University of Michigan</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>AIJLS Reunion, <unitdate type="inclusive">1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Rackham Hall Group Photograph, <unitdate type="inclusive">1943</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Videotapes</unittitle></did>
+<scopecontent><p>The Videotapes series consists of six videocassettes including footage recorded at the 1990 AIJLS class reunion and a  1994 documentary. produced by Japanese television station NHK title "Does This Streetcar Go to Hibiya?"  Some of the tapes appear to be duplicates.</p></scopecontent>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Company A Classes of 1943-1945/U.S. Army Intelligence Part One</unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Company A Classes of 1943-1945/U.S. Army Intelligence Part Two</unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Tape #1, Reunion: <unitdate type="inclusive">1990</unitdate> Does This Streetcar Go to Hibiya? NHK <unitdate type="inclusive">1994</unitdate> </unittitle> <physdesc><physfacet>vhs, 50 minutes</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Tape #2, Reunion: Is This Streetcar for Hibiya?  NHK-E Channel 3,  <unitdate type="inclusive">August 26, 1994</unitdate> </unittitle> <physdesc><physfacet>vhs</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Tape #3 GKG-Sunflower Cable-7 Aug 95  /  2) Reunion-Streetcar to Hibiya-8 Aug 95  /  3) Tokyo Rose--Biography  </unittitle> <physdesc><physfacet>vhs</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Tape #4 (unidentified, NHK promo?) </unittitle> <physdesc><physfacet>vhs</physfacet></physdesc></did></c02></c01>
+
+
+
+</dsc></archdesc>
+
+</ead>

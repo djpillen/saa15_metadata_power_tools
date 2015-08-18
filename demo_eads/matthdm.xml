@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::matthdm.xml//EN" encodinganalog="Identifier">
+umich-bhl-92632</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Donald Maxwell Matthews photographs, 1924-1982
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>July 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-07-18</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Donald Maxwell Matthews photographs, 1924-1982</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Matthews, Donald Maxwell, 1886-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Donald Maxwell Matthews photographs 
+<unitdate type="inclusive" encodinganalog="245$f">
+1924-1982
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+92632 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of forestry at the University of Michigan. Photographs of forestry, lumbering, and sugar cane production in Cuba, and other West Indies locales, Central and South America, and the southern United States.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The photographs were transferred from the University of Michigan School of Natural Resources (donor no. <num type="donor" encodinganalog="541$e">1887</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Donald Maxwell Matthews photographs, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Donald Maxwell Matthews, born June 29, 1886, graduated from the University of Michigan (B.A. 1908; M.S. in forestry, 1909). After graduation, he went to the Philippines where he was a forester with the Philippine Bureau of Forestry (1909-1914) and a professor of forestry at the University of the Philippines (1910-1914). From 1914 to 1920, Matthews was conservator of forests for the Government of British North Borneo.  From 1920 to 1925, he was manager of the British Borneo Timber Company, then went to Washington D.C. as forester with the U.S. Tropical Plant Research Bureau. Matthews came to the University of Michigan in 1927 as professor of forest management. That same year, Matthews accepted an offer from the United Fruit Company and the Compania Cubana to go to Cuba and organize and direct the work of reforesting large areas of land owned by these company which were determined not suitable for the production of sugar. In 1930, Matthews helped to organize the Brazilian forest Service. He died September 14, 1948.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of a single series of photographs, arranged alphabetically by place name or by topic.  Most of the images detail forestry practices in Central and South America and the sugar cane industry in Cuba and other Caribbean islands. Some of the photographs relate to forestry in Louisiana and South Carolina.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+<controlaccess><head>Subjects - Visual Materials:</head>
+<geogname source="lcsh" encodinganalog="651">Central America.</geogname>
+<geogname source="lcsh" encodinganalog="651">Cuba.</geogname>
+<subject source="lctgm" encodinganalog="650">Forestry.</subject>
+<geogname source="lcsh" encodinganalog="651">Louisiana.</geogname>
+<subject source="lctgm" encodinganalog="650">Lumber industry.</subject>
+<geogname source="lcsh" encodinganalog="651">South America.</geogname>
+<geogname source="lcsh" encodinganalog="651">South Carolina.</geogname>
+<subject source="aat" encodinganalog="650">Sugar plantations.</subject>
+<geogname source="lcsh" encodinganalog="651">West Indies.</geogname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Brazil and Argentina</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Cuba-The Cuba Company, Antilla</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Cuba-General subjects</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Cuba-Tobacco</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Forestry</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>B. Borneo Timber Company</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Canal Zone</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Caracas</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Cuba-General views</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Cuba-Close-up views </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Cuba-Processing and details</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Louisiana</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Nicaragua</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Porto Rico</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>South Carolina</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Trinidad</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Trinidad and Venezuela</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Cedar and Eucalyptus</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Mahogany and Teak</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>General</unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Venezuela</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Peru</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pest Control</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Porto Rico</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Santo Domingo</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Sugar -- Cuba</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Baragua Station</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Cultivation, harvesting and marketing</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Processing sites</unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

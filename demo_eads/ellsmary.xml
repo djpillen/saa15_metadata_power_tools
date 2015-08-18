@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::ellsmary.xml//EN" encodinganalog="Identifier">
+umich-bhl-9412</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Mary Ellsworth papers, circa 1880-1983
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Vera K. Anderson, January 1994</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2012">
+2012</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2012</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2012-08-22</date><item>Re-encoding from Word 2003 file using Word macros and Xmetal.  Original encoding in 1998.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Mary Ellsworth papers, circa 1880-1983</titleproper>
+
+<author>Finding aid created by<lb/> 
+Vera K. Anderson, January 1994</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Ellsworth, Mary
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Mary Ellsworth papers
+<unitdate type="inclusive" encodinganalog="245$f">
+circa 1880-1983
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear foot and 1 oversize folder (UAm)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9412 Aa 2; UAm
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Naturalist and historian at the Nankin Mills Nature Center near Westland, Michigan. Nankin Mills was also used by Henry Ford in the manufacture of automobile parts.
+ Nankin Mills files including notebook with research notes and jottings about the Nankin Mills area, newspaper clippings, and deeds; collected historical material including child's diary, 1902-1903, and Pontiac, Michigan family papers containing essay about women's suffrage, 1881;   photographs of the Nankin Mills and related areas in western Wayne County, Michigan; copy prints of Pike's Peak, Colorado, 1887.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection (donor no. <num type="donor" encodinganalog="541$e">8051</num>) was donated by John and Alice Ellsworth, brother and sister-in-law of Mary Ellsworth, September 1993.
+
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Mary Ellsworth papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Mary Ellsworth was a naturalist and historian at the Nankin Mills Nature Center in Westland, Michigan.  After receiving her degree in Natural Science from Michigan State University in the mid-1950s, she worked for a time at the Cranbrook Institute of Science.  In 1956, she was approached about a job to develop an interpretive nature center as part of the Middle Rouge Parkway in Wayne County.  The location for the center was to be Nankin Mills, a site once occupied by two grist mills.  The earliest of the mills was built between 1835 and 1842.  A second mill was constructed soon after the Civil War.  In 1918, Henry Ford purchased this mill as part of his plan to develop village mill industries along the Rouge River.  After Henry Ford's death in 1947, the mill was given to the county and in 1956, the property was designated a nature center where school groups could learn about the area and take walks through the surrounding William P. Holliday Forest and Wildlife Preserve.  The nature center was never adequately funded, and despite Ellsworth's best efforts, it closed in 1979 for budgetary reasons.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Mary Ellsworth papers consist of two types of materials:  1)  papers which relate specifically to Nankin Mills and to her work as naturalist, and 2) historical materials collected or received by Mary Ellsworth. </p> 
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Teenage girls--Michigan--Diaries.</subject>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+<persname source="lcnaf" encodinganalog="600">Ellsworth, Mary.</persname>
+<geogname source="lcsh" encodinganalog="651">Nankin Mills (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Pontiac (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Women--Suffrage--United States.</subject>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Ford Motor Company.</corpname>
+<subject source="lctgm" encodinganalog="650">General stores--Michigan--Pikes Peak.</subject>
+<subject source="lctgm" encodinganalog="650">Mills--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">Nankin Mills (Mich.)</geogname>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<geogname source="lcsh" encodinganalog="651">Pikes Peak (Colo.)--1887.</geogname>
+<geogname source="lcsh" encodinganalog="651">Pikes Peak (Westland, Mich.)</geogname>
+</controlaccess>
+
+
+
+
+
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Nankin Mills Materials</unittitle></did>
+<scopecontent><p>The Nankin Mills Materials sereis includes Ellsworth's personal notebook containing various types of information relating to the Nankin Mills Nature Center, including research notes, addresses of individuals, and various jottings.  There are also newspaper clippings and other background information about the Mills, including copies of deeds to the property.  Perhaps of greatest value are the photographs consisting of numerous images of the second mill, when it was a grist mill and when it was a manufacturer of parts for the Ford automobile, photos of nearby establishments in Pike's Peak, Michigan, as well as copy prints of views of Pike's Peak, Colorado in the 1880s.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notebook containing research notes, addresses and various personal jottings of Mary Ellsworth</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings, <unitdate type="inclusive">1962-1983</unitdate> (scattered dates)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Deeds, <unitdate type="inclusive">1948-1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Historical information about the mills and the surrounding area</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Photographs, ca. 1880-<unitdate type="inclusive">ca. 1950</unitdate> </unittitle></did> <note><p>(see also oversize folder, UAm)</p></note>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Nankin Mills views</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Sites near Nankin Mills and related</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Collected photos (include Pike's Peak, Colorado, 1887)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Negatives</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Collected Historical Materials</unittitle></did>
+<scopecontent><p>TheCollected Historical Materials series includes materials Ellsworth collected.  Although much of this material is of a miscellaneous character, there are still some items of interest.  Of note is a diary of a young girl, Helen Fry, written around the turn of the century.  Another folder consists of letters and essays written by members of the North family of Pontiac, Michigan in the 1880s.  One of the essays relates to the topic of women's suffrage and was written in 1881.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Helen Fry diary (child's diary), <unitdate type="inclusive">1902-1903</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>North family papers, (Pontiac, Michigan family), circa 1881-circa <unitdate type="inclusive">1890</unitdate> </unittitle></did> <note><p>(include essays and scattered correspondence; one essay concerns topic of women's suffrage, 1881)</p></note></c02></c01> 
+
+</dsc></archdesc>
+
+</ead>

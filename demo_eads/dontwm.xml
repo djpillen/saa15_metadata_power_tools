@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::dontwm.xml//EN" encodinganalog="Identifier">
+umich-bhl-91458</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Don't Waste Michigan records, 1987-1990
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Diane LaBarbera </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>March 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-03-27</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Don't Waste Michigan records, 1987-1990</titleproper>
+
+<author>Finding aid created by<lb/> 
+Diane LaBarbera, 1991</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Don't Waste Michigan.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Don't Waste Michigan records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1987-1990
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+91458 Bn 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Citizen group opposed to the placement of a regional low-level radioactive waste disposal facility in Michigan. Administrative files include minutes and agenda of meetings, newsletters, press releases and promotional flyers, and brief history; background information on proposed superconducting super collider.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was donated by Eunice Hendrix (Donor No. <num type="donor" encodinganalog="541$e">7858</num>) in November, 1990.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Don't Waste Michigan records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Don't Waste Michigan (DWM) is a citizen's group originally formed in March, 1988 to oppose the placement of a regional radioactive waste disposal facility in Michigan.  The group also called for the withdrawal of Michigan from the Midwest Interstate Compact, a seven state coalition to develop a regional low level radioactive waste disposal site.</p>
+
+<p>In 1989, Don't Waste Michigan filed a law suit to force the Low Level Radioactive Waste Authority to disclose the sites that were to be considered for a radioactive waste dump in Michigan.  They won that suit in September of 1989.  The group's most recent concerns include (1) resisting efforts to weaken the waste dump selection criteria, (2) passing a law banning "below regulatory concern radioactive wastes" from Michigan landfills and waterways, (3) resisting an effort to privatize the selection process which would eliminate public participation in site selection, and (4) Superconducting Super Collider (SSC) opposition.</p>
+
+<p>The Central Steering Committee for Don't Waste Michigan tried to provide leadership for local DWM organizations in the areas of education, membership, funding, publications, legal issues, chapter coordination, and media relations.  Members of the Steering Committee as of March, 1988 included Mary Sinclair, Midland, Education and Media; Ellen Beal, Lansing, Membership and Newsletter; Corrine Carey, Grand Rapids, Publications; Eunice Hendrix, Ann Arbor, Fundraising and Treasurer; Chuck Will, Lansing, Legal Research; Nancy Fagge, Warren, Chapter Coordinator; and Brian Ewart, Ann Arbor, Strategy and Meeting Coordinator.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Don't Waste Michigan record group is comprised of materials collected by one of the members of the 1988 Central Steering Committee, Eunice Hendrix of Ann Arbor, Michigan.  The record group cover the period of 1987 to 1990 and is divided into two series: Administrative Files and Background Files on Superconducting Super Collider.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Citizens' associations--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Don't Waste Michigan.</corpname>
+<subject source="lcsh" encodinganalog="650">Environmental protection--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Radioactive waste disposal--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Superconducting Super Collider.</subject>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Administrative File, <unitdate type="inclusive">1987-1990</unitdate></unittitle></did><scopecontent><p>The Administrative File series documents DWM's work against the proposed low-level radioactive waste dump proposed for placement in Michigan.  The Administrative File reveals the month to month workings of a grassroots coalition.  These folders contain the richest source of information on the motivation behind the Don't Waste Michigan campaigns.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Agendas and Minutes, <unitdate type="inclusive">1988-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>By-Laws, <unitdate type="inclusive">1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History of Don't Waste Michigan, <unitdate type="inclusive">ca. 1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters, <unitdate type="inclusive">1988-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Press Releases and Promotional Flyers, <unitdate type="inclusive">1987-1990</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Background File on the Superconducting Super Collider (Ssc)</unittitle></did><scopecontent><p>The second series, Background Files on SSC, consists of  background information on the proposed location of the SSC in Michigan.  There is not a strong link between the discussions in the Administrative File series and the SSC background series files.  The Department of Energy subseries and the Local/Regional Information subseries both contain material that federal and state agencies published in support of the SSC.  The Topical File subseries contains material from the press and journals discussing various issues regarding the proposed SSC.</p></scopecontent>
+<c02 level="file"><did><unittitle>Department of Energy (DOE) Information on the SSC</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Draft Environmental Impact Statement (DEIS), Superconducting Super Collider. Volumes I and III, Volume IV-Appendix 4, DOE/EIS-0138D, U.S. Dept. of Energy, <unitdate type="inclusive"> August 1988</unitdate> (printed material)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Federal Register Notice for DEIS, <unitdate type="inclusive"> January 22, 1988</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>SSC Central Design Group Publications on Radiation and the SSC,  July and <unitdate type="inclusive"> November, 1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Waste Generation at the SSC; Background Information,  August, 19</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Local/Regional Information and Publications on the SSC</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Institute for Social Research, <unitdate type="inclusive">1988</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Public Hearing Texts; Questions and Statements Regarding the DEIS and the SSC in Michigan, <unitdate type="inclusive"> September 1988</unitdate> and <unitdate type="inclusive">ca. 1988-1989</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>State of Michigan, <unitdate type="inclusive">1987-1988</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Topical Files</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Editorials, <unitdate type="inclusive">1987</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Journal Articles, <unitdate type="inclusive">1987-1988</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters, <unitdate type="inclusive">1987-1988</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper Clippings, <unitdate type="inclusive">1987-1990</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>SSC Buttons and Bumper Sticker</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::kingsdsm.xml//EN" encodinganalog="Identifier">
+umich-bhl-89207</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+International Order of King's Daughters and Sons. Macomb County Branch (Mich.) records, 1891-1965
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Brian A. Williams</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-29</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+International Order of King's Daughters and Sons. <lb/>Macomb County Branch (Mich.) <lb/>records, 1891-1965</titleproper>
+
+<author>Finding aid created by<lb/> 
+Brian A. Williams, 1989</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+International Order of King's Daughters and Sons. Macomb County Branch (Mich.).</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+International Order of King's Daughters and Sons. Macomb County Branch (Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1891-1965
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+89207 Bk.w 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Minutes, financial records, annual convention reports, and scrapbooks, primarily of the Whatsoever Circle of Mount Clemens, Michigan.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Donated by the Macomb County Historical Society (Donor No. <num type="donor" encodinganalog="541$e">7610</num>) on October 27, 1988.  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+International Order of King's Daughters and Sons. Macomb County Branch (Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The International Order of the King's Daughters and Sons was founded in New York in 1886. It started as groups of Christian women from various churches came together to work and demonstrate their compassion for God and man. The Order was founded in small circles of ten, each adopting a symbol or motto for their name.</p>
+
+<p>The Macomb County Branch was formed in 1891, and adopted the name, The Whatsoever Circle. This name was based on the saying, "Whatsoever thy hand findeth to do, do it with thy might." Other circles quickly grew and adopted such names as The Watchful Circle, United Workers, and Hand in Hand. The Circles involved themselves in Samaritan work, raising money for charities. The Whatsoever Circle actively supported the University of Michigan Hospitals among its many causes. Hand made goods as well as purchased items were donated in addition to time.</p>
+
+<p>The various circles were administered locally by the City Union of The King's Daughters and Sons. The local groups were overseen by a state branch and finally the International Order. Annual yearly meetings were held for the county and state levels. </p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The records of the Macomb County Branch are made up of minutes documenting the activities and finances. The Whatsoever Circle is the best documented of the Mount Clemens Circles, running from the founding in 1891, through 1957. Other records include minutes from the City Union and The Board of Trustees. A scrapbook documents activities from 1901 through 1957, through clippings, brochures and letters.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Macomb County (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Mount Clemens (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Macomb County--Societies and clubs.</subject>
+
+
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Minute book of  The Whatsoever Circle (of King's Daughters and Sons), <unitdate type="inclusive">1891-1957,</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1891-1901</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1901-1912</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1912-1926</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1927-1934</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1935-1943</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1944-1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1953-1957</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial reports and minutes of the Whatsoever Circle, <unitdate type="inclusive">1944-1953</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minute book of the  Mount Clemens Union of King's Daughters, <unitdate type="inclusive">1901-1906</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Expenditure book, of  The City Union of King's Daughters, <unitdate type="inclusive">1906-1922</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minute book of  The City Union of the King's Daughters and Sons, <unitdate type="inclusive">1911-1922</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Expense record, of  The City Union of King's Daughters and Sons, <unitdate type="inclusive">1924-1935</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minute book of the  King's Daughters and Sons Board of Trustees, <unitdate type="inclusive">1923-1935</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minute book, of  The Watchful Circle, <unitdate type="inclusive">1918-1923</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minute book, of  The Watchful Circle, <unitdate type="inclusive">1923-1926</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dues and membership book of  The Watchful Circle, <unitdate type="inclusive">1918-1926</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitutions and By-Laws of King's Daughters and Sons</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Convention reports of Macomb County Branch of the King's Daughters and Sons</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Convention reports of Michigan Branch of the King's Daughters and Sons</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform>, The Whatsoever Circle of King's Daughters</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1901-1957</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1934-1942</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::townlynn.xml//EN" encodinganalog="Identifier">
+umich-bhl-85435</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Lynn A. Townsend papers, 1959-1978
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-02-19</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Lynn A. Townsend papers, 1959-1978</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Townsend, Lynn A. (Lynn Alfred), 1919-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Lynn A. Townsend papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1959-1978
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet and 2 oversize volumes
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85435 Aa 2; AC
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Chrysler Corporation executive. Speeches, clippings, photographs and articles by or about Townsend and the Chrysler Corporation.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Lynn A. Townsend (donor no. <num type="donor" encodinganalog="541$e">6776</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Lynn A. Townsend papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Lynn Alfred Townsend was born on May 12, 1919 in Flint, Michigan. He received his B.A. degree in 1940 from the University of Michigan and his M.A. in Business Administration in 1941. He then joined the accounting firm of Ernst &amp; Ernst, later taking a leave for war-time service. He rejoined Ernst &amp; Ernst in 1946, but left to join George Bailey &amp; Co. as supervising accountant. Following a merger, he continued as supervising accountant with Touche, Niven, Bailey &amp; Smart. In this role, Townsend gained knowledge of the finances of one of the firm's account, the Chrysler Corporation. In 1957, he was hired as controller of the Chrysler Corporation. Soon thereafter, he became vice president of the firm's international operations. In 1960, he was named executive administrative vice president and took over the operations of the firm. In 1961, he was named president, and in 1967, he became chairman of the board and chief executive officer. He served in this position until 1975.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Lynn Township papers consist of materials relating to his public relation role on behalf of the Chrysler Corporation. The collection consists of speeches, clippings and magazine with articles by and about Townsend, and a scrapbook given to him in recognition of his work with the Economic Growth Council of Detroit. The photographs in the collection are of Townsend with political figures and celebrities, inspecting Chrysler plants overseas, and participating in various social functions.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Automobile industry and trade--United States.</subject>
+<corpname source="lcnaf" encodinganalog="610">Chrysler Corporation.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Automobile industry.</subject>
+<subject source="lctgm" encodinganalog="650">Automobiles.</subject>
+<subject source="lctgm" encodinganalog="650">Banquets.</subject>
+<geogname source="lcsh" encodinganalog="651">Brazil.</geogname>
+<subject source="lctgm" encodinganalog="650">Celebrities.</subject>
+<corpname source="lcnaf" encodinganalog="610">Chrysler Corporation.</corpname>
+<subject source="lctgm" encodinganalog="650">Clothing and dress--1961-1970.</subject>
+<subject source="lctgm" encodinganalog="650">Dance.</subject>
+<subject source="lctgm" encodinganalog="650">Hunting.</subject>
+<subject source="lctgm" encodinganalog="650">Industrial buildings.</subject>
+<subject source="lctgm" encodinganalog="650">Interiors.</subject>
+<subject source="lctgm" encodinganalog="650">Toasting.</subject>
+<persname source="lcnaf" encodinganalog="600">Townsend, Lynn A. (Lynn Alfred), 1919-</persname>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Speeches</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Various topics </unittitle> <physdesc><extent>5 volumes and 2 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Awards</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Brazil Plant-Visit of Lynn Townsend-Album, <unitdate type="inclusive"> June 1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Celebrities: Townsend with Art Buchwald, Bob Hope, Jack Benny, Carol Channing, Hugh Downs, others</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Politicians and University of Michigan Officials: Townsend with Richard Nixon, Charles DeGaulle, Lyndon B. Johnson, Gerald R. Ford, William Milliken, and other others</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Visit of Lynn Townsend at the inauguration of an automobile plant in Toluca, Mexico, <unitdate type="inclusive">1964</unitdate> </unittitle> <physdesc><extent>1 album</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">1</container><unittitle>Visit of Lynn and Ruth Townsend to Spain, <unitdate type="inclusive">1966</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other materials</unittitle></did>
+    <c02 level="file"><did><container type="volume" label="Oversize Volume">2</container><unittitle>Scrapbook in commemoration of his work on the Economic Growth Council of Detroit, <unitdate type="inclusive">1977-1978</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Clippings relating to Townsend and Chrysler Corp.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Magazines and other serial publications containing articles by or about Lynn Townsend</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

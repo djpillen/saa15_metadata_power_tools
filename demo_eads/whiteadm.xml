@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::whiteadm.xml//EN" encodinganalog="Identifier">
+umich-bhl-86357</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Andrew Dickson White papers, 1857-1867 [microform]
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Cornell University Library</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-10-01</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Andrew Dickson White papers, 1857-1867 [microform]</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+White, Andrew Dickson, 1832-1918.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Andrew Dickson White papers [microform] 
+<unitdate type="inclusive" encodinganalog="245$f">
+1857-1867
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+8 microfilm reels (negative)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86357 Aa Microcopy
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of history at University of Michigan, later President of Cornell University, Minister to Russia, and Ambassador to Germany. Letters to and from White and members of his family, personal accounts, and miscellaneous material concerning University of Michigan and Ann Arbor, Michigan, during the 1857-1867 decade.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The mirofilm was acquird through the University of Michigan General Libray.  
+</p></acqinfo>
+
+
+<originalsloc><p>The originals of the White papers are at the Cornell University Library.</p></originalsloc><accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Andrew Dickson White papers, 1857-1867 [microform], Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Andrew Dickson White was born at Homer, New York, November 7, 1832.  He graduated from Yale University in 1853, then after some years of further study in Paris and Berlin, he became an attaché of the United States Legation at St. Petersburg.  In 1857 he came to the University of Michigan as professor of history and English literature.  Although he was elected to the New York State Senate in 1863, he continued to have some responsibilities at the U-M until 1867, when he resigned to accept the presidency of Cornell University.  In addition White accepted was active in the foreign service of the United States. He was Special Commissioner of the United States to the Republic of Santo Domingo in 1871, Commissioner to the Paris Exposition in 1878, and United States Minister to Germany, 1879-1881.  From 1892 to 1874 he was United States Minister to Russia.  He also served on the Venezuela Commission 1896-1897, and was Ambassador to Germany from 1897 to 1902.  He died November 4, 1918.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The White collection consists of microfilm of correspondence and other papers dating from the period when Andrew Dickson White was professor of history and English literature at the University of Michigan, 1857-1867. The correspondence is with colleagues and University of Michigan administrators, and relates to his professional activities and to his life in Ann Arbor.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+
+
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Education--Michigan--Ann Arbor.</subject>
+<geogname source="lcsh" encodinganalog="651">Europe.</geogname>
+<persname source="lcnaf" encodinganalog="600">Evans, E. P. (Edward Payson), 1831-1917.</persname>
+<corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
+<geogname source="lcsh" encodinganalog="651">Russia.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Stanford University.</corpname>
+<subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
+<persname source="lcnaf" encodinganalog="600">Tyler, Moses Coit, 1835-1900.</persname>
+<subject source="lcsh" encodinganalog="650">Universities and colleges--United States.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Chicago.</corpname>
+
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Adams, Charles Kendall, 1835-1902.</persname>
+<persname source="lcnaf" encodinganalog="700">Angell, James Burrill, 1829-1916.</persname>
+<persname source="lcnaf" encodinganalog="700">Bishop, Levi, 1815-1881.</persname>
+<persname source="lcnaf" encodinganalog="700">Brigham, Charles Henry, 1820-1879.</persname>
+<persname source="lcnaf" encodinganalog="700">Brooks, Datus C.</persname>
+<persname source="lcnaf" encodinganalog="700">Brünnow, F. (Franz), 1821-1891.</persname>
+<persname source="lcnaf" encodinganalog="700">Campbell, James V. (James Valentine), 1823-1890.</persname>
+<persname source="lcnaf" encodinganalog="700">Christiancy, Isaac Peckham, 1812-1890.</persname>
+<persname source="lcnaf" encodinganalog="700">Cooley, Thomas McIntyre, 1824-1898.</persname>
+<persname source="lcnaf" encodinganalog="700">Dubois, Elizabeth E.</persname>
+<persname source="lcnaf" encodinganalog="700">Ford, Corydon L. (Corydon La), 1813-1894.</persname>
+<persname source="lcnaf" encodinganalog="700">Frieze, Henry S. (Henry Simmons), 1817-1889.</persname>
+<persname source="lcnaf" encodinganalog="700">Haven, E. O. (Erastus Otis), 1820-1881.</persname>
+<persname source="lcnaf" encodinganalog="700">Sinclair, William.</persname>
+<persname source="lcnaf" encodinganalog="700">Tappan, Henry Philip, 1805-1881.</persname>
+<persname source="lcnaf" encodinganalog="700">Tyler, Moses Coit, 1835-1900.</persname>
+<persname source="lcnaf" encodinganalog="700">Watson, James C. (James Craig), 1838-1880.</persname>
+<persname source="lcnaf" encodinganalog="700">Winchell, Alexander, 1824-1891.</persname>
+<persname source="lcnaf" encodinganalog="700">Wood, De Volson, 1832-1897.</persname></controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">January 1857-November 1857</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive">December 1857-May 1860</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">3</container><unittitle><unitdate type="inclusive">June 1860-October 1862</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">4</container><unittitle><unitdate type="inclusive">October 1862-March 1864</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">5</container><unittitle><unitdate type="inclusive">March 1864-December 1865</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">6</container><unittitle> <unitdate type="inclusive">December 1865-November 1866</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">7</container><unittitle><unitdate type="inclusive">November 1866-July 1867</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">8</container><unittitle><unitdate type="inclusive">July 1867-December 1867</unitdate></unittitle></did></c02></c01>
+
+</dsc><descgrp type="add"><index><head>Selective Index to Correspondents</head>
+<indexentry><persname>Adams, Charles Kendall, 1835-1902.</persname><ref><list type="simple"><item>March 30, 1863; December 2, 1863; March 26, 1864</item></list></ref></indexentry>
+<indexentry><persname>Angell, James Burrill, 1829-1916.</persname><ref><list type="simple"><item>October 16, 1867; September 9, 1869</item></list></ref></indexentry>
+<indexentry><persname>Bishop, Levi, 1815-1881.</persname><ref><list type="simple"><item>January, 1859; July 12, 1861; January 16, 1866</item></list></ref></indexentry>
+<indexentry><persname>Brigham, Charles Henry, 1820-1879.</persname><ref><list type="simple"><item>September 11, 1865 (about coming to Ann Arbor as Unitarian minister); February 6, 1866; March 22, 1867</item></list></ref></indexentry>
+<indexentry><persname>Brünnow, F. (Franz), 1821-1891.</persname><ref><list type="simple"><item>February 5, 1866</item></list></ref></indexentry>
+<indexentry><persname>Campbell, James V. (James Valentine), 1823-1890.</persname><ref><list type="simple"><item>October 12, 1865</item></list></ref></indexentry>
+<indexentry><persname>Christiancy, Isaac Peckham, 1812-1890.</persname><ref><list type="simple"><item>October 10, 1859</item></list></ref></indexentry>
+<indexentry><persname>Cooley, Thomas McIntyre, 1824-1898.</persname><ref><list type="simple"><item>August 12, 1862; September 16, 1862; November 1862; July 12, 1863 (re. Tappan removal); August 17, 1863 (re. Tappan removal); June 12, 1865 ; September 20, 1865 ; February 18, 1867; September 21, 1867</item></list></ref></indexentry>
+<indexentry><persname>Dubois, Elizabeth E.</persname><ref><list type="simple"><item>July 4, 1861; July 25, 1861 (to Mrs. White with extended description of Ann Arbor during the first summer of the Civil War); May 5, 1864; November 27, 1864; January 10, 1865; February 2, 1865; </item><item>March 20, 1866; April 1866; May 21, 1866; September 23, 1866; January 22, 1867; March 23, 1867; May 11, 1867; September 12, 1867 [?]; October 5, 1867</item></list></ref></indexentry>
+<indexentry><persname>Evans, E. P.</persname><ref><list type="simple"><item>October 27, 1862; May 2, 1867; August 23, 1867; October 20, 1867</item></list></ref></indexentry>
+<indexentry><persname>Ford, Corydon L. (Corydon La), 1813-1894.</persname><ref><list type="simple"><item>October 27, 1863</item></list></ref></indexentry>
+<indexentry><persname>Frieze, Henry S. (Henry Simmons), 1817-1889.</persname><ref><list type="simple"><item>August 10, 1857; June 26, 1858; August 1, 1858; July 26, 1860; August 4, 1860; October 24, 1862; August 22, 1863 ; December 25, 1863; January 27, 1864; February 1, 1864; March 7, 1864; November 17, 1865; </item><item>February 17, 1866; May 31, 1866 ; October 10, 1866; November 7, 1866; November 21, 1866; November 1866; April 5, 1867; June 8, 1867</item></list></ref></indexentry>
+<indexentry><persname>Haven, E. O. (Erastus Otis), 1820-1881.</persname><ref><list type="simple"><item>May 20, 1864; May 20, 1866; December 3, 1866</item></list></ref></indexentry>
+<indexentry><persname>Sinclair, William.</persname><ref><list type="simple"><item>December 6, 1860 </item></list></ref></indexentry>
+<indexentry><persname>Tappan, Henry Philip, 1805-1881.</persname><ref><list type="simple"><item>June 2, 1858; October 15, 1861; August 12, 1861; November 10, 1862; November 13, 1862; February 2, 1863 ; November 15, 1866; January 2, 1867</item></list></ref></indexentry>
+<indexentry><persname>Watson, James C. (James Craig), 1838-1880.</persname><ref><list type="simple"><item>June 15, 1857; October 22, 1860; January 1861; July 4, 1861; July 29, 1862; July 28, 1865; December 2, 1865; December 13, 1865 </item></list></ref></indexentry>
+<indexentry><persname>Winchell, Alexander, 1824-1891.</persname><ref><list type="simple"><item>March 29, 1858; August 11, 1858; August 28, 1858; December 27, 1858; April 2, 1867; April 5, 1867; December 21, 1867</item></list></ref></indexentry>
+<indexentry><persname>Wood, De Volson, 1832-1897.</persname><ref><list type="simple"><item>October 14, 1858; December 22, 1865; September 20, 1866; November 20, 1866</item></list></ref></indexentry>
+</index>
+ 
+</descgrp></archdesc>
+
+</ead>

@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::lombardp.xml//EN" encodinganalog="Identifier">
+umich-bhl-737</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Warren P. Lombard pamphlets and reprints, 1885-1926
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-01-20</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Warren P. Lombard pamphlets and reprints, 1885-1926</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Lombard, Warren P. (Warren Plimpton), 1855-1939.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Warren P. Lombard pamphlets and reprints 
+<unitdate type="inclusive" encodinganalog="245$f">
+1885-1926
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 box
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+[737]  DA 2; L841; P186
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was accumulated from different sources.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Warren P. Lombard pamphlets and reprints, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Warren P. Lombard was a professor of physiology at the University of Michigan.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>This collection of pamphlets and reprints of writings of Warren P. Lombard was accumulated from various sources. The collection has been arranged alphabetically by title.</p>
+</scopecontent>
+
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Pamphlets and Reprints</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alterations in the strength which occur during fatiguing voluntary muscular work. <unitdate type="inclusive">1893</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The blood pressure in the arterioles, capillaries, and small veins of the human skin. <unitdate type="inclusive">1912</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Der Blutdruck in den Kapillaren und kleinen Venen der menschlichen Haut. <unitdate type="inclusive">1911</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Draft of plan to make it easier for medical practitioners to enlist in the army or navy. <unitdate type="inclusive">1917</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The duration of the systole of the left ventricle of man. <unitdate type="inclusive">1926</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The effect of fatigue on voluntary muscular contractions. <unitdate type="inclusive">1890</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Effect of position of body on the length of systole and diastole and rate of pulse in man. <unitdate type="inclusive">1919</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Effect of posture on the length of the systole of the human heart. <unitdate type="inclusive">1919</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Effect of pulse rate on the length of the systoles and diastoles of the normal human heart in the standing position. <unitdate type="inclusive">1919</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Effet de la fatigue sur la contraction muscular volontaire. <unitdate type="inclusive">1890</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Greetings from universities and colleges of the Middle West" in The centennial of Hobart College, 1822-1922. <unitdate type="inclusive">1922</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Henry Sewall and the department of physiology. <unitdate type="inclusive">1909</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Is the "Knee-kick" a reflex act? <unitdate type="inclusive">1887</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The life and work of Carl Ludwig. <unitdate type="inclusive">1916</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The mechanical effects produced by the contraction of individual muscles of the thigh of the frog. <unitdate type="inclusive">1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A method of recording changes in body weight which occur within short intervals of time. <unitdate type="inclusive">1906</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A new form of piston recorder and some of the changes of the volume of the finger which it records. <unitdate type="inclusive">1899</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>On the nature of the knee-jerk. <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Die raumliche und zeitliche aufeinanderfolge reflectorisch contrahirter muskeln. <unitdate type="inclusive">1885</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Re-enforcement and inhibition of nervous processes. <unitdate type="inclusive">1901</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A review of the life of Ludwig. <unitdate type="inclusive">1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Secondary rhythms of the normal heart. <unitdate type="inclusive">1899</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Some of the influences which affect the power of voluntary muscular contractions. <unitdate type="inclusive">1892</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The tendon action and leverage of two-joint muscles of the hind leg of the frog with special reference to the spring movement. <unitdate type="inclusive">1903</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The variations of the normal knee-jerk. <unitdate type="inclusive">1887</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

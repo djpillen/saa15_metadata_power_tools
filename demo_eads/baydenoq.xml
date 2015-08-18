@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::baydenoq.xml//EN" encodinganalog="Identifier">
+umich-bhl-85316</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Bay de Noquet Lumber Company (Nahma, Mich.) records, 1883-1926
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-11-26</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Bay de Noquet Lumber Company (Nahma, Mich.) <lb/>records, 1883-1926</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Bay de Noquet Lumber Company (Nahma, Mich.)
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Bay de Noquet Lumber Company (Nahma, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1883-1926
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+7 oversize volumes
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85316 BB.2 Out. Vol.
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Journals, 1883-1887 and 1890-1892, sales record, 1923-1926, and voucher distribution record, 1916-1919.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were the gift of Charles E. Good (donor no. <num type="donor" encodinganalog="541$e">2907</num>).  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Bay de Noquet Lumber Company (Nahma, Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Bay de Noquet Lumber Company was a lumbering company headquartered in Nahma, Delta County, Michigan.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The records of the company are financial in content and include journals, a cash book, a sales record book, and a record of voucher distribution. Most of the records date from the 1880s.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Business records.</subject>
+<geogname source="lcsh" encodinganalog="651">Delta County (Mich.).</geogname>
+<subject source="lcsh" encodinganalog="650">Logging--Michigan--Delta County.</subject>
+<subject source="lcsh" encodinganalog="650">Lumbering--Michigan--Delta County.</subject>
+<geogname source="lcsh" encodinganalog="651">Nahma (Mich.).</geogname>
+
+</controlaccess>
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Business records</unittitle></did>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">1</container><unittitle>Journal, <unitdate type="inclusive">February-November 1883</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">2</container><unittitle>Journal, <unitdate type="inclusive">December 1883-June 1885</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">3</container><unittitle>Journal, <unitdate type="inclusive">July 1885-February 1887</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">4</container><unittitle>Journal, <unitdate type="inclusive">July 1890-November 1892</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">5</container><unittitle>Cash book, <unitdate type="inclusive">1888-1890</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">6</container><unittitle>Sales Record, <unitdate type="inclusive">October 1923-January 1926</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">7</container><unittitle>Voucher Distribution Record, <unitdate type="inclusive">January 1916-May 1919</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,284 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::wojsowsk.xml//EN" encodinganalog="Identifier">
+umich-bhl-2010081</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Anthony Wojsowski papers, 1921-1978
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Olga Virakhovskaya </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2010">
+2010</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2010</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2010-08-06</date>
+        <item>Chanages made with the addition of new material.</item>
+      </change>
+      <change>
+        <date>2010-05-18</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Anthony Wojsowski papers, 1921-1978</titleproper>
+      <author>Finding aid created by<lb /> 
+Olga Virakhovskaya, 2010</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">
+Wojsowski, Anthony.
+</persname>
+      </origination>
+      <unittitle encodinganalog="245">
+Anthony Wojsowski papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1921-1978
+</unitdate><unitdate type="bulk" encodinganalog="245$g">
+1920s-1930s, and 1950s.
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+0.6 linear feet, 1 oversize volume, and 1 oversize folder
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2010081 Aa 2; Ac
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Papers of Anthony Wojsowski, Socialist Party candidate for Congress from the 1st Michigan District in 1948, and General Secretary of Polish-American Labor Council; files relating to the Polish-American Labor Council, the Polish Mechanics Company, and other Polish-American organizations.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload" />
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+This collection was donated by Benjamin Stanczyk (donor no. <num type="donor" encodinganalog="541$e">4196</num>) in 2010.  
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Anthony Wojsowski papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Anthony Wojsowski was also the General Secretary of Polish-American Labor Council. He unsuccessfully ran for the Michigan House of Representative from the 1st Congressional District in 1948 (Democrat George G. Sadowski won the election). Wojsowski was actively involved with the Polish Mechanics Company, Inc., Michigan and Midwest chapters of the Committee for the Protection of Foreign Born, and other Michigan Polish and political organizations.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The collection documents the history and of the Polish-American Labor Council and Polish Mechanics Company, Inc., and other Polish American organizations, as well Anthony Wojsowski's activities.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">American Committee for the Protection of the Foreign Born.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Polish-American Labor Council.</corpname>
+        <subject source="lcsh" encodinganalog="650">Polish Americans--Michigan.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Polish Mechanics Company, Inc.</corpname>
+        <persname source="lcnaf" encodinganalog="600">Sadowski, George Gregory, 1903-1961.</persname>
+        <persname source="lcnaf" encodinganalog="600">Wojsowski, Anthony.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <corpname source="lcnaf" encodinganalog="710">American Committee for the Protection of the Foreign Born.</corpname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Organizational files</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Organizational files series contains correspondence, calendars of events, meeting announcements, addresses, financial documentation, as well as texts of essays and articles on historical and political subjects, newsletters and other printed material of several organizations with which Wojsowski has been involved: the Polish-American Labor Council, the Polish People's University (Polski Uniwesytet Ludowy), Michigan, Midwest, and out of state chapters of the Committee for the Protection of Foreign Born.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Polish-American Labor Council, <unitdate type="inclusive">1942-1976</unitdate>,  <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Polski Uniwersytet Ludowy (Polish People's University), <unitdate type="inclusive">1953-1954</unitdate>, <unitdate type="inclusive">1958 undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Committee for the Protection of Foreign Born, Midwest and Michigan chapters, <unitdate type="inclusive">1951</unitdate>, <unitdate type="inclusive">1958-1959</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Committee for the Protection of Foreign Born, out of state chapters, <unitdate type="inclusive">1940</unitdate>, <unitdate type="inclusive">1954-1956</unitdate>, <unitdate type="inclusive">1958-1959</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Polish Mechanics Company, Inc.</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Polish Mechanics Company, Inc. series contains by-laws, correspondence, financial, and legal documentation, as well as lists of names of stockholders.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Incorporation and by-laws, <unitdate type="inclusive">1923 undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Protocols of meetings, <unitdate type="inclusive">1923-1926</unitdate>, <unitdate type="inclusive">1933</unitdate>, <unitdate type="inclusive">1935</unitdate>, <unitdate type="inclusive">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1922-1925</unitdate><unitdate type="inclusive">1937-1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Legal documents, <unitdate type="inclusive">1923-1925</unitdate>, <unitdate type="inclusive">1935</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Financial documents, <unitdate type="inclusive">1923-1926</unitdate>, <unitdate type="inclusive">1933-1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Authorizations, <unitdate type="inclusive">1921</unitdate>, <unitdate type="inclusive">1923-1924</unitdate>, <unitdate type="inclusive">1935</unitdate>, <unitdate type="inclusive">1948-1949</unitdate>, <unitdate type="inclusive">1954</unitdate>, <unitdate type="inclusive">1956 undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Stockholders, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <physdesc>
+              <extent>3 folders).</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">1</container>
+            <unittitle>General ledger, <unitdate type="inclusive">1920-1923</unitdate></unittitle>
+            <physdesc>
+              <extent>1 volume</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Commemorative album, <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Other materials</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Other materials series contains Wojsowski's personal files relating to Wojsowski's U.S. legal status and travel abroad, dated 1924-1925. George G. Sadowski 78th U.S. Congress election campaign materials, dated mostly 1942, include press releases and endorsements by labor organizations. Included here are speeches and transcripts of interviews from the electoral campaigns of the Communist party congressional candidate Thomas X. Dombrowski, dated mostly 1944 and 1946. Also included here miscellaneous printed materials, outsize printed materials, and newspaper clippings dating between 1941 and 1978.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Personal files, <unitdate type="inclusive">1924-1925</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>George G. Sadowski campaign, <unitdate type="inclusive">1942</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Thomas X. Dombrowski campaign, <unitdate type="inclusive">1944-1946</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellaneous correspondence, <unitdate type="inclusive">1945-1947</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellaneous printed materials, <unitdate type="inclusive">1945</unitdate>, <unitdate type="inclusive">1950</unitdate>, <unitdate type="inclusive">1953</unitdate>, <unitdate type="inclusive">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Newspaper clippings, <unitdate type="inclusive">1941</unitdate>, <unitdate type="inclusive">1945</unitdate>, <unitdate type="inclusive">1949-1950</unitdate>, <unitdate type="inclusive">1952-1953</unitdate>, <unitdate type="inclusive">1957</unitdate>, <unitdate type="inclusive">1959-1960</unitdate>, <unitdate type="inclusive">1963 undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder" label="Oversize Folder">1</container>
+            <unittitle>Miscellaneous printed materials, <unitdate type="inclusive">1941</unitdate>, <unitdate type="inclusive">1944</unitdate>, <unitdate type="inclusive">1948-1951</unitdate>, <unitdate type="inclusive">1969</unitdate>, <unitdate type="inclusive">1976</unitdate>, <unitdate type="inclusive">1978</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

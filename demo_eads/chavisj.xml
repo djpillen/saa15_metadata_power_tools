@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::chavisj.xml//EN" encodinganalog="Identifier">
+umich-bhl-851047</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+John Chavis papers, 1965-1971
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Jennifer Thom</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-12-23</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+John Chavis papers, 1965-1971</titleproper>
+
+<author>Finding aid created by<lb/> 
+Jennifer Thom, 1992</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Chavis, John, 1923-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+John Chavis papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1965-1971
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.25 linear feet (2 boxes)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851047 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Historian and administrator at University of Michigan and Tuskegee Institute. Minutes, reports and correspondence relating primarily to enrollment of black students at University of Michigan, including material concerning his work with the Steering Committee for the Development of Academic Opportunities, the Opportunity Award Program, and the Exchange Program with Tuskegee Institute.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by John Chavis (Donor No. <num type="donor" encodinganalog="541$e">5024</num>) in 1971.  
+</p></acqinfo>
+
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+John Chavis did not been transfer his copyright to the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+John Chavis papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>John Mack Townsley Chavis was a historian and university administrator at the University of Michigan.  Born in Toledo, Ohio, in 1923, Chavis attended Toledo Public Schools and upon graduation enrolled in the Hampton Institute in Hampton, West Virginia. His education was interrupted when he was called into military service, where he served for five years in the U.S. Army. When his term of service was complete, Chavis enrolled at the University of Toledo, where he earned a B.A. in history. Chavis went on to earn several other degrees, including an M.A. in Philosophy at the University of Chicago, an M.A. in history at the University of Detroit, and a Ph.D. in history from Michigan State University.</p>
+
+<p>Chavis served as Coordinator of Special Projects within the Office of the Vice President of Academic Affairs at the University of Michigan from 1965 to 1979, and as an Assistant to the Dean of the Horace H. Rackham School of Graduate Studies from 1970 to 1971.  Before his university appointment in 1965, Chavis served as curator of the Urban History and curator of Education at the Detroit Historical Museum from 1956.  At the university, Chavis was primarily involved with the recruitment of minority students, and acted as director of the Opportunity Awards Program and administrator of the Tuskegee Institute exchange program.  Chavis was active in several committees which related to his interest in equal opportunity in higher education, including the Steering Committee for the Development of Academic Opportunites, the Coordinating Committee on Human Relations, and the Governor's Task Force on Equal Opportunity in Higher Education.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection contains material relating primarily to Chavis' University of Michigan appointments, and his committee work and interest in equal opportunities in higher education for minority students.  The bulk of the collection dates from from 1969 to 1971.  Memoranda and reports from his work on the Governor's Task Force on Equal Opportunity in Higher education, and the Steering Committee for the Development of Academic Opportunity comprise the bulk of the collection.  Also well documented is the Opportunity Awards Program. Several folders on minority enrollment and university recruitment efforts are also in the collection, as well as information on the summer research program for undergraduates and the Fresh Air Camp.</p>
+
+<p>Chavis' non-university activities and interests are also documented.  Articles and reports gathered by Chavis' are located in the collected information file, and Chavis' own writings are found in the Writings folder.  One folder of information relating to Chavis' curator position at the Detroit Historical Museum is found in the Non-University series, as well as newsletters and correspondence from his involvement with the Detroit based social and scholarly organization, The Moors.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
+<persname source="lcnaf" encodinganalog="600">Chavis, John.</persname>
+<corpname source="lcnaf" encodinganalog="610">Tuskegee Institute.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Administration.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Opportunity Award Program.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Steering Committee for the Development of Academic Opportunities.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
+<persname source="lcnaf" encodinganalog="600">Chavis, John.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>University Related Material</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical Information</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Coordinator for Special Projects Position</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Committees</unittitle></did>
+<c03 level="file"><did><unittitle>Governor's Task Force on Equal Opportunity in Higher Education, <unitdate type="inclusive">1965-1967</unitdate></unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Memoranda</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Reports and Studies</unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Steering Committee for the Development of Academic Opportunity, <unitdate type="inclusive">1965-1967</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Coordinating Committee for Human relations, <unitdate type="inclusive">1968-1971</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Committee on Institutional Cooperation</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Programs</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Fresh Air Camps</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Opportunity Awards Program</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1965-1968</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1969-1970</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Meeting agendas and minutes</unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Summer Undergraduate Research Program</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Tuskegee Institute Exchange Program</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Topical Files</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Minority Enrollment</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Recruitment Efforts</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Non-University Material</unittitle></did>
+<c02 level="file"><did><unittitle>Collected Information</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Newspaper Clippings</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Reports and articles</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Detroit Historical Museum</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>The Moors</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Writings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><genreform normal="Photographs">Photograph</genreform> of Chavis with two other University of Michigan staff members</unittitle></did></c02></c01>
+ 
+
+</dsc><descgrp type="add"><relatedmaterial><head>Related Material</head><p>Additional material on the Opportunity Awards Program can be found in the Records of the Vice President for Academic Affairs and in the records of the Opportunity Awards program.</p></relatedmaterial></descgrp></archdesc>
+
+</ead>

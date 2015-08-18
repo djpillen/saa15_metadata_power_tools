@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::vogelwur.xml//EN" encodinganalog="Identifier">
+umich-bhl-2011135</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Vogel’s &amp; Wurster’s records, 1883-1959
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2011">
+2011</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2011</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2011-11-17</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Vogel’s &amp; Wurster’s records, 1883-1959</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Vogel’s &amp; Wurster’s (Chelsea, Mich.)</corpname>
+
+
+</origination>
+
+<unittitle encodinganalog="245">
+Vogel’s &amp; Wurster’s records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1883-1959
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+9 oversize volumes
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2011135 BB Outsize
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were the gift of Jack Winans (donor no. <num type="donor" encodinganalog="541$e">10652</num>) and came to the library in October 2011.  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Vogel’s &amp; Wurster’s records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Vogel's &amp; Wurster's was a Chelsea, Michigan mercantile establishment.  The firm was known as H.S. Holmes Mercantile Company from the 1880s to about 1916.  The firm was then reorganized as Vogel's &amp; Wurster's.  Dallas H. Wurster and Edward Vogel had previously served as secretary and treasurer of the Holmes firm.  Sometime after World War II, the store was renamed Vogel's &amp; Foster's.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Vogel &amp; Wurster business records consists of ledgers, financial journals, and other business records primarily in the period when the firm was known as H.S. Holmes Mercantile Company from the 1880s to about 1916.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">H.S. Holmes Mercantile Company (Chelsea, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Vogel's &amp; Wurster's (Chelsea, Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Clothing trade--Michigan--Chelsea.</subject>
+<geogname source="lcsh" encodinganalog="651">Chelsea (Mich.)--Commerce.</geogname>
+</controlaccess>
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Vogel &amp; Wurster business records</unittitle></did>
+<c02 level="file"><did><container type="volume" label="Volume">1</container><unittitle>Ledger, <unitdate type="inclusive">1933-1959</unitdate> </unittitle></did> </c02>
+<c02 level="file"><did><container type="volume" label="Volume">2</container><unittitle>Journal, <unitdate type="inclusive">1944-1952</unitdate> </unittitle></did> </c02>
+<c02 level="file"><did><container type="volume" label="Volume">3</container><unittitle>Daybook, <unitdate type="inclusive">1947-1951</unitdate> </unittitle></did> </c02>
+<c02 level="file"><did><container type="volume" label="Volume">4</container><unittitle>H.S. Holmes cashbook, <unitdate type="inclusive">1913-1914</unitdate> </unittitle></did> </c02>
+<c02 level="file"><did><container type="volume" label="Volume">5</container><unittitle>H.S. Holmes ledger, <unitdate type="inclusive">1887-1888</unitdate> </unittitle></did> </c02>
+<c02 level="file"><did><container type="volume" label="Volume">6</container><unittitle>H.S. Holmes salesbook, <unitdate type="inclusive">1909-1912</unitdate> </unittitle></did> </c02>
+<c02 level="file"><did><container type="volume" label="Volume">7</container><unittitle>H.S. Holmes index </unittitle></did> </c02>
+<c02 level="file"><did><container type="volume" label="Volume">8</container><unittitle>H.S. Holmes index </unittitle></did> </c02>
+<c02 level="file"><did><container type="volume" label="Volume">9</container><unittitle>H.S. Holmes stockbook, <unitdate type="inclusive">1883-1904</unitdate> </unittitle></did> </c02></c01>
+ 
+
+
+</dsc></archdesc>
+
+</ead>

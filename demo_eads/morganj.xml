@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::morganj.xml//EN" encodinganalog="identifier">umich-bhl-98104</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for James Morgan Papers <date>ca. 1900-1988</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Jack Simpson</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1999</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Jack Simpson<date>November 1998</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>1999-10-31</date><item>converted to new container style</item></change>
+<change><date>19990603</date><item>Original encoding from Word 6.0 file using Word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>James Morgan Papers, <date>c.1900-1988</date></titleproper><author>Finding aid prepared by: <lb/>Jack Simpson</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Morgan, James.</persname></origination>
+<unittitle encodinganalog="245">James Morgan Papers
+<unitdate type="inclusive" encodinganalog="245$f">c.1900-1988</unitdate>
+<unitdate type="bulk" encodinganalog="245$g">1950-1988</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">.5 linear ft.</extent></physdesc>
+<abstract>Member of the Ann Arbor Township Planning Commission; minutes, correspondence, maps and photographs.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">98104 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository encodinganalog="852"><corpname encodinganalog="852"><subarea>Bentley Historical Library </subarea>University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was donated by the Ann Arbor Kiwanis Club (donor no.<num type="donor" encodinganalog="541$e">8712</num>) in April 1998.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., James Morgan Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>James Morgan was a resident of Ann Arbor Township and a member of the Ann Arbor Township Planning Commission.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The James Morgan Papers include minutes, correspondence, maps and photographs. The collection is organized in three series: Ann Arbor Township Planning Commission, Personal, and Photographs. </p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><persname source="lcnaf" encodinganalog="600">Morgan, James.</persname><corpname source="lcnaf" encodinganalog="610">Ann Arbor Township Planning Commission.</corpname></controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head><subject source="lctgm" encodinganalog="650">Butchershops--Michigan.</subject><subject source="lctgm" encodinganalog="650">Railroad employees.</subject></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Ann Arbor Township Planning Commission</unittitle></did><scopecontent><p>The Ann Arbor Township Planning Commission series contains minutes, correspondence and maps relating to the commission's activities in the late 1970s and 1980s. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1979-1985</unitdate></unittitle><physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence and Reports, <unitdate type="inclusive">1981-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Domino's Farm Phase II</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Planning Material, <unitdate type="inclusive">1984-1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings, <unitdate type="inclusive">1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Solent Acres, Ann Arbor Township; Planning Maps, <unitdate type="inclusive">1949-1983</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Personal</unittitle></did><scopecontent><p>The Personal series contains a memorial notice for William Morgan and a letter written by James and Margaret Morgan.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Personal letter and William Morgan memorial notice, <unitdate type="inclusive">1960-1961</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle><genreform>Photographs</genreform></unittitle></did><scopecontent><p>The Photographs series consists two folders of photographs taken or collected by James Morgan. The first folder contains photographs of Morgan's home, family, and vacations, probably in Northern Michigan. The second folder contains several tintype  family portraits, a photograph of the Oscar Lamkin Meat Market in Lodi, Michigan, a photograph of an unidentified group of workers in a rail yard, and an unidentified photograph of a student musical revue.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Family and vacation photographs, c., <unitdate type="inclusive">1945-1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Older family photographs, c., <unitdate type="inclusive">1900-1930</unitdate></unittitle></did></c02></c01></dsc></archdesc></ead>   

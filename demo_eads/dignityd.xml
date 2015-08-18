@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+	<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::dignityd.xml//EN" encodinganalog="identifier">
+umich-bhl-04103
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Dignity/Detroit Records, 1974-2004
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Bentley Historical Library staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2004 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2004</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20041103 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Dignity/Detroit Records, 1974-2004</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Library staff, 2004</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory"  relatedencoding="marc21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Dignity/Detroit.
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Dignity/Detroit Records  
+<unitdate type="inclusive" encodinganalog="245$f">
+1974-2004
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2.3 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+04103 Ba 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Organization established to unite gay Catholics and provide a vehicle through which they might be heard within the Church and by the wider Detroit community. Organizational files; Executive Council and general membership meeting records; and programs and other materials of organization anniversaries, retreats, and other activities.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records came from Dignity/Detroit (donor no. <num type="donor" encodinganalog="541$e">9512</num>) in September 2004.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Dignity/Detroit Records
+, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Dignity Detroit was established in 1974.  Its purpose was to unite gay Catholics and to provide an instrument through which they might be heard by the Church and by the wider Detroit community.  The organization was managed by a Council of Dignity members.  There was also a Board of Directors to serve in an advisory capacity composed of both members and non-members.  Dignity Detroit had four standing committees to serve the needs of members in areas of Spiritual Formation (developing Christian maturity in members), Education (raising consciousness of members to their rights and responsibilities as Catholic Christians and members of society), Social Involvement (primarily concerned with the protections of their civil rights), and Social (social and recreational activities).</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The records of Dignity Detroit include the organization's constitution and articles of incorporation, minutes, correspondence, and other materials documenting its administration and activities. The records have been arranged into the following series: Organizational Files; Executive Council; General Meeting records; and Anniversaries, retreats, and other activities.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Dignity/Detroit.</corpname>
+<subject source="lcsh" encodinganalog="650">Gays--Religious life--Michigan--Detroit.</subject>
+<subject source="lcsh" encodinganalog="650">Catholic gays--Michigan</subject>
+<geogname source="lcsh" encodinganalog="651">Detroit (Mich.)--Church history.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Catholic Church--Michigan--Detroit.</corpname>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Organizational Files</unittitle></did>
+<c02 level="file"><did><unittitle>Dignity, Inc. National Office materials</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Position and purpose, <unitdate type="inclusive">1997</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution and bylaws</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Articles of incorporation</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual reports-Non-Profit Organizations</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Changes in Registered Office or Resident Agent</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitutions</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Tax Exemption Records</unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Executive Council</unittitle></did><note><p>(minutes, correspondence, and related materials)</p></note>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1976-1991</unitdate></unittitle><physdesc><extent>15 folders</extent></physdesc></did><note><p>(some gaps in dates)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1991-2004</unitdate></unittitle><physdesc><extent>12 folders</extent></physdesc></did></c02></c01>
+
+<c01 level="series"><did><unittitle>General Meeting</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1974-1980</unitdate></unittitle><physdesc><extent>1 binder</extent></physdesc></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Anniversaries, retreats, and other activities</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Anniversary booklets, <unitdate type="inclusive">1975-2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Retreats, <unitdate type="inclusive">1984-1989</unitdate></unittitle><physdesc><extent>8 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Retreats, <unitdate type="inclusive">1998-2002</unitdate></unittitle><physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Prayer services, vigils, etc.</unittitle><physdesc><extent>10 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Communication Workshop, <unitdate type="inclusive">1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Relationship Enhancement Seminar, <unitdate type="inclusive">1985</unitdate></unittitle></did></c02></c01>
+
+
+
+</dsc></archdesc>
+
+</ead>

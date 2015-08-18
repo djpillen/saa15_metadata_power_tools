@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::rcar.xml//EN" encodinganalog="identifier">
+umich-bhl-9416
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Michigan Religious Coalition for Abortion Rights Records, 1974-1993
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Lisa B. Hum </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+July 2004 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Lisa B. Hum, 
+<date>1994</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20040728 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Michigan Religious Coalition for Abortion Rights <lb/> Records, 1974-1993</titleproper>
+
+<author>Finding aid created by<lb/> 
+Lisa B. Hum, 1994</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory"  relatedencoding="marc21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Michigan Religious Coalition for Abortion Rights
+</corpname>
+
+</origination>
+<unittitle encodinganalog="245">
+Michigan Religious Coalition for Abortion Rights Records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1974-1993
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+9416 Bj 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Michigan chapter of organization of religious groups devoted to safeguarding access to legal abortion. Administrative files include minutes, financial records, lists, and policy and program committee reports; publicity and outreach files include news releases, clippings, newsletters, and other informational materials. 
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was donated by the Michigan Religious Coalition for Abortion Rights (Donor No. <num type="donor" encodinganalog="541$e">8189</num>) in October 1993.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is closed except with the written permission of the organization's director or chairman of the board, or of the director of the Michigan ACLU.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Michigan Religious Coalition for Abortion Rights Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Religious Coalition for Abortion Rights (RCAR) is a national organization of religious groups which is devoted to safeguarding access to legal abortion. RCAR was formed by leaders from 31 predominantly Protestant and Jewish groups in the wake of the 1973 Roe v. Wade Supreme Court decision which legalized abortion. The Michigan chapter of RCAR was established in June 1975, and members include organizations as well as individual clergy and laypeople. RCAR supports women's right to choose abortion as an expression of religious freedom.  The group believes that it is a violation of women's freedom of religion for the state to impose restrictions on their ability to follow their own conscience and faith regarding abortion. In addition to actively promoting separation of church and state, and freedom of reproductive choice, RCAR encourages sex education and family planning.</p>
+<p>Since the 1970s, members of Michigan RCAR have published newsletters and legislative updates, lobbied in Lansing and Washington, and organized letter writing campaigns, rallies, conferences, and other pro-choice events. The group is a non-profit organization which is run by an Executive Director and Policy Council consisting of representatives from a variety of religious groups. Michigan RCAR relies on donations and the efforts of volunteers to accomplish its goals.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520"><p>The papers of the Michigan Religious Coalition for Abortion Rights are arranged in two series, Administration, and Publicity and Outreach.</p></scopecontent>
+
+
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Abortion--Law and legislation--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Michigan Religious Coalition for Abortion Rights.</corpname>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Administration</unittitle></did><scopecontent><p>The Administration series provides information about Michigan RCAR's internal organization, mainly since the mid-1980s. The minutes from Policy Council and Director's Reports contain yearly summations of the group's activities, and give some sense how priorities were set and activities were planned. The "Policy Council and Affiliated Pro-choice Group Lists" folder provides information about the founding of the Michigan chapter of RCAR in 1975.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bylaws, <unitdate type="inclusive">1986-1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Reports, <unitdate type="inclusive">1986-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Support from Organizations, <unitdate type="inclusive">1987-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes-Policy Council, <unitdate type="inclusive">1985-1988</unitdate></unittitle><physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes and Director's Report, <unitdate type="inclusive">1989-1990</unitdate></unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Policy and Program Committee Reports, <unitdate type="inclusive">1989-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Policy Council and Affiliated Pro-choice Group Lists, <unitdate type="inclusive">1975-1976</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Publicity and Outreach</unittitle></did><scopecontent><p>The Publicity AND Outreach series contains information about the group's public activities, including early publications from RCAR's national office (RCAR Dispatch, RCAR State Letters), Legislative Information Sheets, and the Michigan RCAR newsletter "Choice". The series also includes the organization's press releases and informational handouts, as well as newspaper clippings about the group. The series also contains records of fundraising and publicity events such as the annual State Fair booth and a 1989 Mother's Day celebration.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legislative Alerts, <unitdate type="inclusive">1979-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legislative Information Sheets, <unitdate type="inclusive">1975-1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mother's Day Events, <unitdate type="inclusive">1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>News Releases and Handouts, <unitdate type="inclusive">1974-1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings and Press Releases re: Proposal A, <unitdate type="inclusive">1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings and Letters to the Editor, <unitdate type="inclusive">1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>RCAR Dispatch, <unitdate type="inclusive">1975-1978</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>RCAR State Letters #10-#37, <unitdate type="inclusive">1975-1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>State Fair Booth, <unitdate type="inclusive">1990</unitdate></unittitle></did></c02></c01>
+
+</dsc></archdesc>
+</ead>

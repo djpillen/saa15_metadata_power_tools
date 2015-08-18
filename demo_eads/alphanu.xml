@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::alphanu.xml//EN" encodinganalog="Identifier">
+umich-bhl-8717</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Alpha Nu Literary Society (University of Michigan) Records, 1843-1931
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>July 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-07-17</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Alpha Nu Literary Society<lb/> (University of Michigan) <lb/>Records, 1843-1931</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Alpha Nu Literary Society (University of Michigan)
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Alpha Nu Literary Society (University of Michigan) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1843-1931
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+3 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8717 Bimu F41/2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+University of Michigan student organization established in 1843 for the "intellectual improvement of its members."  Members presented literary papers, held debates, and issued a manuscript periodical entitled "The Sybil." The record group consists of organizational records and “The Sybil.”</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was transferred from the Library of the University of Michigan (donor <num type="donor" encodinganalog="541$e">1278</num>).</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+No copyright restrictions
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Alpha Nu Literary Society (University of Michigan) Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Alpha Nu Literary Society was formed in 1843 by students of the University of Michigan for the intellectual improvement of its members.  The members of the organization debated literary topics, wrote essays which were then read to the group, and issued (in its earlier decades) a manuscript periodical entitled "The Sybil."</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The record group consists of such organizational records as minutes of meetings, constitution and by-laws, treasurer's books, inventories of the Alpha Nu Library, membership book, and scattered correspondents and business papers.  Correspondents in the papers include Lewis Cass, April 1846, Robert McClelland, January 1846, Henry R. Schoolcraft, December 1845,and Ezra C. Seaman.  Also included are volumes of the manuscript periodical, "The Sybil," which date (with several gaps), from 1843 to 1931. Most of "The Sybil" are from the early period of Alpha Nu, 1843 to 1854.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Honorary societies.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Societies, etc.</corpname>
+
+
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Cass, Lewis, 1782-1866.</persname>
+<persname source="lcnaf" encodinganalog="700">McClelland, Robert, 1807-1880.</persname>
+<persname source="lcnaf" encodinganalog="700">Schoolcraft, Henry Rowe, 1793-1864.</persname>
+<persname source="lcnaf" encodinganalog="700">Seaman, Ezra C. (Ezra Champion), 1805-1880.</persname>
+<title>The Sybil</title></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Organizational records</unittitle></did>
+<c02 level="file"><did><unittitle>Correspondence, <unitdate type="inclusive">1845-1850</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1845</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1846-1850</unitdate></unittitle></did></c03></c02>
+
+
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers, <unitdate type="inclusive">1845-1860</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous business papers, <unitdate type="inclusive">1868-1885</unitdate></unittitle></did></c02>
+
+
+
+<c02 level="file"><did><unittitle>Minutes, <unitdate type="inclusive">1859-1923</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1859-1868</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1868-1884</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1884-1900</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1900-1914</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1914-1923</unitdate></unittitle></did></c03></c02>
+
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution and By-Laws, <unitdate type="inclusive">1843</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution and By-Laws, <unitdate type="inclusive">1845</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Revised Constitution and By-Laws, <unitdate type="inclusive">1867</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Revised Constitution and By-Laws, <unitdate type="inclusive">1931</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Membership book, <unitdate type="inclusive">1900-1929</unitdate></unittitle></did></c02>
+
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Treasurer's book, <unitdate type="inclusive">1855-1862</unitdate></unittitle></did>
+
+<c03 level="file"><did><unittitle>Treasurer's book, <unitdate type="inclusive">1855-1862</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Treasurer's book, <unitdate type="inclusive">1862-1881</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Treasurer's book, <unitdate type="inclusive">1885-1890</unitdate></unittitle></did></c03></c02>
+
+
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Account books </unittitle> <physdesc><extent>5 volumes</extent></physdesc></did></c02>
+
+
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Catalogue of the Alpha Nu Library </unittitle> <physdesc><extent>7 volumes</extent></physdesc></did></c02></c01>
+
+
+<c01 level="series"><did><unittitle>Manuscript periodical</unittitle></did>
+
+
+<c02 level="file"><did><unittitle>The Sibyl, <unitdate type="inclusive">1844-1931</unitdate></unittitle></did>
+
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1844-1845</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1846-1850</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1851</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1852</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1853</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1854</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1863</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">March 5, 1910</unitdate>, <unitdate type="inclusive">October 22, 1910</unitdate> and <unitdate type="inclusive">January 21, 1921</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1931</unitdate></unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

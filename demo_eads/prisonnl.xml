@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::prisonnl.xml//EN" encodinganalog="identifier">
+umich-bhl-94161
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Michigan Prison Newsletters, 1969-1991
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Leonard A. Coombs, Sept. 1994</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+June 2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>June 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050630</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Michigan Prison Newsletters, 1969-1991</titleproper>
+
+<author>Finding aid created by<lb/> 
+Leonard A. Coombs, Sept. 1994</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<title source="aacr2" encodinganalog="130">
+Michigan Prison Newsletters
+</title></origination>
+
+<unittitle encodinganalog="245">
+Michigan Prison Newsletters
+<unitdate type="inclusive" encodinganalog="245$f">
+1969-1991 
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+94161 Ca.4b 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Scattered issues of newsletters produced at Michigan prisons.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Chiefly from the records of the American Friends Service Committee, Michigan Area Office (donor <num type="donor" encodinganalog="541$e">4997</num>) with materials from other donors added.
+</p>
+</acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open without restriction.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright status is unclear, it may be held by the authors or creating organization.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Michigan Prison Newsletters, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Michigan Prison Newsletters collection contains scattered issues, not complete runs, for most of these titles.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Prison periodicals.</subject>
+<subject source="lcsh" encodinganalog="650">Prisoners' writings, American--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Adrian Temporary Correctional Facility (Adrian, Mich.)--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Cassidy Lake Technical School--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Charles E. Egeler Correctional Facility (Jackson, Mich.)--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">G. Robert Cotton Regional Correctional Facility (Jackson, Mich.)--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan Dept. of Corrections--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Brooks Regional Correctional Facility (Muskegon, Mich.)--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Florence Crane Women's Facility (Coldwater, Mich.)--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Hiawatha Temporary Correctional Facility (Kincheloe, Mich.)--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Huron Valley Men's Facility (Ypsilanti, Mich.)--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Huron Valley Women's Facility (Ypsilanti, Mich.)--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Ionia Temporary Facility (Ionia, Mich.)--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Kinross Correctional Facility (Kincheloe, Mich.)--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Lakeland Correctional Facility (Coldwater, Mich.)--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">State House of Corrections and Branch of State Prison in Upper Peninsula--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Muskegon Correctional Facility (Muskegon, Mich.)--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">National Lifers of America--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Offender Aid and Restoration of Oakland County--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Prisoners' Progress Association--Periodicals.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Riverside Correctional Facility (Ionia, Mich.)--Periodicals.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Prison Newsletters</unittitle></did>
+<c02 level="file"><did><unittitle>Adrian Temporary Correctional Facility</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Adrian Bulletin</title>, <unitdate type="inclusive">1991</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Cassidy Lake Technical School, Chelsea</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Format</title>, <unitdate type="inclusive">1981-1982</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Charles Egeler Facility, Jackson</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Egeler News</title>, <unitdate type="inclusive">1988-1991</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Cotton Facility, Jackson</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Cotton Focus</title>, <unitdate type="inclusive">1988</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Dept. of Corrections</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Dialogues</title>, <unitdate type="inclusive">1978-1984</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Signal</title>, <unitdate type="inclusive">1988-1990</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>E. C. Brooks Regional Facility, Muskegon</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Guardian</title>, <unitdate type="inclusive">1991</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Florence Crane Women's Facility, Coldwater</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Insight</title>, <unitdate type="inclusive">1988-1991</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Hiawatha Temporary Correctional Facility, Kincheloe</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Insider,</title> <unitdate type="inclusive">1990</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Huron Valley Men's Facility, Ypsilanti</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Huron Valley Monitor</title>, <unitdate type="inclusive">1986-1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Valley West</title>, <unitdate type="inclusive">1986</unitdate>?</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Huron Valley Women's Facility, Ypsilanti</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Determined Action for Women Now</title>, <unitdate type="inclusive">1982-1990</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Ionia Temporary Facility</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Recreation Rap Sheet</title>, <unitdate type="inclusive">1988</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Temporary Times</title>, <unitdate type="inclusive">1988-1989</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Kinross Correctional Facility, Kincheloe</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Link</title>, <unitdate type="inclusive">1990-1991</unitdate> </unittitle></did> <note><p>(2 folders)</p></note></c03></c02>
+<c02 level="file"><did><unittitle>Lakeland Correctional Facility, Coldwater</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Lakeland Pen</title>, <unitdate type="inclusive">1991</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Untitled, <unitdate type="inclusive">1988</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Marquette Branch Prison</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> North Star,</title> <unitdate type="inclusive">1989</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Weekly Progress,</title> <unitdate type="inclusive">1969</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Muskegon Correctional Facility</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Factor</title>, <unitdate type="inclusive">1986-1991</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>National Lifers of America, Huron Valley Women's Facility, Ypsilanti</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes and reports, <unitdate type="inclusive">1982</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>National Lifers of America, Jackson</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Newsletter</title>, <unitdate type="inclusive">1987</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Offender Aid and Restoration of Oakland County, Pontiac</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Oar-Deal</title>, <unitdate type="inclusive">1982-1988</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Prisoners' Progress Association, Jackson</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> In Struggle</title>, <unitdate type="inclusive">1978-1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Inside Out</title>, <unitdate type="inclusive">1975-1978</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Riverside Correctional Facility, Ionia</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Riverside Voice</title>, <unitdate type="inclusive">1978</unitdate></unittitle></did></c03></c02></c01>
+</dsc></archdesc>
+
+</ead>

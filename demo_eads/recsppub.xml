@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::recsppub.xml//EN" encodinganalog="Identifier">
+umich-bhl-97144</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Department of Recreational Sports (University of Michigan) publications, 1976-2000
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created Marilyn M. McNitt, December 1997; Polly Reynolds, January 2007
+</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>20070409</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>20070409</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Department of Recreational Sports <lb/> (University of Michigan)<lb/> Publications, 1976-2000
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Marilyn M. McNitt, December 1997<lb/>  
+Polly Reynolds, January 2007
+
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Department of Recreational Sports
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Department of Recreational Sports (University of Michigan) publications
+<unitdate type="inclusive" encodinganalog="245$f">
+1976-2000
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+97144 Bimu 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Publications of the Department of Recreational Sports at the University of Michigan, includes annual reports, pamphlets and brochures, calendars, manuals such as the Recreational Sports Program and Policy Guide, and schedules such as the Recreational Drop-In Schedule. Also contains manuals from the intramural sports program.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Publications are received periodically from the unit (donor #<num type="donor" encodinganalog="541$e">8287</num>
+).
+ 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>Periodic additions to the records are expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The collection is open without restriction.</p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Department of Recreational Sports (University of Michigan) publications, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Please consult the history found in the finding aid for Department of Recreational Sports (University of Michigan) records.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The PDepartment of Recreational Sports publications (.5 linear foot) includes annual reports, pamphlets and brochures, calendars, manuals such as the Recreational Sports Program and Policy Guide, and schedules such as the Recreational Drop-In Schedule. Also included manuals from the intramural sports program.  Thue Pubications are organized into two two series:  Unit Publications and Sub-Unit Publications.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Recreational Sports.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Sports.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Athletic Dept.</corpname>
+<subject source="lcsh" encodinganalog="650">Intramural sports--Michigan--Ann Arbor.</subject>
+<title source="aacr2" encodinganalog="740">Recreational drop-in schedule.</title>
+<title source="aacr2" encodinganalog="740">Recreational sports program and policy guide.</title>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Annual reports.</genreform>
+<genreform source="aat" encodinganalog="655">Pamphlets.</genreform>
+<genreform source="aat" encodinganalog="655">Calendars.</genreform>
+<genreform source="aat" encodinganalog="655">Manuals.</genreform>
+<genreform source="aat" encodinganalog="655">Schedules (time plans)</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Unit Publications</unittitle></did>
+<scopecontent>
+<p>The Unit Publications subseries includes annual reports covering the years 1976 through 1977 and 1985 through 1991, brochures, and calendars.  Manuals under various titles such as <title render="italic">Intramural and Recreational Sports Handbook</title> (1974-1975), <title render="italic">Recreational Sports Program and Policy</title> (1978-1979), and <title render="italic"> Recreational Sports Program and Policy Guide</title> (scattered issues from 1980 to 1992) date from 1974 to 1992.  They describe the various programs within and the policies of the department.  Schedules for the recreational drop-in programs cover the period from 1977 to 1995.</p></scopecontent>
+<c02 level="file"><did><unittitle>Annual Reports</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1976-1977</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1985-1991</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Brochures, <unitdate type="inclusive">1974-1979</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Calendars</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Recreational Sports Activities Calendar</title>, <unitdate type="inclusive">1979-1980</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Manuals</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Intramural and Recreational Sports for Men and Women,</title> <unitdate type="inclusive">1973-1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Intramural and Recreational Sports Handbook</title>, <unitdate type="inclusive">1975-1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Recreational Sports Handbook</title>, <unitdate type="inclusive">1978-1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle><title render="italic"> Recreational Sports Program and Policy Guide</title></unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1980-1981</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1984-1985</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1988-1989</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1990-1992</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Self-Directed Fitness</title>, <unitdate type="inclusive">1979</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Schedules</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Recreational Drop-In Schedule</title>, <unitdate type="inclusive">1977-1995</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Sub-Unit Publications</unittitle></did>
+<scopecontent>
+<p>The Sub-Unit Publications subseries includes brochures, calendars, manuals, and schedules describing programs within the department.  These include the Challenge Program, the Intramural Program, and the Outdoor Recreation Center.</p></scopecontent>
+<c02 level="file"><did><unittitle>Challenge Program</unittitle></did>
+<c03 level="file"><did><unittitle>Brochures</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Challenge</title>, <unitdate type="inclusive">undated</unitdate></unittitle></did></c04></c03></c02>
+<c02 level="file"><did><unittitle>Intramural Program</unittitle></did>
+<c03 level="file"><did><unittitle>Calendars</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Intramural Calendar of Events</title>, <unitdate type="inclusive">1978-1979</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Manuals</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Intramural Sports Handbook</title>, 1932/1933 1963/1964 1965/1966-1968/1969 and <unitdate type="inclusive">undated</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Intramural Sports Manager's Manual</title>, <unitdate type="inclusive">1983-1984</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Newsletters</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> The IM newsletter</title>, <unitdate type="inclusive">1977</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Rosters</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Hockey, <unitdate type="inclusive">2000</unitdate></unittitle></did></c04></c03></c02>
+<c02 level="file"><did><unittitle>Outdoor Recreation Center</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Brochures, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>Calendars</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Outdoor Recreation Schedule of Events</title>, <unitdate type="inclusive">1993-1994</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Manuals</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Canoeing and Camping:  Guide to Southeastern Michigan</title>, <unitdate type="inclusive">undated</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Schedules</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Rentals,</title> <unitdate type="inclusive">1985</unitdate> and <unitdate type="inclusive">1987-1991</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Schedule of Events</title>, <unitdate type="inclusive">1991-1996</unitdate></unittitle></did></c04></c03></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

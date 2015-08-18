@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::condeans.xml//EN" encodinganalog="Identifier">
+umich-bhl-87126</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Conference of Deans (University of Michigan) records, 1920-1968
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Library Staff.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2006">
+2006</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2006-08-15</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2006-08-15</date>
+        <item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>University Archives and Records Program<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Conference of Deans <lb />(University of Michigan) <lb />Records, 1920-1968
+
+</titleproper>
+      <author>Finding aid created by<lb /> 
+Bentley Library Staff.
+</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Conference of Deans.
+</corpname></origination>
+      <unittitle encodinganalog="245">
+Conference of Deans (University of Michigan) records
+<unitdate type="inclusive" encodinganalog="245$f">
+1920-1968
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+2 linear feet
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+87126 Bimu B31e 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Minutes, 1920-1968, of the Conference of Deans of the University of Michigan.  Also includes Chronological files of agenda, minutes, background documents, etc.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload" /></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The records were received from donors nos. <num type="donor" encodinganalog="541$e">343</num> and <num type="donor" encodinganalog="541$e">1002</num>.
+
+ 
+</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>The record group is open without restriction.</p>
+        <p>
+          <extptr href="uarpacc" show="embed" actuate="onload" />
+        </p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Conference of Deans (University of Michigan) Records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Inaugurated by President Burton in 1920, the conference was an informal organization, meeting weekly, which gave the president and deans a chance to consider problems common to all.  The minutes and associated reports give an overview of the concerns brought before the conference.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>Minutes, 1920-1968, of the Conference of Deans of the University of Michigan.  Also includes Chronological files of agenda, minutes, bulletins to deans, background documents, etc.  An index of the papers (September 1937 -- June 1941) is included.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname encodinganalog="610" source="lcnaf">University of Michigan--Administration.</corpname>
+        <corpname encodinganalog="610" source="lcnaf">University of Michigan. Conference of Deans.</corpname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Minute Books</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">1920-1967</unitdate> </unittitle>
+            <physdesc>
+              <extent>12 volumes</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Chronological Files</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive">1920-1968</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(include agenda, minutes, bulletins to deans, background documents, etc.)</p>
+          </note>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

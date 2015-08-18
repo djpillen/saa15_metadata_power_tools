@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::anarbice.xml//EN" encodinganalog="Identifier">
+umich-bhl-8519</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Ann Arbor Bicentennial Commission records, 1975-1976
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-10-17</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Ann Arbor Bicentennial Commission records, 1975-1976</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Ann Arbor Bicentennial Commission (Ann Arbor, Mich.)
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Ann Arbor Bicentennial Commission records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1975-1976
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8519 Bp 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Minutes, publicity, and project files relating to the city's observance of the nation's bicentennial.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records came from the organization (donor no. <num type="donor" encodinganalog="541$e">5966</num>).  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Ann Arbor Bicentennial Commission records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Ann Arbor Bicentennial Commission was a citizens organization, established with the support of the city government, to plan and implement local events and projects in celebration of the nationâ??s bicentennial.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The record group consists of a single series of organizational records documenting Ann Arborâ??s participation in the nationâ??s bicentennial celebration. Included are minutes of meetings, project files, clippings about events, and other administrative materials.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">American Revolution Bicentennial, 1776-1976.</subject>
+<corpname source="lcnaf" encodinganalog="610">Ann Arbor Bicentennial Commission (Ann Arbor, Mich.)</corpname>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--History.</geogname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Organizational Records, <unitdate type="inclusive">1975-1976</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor Art Association Project</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor Civic Ballet Project</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor Public Schools Musical</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor Symphony -- Summer Series</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>ARBA</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Award Project</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bicentennial message signed by President G.R. Ford</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bur Oak Bicentennial Grove</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>CERBERUS Videotaped oral histories -- project</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Church Tour Project</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Cobblestone Farm Project</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Completed articles and clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Cooperative Extension 4-H Project -- A2 = People X People</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence -- Roster</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Education Committee</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ethnic programming</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Finance Committee</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fourth of  July </unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Girl Scout Heritage Fair</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Huron River Valley Project -- Gallup Park</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Kiwanis Air Show</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Liberty Street Corridor Project</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Bicentennial Commission</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes -- Agendas, <unitdate type="inclusive">1975-1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"My Land" Ireland and America, <unitdate type="inclusive">1776</unitdate> and <unitdate type="inclusive">1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"North Beach Gang vs. the Panama -- Pacific Exposition SF 1914-1915"</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Office Management</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>People to People</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pin Sculpture</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Project Summaries</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Public Hearings -- Town Meetings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Publicity</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Role of Afro-American Citizens in the History and Development of Ann Arbor</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Slide Show</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches -- Flag Day Information</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Student Parent Center for Infants -- project</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Trolley Project</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>U-M Bicentennial</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>U-M Musical Society Americana Presentation</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Veterans Day Parade</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Whitmore Lake Fourth of  July Celebration</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Women of the American Natives Tribes, Inc. project</unittitle></did></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

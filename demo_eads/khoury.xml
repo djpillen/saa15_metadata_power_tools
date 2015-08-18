@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::khoury.xml//EN" encodinganalog="identifier">umich-bhl-03153</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Sari Khoury Papers <date>1960-1999</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Dharma Fowler</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2003</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Dharma Fowler, <date>November 2003</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20031104</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Sari Khoury Papers, <date type="inclusive">1960-1999</date></titleproper><author>Finding aid prepared by: <lb/>Dharma Fowler</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Khoury, Sari, 1941-1997.</persname></origination>
+<unittitle encodinganalog="245">Sari Khoury Papers
+<unitdate type="inclusive" encodinganalog="245$f">1960-1999</unitdate><unitdate type="bulk" encodinganalog="245$g">1970-1990</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">1 linear ft.</extent></physdesc>
+<abstract>Sari Khoury was a Palestinian-American artist and professor at Central Michigan University.  The collection consists primarily of exhibition materials of his shows, and documents related to his work as a professor at CMU.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">03153  Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was donated by Suheila Khoury (donor no. <num type="donor" encodinganalog="541$e">9356</num>) in July 2003.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Suheila Khoury retains copyright to all materials.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Sari Khoury Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Sari Khoury was born on March 13, 1941 in Jerusalem, Palestine.  As a result of continuing war, in 1948 his family moved to Ramallah.  They lived there until 1959 when they emigrated to the United States, to pursue greater educational opportunity for Sari and his siblings.  Sari received his Bachelor of Fine Art from Ohio Wesleyan University in 1963 and his Masters of Fine Art from Cranbrook Academy of Art in 1965.  He taught at Berea College in Berea, Kentucky from 1965-1967.  Sari Khoury was hired as an assistant art professor at Central Michigan University in 1967 and then received tenure in 1972.  He was eventually promoted to department chair and continued to teach at CMU until shortly before his death in 1997 from cancer.  During his life Sari Khoury was a prolific painter, usually in the non-figurative style, and displayed his paintings in galleries in Europe, Japan, and the United States.  He was very involved with Arab-American issues, and participated in many exhibitions and festivals celebrating Arab artists.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The Sari Khoury collection consists primarily of materials related to Khoury's work as a painter and teacher at Central Michigan University.  It is divided into four series:  Biographical, Exhibitions, Photographs, and Topical Files.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><persname source="lcnaf" encodinganalog="600">Khoury, Sari, 1941-1997.</persname><subject source="lcsh" encodinganalog="650">Arab Americans--Michigan.</subject><subject source="lcsh" encodinganalog="650">Artists--Michigan.</subject><corpname source="lcnaf" encodinganalog="610">Central Michigan University--Faculty.</corpname></controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head><persname source="lcnaf" encodinganalog="600">Khoury, Sari, 1941-1997.</persname><subject source="lctgm" encodinganalog="650">Artists--Michigan.</subject><subject source="lcsh" encodinganalog="650">Arab Americans--Michigan.</subject></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Biographical</unittitle></did><scopecontent><p>The Biographical series spans from 1966-1999 and contains newspapers and newsletters, coursework, awards, resumes, and materials collected by his wife, Suheila, after Sari Khoury's death.  They are arranged chronologically.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspapers and newsletters, <unitdate type="inclusive">1966-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Coursework, <unitdate type="inclusive">1961-1966</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Awards, <unitdate type="inclusive">1980-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Resumes and CVs, <unitdate type="inclusive">1974-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>After death, <unitdate type="inclusive">1997-1999</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Exhibitions</unittitle></did><scopecontent><p>The Exhibitions series spans from 1966-1996 and contains flyers, catalogues, letters, and entry forms related to Sari Khoury's art exhibitions.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1966-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1985-1996</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle><genreform source="aat" normal="Photographs">Photographs</genreform></unittitle></did><scopecontent><p>The Photographs series contains one slide and photographs of Sari Khoury and his artwork.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Portraits and informal photographs of SK in studio and at exhibitions</unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Topical Files</unittitle></did><scopecontent><p>The Topical Files series contains materials relating to Sari Khoury's involvement with Arab/Middle-East issues, his work at CMU and Berea College, records of sabbatical work and grant proposals, and correspondences.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Arab related materials, <unitdate type="inclusive">1970-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Berea College, <unitdate type="inclusive">1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sabbatical work and grant proposals, <unitdate type="inclusive">1972-1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Central Michigan University, <unitdate type="inclusive">1967-1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1979-1980</unitdate></unittitle></did></c02></c01></dsc></archdesc></ead>   

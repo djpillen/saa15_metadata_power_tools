@@ -1,0 +1,266 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::baldfcle.xml//EN" encodinganalog="Identifier">
+umich-bhl-85848</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+F. Clever Bald papers, 1917-1919 and 1936-1970
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2009">
+2009</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2009-06-29</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+F. Clever Bald papers, 1917-1919 and 1936-1970</titleproper>
+      <author>Finding aid created by<lb /> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Bald, F. Clever (Frederick Clever), 1897-1970.
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+F. Clever Bald papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1917-1919 and 1936-1970
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+7 linear feet
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85848 Aa 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Professor of history and director of the Michigan Historical Collections at the University of Michigan; professional correspondence, lecture and research notes, speeches, writings, and personal miscellanea.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload" /></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was the gift of F. Clever Bald (donor no. <num type="donor" encodinganalog="541$e">1454</num>).  
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+F. Clever Bald papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>F. Clever Bald, director of the Michigan Historical Collections, professor of history and formerly University War Historian at The University at Michigan, was born in Baltimore, Maryland, August 12, 1897. He received his Bachelor of Arts degree in 1920 from the University of Michigan, his Master of Arts in 1937 from Wayne University, and his Doctor of Philosophy in 1943 from the University of Michigan.</p>
+      <p>Bald taught at the Hudson School, Detroit, from 1922 to 1929, then became headmaster, serving until 1932. He taught at the Detroit Institute of Technology from 1932 to 1943. Bald came to the University of Michigan in 1943 as instructor in the Department of History; he became assistant director of the Michigan Historical Collections in 1947. He became director in 1960 and served until 1966.</p>
+      <p>Bald was a member of many professional organizations, including the American Historical Association, Mississippi Valley Historical Association, Michigan Historical Society, Michigan Academy, Algonquin Club of Detroit, Washtenaw County Historical Society, and American Association for State and Local History.  He was trustee of the Michigan Historical Society (1953-55) and the President of the Society in 1955.  He also is a member of Michigan Civil War Centennial Commission.</p>
+      <p>He was also author of many books and articles and brochures on Michigan history. <title render="italic">Detroit's First American Decade, 1796-1805</title> (1948) and <title render="italic">Michigan in Four Centuries</title> (1954) were titles of two of his monographs.</p>
+      <p>F. Clever Bald died December 12, 1970.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The F. Clever Bald collection includes correspondence, speeches, lecture and research notes, and manuscripts of published and unpublished research writings. Of interest is Bald's manuscript of his "The University of Michigan in World War II." Other World War II materials include completed questionnaires which he sent out to Michigan colleges and universities relating to their activities during the war. There are also letters (1944-1946) received from Chester A. Antiau discussing his work with the U. S. Army Information and Education Service during World War II including comments on conditions in Italy and Germany. Other parts of the collection are the letters he wrote while serving in the 111th Ambulance Company. Other files concern his activities with the Michigan Historical Collections, the Civil War Centennial Observance Commission, and the Algonquin Club of Detroit.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">Algonquin Club (Detroit, Mich.)</corpname>
+        <persname source="lcnaf" encodinganalog="600">Bald, F. Clever (Frederick Clever), 1897-1970.</persname>
+        <geogname source="lcsh" encodinganalog="651">Detroit (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650">Historians--Michigan--Ann Arbor.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Michigan. Civil War Centennial Observance Commission.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Michigan Historical Collections.</corpname>
+        <geogname source="lcsh" encodinganalog="651">Michigan--History.</geogname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of History.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+        <subject source="lcsh" encodinganalog="650">World War, 1939-1945--Education and the war.</subject>
+        <subject source="lcsh" encodinganalog="650">World War, 1939-1945--Michigan--Ann Arbor.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <subject source="lctgm" encodinganalog="650">Adult education.</subject>
+        <subject source="lcsh" encodinganalog="650">Americanization.</subject>
+        <persname source="lcnaf" encodinganalog="600">Bald, F. Clever (Frederick Clever), 1897-1970.</persname>
+        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Mendon.</subject>
+        <subject source="lctgm" encodinganalog="650">Laborers--1921.</subject>
+        <geogname source="lcsh" encodinganalog="651">Mendon (Mich.)</geogname>
+        <corpname source="lcnaf" encodinganalog="610">Studebaker Corporation.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. War historian.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">William L. Clements Library.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">1917-1919</unitdate> and <unitdate type="inclusive">1938-1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive">1955-1966</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>
+              <unitdate type="inclusive">1967-1970</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Miscellaneous</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Algonquin Club materials</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Student evaluations of Bald's classes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Speeches</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Manuscripts of writings</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Civil War Centennial Commission papers</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Papers concerning Michigan in Four Centuries</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Lecture and research notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Lecture and research notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">7</container>
+            <unittitle>"History of the University f Michigan in World War II"</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">7</container>
+            <unittitle>Research notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">7</container>
+            <unittitle>
+              <genreform normal="Photographs">Photographs</genreform>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">7</container>
+            <unittitle>Chester J. Antiau correspondence, <unitdate type="inclusive">1944-1946</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+    <descgrp type="add">
+      <relatedmaterial>
+        <head>Related Material</head>
+        <p>F. Clever Bald's files as director of the Michigan Historical Collections will be found in the records of the Bentley Historical Library.</p>
+      </relatedmaterial>
+    </descgrp>
+  </archdesc>
+</ead>

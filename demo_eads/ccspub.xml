@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::ccspub.xml//EN" encodinganalog="Identifier">
+umich-bhl-9742</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Center for Chinese Studies (University of Michigan) Publications, 1969-2006
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Marilyn McNitt, Polly Reynolds </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+XX</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2006-07-14</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20070404</date><item>updated</item></change>
+<change><date>2006-07-14</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Center for Chinese Studies <lb/>(University of Michigan) <lb/>Publications, 1969-2006</titleproper>
+
+<author>Finding aid created by<lb/> 
+Marilyn M. McNitt, 1997. <lb/> Polly Reynolds, updated July 2006.
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Center for Chinese Studies.
+
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Center for Chinese Studies (University of Michigan) publications
+<unitdate type="inclusive" encodinganalog="245$f">
+1969-2006</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1983-1997
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9742 Bimu C26 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Miscellaneous Center for Chinese Studies newsletters, student publications, calendars, bibliographies, and brochures. Also contains a set of monographs produced in various series by the center.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Publications are received periodically from the unit.
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506">
+<p>The record group is open without restriction.</p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Center for Chinese Studies (University of Michigan) Publications, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>See history in finding aid for Center for Chinese Studies (Unveristy of Michigan)</p>
+
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Publications series (0.4 linear ft.) is divided into two subseries:  Unit Publications and Student Publications.</p>
+
+<p>The Unit Publications subseries includes bibliographies, publications catalogs, and calendars and flyers describing the brown bag lunch series and the Chinese film series.  This subseries also contains newsletters such as <title render="italic">Center for Chinese Studies</title> and <title render="italic">Alumni News</title>.  The Center for Chinese Studies cooperated with the Center for Japanese Studies to produce the newsletters <title render="italic">CCS-CJS News</title>, <title render="italic">CCS-CJS News Update</title>, and the <title render="italic">East Asian Studies Newsletter</title>.</p>
+
+<p>The Student Publications subseries includes three titles from the late 1960s and early 1970s.  <title render="italic">Ta Tzu Pao</title> was first published in 1969 and continued to be published monthly during the academic year.  Unfortunately, the Bentley Library does not hold a complete run of this publication.  It ceased publication in 1970.  The <title render="italic">Dodder</title> was published in 1970.  The title was changed to <title render="italic">Voices</title> in 1971.  A fourth publication entitled <title render="italic">Spring-Autumn Papers</title> was a graduate student journal published in 1979 and 1980.</p>
+
+<p>Most of these unit and student publications are in English, though there are occasional passages in Chinese.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Center for Chinese Studies.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Center for Japanese Studies.</corpname>
+<genreform source="aat" encodinganalog="655">Newsletters.</genreform>
+<genreform source="aat" encodinganalog="655">Student publications.</genreform>
+<genreform source="aat" encodinganalog="655">Bibliographies.</genreform>
+<genreform source="aat" encodinganalog="655">Brochures.</genreform>
+<genreform source="aat" encodinganalog="655">Calendars.</genreform>
+<title source="aacr2" encodinganalog="730">Michigan abstracts of Chinese and Japanese works on Chinese history.</title>
+<title source="aacr2" encodinganalog="730">Michigan classics in Chinese studies.</title>
+<title source="aacr2" encodinganalog="730">Michigan monographs in Chinese studies.</title>
+<title source="aacr2" encodinganalog="730">Michigan papers in Chinese studies.</title>
+<title source="aacr2" encodinganalog="730">Occasional papers (University of Michigan. Center for Chinese Studies)</title>
+<title source="aacr2" encodinganalog="730">Science, medicine, and technology in East Asia.</title>
+<title source="aacr2" encodinganalog="740">CCS-CJS news.</title>
+<title source="aacr2" encodinganalog="740">CCS-CJS news update.</title>
+<title source="aacr2" encodinganalog="740">Dodder.</title>
+<title source="aacr2" encodinganalog="740">Ta tzu pao.</title>
+<title source="aacr2" encodinganalog="740">Voices.</title>
+
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Publications</unittitle></did>
+
+
+<c02 level="subseries"><did><unittitle>Unit Publications</unittitle></did>
+<c03 level="file"><did><unittitle>Bibliographies</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Guide to Current Research on East Asia</title>, <unitdate type="inclusive">1979</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Calendars</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Brown Bag Lecture Series</title>, <unitdate type="inclusive">1990-2002</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Calendar of Events</title>, <unitdate type="inclusive">1990-1991</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Chinese Film Series</title>, <unitdate type="inclusive">1991-1997</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Catalogs</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Publications Catalogs, <unitdate type="inclusive">1988-1990</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Flyers</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Brown Bag Lecture Series</title>, <unitdate type="inclusive">1989-1992</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Chinese Film Series</title>, <unitdate type="inclusive">1991-2005</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Conferences and Lectures, <unitdate type="inclusive">1992-2004</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c04></c03>
+<c03 level="file"><did><unittitle>Handbooks</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Course description handbook</title>, <unitdate type="inclusive">1985</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Newsletters</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Alumni News</title>, <unitdate type="inclusive">1983</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Center for Chinese Studies</title>, <unitdate type="inclusive">1974-1978</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">CCS news,</title> <unitdate type="inclusive">1978/1979</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">CCS-CJS News</title>, <unitdate type="inclusive">1979-1989</unitdate> </unittitle> <physdesc><extent>11 folders</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">CCS-CJS News Update</title>, <unitdate type="inclusive">1986-1988</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">East Asian Studies Newsletter</title>, <unitdate type="inclusive">1989</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Other</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Chinese and Japanese studies at the University of Michigan</title>, <unitdate type="inclusive">1976</unitdate></unittitle></did></c04></c03></c02>
+
+
+<c02 level="subseries"><did><unittitle>Student Publications</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Dodder</title>, <unitdate type="inclusive">1970</unitdate> [Precedes <title render="italic">Voices</title> ]</unittitle></did></c03>
+<c03 level="file"><did><unittitle><title render="italic">Spring-Autumn Papers</title></unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1979</unitdate> vol. 1, no. 1</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1980</unitdate> vol. 2, no. 1</unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Ta Tzu Pao</title>, <unitdate type="inclusive">1969-1970</unitdate> (3 folders]</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Voices</title>, <unitdate type="inclusive">1971</unitdate> [Supersedes <title render="italic">Dodder</title> ]</unittitle></did></c03></c02></c01>
+
+ 
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

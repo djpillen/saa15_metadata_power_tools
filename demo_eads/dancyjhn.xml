@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::dancyjhn.xml//EN" encodinganalog="Identifier">
+umich-bhl-85120</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+John C. Dancy papers, 1920-1960
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>June 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-06-25</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+John C. Dancy papers, 1920-1960</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Dancy, John C. (John Campbell), 1888-1968.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+John C. Dancy papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1920-1960
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot and 1 oversize volume
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85120 Aa 2; AC</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Executive director of the Detroit Urban League. Correspondence, scrapbook, photographs, and miscellanea concerning personal matters, the work of the Urban League, and the concerns of the black community of Detroit.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The papers came as part of the records received from the Detroit Urban League (donor no. <num type="donor" encodinganalog="541$e">4042</num>). 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+John C. Dancy papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>John C. Dancy was executive director of the Detroit Urban League, serving from 1918 until his retirement in 1960.  Educated at Phillips Exeter Academy in New Hampshire and the University of Pennsylvania, Dancy came to Detroit and to the Urban League in 1918. One of his continuing goals as executive director was to find jobs for African Americans both in the automobile industry and in Detroit's commercial and retail establishments. In addition, Dancy involved himself in the community in other ways, as a member of the Detroit House of Correction Commission, as secretary-treasurer of Parkside Hospital, as a member of the Metropolitan Area Planning Commission, and as recording secretary of the Detroit Council of Churches.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of personal correspondence, a scrapbook documenting in part his career as executive director of the Detroit Urban League, and scattered photographs. There is also the transcript of an oral history interview of John Dancy made in 1964.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Detroit Urban League.</corpname>
+<subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
+
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lcsh" encodinganalog="650">African Americans--Michigan--Detroit.</subject>
+<subject source="lctgm" encodinganalog="650">Banquets.</subject>
+<persname source="lcnaf" encodinganalog="600">Dancy, John C. (John Campbell), 1888-1968.</persname>
+<persname source="lcnaf" encodinganalog="600">Dancy, Malinda W.</persname>
+<geogname source="lcsh" encodinganalog="651">Detroit (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Dwellings.</subject>
+<corpname source="lcnaf" encodinganalog="610">Horace H. Rackham Educational Memorial (Detroit, Mich.)</corpname>
+<subject source="lctgm" encodinganalog="650">Mess halls.</subject>
+<subject source="lctgm" encodinganalog="650">Musicians.</subject>
+
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Personal and biographical material</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous </unittitle></did> <note><p>(include transcript of oral history interview conducted by Marvin Petroelje,  April 10, 1964)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1928-1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1937</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1938</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1939</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1941</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1942</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1943</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1944</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1945</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1946</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1947</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1948</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1950</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1951</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1952-1955</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1956-1958</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1960</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>National Urban League materials</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Loose items from scrapbook </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform>Photographs</genreform> of Dancy, his wife, and associates and friends; also photograph of the Horace H. Rackham Educational Building, Detroit, Michigan</unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">1</container><unittitle><genreform normal="Scrapbooks">Scrapbook</genreform>, <unitdate type="inclusive">1920-1947</unitdate></unittitle> </did> <note><p>(The scrapbook largely concerns the work of John Dancy as covered in the Detroit press (including African American newspapers)</p></note></c02></c01>
+
+
+</dsc><descgrp type="add"><relatedmaterial><head>Related Material</head><p>The library also has an extensive collection of the records of the Detroit Urban League during the period when Dancy was executive director.</p></relatedmaterial></descgrp></archdesc>
+
+</ead>

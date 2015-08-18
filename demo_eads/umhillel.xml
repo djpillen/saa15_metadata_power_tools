@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::umhillel.xml//EN" encodinganalog="Identifier">
+umich-bhl-2009059</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+University of Michigan Hillel records, 1935-2008
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Shelley Hayreh </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2014-10-20</date><item>Change in conditions governing access.</item></change><change><date>2009-05-13</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+University of Michigan Hillel records, 1935-2008</titleproper>
+
+<author>Finding aid created by<lb/> 
+Shelley Hayreh, 2009</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan Hillel.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+University of Michigan Hillel records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1935-2008
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet (in 3 boxes)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2009059 Bimu 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The University of Michigan Hillel records cover the student organization's contribution to Jewish campus life.  The collection consists primarily of calendar of events, newsletters, some correspondence, newspaper clippings, board minutes, brochures, programs, and posters.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was donated January, 2009 by the University of Michigan Hillel (donor number <num type="donor" encodinganalog="541$e">1346</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are expected.
+</p></accruals>
+
+
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research. No use or copying of donor lists for personal or professional gain.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+University of Michigan Hillel records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>In 1926, the University of Michigan Hillel became the 3rd Hillel Foundation established in North America.  The student organization originally went under the name B'nai B'rith Hillel Foundation.  Before moving into a house at 1429 Hill Street, Hillel was situated in two different locations at the University.  However, by 1951, the house on Hill Street became too small to house the growing organization and was replaced by a larger building.  This larger building was then replaced in 1988 with the present Mandell Berman Center.</p>
+
+<p>Over the decades, Hillel has grown to become the second largest student organization at the University of Michigan.  Along with serving the religious needs of the campus Jewish community with kosher meal programs, religious education and holiday services, Hillel has enriched the larger University community through its many political, social and cultural events.  Some Hillel sponsored events include the Hill Street Forum, Hill Street Cinema, Conference on the Holocaust, and Israel Conference Day.</p>
+
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The records of the University of Michigan Hillel cover the period between 1935 and 2008.  The collection consists primarily of calendar of events, newsletters, some correspondence, newspaper clippings, board minutes, brochures, programs, and posters.  The collection contains the following series: Administrative/Background, Scrapbooks, Press/Publications, and Events. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Jewish students--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Jews--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Religion.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan Hillel.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lctgm" encodinganalog="650">Construction--Michigan--Ann Arbor.</subject>
+<geogname source="lcsh" encodinganalog="651">Hill Street (Ann Arbor, Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan Hillel.</corpname>
+<persname source="lcnaf" encodinganalog="600">Zwerdling, Osias.</persname>
+
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Posters.</genreform>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Administrative/Background</unittitle></did><scopecontent><p>Administrative/Background series documents the student organization's history, organizational structure, and early financial activities.  The series contains an annotated chronology, brochures, board minutes, lease agreement, warranty deed, and some correspondence.  The series also includes photographs and material related to the 1951 construction of the University of Michigan Hillel Building on 1429 Hill Street.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hillel Organizational Notebook, <unitdate type="inclusive">1942-1960</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History/Background Material, <unitdate type="inclusive">1940-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legal and Financial Documents, <unitdate type="inclusive">1942-1988</unitdate> </unittitle></did> <note><p>(contains lease agreement, warranty deed, and trust agreement)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>1429 Hill Street Building, <unitdate type="inclusive">1951</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Board Meetings and Minutes, <unitdate type="inclusive">1942</unitdate>, <unitdate type="inclusive">1946</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fundraiser Mailings, <unitdate type="inclusive">2001 undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Scholarship Funds, <unitdate type="inclusive">1945-1974</unitdate> </unittitle></did> <note><p>(<genreform normal="Photographs">Photograph</genreform> of chairperson and scholarship fund founder Osias Zwerdling)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform></unittitle></did><scopecontent><p>Scrapbooks series contains scrapbooks created during the mid 1930s and the early 1940s.  The scrapbooks consist primarily of newspaper clippings, but there are some event programs and correspondence included.  The newspaper clippings document the performances of the Hillel Players, Hillel sponsored symposiums and lectures, as well as national and global concerns related to the Jewish community.  The series also contains the B'nai B'rith Hillel Foundation Log of 1940-41.  Besides containing correspondence dealing with membership issues and announcing upcoming meetings and events, the Foundation Log also includes material from the Ann Arbor Jewish Committee's Refugee Student Campaign.  </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hillel Scrap Book, <unitdate type="inclusive">1936-1937</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hillel Players' Scrap Book, <unitdate type="inclusive">1939</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Loose Material from Hillel Scrap Book, <unitdate type="inclusive">1937</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>B'nai B'rith Hillel Foundation Log, <unitdate type="inclusive">1940-1941</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Hillel Scrap Book, <unitdate type="inclusive">1935-1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Hillel Scrap Book, <unitdate type="inclusive">1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Hillel Players' Scrap Book, <unitdate type="inclusive">1940-1941</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Hillel Players' Scrap Book, <unitdate type="inclusive">1941-1942</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Press/Publications</unittitle></did><scopecontent><p>Press/Publications series includes newspaper clippings, press releases, and newsletters.  The newsletters in this series are published by the University of Michigan Hillel and have been arranged chronologically when dated, however, there are many gaps in the collection.  </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper Clippings, <unitdate type="inclusive">1936-1961</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>News Releases, <unitdate type="inclusive">1961-1963</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Hillel Bulletin</title>, <unitdate type="inclusive">1945</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Friends Newsletter</title>, <unitdate type="inclusive">1990-1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> UM Hillel</title> Newsletter, <unitdate type="inclusive">2000s</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Bulletins and Publications, <unitdate type="inclusive">1941</unitdate>, <unitdate type="inclusive">1988</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Events</unittitle></did><scopecontent><p>Events series reflects the diverse interests and activities of the University of Michigan Hillel.  The series consists of calendar of events, announcements, flyers, programs, and posters.  The past events documented in this series include lectures and performances by Allen Ginsberg, Elie Wiesel, Chris Rock, Dennis Miller and Oliver Stone.  The series also contains programs and posters from the University of Michigan Hillel's Annual Conference on the Holocaust.  The Conference on the Holocaust began in 1979 with the aim of educating the university community about the Holocaust through lectures, film, and artistic presentations representing a variety of perspectives.  </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hillel Calendar of Events, <unitdate type="inclusive">1984-2008</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Event Announcements and Flyers, <unitdate type="inclusive">1940-1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Programs, general, <unitdate type="inclusive">1942-1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Conference on the Holocaust, Programs, <unitdate type="inclusive">1984-2007</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Israel Conference Day, <unitdate type="inclusive">1989-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><genreform normal="Posters">Posters</genreform>, general, <unitdate type="inclusive">1980s-2000s</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><genreform normal="Posters">Posters</genreform>, Annual Conference on the Holocaust, <unitdate type="inclusive">1980s-2000s</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc><descgrp type="add"><relatedmaterial><head>Related Material</head><p>The Bentley Historical Library also has issues of <title render="italic">Hillel News</title>, <title render="italic">Prospect</title>, and <title render="italic">Consider</title>, a weekly non-partisan issues forum at University of Michigan. These materials are separately cataloged. </p></relatedmaterial></descgrp></archdesc>
+
+</ead>

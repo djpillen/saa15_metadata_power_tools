@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::lcmssc.xml//EN" encodinganalog="identifier">umich-bhl-90171</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Evangelical Lutheran Synod of Missouri,  Ohio and Other States. Michigan District. Lutheran Schools Committee Records<date>1920-1924 and 1940</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Thomas E. Powers</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1990</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>August 2000</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>2000-08-01</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Evangelical Lutheran Synod of Missouri, Ohio and Other States.<lb/> Michigan District. Lutheran Schools Committee Records, <date type="inclusive">1920-1924 and 1940</date></titleproper><author>Finding aid prepared by: <lb/>Thomas E. Powers</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="recordgrp" relatedencoding="marc21"><did>
+<origination><corpname source="lcnaf" encodinganalog="110">Evangelical Lutheran Synod of Missouri, Ohio and Other States. Michigan District. Lutheran Schools Committee.</corpname></origination>
+<unittitle encodinganalog="245">Evangelical Lutheran Synod of Missouri, Ohio and Other States. Michigan District. Lutheran Schools Committee Records
+<unitdate type="inclusive" encodinganalog="245$f">1920-1924 and 1940</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">1 linear ft.</extent></physdesc>
+<abstract>Correspondence, mailings, published information, and news clippings relating to 1920 and 1924 ballot proposals that would have abolished parochial schools in Michigan.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">90171 Ba 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository encodinganalog="852"><corpname><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>In 1990, the Michigan District of the Lutheran Church-Missouri Synod (Donor no. <num type="donor" encodinganalog="541$e">7775</num>) allowed the library to copy these records prior to their being deposited in the denominational archives.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The record group is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has not been transferred to the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Evangelical Lutheran Synod of Missouri, Ohio and Other States. Michigan District. Lutheran Schools Committee Records, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>During the elections of 1920 and 1924, there were in Michigan two ballot proposals that would have effectively abolished all private and parochial schools in the state. The first proposal would have made public school attendance compulsory for children between the ages of five and sixteen until they graduated from the eighth grade. The 1924 proposal was similar, with ages of the children affected changed to between seven and sixteen.</p>
+<p>Spearheading the campaign for the passage of the proposals was James Hamilton of Detroit, Michigan, a man who was attempting to capitalize on growing anti-Catholic feeling to bolster his gubernatorial ambitions. The organization through which he worked was called the Wayne County Civic League. Lining up against Hamilton and his supporters were various church and civil libertarian groups. In addition to the Catholic Church, foremost among the churches actively opposing the school amendment was the Michigan District of the Lutheran Church-Missouri Synod which established and orchestrated a campaign to inform and mobilize local churches to the "threat" posed by these amendments to their religious freedom.</p>
+<p>The organizational vehicle that the Lutheran Church used to oppose the "parochial school amendments" was its Lutheran Schools Committee. There were other related groups, but these all seemed directed by the Lutheran Schools Committee, and most of them had similar membership to the LSC. In 1920, the principal Lutheran church groups formed were the Lutheran Campaign Committee and the Campaign Committees for the Defense of Our American Institutions and Our Parochial Schools. The campaign manager of both organizations was the reverend Henry Frincke. The 1920 amendment was defeated by a margin of 2 to 1.</p>
+<p>After the election, no one doubted that the issue would surface again in 1922 and perhaps in 1924. Knowing the value of organization to any successful campaign effort, the Lutherans formed a School Defense Committee within their standing Lutheran Schools Committee with the Reverend John C. Baur as executive secretary. Baur, over the next several months, led the successful opposition to the 1924 ballot proposal (also 1922, although the proposal never made it on the ballot in that election). He was a skilled and tireless campaigner who worked with local pastors throughout the state, organizing rallies and distributing informational tracts. Baur and his Lutheran colleagues devised different administrative units: the Lutheran Campaign Committee, the School Defense Committee, and in 1921, the Lutheran Campaign Committee in Behalf of Christian Day Schools.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The records of the School Defense Committee total one linear foot of correspondence, mailings, published information, clippings, and campaign miscellanea relating to the successful opposition to the 1920 and 1924 ballot proposals that would have abolished parochial schools in Michigan. The record group consists of copies of the originals scheduled to be deposited with the denominational archives.  The files have been grouped into two series: Committee Records and Clippings.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><subject source="lcsh" encodinganalog="650">Church schools--Michigan.</subject><subject source="lcsh" encodinganalog="650">Elections--Michigan--1920.</subject><subject source="lcsh" encodinganalog="650">Elections--Michigan--1924.</subject><corpname source="lcnaf" encodinganalog="610">Evangelical Lutheran Synod of Missouri, Ohio, and Other States. Michigan District.</corpname><corpname source="lcnaf" encodinganalog="610">Evangelical Lutheran Synod of Missouri, Ohio, and Other States. Michigan District. Lutheran Schools Committee.</corpname><geogname source="local" encodinganalog="691">Michigan--Politics and government--1917-1921.</geogname><geogname source="local" encodinganalog="691">Michigan--Politics and government--1922-1928.</geogname></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Committee records</unittitle></did><scopecontent><p>The bulk of the Committee Records series consists of correspondence of John Baur with other Lutheran pastors coordinating their efforts against the school amendments. Most of this correspondence is dated 1921-1922, though some of the letters do date from both the 1920 and 1924 campaigns.</p>
+<p>The most substantive document is a notebook containing minutes of the executive board of the Lutheran Campaign Committee for 1920, as well as minutes of the joint meetings of the Committee of Defense and the Executive Committee in Behalf of Our Christian Day Schools for 1920-1924. These minutes are detailed and offer meaningful insight into the strategy and activities of the Lutheran Church in its defense of its school system.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Historical account of the 1920 campaign, <unitdate type="inclusive">1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notebook containing minutes of the executive board of the Lutheran Campaign Committee, <unitdate type="inclusive">1920</unitdate> and minutes of the joint meetings of the Committee of Defense and the Executive Committee in Behalf of Our Christian Day Schools, <unitdate type="inclusive">1920-1924</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1920-1924</unitdate>  A-Z</unittitle><physdesc><extent>22 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mailings, <unitdate>undated</unitdate>, <unitdate type="inclusive">1920</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mailings, <unitdate type="inclusive">1922-1924</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes and reports (various)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>District information Ballots, petitions, etc.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Published miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellanea</unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Clippings</unittitle></did><scopecontent><p>The clippings are arranged chronologically.  The bulk of them are from the 1924 election.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate>Undated</unitdate> (probably 1920)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1920</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1921</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1922</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1923</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">1924</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Cartoons</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Citizens Committee</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Detroit Citizens League</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Catholic activities</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Dutch and Christian Reformed</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Church Editorials</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Forsythe, Eli</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Hamilton-Jefferson Society</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Lutheran Church</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Methodist Church</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Unfavorable newspaper articles</unittitle></did></c03></c02></c01></dsc></archdesc></ead>   

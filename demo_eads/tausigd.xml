@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::tausigd.xml//EN" encodinganalog="Identifier">
+umich-bhl-9559</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Tau Sigma Delta. Alpha Chapter (University of Michigan)records, 1943-1989
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Ke Lu, August 1995</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2006-11-22</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2006-11-22</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Tau Sigma Delta. Alpha Chapter <lb/>(University of Michigan)<lb/>Records, 
+1943-1989</titleproper>
+
+<author>Finding aid created by<lb/> 
+Ke Lu, August 1995
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Tau Sigma Delta. Alpha Chapter (University of Michigan)
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Tau Sigma Delta. Alpha Chapter (University of Michigan) records<unitdate type="inclusive" encodinganalog="245$f">
+1943-1989
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1943-1980
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9559 Bimu 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>Architecture and allied arts honorary fraternity organized in 1913 at the University of Michigan.
+Michigan chapter and national chapter records including bylaws, correspondence, membership records, manuals and treasurer's records.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The records were received from the fraternity (Donor No.<num type="donor" encodinganalog="541$e">8322</num> ) in January 1995.
+ 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>Periodic additions to the records expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The records are open to research. </p>
+
+
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>Copyright is held by the Board of Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Tau Sigma Delta. Alpha Chapter (University of Michigan) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Tau Sigma Delta, an honorary fraternity for students of architecture and allied arts, was organized in 1913 at the University of Michigan through the efforts of Herbert L. Burgess and three other senior students at the College of Architecture.  After three years of trial, the fraternity gradually expanded to other schools, which elected honor students who were a majority of the way toward a degree in departments allied with architecture and landscape design.  Also, for the continuity of the workings of a chapter from term to term, it became proper to elect from the junior groups who were about to become seniors.  Tau Sigma Delta developed from a senior honor society in architecture and landscape design to a fraternity in architectural engineering, architectural design, landscape design, painting, sculpting, planning, decorative design, interior decoration, and all the arts allied with architecture.</p>
+
+<p>Tau Sigma Delta derived its name from the first letters of each of the words of its motto, "Technicitai Sophoi Kai Dexioi" which translated means "Craftsman, Skilled and Trained."  The purpose of this fraternity is to "further the interests of excellent professionalism and high ethical standards within the professions of architecture and allied arts."</p>
+
+<p>The Michigan Chapter is incorporated under the state laws of Michigan as a "non-profitable" association and educational society.  During the eight decades of the history of Tau Sigma Delta, the Michigan Chapter has been one of the most active members and has played a key role in promoting the interests of this organization.  </p>
+
+<p>The organizational structure of Tau Sigma Delta is  similar to most other fraternities in the United States.  It consists of the Grand Chapter, the Advisory Council, the institutional chapters and the annual meeting.</p>
+
+<p>Today, Tau Sigma Delta has over 30 active member institutions and more than 4,500 members across the country.</p>
+
+
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Tau Sigma Delta record group comprises 2 linear feet but spans a wide range of years from 1943 to 1989.  Since Michigan was the founding member of Tau Sigma Delta, and two Michigan faculty members had served as the Grand Master and Grand Scribe for the honor society from 1960 to 1967, the Tau Sigma Delta (Alpha Chapter) collection contains materials relating to both the local chapter and national chapter.  The collection has been divided into two series: the Michigan Chapter and the Natiomal Chapter.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname encodinganalog="610" source="lcnaf">Tau Sigma Delta. |b Alpha Chapter (University of Michigan).</corpname><corpname encodinganalog="610" source="lcnaf">University of Michigan. |b College of Architecture and Urban Planning.</corpname><corpname encodinganalog="610" source="lcnaf">University of Michigan |x Students |x Societies, etc.</corpname>
+
+
+</controlaccess>
+
+
+
+
+
+
+
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Michigan Chapter</unittitle></did>
+<scopecontent><p>The Michigan chapter series consists of three files: Correspondence, Membership Information and Treasurer's Reports.  </p>
+
+<p>Correspondence, 1943-1989, (4 folders) includes correspondence of the Michigan (Alpha) Chapter with the Grand Chapter and with other local chapters.  It not only documents day-to-day activities of the Michigan Chapter but also reflects the leadership role it has played in the society.  Materials are arranged chronologically.</p>
+
+<p>Membership Information, 1949-1989 (4 folders) consists of membership lists, candidate rosters and recommendations.  The file is arranged chronologically.</p>
+
+<p>Treasurer's Reports, 1936-1983 (2 folders) consists of two parts: the financial records of Tau Sigma Delta-Michigan Chapter and that of Alpha Cho Chi, a professional fraternity affiliated with Tau Sigma Delta.</p>
+</scopecontent><c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1943-1989</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership Information, <unitdate type="inclusive">1949-1989</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Treasurers Reports, <unitdate type="inclusive">1936-1983</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>National Chapter</unittitle></did>
+<scopecontent><p>The National Organization series, has been divided into eight files: Correspondence, Conference Information, Constitutions and Bylaws, Financial Information, Institutional Manuals and Rituals, Membership Information, Newsletters and Reports.</p>
+
+<p>The Correspondence, 1959-1988 (5 folders) is the largest portion in the National Organization series.  It contains the Grand Master's correspondence with local chapters, and with other officers of the Grand Chapter.  Most of the correspondence regards members' nominations, recommendations, conference announcements and installation of new local chapters.  They are important records of the national chapter.  The correspondence file is arranged chronologically.</p>
+
+<p>Conference Information, 1958-1980 (2 folders), consists of minutes of the Tau Sigma Delta annual meetings, the American College of Honor Societies and conference announcements.  Materials are arranged chronologically.</p>
+
+<p>Constitutions and Bylaws, 1952-1985 (2 folders), includes the constitutions, bylaws and regulations of the Tau Sigma Delta national chapter.  Materials in this subseries are arranged chronologically.</p>
+
+<p>The Financial Information file, 1960-1980, consists of annual financial reports, statements and proposed budgets of Tau Sigma Delta.  Materials are arranged in a chronological order.</p>
+
+<p>Instruction Manuals and Rituals, 1975-1988 (2 folders), contains manuals for chapter officers and advisors, regarding the rituals of Tau Sigma Delta local chapter initiations.  Materials are arranged chronologically.</p>
+
+<p>The Membership Information file, 1963-1980 (1 folder and 1 box), consists of candidate lists, membership lists, lists of faculty advisors, a directory of Tau Sigma Delta (1913-1963), plus a file of membership cards.  The file is arranged chronologically (membership cards are arranged in alphabetical order).</p>
+
+<p>Newsletters, 1958-1985 (2 folders) contains the newsletters <title render="italic">Archie</title> (Alpha Rho Chi), <title render="italic">IRAC</title> (Interfraternity Research and Advisory Council), and <title render="italic">Tau Sigma Delta</title>, which was sponsored by the Department of Architecture, University of Kansas, and newspaper clippings.  Materials in this file are arranged chronologically.</p>
+
+<p>The file Reports, 1958-1984 (2 folders) consists of bulletins and annual reports from the Grand Scribe, and special reports on the society's "Pass and Fail System," and on eligibility and admissions.  It also contains summary reports of the Association of College Honor Societies annual meetings and two ACHS photographs (1971 and 1979).  The file is arrangedd chronologically.</p>
+</scopecontent><c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1959-1988</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Conference Information, <unitdate type="inclusive">1958-1980</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitutions and Bylaws, <unitdate type="inclusive">1952-1985</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Information, <unitdate type="inclusive">1960-1980</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Instructional Manuals and Rituals, <unitdate type="inclusive">1975-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Membership Information, <unitdate type="inclusive">1963-1980</unitdate> (1 folder and 1 card box)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Newsletters, <unitdate type="inclusive">1958-1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Reports, <unitdate type="inclusive">1958-1984</unitdate> (3 folders, includes two photographs.)</unittitle></did></c02></c01>
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

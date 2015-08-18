@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::mchd.xml//EN" encodinganalog="identifier">umich-bhl-0099</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Michigan Campaign for Human Dignity Records <date>1992-1994</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Kate Theimer</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">February 2000</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Kate Theimer, <date>February 2000</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>2000-07-26</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Michigan Campaign for Human Dignity<lb/> Records, <date type="inclusive">1992-1994</date></titleproper><author>Finding aid prepared by: <lb/>Kate Theimer</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="recordgrp" relatedencoding="marc21"><did>
+<origination><corpname source="lcnaf" encodinganalog="110">Michigan Campaign for Human Dignity</corpname></origination>
+<unittitle encodinganalog="245">Michigan Campaign for Human Dignity Records
+<unitdate type="inclusive" encodinganalog="245$f">1992-1994</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">0.5 linear ft.</extent></physdesc>
+<abstract>Organization established to oppose potential ballot proposals intended to nulify state and local legislation prohibiting discrimination based on sexual orientation. Minutes, newsletters, and other files documenting the arguments and techniques used by both those promoting and opposing state ballot initiatives limiting protection of the civil rights of lesbians and gay males.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">0099 Bj 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository encodinganalog="852"><corpname><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The record group was received from Affirmations (Donor <num type="donor" encodinganalog="541$e">8909</num>) in December 1999.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The record group is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has not been transferred to the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Michigan Campaign for Human Dignity Records, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>"On November 3, 1992, Colorado voters stunned the nation by approving a state constitutional amendment which prohibited and nullified state and local laws which outlawed discrimination based on sexual orientation.  The Radical Right, buoyed by their victory, announced that they would try to replicate this initiative in several other states in 1994, including Michigan." ("The Initiative," Confidential Campaign Briefing materials, Michigan Campaign for Human Dignity, 1994, Folder: Minutes)  In the same election, the citizens of Oregon defeated a similar measure. In January 1993, representatives from a broad coalition of organizations, as well as interested individuals, founded the Michigan Campaign for Human Dignity (MCHD).  The organization's goal was "to strategically defeat specific ballot measures which would jeopardize present and future equal rights for all Michigan's citizens, specifically the lesbian, gay and bisexual citizens of this state."</p>
+<p>The Michigan Campaign for Human Dignity was incorporated as a 501.C4 political nonprofit organization. It was governed by a Steering Committee made up of two voting representatives from each member organization and five members not representing an organization.  The Steering Committee was a decision-making body only. "Nearly all of the important work of the MCHD is done in and by the various subcommittees, which anyone who supports our cause can join." ("Introduction/Orientation," MCHD, Folder: Coalition Maintenance Subcommittee)  Among these subcommittees were: Coalition Maintenance, Direct Action, Fundraising, Grassroots, Legislative, Opposition Research, Public Relations,  and Security.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>These records were sent to Affirmations by a former member of MCHD who was moving out of the state. Affirmations Lesbian Gay Community Center, founded in 1988, is a community based, direct service agency for the lesbian and gay community in southeastern Michigan.  The records document the arguments and techniques used by both those promoting and those opposing state ballot initiatives (specifically in Michigan, Colorado, and Oregon) to limit the degree to which the civil rights of gay people are protected under the law.  Most of the materials in this collection were created in 1993, and although this collection provides a window into the activities of the MCHD and the organizations it opposed, there are no materials relating to the outcome of its efforts.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><corpname source="lcnaf" encodinganalog="610">Michigan Campaign for Human Dignity.</corpname><subject source="lcsh" encodinganalog="650">Gay rights--Michigan.</subject><subject source="lcsh" encodinganalog="650">Gays--Michigan.</subject><subject source="lcsh" encodinganalog="650">Gays--Legal status, laws, etc.--Michigan.</subject></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Topical file</unittitle></did><scopecontent><p>The record group consists of a single alphabetical topical file.  It has been largely maintained in its original order, with the contents and names of files preserved.  Some of the folders pertain to committees or task forces within the MCHD, such as the Certification Task Force, the Fundraising Subcommittee, and the Security Subcommittee.  The Certification Task Force was responsible for certifying new members and expelling members when necessary. It was also responsible for developing the criteria necessary for certification.  The Coalition Maintenance Subcommittee dealt with outreach, diversity, and conflict resolution between members of the MCHD. In addition to documenting its primary function, the Fundraising Subcommittee folder also reflects the subcommittee's research on laws affecting fundraising for ballot question committees, and contains materials developed by professional fund-raisers Dutton Morehouse &amp; Associates of Bingham Farms, Michigan. Fundraising was a critical activity for the fledgling organization. In a subcommittee report, they noted that "Remember we need to raise over 2 million dollars during the next 14 months. Oregon spent 2.5 million!"</p>
+<p> Other folders, such as Agendas, Minutes Newsletters, and Structure/Bylaws, document the organizational structure and routine activities of the MCHD. In addition, the collection contains background materials on the Colorado and Oregon Initiatives and Responses, as well as material collected to demonstrate the opposition's arguments, located in the Talking Points folder.  The MCHD was active in and supported by several national organizations, and the collection contains materials reflecting assistance from the National Gay &amp; Lesbian Task Force's (the Fight the Right Action Kit) and the Human Rights Campaign Fund, the nation's largest lesbian and gay rights advocacy organization, a non-profit group located in Washington, D.C.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Agendas, <unitdate type="inclusive">1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Certification Task Force, <unitdate type="inclusive">1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Coalition Maintenance Subcommittee, <unitdate type="inclusive">1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Colorado and Oregon Initiatives and Responses, <unitdate type="inclusive">1992-1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Fight the Right" Action Kits (1st and 2nd editions), <unitdate type="inclusive">1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fundraising Subcommittee, <unitdate type="inclusive">1993-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Human Rights Campaign Fund, <unitdate type="inclusive">1992-1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Media Coverage, <unitdate type="inclusive">1992-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1993-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters, <unitdate type="inclusive">1993-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Public Relations, <unitdate type="inclusive">1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Security Subcommittee, <unitdate type="inclusive">1992-1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Structure/By-Laws, <unitdate type="inclusive">1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Talking Points, <unitdate type="inclusive">1993</unitdate></unittitle></did></c02></c01></dsc></archdesc></ead>   

@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::jensenej.xml//EN" encodinganalog="Identifier">
+umich-bhl-0509</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Ejner J. Jensen Papers, 1984-1997
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Adriane Hanson, January 2005</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006-06</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2006-06-04</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-06-04</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Ejner J. Jensen Papers, 1984-1997
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Adriane Hanson, January 2005
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="110">
+Jensen, Ejner J.
+</persname></origination>
+
+<unittitle encodinganalog="245">
+Ejner J. Jensen papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1984-1997
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0509 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Ejner Jensen was a professor in the Department of English at the University of Michigan, from 1964 to 2004.  He was also active in faculty government.  The majority of his papers focus on his involvement in university committees, especially the Senate Advisory Committee on University Affairs (SACUA).
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Collection was donated (donor #<num type="donor" encodinganalog="541$e">9410</num>)in January 2004.
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506">
+<p>The collection is open without restriction.</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Ejner J. Jensen Papers, 1984-1997, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Ejner Jensen was born January 28, 1937 in Omaha, Nebraska.  He received his B.A. from Carlton College (Minnesota) in 1959, and his graduate education from Tulane University (New Orleans, Louisiana), receiving his M.A. in 1960 and Ph.D. in 1965.  He began teaching at the University of Michigan English Department in 1964 as an instructor, and became a professor of English Language and Literature in 1979.  He retired in 2004.</p>
+
+<p>Throughout his career, Jensen actively participated in faculty government.  He was a member of the Senate Advisory Committee on University Affairs (SACUA), and served as its vice-chair from 1991 to 1992 and chair from 1992 to 1993, as well as participating in or chairing several of its committees.  He also served as Special Counsel to the President of the University of Michigan, working to improve administration and faculty relations, and as a member of many committees within the English Department and throughout the University.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The majority of The Ejner Jensen papers focus on his involvement in university committees, especially the Senate Advisory Committee on University Affairs (SACUA).  The Ejner Jensen papers are divided into two series:  Personal and University Committees.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Jensen, Ejner J.</persname>
+<subject source="lcsh" encodinganalog="650">Teacher participation in administration--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Senate. Advisory Committee on University Affairs.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Personal</unittitle></did>
+<scopecontent>
+<p>Personal (0.1 linear feet, 1984-1996) includes biographical material on Jensen and copies of speeches he gave throughout his career.  The biographical material covers his career through 1996.  The speeches (1984-1996) are for commencement and honors convocation activities at the university, as well as English Literature topics.  Also included are photocopies of photographs of six distinguished alumni of the University of Michigan English Department, and accompanying biographical information and a statement on their experience at the university.  </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>English Department Alumni</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches, <unitdate type="inclusive">1984-1996</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>University Committees</unittitle></did>
+<scopecontent>
+<p>The bulk of the collection consists of the University Committees series (0.9 linear feet, 1989-1997).  The papers include meeting minutes, memos and correspondence between committee members, drafts of reports, and Jensen's notes.  Three committees are represented in this collection.  The Organizational Task Force was charged with examining the structure of the university and suggesting improvements.  The Senate Advisory Committee on University Affairs (SACUA) is the executive branch of faculty government.  Most of the papers concern this committee.  The Task Force on the Arts and Undergraduate Education worked to find ways to integrate the arts into undergraduate education.  </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Organizational Task Force, <unitdate type="inclusive">1994-1996</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Senate Advisory Committee on University Affairs (SACUA)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1989-1993</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Department of Population Planning and International Health (PPHI), protesting cuts, <unitdate type="inclusive">1993</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Freedom of Speech and Discriminatory Harassment, <unitdate type="inclusive">1993-1996</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Committee Chair Retreats, <unitdate type="inclusive">1990-1992</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Meeting Minutes, <unitdate type="inclusive">1990-1993</unitdate> </unittitle> <physdesc><extent>11 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Role of Faculty Governance, <unitdate type="inclusive">1993-1996</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Task Force on Faculty Retirement, <unitdate type="inclusive">1989-1995</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Task Force on the Arts and Undergraduate Education, <unitdate type="inclusive">1994-1997</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02></c01>
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

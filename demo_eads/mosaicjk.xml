@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::mosaicjk.xml//EN" encodinganalog="Identifier">
+umich-bhl-2010014</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Mosaic Club (Jackson, Mich.) records, 1886-1962
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+B. Myerowitz </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2010">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2010</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2010-02-17</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Mosaic Club (Jackson, Mich.) records, 1886-1962</titleproper>
+
+<author>Finding aid created by<lb/> 
+B. Myerowitz, 2010</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Mosaic Club (Jackson, Mich.).
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Mosaic Club (Jackson, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1886-1962
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2010014 Bk
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Jackson, Michigan, women’s organization devoted to the mental improvement of its members through lectures and presentations; minutes of club meetings, yearbooks and programs, scrapbooks and miscellaneous other records.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was transferred from the William Clements Library in 2009 (donor no. <num type="donor" encodinganalog="541$e">1333</num>).</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Mosaic Club (Jackson, Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Mosaic Club of Jackson, Michigan was established in 1886 to provide its members with the opportunity to broaden their knowledge through shared study and thought.  Topics for study, assigned to specific members three weeks prior to meetings, included a variety of subjects, for example, literature and history of Rome, famous cathedrals, conservation.  Individual programs were created for each meeting, where members presented their findings in the form of lectures and readings.</p>
+
+<p>The original by-laws allowed for thirty-five members, which included four officers; president, vice-president, secretary, and treasure. Each member paid an initiation fee of $25, and yearly dues of $1.00.  Yearbooks included the topics to be studied and the members assigned to present the results of their study at club meetings.</p>
+
+<p>From 1886 to 1962 the club met twenty times per year on Tuesday at the homes of the members.</p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The records of the Mosaic Club of Jackson, Michigan reflect the activities and interests typical of women's clubs in the late 19th and early 20th century.  The record group has been arranged in into the following series:  Minutes; Yearbooks and Programs; and Other Records.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Jackson (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Mosaic Club (Jackson, Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Jackson--Societies, etc.</subject>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Minutes</unittitle></did><scopecontent><p>Nine volumes of club meeting Minutes, covering several periods of operation from 1886 through 1957, provide a record of club functions and administration.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1886-1889</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1890-1892</unitdate> </unittitle><physdesc><extent>2 volumes in 1 folder</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">March 1892-May 1892</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1899-1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1907-1910</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1910-1914</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1914-1917</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1931-1937</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1945-1957</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Yearbooks and Programs</unittitle></did><scopecontent><p>Yearbooks and Programs contains the majority of the yearbooks created during the history of the Club, with gaps in the later years of the clubs existence, as well as some of the individual programs created for club meetings.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Yearbooks, <unitdate type="inclusive">1986-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Programs, <unitdate type="inclusive">ca. 1888-1911</unitdate> (scattered)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Album entitled "Complete file of Mosaic Club programs from 1886 to date," <unitdate type="inclusive">1886-1923</unitdate> </unittitle></did> <note><p>(includes both yearbooks and programs, and other miscellanea)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Album containing <genreform normal="Photographs">photographs</genreform>, yearbooks, newspaper clippings, <unitdate type="inclusive">ca. 1920-1953</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other Records</unittitle></did><scopecontent><p>Other Records contains bylaws, miscellaneous correspondence, newspaper clippings, photographs, and other papers related to club operations.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Anniversary album, <unitdate type="inclusive">1893</unitdate> containing <genreform normal="Photographs">portraits</genreform> and accounts of meetings </unittitle></did> <note><p>(also later photographs from the 1920s)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Volume containing readings, poetry, and other toasts given on President's Day, <unitdate type="inclusive">March 27, 1932</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>By-laws, <unitdate type="inclusive">1893</unitdate>, <unitdate type="inclusive">1897</unitdate>, <unitdate type="inclusive">1933</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Correspondence, <unitdate type="inclusive">1889-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Clippings, <unitdate type="inclusive">ca. 1890-1942</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Other papers, <unitdate type="inclusive">ca. 1888-1912</unitdate> </unittitle></did> <note><p>(includes treasurers report, memorial booklet, member list, etc.)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><genreform normal="Photographs">Photographs</genreform> of members at meetings and some individual portraits, <unitdate type="inclusive">1889-1931</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

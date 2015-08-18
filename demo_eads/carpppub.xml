@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::carpppub.xml//EN" encodinganalog="identifier">
+umich-bhl-0549</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Career Planning and Placement (University of Michigan) publications, 1977-1993
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Marilyn McNitt, 1993; Updated: Polly Reynolds, 2006 </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>20071122</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20071122</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Career Planning and Placement <lb/>(University of Michigan)<lb/>Publications, 1977-1993
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Marilyn McNitt, 1993; <lb/>updated: Polly Reynolds, 2006
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Career Planning and Placement.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Career Planning and Placement (University of Michigan) publications, 1977-1993
+<unitdate type="inclusive" encodinganalog="245$f">
+1977-1993
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.6 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+0549 Bimu B6 C271 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>Publications produced by the University of Michigan's office of Career Planning and Placement, includes miscellaneous annual reports, brochures, and newsletters. Also includes printed materials regarding the Public Service Intern Program and the Washington Summer Intern Program.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+These records were transferred from the Office of the Vice President for Student Affairs (donor no. <num type="donor" encodinganalog="541$e">5013</num>), 1991.
+
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506">
+<p>The record group is open without restriction.</p>
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Career Planning and Placement (University of Michigan) publications, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+
+
+<scopecontent encodinganalog="520">
+<p>Publications of the Career Planning and Placement Office include annual reports, manuals, newsletters, brochures, material related to workshops, Job Bulletin, 1992-193, as well as printed materials regarding the Public Service Intern Program and the Washington Summer Intern Program.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Career Planning and Placement.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Public Service Intern Program.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Washington Summer Intern Program.</corpname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Annual reports.</genreform>
+<genreform source="aat" encodinganalog="655">Brochures.</genreform>
+<genreform source="aat" encodinganalog="655">Newsletters.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Unit Publications</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Brochures</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Programs and workshops, <unitdate type="inclusive">1983-1992</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Bulletins</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Job bulletin</title>, <unitdate type="inclusive">1992-1993</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Flyers</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Manuals</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Career briefs</title>, <unitdate type="inclusive">1979-1980</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Career planning resource handbook,</title><unitdate type="inclusive">[1988]</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Guide to counseling and student services,</title> <unitdate type="inclusive">1971/1972</unitdate>,  <unitdate type="inclusive">1974/1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Guide to experiential learning</title>, <unitdate type="inclusive">1981-1982</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">LS&amp;A faculty and staff handbook for the University of Michigan Business Intern Program</title>, <unitdate type="inclusive">1980</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Placement manual</title>, <unitdate type="inclusive">1971/1972</unitdate>, <unitdate type="inclusive"> 1977/1978</unitdate>, <unitdate type="inclusive">1979/1980</unitdate>, <unitdate type="inclusive">1985/1986</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Pre-law, <unitdate type="inclusive">1981</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Pre-med, <unitdate type="inclusive">1979-1989</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic">Writing reference letters: a guide for faculty, teaching assistants and staff</title></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous and general</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Newsletters</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic">Interview</title>, <unitdate type="inclusive">1978-1979</unitdate> </unittitle></did> <note><p>(volume 2:no.1, 1978 September; v.2:no.4 1978 April; v.2:no.8, 1978 December-v.2:no.12, 1979 April )</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic">Minority network</title></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic">Pre-med newsletter</title></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Programs</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Career days, <unitdate type="inclusive">1995</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Public Service Intern Program</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Alumni directory, [1984]</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Annual reports, <unitdate type="inclusive">1976-1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Program handbook, <unitdate type="inclusive">1980-1981</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Reports</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic">Annual report</title>, <unitdate type="inclusive">1974/75-1992/93</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic">Factors in employer evaluation of higher education applicants</title>, <unitdate type="inclusive">1980</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic">Follow-up report</title>, <unitdate type="inclusive">1992-1993</unitdate> </unittitle> <physdesc><extent>2 volumes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic">Monthly report</title>, <unitdate type="inclusive">1992-1993</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic">Strategic plan</title>, <unitdate type="inclusive">1992</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Washington Summer Intern Program</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Annual reports, <unitdate type="inclusive">1971-1974</unitdate></unittitle></did></c03></c02></c01>
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

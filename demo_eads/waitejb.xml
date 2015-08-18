@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+    <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+        <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::waitejb.xml//EN" encodinganalog="identifier">umich-bhl-88509 </eadid>
+
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Finding Aid for John Barker Waite papers,1936-1959 </titleproper>
+                <author encodinganalog="creator">Collection processed and finding aid created by Bentley Historical Library Staff</author>
+            </titlestmt>
+
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+                <date encodinganalog="date"> 2005</date>
+            </publicationstmt>
+        </filedesc>
+
+        <profiledesc>
+            <creation>Encoded finding aid created by Greg Kinney, <date>Nov. 2005</date></creation>
+
+            <langusage>The finding aid is written in <language langcode="eng">English</language></langusage>
+        </profiledesc>
+
+        <revisiondesc>
+            <change>
+                <date>20051129</date>
+                <item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+
+    <frontmatter>
+        <titlepage>
+
+            <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+            <titleproper>Finding aid for<lb/> John Barker Waite papers,1936-1959</titleproper>
+
+            <author>Finding aid created by<lb/> Bentley Historical Library Staff</author>
+        </titlepage>
+    </frontmatter>
+
+    <archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21">
+        <did>
+
+            <origination>
+                <persname source="lcnaf" encodinganalog="100"> Waite, John Barker, 1882- </persname>
+            </origination>
+
+            <unittitle encodinganalog="245"> John Barker Waite papers <unitdate type="inclusive" encodinganalog="245$f"> 1936-1959 </unitdate>
+            </unittitle>
+
+            <physdesc><extent encodinganalog="300"> 0.2 linear ft. </extent></physdesc>
+
+            <unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number"> 88509 Aa/2</unitid>
+
+            <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language>
+            </langmaterial>
+
+            <abstract> Professor of law at the University of Michigan. Correspondence with editors and others regarding articles submitted and published in popular and legal journals. </abstract>
+
+
+            <repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+                <extptr href="bhladd" show="embed" actuate="onload"/></repository>
+        </did>
+
+        <descgrp type="admin">
+            <acqinfo encodinganalog="541">
+                <p> Donor no. <num type="donor" encodinganalog="541$e">3952</num></p>
+            </acqinfo>
+
+            <accessrestrict encodinganalog="506">
+                <p> The collection is open to research. </p>
+            </accessrestrict>
+
+            <userestrict encodinganalog="540">
+                <p> Copyright is held by the Regents of the University of Michigan. </p>
+            </userestrict>
+
+
+            <prefercite encodinganalog="524">
+                <p>[item], folder, box, John Barker Waite Papers, Bentley Historical Library, University of Michigan</p>
+            </prefercite>
+        </descgrp>
+
+        <bioghist encodinganalog="545">
+            <p>Graduate of the University of Michigan Law School and later professor of law.</p>
+
+            <p>John Barker Waite was born in Toledo, Ohio, Aug. 14, 1882, the son of Richard and Alice Jane (Voris)Barker. He received an A.B. degree from Yale, 1905 and an LL.B. from the University
+                of Michigan in 1907. He married Harriet Ripley Williams, Aug. 4, 1915 and had one son, Richard Ripley. Waite was admitted Ohio bar, 1907 and practiced at Toledo for five years. He
+                joined the faculty of the University of Michigan Law School in 1912. He was city alderman 1939-1945 and served on the U.S. Supreme Court commission to revise rules 1941-1945. Waite was
+                the author of numerous books, including: <title render="italic">Patent Law</title>, 1920; <title render="italic">The Law of Sales</title>, 1921; <title render="italic">Cases on the Law
+                    of Patents</title>, 1924; <title render="italic">Cases on Criminal Law and Procedure</title>, 1931; <title render="italic">Criminal Law in Action</title>, 1934; <title
+                    render="italic">Waite on Sales</title>, 1938; and <title render="italic">The Prevention of Repeated Crime</title>, 1943. He was editor in chief <title render="italic">Michigan Law
+                    Review</title> (monthly), 1921-31.</p>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <p>The John B. Waite papers are consist of correspondence with editors and others regarding articles submitted and published in popular and legal journals. </p>
+        </scopecontent>
+
+        <controlaccess>
+            <p><extptr href="accnote" show="embed" actuate="onload"/></p>
+            <controlaccess>
+                <head>Subjects:</head>
+
+                <subject source="lcsh" encodinganalog="650">Law.</subject>
+                <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+            </controlaccess>
+
+        </controlaccess>
+
+
+        <dsc type="combined">
+
+
+            <c01 level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                </did>
+                <c02 level="file">
+                    <did>
+                        <container type="box" label="Box">1</container>
+                        <unittitle><unitdate type="inclusive">1936-1937</unitdate></unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box" label="Box">1</container>
+                        <unittitle><unitdate type="inclusive">1938-1941</unitdate></unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box" label="Box">1</container>
+                        <unittitle><unitdate type="inclusive">1944-1947</unitdate></unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box" label="Box">1</container>
+                        <unittitle><unitdate type="inclusive">1957-1959</unitdate></unittitle>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+
+</ead>

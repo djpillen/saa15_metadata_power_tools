@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::serrar.xml//EN" encodinganalog="identifier">
+umich-bhl-0595
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Rudy Serra Papers, 1983-1984 and 1991-2002
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Barbara Scanlon and Jennifer Sharp</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Barbara Scanlon and Jennifer Sharp, 
+<date>March 2006</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20091021 </date><item>Changes made with the addition of new material.</item></change><change><date>20060328 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Rudy Serra Papers, 1983-1984 and 1991-2002</titleproper>
+
+<author>Finding aid created by<lb/> 
+Barbara Scanlon and Jennifer Sharp, 2005-2006</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Serra, Rudy
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Rudy Serra papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1983-1984 and 1991-2002
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+0595 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The papers of Rudy Serra are concentrated on his involvement and interest in the revision of city ordinances in Ferndale and Ypsilanti, Michigan, widening the scope of civil rights protection to include sexual orientation.  The collection includes his writings in support of ordinance revision, an article he wrote on sexual orientation and Michigan law, as well as correspondence related to, and press coverage of, the revision process.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Judge Serra (donor no. <num type="donor" encodinganalog="541$e">9597</num>) in 2005 and 2008.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Rudy Serra Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Rudolph A. Serra earned his master's degree at Central Michigan University and his JD at Wayne State University.  He served as a research attorney for the Michigan Court of Appeals, was a Ferndale School Board member and Oakland County Commissioner.  He was president of the Stonewall Bar Association which assists legal professionals with an interest in sexual orientation issues and the law as it relates to gay, lesbian and bisexual people. Serra served as an attorney, counselor, and social worker through his firm Rudolph A. Serra, P.C., specializing in criminal defense, civil rights, health law, mental health, and consumer litigation. Serra was also a licensed social worker with guardian ad litem and other litigation-support experience. Serra served as a Michigan Democratic Party Officer at Large, chair of the MDP's Gay/Lesbian Caucus and co-chair of the MDP's Justice Caucus. Serra was an alternate delegate to the 2000 Democratic National Convention.</p>
+
+<p>Rudy Serra was appointed as Judge of the 36th District Court in Detroit in 2004 by Governor Granholm.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The collection is comprised of four series: Ferndale Civil Rights Ordinance Revision; Ypsilanti Campaign for Equality; Other Litigation; Topical Files; and Writings.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Serra, Rudy.</persname>
+<geogname source="lcsh" encodinganalog="651">Ferndale (Mich.)--Politics and government.</geogname>
+<subject source="lcsh" encodinganalog="650">Gays--Legal status, laws, etc.--Michigan--Ferndale.</subject>
+<geogname source="lcsh" encodinganalog="651">Ypsilanti (Mich.)--Politics and government.</geogname>
+<subject source="lcsh" encodinganalog="650">Gays--Legal status, laws, etc.--Michigan--Ypsilanti.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Ferndale Civil Rights Ordinance Revision, <unitdate type="inclusive">1991</unitdate></unittitle></did><scopecontent><p>The Ferndale Civil Rights Ordinance Revision series includes Judge Serra's writings about the ordinance, notably an article for the Michigan State Bar entitled "Sexual Orientation and Michigan Law."  Other files include correspondence about the ordinance revisions, along with copies of the proposed ordinance revisions.  Clippings from local newspapers covering the story are combined with miscellaneous records.  A videotape of a Ferndale City Council meeting in 1991 features Serra's appearance as well as other public statements both for and against revisions.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Civil Rights Ordinance</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Press and Informational </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notes regarding ordinance</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>VHS <genreform normal="Videotapes">Videotape</genreform> - Ferndale City Council, <unitdate type="inclusive">July 22, 1991</unitdate> </unittitle></did> <note><p>(The first five minutes of tape are of a TV movie, Council coverage begins after 5 minutes, Mr. Serra appears for three minutes at approximately 30 minutes into the tape, coverage continues with further discussion of proposed amendments)</p></note></c02>
+</c01>
+
+
+
+<c01 level="series"><did><unittitle>Ypsilanti Campaign for Equality, <unitdate type="inclusive">2002</unitdate></unittitle></did><scopecontent><p>The Ypsilanti Campaign for Equality series contains copies of court documents pertaining to a ballot proposal that, if passed, would have nullified certain Ypsilanti city ordinances.  These ordinances were originally enacted to protect the civil rights of gays and lesbians in Ypsilanti. The ballot proposal was defeated in the election of November 2002.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Plaintiffs' Response and First Amendment Complaint</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Plaintiffs' Supp. Brief on Remand </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Plaintiffs' Answer to Motion (draft)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Plaintiffs' Supp. Brief Reg. Scope of Prop. Amendment</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Application of Intervenor Defendant </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Plaintiffs' Response Brief</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous briefs </unittitle> <physdesc><extent>1 expandable folder</extent></physdesc></did></c02>
+</c01>
+
+
+
+<c01 level="series"><did><unittitle>Other litigation</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>City of Detroit v. Sukhpreet Singh Garcha </unittitle></did> <note><p>(Serra as judge ruled that defendant, an adherent of the Sikh religion, could wear his Kirpan, an ornamental knife)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Durhal v. Engler, <unitdate type="inclusive">2002</unitdate> </unittitle></did> <note><p>(Rudy Serra was lead counsel in action to force Governor Engler to call a special election in a vacant State House seat for Detroit; election was called and Fred Durhal was elected)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Transgender case (not identified by name)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Triangle Foundation et al v. State Representative Deborah Whyman, <unitdate type="inclusive">1998</unitdate> </unittitle></did> <note><p>(plaintiff had claimed that the Triangle Foundation "has proclaimed its support of sex acts between grown men and boys")</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Topical files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Awards and personal</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Campaign for Wayne State University Board of Governors, <unitdate type="inclusive">1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Ferndale Schools (legal opinion regarding non-discrimination policy), <unitdate type="inclusive">1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>H.B.5000 (legislation providing protection from discrimination based on sexual orientation), <unitdate type="inclusive">1983-1984</unitdate> </unittitle></did> <note><p>(letters and other materials sent to Representative James Dressel, most of the letters were from constituents opposed to the legislation)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>International Association of Official Human Rights Agencies, <unitdate type="inclusive">1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Nichols (Rudy J.), Sixth Judicial Court Judge, <unitdate type="inclusive">1998</unitdate> </unittitle></did> <note><p>(correspondence regarding note in article written by Serra in which there is criticism of "sexual orientation" being eliminated from ethnic intimidation statute)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Oakland County (position of county regarding protection for Gays)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Writings</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>"'Bay a Fag' Operation in Michigan: Police Misconduct, Entrapment and Crimes Against Gay Men"</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>"Inclusion and Credibility: The Basics of Sexual Orientation" <unitdate type="inclusive">2000</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>"Sexual Orientation and Michigan Law" <unitdate type="inclusive">1997</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

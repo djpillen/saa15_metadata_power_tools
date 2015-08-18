@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::copehelg.xml//EN" encodinganalog="Identifier">
+umich-bhl-2013142</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Helen Gibson Cope collection
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Molly Malcolm </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2013">
+2013</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2013</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2013-11-13</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Helen Gibson Cope Collection, 1867-1987</titleproper>
+
+<author>Finding aid created by<lb/> 
+Molly Malcolm, November 2013</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="relatedmaterial" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Cope, Helen Gibson, collector
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Helen Gibson Cope Collection
+<unitdate type="inclusive" encodinganalog="245$f">
+1867-1987
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.0 linear foot (in 2 boxes) and 1 outsize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2013142 Aa 2 AUl
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>Collection of papers related to Jones-McDonald-Gibson-Cope families of Macomb County, Michigan. Genealogical chart, marriage certificate, high school diploma, photographic scrapbook, family correspondence and two different drafts of a compiled history for James Jones and his family descendants, spanning the years 1867 -- 1987. This collection is related to the James Henry McDonald family collection, which is also held at Bentley Historical Library.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Materials received from Ann McDonald Barber, M.D. (donor no.<num type="donor" encodinganalog="541$e">10953</num>) in July 2013.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the collection are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Helen Gibson Cope collection, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>James Jones, born June 29, 1804 in England, immigrated to America in 1832, where he met and married his wife, Elizabeth Funnell, that same year. The family moved to Meade, Michigan, in Macomb County, in 1834. Jones owned 500 acres of property in Michigan and served as the Justice of the Peace in Macomb County from 1862-1866, and again in 1870.</p>
+
+<p>James Jones' daughter, Elizabeth Ann, married Theodore McDonald in 1852 and re-located from Meade to Ann Arbor, Michigan. Elizabeth and Theodore attended University of Michigan and ran a grocery store on Forest Avenue for 45 years. They had four children together whom they raised in Ann Arbor.</p>
+
+<p>One of their daughters, Ann Elizabeth, married Edward B. Gibson in 1887. Ann's brother, James H. McDonald, compiled the family's first genealogical history in 1910, "James Jones Family Record -- Macomb County, Michigan." This record was updated and expanded upon by Ann and Edward's daughter, Helen Gibson Cope, in the 1950s. Helen's account of James Jones' family descendants was revised most recently in 1987 by her nephew Jim Gibson.</p>
+
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The collection contains photographs, genealogical research, a scrapbook, correspondence and memorabilia of James Jones and his family descendants, including Ann Elizabeth McDonald and Helen Gibson Cope, from whom much of this collection originates. Materials span the years 1867-1987, with a genealogical chart created in 1954 and also many undated family photographs. The material is organized into two boxes and the genealogical chart is housed in an outsize folder.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Cope, Helen Gibson.</persname>
+<famname source="lcnaf" encodinganalog="600">Gibson family.</famname>
+<famname source="lcnaf" encodinganalog="600">Jones family.</famname>
+<famname source="lcnaf" encodinganalog="600">McDonald family.</famname>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Genealogy.</geogname>
+<geogname source="lcsh" encodinganalog="651">Macomb County (Mich.)--Genealogy.</geogname>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diplomas.</genreform>
+<genreform source="aat" encodinganalog="655">Genealogical tables.</genreform>
+<genreform source="aat" encodinganalog="655">Marriage certificates.</genreform>
+<genreform source="aat" encodinganalog="655">Photograph albums.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Helen Gibson Cope collection, <unitdate type="inclusive">1867-1987</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>University of Michigan Commencement Book, <unitdate type="inclusive">1930</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>James Jones Family Record, 1804-, Meade, Michigan, booklet <unitdate type="inclusive">1940s</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>James Jones Family of Meade, Michigan, 1804-1987,  booklet by H. G. Cope, updated <unitdate type="inclusive">1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>James Jones family genealogical research and correspondence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous correspondence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>McDonald and Gibson family portraits <unitdate type="inclusive">1867-1905</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Deborah M. Gibson photos, <unitdate type="inclusive">1920</unitdate>, <unitdate type="inclusive">1927</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>McDonald-Gibson family photo album, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Helen Gibson Cope scrapbook, <unitdate type="inclusive">1912-1919</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Framed photograph of Ann Elizabeth Gibson's parents, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Ann Elizabeth McDonald high school diploma, <unitdate type="inclusive">1873</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Ann Elizabeth McDonald marriage certificate, <unitdate type="inclusive">1887</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Helen Gibson, <unitdate type="inclusive">1908</unitdate> junior class photograph, Ann Arbor High</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>School</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">Undated</unitdate> photograph</unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>James and Elizabeth Funnell Jones Family, genealogical chart, by H.G. Cope and drawn by E.T. Cope, <unitdate type="inclusive">1954</unitdate></unittitle></did></c02></c01>
+
+
+</dsc>
+<descgrp type="add"><relatedmaterial><head> Related collections</head><p>McDonald family papers, 1783-1938.</p>
+
+<p>James Henry McDonald photograph collection.</p>
+
+<p>Ogden Jewell scrapbook, 1893-1896.</p>
+
+<p>Class of 1876 (University of Michigan) records.</p>
+
+<p>Mary Alice Williams papers, 1871-1891.</p>
+
+<p>Sarah Drake Smith Fors collection, 1871-2000 (scattered).</p></relatedmaterial>
+</descgrp>
+</archdesc>
+
+</ead>

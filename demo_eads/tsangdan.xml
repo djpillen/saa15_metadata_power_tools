@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::tsangdan.xml//EN" encodinganalog="Identifier">
+umich-bhl-85426</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Daniel Tsang papers, 1970-1978
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-02-03</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Daniel Tsang papers, 1970-1978</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Tsang, Daniel, 1949-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Daniel Tsang papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1970-1978
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85426 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Student at the University of Michigan, member of the Graduate Employees Organization (GEO). Topical files concerning the organization and strike of the GEO in 1975; also papers relating to affirmative action and issues relating to gay University students.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Daniel Tsang (donor no. <num type="donor" encodinganalog="541$e">5727</num>).  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Daniel Tsang papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Daniel Tsang, while a student at the University of Michigan, was also a member of the Graduate Employees Organization (GEO). In this capacity, he participated in the strike of the GEO against the University.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Tsang papers consist of topical files, printed material, and press releases relating to the formation of the Graduate Employees Organization at the University of Michigan and the strike of its members. There are also topical files relating to affirmative action and problems confronting gay University students.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Graduate Employees Organization (University of Michigan).</corpname>
+<subject source="lcsh" encodinganalog="650">Gays--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Strikes and lockouts--College teachers--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">College teachers' unions--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1971-1980.</corpname>
+<persname source="lcnaf" encodinganalog="600">Tsang, Daniel, 1949-</persname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Graduate Employees Organization (GEO) Topical Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Affirmative Action </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>GEO Elections</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gay rights </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Federation of Teachers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Political Science Department</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Stewards Council</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Strike miscellanea</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Printed and press release material</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Open letters and miscellaneous reports</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"The Picketline"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>GEO Bargaining Reports</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"GEO Gazette"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Over the Table"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Under the Table"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Flyers </unittitle> <physdesc><extent>8 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>University of Michigan position papers and press material </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings </unittitle> <physdesc><extent>12 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Topical files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Asian-American Affairs (U-M)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Affirmative Action (University of California)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Michigan Student Assembly</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Veterans Administration Hospital Nurses</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Visit of Gerald Ford to University of Michigan</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Gay Academic Union (GAU) Conference, <unitdate type="inclusive">1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>AFSCME strike, <unitdate type="inclusive">1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Gay rights</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Gays and Washtenaw Venereal Disease program</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Minority students</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Minority students and Administration Building seizure, <unitdate type="inclusive">1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Clericals union</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Chinese-American student publications</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

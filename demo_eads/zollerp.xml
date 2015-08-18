@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::zollerp.xml//EN" encodinganalog="Identifier">
+umich-bhl-750</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+John Zoller America back to God (radio programs), undated
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-01-15</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+John Zoller America back to God <lb/>Radio programs, undated</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Zoller, John, 1889-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+John Zoller America back to God (radio programs) 
+<unitdate type="inclusive" encodinganalog="245$f">
+undated
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+78 items (in 1 box)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+[750] DA 2; Z86; A512
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The provenance of the individual items in this collection is unknown.</p></acqinfo>
+
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+John Zoller America back to God (radio programs), Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>John Zoller was a religious radio broadcaster.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of pamphlets of religious messages broadcast on John Zoller's America Back to God radio program. The collection is arranged alphabetically by title.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Sermons, American.</subject>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>America back to God (radio programs) Detroit, Mich.</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ask and you shall receive!</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>America, repent of your sins.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Atheism, Christianity and the word of God.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The battle of Armageddon.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The Bible and our public schools.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The cause and cure for backsliding.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Christ and the Cross.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Christ and the prodigal son.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Christ calling the lost.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Christ our advocate.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Christ our guide.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Christ our redeemer.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Christ our refuge.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Christ our rock.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Christ our shepherd.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Christ our song</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Christ the conqueror.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Christ's comfort in war.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The coming day of the Lord.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The coming time of peace.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The coming world dictator.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Do you know?</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Forward with Christ.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Four hindrances to answered prayer.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Four secrets of answered prayer.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gambling-its beginning and its end.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>God's cure for worry! Heaven. Will you be there?</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The greatest question ever asked.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The greatest sin in all the world.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>How can I find God?</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>How to find peace.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Life beyond the grave.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The Lord's prayer.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The manhood of the master.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The mirror of God.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Modern life and living.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Overcoming the blues.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The pathway to victory.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The power of prayer.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Praise ye the Lord.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Profanity--its causes and cure.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Redeeming the time"</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Satan and the Battle of Armageddon.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Satan and the Christian's standing.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Satan and the Christian's victory.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Satan and the church.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Satan and the day of the Lord.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Satan and the millennial reign of Christ.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Satan and the world.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Satan and the world dictator.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Satan's final doom.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The second coming of Christ.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The secret of guidance.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The secret of peace.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The secret of power.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sinner, be sorry for your sins!</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sinner, confess your sins!</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sinner, forsake your sins!</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A soldier and his burdens.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The soldier and his chaplain.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A soldier and his companions.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A soldier and his equipment.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A soldier and his father and mother.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A soldier and his fears and worries.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The soldier and his greatest enemy.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The soldier and his greatest friend.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A soldier and his guardian angel.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A soldier and his joys.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The soldier and his protection.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A soldier and his salvation.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A soldier and his search for God.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A soldier and his secrets.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A soldier and his temptations.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A soldier and his wife at home.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A soldier and the drink problem.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A soldier's sweetheart.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Storm clouds of judgment.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The story of the cross.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ten tests for a serviceman who is a Christian.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ten tests for a serviceman who is married.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ten tests for a serviceman who is not a Christian.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ten tests for a serviceman who is single.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Was Jesus Christ the son of God?</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Wake up America! What hath God wrought?</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>What's in a name?</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Why did Christ come to earth?</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The wonders of the Universe.</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

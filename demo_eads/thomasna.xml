@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::thomasna.xml//EN" encodinganalog="Identifier">
+umich-bhl-86178</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Nathan M. Thomas Papers, 1818-1889
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>June 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-06-08</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Nathan M. Thomas Papers, 1818-1889</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Thomas, Nathan M. (Nathan Macy), 1803-1887.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Nathan M. Thomas Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1818-1889
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear ft. (in three boxes) and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86178 Aa 2; UAl
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Quaker abolitionist and physician in Mt. Pleasant, Ohio, and Schoolcraft, Michigan. Correspondence of Thomas, his wife Pamela S. Brown Thomas, and their children; addresses, autobiography, financial ledgers, and files relating to business activities, medical practice, and anti-slavery activities.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Malcolm Thomas (donor no. <num type="donor" encodinganalog="541$e">867</num>) in 1936 and 1939.  The financial daybook and ledgers were donated by Mrs. Gordon Inglehart (donor no. <num type="donor" encodinganalog="541$e">2962</num>) in 1953.  The Thomas autobiography was donated by Mack Thomas (donor no. <num type="donor" encodinganalog="541$e">3355</num>) in 1957.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+No copyright restrictions
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Nathan M. Thomas Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Nathan M. Thomas was born at Mount Pleasant, Jefferson Co., Ohio, on January 2, 1803, the son of Jesse and Avis (Stanton) Thomas, who were devout Quakers.  He studied medicine with local practitioners and at the Medical College of Ohio in Cincinnati.  In June 1830, after practicing medicine a short time in Ohio, he moved to Prairie Ronde and what would later became the village of Schoolcraft, and began a practice which continued without interruption for about twenty five years.  He was married March 17, 1840, to Miss Pamela S. Brown, daughter of Thomas and Sally Brown, of Plymouth, Vermont.  Four children were born to them, two sons and two daughters.  Thomas would live in Schoolcraft until his death in 1887.</p>
+
+<p>Although not belonging and adhering strictly to the Quakers as a sect, Thomas was staunchly opposed to slavery. In 1839, he joined a movement for the establishment of an anti-slavery paper and in 1840, he helped to form the Liberty party.  In 1845, he was the Liberty party candidate for lieutenant governor of Michigan.  In 1854, he was a member of the convention which organized the Republican Party in Jackson, Michigan.  Prior to the abolition of slavery, Thomas's home was a haven for slaves escaping from the South to Canada.  He died April 7, 1887.</p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The collection is divided into two series: Correspondence and Other papers: anti-slavery, medical practice, and family.</p>
+
+<p>The correspondence is of Thomas, his wife Pamela S. Brown Thomas, their children Ella, Malcolm, and Stanton, and relatives, friends, public leaders, abolitionists, and publishers. These letters deal largely with family affairs, land transactions, medical discoveries, woman suffrage, the Liberty Party, and Thomas's anti-slavery activities.  There are also letters of Stanton B. Thomas while a student at the University of Michigan (1859-1864) and Civil War letters of S. B. Thayer, medical director of the Merrill Horse Regiment.  Other Thomas papers include manuscript addresses, essays and other papers; a manuscript autobiography of Thomas; three account books, 1832-1879, pertaining mainly to his medical practice and other business affairs.  Of interest is a prospectus for a newspaper, the<title render="italic">American Freeman</title>, which lists Schoolcraft area subscribers.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Agriculture--United States.</subject>
+<subject source="lcsh" encodinganalog="650">Depressions--1836-1837--United States.</subject>
+<subject source="lcsh" encodinganalog="650">Land use--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Liberty Party (U.S.)</corpname>
+<subject source="lcsh" encodinganalog="650">Medicine--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">Mount Pleasant (Jefferson County, Ohio)</geogname>
+<geogname source="lcsh" encodinganalog="651">Ohio.</geogname>
+<subject source="lcsh" encodinganalog="650">Physicians--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">Schoolcraft (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Antislavery movements--United States.</subject>
+<subject source="lcsh" encodinganalog="650">Women--Suffrage--United States.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Missouri Cavalry, 2nd.</corpname>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Correspondence.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1861-1870.</corpname>
+<subject source="lcsh" encodinganalog="630">American freeman.</subject>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Lyon, Lucius, 1800-1851.</persname>
+<persname source="lcnaf" encodinganalog="700">Birney, James Gillespie, 1792-1857.</persname>
+<persname source="lcnaf" encodinganalog="700">Hussey, Erastus.</persname>
+<persname source="lcnaf" encodinganalog="700">Thayer, S. B.</persname>
+<persname source="lcnaf" encodinganalog="700">Thomas, Jesse O.</persname>
+<persname source="lcnaf" encodinganalog="700">Thomas, Jonathan.</persname>
+<persname source="lcnaf" encodinganalog="700">Thomas, Stanton Brown.</persname>
+<persname source="lcnaf" encodinganalog="700">Treadwell, Seymour Boughton, 1795-1867.</persname></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1818-1889</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>20 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other papers: anti-slavery, medical practice, and family</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ella Thomas's history of Underground Railroad with several pages of Pamela Thomas's History of Anti-Slavery</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Anti-Slavery resolutions, etc. of Liberty Party, <unitdate type="inclusive">1840s</unitdate>: notes, speeches, etc. N. M. Thomas on Anti-Slavery</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History of Anti-Slavery Movement, <unitdate type="inclusive">1839-1842</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Essay on medical subjects</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Business Papers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Manuscripts from "The Evening Journal'' edited by Thomas (probably in Schoolcraft)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ohio publication:<title render="italic">Juvenile Museum</title>, <unitdate type="inclusive">1822</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Medical admission cards, Medical College of Ohio, <unitdate type="inclusive">1827</unitdate> medical license, <unitdate type="inclusive">1828</unitdate> and related</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Memorandum book, <unitdate type="inclusive">1832-1861</unitdate> </unittitle></did> <note><p>(containing accounts of notes due Thomas, Schoolcraft, Kalamazoo, Mich.)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous </unittitle></did> <note><p>(include land grant; carte de visite of Thomas; and letters of others)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Family letters, <unitdate type="inclusive">1835</unitdate> and <unitdate type="inclusive">1841</unitdate> </unittitle></did> <note><p>(originals and photostats)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>List of items removed from Nathan Thomas papers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Biographical Sketch</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Autobiography of Nathan M. Thomas, written in <unitdate type="inclusive">1875</unitdate> and <unitdate type="inclusive">1886</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Day book (medical practice), <unitdate type="inclusive">1834-1838</unitdate> </unittitle></did> <note><p>(include scattered later dates)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Ledgers (medical practice), <unitdate type="inclusive">1832-1879</unitdate> </unittitle> <physdesc><extent>2 volumes</extent></physdesc></did></c02>
+    <c02 level="file"><did><container type="folder" label="Oversize Folder">UAl</container><unittitle>Prospectus of the American Freeman, <unitdate type="inclusive">1838</unitdate></unittitle></did> <note><p>(with names of Schoolcraft area subscribers)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

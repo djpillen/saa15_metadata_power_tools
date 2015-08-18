@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::stewhowe.xml//EN" encodinganalog="Identifier">
+umich-bhl-89308</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Stewart Howe Alumni Service of Michigan records, 1936-1967
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-02-25</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Stewart Howe Alumni Service of Michigan <lb/>Records, 1936-1967</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Stewart Howe Alumni Service of Michigan.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Stewart Howe Alumni Service of Michigan records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1936-1967
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.3 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+89308 Bb 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Organization concerned with the administration of fraternity and sorority publications, fund raising, and membership solicitation. Topical files, newsletters, and general correspondence.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was the gift of the organization (donor no. <num type="donor" encodinganalog="541$e">4701</num>).  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Stewart Howe Alumni Service of Michigan records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Stewart Howe Alumni Service of Michigan was a public relations organization founded by Stewart Howe to assist University of Michigan fraternities and sororities with their publications, fund raising, and membership drives.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The records consist primarily of correspondence and promotional materials for the various fraternities and sororities on the University of Michigan campus. There is also a scattering of the organization's newsletters and correspondence with alumni of the various student groups.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Alumni and alumnae.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Societies, etc.</corpname>
+<subject source="lcsh" encodinganalog="650">Greek letter societies--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor--Societies and clubs.</subject>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Fraternity and Sorority files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Acacia</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alpha Delta Phi</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alpha Kappa Psi </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alpha Sigma Phi</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alpha Tau Omega </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Beta Theta Pi</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Collegiate Sorosis Sorority</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Delta Delta Delta</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Delta Sigma Pi</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Delta Tau Delta</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Delta Upsilon</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gamma Phi Beta</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Kappa Sigma</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lambda Chi Alpha</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Nu Sigma Nu</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Omega Epsilon</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Phi Chi Medical Fraternity</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Phi Beta Pi</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Phi Delta Theta</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Phi Kappa Psi </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Phi Sigma Kappa</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Phi Tau Alpha</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Psi Upsilon </unittitle> <physdesc><extent>10 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sigma Alpha Epsilon</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sigma Alpha Mu</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sigma Chi</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sigma Nu </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sigma Phi Epsilon </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Tau Kappa Epsilon</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Theta Chi </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Theta Xi</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Zeta Psi</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>General correspondence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Fraternity Presidents Retreat</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>SHAS newsletter</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Papers concerning chapter operations</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Correspondence with key fraternity alumni</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Correspondence from other SHAS offices</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>SHAS Miscellaneous</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

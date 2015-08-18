@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::kaganst.xml//EN" encodinganalog="Identifier">
+umich-bhl-2015005</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Steve Kagan photograph collection, 1973-1976
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Greg Kinney, 2015 </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2015">
+2015</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2015</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2014-02-23</date><item>Original encoding from Word 2010 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Steve Kagan photograph collection, 1973-1976</titleproper>
+
+<author>Finding aid created by<lb/> 
+Greg Kinney, 2015</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Kagan, Steve
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Steve Kagan photograph collection
+<unitdate type="inclusive" encodinganalog="245$f">
+1973-1976
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear feet, 1.75 GB
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2015005 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Photos, 1973-1976, by photographer for <title render="italic">The Michigan Daily</title>, University of Michigan student newspaper. Subjects include campus theater, art and music activities and University of Michigan athletics
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Kagan in 2007  (Donor No. <num type="donor" encodinganalog="541$e">9884</num>).  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are currently expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Steve Kagan photograph collection, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Steve Kagan, from Mason, Michigan, attended the University of Michigan from 1972-1976 and worked as a photographer for <title render="italic">The Michigan Daily</title>, 1973-1976.</p>
+
+<p>After leaving<title render="italic">The Daily</title> , Kagan spent five months as an intern at <title render="italic">The Village Voice</title> in New York City and then moved to Chicago where he has worked as a free-lance photographer. His work has appeared frequently in <title render="italic">The Chicago Tribune</title> and other local publications as well as regional and national press.</p>
+
+<p>Kagan's photos were featured in a <title render="italic">New York Times</title> "Week In Review" article on "Mayor Daley's Mark" on Chicago.(9/12/2010,  http://www.nytimes.com/slideshow/2010/09/10/weekinreview/20100912-chicago.html)</p>
+
+<p>Kagan lives in Chicago with his wife Ann Marie Lipnski (Michigan Daily 1973-1977, co-editor 1977, former editor of the <title render="italic">Chicago Tribune</title>). Kagan has served on the Board of Student Publications. </p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Steve Kagan collection consists of  35 mm  black and white negatives selected from his personal of work for the Michigan Daily as well as 76 image he selected and digitized from his <title render="italic">Daily</title> negatives and 15 images chosen from the Bentley's <title render="italic">Michigan Daily</title> records. The digitized images include some concert shots--Aerosmith, Anthony Braxton and 1974 Ann Arbor Jazz and Blues Festival, Hash-Bash and other Diag activities, <title render="italic">Daily</title> offices and staff, Gerald Ford meeting with students at the Michigan League, the 1976 Democratic Convention in NYC, a trip to the Indianapolis 500, and a nice shot of Ann Arbor icon "Shakey Jake." </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess encodinganalog="650"><head>Subjects - Visual Materials:</head>
+
+<persname encodinganalog="600" source="lcnaf">Kagan, Steve</persname><persname source="lcnaf" encodinganalog="600">Braxton, Anthony.</persname><persname source="lcnaf" encodinganalog="600">Ford, Gerald R., 1913-2006.</persname><persname source="lcnaf" encodinganalog="600">Laver, Rod.</persname><persname source="lcnaf" encodinganalog="600">Newcombe, John.</persname><corpname source="lcnaf" encodinganalog="610">Aerosmith (Musical group)</corpname><corpname encodinganalog="610" source="lcnaf">Democratic National Convention (1976 : New York, NY)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Ann Arbor Jazz and Blues Festival--1974.</corpname><subject source="lcsh" encodinganalog="630">Michigan daily.</subject><corpname source="lcnaf" encodinganalog="610">University of Michigan--Athletic.</corpname><corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1971-1980.</corpname>
+</controlaccess>
+
+
+
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655">Digital files.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Theater, Music, Arts</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Bitch Your Crazy" (play), <unitdate type="inclusive">June 17, 1976</unitdate> </unittitle> <physdesc><extent>5 envelopes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"People Are Better Off In Zoos" (play), <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>12 envelope</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>EMU Band Marathon, <unitdate type="inclusive">February 1, 1976</unitdate> </unittitle> <physdesc><extent>1 envelope</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>U-M Athletics-Men</unittitle></did>
+<c02 level="file"><did><unittitle>Football</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Stanford, <unitdate type="inclusive">September 22, 1973</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan State, <unitdate type="inclusive">October 13, 1973</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Wisconsin, <unitdate type="inclusive">October 29, 1973</unitdate> </unittitle> <physdesc><extent>3 envelopes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Illinois  November 10, 1973</unittitle> <physdesc><extent>4 envelopes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Iowa, <unitdate type="inclusive">September 14, 1974</unitdate> </unittitle> <physdesc><extent>4 envelopes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Colorado, <unitdate type="inclusive">September 21, 1974</unitdate> </unittitle> <physdesc><extent>5 envelopes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan State, <unitdate type="inclusive">October 12, 1974</unitdate> </unittitle> <physdesc><extent>4 envelopes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Purdue, <unitdate type="inclusive">November 16, 1974</unitdate> </unittitle> <physdesc><extent>2 envelopes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Pep Rally before Ohio State Game, <unitdate type="inclusive">November 22, 1974</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Baseball</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Penn State, NCAA at EMU, <unitdate type="inclusive">May 22, 1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Eastern Michigan, <unitdate type="inclusive">May 28, 1976</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Basketball</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Purdue, <unitdate type="inclusive">March 1, 1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Johnny Orr Basketball  camp,  July, 7, <unitdate type="inclusive">1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Intramural Basketball, <unitdate type="inclusive">February 25, 1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>C.J. Kupec at AP Wire Machine at Daily office, <unitdate type="inclusive">May 29, 1975</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Gymnastics</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Big Ten Meet, <unitdate type="inclusive">March 28, 1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January 24, 1976</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Hockey</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Unidentified, <unitdate type="inclusive">December 12, 1973</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ohio State, <unitdate type="inclusive">October 26, 1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Minnesota, <unitdate type="inclusive">January 10, 1976</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Swimming</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>unidentified</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Southern Illinois, <unitdate type="inclusive">January 15, 1976</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Wrestling</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Unidentified, <unitdate type="inclusive">1972</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Wisconsin, <unitdate type="inclusive">1973</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Unidentified, <unitdate type="inclusive">February 2, 1973</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>U-M Athletics -- Women</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Basketball</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">February 28, 1976</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Swimming</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Big Ten Championship,  February 9, 19976</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Volleyball</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Tennis-Rod Laver vs. John Newcomb, at Crisler Arena, <unitdate type="inclusive">May 30, 1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>WFL Football-Detroit Wheels vs. Birmingham, <unitdate type="inclusive">July 7, 1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Intramural Frisbee Competition, <unitdate type="inclusive">May 20, 1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Huron High School basketball cheerleaders, <unitdate type="inclusive">January 1978</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Michigan Daily Alumni Photographers Project</unittitle></did>
+<c02 level="file"><did><physloc label="Box">online</physloc><unittitle>Steve Kagan page </unittitle><dao href="2015005-1" show="new" actuate="onrequest"><daodesc><p>[view item]</p></daodesc></dao></did></c02>
+<c02 level="file"><did><physloc label="Box">online</physloc><unittitle>Steve Kagan images </unittitle><dao href="2015005-2" show="new" actuate="onrequest"><daodesc><p>[view item]</p></daodesc></dao></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

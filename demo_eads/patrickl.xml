@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::patrickl.xml//EN" encodinganalog="Identifier">
+umich-bhl-2010053</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Lawrence C. Patrick Jr. papers, 1987-2009 
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2010">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2010</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2010-04-02</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Lawrence C. Patrick Jr. papers, 1987-2009</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+
+<persname source="lcnaf" encodinganalog="100">
+Patrick, Lawrence C.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Lawrence C. Patrick Jr. papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1987-2009
+</unitdate>
+
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.7 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2010053 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Lawrence C. Patrick, Jr. (donor no. <num type="donor" encodinganalog="541$e">10265</num>) in 2010. 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the papers are expected.
+</p></accruals>
+
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Lawrence C. Patrick Jr. papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Lawrence C. Patrick Jr. is a Detroit attorney. From 1989 to 1995, he was member and president of the Detroit Board of Education. Elected as an educational reformer, while in office, Patrick was active in his support of local school control through empowerment agreements, charters, and other related management options. </p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Lawrence C. Patrick, Jr. collection consists of files relating to his involvement in Group of Organized Detroiters for Quality Education (GOOD), 1987-1989, his campaign to the Detroit Board of Education in 1988, and his efforts to implement reforms and school empowerment through local control of budget, personnel, curriculum, etc. There are also speeches, clippings, and collected reports and studies relating to issues within the Detroit Public School system.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Charter schools--Michigan--Detroit.</subject>
+<corpname source="lcnaf" encodinganalog="610">Detroit (Mich.). Board of Education.</corpname>
+<subject source="lcsh" encodinganalog="650">Educational change--Michigan--Detroit.</subject>
+<persname source="lcnaf" encodinganalog="600">Patrick, Lawrence C.</persname>
+<subject source="lcsh" encodinganalog="650">Schools--Michigan--Detroit.</subject>
+</controlaccess>
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Education files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings and informational material</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Group of Organized Detroiters (GOOD) for Quality Education</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1988-1989</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Detroit School Board election, <unitdate type="inclusive">1988</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Support of Church of God in Christ clergy</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>HOPE candidates (Hayden, Olmstead and Patrick for Education), <unitdate type="inclusive">1988-1991</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters of congratulations and miscellaneous, <unitdate type="inclusive">1989</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Detroit Board of Education tenure</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Arthur Jefferson, <unitdate type="inclusive">1989</unitdate> </unittitle></did> <note><p>(discussion of contract and transition)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>White Conference on Choice in Education, <unitdate type="inclusive">1989</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Detroit Male Academy, <unitdate type="inclusive">ca. 1990</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Chartered schools, <unitdate type="inclusive">1992</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Public School Academies (policy statements)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Republican Party Platform Committee appearance, <unitdate type="inclusive">1992</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>National Education Association conference, <unitdate type="inclusive">1992</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Other materials</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Various issues, <unitdate type="inclusive">1998-1999</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Detroit Reform School Board, <unitdate type="inclusive">1999</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>School Improvement Plan (David Adamany), <unitdate type="inclusive">1999</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Detroit Public Schools Chief Executive Officer campaign, <unitdate type="inclusive">1999-2000</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>School Equity Caucus, school funding studies, <unitdate type="inclusive">2004</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>New Schools Initiative, <unitdate type="inclusive">2009</unitdate></unittitle></did></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

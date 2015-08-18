@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::breckenf.xml//EN" encodinganalog="Identifier">
+umich-bhl-91436</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Brecken Family papers, 1894-1937, 1965
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Lisa Pratt </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-03</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Brecken Family papers, 1894-1937, 1965</titleproper>
+
+<author>Finding aid created by<lb/> 
+Lisa Pratt, 1991</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<famname source="lcnaf" encodinganalog="100">
+Brecken Family.</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Brecken Family papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1894-1937, 1965
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1913-1918
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+91436 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Grand Rapids, Michigan, family. Brief family history; letters to Clarence Brecken, also his journal, while stationed at Fort Benjamin Harrison during World War I; journal of Jennie Brecken, 1965; legal documents; and photographs.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The papers were donated by the daughter of Clarence and Jennie Brecken, Vivian J. Ellis (Donor No. <num type="donor" encodinganalog="541$e">7877</num>) in October 1990.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Brecken Family papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Clarence E. Brecken (1893-1983) and Jennie A. Bentley (1892-1988) were married December 20, 1917, and moved to the Grand Rapids area in early 1918.  Clarence was employed by the Michigan Central Railroad, and Jennie was a schoolteacher.  In July 1918, during World War I, Clarence was drafted and sent for training to Fort Benjamin Harrison in Indiana.  He returned to Grand Rapids in December 1918 at the end of the war.  According to his final entry in his wartime journal, he intended to return to his position at Michigan Central Railroad.  At some point before 1934, he became the store proprietor of Brecken's Ice Cream in Grand Rapids.</p>
+
+<p>The general family history and names of family members of both the Brecken family and the Bentley family can be found in a summary written by Vivian Ellis, the daughter of Clarence and Jennie Brecken, in the "Family History" folder.  </p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The majority of the correspondence in this Family papers series was received by Clarence Brecken from various members of his family during 1918 while in training at Fort Benjamin Harrison.  The strengths of this correspondence are the descriptions of daily rural life during wartime and the concerns and fears of the families on the home-front.  The letters include such topics as Jennie's first driving lessons, the evils of alcohol and tobacco use, hopes for the end of the war, Clarence's mother's fear of her other sons being drafted, and the spread of influenza.   Also of interest are the Brown Family letters to Clarence which include discussions of the war as well as a letter from overseas.  </p>
+
+<p>The folders containing family photographs and World War I photographs comprise the bulk of the Photographs series; the photographs are generally identified.  The World War I photographs include a number of photographs of Clarence and his brothers, Earl and Howard, in uniform and some of Clarence at his training camp.  Most of the family photographs are group photographs taken outdoors and show aspects of rural life, such as the huge woodpiles for the mill in the background of many photographs in the "Bentley Family" folder.  Of especial note is the interior photograph of Brecken's Ice Cream store in the "Grand Rapids Area" folder.  The photograph was taken in 1934, and the various offerings and their prices can be seen in the background.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+
+<persname source="lcnaf" encodinganalog="600">Brecken, Clarence E., 1893-1983.</persname>
+<persname source="lcnaf" encodinganalog="600">Brecken, Jennie Bentley, 1892-1988.</persname>
+<famname source="lcnaf" encodinganalog="600">Brecken family.</famname>
+<geogname source="lcsh" encodinganalog="651">Grand Rapids (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Grand Rapids.</subject>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<geogname source="lcsh" encodinganalog="651">Baldwin (Mich.)</geogname>
+<famname source="lcnaf" encodinganalog="600">Bentley family.</famname>
+<famname source="lcnaf" encodinganalog="600">Brecken family.</famname>
+<subject source="lcsh" encodinganalog="650">Camping.</subject>
+<subject source="lctgm" encodinganalog="650">Carriages and coaches.</subject>
+<geogname source="lcsh" encodinganalog="651">Cedar Springs (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--McBain.</subject>
+<subject source="lctgm" encodinganalog="650">Farm houses.</subject>
+<geogname source="lcsh" encodinganalog="651">Grand Rapids (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">McBain (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Soda fountains--Michigan--Grand Rapids.</subject>
+<subject source="lctgm" encodinganalog="650">Soldiers--American.</subject>
+<geogname source="lcsh" encodinganalog="651">Tustin (Mich.)</geogname>
+
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Family papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Family History</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Brown Family, <unitdate type="inclusive">1913-1918</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>Family</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1913-1917</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">July 27, 1918-September 11, 1918</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">September 12, 1918-September 30, 1918</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October 1918</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">November 1918</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Erma Bentley, <unitdate type="inclusive">December 1918-January 1919</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legal Documents, <unitdate type="inclusive">1894-1937</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle><genreform normal="Diaraies">Journals</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Clarence Brecken, <unitdate type="inclusive">1918</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Jennie Brecken, <unitdate type="inclusive">1965</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Family <genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>World War I</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bentley Family</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Brecken Family</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Grand Rapids area</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Cedar Springs</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Vacations and Camping in Michigan</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

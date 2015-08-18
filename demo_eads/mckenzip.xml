@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::mckenzip.xml//EN" encodinganalog="identifier">umich-bhl-85307</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Walter I. McKenzie Polar Bear Expedition papers, <date>1918-1945.</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Thomas E. Powers</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1981</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>March 2000</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>2010525</date><item>swictched eadid number with McKenzie papers to match scanned Polar Bear file names.</item></change><change><date>20100104</date><item>Edited for style, edited to differentiate from original McKenzie collection LAC</item></change>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20000310</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+<titleproper>Finding Aid for <lb/>Walter I. McKenzie Polar Bear Expedition papers, <date type="inclusive">1918-1945</date></titleproper>
+<author>Finding aid prepared by: <lb/>Thomas E. Powers</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">McKenzie, Walter I.  (Walter Ingles), 1888-1962.</persname></origination>
+<unittitle encodinganalog="245">Walter I. McKenzie Polar Bear Expedition papers
+<unitdate type="inclusive" encodinganalog="245$f">1918-1945</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">19 folders and 1 oversize folder</extent></physdesc>
+<abstract>Detroit attorney who served in 1918 and 1919 with the 339th U.S. Infantry during the American intervention in Archangel, Russia, the 
+"Polar Bear Expedition." Selections from McKenzie's papers including correspondence, photographs, and other items relating to service in 
+Polar Bear Expedition to northern Russia.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">85307</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository encodinganalog="852"><corpname><subarea>Bentley Historical Library</subarea> University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was the gift of the Walter McKenzie family (Donor no. <num type="donor" encodinganalog="541$e">6495</num>) 
+and came to the library in 1980-1981. The diary and correspondence are photocopies. The originals are 
+owned by Mrs. Margaret J. Midener, East Jordan, Mich. The Bentley borrowed the originals of the diary and correspondence for digitizing.
+</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Walter I. McKenzie Polar Bear Expedition Papers, Bentley Historical Library, 
+University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p><persname normal="McKenzie, Walter I. (Walter Ingles), 1888-1962.">Walter Ingles McKenzie</persname> was born in 
+<geogname normal="Muskegon (Mich.)">Muskegon, Michigan</geogname> February 9, 1888. He graduated from the 
+<corpname normal="University of Michigan. Law School.">University of Michigan Law School</corpname> in 1915. During World War I, he served as a 
+member of the <corpname normal="United States. Army. Infantry, 339th.">339th Infantry</corpname> sent to northern Russia as part of the Polar 
+Bear Expedition; and during the 1920s and 1930s he was a Democratic party worker and candidate for state office.</p>
+<p>In 1946, <persname normal="McKenzie, Walter I. (Walter Ingles), 1888-1962.">Walter McKenzie</persname> was granted a leave of absence from 
+his position as Referee in Bankruptcy for the Eastern District of Michigan to serve as an Assistant U.S. Prosecutor at the International Military 
+Tribunal for the Far East. As part of the so-called Japanese War Crimes Trial, McKenzie was specifically charged with that part of the indictment 
+relating to Japanese military aggressions in Manchuria. McKenzie stayed in Tokyo for much of 1946, then returned to the United States in 1947, 
+where he resumed the practice of law.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The Walter McKenzie Collection consists largely of materials created as a result of the Japanese War 
+Crimes Trials. The collection has been arranged into eight series: Biographical/Personal; Correspondence; Articles, Speeches, etc.; International 
+Military Tribunal for the Far East, International Prosecution Section; University of Michigan; World War I (Polar Bear Expedition); Miscellaneous; 
+and <genreform normal="Photographs.">Photographs</genreform>.
+
+The Walter McKenzie Collection covers many aspects of McKenzie's life in addition to the Polar Bear expedition. The bulk of the collection consists 
+largely of materials created as a result of the Japanese War Crimes Trials. The collection has been arranged into eight series: 
+Biographical/Personal; Correspondence; Articles, Speeches, etc.; International Military Tribunal for the Far East, International 
+Prosecution Section; University of Michigan; World War I (Polar Bear Expedition); Miscellaneous; and Photographs. Only the Polar Bear 
+material and some biographical material has been digitized and can be viewed here. Researchers must visit the library to view the rest of 
+McKenzie's collection. The Polar Bear materials consist of a <genreform normal="Diaries.">diary</genreform>, June 1918-July 1919, describing his 
+voyage to Russia, his stay in a <corpname normal="American National Red Cross.">Red Cross</corpname> Hospital there, routine work at headquarters, life in 
+<geogname normal="Arkhangel'sk (Russia)">Archangel</geogname>, a supply trip up the 
+<geogname normal="Northern Dvina River (Russia)">Dvina River</geogname> in a gunboat in June 1919, and the voyage home. Also included are 
+<genreform normal="Letters (correspondence)">correspondence</genreform>, June 1918-July 1919, describing life at 
+<geogname normal="Fort Custer (Mich.)">Camp Custer</geogname>, the voyage to Russia, life in 
+<geogname normal="Arkhangel'sk (Russia)">Archangel</geogname>, civilian conditions there, his ambition to go to the front, 
+and his boat trip up the river. Other materials include ca. 30 picture <genreform normal="Postcards.">postcards</genreform> 
+of <geogname normal="Arkhangel'sk (Russia)">Archangel</geogname>, <geogname normal="Murmansk (Russia)">Murmansk</geogname>, and countryside scenes, 
+an issue of <title render="italic">The Call</title>, an English-language Bolshevik <genreform normal="Newspapers.">newspaper</genreform> 
+published in Moscow, a copy of the <genreform normal="Constitutions.">constitution</genreform> of the 
+<corpname normal="Soviet Union.">Russian Socialist Federated Soviet Republic</corpname>, an issue of 
+<title render="italic">The Mess Kit</title> and one of the <title render="italic">Daily Communique</title>, both published in France for 
+American soldiers, consisting of <genreform normal="Poems.">poems</genreform>, and miscellaneous 
+<genreform normal="Programs (documents)">programs</genreform>, <genreform normal="Clippings.">clippings</genreform>, and 
+<genreform normal="Rosters.">rosters</genreform>. 
+</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">McKenzie, Walter I.  (Walter Ingles),  1888-1962.</persname>
+<subject source="local" encodinganalog="690">Polar Bear Expedition.</subject>
+<geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied Intervention, 1918-1920.</geogname>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject></controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head>
+<geogname source="lcsh" encodinganalog="651">Detroit (Mich.)</geogname>
+<persname source="lcnaf" encodinganalog="600">McKenzie, Walter I. (Walter Ingles), 1888-1962.</persname>
+<subject source="lctgm" encodinganalog="650">Military art and science.</subject>
+<subject source="local" encodinganalog="690">Polar Bear Expedition.</subject>
+<geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied Intervention, 1918-1920.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Veterans of Foreign Wars of the United States</corpname></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>World War I (Polar Bear Expedition)</unittitle></did>
+
+<c02 level="file"><did><container type="folder" label="Folder">1</container>
+<unittitle>Introductory Materials</unittitle>
+<physdesc><extent>4 items</extent></physdesc></did></c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">2</container>
+<unittitle>Diary of experiences in Russia, <unitdate type="inclusive">1918-1919</unitdate></unittitle>
+<physdesc><extent>1 item, 127 pages</extent></physdesc></did></c02>
+
+
+<c02 level="file"><did>
+<unittitle>Correspondence, <unitdate type="inclusive">January 1918-July 1919</unitdate></unittitle></did>
+
+<c03 level="file"><did><unittitle><unitdate type="inclusive">January-June 1918</unitdate></unittitle>
+<physdesc><extent>7 items</extent></physdesc></did></c03>
+
+<c03 level="file"><did><container type="folder" label="Folder">4</container>
+<unittitle><unitdate type="inclusive">July 1918</unitdate></unittitle>
+<physdesc><extent>30 items</extent></physdesc></did></c03>
+
+<c03 level="file"><did><container type="folder" label="Folder">5</container>
+<unittitle><unitdate type="inclusive">August-September, 1918</unitdate></unittitle>
+<physdesc><extent></extent></physdesc></did></c03>
+
+<c03 level="file"><did><container type="folder" label="Folder">6</container>
+<unittitle><unitdate type="inclusive">October-December 1918</unitdate></unittitle>
+<physdesc><extent>31 items</extent></physdesc></did></c03>
+
+<c03 level="file"><did><container type="folder" label="Folder">7</container>
+<unittitle><unitdate type="inclusive">January-March, 1919</unitdate></unittitle>
+<physdesc><extent>19 items</extent></physdesc></did></c03>
+
+<c03 level="file"><did><container type="folder" label="Folder">8</container>
+<unittitle><unitdate type="inclusive">April-May, 1919</unitdate></unittitle>
+<physdesc><extent>20 items</extent></physdesc></did></c03>
+
+<c03 level="file"><did><container type="folder" label="Folder">9</container>
+<unittitle><unitdate type="inclusive">June-July, 1919</unitdate></unittitle>
+<physdesc><extent>15 items</extent></physdesc></did></c03></c02>
+
+
+<c02 level="file"><did><container type="folder" label="Folder">10</container>
+<unittitle>Polar Bear Association Reunion Programs</unittitle>
+<physdesc><extent>6 items</extent></physdesc></did></c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">11</container>
+<unittitle>Printed Material</unittitle>
+<physdesc><extent>7 items</extent></physdesc></did><note><p>(Includes announcements of Polar Bear Association events)</p></note></c02>
+
+
+<c02 level="file"><did>
+<unittitle>Miscellaneous</unittitle></did>
+<note><p>(Includes a copy of Vol. 1 No. 1 of <title render="italic">The Mess Kit</title> a humorous publication for "the Soldiers of the 
+A.E.F."; an issue of <title render="italic">The Call</title>, a broadsheet of "the workers and peasants of Russia, to their English 
+speaking fellow workers"; several issues of the <title render="italic">Daily Communique</title>; duty rosters; pamphlets;  notes and 
+personal items.)</p></note>
+
+<c03 level="file"><did><container type="folder" label="Folder">12</container>
+<unittitle>[Bentley Library material]</unittitle>
+<physdesc><extent>22 items</extent></physdesc></did></c03>
+
+<c03 level="file"><did><container type="folder" label="Folder">13</container>
+<unittitle>[Loaned Material]</unittitle>
+<physdesc><extent>17 items</extent></physdesc></did></c03>
+</c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">14</container>
+<unittitle>Newspaper clippings</unittitle>
+<physdesc><extent>6 items</extent></physdesc></did></c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">15</container>
+<unittitle>Photocopies of other clippings</unittitle>
+<physdesc><extent>41 items</extent></physdesc></did></c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">16</container>
+<unittitle>Post-cards of Russia</unittitle>
+<physdesc><extent>33 items</extent></physdesc></did></c02>
+
+
+<c02 level="file"><did><unittitle>Polar Bear Photographs</unittitle></did>
+
+<c03 level="file"><did><container type="folder" label="Folder">17</container>
+<unittitle>Portraits of McKenzie, Draftees Marching, and Miscellaneous</unittitle>
+<physdesc><extent>7 items</extent></physdesc></did></c03>
+
+<c03 level="file"><did><container type="folder" label="Folder">18</container>
+<unittitle>Reunion group photos and Miscellaneous</unittitle>
+<physdesc><extent>7 items</extent></physdesc></did></c03>
+
+<c03 level="file"><did><container type="folder" label="Folder">19</container>
+<unittitle>Souvenir Folders: Life in the U.S. Army, Camp Mills, and New York City, Night Views</unittitle></did>
+<note><p>(Commercially produced packets of photos)</p></note>
+</c03>
+
+<c03 level="file"><did><container type="folder" label="Folder">20</container><physloc>UAm outsize</physloc>
+<unittitle>Group photos, 339th Infantry, Camp Devens, <unitdate type="inclusive">July 14, 1919</unitdate> and Reunion photos, 
+<unitdate type="inclusive">1921-1945</unitdate></unittitle>
+<physdesc><extent>6 items</extent></physdesc><note><p>(outsize photos)</p></note></did></c03>
+
+</c02>
+</c01>
+
+</dsc></archdesc></ead>   

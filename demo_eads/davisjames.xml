@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::davisjames.xml//EN" encodinganalog="Identifier">
+umich-bhl-851064</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+James Edward Davis papers 
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Devon Proudfoot  </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2015">
+2015</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2015</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2014-02-19</date><item>Original encoding from Word 2010 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+James Edward Davis Papers, 1929-2014</titleproper>
+
+<author>Finding aid created by<lb/> 
+Devon Proudfoot, February 2015</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+ 
+<persname source="lcnaf" encodinganalog="100">
+Davis, James Edward, 1940-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+James Edward Davis papers <unitdate type="inclusive" encodinganalog="245$f">
+1929-2014
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1950-1975
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+5 linear feet 
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851064 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+James Edward Davis is a teacher who has worked within the Dearborn Public School District, Michigan since he graduated from the University of Michigan.  He has been active politically, especially in regards to teacher's rights, and within Michigan churches.  The collection contains series of personal biographical papers, family papers, as well as his collected materials from local churches and schools.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Donated by James E. Davis (donor no. <num type="donor" encodinganalog="541$e">5111</num>), in several accessions between 2012 and 2014.</p></acqinfo>
+ 
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research except for box 5 which is restricted until January 1, 2050.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+James Edward Davis papers, Bentley Historical Library, University of Michigan</p></prefercite>
+
+
+ 
+
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>James Edward Davis was born to William Franklin and Mable Davis.  Davis spent his early years in Clinton, Michigan where he graduated from high school.  He studied education at the University of Michigan and became involved with political activism on campus.  During his time as an undergraduate student, Davis actively participated in political demonstrations around campus.  Davis found work as a history teacher in a few of the schools within the Dearborn Public School district.  His interest in politics continued after his time at University of Michigan, as he remained involved with various teaching strikes as well as expanding teacher's rights in the Dearborn Public School District.  Davis has been very involved with his religion as he has been active in various churches around Michigan.   </p></bioghist>
+
+<arrangement encodinganalog="351">
+<p>
+The James Edward Davis papers are divided into three series: Personal/Biographical, Davis Family Papers, and Collected Materials.</p>
+</arrangement>
+
+<scopecontent encodinganalog="520">
+<p>Materials include Davis family history, his father's reminiscences of life in Clinton, Michigan, and relating to the United Church of Christ of Clinton, and some personal and biographical papers; pamphlets and flyers relating to student political activities at the University of Michigan; collected materials about local Michigan churches, many of them in Dexter, Mich.; collected materials about Dearborn Public Schools system and schools in Michigan. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+ 
+<corpname source="lcnaf" encodinganalog="610">Cherry Hill United Presbyterian Church (Dearborn, Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Christian communities--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">Clinton (Lenawee County, Mich.)</geogname>
+<persname source="lcnaf" encodinganalog="600">Davis, William Franklin.</persname>
+<famname source="lcnaf" encodinganalog="600">Davis family.</famname>
+<geogname source="lcsh" encodinganalog="651">Public schools--Michigan.</geogname>
+<subject source="lcsh" encodinganalog="650">Public schools--Michigan--Dearborn.</subject>
+<subject source="lcsh" encodinganalog="650">Radicalism--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">United Church of Christ--Michigan--Clinton.</corpname>
+<corpname source="lcnaf" encodinganalog="610">United Church of Christ (Clinton, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Political activity.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1961-1970.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1971-1980.</corpname>
+<subject source="lcsh" encodinganalog="650">Demonstrations--Michigan--Ann Arbor.</subject>
+<geogname source="lcsh" encodinganalog="651">Dexter (Mich.)</geogname>
+
+</controlaccess>
+
+ 
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Personal/Biographical</unittitle></did><scopecontent><p> The Personal/Biographical series (0.8 linear feet) contains materials from James Davis's time as a student at the University of Michigan, as well as his time as a Dearborn Public School history teacher.  A large portion of this series consists of correspondence from his family, friends, and coworkers.  This series also contains a large amount of notes from many teaching conventions, personal research, and lesson plans from his early teaching career.  The rest of this series consists of Davis's presentations from conferences and his published articles in magazines.   </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Personal/Biographical materials </unittitle> <physdesc><extent>17 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Personal/ Biographical materials </unittitle> <physdesc><extent>8 folders</extent></physdesc></did> <accessrestrict><p>[Restricted until  January 1, <date type="restriction" normal="2050-01-01">2050</date>]</p></accessrestrict></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Davis Family papers</unittitle></did> <scopecontent><p>The Davis Family series (1 linear foot) contains collected materials from Davis's parents and other family members.  The largest portion of this series contains materials from Davis's father, William.  These include his personal research notes, his collected political material, as well as an oral recount of the history of the family.  There are a few diaries that came from his mother, Mable, amongst other family members.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Family papers </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Family papers </unittitle> <physdesc><extent>11 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Family papers </unittitle></did> <accessrestrict><p>[Restricted until  January 1, <date type="restriction" normal="2050-07-01">2050</date>]</p></accessrestrict></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Collected materials</unittitle></did><scopecontent><p>The Collected Materials series (2.2 linear feet) presents the bulk of the James Edward Davis collection.  This series focuses on the various political, religious, and other materials that Davis collected throughout his lifetime.  Included here are the Cherry Hill United Presbyterian Church annual reports, membership rosters, and sermons.  Other similar records are included for St. Joseph's Catholic Parish, and other churches in South East Michigan.  There is a significant amount records from Dearborn Public Schools such as directories, curriculum, and newsletters.  Some of the schools included are Fordson High School, Dearborn Junior High School, and Edsel Ford High School.  There are also a number of collected political materials documenting his involvement in University of Michigan demonstrations, as well as documentations of teacher's strikes.  </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Arts</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Churches</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Cherry Hill United Presbyterian Church </unittitle> <physdesc><extent>9 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Dexter Churches </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Dexter United Methodist Church </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Michigan Miscellaneous churches</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>St. Joseph's Catholic Parish </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Michigan political materials </unittitle> <physdesc><extent>11 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Newspaper clippings </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Newspaper clippings </unittitle> <physdesc><extent>2 folders</extent></physdesc></did> <accessrestrict><p>[Restricted until  January 1, <date type="restriction" normal="2050-01-01">2050</date>] </p></accessrestrict></c02>
+ 
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Schools</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>25+ Club</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Dearborn Board of Education</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Dearborn Junior High School</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Dearborn Public Schools </unittitle> <physdesc><extent>10 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle>Dearborn Strike </unittitle> <physdesc><extent>3 folders</extent></physdesc></did> <accessrestrict><p>[Restricted until  January 1, <date type="restriction" normal="2050-01-01">2050</date>]</p></accessrestrict></c03>
+ 
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Edsel Ford High School</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Fordson High School</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Lowrey High School </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Metropolitan Detroit Schools</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Wayne County School District</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Washtenaw County </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

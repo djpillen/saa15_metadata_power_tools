@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::krakerno.xml//EN" encodinganalog="identifier">umich-bhl-89358</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Norma F. Kraker Papers <date>1961-1972</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Eric Ledell Smith</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1989</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>July 2002</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20020710</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Norma F. Kraker Papers, <date type="inclusive">1961-1972</date></titleproper><author>Finding aid prepared by: <lb/>Eric Ledell Smith</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Kraker, Norma F.</persname></origination>
+<unittitle encodinganalog="245">Norma F. Kraker Papers
+<unitdate type="inclusive" encodinganalog="245$f">1961-1972</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">1 linear ft.</extent></physdesc>
+<abstract>Ann Arbor, Michigan, civic activist involved with housing and civil rights issues and organizations. Subject files relating to her work with the Ann Arbor Citizens Committee for Fair Housing Legislation and its successor organization, the Ann Arbor Committee for Housing Legislation; also files relating to the Ann Arbor Housing Commission, the Ann Arbor Human Relations Commission, and the Off-Campus Housing Bureau of the University of Michigan Office of Student Community Relations.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">89358 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was the gift of Norma F. Kraker (donor no. <num type="donor" encodinganalog="541$e">7608</num>) and came to the library in September 1988.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Norma F. Kraker Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Norma F. Kraker was a former Ann Arbor resident who was active in local organizations involved with the enactment and enforcement of anti-discrimination laws in the City of Ann Arbor and at the University of Michigan campus.  She worked in the Off-Campus Housing Office of the University of Michigan from 1963 to 1974, where she worked to eliminate racial discrimination in private student housing in Ann Arbor.  From 1961 to 1962, she was the executive secretary of the Ann Arbor Committee for Fair Housing Legislation.  She served on the Ann Arbor Human Relations Commission from January 1963 to June 1965.  She was reappointed in 1965 but resigned in 1967.  In 1968, she joined the Ann Arbor Housing Commission, serving until 1972.  From 1970-1971, she helped plan the Model Cities program for the City of Ann Arbor.  Kraker was also active in efforts designed to create more affordable public housing in Ann Arbor, most notably the Miller Manor.  She also had a strong interest in housing for the elderly and in general civil rights issues.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The Norma F. Kraker Collection consists of five series relating to her many public responsibilities. The series in the collection include:  Ann Arbor Committee for Fair Housing Legislation; Ann Arbor Housing Commission; Ann Arbor Human Relations Commission; Model Cities Program; and the  University of Michigan, Office of Off-Campus Housing.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject><corpname source="lcnaf" encodinganalog="610">Ann Arbor Committee for Housing Legislation (Mich.)</corpname><corpname source="lcnaf" encodinganalog="610">Ann Arbor (Mich.). Housing Commission.</corpname><corpname source="lcnaf" encodinganalog="610">Ann Arbor (Mich.). Human Relations Commission.</corpname><subject source="lcsh" encodinganalog="650">Civil rights--Michigan--Ann Arbor.</subject><subject source="lcsh" encodinganalog="650">Discrimination in housing--Michigan--Ann Arbor.</subject><subject source="lcsh" encodinganalog="650">Social reformers--Michigan--Ann Arbor.</subject><corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing.</corpname><corpname source="lcnaf" encodinganalog="610">University of Michigan. Off-Campus Housing Bureau.</corpname><corpname source="lcnaf" encodinganalog="610">University of Michigan. Office of Student Community Relations.</corpname><subject source="lcsh" encodinganalog="650">Women social reformers--Michigan--Ann Arbor.</subject></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Ann Arbor Citizens Committee for Fair Housing Legislation</unittitle></did><note><p>(later Ann Arbor Committee for Housing Legislation)</p></note><scopecontent><p>The Ann Arbor Committee for Fair Housing Legislation series is made up of minutes and correspondence from 1961 to 1962.  The minutes are arranged chronologically while correspondence is arranged both incoming and outgoing.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1961-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1961-1962</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Ann Arbor Housing Commission</unittitle></did><scopecontent><p>The Ann Arbor Housing Commission series covers the period 1968 to 1972.  It consists of minutes, correspondence, contracts, financial statements, Miller Manor Publication, and papers concerning public housing sites in Ann Arbor.  Minutes are arranged chronologically; correspondence is also chronological and both incoming and outgoing.  Contracts pertain to the Commission's contracts with private companies and with the federal government.  Financial statements are available for the Commission for the years 1968 to 1970, and 1972.  Miller Manor Publications are "in-house" newsletters.  Public Housing Sites papers contain correspondence, memos, and housing site charts.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1968-1972</unitdate></unittitle><physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1968-1972</unitdate></unittitle><physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Contracts, <unitdate type="inclusive">1968-1972</unitdate></unittitle><physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Statements, <unitdate type="inclusive">1968-1970</unitdate>, <unitdate type="inclusive">1972</unitdate></unittitle><physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miller Manor Publications, <unitdate type="inclusive">ca. 1972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Public Housing Sites Papers, <unitdate type="inclusive">1970</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Ann Arbor Human Relations Commission</unittitle></did><scopecontent><p>The Ann Arbor Human Relations Commission series documents the years 1962 to 1967.  It contains minutes, correspondence, and a publication of the Commission.  Minutes are arranged chronologically.  Correspondence is also chronologically arranged and is both incoming and outgoing.  The publication included here:  "The Population Distribution of Racial Minorities in Ann Arbor, Michigan, 1950-1960," is not a publication Mrs. Kraker worked on, but is included here as an example of one of the issues with which she was concerned.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1962-1967</unitdate></unittitle><physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1962-1967</unitdate></unittitle><physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"The Population Distribution of Racial Minorities in Ann Arbor, Michigan, 1950-1960"</unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Model Cities Program</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1970-1971</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>University of Michigan, Off-Campus Housing Office</unittitle></did><scopecontent><p>The University of Michigan, Office of Off-Campus Housing series consists of correspondence from 1963 to 1971 and from 1973 to 1974.  It is arranged chronologically by year and is both incoming and outgoing.  Here may be found the majority of personal outgoing correspondence written by Mrs. Kraker.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1963-1971</unitdate>, <unitdate type="inclusive">1973-1974</unitdate></unittitle><physdesc><extent>3 folders</extent></physdesc></did></c02></c01></dsc></archdesc></ead>   

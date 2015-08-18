@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::ssdum.xml//EN" encodinganalog="identifier">
+umich-bhl-9510</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Services for Students with Disabilities (University of Michigan) records, 1973-1993
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Karen L. Jania, December 1994 </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2006-0601</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date normal="2005-06-01">2005-06-01</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Services for Students with Disabilities <lb/>(University of Michigan) <lb/>Records, 1973-1993
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Karen L. Jania, December 1994
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Services for Sudents with Disabilities.
+
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Services for Students with Disabilities (University of Michigan) records
+<unitdate type="inclusive" encodinganalog="245$f">
+1973-1993
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1980-1986
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.8 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9510 Bimu 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041" scriptcode="Latn">English</language></langmaterial>
+
+<abstract>
+University of Michigan unit concerned with meeting the needs of physically handicapped students.
+Topical files include advisory board minutes, records of the Campus Safety Committee, subject files, and reports of survey of needs of disabled students; and printed works.
+
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group (Donor <num type="donor" encodinganalog="541$e">8123</num>) was received beginning in 1993.  Periodic accessions to continue.
+<num type="donor" encodinganalog="541$e">8123</num>
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506">
+<p>The Services for Students with Disabilities records are open for research.</p>
+
+
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Services for Students with Disabilities (University of Michigan) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>In 1966, the State of Michigan enacted a law mandating the accommodation of the physically handicapped in the construction or major remodeling of public buildings (Public Act I, 1966).  The University of Michigan took the occasion of the enactment of Public Act I as the impetus to review its services for disabled students.</p>
+
+<p>In 1969, 1970 and 1971, the university created several committees charged with creating a system of programs to serve the disabled students on campus.  The most significant outcome of those committees and the reports they issued was the installation of curb cuts and ramps around campus.  The Committee on Aid to Disabled Students (CADS), a student-staff oriented committee, created in 1971 by the Student Government Council, addressed the interests of the students with handicaps.  This committee is best known for its Wheelchair Awareness Day, during which university administrators, staff, and regents were asked to undertake daily work in a wheelchair.</p>
+
+<p>After considerable efforts to obtain funding, CADS received a grant from the Department of Health, Education, and Welfare (HEW) in August 1973 to start a program for disabled students.  Disabled Student Services (DSS) began functioning under the auspices of the Office of Student Services on February 1, 1974, with Mr. Joseph Varghese as program manager.  Varghese found his two largest tasks were to identify the group of individuals to be served and to survey the needs of these individuals.</p>
+
+<p>Disabled Student Services sought to provide equal opportunity to handicapped students so that they might compete with their peers in all aspects of campus life.  This was accomplished by providing classroom materials in alternative media (braille, tapes, etc.), volunteer readers; tutorial help and attendant care; emergency repairs of wheelchairs; assistance in finding accessible housing close to campus; the duplication of class notes for the hearing impaired; counseling; advocacy; and help in the removal of architectural barriers.  A monthly newsletter was created to keep the university community abreast of projects underway.  During this time, a considerable amount of time and energy were spent on educating the university community about misconceptions and prejudices related to the disabled.</p>
+
+<p>When funding from HEW ended in June 1974, the university stepped in and allocated funds to operate the program.  University funding, at a reduced level from HEW's funding, focused on student needs rather than education in the university community.</p>
+
+<p>By 1980/81, DSS's major areas of responsibilities were support services to facilitate equal educational opportunities for disabled students at the University of Michigan and to serve as a liaison with state and community agencies and organizations that assist individuals with disabilities and professional development.  Included within support services were accessible transportation, accessibility maps, handicapped parking on campus, aids for the visually and hearing impaired, and financial aid.</p>
+
+<p>During the 1983/84 academic year, DSS began coordinating a new lift-equipped campus transportation service, offered campus-wide awareness programs which included "Meeting the Challenge: A Guide to Barrier Free Learning," and, for the first time, developed proposals to support students with learning disabilities. </p>
+
+<p>In 1989 DSS officially changed its name to Services for Students with Disabilities (SSD) in order to put the focus on the student, rather than the disability.</p>
+
+<p>According to the <title render="italic">Services for Students with Disabilities</title> brochure dated 1993, located in box 2 of this record group, Services for Students with Disabilities: </p>
+
+<p>Offers selected student services which are not provided by other University of Michigan offices or outside organizations.  Our services are free.  Assists students in negotiating disability-related barriers to the pursuit of their education.  Strives to improve access to University programs, activities, and facilities for students with disabilities.  Promotes increased awareness for disability issues on campus.</p>
+
+
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The records of Services for Students with Disabilities (SSD) document the assistance the university provided to students with various types of disabilities.  The records span the years 1973-1993; the bulk of the materials covers 1980-1986.  The records are divided into two series: Advisory Board Minutes and Topical Files.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">College students with disabilities--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Campus Safety Committee.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Services for Students with Disabilities.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Advisory Board Minutes</unittitle></did>
+<scopecontent>
+<p>The Advisory Board Minutes contain information on budget materials, programs offered for disabled students, physical renovations on the campus, affirmative action policy proposals for the disabled, and pertinent legislative issues.</p>
+</scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1978</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1985</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Topical Files</unittitle></did>
+<scopecontent>
+<p>The Topical Files series is arranged in alphabetical order and consists of Campus Safety Committee files and variety of miscellaneous files, including one on the goals and objectives of the office.  The Campus Safety Committee files document its concerns and work to provide a safe environment for the university community.  The SSD was a member of the committee, and advocated many safety concerns for the disabled student.  These files are also a good source for determining what physical renovations were completed to assist the disabled student.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive">1972-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Awareness Day, <unitdate type="inclusive">1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Breakthrough Scholarship Program, <unitdate type="inclusive">1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Campus Safety Committee</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive">1980-1991</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership/Purpose, <unitdate type="inclusive">1987-1989</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1987-1991</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>Report</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Review of Current Safety and Security Operations at University of Michigan and Recommendations for Enhancement</title>, <unitdate type="inclusive">ca. 1986</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Report of the Task Force on Campus Safety  and Security</title>, <unitdate type="inclusive">1990</unitdate></unittitle></did></c04></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Goals and Objectives, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Historical Materials, <unitdate type="inclusive">1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Learning Disabled Program, <unitdate type="inclusive">1985</unitdate> (funding  efforts)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Leonard Greenbaum Memorial Scholarship, <unitdate type="inclusive">1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Major Areas of Responsibility, <unitdate type="inclusive">1979-1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Monthly Reports, <unitdate type="inclusive">1984/85</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Volunteer Reader Service, <unitdate type="inclusive">ca. 1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Reports</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">A Report of a Survey to Identify the Needs of the Disabled Student at University of Michigan</title>, <unitdate type="inclusive">1974</unitdate></unittitle></did></c03></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

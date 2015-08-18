@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::wellswp.xml//EN" encodinganalog="identifier">
+umich-bhl-86234</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+William Palmer Wells papers, 1879
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Bentley Historical Library Staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+XX </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>Nov. 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20051129</date><item>Original encoding from MARC record using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+William Palmer Wells Papers, 1879</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Library Staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+
+
+<persname source="lcnaf" encodinganalog="100">
+Wells, William Palmer,1831-1891.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+William Palmer Wells papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1879 and undated
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear ft. (2 items and 4 v.).</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+86234 Aa/2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of Law at University of Michigan. Papers consist of a communication to University of Michigan Board of Regents requesting leave of absence; doctor's report on his health; and four volumes of notes for his law lectures.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Donor No. <num type="donor" encodinganalog="541$e">343</num></p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+William Palmer Wells Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>William P. Wells was a practicing lawyer in Detroit when he joined the Law Department faculty.  He succeeded Charles I. Walker as Kent Professor of Law.  Wells taught until 1885 and then returned to the faculty for the years 1887-1891.
+
+</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The William P. Wells papers consist of a communication to University of Michigan Board of Regents requesting leave of absence; doctor's report on his health; and four volumes of notes for his law lectures.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Lawyers--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Law.</corpname>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Papers</unittitle></did>
+<c02 level="file"><did><container label="Box" type="box">1</container><unittitle>Correspondence re. health, <unitdate type="inclusive">1879</unitdate> </unittitle> <physdesc><extent>2 items</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Lecture Notes</unittitle></did>
+<c03 level="item"><did><container label="Box" type="box">1</container><unittitle>Lectures on Notes and Bills, vol. 1</unittitle></did></c03>
+<c03 level="item"><did><container label="Box" type="box">1</container><unittitle>Lectures on Notes and Bills, vol. 2</unittitle></did></c03>
+<c03 level="item"><did><container label="Box" type="box">1</container><unittitle>Lectures on Partnerships</unittitle></did></c03>
+<c03 level="item"><did><container label="Box" type="box">1</container><unittitle>Lectures on Agency</unittitle></did></c03></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::stilesj.xml//EN" encodinganalog="identifier">
+umich-bhl-86112
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+John R. Stiles Papers, 1958-1965
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+William H. McNitt </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2006 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>March 2006</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20060301 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+John R. Stiles Papers, 1958-1965</titleproper>
+
+<author>Finding aid created by<lb/> 
+William H. McNitt, 1974</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Stiles, John R.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+John R. Stiles papers  
+<unitdate type="inclusive" encodinganalog="245$f">
+1958-1965
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+86112 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Grand Rapids, Michigan, businessman and Republican campaign official. Correspondence, reports, newspaper clippings and campaign materials concerning the Warren Commission's investigation of the assassination of President John F. Kennedy, the writing of the book, Portrait of the Assassin with Gerald Ford, and his activities as campaign manager for Paul Bagwell for governor in 1958, and as field director of the Richard Nixon for President campaign in 1960.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by John R. Stiles (donor no. <num type="donor" encodinganalog="541$e">5557</num>) in 1974.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+John R. Stiles’ copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+John R. Stiles Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>John R. Stiles was a Grand Rapids, Michigan businessman and Republican Party campaign official.  He served as Gerald Ford's first campaign manager in 1948 when Ford unseated the incumbent.  He was a member of Paul Bagwell's campaign for governor in 1958, and in 1960, he served as field director of the Nixon-for-President campaign.  When President Johnson appointed Congressman Ford to serve on the Warren Commission, Ford turned to Stiles to serve as his special assistant.  Following the conclusion of the Warren Commission, Ford and Stiles worked jointly on their history of their work with the Commission, published as <title render="italic">Portrait of the Assassin</title> (1965).</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The collection documents John R. Stiles' work with the Warren Commission  and the state Republican Party.   The collection  has been arranged into the following series: <title render="italic">Portrait of the Assassin</title> drafts; Warren Commission File; and Republican Party Political Files.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Bagwell, Paul D.</persname>
+<geogname source="lcsh" encodinganalog="651">Grand Rapids (Mich.)</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1946-1960.</geogname>
+<persname source="lcnaf" encodinganalog="600">Nixon, Richard M. (Richard Milhous), 1913-</persname>
+<corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
+<geogname source="lcsh" encodinganalog="651">United States--Politics and government--1953-1961.</geogname>
+<geogname source="lcsh" encodinganalog="651">United States--Politics and government--1963-1969.</geogname>
+<geogname source="lcsh" encodinganalog="651">United States--Politics and government--1961-1963.</geogname>
+<corpname source="lcnaf" encodinganalog="610">United States. Warren Commission.</corpname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Ford, Gerald R., 1913-</persname>
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle><title render="italic">Portrait of the Assassin</title> drafts</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Chapter drafts </unittitle> <physdesc><extent>45 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Working drafts of <title render="italic">Portrait of the Assassin</title></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Warren Commission File, <unitdate type="inclusive">1964</unitdate> </unittitle></did> <note><p>(collected research materials used in the Ford-Stiles book)</p></note>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>F.B.I. Report on the assassination</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Supplemental F.B.I. report on the Assassination</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Schedules of the Commission</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Articles on the Assassination</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Suggested questions to be asked of witnesses </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Chronologies of Oswald's activities </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Abstracts from depositions</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Chapter outlines for Portrait of the Assassin</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Check-off lists</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Chronological File on Oswald's activities, <unitdate type="inclusive">October 4-November 22, 1963</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Conclusions</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Plot theories</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Marina Oswald's character</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lee Oswald's character</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Separations of Lee and Marina Oswald</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Trip to Dallas</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Events while in the Marine Corps</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Troubles at Home</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Russian Colony</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Papers </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>F.B.I. Visual Aids</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>F.B.I. Exhibits </unittitle> <physdesc><extent>3 volumes</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Republican Party Political Files</unittitle></did>
+<c02 level="file"><did><unittitle>Paul Bagwell for Governor File, <unitdate type="inclusive">1958</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Report to the Republican National Committee, <unitdate type="inclusive">November 1958</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Bagwell Bluebook on Highways</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Campaign Schedules</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Campaign Committees and Chairmen</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Voting Statistics</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Issues</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Small Business Administration</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Saint Lawrence Seaway Festival</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>List-of delegates and alternates to the Republican State Convention</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Republican State Central Committee File, <unitdate type="inclusive">1959-1960</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Victory in '60 outline</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>State Central Subcommittees</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Suggestions of members </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Suggestions of the Staff</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Past national convention delegations</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>List of delegates and alternates to the Republican state convention, <unitdate type="inclusive">May 1960</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>List of delegates and alternates to the Republican state convention, <unitdate type="inclusive">August 1960</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous papers </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Newspaper clippings, <unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">February-October 1960</unitdate> </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous papers</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Campaign for State Republican Chairman File, <unitdate type="inclusive">1961</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Campaign leaflets</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Lists of delegates </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>List of delegates and alternates to the Republican state convention</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Newspaper clippings</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous papers</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Oregon delegate and presidential primary laws, <unitdate type="inclusive">1964</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Speech on "How to steal a presidential nomination" <unitdate type="inclusive">1965</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

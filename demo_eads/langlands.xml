@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::langlands.xml//EN" encodinganalog="Identifier">
+umich-bhl-2013123</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Charlotte Langlands papers
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Tara Bell </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2013">
+2013</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2013</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2013-10-10</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Charlotte Langlands  Papers, 1885-1987</titleproper>
+
+<author>Finding aid created by<lb/> 
+Tara Bell, October 2013</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Langlands, Charlotte
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Charlotte Langlands papers,
+<unitdate type="inclusive" encodinganalog="245$f">
+1885-1987
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1890-1945
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.4 linear feet including 1 oversize box</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2013123 Aa2 
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Papers of Charlotte Langlands (1927-), member of Collegiate Sorosis.  It includes records of Collegiate Sorosis, photographs, scrapbooks, and books.  The collection also contains items from Langlands' first husband, Thomas Kuzma, that relate to his friendship with Tom Harmon.  
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Donated by Charlotte Langlands (Donor No.  
+<num type="donor" encodinganalog="541$e">10926</num>) in May, 2013</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Charlotte Langlands papers
+, Bentley Historical Library, University of Michigan</p></prefercite>
+
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Charlotte (Leach) Langlands was born in 1926 in Ohio to Charlotte Cossitt Leach and Sagito J. Leach.  She married University of Michigan football player Thomas (Tom) G. Kuzma (1922-1996) on August 9, 1947 in Ashtabula, Ohio.  Langlands was a member of the Collegiate Sorosis class of 1948.  She officially graduated in August 1973. Langland substitute taught in Bloomfield.  From April 1978 onwards, she was involved in the revival of the Sorosis active chapter.  In 2006 she married Robert Langlands in Florida. </p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The bulk of the collection contains photographs and records of Collegiate Sorosis. In addition, there are photographs and items related to Tom Kuzma and his friendship with Tom Harmon. The collection is divided into two series: Collegiate Sorosis and Thomas Kuzma. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Langlands, Charlotte.</persname>
+<persname source="lcnaf" encodinganalog="600">Harmon, Tom, 1919-1990.</persname>
+<persname source="lcnaf" encodinganalog="600">Kuzma, Tom G., 1922-1996.</persname>
+<corpname source="lcnaf" encodinganalog="610">Collegiate Sorosis (University of Michigan)</corpname>
+<subject source="lctgm" encodinganalog="650">Fraternities and sororities.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+
+<subject source="gmgpc" encodinganalog="650">Group portraits.</subject>
+<subject source="aat" encodinganalog="650">Photographs.</subject>
+
+
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Collegiate Sorosis</unittitle></did>
+<scopecontent><p>Collegiate Sorosis series mainly consists of photographs ranging from its founding to 1972. An undated photo album with a collection of photographs that may have been taken in the early 1900s. Many of the photographs within the series are labeled with names and dates. Sorosis records include correspondence, training materials, histories of the organization, constitution and by-laws, and notes. Business records include invoices, deeds, account books, construction plans and blueprints for the sorority's home (Collegiate Sorosis is reportedly the first sorority to build and have its own home). Correspondence includes letters written by two of the charter members that announce their resignation from their old sororities. The series also includes correspondence from the New York Sorosis chapter, who served as inspiration to the founders. There are 7 member directories, some of which contain short biographies of the alumni. The outsize box contains more photographs of Collegiate Sorosis and one photograph of the University of Michigan Engineering Class of 1917 (of which her father was a member).</p>
+
+</scopecontent>
+
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Collegiate Sorosis records, 1885--1987</unittitle></did>
+<c03 level="file"><did><unittitle>Business records</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Contractors</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Property</unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution and by-laws</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Fundraising</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>History</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Guestbook, <unitdate type="inclusive">1909-1921</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Guestbook, <unitdate type="inclusive">1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Member directories </unittitle></did> 
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1911</unitdate>, <unitdate type="inclusive">1926</unitdate>, <unitdate type="inclusive">1936</unitdate>, <unitdate type="inclusive">1948</unitdate>, <unitdate type="inclusive">1953</unitdate>, <unitdate type="inclusive">1969</unitdate>, <unitdate type="inclusive">1985</unitdate></unittitle></did></c03>
+
+
+
+
+
+</c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Photographs (outsize), <unitdate type="inclusive">1886-972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photographs, <unitdate type="inclusive">1892-1956</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photo album, <unitdate type="inclusive">undated</unitdate> and <unitdate type="inclusive">ca. 1900-1910</unitdate></unittitle></did></c02></c01>
+
+
+
+
+
+<c01 level="series"><did><unittitle>Thomas Kuzma</unittitle></did>
+<scopecontent><p>The Thomas Kuzma series contains photographs, a journal article, a wedding invitation, and signed book. Kuzma and Tom Harmon (inducted into Michigan Football Legends in September 2013) both grew up in Gary, Indiana and became friends while they played football together. The bulk of the series focuses on that friendship. Of particular interest within the series is a signed photograph of Harmon in his football uniform and an autographed copy of Harmon's 1944 book,<title render="italic">Pilots Also Play</title> . There is also an invitation to Harmon's wedding. In addition, there is a signed photograph of University of Michigan football coach Fritz Crisler.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Pilots also Play by Tom Harmon</title>, <unitdate type="inclusive">1944</unitdate> </unittitle></did> <note><p>(autographed by author)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photographs, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+
+
+</dsc>
+
+<descgrp type="add"><relatedmaterial><head> Related Collections</head><p>The Bentley Historical Library houses the Collegiate Sorosis (University of Michigan) Records, 1886--1991. The collection contains the history of the sorority, minutes of meetings, records of Sorosis House, scrapbooks, printed matter, and photographs. The finding aid can be found online with the following URL:</p>
+
+
+
+<p>The Bentley also has a vertical file (FImu/F47) about the sorority. Within a separate collection of scrapbooks, entitled "Student Scrapbooks: The Michigan Experience," are two scrapbooks that contain items relating to Collegiate Sorosis. One of the scrapbooks was created by Josephine Marie Hayden Satterthwaite and the other was by Louise Potter.</p>
+</relatedmaterial></descgrp>
+
+</archdesc>
+
+</ead>

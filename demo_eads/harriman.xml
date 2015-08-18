@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader relatedencoding="Dublin Core" audience="internal">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::harriman.xml//EN" encodinganalog="identifier">
+umich-bhl-0557
+</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Finding Aid for 
+John Harriman Poster Collection, ca. 1985-2005
+</titleproper>
+        <author encodinganalog="creator">Collection processed and finding aid created by 
+Laura Schmidt</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="date">
+2005</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Laura Schmidt, 
+<date>April 2005</date></creation>
+      <langusage>The finding aid is written in  <language langcode="eng">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>20050505</date>
+        <item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+John Harriman Poster Collection, ca. 1985-2005</titleproper>
+      <author>Finding aid created by<lb /> 
+Laura Schmidt, April 2005</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21">
+    <did>
+      <origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Harriman, John, collector.
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+John Harriman Poster Collection,  
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1985-2005
+</unitdate>
+
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+3 linear ft. (in 5 boxes) and 2 oversize folders.</extent>
+      </physdesc>
+      <unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+0557 Aa 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+William L. Clements Library staff member, collector of posters; event posters and announcements flyers advertising University of Michigan and Ann Arbor and other Michigan community events and activities.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload" /></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+This collection was given to the Bentley Library by the William L. Clements Library after the death of John Harriman (donor no. <num type="donor" encodinganalog="541$e">9573</num>) in March 2005.
+</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+John Harriman Poster Collection
+, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>John Harriman, an employee of the William L. Clements Library at the University of Michigan, was an avid collector of posters and flyers of  University of Michigan, Ann Arbor, and other Michigan community events and activities.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The posters in the John Harriman Collection have been arranged first by size and then either by date or by broad category: University of Michigan events and Ann Arbor and other Michigan community events.  The sizes of the poster and event flyers fall into three ranges.  Within each, there are of course variations. The smallest range is mainly 8 1/2"x11" (with a few measuring 8 1/2"x14"); the medium size is a combination of  11"x17" and 17"x22"; the largest size of poster measures more than 21"x25".</p>
+      <p>The largest portion of the collection consists of posters and flyers advertising University of Michigan events, activities, courses, lectures, groups, and elections that took place on the campus of the university, involved groups from the university, or were sponsored by the university.  Some of the more common poster topics include: student elections, student music groups, fraternity/sorority activities, campus classes and lectures, and theatrical or musical performances on campus. A smaller accumulation of posters and flyers advertises events, activities, groups, and elections that taking place in the state of Michigan, largely Ann Arbor.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Social life and customs.</geogname>
+        <subject source="lctgm" encodinganalog="650">Manners and customs--Michigan--Ann Arbor.</subject>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Posters.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Posters.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Flyers and Event Announcements </unittitle>
+          <physdesc>
+            <physfacet>8 1/2"x11"</physfacet>
+          </physdesc>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">January 1991-March 1992</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive">ca. 1991-ca. 2000</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(mainly U-M events)</p>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Flyers and Event Announcements </unittitle>
+          <physdesc>
+            <physfacet>11"x17"; 17"x22"</physfacet>
+          </physdesc>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Boxes">3-4</container>
+            <unittitle>University of Michigan activities and events</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Ann Arbor and other Michigan community activities and events</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Flyers and Event Announcements</unittitle>
+          <physdesc>
+            <physfacet>more than 21"x25"</physfacet>
+          </physdesc>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="map-case" label="Drawer">1</container>
+            <unittitle>University of Michigan activities and events</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="map-case" label="Drawer">111</container>
+            <unittitle>Ann Arbor and other Michigan community activities and events</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

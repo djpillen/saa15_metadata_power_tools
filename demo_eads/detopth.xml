@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::detopth.xml//EN" encodinganalog="identifier">
+umich-bhl-95105</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Detroit Ophthalmological Club records, 1902-2011
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+E. Heidi Yeager </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2006">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>August 2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2012-01-05</date>
+        <item>Changes made with the addition of new material.</item>
+      </change>
+      <change>
+        <date>2006-08-18</date>
+        <item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Detroit Ophthalmological Club records, 1902-2011</titleproper>
+      <author>Finding aid created by<lb /> 
+E. Heidi Yeager, 1995; <lb />Michigan Historical Collections staff (additions)</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21">
+    <did>
+      <origination>
+        <corpname source="lcnaf" encodinganalog="110">
+Detroit Ophthalmological Club.
+</corpname>
+      </origination>
+      <unittitle encodinganalog="245">
+Detroit Ophthalmological Club records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1902-2011
+</unitdate><unitdate type="bulk" encodinganalog="245$g">
+1915-2011
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+1.5 linear feet and 1 volume
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+95105 Bn 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Professional-social club for Detroit area ophthalmologists. Correspondence, constitution and bylaws, minutes of meetings, history of the organization, and a case report detailing the early use of X-ray photography for ophthalmological procedures performed in Eloise, Michigan, in 1897.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload" />
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+This record group has been donated by the Detroit Ophthalmological Club (donor number <num type="donor" encodinganalog="541$e">8436</num>) and came to the library through Dr. T. G. Varbedian, November 1995.  Additional records have been received.
+</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>
+The record group is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright has been transferred to the University of Michigan's Board of Regents.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Detroit Ophthalmological Club records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>The Detroit Ophthalmological Club (hereafter D.O.C.) was established as the Detroit Ophthalmological and Otological Club.  A brief history, written by Dr. L.C. Maire, long-term member of the club, estimated the approximate founding year for the organization as 1902.  The club was the successor organization to the Wayne County Medical Society Section for Diseases of the Eye, Ear, Nose and Throat.  Its purpose was "to fill a long felt want to those who were directing their attention exclusively to the two specialties, ophthalmology and otology."  The D.O.C. was formed to provide a social setting for presenting papers, and exchanging information in the developing science of ophthalmology.  The club's name was shortened to Detroit Ophthalmological Club in 1928.</p>
+      <p>From its beginnings, membership in the club has been limited to 30 members.  Prospective candidates for membership are still voted into the club by current members.  The club comprises ophthalmologists residing in Detroit, its suburbs, Ann Arbor, and the University of Michigan.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The records of the organization include correspondence, a copy of the club's constitution and bylaws, with revisions, and brief minutes of meetings.  Also included with the records are a brief history and a case report detailing the early use of X-ray photography for ophthalmological procedures performed in Eloise, Michigan in 1897.  The record group also includes the record book, 1902-1904, for D.O.C.'s predecessor organization, the Wayne County Medical Society Section for Diseases of the Eye, Ear, Nose, and Throat.  The record book contains minutes, bylaws, and lists of members.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">Detroit Ophthalmological Club.</corpname>
+        <subject source="lcsh" encodinganalog="650">Ophthalmology--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">Ophthalmic photography.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Eloise (Hospital : Wayne County, Mich.)</corpname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Organizational records</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>A Brief History of Detroit Ophthalmological Club</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Constitution and bylaws of D.O.C. (April 1935 revision)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Case Report on Early Use of X-Ray Photography, Eloise, Michigan, <unitdate type="inclusive">1897</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1919</unitdate> and <unitdate type="inclusive">1928</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1931-1939</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1940-1948</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1954-1959</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1960-1969</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1970-1979</unitdate> including copy of bylaw revisions, <unitdate type="inclusive">April 30, 1976</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1980</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1981-1996</unitdate> and <unitdate>2005-2011</unitdate></unittitle>
+              <physdesc>
+                <extent>23 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Minutes, <unitdate type="inclusive">1915-2002</unitdate></unittitle>
+            <physdesc>
+              <extent>5 notebooks, 1 folder, and 1 expandable folder</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Member Obituaries, <unitdate type="inclusive">1935</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Record book, <unitdate type="inclusive">1902-1904</unitdate> of the Wayne County Medical Society section for Diseases of he Eye, Ear, Nose and Throat </unittitle>
+          </did>
+          <note>
+            <p>(The section was a predecessor of the Detroit Ophthalmological and Otolaryngological Club.)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">1</container>
+            <unittitle>Photo album of centennial celebration, <unitdate type="inclusive">2004</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

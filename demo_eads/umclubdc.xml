@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::umclubdc.xml//EN" encodinganalog="Identifier">
+umich-bhl-861144</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+University of Michigan Club of Washington, D.C. records, 1935-1985
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Beth Lindblom, 1990</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>Sept. 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2008-09-22</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+University of Michigan Club of Washington, D.C. records, 1935-1985
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Beth Lindblom, 1990
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan Club of Washington, D.C.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+University of Michigan Club of Washington, D.C. records
+<unitdate type="inclusive" encodinganalog="245$f">
+1935-1985
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+861144 Bimu H1a 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Correspondence of club secretary-treasurer T. Maxwell Collier relating to club functions, dinners and reunions; also mailings, minutes, newsletters, press releases, and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by T. Maxwell Collier (Donor No. <num type="donor" encodinganalog="541$e">3267</num>) in November 1989.
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>No further additions to the records expected.</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>The records are open for research.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box, University of Michigan Club of Washington, D.C. records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Theodore Maxwell Collier was born on June 28, 1909, and spent his youth in Frankfort, Michigan, graduating from Frankfort High School in 1927.  He received his B.A. from the University of Michigan in 1931 and his M.A. in 1932.  He was employed as an archivist by the Memorial Division of the U.S. Army for over thirty years, beginning in 1936.  Mr. Collier had a longtime association with the University of Michigan Alumni Club of Washington, D.C., which he served as secretary/treasurer from 1942 to 1962.  He also served for some time as secretary/treasurer of the Second District of the Alumni Association (of which the Washington Club was one member).  In addition, Mr. Collier was involved with the Michigan State Society, an organization of people in the Washington, D.C. area who have an affiliation with the state of Michigan.  He served this group as historian, and wrote an organizational history on the occasion of its centennial in 1962.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The collection is divided into five series: Papers, Topical File, Correspondence, Photographs and Sound Recordings.   The papers series (1 linear foot) consists of minutes, reports, incoming and outgoing correspondence of the secretary/treasurer, copies of the club president's correspondence, and correspondence from the secretary of the Alumni Association.  Although the items date from 1924 to 1985, most of the material covers the 1950s, when Mr. Collier was most active.  The papers were received in considerable disarray, and were rearranged chronologically.  The topical files were retained in their original form.  Some overlap may exist between the two types of files. The Correspondence series is largely of copies of correspondence from  Alumni Association  General Director T. Hawley Tapping to alumni and others in the Washington D.C. area and correspondence with representatives of other U-M alumni clubs.  The  Photographs series consists of prints from the Congressional Dinner hosted by the club.   The audiotapes include talks by U-M President Robben Fleming and Gerald Ford at the club's annual dinner.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Alumni and alumnae--Washington (D.C.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan Club of Washington, D.C.</corpname>
+<persname source="lcnaf" encodinganalog="700">Collier, T. Maxwell.</persname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan Club of Washington, D.C.</corpname>
+</controlaccess>
+
+
+
+
+<controlaccess><head>Contributors- Sound Rrecordings: </head>
+<persname source="lcnaf" encodinganalog="700">Fleming, R. W. (Robben Wright), 1916-</persname>
+<persname source="lcnaf" encodinganalog="700">Ford, Gerald R., 1913-2006.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1938-1943</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1945-1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1950</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1951</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1952</unitdate> </unittitle> <physdesc><extent>2 Folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1953</unitdate> </unittitle> <physdesc><extent>2 Folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1954</unitdate> </unittitle> <physdesc><extent>2 Folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1955</unitdate> </unittitle> <physdesc><extent>2 Folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1956</unitdate> </unittitle> <physdesc><extent>2 Folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1957</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1958</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1960-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1963-1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1974-1985</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Topical Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>U of M Alumni Assn, Second District</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alumni Club Scholarships</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alumni Dinner, <unitdate type="inclusive">1935</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Congressional Dinners, <unitdate type="inclusive">1954-1955</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Honor Awards, <unitdate type="inclusive">1949-1952</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Howell Scholarship, <unitdate type="inclusive">1946</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership, <unitdate type="inclusive">1946-1948</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership lists, <unitdate type="inclusive">1952-1957</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">March 1951-February 1956</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Newsletters</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1950-1959</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1960-1969</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Press Releases, <unitdate type="inclusive">1951-1953</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Promotional Materials</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1950-1955</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1955-1960</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Papers and Correspondence,</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1943-1948</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1948</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1949-1953</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1943-1947</unitdate> (outgoing)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1948-1949</unitdate> (outgoing)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1948-1940</unitdate> </unittitle></did> <note><p>(copies of  T. Hawley Tapping correspondence to Washington, D.C. area alumni)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Photographs</unittitle></did>
+<c02 level="file"><did><unittitle>Congressional Dinner</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1957</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1958</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1960</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Sound recordings</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1975</unitdate> Annual Dinner </unittitle></did> <note><p>(Gerald Ford spoke)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1976</unitdate> Annual Dinner </unittitle></did> <note><p>(Robben Fleming spoke)</p></note></c02></c01>
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

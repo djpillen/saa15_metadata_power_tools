@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::wylliecl.xml//EN" encodinganalog="Identifier">
+umich-bhl-85465</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Cleland B. Wyllie papers, 1926-1979
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>September 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-09-24</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Cleland B. Wyllie papers, 1926-1979</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Wyllie, Cleland B., 1906-1979.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Cleland B. Wyllie papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1926-1979
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85465 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Director of media relations at the University of Michigan. Correspondence, articles, newsletters, annual reports, newspaper clippings, photographs, memorabilia, and miscellanea concerning trains and the railroad industry; also scrapbooks of Michigan sports.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Cleland B.. Wyllie (donor no. <num type="donor" encodinganalog="541$e">5327</num>) and came to the library in 1979.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>No further additions to the records are expected.</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Born on October 30, 1906, in Durand, a railroad center, Cleland B. Wyllie worked for two years for the Grand Trunk and Western Railroad prior to enrolling at the University of Michigan in the fall of 1926.</p>
+
+<p>After earning his bachelor's degree in 1930, he began his long career as journalist, first as telegraph editor for the <title render="italic">Owosso Argus Press</title>. He served in that post for five years before becoming editor of the <title render="italic">Durand Express</title>, a weekly newspaper. In 1937, Wyllie returned to the <title render="italic">Owosso Argus Press</title> as telegraph editor, and served in that post until becoming assistant editor of the U-M News Service in 1942.</p>
+
+<p>Following a leave of absence from the U-M while serving in the U.S. Army from 1943 to 1945, Wyllie returned to Ann Arbor to assume his former duties. A year later he was promoted to editor of the U-M News Service. Wyllie's title was changed to managing editor in 1956 and, in 1962, he became assistant director of media relations for mass media. In 1965, his title was changed to that of U-M director of media relations.</p>
+
+<p>Wyllie was a member of the Michigan Press Association, the Detroit Press Club, the University Club of Ann Arbor, and the Lexington Group, an organization of railroad historians. He served as publicity chairman for Michigan Week in 1970 and 1971.</p>
+
+<p>Wyllie died early July, 1979.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection is arranged into five series: Correspondence; Writings; Railroads; Miscellaneous; and Scrapbooks. Much of the collection relates to Wyllie's great interest in railroad history.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Athletics--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Railroads--United States.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Sports.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<geogname source="lcsh" encodinganalog="651">Blue Water Bridge (Port Huron, Mich. and Sarnia, Ont.)</geogname>
+<subject source="lctgm" encodinganalog="650">Ferries.</subject>
+<geogname source="lcsh" encodinganalog="651">Mackinaw City (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Ontario.</geogname>
+<subject source="lctgm" encodinganalog="650">Railroad lounge cars.</subject>
+<subject source="lctgm" encodinganalog="650">Railroads--Ontario.</subject>
+<subject source="lctgm" encodinganalog="650">Railroads--United States.</subject>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence, <unitdate type="inclusive">1940-1979</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1940-1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1950-1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1955-1956</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1957-1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1960-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1963-1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1966-1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1970-1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Family correspondence, <unitdate type="inclusive">1958-1963</unitdate> with Herman H. Josenhans</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Writings, <unitdate type="inclusive">1927</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>College papers and lecture notes, <unitdate type="inclusive">1927-1929</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Articles, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Articles, <unitdate type="inclusive">undated</unitdate>, for <title render="italic"> Inside Track</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Black Hills Central Railroad," <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Grand Trunk History, 1879-1880" <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Route of the Freight 4001s" <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Tyler vs. Vanderbilt, " <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Why have the railroads had to discontinue so many passenger trains in Michigan?" <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Can Michigan's Railroads Stay in the Passenger Business?" <unitdate type="inclusive">1955</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Railroad Passenger Service Needs Some Positive Thinking," <unitdate type="inclusive">1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Train Riding Survey, " <unitdate type="inclusive">1966-1968</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Railroads</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers, <unitdate type="inclusive">1973</unitdate> concerning Michigan railroads</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers, <unitdate type="inclusive">undated</unitdate> and <unitdate type="inclusive">1972</unitdate> concerning Michigan car ferries</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Michigan Railroad Club</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership list, <unitdate type="inclusive">1964</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Broadsides, <unitdate type="inclusive">1960-1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Rail Action Association, <unitdate type="inclusive">undated</unitdate> and <unitdate type="inclusive">1977</unitdate> Constitution and bulletins</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Railroad Record Club, undated, Order information</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Roundhouse records, <unitdate type="inclusive">1965-1966</unitdate> Broadsides</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Railfan, <unitdate type="inclusive">1964-1965</unitdate> news release</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers, undated, <unitdate type="inclusive">1945</unitdate> and <unitdate type="inclusive">1960-1961</unitdate> concerning sale of timetables</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Railroad memorabilia, undated, including broadsides, pamphlets, and certificates </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Articles by others concerning railroads and transportation </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings </unittitle></did> <note><p>(include obituary)</p></note></c02>
+<c02 level="file"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Portraits</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Railroad photos</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Delta College</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1950-1951</unitdate> of Michigan travel</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1926</unitdate> concerning baseball</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1926-1927</unitdate> concerning football and baseball</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1927-1928</unitdate> concerning sports</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1928-1930</unitdate> concerning football and baseball</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1932-1933</unitdate> concerning football</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1948</unitdate> of Michigan Rose Bowl game</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

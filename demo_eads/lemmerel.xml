@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::lemmerel.xml//EN" encodinganalog="Identifier">
+umich-bhl-851870</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Elizabeth Lemmer papers, 1969-1978
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-02-27</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Elizabeth Lemmer papers, 1969-1978</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Lemmer, Elizabeth, collector.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Elizabeth Lemmer papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1969-1978
+</unitdate>
+
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851870 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Ann Arbor, Michigan, right-to-life activist; collected newsletters, clippings, and other materials relating to the right-to-life movement
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was deposited by Elizabeth Lemmer (donor no. <num type="donor" encodinganalog="541$e">5516</num>) beginning in 1974. Additional material were received.  
+</p></acqinfo>
+
+
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Elizabeth Lemmer papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Elizabeth Lemmer of Ann Arbor, Michigan was active in various pro-life, anti-abortion organizations beginning in the late 1960s.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Elizabeth Lemmer papers consists of collected newsletters and printed material from Michigan Citizens for Life (later renamed Right-to-Life of Michigan) and the Michigan Right-to-Life Committee, a political action group organized to counter attempts to legalize abortion in 1972.  In addition, the collection includes scattered correspondence and newspaper clippings regarding the issue of abortion.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Pro-life movement--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Elections--Michigan--1972.</subject>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1971-1980.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Michigan Right-to-Life Committee.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Right to Life of Michigan.</corpname>
+<subject source="lcsh" encodinganalog="650">Women's rights--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Women in politics--Michigan--Ann Arbor.</subject>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Collected right-to-life materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1971-1978</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Citizens for Life-Conventions, <unitdate type="inclusive">1974-1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Michigan Right-to-Life Committee</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous and printed material regarding abortion, <unitdate type="inclusive">1971-1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Promotional and campaign literature </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>National Right-to-Life Convention (Detroit), <unitdate type="inclusive">1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Newsletters</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1972</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1973</unitdate> (Grand Rapids Right-to-Life Committee)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1974-1977</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings <unitdate type="inclusive">1971-1978</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>14 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Sound recordings">Audio cassettes</genreform>, undated, <unitdate type="inclusive">1969</unitdate>, <unitdate type="inclusive">1972</unitdate> </unittitle> <physdesc><extent>4 cassette tapes</extent></physdesc></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

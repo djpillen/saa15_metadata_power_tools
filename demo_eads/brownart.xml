@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::brownart.xml//EN" encodinganalog="Identifier">
+umich-bhl-8562</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Arthur Brown family papers, ca. 1873-1945
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-10-04</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Arthur Brown family papers, ca. 1873-1945</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+
+<famname source="lcnaf" encodinganalog="100">
+Brown family.
+</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Arthur Brown family papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1873-1945
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8562 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Ann Arbor, Michigan, family. Correspondence, other papers and photographs of Arthur Brown, Ann Arbor attorney and mayor, and officer and director of the Washtenaw Abstract Company; also papers of his wife, Cora Pulcipher Brown, largely concerning work with Americanism Committee of the Daughters of the American Revolution during World War II.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of the estate of Mrs. Helen Brown Haller (donor no. <num type="donor" encodinganalog="541$e">6321</num>) and came to the library in 1979.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Arthur Brown family papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Arthur Brown was born in Saline, Michigan on February 14, 1864. Orphaned, he nevertheless received a solid education, first attending Albion College and later the Law School of the University of Michigan, from which he graduated in 1894.</p>
+
+<p>While Brown was attending law school, he served as county clerk of Washtenaw County. Brown remained active in politics, as a Democrat, throughout his life. He served in Ann Arbor as an alderman, member of the Board of Education, and mayor (1903-1905). He was defeated twice in an effort to become circuit judge.</p>
+
+<p>Privately, Brown maintained an active and respected law practice. He also served on the board of directors of two local banks and was both an officer and director of the Washtenaw Abstract Company.</p>
+
+<p>Arthur Brown died September 21, 1932. He was survived by his widow, Cora Pulcipher Brown, who was a founder and active member of the Sara Caswell Angell chapter of the Daughters of the American Revolution.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Brown family collection is unfortunately a fragment of materials with very few of the papers created by either Arthur or Cora Brown surviving. What remains relate almost exclusively to the legal career of Arthur Brown, in particular to his service to various persons as a collector of bad debts, and to Cora Brown's work with the Americanism Committee of the Daughters of the American Revolution during World War II. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--History.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Washtenaw Abstract Company (Ann Arbor, Mich.).</corpname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">Daughters of the American Revolution.</corpname>
+<subject source="lcsh" encodinganalog="650">Lawyers--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Business enterprises.</geogname>
+<geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Dwellings.</geogname>
+<persname source="lcnaf" encodinganalog="600">Brown, Arthur, 1864-1932.</persname>
+<famname source="lcnaf" encodinganalog="600">Brown family.</famname>
+<persname source="lcnaf" encodinganalog="600">Bryan, William Jennings, 1860-1925.</persname>
+<subject source="lctgm" encodinganalog="650">Business enterprises--Michigan--Ann Arbor.</subject>
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Ann Arbor.</subject>
+<famname source="lcnaf" encodinganalog="600">Haller family.</famname>
+<corpname source="lcnaf" encodinganalog="610">Haller Jewelry (Store : Ann Arbor, Mich.)</corpname>
+<subject source="lctgm" encodinganalog="650">Interiors--Michigan--Ann Arbor.</subject>
+<persname source="lcnaf" encodinganalog="600">Wilson, Woodrow, 1856-1924.</persname>
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Brown, Arthur, 1864-1932.</persname>
+<persname source="lcnaf" encodinganalog="700">Brown, Cora Pulcipher.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="gmgpc" encodinganalog="655">Ambrotypes.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Family papers</unittitle></did>
+<c02 level="file"><did><unittitle>Genealogical material</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Brown family</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Doty-Pulcipher families</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Haller (George) family</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Arthur Brown biographical material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Cora Brown activity in Americanism Committee,</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sarah Caswell Angell chapter, D.A.R. (World War II)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Brown home</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1897-1901</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1902-1903</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1904-1905</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1906-1907</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1908-1910</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Summaries of cases </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial records (legal fees?) </unittitle> <physdesc><extent>2 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Institute of Metaphysics class notes, <unitdate type="inclusive">1873</unitdate> </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Scrapbook </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform>, <unitdate type="inclusive">1896</unitdate></unittitle></did><scopecontent><p>Photographs in collection include unidentified <genreform normal="Ambrotypes">ambrotypes</genreform>, presumably of family members; photos of the Pulcipher family home, of William Jennings Bryan's visit to Ann Arbor in 1896 and of the interior of the Haller Jewelry store; and a portrait of Arthur Brown.</p></scopecontent></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::michsha.xml//EN" encodinganalog="Identifier">
+umich-bhl-85288</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Michigan School Health Association  records, 1933-1991
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Anne Frantilla, 1984</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>20080205</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-02-05</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Michigan School Health Association  records, 1933-1991</titleproper>
+
+<author>Finding aid created by<lb/> 
+Anne Frantilla, 1984</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Michigan School Health Association.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Michigan School Health Association  records
+<unitdate type="inclusive" encodinganalog="245$f">
+1933-1991
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85288 Bf 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Organization concerned with school health programs and education.  Records include constitution, board minutes, committee files, history of the organization, activities files, correspondence, publications, and photographs.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was deposited by the Association (Donor No. <num type="donor" encodinganalog="541$e">6180</num>) in 1978 and 1984.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright status is uncertain.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Michigan School Health Association  records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Michigan School Health Association (MSHA) was established in 1933 to bring together professionals engaged in school health work. Originally called the Michigan Association of School Physicians, its name was changed to MSHA in 1936.</p>
+
+<p>The goals of the organization are several. One is to promote comprehensive and constructive school health programs for Michigan's school children. A second objective is to develop and maintain a body of concerned professionals and lay people devoted to fostering mutual cooperation between school personnel and those other persons and agencies waning to improve the social, physical and emotional health of children and youth. In addition, the MSHA endeavors to represent the people of Michigan with its participation in the American School Health Association.</p>
+
+<p>The MSHA works to achieve its goals through a variety of activities. These include annual and special state-wide meetings, conferences and workshops and the publication of newsletters.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The records of the MSHA consist of five series: Histories, Organizational Material (1933-1983), Correspondence and Memoranda (1934-1982), Activities (1935-1983), and Publications.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Public health--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Schools--Michigan.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Anniversaries.</subject>
+<subject source="lctgm" encodinganalog="650">Banquets.</subject>
+<subject source="lctgm" encodinganalog="650">Exhibitions.</subject>
+<corpname source="lcnaf" encodinganalog="610">Michigan School Health Association.</corpname>
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+<corpname encodinganalog="710" source="lcnaf">corpname</corpname>
+<persname encodinganalog="700" source="lcnaf">persname </persname>
+<geogname encodinganalog="655" source="lcsh">geogname</geogname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Histories</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Histories</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Organizational Material</unittitle></did>
+<scopecontent>
+<p>Organizational Material (1933-1983) contains minutes and other records dating from the early years of the organization to the present. The committee files primarily document the late 19701s.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution and Bylaws, <unitdate type="inclusive">1933-1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1933-1982</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Reports, <unitdate type="inclusive">1934-1983</unitdate> (scattered dates)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership Lists, <unitdate type="inclusive">1943-1982</unitdate> (scattered dates)</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Committees</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Archives, <unitdate type="inclusive">1976-1984</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Awards, <unitdate type="inclusive">1975-1982</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership, <unitdate type="inclusive">1975-1981</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Nominating, <unitdate type="inclusive">1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Program, <unitdate type="inclusive">1934-1981</unitdate> (scattered dates)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence and Memoranda</unittitle></did>
+<scopecontent>
+<p>Correspondence and Memoranda (1934-1982) includes incoming and out-going correspondence from members and other people involved in organizations which worked closely with MSHA (e.g., the Michigan Health Council). There is a gap in this series for the years 1952-1956.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1934-1957</unitdate> <title render="italic">P</title> folders)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1958-1982</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Activities, <unitdate type="inclusive">1935-1983</unitdate></unittitle></did>
+<scopecontent>
+<p>Activities (1935-1983) documents primarily events which took place in the early 1980's. One such activity was the School Health Education Resource Coordination Project which was a joint effort between MSHA and the Michigan Health Council to coordinate, codify and disseminate school health resources.</p></scopecontent>
+<c02 level="file"><did><unittitle>Conferences and Workshops</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Annual Conferences, <unitdate type="inclusive">1935-1959</unitdate> (scattered dates)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>"Instruction in the 80s" (Department of Education), <unitdate type="inclusive">1982</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Leadership Workshop, <unitdate type="inclusive">1957-1962</unitdate> (scattered dates)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Fiftieth Anniversary, <unitdate type="inclusive">1983</unitdate> (including commemorative Resolution)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Grant Proposal, <unitdate type="inclusive">1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Liaison, Group (MSHA and Department of Education), <unitdate type="inclusive">1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Project Health, <unitdate type="inclusive">1980-1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>School Aged Health Network, <unitdate type="inclusive">1980-1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>School Health Education Resources Coordination Proje<title render="italic">ct,</title> <unitdate type="inclusive">1982-1983</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Publications, </unittitle></did>
+<scopecontent>
+<p>Publications consists of newsletters, pamphlets and other publications of MSHA.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Newsletters, <unitdate type="inclusive">1943-1983</unitdate> (scattered dates)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Photographs</unittitle></did>
+<scopecontent><p>The Photographs series includes prints of 50th anniversary awards luncheon and other conferences.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Photos</unittitle></did></c02></c01>
+
+
+
+
+<c01 level="series"><did><unittitle>Records, <unitdate type="inclusive">September 1983-1991</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">September 1983-August 1989</unitdate></unittitle></did><note><p>(November 1984 acession)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1983/84-1984/85</unitdate></unittitle></did><note><p>(November 1984 acession)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">1986-1991</unitdate></unittitle></did><note><p>(November 1984 acession)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

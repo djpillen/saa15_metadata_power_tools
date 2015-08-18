@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::italians.xml//EN" encodinganalog="identifier">
+umich-bhl-735
+</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Finding Aid for 
+Italians in Michigan : Publications of Italian-American Organizations
+</titleproper>
+        <author encodinganalog="creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="date">
+June 2005</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>June 2005</date></creation>
+      <langusage>The finding aid is written in  <language langcode="eng">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>20050630</date>
+        <item>Original encoding from Word 20000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Italians in Michigan :<lb /> Publications of Italian-American Organizations,<lb /> undated and 1929-1951</titleproper>
+      <author>Finding aid created by<lb /> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21">
+    <did>
+      <origination>
+<title source="aacr2" encodinganalog="130">
+Italians in Michigan : Publications of Italian-American Organizations
+</title></origination>
+      <unittitle encodinganalog="245">
+Italians in Michigan : Publications of Italian-American Organizations 
+<unitdate type="inclusive" encodinganalog="245$f">
+undated and 1929-1951
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+1 envelope
+</extent>
+      </physdesc>
+      <unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+EA 127 I88 P976
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Scattered constitutions, by-laws, convention proceedings of Italian-American organizations in Iron River and Caspian in Michigan's upper peninsula.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload" /></repository>
+    </did>
+    <descgrp type="admin">
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open for research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright status is unclear.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Italians in Michigan : Publications of Italian-American Organizations, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <scopecontent encodinganalog="520">
+      <p>Scattered constitutions, by-laws, convention proceedings of Italian-American organizations in Iron River and Caspian in Michigan's upper peninsula.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject encodinganalog="650" source="lcsh">Italian-Americans--Michigan</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Constitutions, By-Laws and Proceedings of Italian-American Organizations</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>Società Italiana di Beneficenza (Iron River, Michigan)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder" label="Folder">1</container>
+              <unittitle>
+                <title render="italic">Statuto Fondamentale</title>
+              </unittitle>
+              <physdesc>
+                <extent>3 issues</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Società Italiana di Beneficenza "Duca Degli Abruzzi" (Caspian, Michigan)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder" label="Folder">1</container>
+              <unittitle>
+                <title render="italic">Costiiuzione e Regolamento</title>, <unitdate type="inclusive">[1949 ?]</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder" label="Folder">1</container>
+            <unittitle>Società Italiana di Mutuo Saccorso di Iron River, Michigan</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>
+                <title render="italic">Statuto e Regolamento,</title> <unitdate type="inclusive">1929</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Società M.S. Giordano Bruno in Iron River, Michigan</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder" label="Folder">1</container>
+              <unittitle>
+                <title render="italic">Statuto Fondamentale,</title> <unitdate type="inclusive">undated</unitdate></unittitle>
+              <physdesc>
+                <extent>2 issues</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Upper Peninsula Federation of American-Italian Societies.</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder" label="Folder">1</container>
+              <unittitle>
+                <title render="italic">42d Annual Convention</title>, 1951</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

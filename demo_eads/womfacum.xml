@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::womfacum.xml//EN" encodinganalog="Identifier">
+umich-bhl-87348</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Women of the University Faculty (University of Michigan) records, 1939-2003
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Helmi Raaska, December 1983</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2006-08-14</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2009-11-23</date><item>Changes made with the addition of new material.</item></change><change><date>2006-08-14</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Women of the University Faculty <lb/>(University of Michigan) <lb/>Records, 1939-2003
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Helmi Raaska, December 1983
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Women of the University Faculty (University of Michigan).
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Women of the University Faculty (University of Michigan), records
+<unitdate type="inclusive" encodinganalog="245$f">
+1939-2003
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+87348 Bimu M3 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Records, 1939-1983, of the Women of the University Faculty.  Includes constitution, history, membership rosters, minutes, financial reports, and correspondence.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was received in November 1983 (donor no. <num type="donor" encodinganalog="541$e">7010</num>) Periodic additions have been received.</p></acqinfo>
+
+<accessrestrict encodinganalog="506">
+<p>TThe record group is open without restriction.</p>
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Women of the University Faculty (University of Michigan) Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Women of the University Faculty began meeting informally in February 1939. At that time the group was known as Faculty Women. Various changes have taken place as the organization became more structured, including changing the name to the present one during the 1940-1941 academic year, and the adoption of a constitution in the fall of 1946. According to the constitution, the purpose of the group is "to promote good fellowship, a community of professional interest, and a closer cooperation among the women of the various faculties."</p>
+
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>Most of the records, 1939-1983, of the Women of the University Faculty have been arranged in chronological order by academic year.  The first files contain basic information -- such as a history, various revisions of the constitution, publicity, duties of officers, and summaries of activities.  There are also files relating to the group's clubroom and the hosting of the Senate and House Club (wives of Michigan legislators) on two occasions.  The general files, arranged by academic year, include membership rosters, lists of officers and committee members, minutes, financial reports, and correspondence.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor--Societies and clubs.</subject>
+<subject source="lcsh" encodinganalog="650">College teachers--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Women college teachers--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">Women of the University Faculty (University of Michigan)</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hosting of Senate and House Club, <unitdate type="inclusive">1954</unitdate> and <unitdate type="inclusive">1958</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>House Committee Related to Clubroom, <unitdate type="inclusive">1946-1952</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Obituaries, <unitdate type="inclusive">1985-2003</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Officers' Duties</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Programming, <unitdate type="inclusive">1976-2001</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Publicity</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Summaries, <unitdate type="inclusive">1940-1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General files, <unitdate type="inclusive">undated</unitdate> and 1939/1940-1992/1993 </unittitle> <physdesc><extent>48 folders</extent></physdesc></did> <note><p>(1965/1966 missing)</p></note></c02></c01>
+ 
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

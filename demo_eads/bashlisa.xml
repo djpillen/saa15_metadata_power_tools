@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::bashlisa.xml//EN" encodinganalog="identifier">
+umich-bhl-0526</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Lisa Marshall Bashert Papers, 1971-2010
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Bentley Historical Library staff in 2005, updated 2013</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>March 2005</date> and Olga Virakhovskaya,<date>2013</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2013-03-05</date><item>Changes made with the addition of new material.</item></change>
+<change><date>2005-03-11</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Lisa Marshall Bashert Papers, 1971-2010	</titleproper>
+
+<author>Finding aid created by<lb/> 
+Thomas E. Powers, 2005</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Bashert, Lisa Marshall
+</persname></origination>
+
+<unittitle encodinganalog="245">
+Lisa Marshall Bashert Papers,  
+<unitdate type="inclusive" encodinganalog="245$f">
+1971-2010
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+6 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+0526 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Lisa Marshall Bashert is a lesbian feminist witch from Ypsilanti, Michigan.  She was involved in various causes and local organizations, especially relating to gay-lesbian activism in Michigan.  She is a graduate of the University of Michigan and a life-partner of Beth Bashert. The Bashert collection consists almost entirely of her journals which are a combination of diaries, musings and other personal reflections about such topics as her sexuality, her personal relationships, and her involvement in feminist, lesbian, and pagan organizations.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Lisa Marshall Bashert (donor no. <num type="donor" encodinganalog="541$e">9510</num>) and came to the library in September 2004.  
+Several additions to the collection have been received.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are expected.
+</p></accruals><accessrestrict encodinganalog="506"><p>
+The collection is open only with the written permission of Lisa Marshall Bashert.  The collection will be open without restriction upon her death.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Lisa Marshall Bashert Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp><bioghist encodinganalog="520"><p>Lisa Marshall Bashert is a lesbian feminist witch from Ypsilanti, Michigan.  She was involved in various causes and local organizations, especially relating to gay-lesbian activism in Michigan.  She is a graduate of the University of Michigan and a life-partner of Beth Bashert.  </p></bioghist>
+
+<scopecontent><p>The Bashert collection consists almost entirely of her journals which are a combination of diaries, musings and other personal reflections about such topics as her sexuality, her personal relationship, and her involvement in feminist, lesbian, and pagan organizations.</p></scopecontent><controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Bashert, Lisa Marshall.</persname>
+<persname source="lcnaf" encodinganalog="600">Bashert, Beth.</persname>
+<subject source="lcsh" encodinganalog="650">Coming out (sexual orientation)</subject>
+<subject source="lcsh" encodinganalog="650">Feminists--Michigan--Ypsilanti.</subject>
+<subject source="lcsh" encodinganalog="650">Gays--Michigan--Ypsilanti.</subject>
+<subject source="lcsh" encodinganalog="650">Lesbians--Michigan--Ypsilanti.</subject>
+<subject source="lcsh" encodinganalog="650">Witchcraft--Michigan--Ypsilanti.</subject>
+<subject source="lcsh" encodinganalog="650">New Age movement.</subject>
+<geogname source="lcsh" encodinganalog="651">Ypsilanti (Mich.)</geogname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform></controlaccess></controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Journals </unittitle></did> <note><p>(also includes programs, writings, published materials, letters written, notes on classes taken, personal reflections, etc.)</p></note>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1971-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1990-1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1996-1999</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">2000-2005</unitdate></unittitle></did></c02><c02 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1994-2005</unitdate> </unittitle> <physdesc><extent>16 folders</extent></physdesc></did><note><p>(includes loose materials from journals)</p></note></c02><c02 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">2006</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02><c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">2007-2010</unitdate> </unittitle> <physdesc><extent>12 folders</extent></physdesc></did></c02></c01>
+
+
+
+
+
+
+
+
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle>Rainbow Neighbors, <unitdate type="inclusive">1999-2000</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle>CD-ROM copy of Bashert journals, <unitdate type="inclusive">1998-2004</unitdate></unittitle></did></c02></c01>
+
+
+
+</dsc></archdesc>
+
+</ead>

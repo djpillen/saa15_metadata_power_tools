@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::learndis.xml//EN" encodinganalog="Identifier">
+umich-bhl-8540</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Learning Disabilities Association of Michigan, Washtenaw County Chapter records, 1968-1998
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>March 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-03-31</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Learning Disabilities Association of Michigan, Washtenaw County Chapter records, 1968-1998</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Learning Disabilities Association of Michigan. Washtenaw County Chapter.
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Learning Disabilities Association of Michigan, Washtenaw County Chapter records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1968-1998
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8540 Bh 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Articles of incorporation, membership lists, minutes, reports, newsletters, correspondence, newspaper clippings, photographs, and other organizational materials.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was donated by the organization (donor no. <num type="donor" encodinganalog="541$e">6408</num>) beginning in 1980. Additions have been received.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Learning Disabilities Association of Michigan, Washtenaw County Chapter records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The organizational has undergone at least two name changes: from the Association for Children with Social and Learning Difficulties, then the Michigan Association for Children and Adults with Learning Difficulties, later the Learning Disabilities Association of Michigan.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>Organizational records include minutes, correspondence, and administrative materials relating to the activities of the Washtenaw County chapter.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Learning Disabilities Association of Michigan. Washtenaw County Chapter.</corpname>
+<subject source="lcsh" encodinganalog="650">Child development--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Education--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Learning disabilities.</subject>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Learning Disabilities Association of Michigan. Washtenaw County Chapter.</corpname>
+<subject source="lctgm" encodinganalog="650">Children and adults.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Organizational Records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution, articles of incorporation (plus amendment), and other legal documents</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legal materials</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Purpose of organization</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Members</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership lists Mailing lists</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Directories</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General meeting attendance sheets</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual reports, <unitdate type="inclusive">1971-1972</unitdate>, <unitdate type="inclusive">1972-1973</unitdate>, <unitdate type="inclusive">1982-1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Minutes</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Advisory Board meetings, <unitdate type="inclusive">1969</unitdate>, <unitdate type="inclusive">1970</unitdate>, <unitdate type="inclusive">1971</unitdate>, <unitdate type="inclusive">1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Executive Board meetings, <unitdate type="inclusive">1968-1989</unitdate> </unittitle> <physdesc><extent>12 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General meetings</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Treasurer reports, <unitdate type="inclusive">1969</unitdate> and miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters, <unitdate type="inclusive">1968-1981</unitdate> </unittitle> <physdesc><extent>7 folders</extent></physdesc></did> <note><p>(recent newsletter separately cataloged)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Brochures, miscellaneous publications</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Forms and questionnaires</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Proposals</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Service Center</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Professional directorship</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Funding</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Projects</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Pilot project</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Project Outreach</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Survival Coffees for parents</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Studies</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor Advisory Committee on Special Needs</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>WISD "Need Study Committee" report</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Pre-school study</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Washtenaw County Community Coordinated Child Care</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Grant, United Fund ACSLD-WARC</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Recreation program</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1968-1979</unitdate> </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous printed material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>News clippings, <unitdate type="inclusive">1972-1975</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Unsorted material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Later unprocessed records</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::woodjcp.xml//EN" encodinganalog="Identifier">
+umich-bhl-7214</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+James C. Wood pamphlets and reprints, 1890-1947
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-01-16</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+James C. Wood pamphlets and reprints, 1890-1947</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Wood, James C. (James Craven), b. 1858.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+James C. Wood pamphlets and reprints 
+<unitdate type="inclusive" encodinganalog="245$f">
+1890-1947
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+42 items (in 1 box)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+[7214] DA 2; W876; P186
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The provenance of the items in this collection is uncertain.
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+James C. Wood pamphlets and reprints, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>James C. Wood was a professor of obstetrics and diseases of women and children at the University of Michigan Homeopathic Medical College.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>This collection of pamphlets and reprints of the writings of James C. Wood was gathered together from different sources. The collection is arranged alphabetically by title.</p>
+</scopecontent>
+
+
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Pamphlets and reprints</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The American college of surgeons and fee-splitting, <unitdate type="inclusive">1914</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Carcinoma of the uterus, <unitdate type="inclusive">1896</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A case of heart massage through the diaphragm after apparent death-recovery, <unitdate type="inclusive">1914</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Celiotomy during pregnancy--six clinical cases, <unitdate type="inclusive">1906</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Cervical tears, <unitdate type="inclusive">1920</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A clinical case with comments, <unitdate type="inclusive">1904</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The creation of a new vagina, <unitdate type="inclusive">1931</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Cystic distension of the appendix vermiformis, with the review of the literature of the subject, <unitdate type="inclusive">1900</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The determination of sex, <unitdate type="inclusive">1918</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Diagnosis, differential diagnosis, and pathology of cystitis and urethritis in women, <unitdate type="inclusive">1900</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ectopic pregnancy following ligature and section of fallopian tubes, <unitdate type="inclusive">1917</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Epilepsy as a histero-neurosis, 1891.  Gynecological clinic, University of Michigan Homeopathic department, Session of <unitdate type="inclusive">1890-1891</unitdate>, <unitdate type="inclusive">1891</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>How can the teaching of the specialities in the undergraduate course be made to serve its true and best purpose-the qualification of the student for general practice, <unitdate type="inclusive">1898</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>An ideal summer outing, <unitdate type="inclusive">1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>In memoriam. Adolph Benedict Schneider, M.D., <unitdate type="inclusive">1947</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Is there a scientific concept of homeopathy? <unitdate type="inclusive">1931</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Keloids following laparotomy, <unitdate type="inclusive">1937</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The lady or the dog, <unitdate type="inclusive">1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Man and his physician, <unitdate type="inclusive">1928</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The medical and surgical treatment of peritonitis, <unitdate type="inclusive">1899</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Neurasthenia of long standing, the result of numerous lesions with the pelvis-abdomen operation--recovery after prolonged convalescence, <unitdate type="inclusive">1906</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A new operation for cystocele, <unitdate type="inclusive">1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Obstruction of the bowel due to abnormal contents, <unitdate type="inclusive">1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The other side of the question, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Philosophical thoughts on medicine, <unitdate type="inclusive">1937</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The practical application of organotherapy, <unitdate type="inclusive">1921</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Profound lesions within the pelvis resulting from gonorrhea giving rise to distressing indigestion, mal-nutrition, etc., <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The proposed amalgamation of the homeopathic and regular departments of the University of Michigan: A protest</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pudendal haematocele, <unitdate type="inclusive">1904</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The reincarnation of Richard Warrington, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The relations of homeopathy to allied systems of therapeutics, <unitdate type="inclusive">1899</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Rhinophyma, <unitdate type="inclusive">1911</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sterility in women, <unitdate type="inclusive">1935</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Then and now, 1825-1925.  A medical drama in two acts, <unitdate type="inclusive">1926</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Three cases of acute intestinal obstruction, <unitdate type="inclusive">1891</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Toxicology and homeopathy, <unitdate type="inclusive">1932</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Two cases of appendicitis associated with retroflexion of the uterus and displacement of the ovaries, <unitdate type="inclusive">1906</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Uncorrected factors perpetuating stomach symptoms after surgical work, <unitdate type="inclusive">1919</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>University ideals in medicine, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The use of the spray in the local treatment of gynecological diseases, <unitdate type="inclusive">1901</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Whither homeopathy?" <unitdate type="inclusive">1929</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A year's surgical work, <unitdate type="inclusive">1902</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

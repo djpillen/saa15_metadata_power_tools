@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H"
+publicid="-//us::MiU-H//TEXT us::MiU-H::pleasant.xml//EN"
+encodinganalog="identifier">umich-bhl-0140</eadid>
+
+<filedesc><titlestmt> 
+<titleproper encodinganalog="title">Finding Aid for Pleasant Lakes Club Records
+<date>1899-2000</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by John P.
+Doyle</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of
+Michigan</publisher><date encodinganalog="date">2001</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by John P. Doyle, <date>Februay
+2001</date></creation>
+<langusage>The finding aid is written in <language encodinganalog="language"
+ langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and
+Xmetal</item></change>
+<change><date>2001-07-11</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Pleasant Lakes Club
+Records, <date type="inclusive">1899-2000</date></titleproper><author>Finding
+aid prepared by: <lb/>John P. Doyle</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="recordgrp" encodinganalog="110"
+relatedencoding="MARC"><did>
+<origination><corpname source="lcnaf" encodinganalog="110">Pleasant Lakes Club</corpname></origination>
+<unittitle encodinganalog="245">Pleasant Lakes Club Records
+<unitdate type="inclusive" encodinganalog="245$f">1899-2000</unitdate>
+<unitdate
+type="bulk"
+encodinganalog="245$g">1950-1991</unitdate></unittitle>
+<physdesc><extent
+encodinganalog="300">0.8 linear ft.</extent></physdesc>
+<abstract>Hunting and
+fishing club established in Livingston County in 1894 by University of Michigan
+professors. The members of the club were also interested in bird and plant
+life. The club was originally situated on Winans Lake, but later moved in 1921
+to Bass Lake and Strawberry Lake. Club histories; organizational papers
+including constitutions, rosters, rules, correspondence, and
+minutes.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H"
+encodinganalog="099" type="call number">0140 Br 2</unitid>
+<langmaterial>The
+materials are in <language encodinganalog="041"
+langcode="eng">English.</language></langmaterial>
+
+<repository encodinganalog="852"><corpname><subarea>Bentley Historical Library</subarea>
+University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>This record group was deposited by the Pleasant Lakes
+Club (donor no. <num type="donor" encodinganalog="541$e">9037</num>) in 2000.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The record group is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the
+University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Pleasant Lakes Club Records, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>The Pleasant Lakes Club ("PLC") was founded in 1894 as the Hunting and Fishing Club
+by a group of University of Michigan professors. The founding members included:
+Dean Worcester, President Harry B. Hutchins, Edward D. Campbell, Paul C. Freer,
+George Hench and Jacob Reighard. PLC property was originally rented on Winans
+Lake, also known as Pleasant Lake, and in 1908 the club was renamed the
+Pleasant Lakes Club.</p>
+<p>The early members of the club were interested in
+fishing, bird life and plant life. Therefore, when the Winans Lake land was
+renovated for new resort apartments, it had lost all appeal for PLC members. At
+this time, in 1921, the Club found a new home on Bass Lake and Strawberry Lake
+in Livingston County, Michigan, where the Club remained until the end of its
+existence in 1998. Club property at this new location included two cottages
+(North and South) and a boathouse on each lake.</p>
+<p>The first club minutes
+were concerned with the election of officers, new members and security of the
+property. This trend continued throughout the life of the PLC, with
+administrative matters dominating meeting agendas. How many members the Club
+should contain and who these members would be were constant topics of
+conversation. Members could nominate other University of Michigan faculty by
+submitting a profile of that faculty person (including a description of his
+wife and family). Candidates were voted on at general meetings of the Club,
+which were often held in the University chemistry building. These meetings were
+typically held twice a year: a Memorial Day picnic at the PLC and a winter
+meeting held in Ann Arbor. In addition to annual dues, new members were
+required to loan the PLC a fixed amount of money, which was refunded if and
+when a member left the club.</p>
+<p>Building and land maintenance were important
+to the success of the Club. There were seasonal "workdays" with different
+responsibilities for men and women. Typical work for men included repairing
+screens, building docks and cutting firewood, while women were responsible for
+the upkeep of cottage interiors.</p>
+<p>A fire destroyed the North Cottage in
+1993, and the lack of money to rebuild it brought the future of the Club into
+question. Two years later the Club decided to sell the property and dissolve.
+The property was sold in the summer of 1997, although the South Cottage
+continued to be used by PLC members until this time. The PLC disbanded in
+February 1998.</p>
+<p>More detailed information about the Club's history will be
+found in the volume written by Elizabeth Bishop in 2000 to be found in the
+History series.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The records
+of the Pleasant Lakes Club consist primarily of organizational and
+administrative documents. Most early records have not survived, with the 1950's
+onwards being the most comprehensively documented period. The collection has
+been divided into four series: History, Organizational, Property, and
+Miscellaneous.</p></scopecontent>
+
+<controlaccess>
+
+<controlaccess><head>Subjects:</head><subject
+source="lcsh" encodinganalog="650">Hunting and fishing
+clubs--Michigan--Livingston County.</subject><geogname source="lcsh"
+encodinganalog="651">Livingston County (Mich.)</geogname><corpname
+source="lcnaf" encodinganalog="610">Pleasant Lakes Club.</corpname><corpname
+source="lcnaf" encodinganalog="610">University of
+Michigan--Faculty.</corpname></controlaccess></controlaccess>
+
+<dsc
+type="combined">
+<c01 level="series"><did><unittitle>History, <unitdate
+type="inclusive">1948-1998</unitdate></unittitle></did><scopecontent><p>The
+History series (1948-1998; 0.1 linear feet) documents the life of the PLC, with
+particular attention given to the creation and early history of the club. It
+consists of a book written by Elizabeth Bishop prior to the donation of the
+collection, summary documents, and recollections written by members at various
+stages of the PLC.</p></scopecontent>
+<c02 level="file"><did><container
+type="box" label="Box">1</container><unittitle>PLC History written by Betty
+Bishop, <unitdate type="inclusive">1998</unitdate></unittitle></did></c02>
+<c02
+level="file"><did><container type="box"
+label="Box">1</container><unittitle>Club Histories, <unitdate
+type="inclusive">1948-1998</unitdate></unittitle><note><p> includes member
+recollections</p></note></did></c02></c01>
+<c01
+level="series"><did><unittitle>Organizational, <unitdate
+type="inclusive">1908-1998</unitdate></unittitle></did><scopecontent><p>The
+Organizational series (1898-1998; 0.5 linear feet) documents the administrative
+aspects of the Club, including membership rosters, correspondence concerning
+membership issues, meeting minutes, the Club Constitution and proposed
+amendments, and treasurer's reports. Meeting minutes are exceptionally well
+represented, covering almost the entire existence of the PLC. Also included in
+this series are communications sent by the officers to the members, such as
+meeting agendas, fliers publicizing upcoming workdays, memos, and cottage
+reservation lists.</p></scopecontent>
+<c02 level="file"><did><container
+type="box" label="Box">1</container><unittitle>Constitution (eight versions and
+proposed amendments)</unittitle></did></c02>
+<c02 level="file"><did><container
+type="box" label="Box">1</container><unittitle>Corporate
+Documentation</unittitle></did></c02>
+<c02 level="file"><did><container
+type="box" label="Box">1</container><unittitle>Cottage Inspection
+Lists</unittitle></did></c02>
+<c02 level="file"><did><container
+type="box" label="Box">1</container><unittitle>House
+Rules, <unitdate>undated</unitdate></unittitle></did></c02>
+<c02
+level="file"><did><container type="box"
+label="Box">1</container><unittitle>Meeting Agendas</unittitle></did></c02>
+<c02
+level="file"><did><container type="box"
+label="Box">1</container><unittitle>Membership Correspondence, <unitdate
+type="inclusive">1921-1987</unitdate>
+and <unitdate>undated</unitdate></unittitle></did></c02>
+<c02
+level="file"><did><container type="box"
+label="Box">1</container><unittitle>Membership Rosters, <unitdate
+type="inclusive">1920-1994</unitdate></unittitle></did></c02>
+<c02
+level="file"><did><container type="box"
+label="Box">1</container><unittitle>Memos, <unitdate
+type="inclusive">1930-1987</unitdate></unittitle></did></c02>
+<c02
+level="file"><did><container type="box"
+label="Box">1</container><unittitle>Minutes, <unitdate
+type="inclusive">1898-1987</unitdate></unittitle><physdesc><extent>4
+folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container
+type="box" label="Box">1</container><unittitle>Reservation Lists, <unitdate
+type="inclusive">1926-1996</unitdate></unittitle></did></c02>
+<c02
+level="file"><did><container type="box"
+label="Box">1</container><unittitle>Treasurer's
+Reports,</unittitle></did></c02>
+<c02 level="file"><did><container type="box"
+label="Box">1</container><unittitle>Workday Assignments, <unitdate
+type="inclusive">1957-1987</unitdate></unittitle></did></c02></c01>
+<c01
+level="series"><did><unittitle>Property, <unitdate
+type="inclusive">1908-1952</unitdate></unittitle></did><scopecontent><p>The
+Property series (1908-1952; .05 linear feet) consists primarily of
+correspondence between the PLC and owners of the land adjacent to PLC property.
+It also contains several maps of the original and final properties, and
+documentation relating to land purchases, taxation and the legal status of the
+organization.</p></scopecontent>
+<c02 level="file"><did><container type="box"
+label="Box">1</container><unittitle>Correspondence, <unitdate
+type="inclusive">1908-1952</unitdate></unittitle></did></c02>
+<c02
+level="file"><did><container type="box"
+label="Box">1</container><unittitle>Maps</unittitle></did></c02></c01>
+<c01
+level="series"><did><unittitle>Miscellaneous</unittitle></did><scopecontent><p>The
+final series, Miscellaneous (.05 linear feet) consists of a log book containing
+essays, photographs, and other information about the club. There is also a
+paper written by one of the members entitled, "Some Plants of the Pleasant
+Lakes Club, Livingston County, Michigan."</p></scopecontent>
+<c02
+level="file"><did><container type="box" label="Box">1</container><unittitle>Log
+book containing essays, photographs, and other information about the
+club</unittitle></did></c02>
+<c02 level="file"><did><container type="box"
+label="Box">1</container><unittitle>Paper written by Robert W. Storer entitled,
+"Some Plants of the Pleasant Lakes Club, Livingston County,
+Michigan."</unittitle></did></c02></c01></dsc></archdesc></ead> 

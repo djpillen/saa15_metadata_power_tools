@@ -1,0 +1,324 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::aalborg.xml//EN" encodinganalog="Identifier">
+umich-bhl-89180</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Danske Udvandrerarkiv (Aalborg universitetscenter) papers, 1873-1923
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Aalborg universitetscenter staff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-11-24</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Danske Udvandrerarkiv (Aalborg universitetscenter) papers, 1873-1923</titleproper>
+      <author>Finding aid created by<lb /> 
+Aalborg universitetscenter staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Aalborg universitetscenter. Danske Udvandrerarkiv.
+</corpname>
+</origination>
+      <unittitle encodinganalog="245">
+Danske Udvandrerarkiv (Aalborg universitetscenter) papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1873-1923
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+4 microfilm reels
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+89180 Bd Microcopy
+</unitid>
+      <langmaterial>The material is in <language langcode="dan" encodinganalog="041">Danish</language> </langmaterial>
+      <abstract>
+Danes Worldwide Archives located in Aalborg, Denmark. Collection of materials, largely in Danish, concerning the immigration of Danes to the United States as reflected in letters home, journals, and family histories; also include letters of Danish pastors concerning the work of the church in Ashland, Gowen, and Manistee, Michigan.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload" /></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was made available for microfilming by Aalborg universitetscenter (donor no. <num type="donor" encodinganalog="541$e">5735</num>).  
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is not held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Danske Udvandrerarkiv (Aalborg universitetscenter) papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Danske Udvandrerarkiv (Danes Worldwide Archives ) is located at Aalborg universitetscenter, Aalborg, Denmark. </p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>This microfilm is a selection of letters written from individuals who had immigrated from Denmark to the United States. The letters selected were from individuals who had settled in Michigan communities, notably Ashland, Gowen, and Manistee. Other materials in the collection include journals and family histories.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <geogname source="lcsh" encodinganalog="651">Ashland (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650">Clergy--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">Danish Americans--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651">Michigan--Emigration and immigration.</geogname>
+        <geogname source="lcsh" encodinganalog="651">Gowen (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Manistee (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">United States--Emigration and immigration.</geogname>
+        <geogname source="lcsh" encodinganalog="651">Denmark--Emigration and immigration</geogname>
+        <subject source="lcsh" encodinganalog="650">Immigrants--Michigan.</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Collected materials</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>Peder Kjølhede (pastor at Ashland)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">1</container>
+              <unittitle>Letters, <unitdate type="inclusive">1879-1885</unitdate> </unittitle>
+            </did>
+            <note>
+              <p>(arranged by year and then alphabetically by sender)</p>
+            </note>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">3</container>
+              <unittitle>Letters, <unitdate type="inclusive">1880-1908</unitdate>, from friends, family, and other pastors </unittitle>
+            </did>
+            <note>
+              <p>(arranged alphabetically by sender)</p>
+            </note>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">4</container>
+              <unittitle>Letters, <unitdate type="inclusive">1887-1892</unitdate>, mainly from the United States and written by Danish Lutheran pastors and parishioners </unittitle>
+            </did>
+            <note>
+              <p>(The letters are postmarked Greenville, Manistee, Racine, Des Moines, Chicago, and other locations.)</p>
+            </note>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Julius Petersen</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">1</container>
+              <unittitle>Letters, <unitdate type="inclusive">1887-1921</unitdate>, to his brother Rasmus (both of Chicago) </unittitle>
+            </did>
+            <note>
+              <p>(The letters contain explanatory notes by their brother Karl who remained in Denmark and preserved their letters.)</p>
+            </note>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">2</container>
+              <unittitle>Letters, <unitdate type="inclusive">1887-1921</unitdate>, of Julius and Rasmus Petersen to brother Karl in Denmark </unittitle>
+            </did>
+            <note>
+              <p>(The letters are written from Chicago, California, Colorado, and discuss the work of Julius as a gold miner and Rasmus as an employee of various Danish-American newspapers. Included is Karl Petersen's family history, his description of letters from America, and his description of Rasmus' visit home in 1896.)</p>
+            </note>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>P.S. Vig (author of Danish in Amerika)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">2</container>
+              <unittitle>Notes for manuscript and letters on Danes in the war</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Alfred E. Grann and wife (Birmingham, Michigan engineer)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">2</container>
+              <unittitle>Clippings, <unitdate type="inclusive">1951-1952</unitdate>, and family history</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Ole Amble (of Gowen, Michigan)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">2</container>
+              <unittitle>Interview (typed in English) with Amble about the Danish Lutheran Church in Gowen (Montcalm County)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Hans Jørgen Pedersen (pastor in Minnesota and Ashland)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">2</container>
+              <unittitle>Biography and letters of the Ashland Church. </unittitle>
+            </did>
+            <note>
+              <p>(Jørgen came to Gowen in 1875.)</p>
+            </note>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Mrs. Christiane Hansen (of Manistee, Michigan).</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">2</container>
+              <unittitle>Family history; include information concerning Pastor Jorgen Hansen who came to Danish Church in Manistee in <unitdate type="inclusive">1884</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Simon Kjems (pastor and teacher at Ashland folk high school)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">2</container>
+              <unittitle>Article about his trip in <unitdate type="inclusive">1891</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>A. S. Nielsen (Danish Evangelical Lutheran pastor; called to Chicago,  August 4, 1878)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">3</container>
+              <unittitle>Letters from his church members and other pastors in American Danish church, <unitdate type="inclusive">ca. 1870s</unitdate> and <unitdate type="inclusive">1880s</unitdate> </unittitle>
+            </did>
+            <note>
+              <p>(Include four letters from Rev. H. J. Pedersen of Gowen ( April 23, 1879,  March 13 and 24, 1880,  October 27, 1883)</p>
+            </note>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>N. C. Christensen (and others)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">3</container>
+              <unittitle>Letters to family and friends in Denmark from Kansas and Chicago, <unitdate type="inclusive">1870s</unitdate> and <unitdate type="inclusive">1880s</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Ole Mikkelsen</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">3</container>
+              <unittitle>Biography of Arnold Andersen</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Peter Jensen (of Racine, Wisconsin)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">3</container>
+              <unittitle>Letters, <unitdate type="inclusive">1905-1923</unitdate> to his parents in Denmark concerning his job, schooling, and life in America</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>J. U. Heiberg (pastor who served in Chicago, 1873-1879, then returned to Denmark where he was an influential member of the Church board concerned with the church in America)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">4</container>
+              <unittitle>Miscellaneous correspondence, diary, biographical sketch, and log of his visit of Danish churches in the United States in <unitdate type="inclusive">1892</unitdate> </unittitle>
+            </did>
+            <note>
+              <p>(include stops at Muskegon, Gowen, Ashland Folk High School, and at Manistee.)</p>
+            </note>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+    <descgrp type="add">
+      <relatedmaterial>
+        <head>Related Material</head>
+        <p>The library has a separate collection of the sermons of Peder Kjølhede.</p>
+      </relatedmaterial>
+    </descgrp>
+  </archdesc>
+</ead>

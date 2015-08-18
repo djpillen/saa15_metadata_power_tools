@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::johnsedw.xml//EN" encodinganalog="Identifier">
+umich-bhl-851581</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Edwin J. Johnson papers, 1900s-1968
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-10-01</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Edwin J. Johnson papers, 1900s-1968</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Johnson, Edwin J., 1901-1968.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Edwin J. Johnson papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1900s-1968
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851581 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Editor and publisher of the Ironwood, Michigan, Daily Globe. Photographs and slides relating to Ironwood and surrounding area, including street views, parades, lumbering and mining activities, local events and disasters, building projects, and miscellaneous; also newspaper clippings.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Vivian M. Johnson (donor no. <num type="donor" encodinganalog="541$e">5029</num>).  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Edwin J. Johnson papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Edwin J. Johnson was editor and publisher of the Ironwood Daily Globe.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of photographs and slides relating to Ironwood and surrounding area. These images include street views, parades, lumbering and mining activities, local events and disasters, building projects, and miscellaneous. The collection also includes newspaper clippings of his editorials and other articles relating to his newspaper career and civic interests.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Ironwood (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="630">Ironwood daily globe.</subject>
+<subject source="lcsh" encodinganalog="650">Journalists--Michigan--Ironwood.</subject>
+<subject source="lcsh" encodinganalog="650">American newspapers--Michigan--Ironwood.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Amazon (Ship)</corpname>
+<corpname source="lcnaf" encodinganalog="610">B. Lyman Smith (Ship)</corpname>
+<subject source="lctgm" encodinganalog="650">Construction industry.</subject>
+<subject source="lctgm" encodinganalog="650">Dwellings.</subject>
+<persname source="lcnaf" encodinganalog="600">Eisenhower, Dwight D. (Dwight David), 1890-1969.</persname>
+<subject source="lctgm" encodinganalog="650">Floods.</subject>
+<corpname source="lcnaf" encodinganalog="610">Gilbert (Ship)</corpname>
+<subject source="lcsh" encodinganalog="630">Ironwood daily globe.</subject>
+<geogname source="lcnaf" encodinganalog="650">Ironwood (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Iron mining.</subject>
+<persname source="lcnaf" encodinganalog="600">Johnson, Lady Bird, 1912-2007.</persname>
+<subject source="lctgm" encodinganalog="650">Lumber industry.</subject>
+<persname source="lcnaf" encodinganalog="600">MacArthur, Douglas, 1880-1964.</persname>
+<geogname source="lctgm" encodinganalog="651">Mackinac Bridge (Mich.)--1958.</geogname>
+<subject source="lctgm" encodinganalog="650">Mining.</subject>
+<subject source="lctgm" encodinganalog="650">Newspapers--Michigan--Ironwood.</subject>
+<subject source="lctgm" encodinganalog="650">Offices.</subject>
+<subject source="lctgm" encodinganalog="650">Parades and processions.</subject>
+<subject source="lctgm" encodinganalog="650">Ships--Great Lakes.</subject>
+<geogname source="lcsh" encodinganalog="651">Sylvania Recreation Area (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Eisenhower visit to Ironwood area</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ironwood businesses, area views, and miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ironwood community events, disasters, etc.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ironwood Daily Globe</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ironwood flood</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ironwood Project (construction photos)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ironwood Resettlement Administration</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ironwood street views and parades</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lumbering</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mackinac Bridge opening, <unitdate type="inclusive">June 1958</unitdate></unittitle><physdesc><physfacet>slides</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>MacArthur, Douglas (visit to Milwaukee), <unitdate type="inclusive">1951</unitdate></unittitle><physdesc><physfacet>slides</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mines and mining</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mines (Geneva Mine)</unittitle><physdesc><physfacet>slides</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ships</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Sylvania Recreation Area Dedication,  with visit of Lady Bird Johnson, <unitdate type="inclusive">1967</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Photos</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Slides</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>World War II activities</unittitle><note><p>(include photos outside capitol building in Lansing ?)</p></note></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Newspaper clippings</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings concerning his newspaper career and civic interests; include scopies of editorials </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

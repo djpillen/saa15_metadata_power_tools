@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::highlcem.xml//EN" encodinganalog="Identifier">
+umich-bhl-91463</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Highland Cemetery Association records, 1863-2004
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-05-13</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Highland Cemetery Association records, 1863-2004</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Highland Cemetery Association.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Highland Cemetery Association records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1863-2004
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+91463 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Owners of Highland Cemetery, Ypsilanti, Michigan. Minutes, financial reports, and register of blocks and lots; also collected historical and research materials relating to the proposed restoration of starkweather Chapel at the cemetery and to the effort to have the cemetery placed on the National Register of Historic Places.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records came from the Association (donor no. <num type="donor" encodinganalog="541$e">7939</num>).  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the papers are expected.
+</p></accruals>
+
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Highland Cemetery Association records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Highland Cemetery, located at 943 North River Road in Ypsilanti, Michigan, was dedicated on July 14, 1864. The cemetery was designed by James Lewis Glen of Niles, Michigan. The Starkweather Chapel in the cemetery was designed by George Dewitt Mason and Zachariah Rice of Detroit. The Chapel was the gift of Mary Ann Newberry Starkweather, niece of Chicago entrepreneur and philanthropist, John Newberry. Supporting the work of the Association is its Friends organization. The Friends of Highland Cemetery was founded in 1988, one of whose function was to raise the money needed to restore the Chapel. Another interest of the Friends organization was to work toward the placement of the cemetery on the National Register of Historic Places.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The records of Highland Cemetery includes minutes of annual meetings and of the Board of Trustees; newsletters, promotional materials; collected historical and research materials about the cemetery, Starkweather Chapel, and the effort to place the cemetery on the National Register of Historic Places.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Cemeteries--Michigan--Ypsilanti.</subject>
+<corpname source="lcnaf" encodinganalog="610">Highland Cemetery Association.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Highland Cemetery (Ypsilanti, Mich.)</corpname>
+<geogname source="lcsh" encodinganalog="651">Ypsilanti (Mich.)</geogname>
+
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Administrative Records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Record book containing register of block, lot, price, and remarks, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes of Annual Meetings and of the Board of Trustees, <unitdate type="inclusive">1863-1963</unitdate> </unittitle> <physdesc><extent>2 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Minutes, newsletters, and other materials, <unitdate type="inclusive">1995-2004</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Promotions and publicity </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Historical and collected materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Plan of Highland Cemetery, <unitdate type="inclusive">1893</unitdate> </unittitle><physdesc><physfacet>photocopy</physfacet></physdesc></did> </c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Historical / background materials </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>James Lewis Glen (information about)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>National Register of Historic Places nomination materials </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Starkweather Chapel restoration</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Starkweather Chapel background material </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Friends of Highland Cemetery </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Job analysis questionnaire; employment miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Cemetery handbook</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Membership materials</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::wolfeshi.xml//EN" encodinganalog="Identifier">
+umich-bhl-2010032</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Shirley P. Wolfe papers, 1960s-2001
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2010">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2010</date>and Olga Virakhovskaya, <date>2013</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2013-01-21</date><item>Changes made with the addition of new material.</item></change> 
+<change><date>2010-02-26</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Shirley P. Wolfe papers, 1951-2001</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Wolfe, Shirley P.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Shirley P. Wolfe papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1951-2001
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.9 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2010032 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Shirley P. Wolfe (donor no. <num type="donor" encodinganalog="541$e">10296</num>) and came to the library in 2009. Additional material acquired by the Bentley Historical Library in December 2012.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Shirley P. Wolfe papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Shirley P. Wolfe, a resident of Ann Arbor, Michigan, was a member of various adoption and civil organizations.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Shirley Wolfe collection documents her interest in a number of social, political, and environmental issues, namely adoptions, conservation and environmental education, human rights and civil liberties, peace and disarmament, housing, and community development. </p>
+<p>The Adoptions and adoption organizations series is arranged alphabetically by subject or name of organization, the files include newsletters from various organization, clippings, brochures, and various mailings. Some of the organizations represented in the papers include the Council on Adoptable Children and the North American Council on Adoptable Children.</p>
+
+<p>The Social Issues series contains 1950s-early 1960s material on Ann Arbor community, environmental conservation education, and peace and nuclear disarmament. Ann Arbor community related material includes letters identifying Shirley Wolfe and her husband Arthur as the Ann Arbor community self-survey representatives; 1952 newsletters on the subject of Interntional communities (mostly published outside of the state of Michigan); and material related to equal housing in Ann Arbor. Material on peace and nuclear disarmament contains newsletters and bulletins of various organizations, including women's, on the subject of radiation pollution, politics, and war, among other issues.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Adoption--Government policy.</subject>
+<subject source="lcsh" encodinganalog="650">Adoption--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Adoption--United States.</subject>
+<corpname source="lcnaf" encodinganalog="610">Council on Adoptable Children.</corpname>
+<subject source="lcsh" encodinganalog="650">Intercountry adoption.</subject>
+<subject source="lcsh" encodinganalog="650">Interracial adoption.</subject>
+<corpname source="lcnaf" encodinganalog="610">North American Council on Adoptable Children.</corpname>
+<subject source="lcsh" encodinganalog="650">Peace--Societies--Periodicals</subject>
+<subject source="lcsh" encodinganalog="650">Peace movements--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Women pacifists--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. School of Natural Resources.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Adoption and adoption organizations</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Adopting, General, <unitdate type="inclusive">1960s</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Adoption Clippings &amp; Information, <unitdate type="inclusive">1960s</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Colombian American Friends, <unitdate type="inclusive">1975-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Council on Adoptable Children &amp; Ann Arbor OURS, <unitdate type="inclusive">1967-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Foster Care, <unitdate type="inclusive">1975-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Friends for all Children, <unitdate type="inclusive">1974-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Friends of Children, Inc., <unitdate type="inclusive">1984-2001</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Friends for International Adoption and Assistance, (later became affiliate of OURS), <unitdate type="inclusive">1975-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>International Adoption, General, <unitdate type="inclusive">1984-1999</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Inter-racial Adoption, The Children's Voice, General Adoption, clippings, etc., <unitdate type="inclusive">1972-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Families for Children and Michigan Families of Adopted Foreign Children, <unitdate type="inclusive">1977-1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>North American Council on Adoptable Children, <unitdate type="inclusive">1968-1989</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Social issues</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Community</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor coomunity self-survey, <unitdate type="inclusive">1956</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Equal housing, <unitdate type="inclusive">1962</unitdate>and undated</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Intentional communities, <unitdate type="inclusive">1952-1956</unitdate></unittitle></did></c03></c02>
+
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Environmental conservation education,<unitdate type="inclusive">1951-1956,</unitdate>scattered years</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Peace and nuclear disarmament,<unitdate type="inclusive">1959-1962,</unitdate><unitdate type="inclusive">1970</unitdate></unittitle></did> </c02>
+</c01>
+</dsc></archdesc>
+
+</ead>

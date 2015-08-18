@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::tayloror.xml//EN" encodinganalog="Identifier">
+umich-bhl-8681</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Orla Benedict Taylor papers, 1831-1943
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-02-13</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Orla Benedict Taylor papers, 1831-1943</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Taylor, Orla Benedict, 1865-1945.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Orla Benedict Taylor papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1831-1943
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8681 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Detroit, Michigan lawyer and banker, and alumnus of University of Michigan. Correspondence, essays, and newspaper clippings concerning the Detroit banking crisis of 1933; and biographical and genealogical information on the Church, Benedict and Mahon families; also photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Orla B. Taylor (donor no. <num type="donor" encodinganalog="541$e">1682</num>); other materials came from the University of Michigan Library (donor no. <num type="donor" encodinganalog="541$e">1682</num>) and George Stanley (donor no. <num type="donor" encodinganalog="541$e">4552</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Orla Benedict Taylor papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Orla Benedict Taylor was born in Fowlerville, Michigan on September 29, 1865. A graduate of the University of Michigan (B.A. 1886; LL.D., 1887), Taylor served as editor of <title render="italic">The Oracle</title> and <title render="italic">The Chronicle</title> while an undergraduate.  He was also a member of Phi Beta Kappa and Sigma Chi fraternities.</p>
+
+<p>Taylor entered practice in Detroit shortly after graduation, and very soon established himself as legal advisor for various property and business interests in the State.  Among the notable cases in which he took part were the Ann Arbor Railroad Company vs. the Michigan Central Railroad Commission, and the Michigan Central Railroad Company vs. the Michigan Railroad Commission.</p>
+
+<p>Mr. Taylor devoted his leisure time, especially after his retirement, to travel and study, historical research and writing, and the accumulation of historical and literary materials.  Ever a loyal alumnus of the U-M, Taylor made many generous gifts to the University Library, including many valuable law books and a complete set of autographed letters and documents of Emperor Napoleon I and his marshals, as well as autographs of several of the Emperor's generals and cabinet members. He died December 1, 1945.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Orla B. Taylor collection consists of correspondence, essays and other writings, and biographical and personal material. Many of the writings relate to banking in Detroit in the 1930s.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Banks and banking--Michigan--Detroit.</subject>
+<famname source="lcnaf" encodinganalog="600">Benedict family.</famname>
+<famname source="lcnaf" encodinganalog="600">Church family.</famname>
+<persname source="lcnaf" encodinganalog="600">Couzens, James, 1872-1936.</persname>
+<subject source="lcsh" encodinganalog="650">Depressions--1929--Michigan--Detroit.</subject>
+<geogname source="lcsh" encodinganalog="651">Detroit (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Lawyers--Michigan--Detroit.</subject>
+<famname source="lcnaf" encodinganalog="600">Mahan family</famname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lcsh" encodinganalog="630">Oracle (Ann Arbor, Mich.)</subject>
+
+<persname source="lcnaf" encodinganalog="600">Taylor, Orla Benedict, 1865-1945.</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Class of 1886.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Alumni and alumnae--Anniversaries, etc.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1881-1890.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Societies, etc.</corpname>
+</controlaccess>
+
+
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Bates, Henry Moore, 1869-1949.</persname>
+<persname source="lcnaf" encodinganalog="700">Bishop, William Warner, 1871-1955.</persname>
+<persname source="lcnaf" encodinganalog="700">Burton, Clarence Monroe, 1853-1932.</persname>
+<persname source="lcnaf" encodinganalog="700">Glass, Carter, 1858-1946.</persname>
+<persname source="lcnaf" encodinganalog="700">McLeod, Clarence John, 1895-1959.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1831-1900</unitdate> </unittitle></did> <note><p>(include letters 1831-1832 from Benedict family members)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1901-1929</unitdate> </unittitle></did> <note><p>(include letter of Clarence M. Burton, 1916)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1930-1932</unitdate> </unittitle></did> <note><p>(include letter of William Warner Bishop, 1931 and letters of Henry M. Bates, 1932)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1933-1939</unitdate> </unittitle></did> <note><p>(include letters of Carter Glass and Clarence J. McLeod, 1935 and letter of Henry M. Bates, 1936)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1940-1943</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Essays and other writings</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Student essays, <unitdate type="inclusive">1881-1882</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Essays concerning banking, <unitdate type="inclusive">1932</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Essay, "The Plot to Give the Cream of the Banking Profits of the Entire Country to the Customers of the New York Investment Bankers," <unitdate type="inclusive">undated</unitdate></unittitle> </did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Essay on the banking crisis of 1933 </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Essay entitled, "The Detroit Banking Tragedy of 1933"</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Essay, entitled, "The Detroit Banking Tragedy of 1933" </unittitle></did> <note><p>(rough draft)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Source material for banking essay </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Essay entitled, "The Story of the Detroit Bank Robbery "</unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Essay entitled, "The Story of the Detroit Bank Robbery" </unittitle></did> <note><p>(rough draft)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Materials used in writings on banking in Detroit, <unitdate type="inclusive">1933-1937</unitdate> </unittitle> <physdesc><extent>9 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Essay entitled, "Anno Domini 1925", <unitdate type="inclusive">1925</unitdate></unittitle> </did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Papers  used for "Anno Domini", <unitdate type="inclusive">1917-1925</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Essay entitled, "Anno Domini 1927", <unitdate type="inclusive">1927</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Manuscript for "Let Us Face the Facts", <unitdate type="inclusive">1941</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did> <note><p>(rough draft)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Source material, for "Let Us Face the Facts", <unitdate type="inclusive">1934-1940</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Essay entitled, "Rise and Principles of the Whig Party", <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Essay  entitled, "Lewis Cass, The Father of the West", <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Essay  entitled, "A Tourist in Java", <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Essays, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Biographical, personal, and miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Autobiographical essays and notes, and genealogical information on the Benedict and Richard Church family </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Speeches, <unitdate type="inclusive">1932-1941</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Inventory of the Library of Orla, B. Taylor, <unitdate type="inclusive">1939-1941</unitdate></unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Papers  concerning rare books and book collection, <unitdate type="inclusive">1930-1932</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Newspaper clippings, concerning the banking crisis, <unitdate type="inclusive">1933</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Miscellanea., <unitdate type="inclusive">1932</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Transcript of U. S. Circuit Court of Appeals case resulting from the banking crisis, <unitdate type="inclusive">1935</unitdate> </unittitle> <physdesc><extent>2 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Legal briefs, <unitdate type="inclusive">1934</unitdate> </unittitle> <physdesc><extent>3 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Photographs<unitdate type="inclusive">1886</unitdate>and <unitdate type="inclusive">1911</unitdate></unittitle></did><note><p> (include group portraits of <title render="italic">Oracle</title> (University of Michigan student publication) board, and of the 25th anniversary reunion of the University of Michigan Class of 1886)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

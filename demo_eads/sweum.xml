@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::sweum.xml//EN" encodinganalog="Identifier">
+umich-bhl-9746</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Society of Women Engineers, University of Michigan section records, 1971-2011
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Yolisa Soul, February 1997; Alicia Kildau, December 2012 </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2013">
+2013</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2013</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2013-02-06</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Society of Women Engineers, <lb/>University of Michigan <lb/>section records, 1971-2011</titleproper>
+
+<author>Finding aid created by<lb/> 
+Yolisa Soul, February 1997; <lb/>Alicia Kildau, December 2012, </author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Society of Women Engineers. University of Michigan section
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Society of Women Engineers, University of Michigan section records  
+<unitdate type="inclusive" encodinganalog="245$f">
+1971-2011
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+4.0 linear feet and 5 outsize volumes
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9746 Bimu 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+University of Michigan section of national organization established to further interests of women engineering students.  History and background information, annual reports, newsletters and newspaper clippings, budget information, photographs and scrapbooks, correspondence, and files relating to section activities
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were received from the student section (donor no. <num type="donor" encodinganalog="541$e">8492</num>) in 1996, 2011 and 2012. 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open for research without restriction
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Society of Women Engineers, University of Michigan section records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Society of Women Engineers (SWE) was founded in 1949 by a small group of women from the eastern United States, principally, New York, Boston, Philadelphia, and Washington, D.C.  Today, the organization is national in scope with 70% of its total membership comprised of students from different university chapters.  The University of Michigan student section was chartered on February 25, 1961, as a nonprofit educational organization whose purpose was to further the interests of women engineering students, and to promote in them a high standard of professional ethics.</p>
+
+<p>The mission of the University of Michigan section of the Society of Women Engineers is to encourage women to excel as engineers and leaders, and to promote an inclusive community within the College and the profession that fosters universal success in engineering, independent of gender.</p>
+
+<p>See the organizations website: <title render="italic">http://swe.engin.umich.edu/</title> for current information.</p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The records of the University of Michigan student section of the Society of Women Engineers cover the period from 1971 to 2011 and have been divided into three series: Society Records, Student Activities, and Audio-Visual.</p></scopecontent>
+
+<controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Society of Women Engineers. University of Michigan Section.</corpname>
+<subject source="lcsh" encodinganalog="650">Engineers--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Women engineers--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Engineering.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Societies, etc.</corpname>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Society Records</unittitle></did>
+<scopecontent><p>The Society Records series (0.5 linear feet, 1971-2011) consists of historical background files, annual reports, newsletters, correspondence and budget material. The awards and recognitions file hold certificates honoring the SWE.  The history file provides an overview of the organization. The annual reports are arranged chronologically and cover all activities of the student section.  Though dated 1971 to 1991, there are gaps in the annual reports between 1977 and 1981. The news file includes newsletters, alumni news, and newspaper clippings. The budget file covers only academic year 1983/84, but does include the organization's treasurer's report for 1982.  The student enrollment file includes records for 1973-1976 and for 1982. The correspondence file consists of a scattering of letters relating to section affairs.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Awards and Acknowledgements</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Historical/Background Information (include handbooks and manuals)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Reports, <unitdate type="inclusive">1972-1984</unitdate> </unittitle> <physdesc><extent>9 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>News File</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters, <unitdate type="inclusive">1971-1991</unitdate>, <unitdate type="inclusive">1996</unitdate>, <unitdate type="inclusive">2010-2011</unitdate> </unittitle> <physdesc><extent>17 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alumni News, <unitdate type="inclusive">1988-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Budget File (includes ledger, <unitdate type="inclusive">1983/84</unitdate> and treasurer's report, <unitdate type="inclusive">1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Enrollment of women, <unitdate type="inclusive">1973-1976</unitdate> (with graduation statistics for 1982)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence file, <unitdate type="inclusive">1975-1985</unitdate> (scattered)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Student Activities</unittitle></did>
+<scopecontent><p>The Student Activities series (0.5 linear feet, 1971-2011) consists of reports of competitions in which students participated.  Based upon these reports, students received various regional and national awards.  The correspondence file consists of a scattering of letters relating to section affairs.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Competition reports</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Outreach programs for high school students</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Student resumes, <unitdate type="inclusive">1981-1990</unitdate> (1983 missing) </unittitle> <physdesc><extent>5 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>SWE Region H Conference, <unitdate type="inclusive">2011</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Activities, <unitdate type="inclusive">2010-2011</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Audio-Visual</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Photographs</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Photo Album, <unitdate type="inclusive">1989-1990</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Photo Album, <unitdate type="inclusive">1991</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Photo Album, <unitdate type="inclusive">1995</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Photo Album, <unitdate type="inclusive">1999</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Photo Album, <unitdate type="inclusive">2002</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Photo Album, Summer Engineering Exploration, <unitdate type="inclusive">2000</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Photo Album, date unknown (2 albums)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Photos, Summer Engineering Exploration, <unitdate type="inclusive">2003</unitdate> (3 envelopes)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Photographic prints, date unknown</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>CD-R</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Summer Engineering Exploration photographs, <unitdate type="inclusive">2003</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Videotapes</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Summer Engineering Exploration, <unitdate type="inclusive">2000</unitdate> </unittitle></did> <note><p>(VHS)</p></note></c03></c02>
+<c02 level="file"><did><unittitle>Negatives</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Negative Strips, <unitdate type="inclusive">1989-1994</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>SWE Outreach slide negatives, <unitdate type="inclusive">1987</unitdate>, <unitdate type="inclusive">1989-1990</unitdate>, <unitdate type="inclusive">1992</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Scrapbooks</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Scrapbook, <unitdate type="inclusive">1974-1975</unitdate> (oversize volume 1)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>National Convention Scrapbook, <unitdate type="inclusive">1989</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Society of Women Engineers and Student Conference Scrapbook, <unitdate type="inclusive">1990</unitdate> (oversize volume 2)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Scrapbook, <unitdate type="inclusive">1993-1994</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Scrapbook, <unitdate type="inclusive">2000-2002</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Scrapbook, <unitdate type="inclusive">2003</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Scrapbook, <unitdate type="inclusive">2004</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Scrapbook, <unitdate type="inclusive">2005</unitdate> (oversize volume 3)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Scrapbook, <unitdate type="inclusive">2006</unitdate> (oversize volume 4)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Scrapbook, <unitdate type="inclusive">2010-2011</unitdate> (oversize volume 5)</unittitle></did></c03></c02></c01> 
+
+
+</dsc></archdesc>
+
+</ead>

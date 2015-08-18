@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader relatedencoding="Dublin Core" audience="internal">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::wohlfld.xml//EN" encodinganalog="identifier">
+umich-bhl-88188
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Shirley Wohlfield Papers, 1972-1988
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Matthew T. Schaefer and Mildred L. Jackson</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>April 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050429</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Shirley Wohlfield Papers, 1972-1988</titleproper>
+
+<author>Finding aid created by<lb/> 
+Matthew T. Schaefer (1988) and Mildred L. Jackson (1996)</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Wohlfield, Shirley
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Shirley Wohlfield Papers,  
+<unitdate type="inclusive" encodinganalog="245$f">
+1972-1988
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear ft., and 1 oversized volume.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+88188 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Detroit, Michigan, anti-busing activist. Correspondence, speeches, minutes of meetings, and other materials relating to her involvement with anti-busing organizations, principally Northeast Mothers Alert, Mothers Alert Detroit, and the National Association for Neighborhood Schools; also files detailing involvement with Happiness of Women (HOW) and the 14th Congressional District Republican Committee; and scrapbook containing clippings and photographs relating to anti-busing rallies and activities.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Shirley Wohlfield (Donor No. <num type="donor" encodinganalog="541$e">7493</num>) in October 1987 and September 1995. 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Shirley Wohlfield Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Shirley Wohlfield first became involved in local politics when in 1973, in an effort to protect her three sons from what she viewed as the dangers of court-ordered desegregation via busing, she began organizing efforts to stop forced busing in 1973.  Like many of her colleagues, Wohlfield entered this movement with little experience in political and social protest organization.  Convinced of the rectitude of her position, Wohlfield organized the Northeast Mothers Alert, serving as secretary and president of Mothers Alert Detroit, which eventually affiliated with the National Association for Neighborhood Schools.  This broadening of scope from neighborhood to city to nation reflects the extent to which these activists would go in order to secure local control over education.  The antibusing movement peaked from 1975 to 1976 when Mothers Alert Detroit counted over two thousand members.  After court decisions limited busing for desegregation to within Detroit city bounds, antibusing activism abated.  Whites chose to remove their children from possible risk by moving from the city or enrolling them in private schools.</p>
+<p>Mothers Alert Detroit did not confine its activities to anti-busing.  As the busing issue subsided, Wohlfield joined protests against issues such as the Equal Rights Amendment and teaching about population control in the schools.  These activities led to her involvement in related organizations such as Happiness of Womanhood, Inc. (HOW), an organization led by Patt Barbour and begun around 1973.  This national group stressed the "joys of womanhood and the preservation of femininity."  One of its objectives was to defeat the Equal Rights Amendment.</p>
+<p>Involvement in MAD and HOW eventually led Wohlfield to participation in the conservative 14th Congressional District of the Michigan Republican Party.  Wohlfield served as secretary for the district committee for several years and as a member of the State Republican Committee during 1981 where she represented the 14th District on the Campaign Committee. </p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520"><p>The collection provides a telling insight into Detroit's school desegregation by forced busing.  Wohlfield's committed personal involvement offers an important perspective into the antibusing movement.  Her responsibilities as executive secretary and president of Mothers Alert Detroit are well documented in the minutes, correspondence, and notes in the collection.  The collection has been arranged into the following series: Northeast Mothers Alert; Mothers Alert Detroit; Republican Party 14th Congressional District Committee; and Other Organizational Activities.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Busing for school integration--Michigan--Detroit.</subject>
+<geogname source="lcsh" encodinganalog="651">Detroit (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Education--Michigan--Detroit.</subject>
+<corpname source="lcnaf" encodinganalog="610">Happiness of Women, Inc.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Mothers Alert Detroit.</corpname>
+<corpname source="lcnaf" encodinganalog="610">National Association for Neighborhood Schools.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Northeast Mothers Alert (Detroit, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.). 14th Congressional District Republican Committee.</corpname>
+<subject source="lcsh" encodinganalog="650">Schools--Michigan--Detroit.</subject>
+<persname source="lcnaf" encodinganalog="600">Wohlfield, Shirley.</persname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Busing (School integration).</subject>
+<subject source="lctgm" encodinganalog="650">Demonstrations--Michigan--Detroit.</subject>
+<geogname source="lctgm" encodinganalog="651">Detroit (Mich.)--Demonstrations.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Mothers Alert Detroit.</corpname>
+<persname source="lcnaf" encodinganalog="600">Wohlfield, Shirley.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform></controlaccess></controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Northeast Mothers Alert (NEMA), <unitdate type="inclusive">1972-1975</unitdate></unittitle></did><scopecontent><p>The Northeast Mothers Alert series includes correspondence, some historical information about the movement, and speeches made by Wohlfield against forced busing.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1973-1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History and notes, <unitdate type="inclusive">1972-1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>SW speeches against forced busing, <unitdate type="inclusive">1974-1975</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Mothers Alert Detroit (MAD), <unitdate type="inclusive">1972-1984</unitdate> (primarily 1975-1977)</unittitle></did><scopecontent><p>The Mothers Alert Detroit series includes minutes, correspondence, clippings, press releases, flyers for MAD rallies, and other organizational materials.  Of special interest is a scrapbook, dated between 1972 and 1975, and containing photographs from rallies, marches, and fund-raisers.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Brief re  <title render="italic">Bradley v Milliken</title>, <unitdate type="inclusive">1975</unitdate></unittitle></did><note><p>(includes NEMA material)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bylaws, <unitdate type="inclusive">1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1975-1977</unitdate></unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Executive board minutes, <unitdate type="inclusive">1973-1977</unitdate></unittitle></did><note><p>(includes NEMA material)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General meetings minutes, <unitdate type="inclusive">1974-1977</unitdate></unittitle></did><note><p>(includes NEMA material)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Meeting minutes and other jottings and notes, <unitdate type="inclusive">1975-1976</unitdate></unittitle><physdesc><extent>2 spiral notebooks</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous, <unitdate type="inclusive">1973-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters, <unitdate type="inclusive">1976-1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings, <unitdate type="inclusive">1972-1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>SW notes on MAD and NEMA, <unitdate type="inclusive">1974-1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>SW notes on sex education, <unitdate type="inclusive">1977-1978</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">1</container><unittitle><genreform normal="Scrapbook">Scrapbook</genreform>, <unitdate type="inclusive">1972-1975</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Republican Party 14th Congressional District Committee, <unitdate type="inclusive">1978-1988</unitdate></unittitle></did><scopecontent><p>The Republican Party 14th Congressional District Committee series is arranged alphabetically and includes minutes, meeting agendas, campaign materials, legal papers and petitions forwarded to the Credentials Committee regarding disputes over the election of delegates in the 14th Congressional district and out-state for the 1983 state Republican convention. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Convention Agenda, <unitdate type="inclusive">1980-1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1981-1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Credentials Committee, <unitdate type="inclusive">1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Delegate Rosters, <unitdate type="inclusive">1982-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1978-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous, <unitdate type="inclusive">1981-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notebooks, <unitdate type="inclusive">1983-1985</unitdate></unittitle></did><note><p>(includes minutes)</p></note></c02></c01>
+
+<c01 level="series"><did><unittitle>Other organizational activities</unittitle></did><scopecontent><p>The Other Organizational Activities series documents Wohlfield's participation in Happiness of Womanhood, Inc. and the National Association for Neighborhood Schools.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Happiness of Womanhood, Inc. (HOW), <unitdate type="inclusive">1973-1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>National Association for Neighborhood Schools, <unitdate type="inclusive">1976-1978</unitdate></unittitle></did></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

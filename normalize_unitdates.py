@@ -64,7 +64,7 @@ for filename in os.listdir(path):
                 not_normalized_dates += 1
                 continue
 
-    outfilepath = 'demo_eads_normalize' #<-- Change this to a different directory than the one you started with in case anything goes wrong. You don't want to overwrite your original EADs.
+    outfilepath = 'demo_eads_normalized' #<-- Change this to a different directory than the one you started with in case anything goes wrong. You don't want to overwrite your original EADs.
     outfile = open((join(outfilepath, filename)), 'w')
     outfile.write(etree.tostring(tree, encoding="utf-8", xml_declaration=True)) # Write the new version of the EAD with normalized dates!
     outfile.close()

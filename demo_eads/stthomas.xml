@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::stthomas.xml//EN" encodinganalog="identifier">umich-bhl-9414</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for St. Thomas Episcopal Church, Detroit, Mich., Records  <date>1885-1988</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Rina Kor</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">January 1994</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>March 2002</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>2002-04-03</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>St. Thomas Episcopal Church, Detroit, Mich., <lb/>Records, <date type="inclusive">1885-1988</date></titleproper><author>Finding aid prepared by: <lb/>Rina Kor</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="recordgrp" relatedencoding="marc21"><did>
+<origination><corpname source="lcnaf" encodinganalog="110">St. Thomas Episcopal Church (Detroit, Mich.)</corpname></origination>
+<unittitle encodinganalog="245">St. Thomas Episcopal Church, Detroit, Mich., Records
+<unitdate type="inclusive" encodinganalog="245$f">1885-1998</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">3 linear ft. (5 boxes)</extent></physdesc>
+<abstract>Church established as mission Sunday School in 1884 and disbanded in 1988 because of declining membership. Registers of baptisms, marriages, burials and communicants; registers of church services; vestry minutes, annual parish meeting minutes, bishop's committee minutes, correspondence, budgets and treasurer's annual reports, and photograph albums.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">9414 Ba 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The record group was part of a larger accession (Donor No. <num type="donor" encodinganalog="541$e">1059</num>) received from the Episcopal Church, Diocese of Michigan in June 1993 and March 2002.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The record group is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has not been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., St. Thomas Episcopal Church, Detroit, Mich., Records, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>St. Thomas began as a mission Sunday School in Detroit, Michigan in 1883.  In 1884 the Sunday School was transferred to a chapel at the corner of Shady Lane and West Grand Boulevard.  In 1900 St. Thomas became a parish.  New buildings were added and the parish thrived until the 1930s.  After a long period of financial difficulties, St. Thomas reverted to mission status in 1963.  In 1988 the church was forced to close due to declining membership.  A complete history of St. Thomas is found in the folder titled "Background Materials."</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The records of St. Thomas Episcopal Church document the history of an urban Detroit church and span the years 1885 to 1988.  The record groups has been arranged into the following series: registers of baptisms, burials, marriages, communicants; registers of church services; vestry minute books; office files, and photograph albums.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><genreform source="aat" encodinganalog="655">Church records.</genreform><geogname source="lcsh" encodinganalog="651">Detroit (Mich.)--Church history.</geogname><corpname source="lcnaf" encodinganalog="610">Episcopal Church--Michigan--Detroit.</corpname><subject source="lcsh" encodinganalog="650">Registers of births, etc.--Michigan--Detroit.</subject><corpname source="lcnaf" encodinganalog="610">St. Thomas Episcopal Church (Detroit, Mich.)</corpname></controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head><subject source="lctgm" encodinganalog="650">Churches--Michigan--Detroit.</subject><geogname source="lctgm" encodinganalog="651">Detroit (Mich.)--Churches.</geogname><corpname source="lcnaf" encodinganalog="610">Episcopal Church--Michigan--Detroit.</corpname></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Registers of baptisms, burials, marriages, communicants</unittitle></did>
+<c02 level="file"><did><unittitle>Comprehensive registers</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1885-1900</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1900-1904</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1904-1913</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1913-1924</unitdate></unittitle></did><note><p>(register of marriages only goes to 1920; thereafter record of marriages maintained in separate volume)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1925-1977</unitdate></unittitle></did><note><p>(baptisms only go to 1956; thereafter record of baptisms maintained in separate volume)</p></note></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Marriage register, <unitdate type="inclusive">1920-1928</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Marriage register, <unitdate type="inclusive">1928-1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Register of baptisms, <unitdate type="inclusive">1955-1972</unitdate>;  burials, <unitdate type="inclusive">1954-1973</unitdate>;  marriages (scattered), <unitdate type="inclusive">1959-1972</unitdate>  and confirmations, <unitdate type="inclusive">1956-1966</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Register of baptisms, <unitdate type="inclusive">1980-1988</unitdate> and  burials, <unitdate type="inclusive">1978-1986</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Registers of church services</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">1927-1938</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">1938-1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">1978-1988</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Vestry Minute books</unittitle></did><scopecontent><p>The most important administrative records are the two volumes of vestry minutes dating from 1917 to 1923 and 1954 to 1968.  Each of the volumes contains, in addition to minutes of the vestry, minutes of the bishop's committee records and of the annual parish meeting. The volume for the years 1954 to 1968 includes discussions the flight of many parishioners to the suburbs, the integration of minorities into the life of the parish, and specifics of the reversion of the church to mission status.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1917-1923</unitdate></unittitle><note><p>(includes minutes of Annual Parish Meeting, treasurer's reports, and correspondence)</p></note></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1954-1968</unitdate></unittitle></did><note><p>(includes correspondence, senior warden's reports, and minutes of Bishop's Committee after reversion to mission status)</p></note></c02></c01>
+<c01 level="series"><did><unittitle>Office files</unittitle></did><scopecontent><p>The office files include a miscellanea of scattered minutes and administrative papers.  Of particular interest is the folder of material for Allen Grey.  Mr. Grey held an office in St. Thomas from 1947 to 1982 and for most of that time served as senior warden.  His correspondence contains both letters received and carbon copies of letters sent.  The latter reveal, in colorful language, the thoughts and activities of a man passionately committed to his church and deeply concerned with the welfare of his fellow parishioners.  This series also contains an Inventory of Furnishings and Memorials, created in 1966 by Winifred Gerow, who is identified in the photograph album as the historian of St. Thomas.  The inventory was originally kept in a three ring binder.  It is arranged chronologically by the object's date  of acquisition or donation.  Each page contains a description of an item and often includes interesting footnotes pertaining to its use or influence on parishioners or giving personal information about the donors. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Annual Parish Meeting Minutes, <unitdate type="inclusive">1978-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Background Materials (parish histories, clippings)</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Bishop's Committee Minutes</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1980-1981</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1982-1983</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Budgets, <unitdate type="inclusive">1981-1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>General Correspondence, <unitdate type="inclusive">1963-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Grey, Allen (correspondence), <unitdate type="inclusive">1947-1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Inventory of Furnishings and Memorials, <unitdate type="inclusive">1966</unitdate> with later additions</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle>Introduction (parish history and chronology)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1883-1890</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1900-1903</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1910-1925</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1926-1939</unitdate></unittitle><note><p>(includes report of Annex Building Fund, 1927)</p></note></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1944-1956</unitdate></unittitle><note><p>(includes fund-raising pamphlet, 1956)</p></note></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1960-1965</unitdate>  and supplemental notes</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Parish planning book, <unitdate type="inclusive">1968-1972</unitdate></unittitle></did><note><p>(includes correspondence, and Bishop's Committee minutes)</p></note></c02>
+<c02 level="file"><did><unittitle>Property Use Agreements</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle>Adventist Church, Detroit Public Schools, <unitdate type="inclusive">1980-1981</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle>Head Start Programs, <unitdate type="inclusive">1978-1984</unitdate></unittitle></did><note><p>(includes correspondence)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle>Protestant Community Services, <unitdate type="inclusive">1969-1971</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Treasurer's Annual Reports, <unitdate type="inclusive">1974-1986</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle><genreform source="aat" normal="Photographs">Photograph</genreform>  albums of church members and groups</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1950-1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1955-1964</unitdate></unittitle></did></c02></c01></dsc></archdesc></ead>   

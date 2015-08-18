@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::lased.xml//EN" encodinganalog="identifier">umich-bhl-9816</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for  Latin Americans for Social and Economic Development Records, <date>1969-97</date></titleproper>
+<author encodinganalog="creator">Collection processed and Finding aid prepared by  Jack Simpson, Feb. 1998</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1998</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Greg Kinney, <date>March 20, 1998</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>1999-06-</date><item>converted to new container style</item></change>
+<change><date>1999-07-15</date><item>Converted to EAD version 1.0 using WORD 6 macro and some hand tagging.</item></change>
+<change><date>06/11/1998</date><item>controllaccess terms with attributes set added</item></change>
+<change><date>March 20,1998</date><item>original encoding from Word 6.0 file</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Latin Americans for Social and Economic Development <lb/> Records, <date>1969-97</date></titleproper><author>Finding aid prepared by: <lb/>Jack Simpson, Feb. 1998</author></titlepage></frontmatter>
+
+<archdesc level="recordgrp" type="inventory" audience="external" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="110">Latin Americans for Social and Economic Development</persname></origination>
+<unittitle encodinganalog="245">Latin Americans for Social and Economic Development Records
+<unitdate encodinganalog="245$f" type="inclusive">1969-97</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">1 linear ft.</extent></physdesc>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">9816-Bd 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<abstract>Latino social service organization active in southwest Detroit, Michigan; records, primarily assembled by board member Lucy Gajec, include administrative files, correspondence, and publicity material, </abstract>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The record group was donated by Dr. Lucile Gajec (donor no. <num encodinganalog="541$e" type="donor">8528</num>) and came to the library in 1997.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Latin Americans for Social and Economic Development, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Latin Americans for Social and Economic Development (LASED) is a social service organization which serves the Latino community of Detroit, particularly the heavily Latino neighborhoods of Southwest Detroit.  The organization's acronym also means "the thirst" in Spanish, and is usually written and pronounced as two words.  LASED was founded in 1969 through the cooperative efforts of community leaders, union officials, and the Catholic Archdiocese of Detroit.  Since then, LASED has provided a wide variety of bilingual services to its constituent community, including advocacy, information services, referrals, and translation.  The organization also operates two special centers.   The LASED Youth Center provides counseling and advocacy services, youth employment programs, and recreational activities for young people.  The LASED Senior Citizen's Center provides social services for the elderly.  LASED is funded by United Community Services, the City of Detroit, individual donors, and private foundations. </p></bioghist><arrangement encodinganalog="351"><p>The record of Latin Americans for Social and Economic Development are arranged in four series:<list type="simple"><item>Chronological</item><item>Topical Files</item><item>Publications</item><item>Photographs</item></list></p></arrangement>
+
+<scopecontent encodinganalog="520"><p>The LASED records consists of material accumulated by Lucy Gajec, a member of the LASED board of directors.  The records, primarily official documents, rather than personal correspondence, are divided into four series. </p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><corpname source="lcnaf" encodinganalog="610">Latin Americans for Social and Economic Development</corpname><subject source="lcsh" encodinganalog="650">Hispanic Americans--Michigan--Detroit.</subject><geogname source="lcsh" encodinganalog="651">Detroit (Mich.)</geogname></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Chronological Files</unittitle></did><scopecontent><p>The Chronological (1969-1997) series contains correspondence, memos, event publicity, legal and financial documents, and clippings concerning LASED</p></scopecontent>
+<c02 level="file"><did><container label="Box" type="box">1</container><unittitle><unitdate type="inclusive">1969-1971</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1969-1972</unitdate> </unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1972</unitdate></unittitle><physdesc><extent encodinganalog="300">3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1973</unitdate> </unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1974</unitdate> </unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1975</unitdate> </unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1985-1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1988-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1989-1991</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1991-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1992-1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1994-1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1995-1997</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Topical Files</unittitle></did><scopecontent><p>The Topical Files (1971-1974) contain correspondence, memos, and printed material concerning a variety of subjects relevant to the activities and operation of LASED. </p></scopecontent>
+<c02 level="file"><did><container label="Box" type="box">1</container><unittitle>Budget, <unitdate type="inclusive">1971-72</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>By-laws, <unitdate type="inclusive">Undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Community Task Force; Television and Radio Material, <unitdate type="inclusive"> 1974-75</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Developmental Disabilities Program</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1973-75</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1973-76</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Educational Task Force, <unitdate type="inclusive">1973-74</unitdate></unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Grant Proposals, <unitdate type="inclusive">1973</unitdate></unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Latino Revenue Sharing, <unitdate type="inclusive">1973</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Publications</unittitle></did><scopecontent><p>The Publications series contains one folder of miscellaneous pamphlets and programs about LASED, and one folder of programs from the organization's Annual Recognition Luncheons (1969-1997).</p></scopecontent>
+<c02 level="file"><did><container label="Box" type="box">1</container><unittitle>General 
+Publications, <unitdate type="inclusive">1970-1991</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Recognition Luncheon Programs, <unitdate type="inclusive">1992-1997</unitdate> </unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did><scopecontent><p>The Photograph series consists of one photograph of Lucy Gajec. </p></scopecontent>
+<c02 level="file"><did><container label="Box" type="box">1</container><unittitle>Lucy Gajec portrait, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02></c01></dsc></archdesc></ead>              

@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::y2kweb.xml//EN" encodinganalog="Identifier">umich-bhl-02105</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Year 2000 Information Campaign (University of Michigan) website, 1997-2000
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Nancy Deromedi</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>20060922</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2006-09-20</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Year 2000 Information Campaign <lb/>(University of Michigan) <lb/>Website, 1997-2000
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Nancy Deromedi, October 2000
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Year 2000 Information Campaign.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Year 2000 Information Campaign (University of Michigan) website
+<unitdate type="inclusive" encodinganalog="245$f">
+1997-2000
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+95 digital documents (3.71 MB)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9914 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>The Year 2000 Information Campaign was formed as part of the University’s concern and overall plan to insure that the information systems used on campus would not be affected by the "Millennium Bug"-- the possiblility thtat computer systems would not 
+properly process date values with the turnof the century.  Records include the Year 2000 Information Campaign website as of Nov. 2000. The website includes information created to assist university units in understanding the year 2000 problem and a methodology for the assessment of information systems. The website includes memoranda from executive officers, quarterly reports, a white paper, and a series of announcements under the title "Bug Bytes."</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The website files were first captured via File Transfer Protocol by the Bentley Historical Library in October 2000. Donor No. <num type="donor" encodinganalog="541$e">7873</num>, Inofromatino Technology Division.
+ 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>No additonal records are expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The record group is open for research.</p>
+</accessrestrict>
+
+<phystech><p>Access to the archived website is provided on CD-ROM.  The main access points to the collection are the Bentley Library home page and the catalog record stored in the MIRLYN system.   At the time of the October 2000 capture, the following software version numbers were prevalent:  Internet Explorer 4.0/5.0, Netscape Navigator 4.0, Adobe Acrobat 4.0, Adobe Acrobat Reader 4.0, Excel Microsoft Office 2000, and PowerPoint Microsoft Office 2000.  The HTML files were coded in HTML 3.2</p></phystech>
+
+
+<processinfo><p>Due to the nature of web disseminated information, it was deemed necessary to make a decision regarding the hypertext links contained in the site.  It was decided to accession all files within the Year 2000 Information Campaign original source URL http://www.Year2000.umich.edu.  It was, however, decided not to accession the contents of external links pointing to websites located outside of the Year 2000 domain.  Reference to all source URLs remain in the structure of the document if a researcher wishes to examine a particular website.  A researcher needs to keep in mind however, when viewing URLs not preserved as part of the Year 2000 Information Campaign that those external links may no longer exist or the contents of the site may have changed substantially since the time that this website was archived.</p>
+
+<p>In an effort to differentiate the inactive, archived website from a website that may continue to be "active," the archivist has inserted into each of the HTML files a limited amount of coding for the purpose of explaining and marking the site as an "archived website."  The language contained within the HTML table tags reads:  "The website you are viewing is an archival website.  The website was archived by the Bentley Historical Library in October 2000.  Please see the Bentley Library finding aid for more information about this website or contact the Reference staff  at 734.764.3482."</p>
+</processinfo>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Year 2000 Information Campaign (University of Michigan) website, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Year 2000 Information Campaign was formed as part of the university's concern and overall plan to insure that the information systems used on campus would not be effected by the "Millennium Bug."  The Millennium Bug or the "Year 2000 Problem" (Y2K) referred to administrative systems designed circa 1970s.  Disk storage space was considered expensive at this time and was a factor in the design of systems.  As a way to decrease the amount of storage space used, programmers limited the date field to a two digit field instead of a four digit field.  For example, the date 1966, would be expressed as 66.  Y2K concerns centered on what would happen on January 1, 2000 when the two digit date 00 would be interpreted in non-compliant systems as 1900 rather than 2000.  The Year 2000 concern focused in particular on systems that relied on the date field for calculations and other business transactions.  The university itself depended on numerous computer based systems for it's daily operations.  These systems ranged from systems designed for building security, heating and cooling, and elevator maintenance to systems designed for financial transactions.</p>
+
+<p>In October 1997 the Regents requested that the university identify and measure the potential impact of the Year 2000 problem.  Executive Officers Nancy Cantor, Robert Kasdin, and Gilbert Omenn, charged Jose Marie-Griffiths (University Chief Information Officer and Executive Director), Robert Moenart (Controller), Laura Patterson (M-Pathways Project Director), and Glenna Schweitzer, (Director of Budget Administration) to this task.  </p>
+
+<p>The university undertook a comprehensive managed approach to identifying systems, software, and vendors that may not be Year 2000 complaint.  The university either replaced or upgraded those systems that were judged likely to fail in the Year 2000.  In addition to insuring the operational integrity of the systems, the university also formed a Year 2000 Information Campaign as an effort to raise the awareness of the problem on campus and to communicate the progress the university made towards the Year 2000 Problem.  Gloria Thiele acted as the Project Coordinator for the Year 2000 Information Campaign under the direction of Jose Marie-Griffiths.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Year 2000 Information Campaign WEBSITE series, first captured via File Transfer Protocol in October 2000 includes the entire contents of the Year 2000 Information Campaign website.  The WEBSITE series includes 71 HTML files, 8 PowerPoint files, 11 Microsoft Word files, and 5 GIF files.  The website target audience was University of Michigan units.  The website includes information to assist units in understanding what the Year 2000 problem consisted of and provided individual units with a methodology for the assessment of their information systems.  The series consists of four subseries:  University of Michigan Year 2000 Activities, University of Michigan Unit Action, University of Michigan Year 2000 Working Groups, and Year 2000 Announcements.  As noted in the access requirements section, the origin directory structure of the website was maintained.  When accessing a subseries however, note that the original structure was essentially flat.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname encodinganalog="610" source="lcnaf">University of Michigan. Information Technology Division.</corpname>
+<subject encodinganalog="650" source="lcsh">Year 2000 date conversion (computer systems)</subject>
+
+</controlaccess>
+
+
+
+
+
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform encodinganalog="655" source="AAT">CD--ROMs</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Website <unitdate type="inclusive">2000</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="CD Box">1</container><unittitle> University of Michigan Year 2000 Activities</unittitle></did>
+<scopecontent>
+<p>The University of Michigan Year 2000 Activities subseries is comprised of background materials specific to the University Year 2000 efforts and plans.  The subseries contains three memoranda from the Executive Officers (HTML version), a calendar of activities, Quarterly Reports from the Year 2000 Project Committee and the Year 2000 Impact Committee, and a white paper on the requirements and progress of activities at the university written by Gloria Thiele, Year 2000 Project Coordinator.</p>
+</scopecontent>
+<c03 level="item"><did><unittitle> Executive Office Memoranda, <unitdate type="inclusive">1997-1999</unitdate></unittitle></did></c03>
+<c03 level="item"><did><unittitle> Calendar of Activities, <unitdate type="inclusive">1998-2000</unitdate></unittitle></did></c03>
+<c03 level="item"><did><unittitle> Year 2000 Issues and Concerns</unittitle></did></c03>
+<c03 level="item"><did><unittitle> Year 2000 Project Committee Quarterly Report, <unitdate type="inclusive">1999</unitdate></unittitle></did></c03>
+<c03 level="item"><did><unittitle> Year 2000 Impact Committee Quarterly Reports,<unitdate type="inclusive"> April 1998- February 1999</unitdate></unittitle></did></c03>
+<c03 level="item"><did><unittitle> Communications and Event Management Process Report and Recommendations, <unitdate type="inclusive">September 7, 1999</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle> University of Michigan Unit Action</unittitle></did>
+<scopecontent><p>The University of Michigan Unit Action subseries includes instructions, forms, and guidelines to aid university units in assessing their information systems.  This subseries includes documentation that reflects how the Year 2000 Campaign worked to raise the awareness of the Y2K Bug and to provide guidance to units in the evaluation of their systems.</p></scopecontent><c03 level="item"><did><unittitle> Instructions and Forms</unittitle></did></c03>
+<c03 level="item"><did><unittitle> Guidelines for Contingency Planning</unittitle></did></c03>
+<c03 level="item"><did><unittitle> Unit Assessment Tools</unittitle></did></c03>
+<c03 level="item"><did><unittitle> PowerPoint Presentations</unittitle></did></c03>
+<c03 level="item"><did><unittitle> Suggested Compliance Project Methodology.</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle> University of Michigan Year 2000 Working Groups</unittitle></did>
+<scopecontent>
+
+
+
+<p>The University of Michigan Year 2000 Working Groups subseries includes the directories of those persons involved in the Y2K effort.</p>
+
+</scopecontent>
+<c03 level="item"><did><unittitle> Impact Committee Directory</unittitle></did></c03>
+<c03 level="item"><did><unittitle> Y2K Working Group Directory</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle> University of Michigan Year  2000 Announcements </unittitle></did>
+<scopecontent><p>The Year 2000 Announcements subseries consists of the announcements written by the Year 2000 Campaign for the university units.  The announcements, titled "<title render="italic">Bug Bytes</title>," date from July, 1998 to December 15, 1999.</p></scopecontent><c03 level="file"><did><unittitle> <title render="italic"> Bug-Bytes</title><unitdate type="inclusive"> July 1, 1998- December 15, 1999</unitdate></unittitle></did>
+<c04 level="item"><did><unittitle><unitdate type="inclusive">July 1, 1998</unitdate></unittitle></did></c04>
+<c04 level="item"><did><unittitle><unitdate type="inclusive">July 15, 1998</unitdate></unittitle></did></c04>
+<c04 level="item"><did><unittitle><unitdate type="inclusive">July 31, 1998</unitdate></unittitle></did></c04>
+<c04 level="item"><did><unittitle><unitdate type="inclusive">August 12, 1998</unitdate></unittitle></did></c04>
+<c04 level="item"><did><unittitle><unitdate type="inclusive">September 25, 1998</unitdate></unittitle></did></c04>
+<c04 level="item"><did><unittitle><unitdate type="inclusive">October 14, 1998</unitdate></unittitle></did></c04>
+<c04 level="item"><did><unittitle><unitdate type="inclusive">December 2, 1998</unitdate></unittitle></did></c04>
+<c04 level="item"><did><unittitle><unitdate type="inclusive">February 11, 1999</unitdate></unittitle></did></c04>
+<c04 level="item"><did><unittitle><unitdate type="inclusive">March 25, 1999</unitdate></unittitle></did></c04>
+<c04 level="item"><did><unittitle><unitdate type="inclusive">April 30, 1999</unitdate></unittitle></did></c04>
+<c04 level="item"><did><unittitle><unitdate type="inclusive">June 4, 1999</unitdate></unittitle></did></c04>
+<c04 level="item"><did><unittitle><unitdate type="inclusive">July 19, 1999</unitdate></unittitle></did></c04>
+<c04 level="item"><did><unittitle><unitdate type="inclusive">August 13, 1999</unitdate></unittitle></did></c04>
+<c04 level="item"><did><unittitle><unitdate type="inclusive">November 8, 1999</unitdate></unittitle></did></c04>
+<c04 level="item"><did><unittitle><unitdate type="inclusive">November 10, 1999</unitdate></unittitle></did></c04>
+<c04 level="item"><did><unittitle><unitdate type="inclusive">December 15, 1999</unitdate></unittitle></did></c04></c03></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

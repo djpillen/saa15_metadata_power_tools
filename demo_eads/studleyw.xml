@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::studleyw.xml//EN" encodinganalog="identifier">
+umich-bhl-8692</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+William Sprague Studley Papers, 1846-1910
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2006 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2006</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20060228 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+William Sprague Studley Papers, 1846-1910</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Studley, William Sprague, 1823-1893.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+William Sprague Studley papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1846-1910
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.6 linear ft. (in 2 boxes)
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+8692 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Harold S. Gray (donor no. <num type="donor" encodinganalog="541$e">3393</num>).</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+William Sprague Studley Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Methodist Episcopal minister who ministered in Detroit and Ann Arbor, Michigan and Evanston, Illinois.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The collection is arranged into three small series: Correspondence, Studley Family, and Other Papers. Included in the collection is a scattering of correspondence, diaries, 1860 and 1873, of trip in Florida and Europe, a scrapbook, and newspaper clippings concerning the activities of the Studley family, 1855-1910.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Clergy--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">Detroit (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Europe--Description and travel.</geogname>
+<geogname source="lcsh" encodinganalog="651">Evanston (Ill.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Florida--Description and travel.</geogname>
+<geogname source="lcsh" encodinganalog="651">Illinois.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Methodist Episcopal Church--Illinois.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Methodist Episcopal Church--Michigan.</corpname>
+<geogname source="lcsh" encodinganalog="651">Southern states</geogname>
+<subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Angell, James Burrill, 1829-1916.</persname>
+<persname source="lcnaf" encodinganalog="700">Hale, Edward Everett, 1822-1909.</persname>
+<persname source="lcnaf" encodinganalog="700">Willard, Frances Elizabeth, 1839-1898.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1862-1873</unitdate> </unittitle></did> <note><p>(include letter from Edward Everett Hale, 1865)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1874-1892</unitdate> </unittitle></did> <note><p>(include letters from James B. Angell, 1889 and Frances Wlllard, 1890-1891)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters of condolence, <unitdate type="inclusive">1893</unitdate> </unittitle></did> <note><p>(include letter from Frances Willard, 1893)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Studley Family</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers, <unitdate type="inclusive">1856-1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings, <unitdate type="inclusive">1855-1910</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Index Rerum" <unitdate type="inclusive">1846</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Diaries">Diary </genreform>of trip to Florida and other Southern states, <unitdate type="inclusive">1860</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><genreform normal="Diaries">Diary</genreform> concerning trip to Europe, <unitdate type="inclusive">1873</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Record of receipts and expenditures, <unitdate type="inclusive">1868-1878</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><genreform normal="Scrapbooks">Scrapbook</genreform>, <unitdate type="inclusive">1880-1881</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

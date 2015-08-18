@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::atheatre.xml//EN" encodinganalog="identifier">umich-bhl-9838</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Allied theatres of Michigan,  <date>1917-1963</date></titleproper>
+<author encodinganalog="creator">Collection processed and Finding aid prepared by Michelle Light, May 1998</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1997</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Tom Powers, <date>Aug. 1998</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031001</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>1999-06-10</date><item>converted to new container style</item></change>
+<change><date>19989-06-10</date><item>Converted to EAD version 1.0 using WORD 6 macro and some hand tagging.</item></change>
+<change><date>08/15/1998</date><item>Original encoding from Word. 6.0 file.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Allied Theatres of Michigan<lb/> Records, <date type="inclusive">1917-1963</date></titleproper><author>Finding aid prepared by: <lb/>Michelle Light, May 1998.</author></titlepage></frontmatter>
+
+<archdesc level="recordgrp" type="inventory" audience="external" relatedencoding="marc21"><did>
+<origination><corpname source="lcnaf">Allied Theatres of Michigan</corpname></origination>
+<unittitle encodinganalog="245">Allied Theatres of Michigan Records, 
+<unitdate encodinganalog="245$f" type="inclusive">1917-1963</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">3 linear feet.</extent></physdesc>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">9838 Bb 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<abstract>Trade association of motion picture theatre owners in Michigan, records include minutes of annual meetings and board meetings, committee reports, financial records, scrapbooks and photographs.</abstract>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>Gerald Curtis (donor no. <num encodinganalog="541$e" type="donor">8666</num>) donated two linear feet in December 1997 and one linear foot in February 1998.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The records are open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has not been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Allied Theatres of Michigan, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>The Motion Picture Theatre Owners of Michigan was officially formed in 1920 in Lansing, Michigan to represent and protect the interests of theatre owners in Michigan.  Its constitution described its purpose to raise the standards of films and pictures, educate the public, advance fair business practices, secure legal protection, encourage cooperation and fellowship among theatre owners, and raise dues and donations from members.  A president, vice-president, secretary, treasurer, and board of directors were elected to run the association.  Within its first year, the association held its first annual convention meeting and protested proposed censorship legislation.  The association continued its annual convention meetings, legal activism, and encouragement of standards and cooperation throughout its life.</p><p>In the 1920s, the association protested adverse legislation, such as Sunday closing laws, state and federal censorship laws, seat and admission taxes, state tax bills, and advertising bills.  The association also articulated its expectations for high quality films, developed public outreach campaigns, represented its members in labor negotiations, and offered insurance and equipment at reduced costs. </p><p>As the association's membership grew and its departments expanded, its headquarters were moved to the Hotel Wolverine in Detroit in 1923.  By 1928, ninety-one percent of Michigan theatres supported the association.  Between 1929 and 1930, the association again moved to the Fox Theatre Building in Detroit.  In 1931, the association formally changed its name to the Allied Theatres of Michigan, Inc.</p><p>In the 1930s, the effect of the Depression on the association can be seen by its decreasing membership and main concerns.  In 1925 it had 475 members, but by 1931 it had little over 200 members.  The association increasingly emphasized costs savings for its members.  It campaigned for reduced wages for employees and reduced taxes.  It offered reduced costs for equipment, the delivery of films, membership dues, and movie tickets.  The association also voiced support or opposition for developing technologies and business practices in the motion picture industry. </p><p>By 1940, the association suffered severe financial loss when nearly all theatres in Detroit withdrew from the association.  In the following years, the association emphasized drives for new members and its relationships with other motion picture associations.  The association's concern with film distributors, leasing policies for films, percentage rates for films, and advertising show its reaction to the reorganization of the motion picture industry.  The association also struggled with an increase of taxes, a lack of man-power, and a shortage of equipment and supplies in a war-time economy.</p><p>In the 1950s and early 1960s, the association self-consciously recognized that other forms of entertainment, such as television, sports, and 16 mm films, threatened theatres.  The association emphasized new business strategies to make theatres economically viable.  The association also maintained its functions of representing members in litigation, labor negotiations, disputes with film delivery services and distributors, and insurance claims.  It continued its activism against admission taxes and state taxes. </p><p>Faced with the declining membership of independent theatre owners, the association vacated its Southfield, Michigan office in the late 1970s.   </p></bioghist><arrangement encodinganalog="351"><p>The record group is divided into three series: Record Books, Annual Convention Programs, and Scrapbooks and Photographs. </p></arrangement>
+
+<scopecontent encodinganalog="520"><p>The records of the Allied Theatres of Michigan, Inc. document the activities, goals, and membership of a cooperative association for motion picture theatre owners in Michigan from 1917 to 1963.  </p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><corpname source="lcnaf" encodinganalog="610">Allied Theatres of Michigan</corpname><subject source="lcsh" encodinganalog="650">Motion picture theaters--Management</subject><subject source="lcsh" encodinganalog="650">Motion picture theater managers--Michigan</subject><subject source="lcsh" encodinganalog="650">Trade associations--Michigan</subject></controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head><corpname source="lcnaf" encodinganalog="610">Allied Theatres of Michigan</corpname></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Record Books</unittitle></did><scopecontent><p>Record Books contains bound volumes that were organized more or less chronologically.  The record books document scattered years between 1921 and 1963.  They predominately include minutes from the meetings of the board of directors and financial information, including expenditures, receipts, securities, and summaries.  They also contain minutes and resolutions from the general annual meetings, the constitution and by-laws, reports from committees and board members, and recommendations and amendments to the rules and regulations.  This series best documents the functions and changing interests of the association, as well as the pressures the theatre owners faced.</p></scopecontent>
+<c02 level="file"><did><container label="Box" type="box">1</container><unittitle><unitdate type="inclusive">April 1921-October 1922</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October 1923-September 1925</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">September 1929-September 1930</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">September 1930-September 1931</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October 1931-September 1932</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container label="Box" type="box">2</container><unittitle><unitdate type="inclusive">September 1932-November 1934</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">December 1934-October 
+1937</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">November 1939-October 1944</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">August 1951-April 1957</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">May 1957-December 1963</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Annual Convention Programs</unittitle></did><scopecontent><p>Annual Convention Programs consists of twenty-five programs dated between 1925 and 1958 from the association's annual conventions.  The programs for the association's annual conventions mostly contain advertisements and schedules for the conventions.  Earlier programs contain more narrative information about the association, its history, membership, and goals.</p></scopecontent>
+<c02 level="file"><did><container label="Box" type="box">3</container><unittitle>Annual Convention Programs, <unitdate type="inclusive">1925-1958</unitdate></unittitle></did><note><p>(scattered)</p></note></c02></c01>
+<c01 level="series"><did><unittitle>Scrapbooks and Photographs</unittitle></did><scopecontent><p>Scrapbooks and Photographs contains two scrapbooks and information salvaged from another scrapbook.  One scrapbook documents the Great Movies Season Campaign from 1923 to 1924.  It includes handbills, newspaper clippings, advertisements, photographs, and buttons.  Another scrapbook contains newspaper clippings from 1920-1921 about censorship.  There are also photographs about the fortieth annual convention in 1959 and a clipping that summarizes the convention.   </p></scopecontent>
+<c02 level="file"><did><unittitle>Fortieth Annual Convention, <unitdate type="inclusive">September 1959</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Clipping</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><genreform normal="Photographs">Great Movies Season Campaign Scrapbook</genreform>, <unitdate type="inclusive">1923-1924</unitdate></unittitle></did><note><p>(includes photographs)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Newspaper Clippings Scrapbook, <unitdate type="inclusive">1920-1921</unitdate></unittitle></did><note><p>(about censorship)</p></note></c02>
+<c02 level="file"><did><unittitle></unittitle></did></c02></c01></dsc></archdesc></ead>     

@@ -1,0 +1,370 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::averillg.xml//EN" encodinganalog="Identifier">
+umich-bhl-85781</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+George R. Averill papers, 1928-1969
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>April 2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-04-02</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+George R. Averill papers, 1928-1969</titleproper>
+      <author>Finding aid created by<lb /> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">
+Averill, Geoarge R., 1893-1971.
+</persname>
+      </origination>
+      <unittitle encodinganalog="245">
+George R. Averill papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1928-1969
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+2 linear feet and 30 oversize volumes
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85781 Aa 2; AC
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Editor and publisher of the <title render="italic">Birmingham Eccentric</title>; correspondence, scrapbooks, and other materials relating to his career.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload" />
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was received from George R. Averill in 1969 and from Mrs. Averill in 1974. ( Donor no. <num type="donor" encodinganalog="541$e">4741</num>)  
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+George R. Averill papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>George R. Averill was editor and publisher of the <title render="italic">Birmingham Eccentric</title>.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The collection consists of correspondence, newspaper clippings, scrapbooks, and other materials concerning Averill's newspaper career, his support of Senator Arthur H. Vandenberg, especially in the election of 1934, and his support of other Republican candidates, particularly Wilber M. Brucker and Herbert Hoover.  Some of Averill's correspondents include Roscoe O. Bonisteel, Wilber M. Brucker, James J. Couzens, Chase S. Osborn, Frank M. Sparks, and Arthur H. Vandenberg.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="630">Birmingham eccentric.</subject>
+        <persname source="lcnaf" encodinganalog="600">Hoover, Herbert, 1874-1964.</persname>
+        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1929-1938.</geogname>
+        <subject source="lcsh" encodinganalog="650">American newspapers--Michigan--Birmingham.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Special Vandenberg Committee of Michigan Newspapermen.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">United States. Congress--Elections, 1934.</corpname>
+        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1933-1945.</geogname>
+        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1929-1933.</geogname>
+        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <persname source="lcnaf" encodinganalog="600">Averill, George R., 1893-1971.</persname>
+        <geogname source="lcsh" encodinganalog="651">Birmingham (Mich.)--Business enterprises.</geogname>
+        <subject source="lcsh" encodinganalog="630">Birmingham eccentric.</subject>
+        <subject source="lctgm" encodinganalog="650">Business enterprises--Michigan--Birmingham.</subject>
+        <subject source="local" encodinganalog="690">Interiors--Newspaper industry--1921.</subject>
+        <persname source="lcnaf" encodinganalog="600">MacArthur, Douglas, 1880-1964.</persname>
+        <subject source="lctgm" encodinganalog="650">Newspaper industry--Michigan--Birmingham.</subject>
+        <subject source="lctgm" encodinganalog="650">Printing industry.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Bonisteel, Roscoe O. (Roscoe Osmond), b. 1888.</persname>
+        <persname source="lcnaf" encodinganalog="700">Brucker, Wilber Marion, 1894-1968.</persname>
+        <persname source="lcnaf" encodinganalog="700">Couzens, James, 1872-1936.</persname>
+        <persname source="lcnaf" encodinganalog="700">Osborn, Chase S. (Chase Salmon), b. 1860</persname>
+        <persname source="lcnaf" encodinganalog="700">Sparks, Frank Melville, 1877-.</persname>
+        <persname source="lcnaf" encodinganalog="700">Vandenberg, Arthur H. (Arthur Hendrick), 1884-1951.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">1928</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">1931</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">1932-1933</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">1934</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">1935</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive"> January-February 1936</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive"> March-December 1936</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">1937-1948</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Subject Files</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Reminiscences concerning Senator Arthur Vandenberg, <unitdate type="inclusive">1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Petitions from newspapermen requesting Vandenberg run for re-election, <unitdate type="inclusive">1933</unitdate></unittitle>
+            <physdesc>
+              <extent>3 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellanea concerning Vandenberg </unittitle>
+            <physdesc>
+              <extent>3 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellanea concerning Wilber Brucker</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence concerning the 75th anniversary edition of the <title render="italic"> Eccentric</title></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Letter to the editor, <unitdate type="inclusive">1943-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Papers concerning the Freedom of Information Committee of the Michigan Press Association, <unitdate type="inclusive">1952-1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Bulletins published by the <title render="italic"> Eccentric</title></unittitle>
+            <physdesc>
+              <extent>2 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>The "Town Crier", <unitdate type="inclusive">1943-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellanea concerning President Herbert Hoover's re-election campaign, <unitdate type="inclusive">1932</unitdate></unittitle>
+            <physdesc>
+              <extent>8 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>
+            <genreform normal="Scrapbooks">Scrapbooks</genreform>
+          </unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Scrapbooks of the "Ears" columns, <unitdate type="inclusive">1932-1963</unitdate></unittitle>
+            <physdesc>
+              <extent>7 volumes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">1</container>
+            <unittitle>Scrapbooks of newspaper editorials </unittitle>
+            <physdesc>
+              <extent>30 volumes</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Other materials</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Speeches </unittitle>
+          </did>
+          <note>
+            <p>(unprocessed)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Newspaper clippings </unittitle>
+          </did>
+          <note>
+            <p>(unprocessed)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Miscellanea </unittitle>
+          </did>
+          <note>
+            <p>(unprocessed)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <genreform normal="Photographs">Photographs</genreform>
+            </unittitle>
+            <physdesc>
+              <extent>2 envelopes</extent>
+            </physdesc>
+          </did>
+          <note>
+            <p>(include photos of exterior and of interior of Eccentric building, 1921 and 1950s; photos of visit of General Douglas MacArthur to Birmingham, ca. 1951; and portraits)</p>
+          </note>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

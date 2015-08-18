@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::deptphmp.xml//EN" encodinganalog="Identifier">
+umich-bhl-0361</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Department of Physical Medicine and Rehabilitation (University of Michigan) publications, 1988-1991
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Jennifer Jacobs, 1999; Polly Reynolds, January 2007. </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>20070405</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>20070405</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Department of Physical Medicine and Rehabilitation<lb/> (University of Michigan) <lb/>Publications, 1988-1991
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Jennifer Jacobs, 1999<lb/>Polly Reynolds, January 2007.
+
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Department of Physical Medicine and Rehabilitation
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Department of Physical Medicine and Rehabilitation (University of Michigan) publications
+<unitdate type="inclusive" encodinganalog="245$f">
+1988-1991</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+5 folders
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0361 Bimu C46 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Publicatons produced by or for the Department of Physical Medicine and Rehabilitation; includes annual reports and brochures as well as brochures from the Parkview Rehabilitation Unit.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Publications are received periodically from the unit (donor #<num type="donor" encodinganalog="541$e">647</num>).
+
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>Periodic additions to the records expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>Thepublicatons are open without restriction.</p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Department of Physical Medicine and Rehabilitation (University of Michigan) publications, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>In 1950, the Department of Physical Medicine was established by its first chairman, James W. Rae.  It was among the first of its kind in the country, and helped provide needed research-based programs for people with disabilities.  Theodore M. Cole was appointed to the chair in 1977.  James A. Leonard is the current chairman.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Department of Physical Medicine and Rehabilitation Publications are divided into two series: Unit Publications and Sub-Unit Publications.</p>
+
+<p>The Unit Publications series contains the department's <title render="italic">Annual Report</title> from 1988/89 and 1990/91 as well as a brochure listing the programs offered by the department.</p>
+
+<p>The Sub-Unit Publications series contains an undated (1960's or 70's) brochure for the Parkview Rehabilitation Unit.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Physical Medicine and Rehabilitation.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Parkview Rehabilitation Unit.</corpname>
+<subject source="lcsh" encodinganalog="650">Rehabilitation--Michigan.</subject>
+</controlaccess>
+
+
+
+<controlaccess><head>Contributors: </head>
+<corpname source="lcnaf" encodinganalog="710">University of Michigan. Parkview Rehabilitation Unit.</corpname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Annual reports.</genreform>
+<genreform source="aat" encodinganalog="655">Pamphlets.</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Unit Publications</unittitle></did>
+<c02 level="file"><did><unittitle>Annual Reports</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Annual Report</title>, <unitdate type="inclusive">1988-1991</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Brochures</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Physical Medicine and Rehabilitation</title>, <unitdate type="inclusive">ca. 1990</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Newsletters</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Rehabilitation clinic</title>, <unitdate type="inclusive">1989</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Rehabilitation frontiers</title>, <unitdate type="inclusive">1988-1989</unitdate></unittitle></did></c03></c02></c01>
+<c01 level="series"><did><unittitle>Sub-Unit Publications</unittitle></did>
+<c02 level="file"><did><unittitle>Parkview Rehabilitation Unit</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Brochures, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Sexuality Evaluation Clinic</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Brochures, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

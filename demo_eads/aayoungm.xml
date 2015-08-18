@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::aayoungm.xml//EN" encodinganalog="Identifier">
+umich-bhl-851787</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Ann Arbor Young Men’s - Young Women's Christian Association (Mich.) records, 1894-1956
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-02-17</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Ann Arbor Young Men’s - Young Women's Christian Association (Mich.)<lb/> Records, 1894-1956</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Ann Arbor Young Men’s - Young Women's Christian Association (Mich.).</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Ann Arbor Young Men’s - Young Women's Christian Association (Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1894-1956
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851787 Ba 2; UBAm
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Minutes of board meetings, membership and treasurer's records, scrapbooks, and photographs.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were donated by the organization (donor no. <num type="donor" encodinganalog="541$e">3698</num>) in 1960.  
+</p></acqinfo>
+
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Ann Arbor Young Men’s - Young Women's Christian Association (Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The earliest records of the Young Men's Christian Association do not mention its founding date. The Woman's Auxiliary to the Young Men's Christian Association was formed in 1894. According to the organization's website, the men's association was probably founded in 1883. The two groups merged in 1957. </p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The record group includes minutes of meetings, membership materials, and treasurer's records of the Young Men's Christian Association dating from 1902 to 1933. The history of the women's association is documented in greater detail with minutes and scrapbooks, dating back to 1894 and extending to the mid-1950s. There is very little material from the 1950s on.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor--Societies and clubs.</subject>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">African Americans--Children.</subject>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Ann Arbor Young Men's-Young Women's Christian Association (Mich.)</corpname>
+<subject source="lctgm" encodinganalog="650">Camps--1941-1950.</subject>
+<subject source="lctgm" encodinganalog="650">Children.</subject>
+<subject source="lctgm" encodinganalog="650">Children playing with marbles.</subject>
+<subject source="lctgm" encodinganalog="650">Clothing and dress.</subject>
+<subject source="lctgm" encodinganalog="650">Costumes.</subject>
+<subject source="lctgm" encodinganalog="650">Handicraft.</subject>
+<subject source="lctgm" encodinganalog="650">Pageants.</subject>
+<subject source="lctgm" encodinganalog="650">Parties.</subject>
+<subject source="lctgm" encodinganalog="650">Recreation.</subject>
+<subject source="lctgm" encodinganalog="650">Sports.</subject>
+<subject source="lctgm" encodinganalog="650">Women--Organizations.</subject>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<corpname source="lcnaf" encodinganalog="710">Young Men's Christian Association (Ann Arbor, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="710">Young Women's Christian Association (Ann Arbor, Mich.)</corpname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Young Women's Christian Association records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes of regular meetings, <unitdate type="inclusive">1910-1917</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Board of Director's minutes, <unitdate type="inclusive">May 1898-1915</unitdate></unittitle></did><c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">May 1898-March 1905</unitdate></unittitle></did></c03><c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1910-1915</unitdate></unittitle></did></c03></c02>
+
+<c02 level="file"><did><unittitle>Membership records, <unitdate type="inclusive">1894-1918</unitdate></unittitle></did><c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1894-1908</unitdate></unittitle></did></c03><c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1916-1918</unitdate></unittitle></did></c03></c02>
+</c01>
+
+
+
+<c01 level="series"><did><unittitle>Young Men's Christian Association records</unittitle></did>
+<c02 level="file"><did><unittitle>Membership records, <unitdate type="inclusive">January 1902-1933</unitdate></unittitle></did><c03 level="file"><did><container type="box" label="Box">1</container><unitdate type="inclusive">January 1902-1914</unitdate></did></c03><c03 level="file"><did><container type="box" label="Box">1</container><unitdate type="inclusive">December 1914-December 1921</unitdate></did></c03><c03 level="file"><did><container type="box" label="Box">1</container><unitdate type="inclusive">1922-1933</unitdate></did></c03></c02>
+
+
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Treasurer's records, <unitdate type="inclusive">1905-1909</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other records</unittitle></did>
+<c02 level="file"><did><unittitle>Minutes of YMCA, Women's Auxiliary</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1894-1904</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1910-1920</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1926-1931</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Loyalty Club records</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1910-1912</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1917</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Y Girls Club records, <unitdate type="inclusive">1912-1922</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform>, <unitdate type="inclusive">1902-1955</unitdate> </unittitle> <physdesc><extent>4 volumes and 2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous papers </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Building interiors, <unitdate type="inclusive">1945-1946</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Camp Birkett and Summer Fun Club, <unitdate type="inclusive">1940-1956</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>YWCA activities, <unitdate type="inclusive">1914-1928</unitdate> </unittitle></did> <note><p>(also 1 item in oversize folder, UBAm)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous, <unitdate type="inclusive">1897</unitdate> and <unitdate type="inclusive">1938-1956</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

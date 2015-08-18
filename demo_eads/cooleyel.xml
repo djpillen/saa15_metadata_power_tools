@@ -1,0 +1,287 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::cooleyel.xml//EN" encodinganalog="identifier">umich-bhl-85984</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Finding Aid for Ernest L. Cooley Papers,  <date>1875-1928</date></titleproper>
+        <author encodinganalog="creator">Collection processed and finding aid prepared by Vernon Beal</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="date">2002</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by Thomas E. Powers, <date>October 2002</date></creation>
+      <langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>20031001</date>
+        <item>Converted to EAD2002 using Word macro and Xmetal</item>
+      </change>
+      <change>
+        <date>20021010</date>
+        <item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections <lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding Aid for <lb />Ernest L. Cooley Papers, <date type="inclusive">1875-1928</date></titleproper>
+      <author>Finding aid prepared by: <lb />Vernon Beal</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">Cooley, Ernest Linwood, 1856-1928.</persname>
+      </origination>
+      <unittitle encodinganalog="245">Ernest L. Cooley Papers
+<unitdate type="inclusive" encodinganalog="245$f">1875-1928</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">5 linear ft.</extent>
+      </physdesc>
+      <abstract>Chicago, Illinois engineer.  Personal and business papers, notes, reports, and correspondence, much of it with his brother Mortimer E. Cooley and Chase S. Osborn; include material concerning the Cooley family genealogy, water engineering projects, the Hudson Bay Co., 1850-1908, the St. Lawrence Seaway, and Mortimer E. Cooley's race for the U.S. Senate in 1924.</abstract>
+      <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">85984 Aa 2</unitid>
+      <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea> University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload" />
+      </repository>
+      <physloc>Portions located in offsite storage; prior notification required for access.</physloc>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>The collection was transferred from the Graduate Library of the University of Michigan (donor no. <num type="donor" encodinganalog="541$e">1278</num>)</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>The collection is open for research.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>Copyright is retained by the Regents of the University of Michigan.</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>item, folder title, box no., Ernest L. Cooley Papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Ernest L. Cooley was a civil and hydraulic engineer. In 1895, he became affiliated with the Sanitary District of Chicago where he worked until his death in 1928.  His work here had to do with the hydraulic design of channels, sewers, dams, and special structures of the District.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Ernest L. Cooley papers consist of correspondence, engineering reports and notes, and Cooley family genealogical material. Included is an extensive exchange of correspondence with his brother Mortimer E. Cooley, dean of the Engineering School of The University of Michigan. These letters concern vacation plans for trips to northern Michigan and Canada, and Mortimer Cooley's candidacy for the U.S. Senate from Michigan in 1924 (especially correspondence, July 1924 to Jan. 1925). There is also material relating to the management of the Cooley farm in Georgia 1927; the controversy surrounding the falling level of the Great Lakes (i.e., Nov. 18, 1926); and other engineering projects.</p>
+      <p>Another of his correspondents was Chase S. Osborn, former governor of Michigan. These letters cover personal matters growing out of their retreats to Osborn's summer camp at Duck Island. There is also material relating to the proposed St. Lawrence Waterways in letters of Aug. 1927 and throughout. Other than correspondence, the collection includes reports made on hydraulic engineering projects, particularly relating to flood control in the Chicago area, and the diversion of the Des Plaines River. Cooley also collected material relating to the history of the Hudson Bay Company. There are several folders of original business correspondence, reports, and accounts of the Hudson's Bay Company, 1850-1908. Miscellaneous items of interest include Cooley family genealogy found particularly in correspondence of 1915-1916. Cooley also wrote a short autobiographical sketch, Dec. 30, 1920; there is also a note on William Randolph Hearst, June 20, 1912.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <geogname source="lcsh" encodinganalog="651">Chicago (Ill.)</geogname>
+        <persname source="lcnaf" encodinganalog="600">Cooley, Ernest Linwood, 1856-1928.</persname>
+        <subject source="lcsh" encodinganalog="650">Engineers--Illinois--Chicago.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Hudson's Bay Company.</corpname>
+        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1922-1928.</geogname>
+        <geogname source="lcsh" encodinganalog="651">Saint Lawrence Seaway.</geogname>
+        <corpname source="lcnaf" encodinganalog="610">United States. Congress--Elections, 1924.</corpname>
+        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1923-1929.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Material:</head>
+        <subject source="lctgm" encodinganalog="650">Camping.</subject>
+        <subject source="lctgm" encodinganalog="650">Canoes.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Chicago and Alton Railroad Company.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Chicago Sanitary District.</corpname>
+        <persname source="lcnaf" encodinganalog="600">Cooley, Ernest Linwood, 1856-1928.</persname>
+        <subject source="lcsh" encodinganalog="650">Offices--Illinois--Chicago.</subject>
+        <subject source="lctgm" encodinganalog="650">Railroads--Illinois.</subject>
+        <subject source="lctgm" encodinganalog="650">Recreation.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors:</head>
+        <persname source="lcnaf" encodinganalog="700">Cooley, Lyman Edgar, 1850-1917.</persname>
+        <persname source="lcnaf" encodinganalog="700">Cooley, Mortimer E. (Mortimer Elwyn), 1855-1944.</persname>
+        <famname source="lcnaf" encodinganalog="700">Cooley family.</famname>
+        <persname source="lcnaf" encodinganalog="700">Osborn, Chase S. (Chase Salmon), b. 1860</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre/Form:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate>Undated</unitdate> and <unitdate type="inclusive">1875-June 1912</unitdate></unittitle>
+            <physdesc>
+              <extent>48 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive">July 1912-March 1919</unitdate>
+            </unittitle>
+            <physdesc>
+              <extent>41 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>
+              <unitdate type="inclusive">April 1919-1928</unitdate>
+            </unittitle>
+            <physdesc>
+              <extent>45 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>With Chase S. Osborn concerning the St. Lawrence Seaway, <unitdate type="inclusive">1927</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Genealogical Materials</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Cooley family</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Griswold family</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Miscellaenous</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Miscellaneous Professional Papers</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Artesan Water Co., reports concerning, <unitdate>undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Notes concerning the Chicago River, <unitdate>undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Chicago Sanitary District reports, <unitdate type="inclusive">1917-1924</unitdate></unittitle>
+            <physdesc>
+              <extent>3 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Miscellaneous papers</unittitle>
+            <physdesc>
+              <extent>16 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Notes and writings</unittitle>
+            <physdesc>
+              <extent>2 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Hudson Bay Company file, <unitdate type="inclusive">1857-1908</unitdate></unittitle>
+            <physdesc>
+              <extent>26 folders</extent>
+            </physdesc>
+          </did>
+          <note>
+            <p>(lacking papers for 1860-1861, 1887 and 1899-1904)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Low water survey of the Missouri River, <unitdate type="inclusive">1882</unitdate></unittitle>
+            <physdesc>
+              <extent>2 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Miscellaneous engineering reports</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Letter Book, <unitdate type="inclusive">1890-1893</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Letter Book, <unitdate type="inclusive">1893-1896</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Computation Book</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>
+              <genreform source="aat" normal="Photographs">Photographs</genreform>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>Photographs of fishing and boating excursions, 1911 and 1913; photographs of his office in the engineering department of the Sanitary District of Chicago; and photos from railroad race involving the Chicago and Alton Railroad, 1900.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

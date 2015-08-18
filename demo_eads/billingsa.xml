@@ -1,0 +1,324 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::billingsa.xml//EN" encodinganalog="Identifier">
+umich-bhl-2012004</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Alan G. Billings set renderings, 1967-1990
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Julia Corrin, January 2012 </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2012">
+2012</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2011</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2012-01-11</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Alan G. Billings set renderings, 1967-1990</titleproper>
+      <author>Finding aid created by<lb /> 
+Julia Corrin, January 2012</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Billings, Alan G.
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+Alan G. Billings set renderings 
+<unitdate type="inclusive" encodinganalog="245$f">
+1967-1990
+</unitdate>
+
+
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+0.3 linear feet, 1 bundle, and 2 framed drawings
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2012004 Aa 2</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Alan G. Billings was a set designer and professor at the University of Michigan.  The collection includes painted set renderings from productions staged at the University of Michigan during his tenure.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload" /></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+Donated by Alan Billings (donor no. <num type="donor" encodinganalog="541$e">10703</num>) in April 1999  
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Alan G. Billings set renderings, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Alan G. Billings was born on June 29, 1929, in Atlanta, Georgia.  He earned a B.F.A. from the University of Georgia in 1955 and an M.F.A. from the Carnegie Institute of Technology in 1958. Billings taught at the University of Louisville from 1958 to 1960.  He also served as a Professor of the School of Music at the University of Michigan, where he taught scenic design.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Alan G. Billings collection consists of set renderings painted by Billings while he was a professor at the University of Michigan.  These renderings include both depictions of the sets, and depictions of certain aspects of production staging and costume design.  The renderings are organized roughly by size, and thereunder alphabetically by title.  Most set renderings also include information on where the production was staged.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <subject source="lcsh" encodinganalog="650">Set designers--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650">Theatrical productions--Michigan--Ann Arbor.</subject>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="gmgpc" encodinganalog="655" normal="Set design drawings">Set design drawings.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>
+            <genreform>Set Renderings</genreform>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="object" label="Oversize Frames">1</container>
+            <unittitle>
+              <title render="italic">The Cherry Orchard</title> by Anton Chekhov (costume design by James B. Harris), <unitdate type="inclusive">1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="object" label="Oversize Frames">2</container>
+            <unittitle>
+              <title render="italic">The Cherry Orchard</title> by Anton Chekhov, <unitdate type="inclusive">1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="bundle" label="Bundle">1</container>
+            <unittitle>
+              <title render="italic">The Caucasian Chalk Circle</title> by Bertolt Brecht, <unitdate type="inclusive">1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="bundle" label="Bundle">1</container>
+            <unittitle>
+              <title render="italic">Hotel Paradiso</title> by Georges Feydeau (Act II), <unitdate type="inclusive">1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="bundle" label="Bundle">1</container>
+            <unittitle>
+              <title render="italic">King John</title> by William Shakespeare, <unitdate type="inclusive">1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="bundle" label="Bundle">1</container>
+            <unittitle>
+              <title render="italic">The Playboy of the Western World</title> by J. M. Synge, <unitdate type="inclusive">1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="bundle" label="Bundle">1</container>
+            <unittitle>
+              <title render="italic">The Royal Family</title> by George Kaufman, <unitdate type="inclusive">1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="bundle" label="Bundle">1</container>
+            <unittitle>
+              <title render="italic">She Stoops to Conquer</title> by Oliver Goldsmith, <unitdate type="inclusive">1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">The Balcony</title> by Jean Genet (2 drawings)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">Born Yesterday</title> by Garson Kanin, <unitdate type="inclusive">1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">Caesar and Cleopatra</title> by G. B. Shaw, <unitdate type="inclusive">1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">Cat on a Hot Tin Roof</title> by Tennessee Williams, <unitdate type="inclusive">1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">Cosi fan tutte</title> by W. A. Mozart (Act II, i), <unitdate type="inclusive">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">Cosi fan tutte</title> by W. A. Mozart (Act II, ii), <unitdate type="inclusive">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">Cyrano de Bergerac</title> by Edmond Rostand (Act II)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">Cyrano de Bergerac</title> by Edmond Rostand (Act III)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">Death of a Salesman</title> by Arthur Miller, <unitdate type="inclusive">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">A Little Night Music</title> by Stephen Sondheim (Act I, ii curtain drop), <unitdate type="inclusive">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">The Merchant of Venice</title> by William Shakespeare, <unitdate type="inclusive">1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">The Merry Widow</title> (Act II), <unitdate type="inclusive">1986</unitdate> by Franz Lehar</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">The Merry Widow</title> (Act III), <unitdate type="inclusive">1986</unitdate> by Franz Lehar</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">Mother Courage and Her Children</title> by Bertolt Brecht</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">Othello</title> by William Shakespeare (Act I, ii), <unitdate type="inclusive">1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">The Plough and the Stars</title> by Sean O'Casey</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">The Relapse</title> by John Vanbrugh, <unitdate type="inclusive">1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">Serjeant Musgrave's Dance</title> by John Arden</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">Tartuffe</title> by Moliere, <unitdate type="inclusive">1981</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

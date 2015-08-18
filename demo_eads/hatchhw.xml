@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::hatchhw.xml//EN" encodinganalog="Identifier">
+umich-bhl-00123</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Henry W. Hatch photograph collection, 1914,  1940s-1950s and undated
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff, 2013 </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2013">
+2013</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2013</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2013-10-28</date>
+        <item>Original encoding from Word 2007 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Henry W. Hatch photograph collection, 1914,  1940s-1950s and undated</titleproper>
+      <author>Finding aid created by<lb /> 
+Michigan Historical Collections Staff, 2013</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<persname source="lcnaf" encodinganalog="100">
+Hatch, Henry W.
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+Henry W. Hatch photograph collection
+<unitdate type="inclusive" encodinganalog="245$f">
+1814,  1940s-1950s and undated
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1947-1955
+</unitdate>
+
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+0.4 linear feet and 1 outsize folder
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+00123 Aa 2 UAm
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Henry Hatch was equipment manager for the University of Michigan Athletic Department, 1921-1964. Photographs of University of Michigan athletes (chiefly football players) and coaches and celebrities, photograph (1951) of Hatch at work in the University of Michigan athletic equipment area, photograph of Hatch as a child; also photograph (1914) of Ann Arbor, Mich., fire engine next to an interurban car.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload" /></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was received in 2013from Pat Hatch. (Donor No. <num type="donor" encodinganalog="541$e">4338</num>)
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open without restriction.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Henry W. Hatch photograph collection, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Henry Hatch was equipment manager for the University of Michigan Athletic Department  from 1921 to 1964, working with  Athletic Directors Fielding Yost and Fritz Crisler and seven football coaches.  Hatch started the Michigan's  tradition of retiring football jerseys when he decided after the 1927 season that Bennie Oosterbaan's #47 would never be issued again.</p>
+      <p>Hatch was born June 13, 1900 and died  April 4, 1964.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Hatch collection consists of photos acquired by Hatch  over the course of his 44 year association with the U-M Athletic Department.  The collection includes portraits and posed action photos of football players,  mainly ca. 1940-1955, some of which are autographed to Hatch; photos documenting the football team's train trips to the 1948 and 1951 Rose Bowl games and  several Hollywood photos from the track team's 1935 trip to California.  There are miscellaneous photos of coaches and players from other sports, posed photos of Miss Michigan 1948 on a ski hill and a 1914 photo of an Ann Arbor fire engine next to an interurban car.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <persname source="lcnaf" encodinganalog="600">Hatch, Henry W.</persname>
+        <subject source="lctgm" encodinganalog="650">Athletics--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650">Fire engines and equipment--Michigan--Ann Arbor.</subject>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Sports.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Football.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Photographs</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Ann Arbor Fire Engine, <unitdate type="inclusive">1914</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Basketball </unittitle>
+          </did>
+          <note>
+            <p>(includes Coaches Franklin Cappon and Bennie Oosterbaan, Coach Bill Perigo)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Football</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Coaches Harry Kipke and Bennie Oosterbaan</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Football game action and practice</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Football players</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle> <unitdate type="inclusive">ca. 1940-1954</unitdate> </unittitle>
+            </did>
+            <note>
+              <p>(posed action and headshots, including: Allis, Harry; Barr, Terry; Ceithaml, George; Daley, Bill; Evashevski, Forest; Franks, Julius; Greene, John; Hirsch, Elroy; Ingalls, Bob; Kempthorn, Dick; Hilkene, Bruce; Krager, George; McWilliams, Dick; Maentz, Tom; Monsen, Tony; Nelson, Davey; Peterson, Don; Peterson, Tom; Petoskey, Jack; Ponsetto, Joe with Fritz Crisler; Pregulman, Merv; Pritula, Bill; Rifenburg, Dick; Rogers, Joseph; Teninga, Wally; Tinkham, David; Tomasi, Dom; Westfall, Robert; Wisniewski, Irv; Wistert, Al; unidentified (9))</p>
+            </note>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1</container>
+                <unittitle>Bob Brown, captain, <unitdate type="inclusive">1924</unitdate> </unittitle>
+              </did>
+              <note>
+                <p>(posed with game balls and with (stuffed) Wolverine on a leash)</p>
+              </note>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1</container>
+                <unittitle>Tom Harmon</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1</container>
+                <unittitle>Ron Kramer</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Football Team photos, <unitdate type="inclusive">1945-1949</unitdate> and <unitdate type="inclusive">1964</unitdate> </unittitle>
+            </did>
+            <note>
+              <p>(Rentschler studio prints, plus 1945 full squad)</p>
+            </note>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Football Ticket Office staff, ca <unitdate type="inclusive">1940</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Rose Bowl, <unitdate type="inclusive">1950</unitdate> </unittitle>
+            </did>
+            <note>
+              <p>(photos of train trip, 1 game action photo)</p>
+            </note>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Architectural Rendering of new Michigan Stadium Press Box, <unitdate type="inclusive">ca. 1955</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miss Michigan, skiing publicity photos, <unitdate type="inclusive">1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Henry Hatch  with others </unittitle>
+          </did>
+          <note>
+            <p>(includes photo with Little Brown Jug)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Track Team  Trip to California, <unitdate type="inclusive">1935</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(2 photos of team posed at Fox Studio and movie set and Steve Farrell and Ralph Aigler with actress Alice Faye)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Photo Album</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Rose Bowl, <unitdate type="inclusive">1948</unitdate> </unittitle>
+            </did>
+            <note>
+              <p>(photos of train trip, arrival in Pasadena)</p>
+            </note>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">UAm</container>
+            <unittitle>Outsize Photos </unittitle>
+          </did>
+          <note>
+            <p>(includes portrait of Hatch as a child,  photos of  Hatch at work in the equipment room, Bob Chappuis, Tom Harmon, football team at Willow Run for the 1940 flight to California, autographed photos of Bob Hope and Joe E. Brown.)</p>
+          </note>
+        </c02>
+      </c01>
+    </dsc>
+    <relatedmaterial type="add">
+      <head>Related Material</head>
+      <p>A scrapbook maintained by Hatch's daughter, Patricia Hatch, contains football clippings, tickets and ephemera from U-M bowl games, 1948-1976. It is cataloged as the Patricia Hatch scrapbook, 1947-1976.</p>
+    </relatedmaterial>
+  </archdesc>
+</ead>

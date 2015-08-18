@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+    <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+        <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::mcmahonf.xml//EN" encodinganalog="identifier">umich-bhl-9947</eadid>
+
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Finding Aid for McMahon Family Papers<date>1907-1920</date></titleproper>
+                <author encodinganalog="creator">Collection processed and finding aid prepared by Jessica Tam</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+                <date encodinganalog="date">1999</date>
+            </publicationstmt>
+        </filedesc>
+
+        <profiledesc>
+            <creation>Encoded finding aid created by Jessica Tam, <date>June 1999</date></creation>
+            <langusage>The finding aid is written in <language encodinganalog="language" langcode="eng">English.</language></langusage>
+        </profiledesc>
+
+        <revisiondesc>
+            <change>
+                <date>20031010</date>
+                <item>Converted to EAD2002 using Word macro and Xmetal</item>
+            </change>
+            <change>
+                <date>1999-06-21</date>
+                <item>Original encoding from Word 6.0 file using Word macros and manual tagging in A/E.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+
+    <frontmatter>
+        <titlepage>
+            <publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+            <titleproper>Finding Aid for <lb/>McMahon Family Papers, <date>1907-1920</date></titleproper>
+            <author>Finding aid prepared by: <lb/>Jessica Tam</author>
+        </titlepage>
+    </frontmatter>
+
+    <archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21">
+        <did>
+            <origination><famname source="lcnaf" encodinganalog="100">McMahon Family.</famname></origination>
+            <unittitle encodinganalog="245">McMahon Family Papers <unitdate type="inclusive" encodinganalog="245$f">1907-1920</unitdate></unittitle>
+            <physdesc><extent encodinganalog="300">.8 linear ft.</extent></physdesc>
+            <abstract>Family from the Detroit, Michigan area; early twentieth century letters written to and from family members.</abstract>
+            <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">9947 Aa 2</unitid>
+            <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+            <repository encodinganalog="852"><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed"
+                    actuate="onload"/></repository>
+        </did>
+
+        <descgrp type="admin">
+            <acqinfo encodinganalog="541">
+                <p>The papers were transferred from the State Historical Society of Wisconsin, with permission from the donor, Andrew Sorensen, in February 1998. Donor no. <num type="donor"
+                        encodinganalog="541$e">6983</num></p>
+            </acqinfo>
+            <accessrestrict encodinganalog="506">
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+            <userestrict encodinganalog="540">
+                <p>Copyright is transferred to the University Michigan.</p>
+            </userestrict>
+            <prefercite encodinganalog="524">
+                <p>item, folder title, box no., McMahon Family Papers, Bentley Historical Library, University of Michigan</p>
+            </prefercite>
+        </descgrp>
+
+        <bioghist encodinganalog="545">
+            <p>Dr. Henry O. McMahon, a Detroit area surgeon, met Miss Juliet Richards of Racine, Wisconsin at the turn of the twentieth century. While they lived in separate states, they wrote to each
+                other letters starting in 1907, and began a courtship soon there after. Throughout their long courtship, the letters reflected many varied activities and politics, as well as their
+                growing feelings for one another. In 1912, they became engaged and were married in 1913. In 1914, Juliet gave birth to their first child, Mary Louise.</p>
+            <p>With the onset of World War I, medical reserve personnel were one of the first units to be called up into active duty for the United States Army. Henry's unit became active in 1917, and
+                he was sent to Fort Benjamin Harrison in Indianapolis, Indiana, before being sent for the duration of the war to the base hospital at Fort Custer, Battle Creek, Michigan. His letters
+                home reflect the change in his life, dealing with life at the base, learning new surgical techniques for modern gunshot wounds, and missing his wife and family at home in Detroit.
+                Although Juliet could visit occasionally, in October 1918 there was an pneumonia quarantine on the base which prevented Juliet's visits and Henry's trips home.</p>
+            <p>With the end of the war, Captain Henry O. McMahon, M.D., rejoined his wife and children in Detroit.</p>
+        </bioghist>
+
+        <scopecontent encodinganalog="520">
+            <p>The McMahon Family papers consist of a single series of Correspondence. This is subdivided into letters to and from Juliet Richards and Henry McMahon.</p>
+        </scopecontent>
+
+        <controlaccess>
+            <p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+            <controlaccess>
+                <head>Subjects:</head>
+                <subject source="lcsh" encodinganalog="650">Courtship.</subject>
+                <subject source="lcsh" encodinganalog="650">Love letters.</subject>
+                <subject source="lcsh" encodinganalog="650">United States--Armed Forces--Medical Personnel.</subject>
+                <subject source="lcsh" encodinganalog="650">World War, 1914-1918--Medical Care.</subject>
+            </controlaccess>
+
+            <controlaccess>
+                <head>Contributors:</head>
+                <persname source="lcnaf" encodinganalog="700"> McMahon, Henry O.</persname>
+                <persname source="lcnaf" encodinganalog="700">McMahon, Juliet.</persname>
+            </controlaccess>
+        </controlaccess>
+
+        <dsc type="combined">
+            <c01 level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                </did>
+                <scopecontent>
+                    <p>The majority of the Correspondence series are letters to Juliet Richards from Henry McMahon, during their friendship, courtship, engagement, and marriage. There are a few
+                        letters from Juliet to Henry, dating from 1913-1915, as well as letters from family and friends of Juliet congratulating her on her engagement, marriage, and birth of her
+                        children.</p>
+                </scopecontent>
+                <c02 level="file">
+                    <did>
+                        <container type="box" label="Box">1</container>
+                        <unittitle>Letters to Juliet Richards (From Henry McMahon), <unitdate>undated</unitdate></unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box" label="Box">1</container>
+                        <unittitle>Letters to Juliet Richards (From Henry McMahon), <unitdate type="inclusive">1907-1920</unitdate></unittitle>
+                        <physdesc><extent>19 folders</extent></physdesc>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box" label="Box">1</container>
+                        <unittitle>Letters to Juliet Richards (engagement congratulations), <unitdate type="inclusive">1912-1913</unitdate></unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box" label="Box">1</container>
+                        <unittitle>Letters to Juliet Richards (from various people), <unitdate type="inclusive">1914</unitdate></unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box" label="Box">1</container>
+                        <unittitle>Letters to Henry McMahon (From Juliet Richards), <unitdate type="inclusive">1913-1915</unitdate></unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box" label="Box">1</container>
+                        <unittitle>Letters from Henry McMahon (to various people), <unitdate type="inclusive">c. 1913-1915</unitdate></unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box" label="Box">1</container>
+                        <unittitle>Letters from Henry McMahon (to Mrs. Clarence Richards, Juliet's Mother), <unitdate>c.1914</unitdate></unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box" label="Box">1</container>
+                        <unittitle>Letter to Henry McMahon (from Ella Johnson), <unitdate type="inclusive">1913</unitdate></unittitle>
+                    </did>
+                </c02>
+
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

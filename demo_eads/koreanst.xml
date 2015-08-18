@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::koreanst.xml//EN" encodinganalog="identifier">
+umich-bhl-03138</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Korean Studies Program (University of Michigan) records, 1989- [ongoing]
+
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Adriane Hanson, September 2003.</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+200508</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Adriane Hanson, September 2003.
+<date>September 2003</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050815</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Korean Studies Program <lb/>(University of Michigan) <lb/>Records, 1989- [ongoing]
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Adriane Hanson, September 2003.
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+
+University of Michigan. Korean Studies Program.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Korean Studies Program (University of Michigan) records
+<unitdate type="inclusive" encodinganalog="245$f">
+1989- [ongoing]
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+03138  Bimu 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The Korean Studies Program was established in 1995, with the mission to promote research and study on Korea.  It works to strengthen the study of the Korean language, promote graduate training, and sponsors events to showcase Korean culture.  The records group focuses on the events and programming and contains some information on the background of the program.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were transferred by the Korean Studies Program (donor #<num type="donor" encodinganalog="541$e">9286</num>) in 2002.
+
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open without restriction.</p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Korean Studies Program (University of Michigan) Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Efforts to establish a Korean Studies Program began in 1984.  In 1990, the College of Literature, Science and the Arts (LS&amp;A) created a series of Korean Language courses as a first step to starting the program.  The program was officially founded in 1995 as a joint program of the School of Business and LS&amp;A.  Oversight comes from the International Institute.</p>
+<p>The formation of the Korean Studies Program was made possible by funding from the Korea Foundation.  The Korea Foundation was formed in Seoul, in 1992 to promote relationships between Korea and other countries.  The funding endowed a professorship and supported community outreach.  As part of the agreement, the University of Michigan agreed to fund three new professorships in Korean Studies.</p>
+<p>The Korean Studies Program promotes both education and research about Korea.  To this end, the program has worked to expand the Korean language instruction in the Department of Asian Language and Culture, supported research and graduate training, and worked to establish new professorships at the university.  The Korean Studies Program also sponsors events to reach the community and educate them about Korean culture.  Since fall 1994, students have had the opportunity to participate in an exchange program with two Korean universities.</p>
+<p>More current information can be found at the program website, as of September 2003: <title render="italic">http://www.umich.edu/~iinet/ksp/</title> </p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Korean Studies Program records date from 1995 to the present.  The information is sparse, with the main focus being events sponsored by the program.  Some information regarding the history of the program is also included.</p>
+<p>The record group is divided into two series:  Administration and Background and Events.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Korean Studies Program.</corpname>
+<subject source="lcsh" encodinganalog="650">Korea--Study and teaching.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Newsletters.</genreform>
+<genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Administration and Background</unittitle></did>
+<scopecontent>
+<p>Administration and Background consists of 0.2 linear feet of material.  It includes the history of the program, the agreement with the Korean Foundation, and newsletters and brochures created by the program.</p>
+</scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Agreement with the Korean Foundation, <unitdate type="inclusive">1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History of Korean Studies Program, <unitdate type="inclusive">1989-1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters (scattered), 1996-</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Korean Studies website printout, <unitdate type="inclusive">2002</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Events</unittitle></did>
+<scopecontent>
+<p>Events consists of 0.2 linear feet of material, including announcements of events and event programs.  These include colloquium series, guest speakers, and student language competitions, and a VHS videotape of Ko Un reading his poetry.  The program for a 1998 art exhibit, co-sponsored by the Korean Studies Program, "Hopes and Aspirations:  Decorative Painting of Korea," is located in the records of the Museum of Art.</p>
+</scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speakers and Special Events, 1995-</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Ko Un Poetry Reading, <unitdate type="inclusive">1997</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Announcement, invitation, and program</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Videotape of Ko Un reading his poems (VHS)</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Korean Language Competition, <unitdate type="inclusive">1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Nam Writing Award, <unitdate type="inclusive">1997-2001</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Colloquium Series (announcements), 1997-</unittitle></did></c02></c01>
+
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

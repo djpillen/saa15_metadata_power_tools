@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::degrow.xml//EN" encodinganalog="Identifier">
+umich-bhl-0631</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Dan L. DeGrow Papers, 1981-2002
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Zachary Monahan </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Zachary Monahan, 
+<date>April 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-05-04</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Dan L. DeGrow Papers, 1981-2002</titleproper>
+
+<author>Finding aid created by<lb/> 
+Zachary Monahan, April 2006</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+DeGrow, Dan L.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Dan L. DeGrow Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1981-2002
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+4 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0631 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The Daniel L. DeGrow collection documents his activities as Republican member of the Michigan legislature from 1981 to 2002.  The collection includes hardbound volumes of press releases issued by DeGrow and colleagues, columns written by DeGrow for various publications, and press clips from publications across the state.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Dan L. DeGrow (donor no. <num type="donor" encodinganalog="541$e">9700</num>) and came to the library on February 21, 2006.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Dan L. DeGrow Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Dan L. DeGrow was born June 28, 1953 in Ann Arbor Michigan.  He attended Port Huron Northern High School and St. Clair Community College before graduating Phi Beta Kappa from Michigan State University in 1975.  He received a J.D. from Wayne State University in 1978 and practiced law for several years.</p>
+
+<p>DeGrow was elected to the Michigan House of Representatives in 1980 and was elected as State Senator for the 27th Senate District in 1982.  He represented the 27th district from 1983 to 2002.  From 1995 to 1998 DeGrow served as the Senate Majority floor leader and from 1999 to 2002 he was the Senate Majority leader.</p>
+
+<p>DeGrow was an outspoken proponent of improving Michigan's public schools and after leaving the legislature he became superintendent of the St. Clair County Intermediate School District.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>Records in this collection document Dan DeGrow's tenure in the Michigan legislature, spanning from 1981 to 2002.  The collection consists of four series of hardbound volumes: Press Releases, Columns, Press Clips, and Miscellaneous.  </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">DeGrow, Dan L.</persname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Legislature. House of Representatives.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Legislature. Senate.</corpname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1981-1990.</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1991-2000.</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--2001-2010.</geogname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+
+
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+
+<c01 level="series"><did><unittitle>Press Releases</unittitle></did><scopecontent><p>The Press Releases series (0.5 ft) spans from 1985 to 2002.  It includes official press releases relating to DeGrow's activities in the legislature.  These releases include those from DeGrow's office, the Michigan Republican party, and fellow politicians.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1985-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1987-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1989-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1991-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1993-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1995-1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1997-1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1999-2000</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">2001-2002</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Columns</unittitle></did><scopecontent><p>The Columns series 0(.5 ft) spans from 1991 to 2000.  This series contains articles written by DeGrow for publications such as the <title render="italic">Sanilac County News</title> and the<title render="italic">Yale Expositor</title>, among others.  They discuss the activities of the Michigan legislature, proposed legislation, and current events.  The columns address issues of importance on both a state and national level including telecommunications, tobacco, transportation, natural resources and the environment.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1991-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1993-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1995-1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1997-1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1999-2000</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Press Clips</unittitle></did><scopecontent><p>The Press Clips series (3 ft.) makes up the majority of the collection and spans from 1981 to 2002.  This series includes articles from newspapers around the state of Michigan that discuss various legislative activities in which DeGrow was involved.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1981-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1985-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1991</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1994-1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1999</unitdate> </unittitle> <physdesc><extent>3 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">2000</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">2001</unitdate> </unittitle> <physdesc><extent>3 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">2002</unitdate> </unittitle> <physdesc><extent>2 volumes</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did><scopecontent><p>Miscellaneous is a small series consisting of some campaign materials, a few snapshots of DeGrow at public functions, and a sampling of some of the thank you letters he received while serving in the legislature.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Campaign literature, published material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><genreform normal="Photographs">Photographs</genreform> of DeGrow with political figures and at a farmers' market</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Thank you letters, <unitdate type="inclusive">1991-2002</unitdate> </unittitle></did></c02></c01>
+
+
+
+
+</dsc></archdesc>
+
+</ead>

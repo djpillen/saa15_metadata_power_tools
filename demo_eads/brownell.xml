@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::brownell.xml//EN" encodinganalog="Identifier">
+umich-bhl-861083</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Lloyd E. Brownell papers, 1951-1960
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Susan M. Swasta </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-11-06</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Lloyd E. Brownell papers, 1951-1960</titleproper>
+
+<author>Finding aid created by<lb/> 
+Susan M. Swasta, 1993</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Brownell, Lloyd E., 1915-1976.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Lloyd E. Brownell papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1951-1960
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1951-1954
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+861083 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of chemical and nuclear engineering and director of the Fission Product Laboratory at The University of Michigan. Professional correspondence and reports largely concerning his interest in the use of radiation for preserving food.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by the University of Michigan Dept. of Microbiology and the University Radiation Control Service (Donor nos. <num type="donor" encodinganalog="541$e">4846</num> and <num type="donor" encodinganalog="541$e">5666</num>).  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Lloyd E. Brownell papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Lloyd E. Brownell was born on November 8, 1915 in Potsdam, New York.  He attended Clarkson College, receiving a B.A. in chemical engineering in 1937 and a M.A. in mechanical engineering in 1939.  After college he moved to Saginaw, Michigan to take a position at Baker Perkins, Inc., manufacturer of chemical and food machinery.  Assigned to the development of food processing equipment, Brownell was sent by the company to the University of Michigan to perform research on foods at the College of Engineering.  He decided to continue his education at the University, and completed his master's degree and doctorate in chemical engineering by 1947, afterwards joining the faculty as an associate professor of chemical engineering.  He was promoted to full professor in 1954.</p>
+
+<p>Maintaining his interest in food processing, Brownell specialized in research and teaching in this area, and participated in projects involving the industrial applications of radiation in food preservation and the development of a new technique for extracting sugar from sugar beets.  He became head of the University's Fission Projects Laboratory in 1951, gained publicity as an expert in the atomic irradiation of foods for preservation, and served as consultant to the Atomic Energy Commission and to a number of industrial firms.  In 1955 Brownell took part in the first United Nations Conference on the Peaceful Uses of Atomic Energy.  Several years later he developed a synthetic rice substitute, Batina, to be used in supplementing the diets of third world populations.  Brownell retired from the University of Michigan in the 1970s, and died in Richland, Washington in 1976.</p>
+
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Lloyd Brownell papers consist largely of materials documenting Brownell's food irradiation experiments at the University of Michigan from 1951 to 1954.  Other topics include experiments on the effects of radiation on petrochemical processes and pharmaceuticals and Brownell's work in sugar beet processing techniques.  Beyond his work as a scientist, the collection also depicts the social climate of mid-1950s America, characterized by popular and industrial faith in progress and the powers of science. The collection has been divided into six series:  Biographical/Bibliographical, Correspondence, Conferences, Projects, Articles and Programs, and Clippings.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Brownell, Lloyd E. (Lloyd Earl), 1915-</persname>
+<subject source="lcsh" encodinganalog="650">Food.</subject>
+<subject source="lcsh" encodinganalog="650">Irradiated foods.</subject>
+<subject source="lcsh" encodinganalog="650">Radiation.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Engineering.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Fission Products Laboratory.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Biographical/Bibliographical</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Obituary and bibliography</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence, <unitdate type="inclusive">1951-1954</unitdate></unittitle></did><scopecontent><p> The series of Correspondence, the largest series in the collection, dates from 1951 to 1954, and consists of letters exchanged with various companies, agencies, professional organizations, and individuals.  Topics covered include Brownell's work, his participation in conferences, and his authorship of papers and journal articles.  These letters document the widespread interest in the prospects of food irradiation in this era of scientific optimism.  Most are from 1953, but the files appear to be incomplete, for the middle of the alphabet is under-represented.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>American</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>An-Az</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>B</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>C</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>D-E</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>F-G</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>H-O</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>P</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Q-R</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>S</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>T</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>U</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>W</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Conferences</unittitle></did><scopecontent><p>Conferences is a smaller series of four folders with reports and minutes of various conferences and meetings relating to peacetime uses of nuclear energy, held at different locations from 1951 to 1954 that Brownell participated in.  Two of the folders document Brownell's association with the American Institute of Chemical Engineers, and his participation in many of their conferences.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>American Institute of Chemical Engineers, <unitdate type="inclusive">1953-1954</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>University of Michigan, <unitdate type="inclusive">1951-1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Various, <unitdate type="inclusive">1951-1954</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Projects</unittitle></did><scopecontent><p>Projects is a nine-folder series of miscellaneous project documents consisting of fragmented progress reports, grant and project proposals, budget information, proposed experimental procedures, and a full series of published reports on experiments carried out from 1954 to 1960 for the Quartermaster Food and Container Institute.  Brownell was only peripherally associated with the latter series of experiments.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Atomic Energy Commission work reports, <unitdate type="inclusive">1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Budgets, <unitdate type="inclusive">1952-1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Chick feeding experiments, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Progress Reports, <unitdate type="inclusive">1951-1953</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Project proposals and correspondence, 1953-54    </unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Quartermaster Food and Container Institute reports, <unitdate type="inclusive">1954-1960</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Articles and Programs</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous, <unitdate type="inclusive">1951-1954</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Clippings</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous, <unitdate type="inclusive">1953</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

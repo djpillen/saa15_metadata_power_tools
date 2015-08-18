@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::aldrichf.xml//EN" encodinganalog="Identifier">
+umich-bhl-85564</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Frederick A. Aldrich Papers, 1887-1893
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>July 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-07-17</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Frederick A. Aldrich Papers, 1887-1893</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff, 1958</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Aldrich, Frederick A.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Frederick A. Aldrich Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1887-1893
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.3 linear ft. and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85564 Aa 2; UAm
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Flint, Michigan, resident, officer in the 3rd regiment of the Michigan State Troops (later the National Guard). Correspondence, other papers, and photograph, concerning his activities and the work of the organization.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Mrs. Neil J. Berston (donor no. <num type="donor" encodinganalog="541$e">3478</num>) and came to the library in 1958.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+No copyright restrictions
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Frederick A. Aldrich Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Frederick A. Aldrich lived in Flint, Michigan, and served as an officer in the 3rd Regiment of the Michigan State Troops (later the National Guard) during the late 1880s and early 1890s.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The collection has been arranged into a single Military Career series of papers and documents.  Included are official correspondence, general orders, receipts and invoices, and miscellaneous.  The collection also includes one photograph from around 1890 of members of the Michigan State Troops taken at Island Lake.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Aldrich, Frederick A.</persname>
+<geogname source="lcsh" encodinganalog="651">Flint (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. National Guard.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. State Troops (1862-1893)</corpname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<persname source="lcnaf" encodinganalog="600">Aldrich, Frederick A.</persname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. National Guard.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. State Troops (1862-1893)</corpname>
+<geogname source="lctgm" encodinganalog="651">Military camps.</geogname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Military career</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Commissions <unitdate type="inclusive">1887-1889</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1888-1893</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>11 folders</extent></physdesc></did> <note><p>(include order July 7,1888; microfilm copy available)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ordnance and quartermaster store returns</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous invitations</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General Orders of National Guard, <unitdate type="inclusive">1888-1893</unitdate> (printed)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous receipts and invoices</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Invoices of quartermaster's store</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous papers</unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle><genreform normal="Photographs">Photograph</genreform> showing Aldrich and other members of the 3rd Regiment, Michigan State Troops seated at tables underneath a tent, <unitdate type="inclusive">ca. 1890</unitdate></unittitle></did><note><p>(photograph captioned Camp John Robertson, August 4th to 9th, at Island Lake, ca. 1890)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

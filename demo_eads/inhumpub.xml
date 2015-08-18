@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::inhumpub.xml//EN" encodinganalog="Identifier">
+umich-bhl-9738</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Institute for the Humanities (University of Michigan) publications, 1987-1997
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Marilyn M. McNitt, 1997</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2009-01-21</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Institute for the Humanities <lb/>(University of Michigan) <lb/>publications, 1987-1997
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Marilyn M. McNitt, 1997
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Institute for the Humanities.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Institute for the Humanities (University of Michigan) publications
+<unitdate type="inclusive" encodinganalog="245$f">
+1987-1997
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9738 Bimu C6 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Includes annual reports, brochures and pamphlets, course bulletins, calendars, and the newsletters Humanities and Notes from the Institute for the Humanities at the University of Michigan.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Publications are received on a regular basis.
+(Donor No.<num type="donor" encodinganalog="541$e">5895.</num>).
+ 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>Periodic additions to the records expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The publications are open for research.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+<prefercite encodinganalog="524"><p>
+Institute for the Humanities (University of Michigan) publications, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>[See the historical sketch in the finding aid for Institute for the Humanities records.]</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Publications includes annual reports, brochures and pamphlets, course bulletins, calendars, and the newsletters Humanities and Notes from the Institute for the Humanities at the University of Michigan. The publications are organized into three series:  Unit Publications, Sub-Unit Publications, and Topical Publications.</p>
+
+<p>The Unit Publications series includes annual reports, brochures and pamphlets, and bulletins describing course offerings from the Institute.  This subseries also contains calendars and flyers describing the various programs, presentations, and events sponsored by the Institute for the Humanities.  These are arranged chronologically and broken down by the Institute's annual themes.  There are two newsletters Humanities and Notes, which cover the activities of the unit from 1989 to the present.</p>
+
+<p>The Sub-Unit Publications series contains brochures from the Humanities Camp.  The Humanities Camp is an event which brings together alumni and supporters with University of Michigan faculty to discuss and explore current issues and themes in the humanities.</p>
+
+<p>The Topical Publications series includes Development brochures.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Institute for the Humanities.</corpname>
+<genreform source="aat" encodinganalog="655">Annual reports.</genreform>
+<genreform source="aat" encodinganalog="655">Pamphlets.</genreform>
+<genreform source="aat" encodinganalog="655">Bulletins.</genreform>
+<genreform source="aat" encodinganalog="655">Calendars.</genreform>
+<genreform source="aat" encodinganalog="655">Newsletters.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Unit Publications</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Reports, 1987-1998/99 </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Brochures</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Art Exhibitions, <unitdate type="inclusive">1996-1999</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Bulletins</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Course Offerings</title>, <unitdate type="inclusive">1990-2000</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Calendars</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Brown Bag Lunch Series</title>, <unitdate type="inclusive">1990</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle><title render="italic"> Annual Theme</title></unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Histories of Sexuality</title>, <unitdate type="inclusive">1990-1991</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> The Authority of the Past</title>, <unitdate type="inclusive">1991-1992</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Utopian Visions</title>, <unitdate type="inclusive">1992-1993</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Geography of Identity</title>, <unitdate type="inclusive">1993-1994</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Work and Play</title>, <unitdate type="inclusive">1994-1995</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Emotion</title>, <unitdate type="inclusive">1995-1996</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Program Schedule</title>, <unitdate type="inclusive">1988-1990</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle><title render="italic"> Public Program Schedule</title></unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Images and the Imaginary</title>, <unitdate type="inclusive">1997</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> form and pattern:  Trauma, Space, Art</title>, <unitdate type="inclusive">1999</unitdate></unittitle></did></c04></c03></c02>
+<c02 level="file"><did><unittitle>Exhibition Catalogs</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Art at the Institute for the Humanities</title> <unitdate type="inclusive">1997-1999</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Art by University of Michigan Faculty at the Institute for the Humanities</title>, <unitdate type="inclusive">1996/97</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> An Art Exhibition at the Institute for the Humanities</title>, <unitdate type="inclusive">1999</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Humanities and the Arts:  An Exhibition of Faculty Art</title>, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Flyers, <unitdate type="inclusive">1987-1997</unitdate> </unittitle> <physdesc><extent>8 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Invitations, <unitdate type="inclusive">1990-1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Newsletters</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Humanities</title>, <unitdate type="inclusive">1989-1992</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Notes</title>, <unitdate type="inclusive">1994-2000</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Occasional Papers</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> The Intellectual Economy of Interdisciplinary Scholarship</title> by James A. Winn and Fred L. Bookstein, no. 1, <unitdate type="inclusive">1995</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Utopian Skeletons in the Biometric Closet</title> by Fred L. Bookstein, no. 2, <unitdate type="inclusive">1995</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Posters, <unitdate type="inclusive">1990-1999</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Programs</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive">1995</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> The Mirror of Simple Souls</title>, Libretto by Anne Carson, Music by Jason Kirk, <unitdate type="inclusive">1999</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Sub-Unit Publications</unittitle></did>
+<c02 level="file"><did><unittitle>Humanities Camp</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Brochures, <unitdate type="inclusive">1993-1999</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Topical Publications</unittitle></did>
+<c02 level="file"><did><unittitle>Development</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Brochures, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

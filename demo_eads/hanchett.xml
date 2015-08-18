@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::hanchett.xml//EN" encodinganalog="Identifier">
+umich-bhl-851397</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Benjamin Sawtell Hanchett papers
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Paul Jordan, 
+<date>2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-02-09</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Benjamin Sawtell Hanchett Papers, date</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Hanchett, Benjamin Sawtell, 1868-1933.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Benjamin Sawtell Hanchett Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1858 and 1888-1958
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1888-1931
+</unitdate>
+
+</unittitle>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851397 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Correspondence relating to politics and his activities as regent of the University of Michigan; also material concerning the depression and impact of the New Deal on agriculture in Michigan.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection came to the library from Jacob Shoemaker and John Huizenga (donor no. <num type="donor" encodinganalog="541$e">4032</num>) in 1963.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright had not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Benjamin Sawtell Hanchett Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Benjamin Sawtell Hanchett  was a Grand Rapids, Michigan, farmer, businessman, and regent of University of Michigan, 1911-1929.  Hanchett was born in Grand Rapids, October 1, 1868. After completing his education in  the public schools of that city he began working for the Street Railway company of Grand Rapids as an office boy.  He remained with the company, later know n as the Grand Rapids Traction Company, his entire career,  rising to the office of president and general manager.  In 1900-1901 he built the Grand Rapids, Holland and Lake Michigan Railway which was the first interurban railroad in western Michigan and served as president of the company for a time.  Hanchett served three successive terms as mayor of the village of East Grand Rapids.</p>
+
+<p>Hanchett was appointed t the University of Michigan Board of Regents in April 1911 to complete the term of Loyal E. Knappen of Grand Rapids who had resigned.  He was elected in his own right in1912 and served until resigning in 1929.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>Correspondence relating to politics and his activities as regent of the University of Michigan; also material concerning the depression and impact of the New Deal on agriculture in Michigan.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Agriculture--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Depressions--1929--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Farmers--Michigan--Grand Rapids.</subject>
+<geogname source="lcsh" encodinganalog="651">Grand Rapids (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">New Deal, 1933-1939--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Railroads--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Board of Regents.</corpname>
+<geogname source="lcsh" encodinganalog="651">United States--Politics and government--1901-1953.</geogname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. President.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Grand Rapids Railway Company.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Burton, Marion Le Roy, 1874-1925.</persname>
+<persname source="lcnaf" encodinganalog="700">Coolidge, Calvin, 1872-1933.</persname>
+<persname source="lcnaf" encodinganalog="700">Green, Fred Warren, 1872-1936.</persname>
+<persname source="lcnaf" encodinganalog="700">Groesbeck, Alexander J., 1873-1953.</persname>
+<persname source="lcnaf" encodinganalog="700">Harding, Warren G. (Warren Gamaliel), 1865-1923.</persname>
+<persname source="lcnaf" encodinganalog="700">Mapes, Carl Edgar, 1874-1939.</persname>
+<persname source="lcnaf" encodinganalog="700">New, Harry S. (Harry Stewart), 1858-1937.</persname>
+<persname source="lcnaf" encodinganalog="700">Osborn, Chase S. (Chase Salmon), b. 1860</persname>
+<persname source="lcnaf" encodinganalog="700">Townsend, Charles Elroy, 1856-1924.</persname>
+<persname source="lcnaf" encodinganalog="700">Tuttle, Arthur J., 1868-1944.</persname>
+<persname source="lcnaf" encodinganalog="700">Warner, Frederick Maltby, 1865-1923.</persname>
+<persname source="lcnaf" encodinganalog="700">Weeks, John W.</persname>
+<persname source="lcnaf" encodinganalog="700">Hays, Will H.$$g(Will Harrison), 1879-1954.</persname>
+<persname source="lcnaf" encodinganalog="700">Smith, Alfred Emanuel, 1873-1944.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform>genre</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1888-1922</unitdate> </unittitle> <physdesc><extent>41 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1923-1931</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>30 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Family correspondence, <unitdate type="inclusive">1858</unitdate> and <unitdate type="inclusive">1935-1958</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other Materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Young Men's Christian Association</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Grand Rapids Country Club</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Market Administration, National Recovery Administration, etc.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>War Food Administration, Commodity Price Corporation</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Code Authority, Wheat Flour Milling Industry</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Indentures, and miscellaneous legal and financial materials </unittitle> <physdesc><extent>13 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Newspaper clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Printed miscellanea </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Jenison family miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Miscellanea (largely University of Michigan related</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Photographs (mainly unidentified)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Letterbooks containing copies of letters to employees (of Grand Rapids Railway Co.), other business communications, etc., <unitdate type="inclusive">1892-1895</unitdate> </unittitle> <physdesc><extent>2 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Letterbook containing copies of letters (mainly non-business), <unitdate type="inclusive">1893-1897</unitdate></unittitle></did></c02></c01>
+
+
+</dsc>
+<descgrp type="add">
+<index><head>Selective Index to Correspondence</head>
+<indexentry><persname>Coolidge, Calvin, 1872-1933.</persname><ref><list type="simple"><item>Letter, Nov. 3, 1924, from Hanchett to Coolidge concerning Marion L. Burton; also letter of James B. Reynolds concerning Coolidge, Jan. 23, 1920</item></list></ref></indexentry>
+<indexentry><persname>Green, Fred Warren, 1872-1936.</persname><ref><list type="simple"><item>Letter from Howard C. Lawrence concerning the nomination of Green for Michigan governor, July 6, 1928.</item></list></ref></indexentry>
+<indexentry><persname>Harding, Warren G. (Warren Gamaliel), 1865-1923.</persname><ref><list type="simple"><item>Letters to Florence and Warren G. Harding, June 23, Nov. 4, 1920, Aug. 2, 1923. </item><item>Also letters about Harding: Lewis C. Laylin letter, Feb. 25, 1920, George B. Christian letters, Nov. 4, 1920, Nov. 11, 1921, April 9, Apr. 25 and Aug. 2, 1923; Will H. Hays letter, July 10, 1920; John W. Weeks letter, June 23, 1920</item></list></ref></indexentry>
+<indexentry><persname>Hays, Will H. (Will Harrison), 1879-1954.</persname><ref><list type="simple"><item>Letter from Hays re Warren G. Harding, July 10, 1920</item></list></ref></indexentry>
+<indexentry><persname>Mapes, Carl Edgar, 1874-1939.</persname><ref><list type="simple"><item>May 12, May 19,1925.</item></list></ref></indexentry>
+<indexentry><persname>Osborn, Chase S. (Chase Salmon), b. 1860.</persname><ref><list type="simple"><item>Aug. 20, 1918; </item><item>July 11, 1919; </item><item>Jan. 6, Feb. 20, Aug. 17, Dec. 25, 1920;</item><item> Nov. 19, Nov. 21, 1923;</item><item> Dec. 30, 1924; </item><item>Feb. 25, Feb. 26, Mar. 2, Mar. 7, Mar. 21, Oct. 19, Nov. 3, 1925;</item><item> Oct. 2, 1926;</item><item> Dec. 20, Dec. 27, 1928;</item><item> Aug. 22, 1929</item></list></ref></indexentry>
+<indexentry><persname>Smith, Alfred Emanuel, 1873-1944.</persname><ref><list type="simple"><item>Nov. 6, 1925</item></list></ref></indexentry>
+<indexentry><persname>Townsend, Charles Elroy, 1856-1924.</persname><ref><list type="simple"><item>Feb. 1, Oct. 27, 1921; </item><item>Jan. 9, Jan. 16, Jan 20, June 3, June 24, June 28, June 30, Oct. 18, Dec. 25, 1922; </item><item>May 12, May 19, 1925</item></list></ref></indexentry>
+<indexentry><corpname>University of Michigan. President.</corpname><ref><list type="simple"><item>Letter from Edward C. Lawrence re the office of president, Feb. 25, 1925</item></list></ref></indexentry>
+<indexentry><persname>Warner, Fred Maltby, 1865-1923.</persname><ref><list type="simple"><item>July 10, 1920</item></list></ref></indexentry>
+<indexentry><persname>Weeks, John W.</persname><ref><list type="simple"><item>Letter re Warren G. Harding, June 23, 1920</item></list></ref></indexentry>
+</index>
+
+
+
+</descgrp>
+
+</archdesc>
+
+</ead>

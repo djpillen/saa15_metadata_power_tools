@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::kelleyph.xml//EN" encodinganalog="Identifier">
+umich-bhl-851703</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Patrick Henry Kelley papers, 1910-1924
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>July 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-07-25</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Patrick Henry Kelley papers, 1910-1924</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Kelley, Patrick Henry, 1867-1925.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Patrick Henry Kelley papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1910-1924
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851703 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Lieutenant Governor of Michigan, 1907-1911, and Republican member of the U.S. House of Representatives. Correspondence, newspaper clippings, speeches and scrapbook concerning his political career and private law practice. Correspondents include: Calvin Coolidge, Louis C. Cramton, Oramel B. Fuller, Chase S. Osborn, Arthur J. Tuttle, Arthur H. Vandenberg, and James E. Watson.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of C. Bruce Kelley (donor no. <num type="donor" encodinganalog="541$e">4951</num>) and came to the library in 1970.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Patrick Henry Kelley papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Patrick Henry Kelley was US Congressman from Michigan.  He was born near Dowagiac, Silver Creek Township, Cass County, Michigan on October 7, 1867.  He moved to Berrien County with his parents, who settled in Watervliet in 1875.  He graduated from the Valparaiso (Ind.) Normal School in 1887, then taught school at Fair Plain for several years before attending Michigan Normal College in Ypsilanti. He graduated from the law department of the University of Michigan in 1900. After being admitted to the bar, he commenced the practice of law in Lansing, Mich.</p>
+
+<p>Kelley was also politically active. He was a member of the State Board of Education, 1901-1905; State Superintendent of Public Instruction, 1905-1907; and Lieutenant Governor of Michigan ,1907-1911.  He was elected as a Republican to the US House of Representatives in 1912, serving five terms, 1913-1923.  He did not seek re-nomination, deciding instead to become a candidate for a seat in the Senate.  His bid was unsuccessful and thus he returned the practice of law in Lansing, Mich.  He died September 11, 1925. </p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection is arranged into three series: Correspondence; U.S. House of Representatives, 1913-1923; and Photographs.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Lawyers--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Lieutenant Governor.</corpname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1922-1928.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
+<geogname source="lcsh" encodinganalog="651">United States--Politics and government--1923-1929.</geogname>
+<corpname source="lcnaf" encodinganalog="610">United States. Congress. House.</corpname>
+<persname source="lcnaf" encodinganalog="600">Kelley, Patrick Henry, 1867-1925.</persname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+
+</controlaccess>
+
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Coolidge, Calvin, 1872-1933.</persname>
+<persname source="lcnaf" encodinganalog="700">Cramton, Louis C. (Louis Convers), b. 1875.</persname>
+<persname source="lcnaf" encodinganalog="700">Fuller, Oramel B., b. 1858.</persname>
+<persname source="lcnaf" encodinganalog="700">Osborn, Chase S. (Chase Salmon), b. 1860</persname>
+<persname source="lcnaf" encodinganalog="700">Tuttle, Arthur J., 1868-1944.</persname>
+<persname source="lcnaf" encodinganalog="700">Vandenberg, Arthur H. (Arthur Hendrick), 1884-1951.</persname>
+<persname source="lcnaf" encodinganalog="700">Watson, James E., 1863-1948.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1910-1922</unitdate> </unittitle></did> <note><p>(include letter from Chase S. Osborn, 1910)</p></note></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">1923</unitdate> </unittitle></did> <note><p>(include letters from Louis C. Cramton throughout 1923)</p></note>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> January-June 1923</unitdate> </unittitle></did> <note><p>(include letters from Chase S. Osborn,  June 18 and  June 26; also letters from Oramel B. Fuller,  June 24 and  June 25)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> July-August 1923</unitdate> </unittitle></did> <note><p>(include letter from Arthur Vandenberg,  August 15 and  August 27; also letter from James E. Watson,  August 10)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> September-October 1923</unitdate> </unittitle></did> <note><p>(include letter from Calvin Coolidge,  October 19)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> November-December 1923</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1924</unitdate> </unittitle></did> <note><p>(include letters from Oramel B. Fuller,  January 5 and  January 7; also letter from Arthur J. Tuttle)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>U.S. House of Representatives, <unitdate type="inclusive">1913-1923</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings, <unitdate type="inclusive">1916-1924</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Political miscellanea, <unitdate type="inclusive">1914-1923</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches, <unitdate type="inclusive">1922</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Scrapbooks">Scrapbook</genreform> of speeches delivered in the U.S. House of Representatives, <unitdate type="inclusive">1913-1917</unitdate> </unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Portraits of PHK and of associates of PHK</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

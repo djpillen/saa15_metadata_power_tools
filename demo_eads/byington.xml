@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::byington.xml//EN" encodinganalog="identifier">umich-bhl-9976</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for S. John Byington Papers <date>1964-1972</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by  Crystal Zeh</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1999</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Crystal Zeh, <date>October 1999</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031001</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>1999-10-14</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>S. John Byington Papers, <date type="inclusive">1964-1972</date></titleproper><author>Finding aid prepared by: <lb/>Crystal Zeh</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Byington, S. John, 1937-</persname></origination>
+<unittitle encodinganalog="245">S. John Byington Papers
+<unitdate type="inclusive" encodinganalog="245$f">1964-1972</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">0.5 linear ft.</extent></physdesc>
+<abstract>Campaign worker for George Romney; includes biographical information and files relating to election activities in Romney's 1964 race for governor of Micihgan and  1972 campaign for president.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">9976 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was donated by S. John Byington and Page Wheatcroft in July 1999 (Donor no.<num type="donor" encodinganalog="541$e">8853</num> ).</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., S. John Byington Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Born on October 9, 1937 in Kalamazoo, Michigan, pharmacist and lawyer S. John Byington was involved in Michigan politics for much of his life.  Byington, whose family moved from Kalamazoo to Grand Rapids, Michigan shortly after his birth, attended Catholic schools in preparation for his enrollment in Ferris State College (now Ferris State University).  In 1959 he graduated with a B.S. in pharmacy intending to follow the career path of his father who owned one of Grand Rapids' largest pharmacies.  However, not all his time was spent pouring over pharmacy texts at Ferris.  The seeds of what would later become a flourishing political career were sown as he and three college friends devoted themselves to campus organizing, founding a Young Republican's Club, a student radio station, a student union board, and a Leadership Training Conference.</p>
+<p>Following graduation, Byington moved to Ann Arbor, Michigan to enroll in the University of Michigan Law School and work as the assistant manager of Stadium Pharmacy.  Byington chose not to stay in Ann Arbor and soon moved to Washington to accept a position with the American Pharmaceutical Association (APhA).  He continued his law studies at Georgetown University, was promoted to Director of Communications of the APhA, and eventually completed his juris doctorate in 1963.</p>
+<p>At this point in his life Byington says he reached a crossroads: "I had to decide...what I wanted to do and be.  The decision was whether to go into corporate work, stay in public relations, or use my law degree."  Byington opted for the law degree and moved back home to Grand Rapids to work a short stint in the offices of the Kent County Prosecutor.  During this time, he also worked as a volunteer for the Romney gubernatorial campaign.  Romney won the November 1964 election and offered Byington a staff position as assistant press secretary.  Byington accepted.</p>
+<p>When Governor Romney announced his decision to run for a third term  in 1966, he chose Byington as his campaign manager.  When the Governor announced his candidacy for the Republican presidential ticket in November of 1967, Byington became the executive assistant in charge of campaign scheduling, public relations, and national correspondence.  However, when it became clear that Romney was no match for Nixon, he announced his withdrawal from the race in February 1968, just several months before the primary election.  Byington then went on to devote his efforts to the Nixon/Agnew campaign and became the Executive Director of the Young Civic Leaders Group.</p>
+<p>Following his campaign involvement, Byington continued to work on behalf of state and national level Republican party politics.  He also continued to practice law and became the International Marketing Director Executive and Director of the United States Department of Commerce Business Services Field Office in Detroit.</p>
+<p>Byington married Sally Ruth Meyer, also of Grand Rapids in the early to mid 1960s.  The couple had two children, Nancy, born January 7, 1966 and Barbra, born October 2, 1967.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The papers of S. John Byington are arranged in two series: Personal/Biographical Material and Political Campaigns.  The files relate primarily to his efforts on behalf of George Romney in his 1964 gubernatorial campaign and to Romney's bid for the Republican nomination for the presidency in 1968.</p></scopecontent>
+
+<controlaccess>
+
+<controlaccess><head>Subjects:</head><persname source="lcnaf" encodinganalog="600">Byington, S. John, 1937-</persname><subject source="lcsh" encodinganalog="650">Elections--Michigan--1964.</subject><subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1968.</subject><persname source="lcnaf" encodinganalog="600">Romney, George W., 1907-</persname><geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1961-1970.</geogname><corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Personal/Biographical Material</unittitle></did><scopecontent><p>Personal/Biographical Material contains a folder of biographical matter, including Byington's resume.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical Information</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Personal Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1965</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1966-1972</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsclippings, <unitdate type="inclusive">1964-1972</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Political Campaigns</unittitle></did><scopecontent><p>Political Campaigns documents Byington's involvement in Michigan and national politics from his entrée as George Romney's 1964 gubernatorial campaign manager to his position as executive director of Nixon's Young Civic Leaders.  Romney campaign material includes replies to constituent letters requesting campaign paraphernalia and offering campaign support.  Byington's memoranda also outline campaign strategies.  Documents from the Nixon campaign provide evidence of Byington's involvement with Young Civic Leaders, a campaign program which recruited young, influential citizens to be Nixon spokespeople in their home states or counties.</p></scopecontent>
+<c02 level="subseries"><did><unittitle>George Romney</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Gubernatorial Race, <unitdate type="inclusive">1964</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>Republican Presidential Nomination, <unitdate type="inclusive">1967-1968</unitdate></unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Staff Memoranda</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Minutes</unittitle></did></c04></c03></c02>
+<c02 level="subseries"><did><unittitle>Richard Nixon Presidential Race</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Campaign materials, <unitdate type="inclusive">1968</unitdate></unittitle></did></c03></c02></c01></dsc></archdesc></ead>   

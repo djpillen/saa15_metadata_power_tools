@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::harlowfm.xml//EN" encodinganalog="Identifier">
+umich-bhl-851420</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Harlow family papers, 1836-1950
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-12-09</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Harlow family papers, 1836-1950</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<famname source="lcnaf" encodinganalog="100">
+Harlow family.
+</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Harlow family papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1836-1950
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851420 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Early settlers of Marquette [originally Worcester], Michigan, and founders of the Marquette Iron Company. Correspondence of Amos R. Harlow, Ellen J. Harlow (familiarly known as Ella), and Fred O. Clark; also diaries of Ella Harlow concerning daily activities and family affairs; plan of a scow; and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Robert H. Clark (donor no. <num type="donor" encodinganalog="541$e">5076</num>).  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Harlow family papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Harlow family members were early settlers to Worcester (present-day Marquette), Michigan. The head of the family was Amos R. Harlow, who was born April 23, 1815 in Shrewsbury, Massachusetts. He worked in the manufacture of machinery in Massachusetts for a period of time, then in 1849 with three other individuals formed the Marquette Iron Company. Harlow left for Michigan that same year eventually settling where the city of Marquette now stands but which he then called Worcester. The name was changed to Marquette in 1850. In 1853, the Marquette Iron Company merged with the Cleveland Iron Company. Thereafter, Harlow shifted his energies to lumbering and to the development of his property in the city of Marquette.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Harlow family papers consists of correspondence, mainly among family members, but also relating to business affairs, to life in Marquette, and to family affairs. There are also a few diaries of Harlow's daughter Ella and photographic portraits.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+
+<famname source="lcnaf" encodinganalog="600">Harlow family.</famname>
+<subject source="lcsh" encodinganalog="650">Iron industry and trade--Michigan--Marquette.</subject>
+<geogname source="lcsh" encodinganalog="651">Marquette (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Upper Peninsula (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Marquette.</subject>
+
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lctgm" encodinganalog="650">Bridges--Michigan--Marquette.</subject>
+<persname source="lcnaf" encodinganalog="600">Clark, Frederick Owen, b. 1842.</persname>
+<famname source="lcnaf" encodinganalog="600">Clark family.</famname>
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Marquette.</subject>
+<persname source="lcnaf" encodinganalog="600">Harlow, Amos R.</persname>
+<persname source="lcnaf" encodinganalog="600">Harlow, Ella.</persname>
+<famname source="lcnaf" encodinganalog="600">Harlow family.</famname>
+<geogname source="lctgm" encodinganalog="651">Marquette (Mich.)--Bridges.</geogname>
+<geogname source="lctgm" encodinganalog="651">Marquette (Mich.)--Dwellings.</geogname>
+<geogname source="lctgm" encodinganalog="651">Marquette (Mich.)--Sculpture.</geogname>
+<subject source="lctgm" encodinganalog="650">Sculpture--Michigan--Marquette.</subject>
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Clark, Frederick Owen, b. 1842.</persname>
+<persname source="lcnaf" encodinganalog="700">Harlow, Amos R.</persname>
+<persname source="lcnaf" encodinganalog="700">Harlow, Ellen J.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Ships plans.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence and other papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1836-1950</unitdate> </unittitle> <physdesc><extent>17 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Receipts, notes from travels, essays, etc. </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ella J. Harlow (daughter of Amos R. Harlow) <genreform normal="Diaries">diaries</genreform>, <unitdate type="inclusive">1859-1875</unitdate> (some gaps)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform>: portraits of Amos R. Harlow, Ella Harlow, Fred O. Clark, and other family members; photos of Harlow's house and grounds </unittitle> <physdesc><extent>3 envelopes</extent></physdesc></did></c02>
+<c02 level="file"><did><container label="Oversize Folder" type="folder">1</container><unittitle><genreform normal="Ship plans">Plan of scow</genreform> and bill of materials</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

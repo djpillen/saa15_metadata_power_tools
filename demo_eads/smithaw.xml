@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::smithaw.xml//EN" encodinganalog="Identifier">
+umich-bhl-861</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Arthur Whitmore Smith Papers, 1893-1954
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Jennifer King </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>August 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-08-30</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Arthur Whitmore Smith Papers, 1893-1954</titleproper>
+
+<author>Finding aid created by<lb/> 
+Jennifer King, 1993</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Smith, Arthur Whitmore, 1874-1954.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Arthur Whitmore Smith papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1893-1954
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1930-1954
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+861 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of Physics at the University of Michigan. Correspondence and other papers relating to his research in physics, and his interest in his family genealogy and his activities with the Sons of the American Revolution in Michigan.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Mrs. Arthur Smith (Donor No. <num type="donor" encodinganalog="541$e">4896</num>) in April 1970.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Arthur Whitmore Smith Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Dr. Arthur Whitmore Smith was born in Hartford, Vermont on May 11, 1874.  After receiving his B.S. degree in 1893 from the University of New Hampshire, he continued his education at Wesleyan University, receiving a Masters of Science in 1895.  Dr. Smith completed his Ph.D. in physics at Johns Hopkins University in 1903.</p>
+
+<p>Throughout his career, Dr. Smith held numerous teaching assignments including positions at Wesleyan University and the University of Mississippi.  In 1903, he came to the University of Michigan where he taught in the physics department until his retirement in 1944.  During his forty-one years at the University of Michigan, Dr. Smith wrote numerous articles.  His special area of study concerned the calorimetric determination of the energy of food.</p>
+
+<p>Dr. Smith's hobby was genealogy which he pursued throughout his life.  He was involved with many organizations dealing with genealogical research.  For example, he served as both vice-president and president of the Michigan Society of the Sons of the American Revolution.  Furthermore, Dr. Smith helped found an Ann Arbor chapter of  the Institute of American Genealogy.</p>
+
+<p>Dr. Smith remained active as a professor until his death on December 1, 1954.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The papers of Dr. Arthur Whitmore Smith consist of correspondence and other papers relating to his research in physics, and his interest in his family genealogy and his activities with the Sons of the American Revolution in Michigan.
+The papers are arranged in four series:  Biographical Information, Genealogical Activities, Physics Research, and Photographs.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Genealogy.</subject>
+<subject source="lcsh" encodinganalog="650">Physics.</subject>
+<famname source="lcnaf" encodinganalog="600">Smith family.</famname>
+<persname source="lcnaf" encodinganalog="600">Smith, Arthur Whitmore, 1874-</persname>
+<corpname source="lcnaf" encodinganalog="610">Sons of the American Revolution. Michigan Society.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Physics.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Dwellings.</geogname>
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Ann Arbor.</subject>
+<persname source="lcnaf" encodinganalog="600">Smith, Arthur Whitmore, 1874-</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Buildings.</corpname>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Biographical Information</unittitle></did><scopecontent><p>The Biographical Information series (1 folder) provides useful information about Smith's life and includes his curriculum vitae, a bibliography of his scholarly writings, citations, clippings, and biographical information used <title render="italic">Who's Who</title> and similar volumes.  The folder contains documents dated from around 1895 to the 1940s.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Genealogical Activities</unittitle></did><scopecontent><p>The Genealogical Activities series (4 folders) concerns Dr. Smith's research of his family's genealogy.  This series includes two folders of correspondence dating from 1930 to 1954 detailing his own genealogical pursuits as well as his activities with the Michigan Society of the Sons of the American Revolution and the formation of the Ann Arbor chapter of The Institute of American Genealogy.  Also, this series contains a notebook with Smith's genealogical research on his own family. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor Genealogical and Historical Society, <unitdate type="inclusive">undated 1940s</unitdate> </unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1930-1954</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Society of the Sons of the American Revolution, <unitdate type="inclusive">1934-1950</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Smith family (and related) genealogical research </unittitle> <physdesc><extent>1 volume and 1 folder</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Washtenaw Impressions</title> article, "Looking for Ancestors" <unitdate type="inclusive">1946</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Physics Research</unittitle></did><scopecontent><p>The Physics Research (3 volumes and 2 folders) series contains the published and unpublished writings of Dr. Smith.  Two of these volume are reprints of journal articles covering the years 1893 to 1948.  Also included is a textbook entitled<title render="italic">Electrical Measurements in Theory and Application</title>.  There is also a folder of unpublished writings about magnetism.  In addition, there is a diary of personal observations and newspaper clippings kept by Smith about an experiment he conducted in 1896 to test the energy produced by different foods using a calorimeter.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Diary of Calorimeter experiment, <unitdate type="inclusive">1896</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Calorimetric Research of Arthur W. Smith,</title> <unitdate type="inclusive">1894-1900</unitdate> </unittitle></did> <note><p>(consists of bound set of scientific reprints)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Researches in Physics,</title> <unitdate type="inclusive">1893-1948</unitdate> </unittitle></did> <note><p>(consists of bound set of scientific reprints)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Electrical Measurement in Theory and Application,</title> <unitdate type="inclusive">1948</unitdate> </unittitle> <physdesc><extent>1 volume and 1 folder</extent></physdesc></did> <note><p>(includes corrections to the book)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Manuscripts of writings on magnetism, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did><scopecontent><p>The Photograph series (1 folder) consists of both individual and family pictures as well as photographs of the University of Michigan campus and buildings.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Portraits, <unitdate type="inclusive">1920s-1930s</unitdate> campus views, <unitdate type="inclusive">ca. 1946</unitdate> showing Chemistry Building and view of Rackham Building taken from South University; and snapshot of Monroe Street residence, <unitdate type="inclusive">1949</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

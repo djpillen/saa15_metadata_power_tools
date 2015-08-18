@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::ludwigm.xml//EN" encodinganalog="Identifier">
+umich-bhl-2008163</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Martha Ludwig papers, 1974-2006
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Emily M. Sanford, October 2008</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-MD-DD</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Martha Ludwig papers, 1974-2006</titleproper>
+
+<author>Finding aid created by<lb/> 
+Emily M. Sanford, October 2008</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Ludwig, Martha
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Martha Ludwig papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1974-2006
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1988-2002
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.0 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2008163 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Martha Ludwig (1931-2006), Professor of Biological Chemistry, joined the University of Michigan faculty in 1967.  Ludwig was inducted into the National Academy of Science in 2003 and the Institute of Medicine in 2006.  Ludwig specialized in x-ray crystallography, specifically addressing the area of protein structures and their biomedical implications.  The collection includes correspondence and e-mails (print- outs), papers related to the Biophysics Research Division, papers on the Life Science Collaborative Access Team (LS-CAT) an interuniversity equipment sharing initiative, and reviews of programs in which Ludwig was involved
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The Martha Ludwig papers (donor number <num type="donor" encodinganalog="541$e">9998</num>) were received in January 2008 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Martha Ludwig papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Martha Ludwig was born August 16, 1931, in Pittsburgh, Pennsylvania.  She received her B.A. from Cornell University in 1952, her M.A. in Biochemistry from the University of California in 1955, and her Ph.D. in Biochemistry from the Cornell Medical College in 1956.  She held two post-doctoral positions, the first at Harvard University from 1956 until 1959 and again from 1962 to 1967, and the second at the Massachusetts Institute of Technology from 1959 to1962. </p>
+
+<p>Ludwig's time at the University of Chicago shaped her research concentration; specifically, her interactions with biophysicist Howard K. Schachman whose course in Biological Physics she took while a master's student.  Biophysics became her area of focus and research.  Early on, when studying the interactions of proteins, Ludwig used traditional methods of biochemistry involving protein purification and chromatography.  When Ludwig returned to Harvard in 1962, she became interested in the new technology of x-ray crystallography which allowed three-dimensional modeling of structures.  Her mentor at Harvard in 1962 was future Nobel laureate William Lipscomb.  Ludwig was a part of Lipscomb's lab team that solved the structures of carboxypeptidase A.  The characterization of the protein was among the earliest in the world to be identified using x-ray crystallography and the very first to be identified in the United States. </p>
+
+<p>In 1967, Ludwig accepted a faculty position at the University of Michigan as an Assistant Professor in the Division of Biological Chemistry.  Ludwig came to the University of Michigan to study flavodoxins under Vincent Massey.  She also joined the interdisciplinary Biophysics Research Division as an Assistant Researcher.  One year later, she obtained the titles of Associate Professor and Associate Researcher, respectively.  Ludwig was made a full professor of Biochemistry and was granted tenure in 1975.  She served as the chair of the Biophysics Research Division from 1986 to 1989. </p>
+
+<p>Included among her many honors are appointments to the National Academy of Science in 2003 and to the Institute of Medicine in 2006.  She received the Garvan Medal of the American Chemical Society in 1984, and the Distinguished Faculty Achievement Award in 1986.  She was among the founding members of the Life Sciences Collaborative Access Team (LS-CAT) an academic and research collaborative effort to fund an advanced research facility for x-ray crystallography research in the state of Michigan. Ludwig's research centered on enzymes and their biomedical implications, specifically, dealing with those involving B12 and riboflavin.</p>
+
+<p>Martha Ludwig passed away November 27, 2006, of complications from colon cancer.  She was survived by her husband of 45 years Frederic Hoch a professor of Internal Medicine and Biological Chemistry. </p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Martha Ludwig papers encompass her career at the University of Michigan mostly dealing with the Biophysics Research Division.  The papers cover the years from 1974 to 2007, but the majority of the materials fall within the years from 1988 to 2002.  The Martha Ludwig collection includes four series:  Correspondence, Biophysics Research Division (BRD), Life Science Collaborative Access Team (LS-CAT), and Reviews and Evaluations.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname encodinganalog="600" source="lcnaf">Luwdig, Martha.</persname><corpname encodinganalog="610" source="lcnaf">University of Michigan. Biophysics Research Division.</corpname><corpname encodinganalog="610" source="lcnaf">Universityof Michigan--Faculty.</corpname>
+
+<subject encodinganalog="650" source="lcsh">Biophysics.</subject>
+</controlaccess>
+
+
+
+
+
+
+
+
+
+
+</controlaccess>
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<scopecontent>
+<p>The Correspondence series (1983-1996) includes one folder of correspondence and e-mail (print-outs) to and from Ludwig.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1983-1996</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Biophysics Research Division (BRD), <unitdate type="inclusive">1976-2004</unitdate></unittitle></did>
+<scopecontent>
+<p>The Biophysics Research Division (BRD) (1976-2004) series is arranged alphabetically.  This series contains files of Ludwig's activities within the Biophysics Research Division, including classroom resources, history and general information on the BRD program, staff meeting minutes, lab regulations and graduate student funding.  The earliest date, 1956, comes from a few historic materials held within the history and general information folder. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Budget and Funding, <unitdate type="inclusive">1980-1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Budget and Funding Presentation (1981-1989), circa <unitdate type="inclusive">1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Class Resources (Teaching material), <unitdate type="inclusive">1986-1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Executive Committee and Personnel, <unitdate type="inclusive">1986-2003</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Graduate Employees Organization, <unitdate type="inclusive">1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Graduate Student Funding Support, <unitdate type="inclusive">1988-1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History and General Information, <unitdate type="inclusive">1976-2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Life Science Corridor (MLSC), <unitdate type="inclusive">2002</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Program in Biomedical Science, <unitdate type="inclusive">1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Publications, <unitdate type="inclusive">1997</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Radiation Regulations, <unitdate type="inclusive">1983-1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Research Facilities and Space, <unitdate type="inclusive">1987-1995</unitdate>, <unitdate type="inclusive">1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Staff Meetings-Minutes and Agendas, <unitdate type="inclusive">1992-2002</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Life Sciences Collaborative Access Team (LS-CAT) <unitdate type="inclusive">2000-2006</unitdate></unittitle></did>
+<scopecontent>
+<p>The Life Science Collaborative Access Team (LS-CAT) series (2000-2006) is arranged alphabetically.  It contains files on the collaborative effort of several academic and research institutions to co-fund an advanced research facility for x-ray crystallography to be shared by all parties involved and rented out to other researchers wishing to use the advanced technology.  Included are correspondence and e-mail (print- outs) between the members, detailing funding issues, meeting minutes and agendas, agreements, and progress reports. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Basic Information about the Life Sciences Collaborative Access Team, <unitdate type="inclusive">2001-2005</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence and e-mail (print-outs), <unitdate type="inclusive">2000-2006</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Funding, <unitdate type="inclusive">2001-2006</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Meeting Agendas and Minutes, <unitdate type="inclusive">2001-2006</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Meeting Power-point Slides, <unitdate type="inclusive">2002-2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Progress and Prospect Reports, <unitdate type="inclusive">2000-2006</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Reviews and Evaluations <unitdate type="inclusive">1974-2003</unitdate></unittitle></did>
+<scopecontent>
+<p>The Reviews and Evaluations series (1974-2003) is arranged alphabetically.  It contains reviews of the Biophysics Research Division as well as other organizations and divisions Martha Ludwig was associated with.  This series also includes some division retreat and evaluation materials. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biological Chemistry Retreat, <unitdate type="inclusive">May 10, 2003</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biophysics Research Division Self-Evaluation, <unitdate type="inclusive">September 1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biophysics Research Division Strategic Retreat, <unitdate type="inclusive">April 27, 1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Life Sciences Commission Report, <unitdate type="inclusive">February 10, 1999</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Program in Protein Structure and Design Strategic Retreat, <unitdate type="inclusive">April 27, 1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reviews of the Biophysics Research Division (BRD), Miscellaneous <unitdate type="inclusive">Undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Review of the Biophysics Research Division (BRD), <unitdate type="inclusive">1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Review of the Biophysics Research Division (BRD), <unitdate type="inclusive">1982-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Review of the Biophysics Research Division (BRD), <unitdate type="inclusive">1996-2003</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

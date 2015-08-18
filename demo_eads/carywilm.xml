@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::carywilm.xml//EN" encodinganalog="identifier">umich-bhl-8876</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for William M. Cary Papers, <date>1963-1986</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Marian J. Matyn</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1987</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>July 2002</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031001</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20020709</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>William M. Cary Papers, <date type="inclusive">1963-1986</date></titleproper><author>Finding aid prepared by: <lb/>Marian J. Matyn</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Cary, William M.</persname></origination>
+<unittitle encodinganalog="245">William M. Cary Papers
+<unitdate type="inclusive" encodinganalog="245$f">1963-1986</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">0.75 linear ft.</extent></physdesc>
+<abstract>Environmental education teacher at East Grand Rapids, Michigan, High School and member of the board of the West Michigan Environmental Action Council. Subject files consisting of newsletters, reports, testimonies, and printed material relating to Michigan environmental issues.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">8876 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The papers were donated by William M. Cary (donor no. <num type="donor" encodinganalog="541$e">7474</num>) in August 1987.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., William M. Cary Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>William M. Cary is a biology teacher at East Grand Rapids High School and an active member of the Michigan Environmental Education Association.  As such, Cary has worked for the incorporation of environmental education programs in Kent Intermediate School District.  From 1972-1974 Cary and colleagues developed and implemented plans for a nature walk: the Manhattan Nature Trail in Hodenpyl Woods, Grand Rapids.  Cary has collected materials on a variety of environmental issues of particular interest to Michigan environmentalists, as well as printed materials of two Grand Rapids-based environmental organizations, the West Michigan Environmental Action Council, and the Center for Environmental Studies.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The William M. Cary papers consists of three-quarters linear foot of newsletters, reports, testimonies, and printed materials concerning Michigan environmental issues and groups.  The collection is arranged alphabetically in one topical series.  There are nine subseries, including:  Center for Environmental Study, Energy Conservation, Environmental Education, Manhattan nature Trail, Noise Pollution, Nuclear Power Plants, Pesticides, Water Quality, and West Michigan Environmental Action Council, covering the years 1963-1986.  The three subseries of primary interest to researchers are Environmental Education, Manhattan Nature Trail, and Water Quality as they are the most complete.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><persname source="lcnaf" encodinganalog="600">Cary, William M.</persname><subject source="lcsh" encodinganalog="650">Conservation of natural resources--Michigan.</subject><subject source="lcsh" encodinganalog="650">Environmental protection--Michigan.</subject><corpname source="lcnaf" encodinganalog="610">West Michigan Environmental Action Council.</corpname></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Topical Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Center for Environmental Study (printed material), <unitdate type="inclusive">1971</unitdate> and <unitdate>undated</unitdate></unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Energy Conservation (printed material), <unitdate type="inclusive">1975-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Environmental Education</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>manuscripts, <unitdate type="inclusive">1969-1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>manuscripts, <unitdate>undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>printed material, <unitdate type="inclusive">1972-1983</unitdate>  and <unitdate>undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Manhattan Nature Trail, <unitdate type="inclusive">1972-1977</unitdate>  and <unitdate>undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Noise Pollution (printed material), <unitdate>undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Nuclear Power Plants, <unitdate type="inclusive">1970-1971</unitdate>  and <unitdate>undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Pesticides</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>manuscripts, <unitdate type="inclusive">1963-1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>printed material, <unitdate type="inclusive">1969-1974</unitdate>  and <unitdate>undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Water Quality</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Great Lakes, <unitdate type="inclusive">1966-1971</unitdate>  and <unitdate>undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Inland Lakes and Rivers, <unitdate type="inclusive">1971-1975</unitdate>  and <unitdate>undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Walled Lake (student papers), <unitdate type="inclusive">1984</unitdate></unittitle><physdesc><extent>11 reports in 1 expandable folder</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>West Michigan Environmental Action Council (printed material), <unitdate type="inclusive">1970-1974</unitdate>  and <unitdate>undated</unitdate></unittitle></did></c02></c01></dsc></archdesc></ead>   

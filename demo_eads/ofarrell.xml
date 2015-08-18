@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::ofarrell.xml//EN" encodinganalog="Identifier">
+umich-bhl-0175</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Rocking the Boat...Interviews and research materials, 1930-2001
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Carol Whittaker, October 2001</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2000</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-01-20</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+<emph render="italic">Rocking the Boat</emph> ...Interviews and research materials, 1930-2001</titleproper>
+
+<author>Finding aid created by<lb/> 
+Carol Whittaker, October 2001</author>
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+O'Farrell, Brigid
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+<title render="italic">Rocking the Boat</title> ...Interviews and research materials 
+<unitdate type="inclusive" encodinganalog="245$f">
+1930-2001
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1992-1998
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0175 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Transcripts of interviews and research material accumulated in preparation for the book, Rocking the Boat: Union Women's Voices, 1915-1975. Transcripts include interviews with Dorothy Haener, Maida Springer-Kemp, Carmen Lucia, Ah Quon McElrath, and Esther Peterson.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+This collection was donated to the library by Brigid O'Farrell, co-editor of Rocking the Boat (donor no. <num type="donor" encodinganalog="541$e">9146</num>) in 2001. 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Board of Regents of the University of Michigan
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+<title render="italic">Rocking the Boat</title> ...Interviews and research materials, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>In 1975, Joyce Kornbluh initiated the oral history project "The Twentieth Century Trade Union Woman: Vehicle for Social Change" through the Institute of Labor and Industrial Relations at the University of Michigan. This project compiled interviews of women involved with the labor movement between 1900 and 1970. One of the interviewers during this project was Brigid O'Farrell, then with the Women's Research Center at Wellesley College. The desire to reach a broader audience with the information and insights provided by the interviews brought O'Farrell and Kornbluh together in the early 1990s to begin work on a book that would accomplish this goal. The book, <title render="italic"> Rocking the Boat: Union Women's Voices, 1915-1975</title> , combines interviews conducted during that original oral history project with follow-up interviews conducted by O'Farrell and Kornbluh in the early 1990s into an edited volume that highlights some of the many faces involved with the labor movement of the 20th century.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>This collection contains transcripts of interviews and research materials used in the editing of<title render="italic"> Rocking the Boat: Union Women's Voices, 1915-1975</title>.  The records have been divided into four series; Transcripts, Background Materials, Miscellaneous, and Audio/Visual Materials.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">O'Farrell, Brigid.</persname>
+<subject source="lcsh" encodinganalog="630">Rocking the boat.</subject>
+<subject source="lcsh" encodinganalog="650">Women labor union members--United States--History--20th century.</subject>
+
+
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Haener, Dorothy, 1917-</persname>
+<persname source="lcnaf" encodinganalog="700">Peterson, Esther, 1906-</persname>
+<persname source="lcnaf" encodinganalog="700">Lucia, Carmen, 1902-</persname>
+<persname source="lcnaf" encodinganalog="700">McElrath, Ah Quon, 1915-</persname>
+<persname source="lcnaf" encodinganalog="700">Kemp, Marcia Springer.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform><genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Transcripts</unittitle></did>
+<scopecontent>
+<p>The Transcripts (0.2 linear ft.) series contains transcripts of the follow-up interviews with Dorothy Haener, Maida Springer-Kemp, Ah Quon McElrath and Esther Peterson conducted by O'Farrell and Kornbluh in the early 1990s.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dorothy Haener Interview, <unitdate type="inclusive">1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Maida Springer-Kemp Interview, <unitdate type="inclusive">1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Carmen Lucia Interview (for women of summer), <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ah Quon McElrath Interview, <unitdate type="inclusive">1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Esther Peterson Interview, <unitdate type="inclusive">1992-1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Rogin Lecture "Rocking the Boat: A Tribute to Women Organizers", <unitdate type="inclusive">1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Anna Sullivan Interview (from<title render="italic"> Frontiers: a Journal of Women Studies</title>; include photograph of Anna Sullivan), <unitdate type="inclusive">1977</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Background Materials</unittitle></did>
+<scopecontent>
+<p>The Background (0.5 linear ft.) series contains information about each of the women included in the book such as clippings, writings, biographies, and a small amount of correspondence.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mary Callahan, <unitdate type="inclusive">1950-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Catherine Conroy, <unitdate type="inclusive">1948-1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Jessie De La Cruz, <unitdate type="inclusive">1988-1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dorothy Haener, <unitdate type="inclusive">1991-2001</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lillian Herstein, <unitdate type="inclusive">1987-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Carmen Lucia, <unitdate type="inclusive">1930-1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ah Quon McElrath, <unitdate type="inclusive">1947-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ah Quon McElrath (photocopies of photographs), <unitdate type="inclusive">1954-1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fannie Allen Neal, <unitdate type="inclusive">1987-1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Esther Peterson, <unitdate type="inclusive">1945-1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alice Peurala, <unitdate type="inclusive">1979-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Maida Springer-Kemp, <unitdate type="inclusive">1952-2000</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Maida Springer-Kemp (photocopies from Schlesinger Library), <unitdate type="inclusive">1942-1988</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<scopecontent>
+<p>The Miscellaneous (0.1 linear ft.) series contains information relating to the release of the book, such as signed releases to use the content from the interviews and press releases and reviews of the book.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Permission to use photographs, <unitdate type="inclusive">1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Chapter Sign-Off Forms, <unitdate type="inclusive">1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Rocking the Boat" Press Releases and Reviews, <unitdate type="inclusive">1996-1998</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Audio-Visual Materials</unittitle></did>
+<scopecontent>
+<p>The Audio/Visual Materials (0.2 linear ft.) series contains photographs that were used in the book and audio cassette copies of the follow-up interviews conducted by O'Farrell and Kornbluh in the 1990s.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photographs for "Rocking the Boat"</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dorothy Haener Interview, <unitdate type="inclusive">1994</unitdate> (audio cassette)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ah Quon McElrath Interview, <unitdate type="inclusive">1994</unitdate> (2 audio cassettes)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gloria Johnson Interview (about Mary Callahan), <unitdate type="inclusive">1994</unitdate> (audio cassette)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>On Target: an audio magazine with an organizing focus, featuring the segment <title render="italic">Rocking the Boat</title> (commentary from three of the women featured in O'Farrell's book <title render="italic">Rocking the Boat: Union Women's Voices, 1915-1975</title>), <unitdate type="inclusive">1996</unitdate> (audio cassette)</unittitle></did></c02></c01>
+</dsc>
+
+<descgrp type="add">
+
+
+<relatedmaterial><head>Related Material</head>
+
+
+<p>Researchers should note that transcripts from the original interviews conducted for the oral history project "The Twentieth Century Trade Union Woman: Vehicle for Social Change" (1978-1979) are housed at the Bentley Historical Library under the title Institute of Labor and Industrial Relations, Women and Work Program. </p></relatedmaterial></descgrp>
+
+</archdesc>
+
+</ead>

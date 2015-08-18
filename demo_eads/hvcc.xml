@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::hvcc.xml//EN" encodinganalog="identifier">
+umich-bhl-952
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Huron Valley Community Church (Ann Arbor, Mich.) Records, 1984-1994
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Cory T. Brandt </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2005 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20051019 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Huron Valley Community Church (Ann Arbor, Mich.) Records, 1984-1994</titleproper>
+
+<author>Finding aid created by<lb/> 
+Cory T. Brandt, 1994</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory"  relatedencoding="marc21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Huron Valley Community Church (Ann Arbor, Mich.)
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Huron Valley Community Church (Ann Arbor, Mich.) Records,  
+<unitdate type="inclusive" encodinganalog="245$f">
+1984-1994
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+952 Ba 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Independent ecumenical church established in 1985 to minister to the gay and lesbian community of Ann Arbor, Michigan. Administrative and topical files include correspondence, newsletters and news clippings, church bulletins, and subject files detailing church activities; also scattered records of Metropolitan Christian Church, 1984-1985, some of whose members established Huron Valley Community Church.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records (donor no. <num type="donor" encodinganalog="541$e">8290</num>) were donated by the Church in 1994.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Huron Valley Community Church (Ann Arbor, Mich.) Records
+, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Huron Valley Community Church was formed in 1985 as an independent ecumenical church to minister to the lesbian and gay male communities of the Huron Valley area.  Membership was drawn from a predecessor organization, the Metropolitan Christian Church.  With the stated goal of achieving a fully inclusive Christian environment, participation by people from many different backgrounds, traditions, and belief systems was encouraged.  Huron Valley Community Church was founded in the belief that God does not condemn all homosexual behavior.  The Church affirms that homosexual relationships can be both wholesome and positive in the eyes of God and society.</p>
+
+<p>Services began in area homes and were moved to the Green Glacier Community Center in 1986.  From 1987 to 1993 the Church utilized the worship facilities of the Glacier Way United Methodist Church.  Dissolution of Glacier Way United Methodist in 1993 resulted in relocation to the Good Shepherd Church of Ann Arbor.</p>
+
+<p>Beginning in 1989, the congregation was significantly affected by debate over affiliation with the Universal Fellowship of Metropolitan Community Churches (FMCC), a national network of gay and lesbian ministries.  Proponents of the plan stressed the benefits inherent in more consistent leadership, improved financial stability, and greater focus in the religious program.  Opponents of affiliation sought to maintain the independence of Huron Valley Community Church.  The issue was settled by a vote taken in 1992 which rejected affiliation by a slim margin.  This led to a formal split within the congregation.  The proponents of affiliation with FMCC formed a separate organization, Tree of Life Metropolitan Community Church.  Huron Valley Community Church continues to function as an independent entity.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The records of Huron Valley Community Church are organized in a single alphabetical series of Administrative and Topical Files.  The Administrative file, 1986-1994, provides insight into some of the special challenges faced by an alternative congregation, specifically the availability of suitable worship facilities.  Information about Church functions and social activities may be found in the Program files, 1986-1994 and in the Church Sponsored Trip to Washington D.C. file, 1993.  Newspaper Clippings, 1987-1994, are a rich source for information on subjects affecting the gay and lesbian community in Ann Arbor.  Detailed information about efforts to combat the proposed amendment to the Michigan Constitution limiting legal protection for gay males and lesbians is available in the Constitutional Amendment file, 1993-1994. In addition, the Other Local Gay Groups files, 1985-1994, provide a glimpse of related organizations and activities in Michigan.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Church buildings--Michigan--Ann Arbor</subject>
+<subject source="lcsh" encodinganalog="650">Gays--Religious life--Michigan--Ann Arbor</subject>
+<subject source="lcsh" encodinganalog="650">Gays--Michigan--Ann Arbor</subject>
+<corpname source="lcnaf" encodinganalog="610">Huron Valley Community Church (Ann Arbor, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Metropolitan Christian Church (Ann Arbor, Mich.)</corpname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Administrative &amp; Topical Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Metropolitan Christian Church (pre-HVCC), <unitdate type="inclusive">1984-1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Administrative, <unitdate type="inclusive">1986-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Church Correspondence, <unitdate type="inclusive">1986-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Church Sponsored March on Washington D.C., Bus Trip, <unitdate type="inclusive">1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitutional Amendment, <unitdate type="inclusive">1993-1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hymnal, <unitdate type="inclusive">1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Newsletters, <unitdate type="inclusive">1985-1994</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1985-1988</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1989-1994</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper Clippings, <unitdate type="inclusive">1987-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Program, <unitdate type="inclusive">1986-1994</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1986-1989</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1990-1994</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Social Action, Local, <unitdate type="inclusive">1991-1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Social Action, National, <unitdate type="inclusive">1989-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sunday Worship Bulletins, <unitdate type="inclusive">1989-1994</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

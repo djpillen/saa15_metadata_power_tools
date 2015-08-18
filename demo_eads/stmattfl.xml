@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::stmattfl.xml//EN" encodinganalog="Identifier">
+umich-bhl-0695</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+St. Matthew’s Episcopal Church (Flat Rock, Mich.) records, 1955-2001
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Kent Randell </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>June 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-06-10</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+St. Matthew’s Episcopal Church (Flat Rock, Mich.) records, 1955-2001</titleproper>
+
+<author>Finding aid created by<lb/> 
+Kent Randell, April 2008</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+St. Matthew’s Episcopal Church (Flat Rock, Mich.).
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+St. Matthew’s Episcopal Church (Flat Rock, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1955-2001
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.25 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0695 Ba 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+St. Matthew’s Episcopal Church of Flat Rock, Michigan, member of the Episcopal Diocese of Michigan, was formed as a result of the unification of the Church of the Holy Family of East Rockwood and St. Timothy’s of Flat Rock and operated from 1971 to 2001; registers of baptisms, burials, confirmations, and marriages, and other organizational records.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Donated by the Episcopal Diocese of Michigan (donor no. <num type="donor" encodinganalog="541$e">1059</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+St. Matthew’s Episcopal Church (Flat Rock, Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>St. Matthew's Episcopal Church of Flat Rock, Michigan, member of the Episcopal Diocese of Michigan, was formed as a result of the unification of the Church of the Holy Family of East Rockwood and St. Timothy's of Flat Rock. The church held services from 1971 to 2001.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The record group consists of two series: Historical and Genealogical materials and Organizational files. The record group is of most value for its documentation of church activities important to genealogical research.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Church of the Holy Family (Rockwood, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Episcopal Church--Michigan--Flat Rock.</corpname>
+<corpname source="lcnaf" encodinganalog="610">St. Matthew's Episcopal Church (Flat Rock, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">St. Timothy's Episcopal Church (Flat Rock, Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Episcopal Church--Michigan--Rockwood.</subject>
+<subject source="lcsh" encodinganalog="650">Registers of births, etc.--Michigan--Flat Rock.</subject>
+<geogname source="lcsh" encodinganalog="651">Flat Rock (Mich.)--Church history.</geogname>
+<geogname source="lcsh" encodinganalog="651">Rockwood (Mich.)--Church history.</geogname>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+
+
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Historical and Genealogical</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Church Registers<unitdate type="inclusive">1955-2001</unitdate> </unittitle><note><p>(incl. baptisms, confirmations, communicants, marriages, and burials)</p></note></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Holy Family, <unitdate type="inclusive">1955-1971</unitdate> </unittitle> <physdesc><extent>2 volumes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>St. Matthews, <unitdate type="inclusive">1971-2001</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>St. Timothy, <unitdate type="inclusive">1957-1970</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Color Slides, <unitdate type="inclusive">1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gene E. Curry, Vicar, "Personal File," <unitdate type="inclusive">1991</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dedication / Groundbreaking of St. Matthew's Church, <unitdate type="inclusive"> December 1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership List, <unitdate type="inclusive">ca. 1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photographs, <unitdate type="inclusive">1973-ca. 1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"St. Matthew's History," </unittitle></did> <note><p>(incl. clippings, photographs, and a brief history written by Jack Ward)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Organizational</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Reports <unitdate type="inclusive">1971-1988</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bishop's Committee Minutes, <unitdate type="inclusive">1972-1993</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Grant Application, <unitdate type="inclusive">1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Grant Requests</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Parochial Reports, <unitdate type="inclusive">1971-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Proposed Budgets, <unitdate type="inclusive">1972-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Register of Church Services (incl. attendance counts)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Church of the Holy Family, <unitdate type="inclusive">1955</unitdate> and <unitdate type="inclusive">1957-1971</unitdate> </unittitle> <physdesc><extent>1 volume and 1 folder</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>St. Matthew's Episcopal Mission, <unitdate type="inclusive">1971-1981</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>St. Matthew's and St. Timothy's, <unitdate type="inclusive">1970-1971</unitdate> and <unitdate type="inclusive">1982-1996</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>St. Matthew's, <unitdate type="inclusive">1996-2003</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>St. Timothy's, <unitdate type="inclusive">1956-1970</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Reports, Resolutions, Contracts, etc., <unitdate type="inclusive">ca. 1973-1976</unitdate> </unittitle></did> <note><p>(incl. a resolution regarding the priesthood and gender)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Total Expenses Tables, <unitdate type="inclusive">2001</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

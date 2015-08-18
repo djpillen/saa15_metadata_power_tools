@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::deweesec.xml//EN" encodinganalog="Identifier">
+umich-bhl-2010136</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Carroll DeWeese digital map collection, 1838-1926.
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Carroll DeWeese, revised by Leon Coombs </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2010">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2010</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2010-07-26</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Carroll DeWeese digital map collection, 1838-1926</titleproper>
+
+<author>Finding aid created by<lb/> 
+Carroll DeWeese, revised by Leon Coombs, 2010</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+
+<persname source="lcnaf" encodinganalog="100">
+DeWeese, Carroll
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Carroll DeWeese digital map collection 
+<unitdate type="inclusive" encodinganalog="245$f">
+1838-1926
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+56 maps and other images on 1 DVD-R
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2010136 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Maps of Oakland and Livingston Counties and Detroit, Mich., and the state of Michigan, and other items relating to Bloomfield Township, Mich., photographed from the holdings of the Burton Historical Collection, Detroit Public Library.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Carroll DeWeese (donor <num type="donor" encodinganalog="541$e">10363</num>), in 2010.  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+The collection was photographed from originals held by the Burton Historical Collection, Detroit Public Library. Photo images are copyright by Carroll DeWeese. Permission is given for legitimate personal, non-profit, museum, library, and research use and distribution of the photo images. Commercial and for profit uses of the photo images require permission from Carroll DeWeese. Photo credit is "Carroll DeWeese."
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Carroll DeWeese digital map collection, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Carroll DeWeese is a Birmingham, Mich., photographer.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>This collection of maps and other items was photographed from the holdings of the Burton Historical Collection, Detroit Public Library, May 5, 2010. Five items or groups of items were photographed.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Detroit (Mich.)--Maps.</geogname>
+<persname source="lcnaf" encodinganalog="600">DeWeese, Carroll.</persname>
+<geogname source="lcsh" encodinganalog="651">Livingston County (Mich.)--Maps.</geogname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Maps.</geogname>
+<geogname source="lcsh" encodinganalog="651">Resder, Jerome &amp; Duffield's Subdivision (Detroit, Mich.)--Maps.</geogname>
+</controlaccess>
+
+
+
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Cram, George Franklin, 1841-1928. Michigan. 1882.</persname>
+<persname source="lcnaf" encodinganalog="700">Hess, F. Map of Oakland County, Michigan.</persname>
+<persname source="lcnaf" encodinganalog="700">Hubbard, Bela, 1814-1896. Michigan maps. Vol.8, Oakland and Livingston Counties.</persname></controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Burton Historical Collection maps on DVD-R</unittitle></did>
+<c02 level="file"><did><container type="box" label="DVD Box">7</container><unittitle>1857 Oakland Map</unittitle></did><scopecontent><p><title render="italic"> Map of Oakland County, Michigan,</title> 1857. Published by S.H. Burhans; Surveyor F. Hess; Large Wall Map (5 feet wide by 6 feet tall) stored in the archives as three 2'x6' strips. Burton Historical Collection call number 977.402 [1857] H46</p></scopecontent>
+<c03 level="file"><did><unittitle><unitdate type="inclusive">1857</unitdate> Oakland Map All.jpg [entire county]</unittitle></did></c03>
+<c03 level="file"><did><unittitle><unitdate type="inclusive">1857</unitdate> Oakland Map Bottom.jpg [southern tier of townships, Pontiac, and vignettes]</unittitle></did></c03>
+<c03 level="file"><did><unittitle><unitdate type="inclusive">1857</unitdate> Oakland Map Middle.jpg [townships 2-4 north, town plats, and vignettes]</unittitle></did></c03>
+<c03 level="file"><did><unittitle><unitdate type="inclusive">1857</unitdate> Oakland Map Top.jpg [part of townships 4 north, townships 5 north, town plats, and vignettes]</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>1879 Plat Maps</unittitle></did><scopecontent><p><title render="italic"> Plat of Reader, Jerome &amp; Duffield's Subdivision,</title> 1879. Street and lot plat in two (2) pages. One page is somewhat stained on the top portion. The second page is in excellent condition. This subdivision is in the Springwells area of southwest Detroit. Burton Historical Collection call number 977.4D4 1879 M92 (Rare Map)</p></scopecontent>
+<c03 level="file"><did><unittitle><unitdate type="inclusive">1879</unitdate> Plat Map A.jpg</unittitle></did></c03>
+<c03 level="file"><did><unittitle><unitdate type="inclusive">1879</unitdate> Plat Map B.jpg</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>1882 Michigan Map</unittitle></did><scopecontent><p><title render="italic"> Michigan</title> , 1882. Geo. F. Cram, Engraver &amp; Publisher; copyright secured 1882; Single page color map of Michigan -- both Lower and Upper Peninsulas (approx. 15"x18") </p></scopecontent>
+<c03 level="file"><did><unittitle><unitdate type="inclusive">1882</unitdate> Michigan Map.jpg</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>1911 Auction Notice</unittitle></did><scopecontent><p><title render="italic"> Auction Sale -- Monday, Aug. 28th 1911, Hupp Stock Farms, On Maple Ave. -- one mile west of Birmingham</title> . This is a notice of an estate sale for the Hupp Farm which was soon to be developed into the Bloomfield Village Subdivisions by Judson Bradway. 95 separate items to be auctioned are listed. Burton Historical Collection call number 099.7745 B53 D4</p></scopecontent>
+<c03 level="file"><did><unittitle><unitdate type="inclusive">1911</unitdate> Auction Notice.jpg</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>1926 Covert Article</unittitle></did><scopecontent><p>"The Covert," Article from<title render="italic"> The Afterglow</title> , Vol. 2, Issue 8-9, Aug/Sep 1926, pages 5, 6, 7, and 27. The "Covert" was the name given by the Hendrie sisters to what is now known as the Barton House in Bloomfield Township. <title render="italic"> The Afterglow</title> was monthly Magazine about life in the Birmingham Bloomfield area published for the years 1925--1927.</p></scopecontent>
+<c03 level="file"><did><unittitle>Covert A.jpg</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Covert B.jpg</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Covert C.jpg</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Covert D.jpg</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Hubbard Maps</unittitle></did><scopecontent><p><title render="italic"> Michigan Maps</title> -- Bela Hubbard, 1838-1841, Vol. 8, Oakland and Livingston Counties. Each township in the two counties is drawn on a separate sheet (approx 12"x12") and loosely bound in book.  These are the original maps drawn by Surveyor Bela Hubbard, and show land forms and vegetation. Burton Historical Collection call number 977.4 [1838-1841] H86 V.8</p></scopecontent>
+<c03 level="file"><did><unittitle>Hubbard01.jpg [Oakland County introduction]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard02.jpg [Royal Oak Townshp]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard03.jpg [Troy Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard04.jpg [Avon Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard05.jpg [Oakland Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard06.jpg [Addison Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard07.jpg [Southfield Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard08.jpg [Bloomfield Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard09.jpg [Pontiac Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard10.jpg [Orion Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard11.jpg [Oxford Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard12.jpg [descriptive text]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard13.jpg [Farmington Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard14.jpg [West Bloomfield Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard15.jpg [Waterford Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard16.jpg [Independence Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard17.jpg [Brandon Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard18.jpg [Novi Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard19.jpg [Commerce Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard20.jpg [White Lake Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard21.jpg [Springfield Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard22.jpg [Groveland Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard23.jpg [Lyon Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard24.jpg [Milford Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard25.jpg [Highland Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard26.jpg [Rose Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard27.jpg [Holly Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard28.jpg [Livingston County introduction]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard29.jpg [Green Oak Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard30.jpg [Brighton Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard31.jpg [Hartland Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard32.jpg [Tyrone Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard33.jpg [Hamburg Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard34.jpg [Genoa Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard35.jpg [Osceola Township, now Oceola Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard36.jpg [Deerfield Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard37.jpg [Putnam Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard38.jpg [Marion Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard39.jpg [Howell Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard40.jpg [Tuscola Township, now Cohoctah Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard41.jpg [Unadilla Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard42.jpg [Iosco Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard43.jpg [Handy Township]</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Hubbard44.jpg [Iona Township, now Conway Township]</unittitle></did></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

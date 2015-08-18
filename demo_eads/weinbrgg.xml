@@ -1,0 +1,361 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::weinbrgg.xml//EN" encodinganalog="Identifier">
+umich-bhl-86288</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Gerhard L. Weinberg papers, 1957-1973
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>June 2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-06-12</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Gerhard L. Weinberg papers, 1957-1973</titleproper>
+      <author>Finding aid created by<lb /> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<persname source="lcnaf" encodinganalog="100">
+Weinberg, Gerhard L.
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+Gerhard L. Weinberg papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1957-1973
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+7 linear feet and 1 phonograph record
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86288 Aa 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Professor of history at University of Michigan; Democratic Party files and records of his University of Michigan activities. 
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload" /></repository>
+      <physloc>Portions located in offsite storage; prior notification required for access.</physloc>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was the gift of Gerhard L. Weinberg (donor no. <num type="donor" encodinganalog="541$e">5522</num>).</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is not held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Gerhard L. Weinberg papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Gerhard L. Weinberg was a professor of German history at the University of Michigan and the University of North Carolina, Chapel Hill. While in Ann Arbor, Weinberg was involved with the local Democratic Party, serving as chairman of the Ann Arbor, Michigan Democratic Party and as member of the Democratic Party State Central Committee and the state Democratic Party Reform Commission.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Gerhard L. Weinberg collection is comprised of two series: Democratic Party activities and interests, and University of Michigan activities. The Democratic Party papers concern Ann Arbor, Washtenaw County, and state politics. Issues documented include the passage of a fair housing law in Ann Arbor, and his interest in the Mississippi Freedom Democratic Party, 1964-1965.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+        <corpname source="lcnaf" encodinganalog="610">Democratic Party (Mich.)</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Democratic Party (Mich.). State Central Committee.</corpname>
+        <subject source="lcsh" encodinganalog="650">Discrimination in housing--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650">Historians--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650">Housing--Michigan--Ann Arbor.</subject>
+        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1961-1970.</geogname>
+        <corpname source="lcnaf" encodinganalog="610">Mississippi Freedom Democratic Party.</corpname>
+        <geogname source="lcsh" encodinganalog="651">Mississippi--Politics and government--1951-</geogname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of History.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Sound Recordings:</head>
+        <corpname source="lcnaf" encodinganalog="610">Democratic Party (Mich.)</corpname>
+        <persname source="lcnaf" encodinganalog="600">Weinberg, Gerhard L.</persname>
+        <persname source="lcnaf" encodinganalog="700">Hart, Philip A. (Philip Aloysius), 1912-1976.</persname>
+        <persname source="lcnaf" encodinganalog="700">Staebler, Neil, 1905-</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Ferency, Zolton A., 1922-</persname>
+        <persname source="lcnaf" encodinganalog="700">Hart, Philip A. (Philip Aloysius), 1912-1976.</persname>
+        <persname source="lcnaf" encodinganalog="700">Staebler, Neil, 1905-</persname>
+        <persname source="lcnaf" encodinganalog="700">Swainson, John Burley, 1925-</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Phonograph records.</genreform>
+        <genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Democratic Party activities and interests</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>Ann Arbor Democratic Party</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1957-1970</unitdate> </unittitle>
+              <physdesc>
+                <extent>33 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Ann Arbor Proposed Zoning Code, <unitdate type="inclusive">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Ann Arbor City Council Charter Amendment Committee papers, <unitdate type="inclusive">1965-1967</unitdate> </unittitle>
+            <physdesc>
+              <extent>2 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Ann Arbor City Council Charter Amendment Committee papers, <unitdate type="inclusive">1966-1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Washtenaw County Democratic Conventions papers, <unitdate type="inclusive">undated</unitdate> and <unitdate type="inclusive">1961-1970</unitdate> </unittitle>
+            <physdesc>
+              <extent>16 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Second Congressional District papers, <unitdate type="inclusive">1962-1968</unitdate> </unittitle>
+            <physdesc>
+              <extent>11 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Livingston County Democratic Committee, <unitdate type="inclusive">1964</unitdate> </unittitle>
+            <physdesc>
+              <extent>3 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Democratic State Central Committee papers, <unitdate type="inclusive">1958-1967</unitdate> </unittitle>
+            <physdesc>
+              <extent>45 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Democratic State Central Committee papers, <unitdate type="inclusive">1967-1970</unitdate> </unittitle>
+            <physdesc>
+              <extent>10 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Neil Staebler Gubernatorial Campaign, <unitdate type="inclusive">1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>National Committeeman Election, <unitdate type="inclusive">1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Legislative Reapportionment, <unitdate type="inclusive">1963-1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Constitutional Convention, <unitdate type="inclusive">1962-1963</unitdate> </unittitle>
+            <physdesc>
+              <extent>5 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>National Legislative Action Program, <unitdate type="inclusive">1963-1967</unitdate> </unittitle>
+            <physdesc>
+              <extent>3 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Mississippi Freedom Democratic Party, <unitdate type="inclusive">1964-1965</unitdate> </unittitle>
+            <physdesc>
+              <extent>11 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Michigan Democratic Party Political Reform Commission, <unitdate type="inclusive">1969-1970</unitdate> </unittitle>
+            <physdesc>
+              <extent>17 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Sound Discs">1</container>
+            <unittitle>Democratic Party produced <genreform normal="Phonograph records">phonograph record</genreform></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Side 1, Hospital insurance for the aged through Social Security </unittitle>
+              <physdesc>
+                <extent>17 minutes</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Side 2, discussion of current issues with Senator Philip Hart and Congressman-at-Large Neil Staebler at the Wayne County Democratic Women's Day program, <unitdate type="inclusive"> January 25, 1964</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>University of Michigan Activities</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Minutes of L.S.&amp;A. faculty meetings, <unitdate type="inclusive">1959-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>History Department File, <unitdate type="inclusive">1961-1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Library File</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Extension and Adult-Education</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>University Senate</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Senate Assembly</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>S.A.C.U.A.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Miscellaneous Files</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

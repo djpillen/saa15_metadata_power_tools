@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::wctubacr.xml//EN" encodinganalog="Identifier">
+umich-bhl-86318</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Woman’s Christian Temperance Union, Battle Creek Chapter records, 1874-1986
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>August 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-08-27</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Woman’s Christian Temperance Union, Battle Creek Chapter<lb/>Records, 1874-1986</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Woman’s Christian Temperance Union. Battle Creek Chapter.
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Woman’s Christian Temperance Union, Battle Creek Chapter records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1874-1986
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86318 Bj 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Minutes of meetings, records of the Board of Trustees, minutes of the Red Ribbon Temperance Union, 1880-1882, scrapbook and printed material relating to activities of the Union.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was the gift of the Battle Creek chapter (donor no. <num type="donor" encodinganalog="541$e">4656</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>No further additions  to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Woman’s Christian Temperance Union, Battle Creek Chapter records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Battle Creek Woman's Temperance Union was established April 13, 1874. In December 1876, the group was formally organized as the Battle Creek Chapter of the Woman's Christian Temperance Union. Due to declining membership, the chapter disbanded November 21, 1986.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The record group documents the local activities of the W.C.T.U .includes minutes of regular meetings (1874-1986, with some gaps), minutes of the Board of Trustees (1907-1975, with some gaps), and minute book of the Red Ribbon Temperance Union, 1880-1882. Also included are record books of the treasurer, yearbooks with lists of officers, a scrapbook and assorted clippings, and reports of the chapter to the Michigan Department of the Treasury.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Battle Creek (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Prohibition--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Red Ribbon Temperance Union.</corpname>
+<subject source="lcsh" encodinganalog="650">Temperance--Michigan--Battle Creek.</subject>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Battle Creek--Societies and clubs.</subject>
+<corpname source="lcnaf" encodinganalog="610">Woman's Christian Temperance Union--Michigan--Battle Creek.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Woman's Christian Temperance Union. Battle Creek Chapter (Mich.)</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Minutes of Regular Meetings</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1874</unitdate> and <unitdate type="inclusive">1876-1879</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1880-1886</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1886-1891</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1892-1895</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1898-1901</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1901-1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1904-1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1911-1916</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1916-1919</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1920-1922</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1923-1925</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1928-1930</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1931-1938</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1939-1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1949-1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1955-1958</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1959-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1964-1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1972-1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1974-1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1983-1986</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other Minute Books</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Red Ribbon Temperance Union, <unitdate type="inclusive">1880-1882</unitdate> </unittitle></did> <note><p>(men's auxiliary of the W.C.T.U.)</p></note></c02>
+<c02 level="file"><did><unittitle>Board of Trustees of the Battle Creek W.C.T.U.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1907-1911</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1912-1916</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1933-1942</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1953-1956</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1957-1975</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Treasurer's books, <unitdate type="inclusive">1960-1976</unitdate> </unittitle> <physdesc><extent>6 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Assorted programs and yearbooks of the Battle Creek W.C.T.U.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Notebook of Mrs, Neubert, WCTU president</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Assorted song books and other printed material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Newspaper clippings concerning the Battle Creek W.C.T.U.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><genreform normal="Scrapbooks">Scrapbook</genreform> concerning the Battle Creek W.C.T.U.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Financial miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Legal documents, including reports to Michigan Dept. of Treasury</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

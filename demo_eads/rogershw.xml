@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::rogershw.xml//EN" encodinganalog="identifier">
+umich-bhl-852211
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Henry Wade Rogers papers, 1873-1920
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Michigan Historical Collections Staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+200508</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>20050817</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2004 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Henry Wade Rogers papers, 1873-1920</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections Staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Rogers, Henry Wade, 1853-1926.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Henry Wade Rogers papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1873-1920
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+852211 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of law at the University of Michigan and Northwestern University.  Papers consist of  a scrapbook containing programs and invitations largely connected with Northwestern University, miscellaneous letters received while professor at University of Michigan, many relating to speaking engagements; and manuscript biography of Thomas M. Cooley.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Donor No. <num type="donor" encodinganalog="541$e">385</num>.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Henry Wade Rogers papers
+, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Henry Wade Rogers was born in 1853 in Holland Patent, near Utica, New York. He graduated from the University of Michigan in 1874, and from the law school in 1877. He practiced law in Minneapolis, and then New Jersey, until 1882, when he returned to the University of Michigan to become Taping professor of law. In 1885, he became professor of Roman law, and in the following year, he succeeded Thomas M. Cooley to become dean of the Department of Law. He was also lecturer on domestic relations and criminal law in 1890-1891.</p>
+<p>In 1890 he left the university to become president of Northwestern University, where he remained for ten years. He was chairman of the World's Congress on Jurisprudence and Law Reform at the Chicago Exposition of 1893, and general chairman of the Saratoga Conference on the Foreign Policy of the United States in 1898.</p>
+<p>Rogers resigned from his position at Northwestern to join the Yale Law School, first as a lecturer, then as professor of law and finally as dean of the school from 1903 to 1916. He also served as president of the Association of American Law Schools in 1906, and as chairman of the American Bar Association's Committee on Legal Education and Admission to the Bar from 1905 to 1917. In 1913, President Woodrow Wilson appointed him federal judge to the Second Judicial Circuit Court of Appeals.</p>
+<p>Rogers held the chair of jurisprudence at Yale until his retirement in 192 1. He died in 1926 at the age of seventy-two.</p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Henry Wade Rogers papers consist of a scrapbook containing programs and invitations largely connected with Northwestern University, miscellaneous letters received while professor at University of Michigan, many relating to speaking engagements; and a manuscript biography of Thomas M. Cooley. The papers are organized in to three series: Correspondence, 1873-1920; Thomas M. Cooley; and Scrapbook.   Correspondents include: Thomas F. Bayard, George Biddle, Henry B. Brown, Grover Cleveland, Thomas M. Cooley, Henry S. Frieze, Melville W. Fuller, Joseph E. Gary, John M. Harlan, James McMillan, Samuel Maxwell, Samuel F. Miller, John P. Newman, George P.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+
+<persname source="lcnaf" encodinganalog="600">Cooley, Thomas McIntyre, 1824-1898.</persname>
+<famname source="lcnaf" encodinganalog="600">Cooley family.</famname>
+<subject source="lcsh" encodinganalog="650">Judges--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Lawyers--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Northwestern University (Evanston, Ill.)</corpname>
+<persname source="lcnaf" encodinganalog="600">Rogers, Henry Wade, 1853-1926.</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Law.</corpname>
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Angell, James Burrill, 1829-1916.</persname>
+<persname source="lcnaf" encodinganalog="700">Bayard, Thomas F. (Thomas Francis), 1828-1898.</persname>
+<persname source="lcnaf" encodinganalog="700">Biddle, George.</persname>
+<persname source="lcnaf" encodinganalog="700">Cleveland, Grover, 1837-1908.</persname>
+<persname source="lcnaf" encodinganalog="700">Cooley, Charles Horton, 1864-1929.</persname>
+<persname source="lcnaf" encodinganalog="700">Frieze, Henry S. (Henry Simmons), 1817-1889.</persname>
+<persname source="lcnaf" encodinganalog="700">Fuller, Melville Weston, 1833-1910.</persname>
+<persname source="lcnaf" encodinganalog="700">Gary, J. E. (Joseph Easton), 1821-1906.</persname>
+<persname source="lcnaf" encodinganalog="700">Harlan, John Marshall, 1833-1911.</persname>
+<persname source="lcnaf" encodinganalog="700">Hoar, George Frisbie, 1826-1904.</persname>
+<persname source="lcnaf" encodinganalog="700">Hutchins, Harry B. (Harry Burns), 1847-1930.</persname>
+<persname source="lcnaf" encodinganalog="700">Kent, Charles A. (Charles Artemis), 1835-1917.</persname>
+<persname source="lcnaf" encodinganalog="700">McMillan, James, 1838-1902.</persname>
+<persname source="lcnaf" encodinganalog="700">Maxwell, Samuel, 1826-1901.</persname>
+<persname source="lcnaf" encodinganalog="700">Miller, Samuel Freeman, 1816-1890.</persname>
+<persname source="lcnaf" encodinganalog="700">Newman, John Philip, 1826-1899.</persname>
+<persname source="lcnaf" encodinganalog="700">Putnam, George Palmer, 1887-1950.</persname>
+<persname source="lcnaf" encodinganalog="700">Vincent, John Heyl, 1832-1920.</persname>
+<persname source="lcnaf" encodinganalog="700">Winchell, Alexander, 1824-1891.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1873-1888</unitdate>  and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1889</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1890</unitdate> and <unitdate type="inclusive">1898</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-July 1901</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">August-September 1901</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October-December 1901</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1902</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1914-1920</unitdate>  and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Thomas M. Cooley</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Manuscript of Thomas Cooley's lecture, "The Place of the Federal Supreme Court in the Constitutional System of the United States."</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Manuscript of Cooley biography; chapters entitled:</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ancestry and boyhood</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Early years in Michigan</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Characteristics</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Authorship</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Addresses</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Political relations</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Chairman of Interstate Commerce Commission</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Religion</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Railroad arbitrator and receiver</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>President of the American Bar Association</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Washington life</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>The Last Years</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous papers</unittitle></did></c03></c02></c01>
+
+<c01 level="series"><did><unittitle>Scrapbook</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1894-1897</unitdate></unittitle></did><note><p>(including programs, invitations, etc., largely of Northwestern University, but also The University of Michigan, and the University of Chicago)</p></note></c02></c01>
+
+
+
+</dsc>
+
+
+<descgrp type="add">
+<index><head>Partial Index to Correspondence</head>
+<indexentry><persname>Angell, James Burrill, 1829-1916.</persname>
+<ref><list type="simple"><item>August 18, 1901</item></list></ref></indexentry>
+<indexentry><persname>Bayard, Thomas Francis, 1828-1898.</persname>
+<ref><list type="simple"><item>1889</item></list></ref></indexentry>
+<indexentry><persname>Biddle, George</persname>
+<ref><list type="simple"><item>1889</item></list></ref></indexentry>
+<indexentry><persname>Cleveland, Grover, Pres. U.S., 1837-1908.</persname>
+<ref><list type="simple"><item>April 2, 1890</item></list></ref></indexentry>
+<indexentry><persname>Cooley, Charles Horton, 1864-1929.</persname>
+<ref><list type="simple"><item>July 29, September 17, October 13, 1901</item></list></ref></indexentry>
+<indexentry><persname>Frieze, Henry Simmons, 1817-1889.</persname>
+<ref><list type="simple"><item>1887</item></list></ref></indexentry>
+<indexentry><persname>Fuller, Melville Weston, 1833-1910.</persname>
+<ref><list type="simple"><item>1888, 1890</item></list></ref></indexentry>
+<indexentry><persname>Gary, Joseph Easton, 1821-1903.</persname>
+<ref><list type="simple"><item>1888</item></list></ref></indexentry>
+<indexentry><persname>Harlan, John Marshall, 1833-1911.</persname>
+<ref><list type="simple"><item>April 25, 1889.</item></list></ref></indexentry>
+<indexentry><persname>Hoar, George Frisbie, 1826-1904</persname>
+<ref><list type="simple"><item>November 12, 1901</item></list></ref></indexentry>
+<indexentry><persname>Hutchins, Harry Burns, 1847-1930.</persname>
+<ref><list type="simple"><item>October 10, 1901</item></list></ref></indexentry>
+<indexentry><persname>Kent, Charles Artemas, 1835-1917.</persname>
+<ref><list type="simple"><item>September 27, 1901.</item></list></ref></indexentry>
+<indexentry><persname>McMillan, James, 1838-1902.</persname>
+<ref><list type="simple"><item>1889</item></list></ref></indexentry>
+<indexentry><persname>Maxwell, Samuel, 1826-1901.</persname>
+<ref><list type="simple"><item>1889</item></list></ref></indexentry>
+<indexentry><persname>Miller, Samuel Freeman, 1816-1890.</persname>
+<ref><list type="simple"><item>1880, 1886</item></list></ref></indexentry>
+<indexentry><persname>Newman, John Philip, 1826-1899.</persname>
+<ref><list type="simple"><item>1889-1890</item></list></ref></indexentry>
+<indexentry><persname>Vincent, John Heyl, 1832-1920.</persname>
+<ref><list type="simple"><item>1888-1889</item></list></ref></indexentry>
+<indexentry><persname>Winchell, Alexander, 1824-1891.</persname>
+<ref><list type="simple"><item>1889, 1890</item></list></ref></indexentry>
+</index> 
+
+</descgrp></archdesc>
+
+</ead>

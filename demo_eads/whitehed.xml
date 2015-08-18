@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::whitehed.xml//EN" encodinganalog="Identifier">
+umich-bhl-85490</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Whitehead family papers, 1862-1900
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-10-16</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Whitehead family papers, 1862-1900</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<famname source="lcnaf" encodinganalog="100">
+Whitehead family
+</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Whitehead family papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1862-1900
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85490 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Papers of the Edward and Nellie Wilson Whitehead family of Coldwater, Branch County, Michigan. Family letters largely concerning daily activities, including occasional mention of land prices, social customs, fashions and health problems.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was transferred from Oakland University (donor no. <num type="donor" encodinganalog="541$e">5740</num>).  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Whitehead family papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Whitehead family resided in Coldwater, Michigan.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection of the Whitehead family of Coldwater, Michigan consists entirely of letters from family and friends. The correspondence centers around Edward and Nellie Wilson Whitehead, chiefly from Nellie Whitehead's sisters Lucy Wilson Gifford Smith, Leothie Wilson Culver, Orpha Wilson, and Laura Wilson, and her cousins Mary and Naomi Baker. The bulk of the letters were written in the 1870's when Edward and Nellie Whitehead were living in Webster and Churchville, New York. There are, however, a few earlier letters (the first being in 1862) as well as some later in the 1880's. With the last composed in 1900. The letters are all of a general type with an occasional passage discussing land prices and conditions, fashions of the days health problems, etc. The majority speak of family concerns-neighborhood and family gossip. The correspondence came from Angola, Indiana; Battle Creek, Batavia, Coldwater, Jackson, and Sturgis, Michigan; and Batavia, Churchville, and Webster, New York, with the largest share, naturally, coming from Michigan.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Branch County (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Coldwater (Mich.)</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Social life and customs--1871-1880.</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Social life and customs--1881-1890.</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Social life and customs--1891-1900.</geogname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Coldwater.</subject>
+<geogname source="lcsh" encodinganalog="651">Michigan--Social life and customs--19th century.</geogname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Whitehead, Edward.</persname>
+<persname source="lcnaf" encodinganalog="700">Whitehead, Nellie Wilson.</persname></controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Family papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Nellie (Ellen) Wilson (letters to), <unitdate type="inclusive">1862-1870</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Edward and Nellie Whitehead, letters exchanged with Wilson and Whitehead families</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1870s</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1871-1874</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1876-1878</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1879-1881</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1885-1900</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Nellie Whitehead (letters from)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Baker family, <unitdate type="inclusive">1871-1876</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Friends, <unitdate type="inclusive">1871-1876</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Laura Gibbs, <unitdate type="inclusive">1871-1879</unitdate> (?)</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Carrie Sampson from Ellen Whitehead, <unitdate type="inclusive">1873-1880</unitdate> </unittitle></did> <note><p>(Ellen Whitehead is the sister-in-law of Nellie Whitehead and the sister of Edward Whitehead.)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous correspondence, <unitdate type="inclusive">1866-1900</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Appointment of W. H. Shaw to hospital steward of Sixth Regiment of Michigan Volunteer Artillery, <unitdate type="inclusive">1863</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

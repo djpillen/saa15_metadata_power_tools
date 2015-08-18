@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::haydonch.xml//EN" encodinganalog="identifier">umich-bhl-851446</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Charles B. Haydon Papers, 1852-1864</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Michigan Historical Collections staff</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1952</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>July 2001</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>2001-07-12</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Charles B. Haydon Papers, 1852-1864</titleproper><author>Finding aid prepared by: <lb/>Michigan Historical Collections staff</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Haydon, Charles B., 1834-1864.</persname></origination>
+<unittitle encodinganalog="245">Charles B. Haydon Papers
+<unitdate type="inclusive" encodinganalog="245$f">1852-1864</unitdate>
+<unitdate type="bulk" encodinganalog="245$g">1861-1864</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">1 linear ft. and 1 microfilm reel</extent></physdesc>
+<abstract>Student at the University of Michigan (1854-1857) from Kalamazoo, Michigan, who served in the Second Michigan Infantry during the Civil War. Civil War diaries describing his army career; also University of Michigan student notebooks, ca. 1854, including one on a history course by James R. Boise; a sketch book and personal account book;  letter to his brother Arthur (1855?) relating to his student experiences; and photograph.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">851446 Aa 2, mf99c</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository encodinganalog="852"><corpname><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The diaries were donated in 1949 or 1950 by Ione Haydon (donor no. <num type="donor" encodinganalog="541$e">2710</num>), Charles Haydon's niece, and came to the library through Arba Moulton (donor no. <num>3929</num>), former editor and publisher of the <title render="italic">Decatur Republican</title>, which had published transcriptions of the diary entries in the 1940s.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has not been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Charles B. Haydon Papers, Bentley Historical Library, University of Michigan</p></prefercite><altformavail><p>The originals of the Haydon Civil War diaries are also available at the Bentley Histoircal Library, but access is limited to the microfilm copy.</p></altformavail></descgrp>
+
+<bioghist encodinganalog="545"><p>Charles B. Haydon was born in 1834 in Kalamazoo, Michigan.  He attended college at the University of Michigan during the years 1854-1857, but did not graduate.</p>
+<p>He practices law in Kalamazoo until he joined the army in response to President Lincoln's call for volunteers to fight in the Civil War. From 1861 to 184, Haydon served in Company E of the Second Michigan Infantry, starting as a private and rising to the rank of Lieutenant Colonel. During his service in the army, Haydon kept a diary in pocket-size notebooks.  His unit was involved in numerous significant battles: Bull Run, Second Bull Run, Fredericksburg, Vicksburg, and Jackson.  Haydon was wounded badly in the latter battle in July 1863.</p>
+<p>On March 14, 1864, Haydon died of pneumonia in Cincinnati, Ohio, while his regiment was on the way home to Michigan for a rest.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The Haydon collection consist of student notebooks (ca. 1852-1859) while a student at the University of Michigan, diaries from his service in the Civil War (1861-1864), a family letter, and a portrait of Haydon in his military uniform.</p>
+<p>The diaries of Charles Haydon are available in <title render="italic">For country, cause &amp; leader :   the Civil War journal of Charles B. Haydon </title>edited by Stephen W. Sears ( New York :  Ticknor &amp; Fields,  1993)</p></scopecontent>
+
+<controlaccess>
+
+<controlaccess><head>Subjects:</head><persname source="lcnaf" encodinganalog="600">Boise, James Robinson, 1815-1895.</persname><persname source="lcnaf" encodinganalog="600">Haydon, Arthur W., 1844-1918.</persname><persname source="lcnaf" encodinganalog="600">Haydon, Charles B., 1834-1864.</persname><geogname source="lcsh" encodinganalog="651">Kalamazoo (Mich.)</geogname><subject source="lcsh" encodinganalog="650">Law.</subject><subject source="lcsh" encodinganalog="650">Soldiers--Michigan--Kalamazoo.</subject><corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Infantry Regiment, 2nd (1861-1865). Company E.</corpname><geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname><corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Classical Studies.</corpname><corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1851-1860.</corpname><corpname source="lcnaf" encodinganalog="610">University of Michigan--Student notebooks.</corpname></controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head><persname source="lcnaf" encodinganalog="600">Haydon, Charles B., 1834-1864.</persname><subject source="lctgm" encodinganalog="650">Soldiers--Michigan--Kalamazoo.</subject><geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Diaries.</genreform><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>University of Michigan</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Student notebook; alphabetical listing of world history, arranged chronologically under each letter, <unitdate audience="internal" type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Student notebook, <unitdate type="inclusive">1852-1854</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Student notebook, <unitdate type="inclusive">1854-1857</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Student notebook, <unitdate type="inclusive">1859</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letter to his brother Arthur, <unitdate type="inclusive">1855?</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Civil War service</unittitle></did>
+<c02 level="subseries"><did><unittitle>Diaries</unittitle></did><note><p>(pocket-size except where indicated)</p></note>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">April 30-June 9, 1861</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">June 11-July 26, 1861</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">July 27-August 16, 1861</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">August 17-August 31, 1861</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">September 1-September 19, 1861</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">September 20-October 3, 1861</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">October 4-October 17, 1861</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">October 17-November 28, 1861</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">November 30-December 29, 1861</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">December 30, 1861-January 14, 1862</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">February 16-April 3, 1862</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">April 3-May 18, 1862</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">December 6, 1863-February 21, 1864</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">May 19, 1862-February 8, 1864</unitdate></unittitle></did><note><p>(transcription copies made by Haydon of smaller diaries and later bound into a volume; included are two pocket-size diaries, July-August 1862)</p></note></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle>Typed transcripts of diaries compiled by Ida C. Brown, <unitdate type="inclusive">April 30, 1861-January 24, 1863</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle>Handwritten transcripts by Ida C. Brown, <unitdate type="inclusive">July 18-December 21, 1861</unitdate></unittitle></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Other materials</unittitle></did>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle>Miscellaneous clippings and biographical information</unittitle></did></c03>
+<c03 level="file"><did><physloc>Vault</physloc><unittitle>Portrait of Charles Haydon in military uniform</unittitle></did><note><p>(not microfilmed; in vault)</p></note></c03></c02></c01></dsc>
+
+<descgrp type="add"><relatedmaterial><head>Related Material</head><p>Grand Valley State University Libraries holds the following map, part of its Lemmen Collection on Lincoln and the American Civil War:</p>
+
+<p><bibref><title>Lloyd's official map of the state of Virginia : from actual surveys by order of the executive 1828 &amp; 1859 / corrected and revised by J.T. Lloyd to 1862, from surveys made by Capt. W. Angelo Powell, of the U. S. Topographical Engineers of Gen. Rosencrans' staff. </title><imprint>Publisher: New York : J.T. Lloyd, <date>[1862]</date>.</imprint>  </bibref> </p>
+
+<p>On the inside front cover is written in brown ink: "Charles B. Haydon / 1st Lt. Co. I &amp; Actg. Adjt. / 2nd Mich. Inf. / Rifle Pits in front of Richmond Va. / June 21st, 1862"</p>
+
+<p>Call Number: G3880 1862 .L55</p>
+</relatedmaterial></descgrp>
+</archdesc></ead>   

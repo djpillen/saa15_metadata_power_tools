@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::florerww.xml//EN" encodinganalog="Identifier">
+umich-bhl-851211</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Warren W. Florer papers, 1877-1955
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-02</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Warren W. Florer papers, 1877-1955</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Florer, Warren Washburn, 1869-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Warren W. Florer papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1877-1955
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851211 Aa 2; Ac
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of German at University of Michigan. Correspondence, articles, speeches and research notes.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Warren W. Florer (donor no. <num type="donor" encodinganalog="541$e">1523</num>)  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Warren W. Florer papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Warren W. Florer was born May 17, 1869, in Loda, Ill., a son of William J. and Mary Ann Washburn Florer.  He received his AB degree in 1890 and MA degree in 1893 from DePauw and his PhD degree in 1897 from Cornell.  He also attended Leipzig University. Following graduation, he came to the University of Michigan as an instructor in German. He was appointed assistant professor in 1907 and held this position until his retirement from the University in 1918. For the remainder of his life, Florer was a researcher and historian, mainly in the study of German immigration to Michigan. He was author of a series of three volumes on "Early Michigan Settlements." In these volumes, he examined the settlement of Washtenaw County, Catholic settlement of Westphalia, the Lutherans of the Frankenmuth area, the German student revolution of 1848 in Detroit, and German missionary activities among the Indians. Florer also wrote several articles on the works of Martin Luther and in the field of education.  He was a lecturer on the American Revolution and on the struggle for liberty in Germany from 1517 to contemporary times. He died April 16, 1958.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Florer papers have been arranged into the following series: Correspondence; Personal; University of Michigan; Education and the Teaching of German; and Articles and research materials. Some of Florer's correspondents include James B. Angell, Wilber M. Brucker, Fred W. Green, Harry B. Hutchins, and Harry F. Kelly. Some of the other files of interest concern his interests in Louis Kossuth, Gustav Frenssen, Hermann Kiefer, and the Schilling family of Scio township, Washtenaw County, Michigan. There are also materials on early German settlers of Michigan, and the firing of members of the German Department of the University of Michigan during World War I. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Clinton (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Discrimination in employment--Michigan--Ann Arbor.</subject>
+<persname source="lcnaf" encodinganalog="600">Florer, Warren Washburn, 1869-</persname>
+<persname source="lcnaf" encodinganalog="600">Frenssen, Gustav, 1863-1945</persname>
+<subject source="lcsh" encodinganalog="650">German Americans--Michigan.</subject>
+<persname source="lcnaf" encodinganalog="600">Kiefer, Hermann, 1825-1911.</persname>
+<persname source="lcnaf" encodinganalog="600">Kopp, Anton.</persname>
+<persname source="lcnaf" encodinganalog="600">Kossuth, Lajos, 1802-1894.</persname>
+<famname source="lcnaf" encodinganalog="600">Schilling family.</famname>
+<geogname source="lcsh" encodinganalog="651">Scio (Mich. : Township)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Sons of the American Revolution. Michigan Society. Washtenaw County Chapter No. 1.</corpname>
+<geogname source="lcsh" encodinganalog="651">Washtenaw County (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Board of Regents.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Germanic Languages and Literatures.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918--Education and the war.</subject>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918--Michigan--Ann Arbor.</subject>
+
+
+</controlaccess>
+
+<controlaccess><head>Visual Materials - Subjects</head>
+<persname source="lcnaf" encodinganalog="600">Florer, Warren Washburn, 1869-</persname>
+
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Angell, James Burrill, 1829-1916.</persname>
+<persname source="lcnaf" encodinganalog="700">Brucker, Wilber Marion, 1894-1968.</persname>
+<persname source="lcnaf" encodinganalog="700">Green, Fred Warren, 1872-1936.</persname>
+<persname source="lcnaf" encodinganalog="700">Hutchins, Harry B. (Harry Burns), 1847-1930.</persname>
+<persname source="lcnaf" encodinganalog="700">Kelly, Harry F. (Harry Francis), 1895-1971.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1877-1901</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1902-1909</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1910-1915</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1916-1920</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1930-1941</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Personal</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Education at the University of Leipzig</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Washtenaw County chapter of the Sons of the American Revolution</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did></c02>
+    <c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>Photostats of newspaper clippings</unittitle></did></c02>
+    <c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>Collected German documents</unittitle></did></c02>
+    <c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>Certificate of appointment as instructor first lieutenant in the University's Reserve Officer Training Corps, <unitdate type="inclusive">1918</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>University of Michigan career, <unitdate type="inclusive">1897-1918</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bismarck celebration at the University of Michigan (newspaper clippings concerning), <unitdate type="inclusive">1914</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Anti-socialist speeches by Florer (newspaper clippings and correspondence concerning), <unitdate type="inclusive">1912</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The German Department at the University of Michigan (particularly during World War I</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Education and the Teaching of German</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Teaching of German in Michigan high schools</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Surveys on the teaching of German in Michigan high schools, <unitdate type="inclusive">1912-1915</unitdate> </unittitle> <physdesc><extent>9 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Education in Lutheran schools</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Articles and research materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hessians in colonial America</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Louis Kossuth's visit to Ohio, Michigan, Illinois and Indiana (Notes for an article on)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ernst Peter Schilling family of Scio Township, Washtenaw County</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Anton Kopp (early German settler of Clinton, Mich.) </unittitle></did> <note><p>(missing)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> The German Element in Michigan</title> (manuscript)</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Schiller</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches given about</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Draft of paper on Schiller and the American Revolution</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hermann Suderman</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Materials for article on classical writers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Rough drafts of articles on religious topics</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Offenburg and Freiberg resolutions</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Article on Art vs. Formalism</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notes on the Eschenburg manuscript</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notes for Use of German</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Article on Goethe (Rough draft of)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gustav Frenssen </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hermann Kiefer </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Martin Luther</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Materials concerning Martin Luther's translation of the Psalms </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Poem by Freiligrath and correspondence concerning its publication, <unitdate type="inclusive">1950-1955</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Photostats acquired in research projects </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous Articles and Speeches </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous notes</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

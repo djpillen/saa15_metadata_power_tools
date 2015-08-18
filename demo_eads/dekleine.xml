@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::dekleine.xml//EN" encodinganalog="Identifier">
+umich-bhl-851117</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+William DeKleine papers, 1914-1955
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>July 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-07-29</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+William DeKleine papers, 1914-1955</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+DeKleine, William, 1877-1957.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+William DeKleine papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1914-1955
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+3 linear feet and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851117 Aa 2; UAm
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Physician, public health officer, medical director of the American Red Cross and Michigan Health Commissioner, 1944-1947. Correspondence, articles, speeches, and other professional papers.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Dr. William DeKleine (donor no. <num type="donor" encodinganalog="541$e">3222</num>) and came to the library in 1956-1957.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+William DeKleine papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>William DeKleine was born November 28, 1877 in Jamestown, Michigan. He was a graduate of Hope College, Northwestern University, and the University of Michigan School of Public Health. He practiced medicine in Grand Haven, Michigan from 1906 to 1914. He next directed the tuberculosis survey campaign for the Michigan Board of Health from 1915 to 1917.  He served as health officer of Flint, Mich., from 1917 to 1922, and of Saginaw, from 1922 to 1925.</p>
+
+<p>DeKleine directed the child health demonstration at Mansfield, Ohio, under the American Child Health Association in 1925, and under the Commonwealth Fund at Fargo, N.D., in 1926-27, and at Salem, Ore., the next year. DeKleine became associated with the American Red Cross in 1927 during the Mississippi flood. From 1928 to 1942, DeKleine was Medical Director of the Red Cross and supervised medical and public health work in areas stricken by floods, tornadoes, fires, drought and other disasters. This included the Southern floods of 1929 and 1939, the drought in Arkansas and other states in 1931, aftermaths of tornadoes in Alabama and other states in 1932 and after the New London (Tex.) school disaster in 1937. From 1944 to 1947, DeKleine was State Health Commissioner of Michigan. For the remainder of his life, he returned to private practice. He died September 20, 1957.</p></bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The William DeKleine papers have been arranged into the following series: Biographical; Correspondence; Other papers: research interests and writings; Red Cross materials; Articles and speeches; and Photographs. Some of the correspondents in the collection include: Paul DeKruif, Harry F. Kelly, John H. Kellogg, Charles S. Mott, Arnold Mulder, Chase S. Osborn, and Kim Sigler. Some of the topics covered in the collection include medical relief, pellagra research, and the work of the Red Cross. There are also histories he wrote on the Good Roads Movement in western Michigan and the First Presbyterian Church of Lansing, Michigan.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">First Presbyterian Church (Lansing, Mich.)</corpname>
+<geogname source="lcsh" encodinganalog="651">Lansing (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Medicine--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Dept. of Health.</corpname>
+<subject source="lcsh" encodinganalog="650">Pellagra.</subject>
+<subject source="lcsh" encodinganalog="650">Physicians--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Presbyterian Church--Michigan--Lansing.</corpname>
+<subject source="lcsh" encodinganalog="650">Public health--United States.</subject>
+<subject source="lcsh" encodinganalog="650">Red Cross and Red Crescent--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Roads--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Soya Corporation of America.</corpname>
+<persname source="lcnaf" encodinganalog="600">DeKleine, William, 1877-1957.</persname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Flint.</subject>
+<subject source="lcsh" encodinganalog="650">Dwellings--Michigan--Flint</subject>
+<subject source="lctgm" encodinganalog="650">Physicians--Michigan.</subject>
+<subject source="lctgm" encodinganalog="650">Poor persons.</subject>
+<subject source="lcsh" encodinganalog="650">Public health--Michigan.</subject>
+<subject source="lctgm" encodinganalog="650">Slums--Michigan--Flint.</subject>
+<persname source="lcnaf" encodinganalog="600">DeKleine, William, 1877-1957.</persname>
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">De Kruif, Paul, 1890-1971.</persname>
+<persname source="lcnaf" encodinganalog="700">Kellogg, John Harvey, 1852-1943.</persname>
+<persname source="lcnaf" encodinganalog="700">Kelly, Harry F. (Harry Francis), 1895-1971.</persname>
+<persname source="lcnaf" encodinganalog="700">Mott, Charles Stewart, 1875-1973.</persname>
+<persname source="lcnaf" encodinganalog="700">Mulder, Arnold, 1885-1959.</persname>
+<persname source="lcnaf" encodinganalog="700">Osborn, Chase S. (Chase Salmon), b. 1860</persname>
+<persname source="lcnaf" encodinganalog="700">Sigler, Kim, b. 1894.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="gmgpc" encodinganalog="655">Portraits.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Biographical</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical materials, <unitdate type="inclusive">1928-1950</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Memoir, <unitdate type="inclusive">undated</unitdate></unittitle></did><c03><did><container type="box" label="Box">1</container><unittitle> [Chapters 1-4]</unittitle></did></c03><c03><did><container type="box" label="Box">1</container><unittitle>[Chapters 5-9]</unittitle></did></c03><c03><did><container type="box" label="Box">1</container><unittitle> [Chapters 10-13]</unittitle></did></c03></c02>
+</c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1914-May 1947</unitdate> </unittitle> <physdesc><extent>33 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive"> June 1947-1955</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other papers: research interests and writings</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Reports, memoranda, etc., <unitdate type="inclusive">undated</unitdate> and <unitdate type="inclusive">1905-1947</unitdate> </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Printed materials, <unitdate type="inclusive">1937-1947</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Research papers, <unitdate type="inclusive">1930-1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Papers concerning pellagra, <unitdate type="inclusive">1930-1949</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Flint Health Department, <unitdate type="inclusive">1922</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Selective Service System (health concerns), <unitdate type="inclusive">1939-1943</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>History of the Good Roads Movement in western Michigan</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>History of the First Presbyterian Church of Lansing</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>History of the Red Cross Blood Procurement Program for the Army and Navy in World War II</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Holland Club of Washington, D. C. miscellanea, <unitdate type="inclusive">1942-1944</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Red Cross materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1929-1931</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1932-1941</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Articles and speeches</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1924-1946</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>15 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform> </unittitle></did> <note><p>(see also oversize folder)</p></note>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><genreform normal="Portraits">Portraits</genreform></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Groups</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Flint slums, <unitdate type="inclusive">ca. 1920</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+
+
+
+</dsc><descgrp type="add"><index><head>Selective Index to Correspondents</head>
+<indexentry><persname>DeKruif, Paul, 1890-1971.</persname><ref><list type="simple"><item>1937-1942; 1944-1947</item></list></ref></indexentry>
+<indexentry><persname>Kellogg, John Harvey, 1852-1943.</persname><ref><list type="simple"><item>Apr. 23, 1922</item></list></ref></indexentry>
+<indexentry><persname>Kelly, Harry F. (Harry Francis), 1895-1971.</persname><ref><list type="simple"><item>1944; Apr. 25, 1947</item></list></ref></indexentry>
+<indexentry><persname>Mott, Charles Stewart, 1875-1973.</persname><ref><list type="simple"><item>Apr. 1, 1941; Apr. 24, 1942; Oct. 13, 1943; Apr. 11, 1944</item></list></ref></indexentry>
+<indexentry><persname>Mulder, Arnold, 1885-1959.</persname><ref><list type="simple"><item>1937; 1939; 1944; 1946-1953; 1955</item></list></ref></indexentry>
+<indexentry><persname>Osborn, Chase S. (Chase Salmon), b. 1860.</persname><ref><list type="simple"><item>Dec. 2, 1919</item></list></ref></indexentry>
+<indexentry><persname>Sigler, Kim, b. 1894.</persname><ref><list type="simple"><item>1947</item></list></ref></indexentry>
+</index>
+</descgrp></archdesc>
+
+</ead>

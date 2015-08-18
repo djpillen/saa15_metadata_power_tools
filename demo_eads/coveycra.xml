@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::coveycra.xml//EN" encodinganalog="Identifier">
+umich-bhl-9610</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Craig Covey papers, 1987-2010
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2010">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2010</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2010-12-20</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Craig Covey papers, 1987-2010</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+
+<persname source="lcnaf" encodinganalog="100">
+Covey, Craig
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Craig Covey papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1987-2010
+</unitdate>
+
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9610 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Gay rights activist of Ferndale, Mich. Files relating to his involvement with AIDS prevention and gay rights; include minutes of the board and other materials of the Midwest AIDS Prevention Project, 1988-2001; files accumulated from his work with the Michigan Organization for Human Rights; and miscellanea relating to his campaigns for Ferndale City Council in 1995, 1999, 2003, for mayor in 2007, and for Oakland County Commissioner in 2010.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection is the gift of Craig Covey (donor no. <num type="donor" encodinganalog="541$e">8462</num>) and has come to the library in multiple accessions.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the papers are expected.
+</p></accruals>
+
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Craig Covey papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Craig Covey was born in Columbus, Ohio in 1957. He began his advocacy work on behalf of gay rights in Ohio in 1981. He founded the Stonewall Union there and then after moving to Michigan in 1985, he became executive director of the Michigan Organization for Human Rights. A resident of Ferndale, Michigan since the late 1980s, Covey has been active in a variety of both gay and community activities. Covey was a long-time member of the Ferndale city council, having served from 1999 to 2008.  He had first run unsuccessfully in 1995. In 2007 he was the first openly-gay mayor of any municipality in the state of Michigan.  Elected mayor of Ferndale on November 6, 2007, he was sworn into office on January 14, 2008 for a two-year term, succeeding three-term mayor Robert Porter.  He was re-elected unopposed in November 2009.  In 2010, he ran successfully for the Oakland County Commission in district 25, succeeding Dave Coulter (D-Ferndale).</p>
+
+<p>Besides political activity, Covey was also CEO of the Midwest AIDS Prevention Project (MAPP) and Chief Operating Officer of the Michigan AIDS Coalition, the organization resulting from the merging of MAPP and the Michigan AIDS Fund in 2009.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Craig Covey collection is arranged into two series: Topical Files and Audio-Visual Materials. The topical files are especially important for their documentation of his work in various education and prevention study programs. These include the Midwest AIDS Prevention Project (MAPP for short) and the Michigan AIDS High Risk Education program. Also of important are files documenting his participation in the political and civic life of Ferndale, both within the gay community and as a member of the city council and as Mayor. There is documentation of his campaign for office and his participation in a gay and lesbian neighborhood association, Friends and Neighbors of Ferndale (FANS for short). The Audio-Visual series is comprised mainly of DVDs relating to gay pride ceremonies and activities. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Covey, Craig.</persname>
+<subject source="lcsh" encodinganalog="650">Elections--Michigan--Ferndale.</subject>
+<geogname source="lcsh" encodinganalog="651">Ferndale (Mich.)--Politics and government.</geogname>
+<subject source="lcsh" encodinganalog="650">Gay men--Michigan--Ferndale--Political activity.</subject>
+<subject source="lcsh" encodinganalog="650">AIDS (Disease)--Michigan--Prevention.</subject>
+<corpname source="lcnaf" encodinganalog="610">Michigan Organization for Human Rights.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Midwest AIDS Prevention Project.</corpname>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">DVDs.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+<genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Topical Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>AIDS miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Articles by and about Craig Covey</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Campaigns</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ferndale city council campaign, <unitdate type="inclusive">1995</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ferndale city council campaign, <unitdate type="inclusive">1999</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ferndale city council campaign, <unitdate type="inclusive">2003</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ferndale mayoralty campaign, <unitdate type="inclusive">2007</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Oakland County Commissioner, <unitdate type="inclusive">2010</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ferndale (various issues) clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Friends and Neighbors of Ferndale (FANS, a gay and lesbian neighborhood association), <unitdate type="inclusive">1998-2000</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hate mail</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Human Rights Ordinance, Ferndale, <unitdate type="inclusive">2000</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lesbian A-Sisters (organization to improve quality of life for lesbians, disabled or with debilitating health concerns)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Medical marihuana</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan AIDS High Risk Education programs, <unitdate type="inclusive">1987-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Organization for Human Rights</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Midwest AIDS Prevention Project (MAPP), <unitdate type="inclusive">1987-2001</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Villaire, Richard (officer and board member of MAPP)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Audio-Visual Material</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform> and other visuals</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>MOHR Annual Meeting, <unitdate type="inclusive">November 1985</unitdate> </unittitle> <physdesc><physfacet><genreform normal="DVDs">DVD</genreform>; 0:59:32</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>AIDS Awareness &amp; Education, MGTV: In Depth Program, taped <unitdate type="inclusive">1-26-1998</unitdate> </unittitle> <physdesc><physfacet><genreform normal="Videotapes">VHS videotape</genreform>; 57:43 min.</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>You Can Fight City Hall (Video Impact), <unitdate type="inclusive">2006</unitdate> </unittitle> <physdesc><physfacet><genreform normal="DVDs">DVD</genreform></physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pride Commitment Ceremony, 2006 <unitdate type="inclusive">5-3-2006 </unitdate></unittitle> <physdesc><physfacet><genreform normal="DVDs">DVD</genreform>; 29 min.</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pride Fest <unitdate type="inclusive">2007</unitdate> Ferndale Mi. </unittitle> <physdesc><physfacet>5 <genreform normal="DVDs">DVDs</genreform></physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Craig Covey on WXYT radio program, <unitdate type="inclusive">November 1990</unitdate> </unittitle> <physdesc><physfacet>1 <genreform normal="Sound recordings">audio cassette</genreform>; 20 min.</physfacet></physdesc></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

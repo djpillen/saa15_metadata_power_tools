@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::callahan.xml//EN" encodinganalog="Identifier">
+umich-bhl-85894</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Patrick Henry Callahan papers, 1925-1938 and undated
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+William H. McNitt </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-10-26</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Patrick Henry Callahan Papers, 1925-1938 and undated</titleproper>
+
+<author>Finding aid created by<lb/> 
+William H. McNitt, 1970</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Callahan, Patrick Henry, 1866-1940.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Patrick Henry Callahan papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1925-1938 and undated
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85894 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Lay Catholic leader, supporter of the prohibition amendment; newsletters and other materials relating to his interest in temperance and the politics of temperance.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection came to the library as part of the Oscar Christgau accession (donor no. <num type="donor" encodinganalog="541$e">4853</num>) in 1970.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Patrick Henry Callahan papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Patrick Henry Callahan was born in Cleveland, October 15, 1866. He worked in the varnish manufacturing industry, first in Cleveland, later with the Louisville Varnish Company in Kentucky. In addition, Callahan was involved in several organizations, such as the Catholic Industrial Conference and the National Catholic Charities Conference. Callahan was also involved in other causes, many of these relating to his support of the Prohibition (or Eighteenth) Amendment. He died February 4, 1940.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Callahan papers have been arranged chronologically into a single series of newsletters and other materials. These files relate primarily to the effort to preserve the eighteenth amendment, to the Presidential campaign of 1928, to the movement to nominate a dry Democrat for the Presidency in 1932, and to the temperance activities of William Jennings Bryan.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Association of Catholics Favoring Prohibition.</corpname>
+<persname source="lcnaf" encodinganalog="600">Bryan, William Jennings, 1860-1925.</persname>
+<corpname source="lcnaf" encodinganalog="610">Catholic Church.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Democratic Party (U.S.)</corpname>
+<subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1928.</subject>
+<subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1932.</subject>
+<subject source="lcsh" encodinganalog="650">Prohibition--United States.</subject>
+<subject source="lcsh" encodinganalog="650">Social reformers--United States.</subject>
+<subject source="lcsh" encodinganalog="650">Temperance--United States.</subject>
+<geogname source="lcsh" encodinganalog="651">United States--Politics and government--1923-1929.</geogname>
+<geogname source="lcsh" encodinganalog="651">United States--Politics and government--1933-1945.</geogname>
+<geogname source="lcsh" encodinganalog="651">United States--Politics and government--1929-1933.</geogname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Christgau, Oscar Gottlieb.</persname>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Newsletters and other materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1925-1928</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1929</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1930</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1931</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1932</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1933</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1934-1938</unitdate></unittitle></did></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

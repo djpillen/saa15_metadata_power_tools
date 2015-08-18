@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::ypsiequa.xml//EN" encodinganalog="Identifier">
+umich-bhl-07129</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Ypsilanti Campaign for Equality records, 1998-2002
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Courtney Egan </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-10-09</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Ypsilanti Campaign for Equality <lb/>Records, 1998-2002</titleproper>
+
+<author>Finding aid created by<lb/> 
+Courtney Egan, September 2007</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Ypsilanti Campaign for Equality.
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Ypsilanti Campaign for Equality records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1998-2002
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+07129 Bt 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The Ypsilanti Campaign for Equality (YCFE) organization was formed in about 2001 to contest a ballot proposal that would have removed sexual orientation protections from the Ypsilanti City Charter.  This record group comprises the material they amassed during their campaign; it includes budgets, planning documents, literature, and press coverage.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+These records were donated by Elizabeth Warren (donor no. <num type="donor" encodinganalog="541$e">9924</num>) in August 2007.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No furether additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Ypsilanti Campaign for Equality records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>In 1998, Ypsilanti voters passed a Human Rights Ordinance that prohibited discrimination based on several characteristics, including sexual orientation.  In 2001 a petition was circulated to amend the city charter and remove these protections; enough signatures were gathered for a proposal to be added to the ballot in the next city election.  Unlawful activities were suspected to have taken place as signatures were gathered and a lawsuit was brought by the Ypsilanti Campaign for Equality and Elizabeth Warren against the Ypsilanti City Clerk (among others) for validating the petition.  </p>
+
+<p>Despite the lawsuit the measure remained on the ballot.  YCFE campaigned against it by organizing volunteers, educating voters and conducting fundraisers.  Their campaign was successful and the ballot measure was defeated in the 2002 city election.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>This record group is divided into three series: 2002 Campaign (0.7 linear ft., 2001-2002), Electronic Records (3.5" Disks and CD-R, 2001-2002) and Ypsilanti Campaign for Equality and Elizabeth Warren Eddins vs. Ypsilanti City Clerk, City of Ypsilanti, Washtenaw County Election Commission and Washtenaw County Clerk (0.2 linear ft., 1998-2002).</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Elections--Michigan--Ypsilanti.</subject>
+<subject source="lcsh" encodinganalog="650">Gay rights--Michigan--Ypsilanti.</subject>
+<corpname source="lcnaf" encodinganalog="610">Ypsilanti Campaign for Equality.</corpname>
+<geogname source="lcsh" encodinganalog="651">Ypsilanti (Mich.)--Politics and government.</geogname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">CD-ROMs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>2002 Campaign, <unitdate type="inclusive">2001-2002</unitdate></unittitle></did><scopecontent><p>The 2002 Campaign series comprises all those materials that were clearly connected to the campaign.  It includes administrative materials, such as budgets and planning documents; literature distributed by the YCFE and its opposition; and press coverage published throughout the duration of the campaign.  It also details the efforts of organizing and training campaign volunteers and includes documentation of supporters in the business and religious community.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Budget</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Business Support</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Campaign Plan</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Door to Door and Phone Bank Materials</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Education Campaign</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Emails to Ypsilanti Campaign For Equality</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Endorsements</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Field Plan</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fundraising</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Literature by or about Ypsilanti Campaign for Equality</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Literature Related to Ypsilanti Campaign for Equality</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Love Makes a Family" Concert</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Meeting Minutes</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Opposing Campaign</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Press Coverage and Press Releases</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Religious Support</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Training Materials</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Electronic Records, <unitdate type="inclusive">2001-2002</unitdate></unittitle></did><scopecontent><p>The Electronic Records series consists of various campaign files, sometimes duplicating those found in the 2002 Campaign series.  There is one CD-R that includes a large quantity of material and may have acted as a backup of all campaign files.  There are 14 3.5" disks which include files that sometimes duplicate materials found in the 2002 Campaign series; also included are materials related to the "Get Out The Vote" (GOTV) efforts.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Campaign files </unittitle><physdesc><extent>(602 files) (1 CD-R)</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mailings; get-out-the vote files; donors and other lists, etc. </unittitle><physdesc><extent>14 3.5" computer disks </extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Ypsilanti Campaign for Equality and Elizabeth Warren Eddins vs. Ypsilanti City Clerk, City of Ypsilanti, Washtenaw County Election Commission and Washtenaw County Clerk, <unitdate type="inclusive">1998-2002</unitdate></unittitle></did><scopecontent><p>The Ypsilanti Campaign for Equality and Elizabeth Warren Eddins vs. Ypsilanti City Clerk, City of Ypsilanti, Washtenaw County Election Commission and Washtenaw County Clerk series encompasses those materials that were generated by or directly related to this legal proceeding.  These include court orders and opinions, legal briefs, and the text of the petition under scrutiny.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legal Documents</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Petition Text and Signatories</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Various Documents (probably related to court case)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ypsilanti City Code</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

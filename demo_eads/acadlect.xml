@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::acadlect.xml//EN" encodinganalog="Identifier">
+umich-bhl-0373</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Academic Freedom Lecture Fund(University of Michigan), Records 2000-ongoing
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Joel A. Blanco, 2003 </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date">
+February 2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Leslie Knoblauch, 
+<date>January 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20040203</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Academic Freedom Lecture Fund<lb/>(University of Michigan),<lb/>Records, 2000-ongoing
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Joel A. Blanco
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Academic Freedom Lecture Fund.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Academic Freedom Lecture Fund (University of Michigan), Records
+<unitdate type="inclusive" encodinganalog="245$f">
+2000-ongoing
+</unitdate></unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+0373 Bimu 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+In 1955, the University of Michigan suspended three professors (H. Chandler Davis, Mark Nickerson and Clement Markert) for their refusal to give testimony before a U.S. House Committee on Un-American Activities group.  In 1990, the Academic Freedom Lecture Fund (AFLF) was established to honor those professors.  Since 1991, AFLF has organized the annual University of Michigan Senate’s Davis, Markert, Nickerson Lecture on Academic and Intellectual Freedom.  Documentation begins with the 2000 symposium and includes programs, transcripts, and videotaped lectures.  Also included is an upgraded videotape of the documentary Keeping in Mind.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were transferred to the library beginning in 2001 (Donor #<num type="donor" encodinganalog="541$e">8703</num>).
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+Records are open for research.  See the the finding aid for the Adam Kulakow papers for restrictions on the videotape <title render="italic">Keeping in Mind</title>.</p>
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Academic Freedom Lecture Fund (University of Michigan) Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>In 1955, during the height of the McCarthy era, the University of Michigan suspended professors H. Chandler Davis, 
+Clement Markert, and Mark Nickerson for their refusal to give testimony before a U.S. House Committee on Un-American 
+Activities panel.  Davis and Nickerson (a tenured professor) were terminated.  Markert was later reinstated.  The 
+national American Association of University Professors (AAUP) censured the university for its treatment of these 
+professors in 1957.  After a new Regents’ Bylaw (5.09) was adopted, censure was removed in 1958.</p>
+<p>In 1988, emeritus professor Wilbert J. McKeachie published an article, “Reminiscences of the 1950’s,” in the 
+University of Michigan AAUP Chapter Newsletter that detailed the treatment of Davis, Markert and Nickerson at Michigan 
+during the 1950s.  David Hollinger, a history professor, also wrote an account of those events for the 1988 Centennial 
+Celebration Bulletin of the Horace H. Rackham School of Graduate Studies.  Those accounts prompted student Adam Kulakow 
+to prepare a video documentary on the Davis, Markert, Nickerson cases for his undergraduate honors dissertation.  
+Kulakow’s documentary,  <title render="italic">Keeping in Mind - The McCarthy Era at the University of Michigan</title>,
+ was shown publicly on April 9, 1989, to a large audience that included the three professors.</p>
+<p>Following the presentation of <title render="italic">Keeping in Mind</title>, a member of the audience suggested 
+that the university be asked to make amends for its treatment of the three professors in 1955.  The University of 
+Michigan Chapter of the AAUP pursued the matter, hoping to encourage the Regents to take appropriate action.  A 
+proposal was sent to the Senate Advisory Committee on University Affairs (SACUA) in October 1989.  The proposal was 
+endorsed in February 1990 by the Senate Assembly.  When the Regents did not take action, the Senate Assembly passed a 
+resolution in November 1990 that deeply regretted “the failure of the University Community to protect the values of 
+intellectual freedom” in 1955.  The resolution also established the annual University of Michigan Senate’s Davis, 
+Markert, Nickerson Lecture on Academic and Intellectual Freedom.  The first lecture was given on February 18, 1991.  
+The three professors were present and participated in a panel discussion after the lecture.</p>
+<p>The Senate Assembly established an Academic Freedom Lecture Fund (AFLF) to encourage and support the academic 
+freedom lectures.  AFLF was subsequently established as an independent non-profit organization in 1991.  The goal 
+of the AFLF being, to support public lectures on academic freedom wherever they might be given.</p>
+<p>Source:  Program for the University of Michigan’s Davis, Markert, Nickerson Symposium on Academic Freedom, 
+October 7, 2000.  Also available online at the following URL: <title render="italic">http://www.umich.edu/~aflf</title></p><p></p>
+
+<p><list type="simple"><head>List of Lectures</head><item>1991 - Robert M. O'Neil 
+<list type="simple"><item>"Academic Freedom in Retrospect and in Prospect"</item></list></item>
+<item>1992 - Lee C. Bollinger
+<list type="simple"><item>"The Open-minded Soldier and the University"</item></list></item>
+<item>1993 - Catherine R. Simpson
+<list type="simple"><item>"Dirty Minds, Dirty Bodies, Clean Speech"</item></list></item>
+<item>1994 - Walter P. Metzger
+<list>
+<item>"A Stroll Along the New Frontiers of Academic Freedom" </item></list></item>
+<item>1995 - Linda Ray Pratt
+<list type="simple"><item>"Academic Freedom and the Merits of Uncertainty"</item></list></item>
+<item>1996 - Avern Cohen
+<list type="simple"><item>"A Federal Trial Judge Looks at Academic Freedom"</item></list></item>
+<item>1997 - Roger Wood Wilkins
+<list type="simple"><item>"Opportunity and Academic Integrity"</item></list></item>
+<item>1998 - Eugene L. Roberts, Jr.
+<list type="simple"><item>"Free Speech, Free Press, Free Society"</item></list></item>
+<item>1999 - David A. Hollinger
+<list type="simple"><item>"Money and Academic Freedom a Half-century After McCarthyism: Universities Amid the Force Fields of Capital"</item></list></item>
+<item>2000 - Symposium on Academic and Intellectual Freedom</item>
+<item>2001 - Vartan Gregorian
+<list type="simple"><item>"Universities of the 21st Century: Perils, Challenges, and Prospects"</item></list></item>
+<item>2002 - Catherine A. MacKinnon
+<list type="simple"><item>"From Powerlessness to Power:  The Uses of Academic Freedom"</item></list></item>
+<item>2003 - David Cole
+<list type="simple"><item>"Freedom and Terror:  September 11th and the 21st Century Challenge"</item></list></item></list></p> 
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The records of the Academic Freedom Lecture Fund (AFLF) begin in 2000, and mainly consist of videotapes of lectures 
+from the University of Michigan Senate's annual Davis, Markert, Nickerson Lecture on Academic and Intellectual Freedom.  
+There is no documentation of the fund itself.</p>
+<p>The annual Davis, Markert, Nickerson Lectures on Academic and Intellectual Freedom are organized chronologically.  
+In addition to the videotapes, documentation includes some transcripts of the lectures, and event programs.  The 
+printed program contains background on the lectures, including the resolution establishing the lecture and biographies 
+of the three professors.  The 2000 lecture folder also contains a memorial for Clement L. Markert which appeared in 
+<title render="italic">The Journal of Heredity</title> .</p>
+<p>Adam Kulakow's undergraduate documentary <title render="italic">Keeping in Mind</title>, focusing on the University 
+of Michigan's handling of the Davis, Markert, Nickerson cases in the 1950s during the McCarthy era, contributed greatly 
+to the development of the AFLF and the annual lectures.  The video was shown publicly for the first time on April 9, 
+1989.  An upgraded 2001 copy of this video is included in these records.  For more information about the documentary, 
+and the interviews conducted in support of the project, researchers may consult the Adam Kulakow Papers.  The Kulakow 
+collection consists of interview transcripts and videos, and notes which Kulakow generated while producing the 
+documentary.  It also includes a copy of the original documentary.  Note:  The 1989 conditions governing access to 
+<title render="italic">"Keeping in Mind"</title>  are presumed to remain in force.  Please see the finding aid for 
+the Adam Kulakow papers for access and use conditions.</p>
+<p>In 2000, the University of Michigan Press published <title render="italic">Unfettered Expression: Freedom in 
+American Intellectual Life</title>.  The book, edited by Peggie J. Hollingsworth, contained essays originally given 
+as lectures in the annual Davis, Markert, Nickerson Lecture on Academic and Intellectual Freedom series at the 
+University of Michigan from 1991 to 1999.
+</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Academic Freedom Lecture Fund.</corpname>
+<subject source="lcsh" encodinganalog="650">Academic freedom--United States.</subject>
+<subject source="lcsh" encodinganalog="650">Freedom of speech--United States.</subject>
+<subject source="lcsh" encodinganalog="611">Davis, Markert, Nickerson lecture on academic and intellectual freedom.</subject>
+</controlaccess></controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>2000</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Program and Memorial for Clement L. Markert</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Videotapes (VHS format)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Symposium on Academic and Intellectual Freedom</unittitle><physdesc><extent>2 videotapes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Panel 2: Scientific Evidence: Junk or Cutting Edge Science</unittitle></did></c03></c02></c01>
+
+<c01 level="series"><did><unittitle><unitdate type="inclusive">2001</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Transcripts</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Videotape: Vartan Gregorian Lecture Introduction</unittitle><physdesc><extent>1 tape VHS format</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Documentary Video: <title render="italic">Keeping in Mind</title>   </unittitle><physdesc><physfacet>VHS, upgraded copy and DVD</physfacet></physdesc></did><note><p>(See access conditions governing reproduction and use in the finding aid for the Adam Kulakow papers)</p></note></c02></c01>
+
+<c01 level="series"><did><unittitle><unitdate type="inclusive">2002</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Program and Partial Transcript</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Videotape: <title render="italic">From Powerlessness to Power: the Uses of Academic Freedom</title></unittitle><physdesc><extent>1 tape, VHS format</extent></physdesc></did></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

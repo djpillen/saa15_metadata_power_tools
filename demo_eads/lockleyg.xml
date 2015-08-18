@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::lockleyg.xml//EN" encodinganalog="Identifier">
+umich-bhl-86689</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+George Lockley papers, 1861-1866 [microform] 
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-06-30</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+George Lockley papers, 1861-1866 [microform]</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Lockley, George, b. 1836.
+</persname>
+</origination>
+<unittitle encodinganalog="245">
+George Lockley papers [microform] 
+<unitdate type="inclusive" encodinganalog="245$f">
+1861-1866
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 microfilm reel
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86689 mf 301c
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Mr. and Mrs. Russell F. Donker (donor no. <num type="donor" encodinganalog="541$e">5862</num>).</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research; for reasons of preservation; no access is permitted to the originals.</p></accessrestrict>
+
+<originalsloc><p>Originals of this collection are also available at the Bentley Historical Library.</p></originalsloc><userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+George Lockley papers [microfilm], Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>George Lockley was a resident of Ann Arbor, Michigan. During the Civil War, he served as a colonel in the 1st Michigan Infantry.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Lockley papers include diaries, transcriptions of diaries, maps of battles in which he participated, including the first and second battles of Bull Run, Antietam, Fredericksburg, Chancellorsville and Gettysburg. Also included is a copy of a report by Lt. Colonel Benjamin D. Pritchard on the capture of Jefferson Davis and other Confederate leaders by the 4th Michigan Cavalry. There are also a few photographs and miscellaneous materials from his wartime service.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+
+<subject source="lcsh" encodinganalog="650">Antietam, Battle of, Md., 1862.</subject>
+<subject source="lcsh" encodinganalog="650">Bull Run, 1st Battle of, Va., 1861.</subject>
+<subject source="lcsh" encodinganalog="650">Bull Run, 2nd Battle of, Va., 1862.</subject>
+<subject source="lcsh" encodinganalog="650">Chancellorsville, Battle of, Chancellorsville, Va., 1863.</subject>
+<persname source="lcnaf" encodinganalog="600">Davis, Jefferson, 1808-1889.</persname>
+<subject source="lcsh" encodinganalog="650">Fredericksburg, Battle of, Fredericksburg, Va., 1862.</subject>
+<subject source="lcsh" encodinganalog="650">Gettysburg, Battle of, Gettysburg, Pa., 1863.</subject>
+<persname source="lcnaf" encodinganalog="600">Lockley, George, b. 1836.</persname>
+<persname source="lcnaf" encodinganalog="600">Pritchard, Benjamin Dudley, 1835-1907.</persname>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Cavalry Regiment, 4th (1862-1865)</corpname>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Infantry Regiment, 1st (1861-1865)</corpname>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Infantry Regiment, 1st (1861). Company B.</corpname>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<persname source="lcnaf" encodinganalog="600">Lockley, Amelia.</persname>
+<persname source="lcnaf" encodinganalog="600">Lockley, George, b. 1836.</persname>
+<subject source="lctgm" encodinganalog="650">Military uniforms.</subject>
+<subject source="lctgm" encodinganalog="650">Soldiers--American.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Infantry Regiment, 1st (1861-1865)</corpname>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle><genreform normal="Diaries">Diaries</genreform></unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">April 1861-August 1863</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">September-December 1862</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">1863</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">May-October 1863</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">October 1863-February 1864</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">March-October 1864</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">October 1864-May 1865</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">June 1865-January 1866</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Diary transcripts</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other materials</unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Civil War Diary of George Lockley (galleys of book)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Maps of Civil War battles in which George Lockley participated</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Account (copy) by Lt. Colonel Benjamin D. Pritchard on the capture of Jefferson Davis and other Confederate leaders by the 4th Michigan Cavalry </unittitle> <physdesc><extent>11 pp.</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Civil War miscellanea, including key to diary code</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><genreform normal="Photographs">Photographs</genreform>: portraits of Lockley in uniform; also portraits of his wife, Amelia Lockley, and of other soldiers; and copy prints of Civil War documents.</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

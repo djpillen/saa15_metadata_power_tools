@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../../EAD/Master/ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::lgbates.xml//EN" encodinganalog="Identifier">
+umich-bhl-85151</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+L.G. Bates General Store (Elsie, Mich.) records, 1857-1920
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>June 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2015-04-02</date><item>Corrected number of volumes in container list.</item></change><change><date>2007-06-05</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+L.G. Bates General Store (Elsie, Mich.) records, 1857-1920</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+L.G. Bates General Store (Elsie, Mich.)
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+L.G. Bates General Store (Elsie, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1857-1920
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet and 5 oversize volumes
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85151 Bb.2/2; BB.2 Outsize
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Clinton County, Michigan, general store. Business financial records, family correspondence and history, diaries, photograph album of the Sickels-Bates family, and miscellanea.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records came from two family members: Mrs. Ellsworth Haynes (donor no. <num type="donor" encodinganalog="541$e">5428</num>) in 1973 and Mrs. B.L. Bates (donor no. <num type="donor" encodinganalog="541$e">5691</num>) in 1975.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>LaMott George Bates was born at Richfield, Summit Co., Ohio, October 13, 1847. About 1852, he moved with his parent to Oberlin, Ohio; then in 1855, the family moved to a plot of land in Fairfield Township in Shiawassee County, about three miles northeast of what became the village of Elsie. Bates returned for a time to Richfield staying with an aunt, and there learned the harness trade.  Around 1867, he returned to Elsie, where he joined his father in a harness shop operation. In 1872, L. G. Bates joined with J. F. Hasty, who owned a cooperage, and together they opened a mercantile business. In 1873, Bates married Hannah Amanda Sickels also of Elsie, Michigan. In 1877, having left the partnership with Hasty some years before, Bates accepted Hasty's offer to renew the partnership. Bates accepted, then a year later, bought Hasty's interest in the store, renaming it under his own name, L. G. Bates.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The record group consists of financial records detailing the operation of the L. G. Bates General Store and its predecessor firm, J. F. Hasty and Co. As the dates of some of the records precede the opening of the Hasty store, it is possible that some of the accounts and ledgers are of a Sickel family member. In addition, the collection includes family correspondence, diaries and notebooks probably of Bates, family history and genealogy, photographs, and printed material.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Bates, LaMott G., b. 1847.</persname>
+<famname source="lcnaf" encodinganalog="600">Bates family.</famname>
+<geogname source="lcsh" encodinganalog="651">Clinton County (Mich.).</geogname>
+<subject source="lcsh" encodinganalog="650">General stores--Michigan--Elsie.</subject>
+<famname source="lcnaf" encodinganalog="600">Sickels family.</famname>
+<geogname source="local" encodinganalog="691">Elsie (Mich.)--Businesses.</geogname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<famname source="lcnaf" encodinganalog="600">Bates family.</famname>
+<subject source="lctgm" encodinganalog="650">Children.</subject>
+<subject source="lctgm" encodinganalog="650">Dentistry--Michigan--Elsie.</subject>
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Elsie.</subject>
+<geogname source="lcsh" encodinganalog="651">Elsie (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Interiors--Dentist office.</corpname>
+<subject source="lctgm" encodinganalog="650">Interiors--Michigan--Elsie.</subject>
+<subject source="lctgm" encodinganalog="650">Railroad accidents.</subject>
+<famname source="lcnaf" encodinganalog="600">Sickels family.</famname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing.</corpname>
+<subject source="lcsh" encodinganalog="650">Veterans--Michigan--Elsie.</subject>
+<subject source="lctgm" encodinganalog="650">Women.</subject>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="gmgpc" encodinganalog="655">Albums.</genreform>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="lctgm" encodinganalog="655">Tintypes.</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Business records</unittitle></did>
+<c02 level="file"><did><unittitle>Account books, <unitdate type="inclusive">1870-1890</unitdate></unittitle></did>
+
+<c03 level="file"><did><container type="volume" label="Oversize Volume">1</container><unittitle> <unitdate type="inclusive">1870-1883</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="volume" label="Oversize Volume">2</container><unittitle><unitdate type="inclusive">1885-1889</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="volume" label="Oversize Volume">3</container><unittitle><unitdate type="inclusive">1889-1890</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1872-1873</unitdate></unittitle></did></c03></c02>
+
+
+<c02 level="file"><did><unittitle>Ledgers, <unitdate type="inclusive">1872-1920</unitdate></unittitle></did>
+<c03 level="file"><did><container type="volume" label="Oversize Volume">4</container><unittitle><unitdate type="inclusive">1898-1906</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="volume" label="Oversize Volume">5</container><unittitle> <unitdate type="inclusive">1914-1920</unitdate></unittitle></did></c03>
+
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ledger, <unitdate type="inclusive">1872-1878</unitdate></unittitle></did></c03></c02>
+
+<c02 level="file"><did><unittitle>Daybooks, <unitdate type="inclusive">1872-1889</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1872-1875</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1875-1882</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1887-1889</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Cash Summary, <unitdate type="inclusive">1885-1887</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Invoice book, <unitdate type="inclusive">1884-1887</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Business receipts and correspondence </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Family materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sickels-Bates Family <genreform normal="Albums">photograph album</genreform></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous <genreform normal="Photographs">photographs</genreform></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Diaaries">Diaries</genreform>, <unitdate type="inclusive">1900-1901</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>6 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Account book (probable Sickel family), <unitdate type="inclusive">ca. 1857-1858</unitdate> </unittitle></did> <note><p>(the volume was also used as a scrapbook of miscellaneous general interest clippings)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Account book (probable Sickel family), <unitdate type="inclusive">1864-1865</unitdate> </unittitle></did> <note><p>(the volume was also used as a scrapbook for political party tickets)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Family history (with <genreform normal="Photographs">photographs</genreform>) by Bates family member </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Bates Family history and genealogy</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Reminiscences by Bion Bates</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Marie Bates correspondence </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Dede Sickels Rankin scrapbook miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>L.G. Bates and family correspondence </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>L.G. Bates and family miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>L.G. Bates and family news clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Elsie, Mich. printed material</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

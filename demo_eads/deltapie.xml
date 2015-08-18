@@ -1,0 +1,288 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::deltapie.xml//EN" encodinganalog="Identifier">
+umich-bhl-9981</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Delta Pi Epsilon. Kappa Chapter (University of Michigan) records, 1946-1998
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Jessica Tam </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-11-26</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding aid for<lb />
+Delta Pi Epsilon, Kappa Chapter (University of Michigan) records, 1946-1998</titleproper>
+      <author>Finding aid created by<lb /> 
+Jessica Tam, 1999</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <corpname source="lcnaf" encodinganalog="110">
+Delta Pi Epsilon. Kappa Chapter (University of Michigan).
+</corpname>
+      </origination>
+      <unittitle encodinganalog="245">
+Delta Pi Epsilon, Kappa Chapter (University of Michigan) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1946-1998
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+1.5 linear ft. and 1 oversize volume
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9981 Bimu 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Kappa Chapter of Delta Pi Epsilon established in 1946, part of national business education honor graduate society. Kappa Chapter dissolved in 1999. Minutes, membership material, financial records, and scrapbooks.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload" />
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The record group was donated by the Kappa Chapter of Delta Pi Epsilon in June 1999, (Donor no. <num type="donor" encodinganalog="541$e">8838</num>).</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The record group is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Delta Pi Epsilon, Kappa Chapter (University of Michigan) records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>On July 23, 1946, the Kappa chapter of Delta Pi Epsilon, a national business education honor graduate society, was installed at the University of Michigan.  Delta Pi Epsilon encouraged members to further professional development in their field, through research, leadership, and service.  These goals were pursued by actively encouraging research, developing leadership responsibilities, promoting service to the community, and improving relations between business schools and businesses.  With the assistance and guidance of their sponsor and mentor, Professor John M. Trytten, head of the Business Education department, the Kappa chapter at the University of Michigan pursued these objectives.</p>
+      <p>The chapter initially met monthly to discuss both problems and discoveries in the business education field.  This allowed them to plan projects and programs that incorporated new innovations.  At conferences, leadership retreats, and lectures, they explained their work and demonstrated their findings for other educators to incorporate in their teachings.  In their own community, members gave lectures and promoted research and service by awarding scholarships in the business education field.</p>
+      <p>As business education at the University Michigan changed, the chapter moved to at-large status in 1981.  By the late 1990s, membership had dropped off considerably.  With the lack of interest and aging members, Kappa Chapter of Delta Pi Epsilon dissolved in May 1999.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The records of the Kappa Chapter of the Delta Pi Epsilon society have been divided into series of Administrative, Correspondence, Initiation and Membership, Audio Materials, and Photographs and Scrapbooks.  </p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload" />
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">Delta Pi Epsilon. Kappa Chapter (University of Michigan)</corpname>
+        <subject source="lcsh" encodinganalog="650">Greek letter societies--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650">Business education.</subject>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Honorary societies.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. School of Business Administration.</corpname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Administrative</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Administrative series contains meeting minutes of the Kappa chapter and the Inter-chapter council meetings, financial records, research foundation recognition awards, and information on the John and Frances Trytten Fund.  These records detail the operation of the chapter, from the gathering of dues, to the research sponsored and pursued for scholarship.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Meeting Minutes, <unitdate type="inclusive">1950-1991</unitdate></unittitle>
+            <physdesc>
+              <extent>2 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Monthly Reports, <unitdate type="inclusive">1952-1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Inter-chapter Council Meetings, <unitdate type="inclusive">1968</unitdate>, <unitdate type="inclusive">1970</unitdate>, <unitdate type="inclusive">1976</unitdate>, <unitdate type="inclusive">1980</unitdate>, <unitdate type="inclusive">1984-1985</unitdate>, <unitdate type="inclusive">1989-1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Financial</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Budgets and Reports, <unitdate type="inclusive">1954</unitdate>, <unitdate type="inclusive">1956-1979</unitdate>, <unitdate type="inclusive">1985-1986</unitdate>, <unitdate type="inclusive">1991-1992</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Household Records</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1</container>
+                <unittitle>Membership and Initiation fees, and Delta Pi Epsilon Foundation contributions, <unitdate type="inclusive">1981-1991</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1</container>
+                <unittitle>Cash Receipts and Disbursements, <unitdate type="inclusive">1957-1980</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Research Foundation Certificates of Recognition, <unitdate type="inclusive">1994-1995</unitdate>, <unitdate type="inclusive">1997-1998</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>John and Frances Trytten Fund, <unitdate type="inclusive">1977-1992</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <scopecontent>
+          <p>Correspondence spans from 1946 to 1998, covering the entire scope of the Kappa Chapter.  It details the communication between members, discussing chapter business and exchanging ideas.  </p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">1946-1992</unitdate>, <unitdate type="inclusive">1998</unitdate></unittitle>
+            <physdesc>
+              <extent>8 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Initiation and Membership</unittitle>
+        </did>
+        <scopecontent>
+          <p>Initiation and Membership records are comprised of correspondence and information for/from members.  They include membership update information, initiation records, and correspondence regarding membership and initiation.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Initiation and Membership fee payments, <unitdate type="inclusive">1962</unitdate>, <unitdate type="inclusive">1990-1994</unitdate>, <unitdate type="inclusive">1997-1998</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Initiation Correspondence, <unitdate type="inclusive">1961</unitdate>, <unitdate type="inclusive">1967</unitdate>, <unitdate type="inclusive">1985-1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Membership Forms</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Membership Update Information, C.1955 <unitdate type="inclusive">1967</unitdate>, <unitdate type="inclusive">1971</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Audio Materials</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Audio Materials file consists of two audio tapes.  They are from the 35th anniversary celebration of the Kappa Chapter in 1981.  </p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Audio Recordings from 35th Anniversary Celebration, <unitdate type="inclusive">1981</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Photographs and Scrapbooks</unittitle>
+        </did>
+        <scopecontent>
+          <p>Photographs and Scrapbooks span from 1946 to 1986.  It is composed of materials that detail the history of Kappa Chapter with photographs and other mementos saved by chapter members throughout the years.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Photographs from convention in Mt. Pleasant, <unitdate type="inclusive">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>35th Anniversary Celebration scrapbook, <unitdate type="inclusive">1981</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Scrapbook, <unitdate type="inclusive">1946-1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">1</container>
+            <unittitle>Historian's Scrapbook, <unitdate type="inclusive">1946-1952</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

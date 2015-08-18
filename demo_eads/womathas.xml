@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::womathas.xml//EN" encodinganalog="Identifier">
+umich-bhl-87263</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Women's Athletic Association (University of Michigan) records, 1905-1962
+</titleproper>
+
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Library Staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2006-08-14</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-08-14</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Women's Athletic Association <lb/>(University of Michigan) <lb/>Records, 1905-1962
+
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Library Staff
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Women's Athletic Association.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Women's Athletic Association (University of Michigan) records, 
+
+<unitdate type="inclusive" encodinganalog="245$f">
+1905-1962
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+6 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+87263 Bimu F81 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Records, 1905-1962, of the Women's Athletic Association of the University of Michigan.  Include constitution, minutes, reports, and other materials; also record books detailing administration of Michigras and Spring Weekend, social and fund-raising activities jointly sponsored with the Michigan Union.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were received from donors numbers <num type="donor" encodinganalog="541$e">962</num>
+ and <num type="donor" encodinganalog="541$e">5252</num>.
+
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506">
+<p>The record group is open without restriction.</p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Women's Athletic Association (University of Michigan) Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Women's Athletic Association ("W.A.A.") was organized in 1905 to promote the participation of women students in athletic activities and to foster a comprehensive recreational program for women at the University of Michigan.  Basketball, baseball and tennis were the first sports organized.  By 1908, when the W.A.A. handbook was printed, a much wider range of activities was available to women.  Through the years, the association has worked to procure adequate facilities for women's sports.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The records contain the original constitution and those of 1953 and 1959, officers reports (1955-1961), executive committee record books (1905-1929), record books (1917-1960), lists of officers, and annual reports of activities.  Newsletters, scrapbooks, and photograph detail the activities of the W.A.A., including those of the Michigras Committee and the Spring Weekend Committee.</p>
+
+<p>Researchers interested in the Women's Athletic Association should also consult the records of the Department of Physical Education for Women, which include a history of the Women's Athletic Association.</p>
+
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Michigan Union.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Sports.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Michigras Committee.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Spring Weekend Committee.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1901-1910.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1911-1920.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1921-1930.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1931-1940.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1941-1950.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1951-1960.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Women's Athletic Association.</corpname>
+<subject source="lcsh" encodinganalog="650">Women college students--Michigan--Ann Arbor.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visul Material:</head>
+<persname source="lcnaf" encodinganalog="600">Bell, Margaret, 1888-1969.</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Sports.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Basketball.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Physical Education for Women.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Fencing.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Field Hockey.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Shooting.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1921-1930.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Swimming.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Track and field.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Women's Athletic Association.</corpname>
+<subject source="lctgm" encodinganalog="650">Dance--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Women college students--Michigan--Ann Arbor.</subject>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Record Books</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Executive Committee, <unitdate type="inclusive">1905-1929</unitdate> </unittitle> <physdesc><extent>3 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>General Record Books </unittitle></did> <note><p>(contain reports, publications, scattered correspondence, and miscellanea)</p></note>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1917-1932</unitdate> </unittitle> <physdesc><extent>4 volumes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1932-1946</unitdate> </unittitle> <physdesc><extent>6 volumes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1946-1960</unitdate> </unittitle> <physdesc><extent>7 volumes</extent></physdesc></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Records (unbound)</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Officers' Reports, <unitdate type="inclusive">1955-1961</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Minutes, <unitdate type="inclusive">April 1959-March 1961</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Constitutions, <unitdate type="inclusive">1953</unitdate> and <unitdate type="inclusive">1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Michigras Meeting Minutes, <unitdate type="inclusive">1946-1947</unitdate> and <unitdate type="inclusive">1960</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Lantern Night Reports, <unitdate type="inclusive">1960-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Spring Weekend, <unitdate type="inclusive">1949</unitdate>, <unitdate type="inclusive">1951-1953</unitdate>, <unitdate type="inclusive">1961</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Draft article on History of W.A.A. Activities at University of Michigan</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Sports Day, <unitdate type="inclusive">1942-1955</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Sports Reports, <unitdate type="inclusive">1960</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>American Federation of Michigan College Women, <unitdate type="inclusive">1947-1949</unitdate>, <unitdate type="inclusive">1956</unitdate>, <unitdate type="inclusive">1959</unitdate>, <unitdate type="inclusive">1960</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Topical Files </unittitle></did> <note><p>(unprocessed)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Special Event Record Books</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Spring Weekend, <unitdate type="inclusive">1955</unitdate> and <unitdate type="inclusive">1957</unitdate> </unittitle> <physdesc><extent>3 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Michigras</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">1947-1948</unitdate> </unittitle> <physdesc><extent>2 volumes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1950</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1952</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1954</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1956</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1958</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1960</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Athletic Federation of College Women 13th National Convention held in Ann Arbor, <unitdate type="inclusive">1951</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Scrapbooks and Photographs</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle>Scrapbooks and photographs</unittitle></did></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

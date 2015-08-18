@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::andersonsu.xml//EN" encodinganalog="Identifier">
+umich-bhl-2014152</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Susan Anderson papers, 1874-1955 
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Elena Colón-Marrero </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2014">
+2014</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2014</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2014-11-13</date><item>Original encoding from Word 2010 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Susan Anderson Papers, 1874-1955</titleproper>
+
+<author>Finding aid created by<lb/> 
+Elena Colón-Marrero, in November, 2014</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+ 
+<persname source="lcnaf" encodinganalog="100">
+Anderson, Susan, 1870-1960 </persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Susan Anderson papers  
+<unitdate type="inclusive" encodinganalog="245$f">
+1874-1955
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet 
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2014152 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Graduate of the University of Michigan Medical School (attended from 1893 to 1897) and country physician in the Colorado Rockies from 1898 to 1960.  Papers include correspondence from Dr. Anderson's family and friends, her medical licenses, pharmaceutical advertisements, ephemera from the University of Michigan, and family photographs.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Donated by William C. Brady, Jr. (donor no. <num type="donor" encodinganalog="541$e">11034</num>), in two accessions, December, 2013 and June, 2014. </p></acqinfo>
+ 
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Susan Anderson papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Dr. Susan Anderson was born on January 31, 1870 in Nevada Mills, Indiana.  In 1879 her parents William and Maria Anderson divorced and her father gained custody of Dr. Anderson and her younger brother John.  Growing up Dr. Anderson aspired to be a telegraph operator, but her father encouraged her to become a doctor, offering to pay her tuition.  In the 1880's the Andersons moved to Wichita, Kansas.  Dr. Anderson graduated from Wichita High School in 1891 at 21 years of age.  Shortly after graduation, Dr. Anderson's family moved to the gold mining town of Cripple Creek, Colorado, where her father prospered as a stock dealer.  In 1893 Dr. Anderson left Cripple Creek to attend the medical school at the University of Michigan.  While attending the university relations with her father became strained and he stopped funding her education.  To remain enrolled Dr. Anderson borrowed money from a wealthy classmate and worked night duty at the Catharine Street Hospital where she believed she contracted tuberculosis.</p>
+
+<p>Dr. Anderson graduated from the University of Michigan in 1897 and returned home to Cripple Creek where she established her first practice.  At first she treated mostly women, until she was able to save a boy's arm after being told by other physicians that it should be amputated.  Dr. Anderson's reputation spread, but in 1900 her fiancé left her at the altar and her younger brother, John Anderson, died of pneumonia.  The death of her brother and the end of her engagement caused Dr. Anderson to leave Cripple Creek for good. In 1901, she settled in Denver to establish a new practice, but the abundance of doctors left Dr. Anderson with no patients of her own.  Dismayed she left for Greeley, Colorado where she became a nurse.  After six years in Greeley, Susan's tuberculosis reemerged and forced her to leave for a colder climate.  </p>
+
+<p>In 1907 Dr. Anderson settled in Fraser, Colorado, but did not treat her first patient, a wounded horse named Dave, until a year later.  Her success treating Dave kick started her medical practice in Fraser. Many of her patients were poor and paid Dr. Anderson with food and supplies.  When the Moffat Tunnel, a railroad and water tunnel meant to cut through the Continental Divide, was under construction Dr. Anderson was made Grand County Coroner, allowing her to gain a steady income. She played an active role treating patients during the great influenza epidemic of 1918, and setting broken bones of skiers at the Winter Park ski resort.  Dr. Susan Anderson passed away on April 16, 1960 and was buried in Cripple Creek, Colorado.</p>
+
+
+<p>-----------------</p>
+<p>Biographical information from:  <list type="simple">
+<item>Cornell, Virginia. <title render="italic">Doc Susie: The True Story of a Country Physician in the Colorado Rockies</title>. Carpinteria, Ca: Manifest Publications, 1991;</item>
+
+<item>"Susan 'Doc Susie' Anderson,"<title render="italic"> Colorado Women's Hall of Fame</title>, last modified December 17, 2013, http://www.cogreatwomen.org/index.php/item/104-susan-anderson.)
+</item>
+</list></p>
+</bioghist>
+
+<arrangement encodinganalog="351">
+<p>
+The collection is arranged into four series: Correspondence, Professional Materials, Personal Materials, and Photographs.</p>
+</arrangement>
+
+<scopecontent encodinganalog="520">
+<p>The Susan Anderson papers cover Anderson's life from 1874 to 1955.  The collection includes correspondence from her family and patients, her medical licenses, pharmaceutical advertisements, ephemera from the University of Michigan, and family photographs.  </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Anderson, Susan, 1870-1960.</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Medical School--Alumni and alumnae.</corpname>
+<subject source="lcsh" encodinganalog="650">Women physicians--Colorado.</subject>
+
+</controlaccess>
+ 
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did><scopecontent><p>The Correspondence series (1890-1955, 1 linear foot) contains letters, postcards and greeting cards addressed to Anderson.  The materials are arranged in approximate chronological order.  Included are letters from her brother John Anderson, classmates from the University of Michigan, and a number of patients. The series also contains letters from various World War II soldiers that were patients of Dr. Anderson.  The WWII letters are from men enlisted in the Navy and the Army detailing life within the training camps of California and Illinois.  The letters also describe their first deployments to the South Pacific and Italy and their memories from Colorado. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1890-1955</unitdate> </unittitle> <physdesc><extent>8 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Professional Materials</unittitle></did><scopecontent><p>The Professional Materials series (1898-1951, 0.4 linear feet) contains materials relating to her medical practice. Included in the collection are several medical licenses, requests for coroner's reports, and prescriptions. Of interest are medical brochures from the first half of the 20th century detailing how to treat various ailments, such as influenza, drug advertisements, and detailed receipts of medications that she purchased, including those featured in the corresponding advertisements.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1898-1951</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Personal Materials</unittitle></did><scopecontent><p>The Personal Materials series (1879-1952, 0.5 linear feet) contains graduation programs from Wichita High School and the University of Michigan, notes and exam books from Anderson's university enrollment, and land deeds from Wichita and Comanche, Kansas from the 1880's and Fraser, Colorado in 1933.  Also included are a series of programs from the University Music Series, course listings from the University of Michigan Medical School, and a copy of William and Maria Anderson's divorce records.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1879-1952</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Photographs</unittitle></did><scopecontent><p>The Photograph series (1875-1950, 0.1 linear feet), contains photographs of Dr. Susan Anderson, her brother John, and other family and friends. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1875-1950</unitdate></unittitle></did></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

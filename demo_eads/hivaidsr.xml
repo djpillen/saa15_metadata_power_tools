@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::hivaidsr.xml//EN" encodinganalog="Identifier">
+umich-bhl-0655</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+HIV/AIDS Resource Center Records, 1986-2003
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+M. Ricah Marquez  </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+M. Ricah Marquez 
+<date>May 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-06-16</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+HIV/AIDS Resource Center Records, 1986-2003</titleproper>
+
+<author>Finding aid created by<lb/> 
+M. Ricah Marquez, May 2006</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+HIV/AIDS Resource Center.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+HIV/AIDS Resource Center Records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1986-2003
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0655 Bf 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Established in 1986 in Ann Arbor and Ypsilanti, Michigan as Wellness Networks, Inc.-Huron Valley, the organization provides HIV and AIDS related services and information. The name of the organization was changed to HIV/AIDS Resource Center in 1993. Board meeting minutes and agendas, correspondence and memoranda, activity files, newspaper articles, and related records.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was acquired from the organization (donor no. <num type="donor" encodinganalog="541$e">9721</num>) on April 25, 2006.
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open.  However, access to the records requires the researcher to sign an access agreement preserving confidentiality of names recorded in the files.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright retained by the Center.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+HIV/AIDS Resource Center Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The HIV/AIDS Resource Center (HARC) was established in 1986 under its original name, Wellness Networks, Inc. -- Huron Valley (WNI-HV).  The organization started in response to the growing threat of the HIV/AIDS epidemic in the local metro-Detroit region.  In 1993, they changed their name to HARC to prevent confusion with other local non-profit organizations.  Despite the name change, the HARC has consistently served the local metro-Detroit area by promoting positive health practices and lifestyles, by providing information about HIV/AIDS, and by providing direct care services to the local community.  HARC is still an active organization and more information can be found on their website: http://comnet.org/harc/index.html.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The record group is split into two series: The Wellness Networks, Inc. -- Huron Valley series and the HIV/AIDS Resource Center (HARC).  The first series consists of records such as meeting minutes, bylaws, press releases, and financial statements, and they document the establishment and the early period of the organization.  The second series consist of board meeting minutes, outreach activity plans, speakers' schedules, and committee activities.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">HIV/AIDS Resource Center.</corpname>
+<subject source="lcsh" encodinganalog="650">AIDS (Disease)--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">HIV infections--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Wellness Networks-Huron Valley.</corpname>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Ypsilanti (Mich.)</geogname>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Wellness Networks, Inc. -- Huron Valley</unittitle></did><scopecontent><p>The Wellness Networks, Inc. -- Huron Valley series (1986-1993) include papers documenting the establishment and the early years of the organization.  Details of the group's activities can be found in the Board Meeting Minutes folders.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Board Meeting Agendas, <unitdate type="inclusive">1987-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Board Meeting Minutes, <unitdate type="inclusive">1986-1993</unitdate> </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bylaws and Proposals, <unitdate type="inclusive">1986-1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bylaws, <unitdate type="inclusive">1989-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Charitable Trust Application, <unitdate type="inclusive">1987-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Communications, Agenda Columns, <unitdate type="inclusive">1987-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Communications, Press Releases, <unitdate type="inclusive">1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Committee Descriptions, <unitdate type="inclusive">1986-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1986-1989</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Statements, <unitdate type="inclusive">1986-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fundraising, Bach Benefit, <unitdate type="inclusive">1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fundraising, Letters, <unitdate type="inclusive">1987-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Information Updates, <unitdate type="inclusive">1986-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Washtenaw AIDS Education Network (WAEN) meetings, <unitdate type="inclusive">1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Wellness Consultant, <unitdate type="inclusive">1990</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>HIV/AIDS Resource Center (HARC)</unittitle></did><scopecontent><p>The HIV/AIDS Resource Center (HARC) series (1993-2000) consists of records documenting the organization's activities in the metro-Detroit area.  Accounts of their activities are recorded in the organization's Board Meeting Minutes folders.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Advertising, <unitdate type="inclusive">1999</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>AIDS Walk</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Disks, <unitdate type="inclusive">1988</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Planning, <unitdate type="inclusive">1996-1998</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Programs, <unitdate type="inclusive">1996-1997</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Publicity, <unitdate type="inclusive">1996-1998</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Board Committee Projects, <unitdate type="inclusive">1994-1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Board Meetings, <unitdate type="inclusive">1993-1995</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Board Meetings, <unitdate type="inclusive">1996-2000</unitdate> </unittitle> <physdesc><extent>11 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Board Members Biography, <unitdate type="inclusive">1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Church Affiliates, <unitdate type="inclusive">1989-1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Committees</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Education Committee, <unitdate type="inclusive">1997</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Fundraising Committee, <unitdate type="inclusive">1995-1996</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Personnel Committee, <unitdate type="inclusive">1997</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>General Information, Organizational Chart, <unitdate type="inclusive">2000</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Harm Reduction Plans, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Interoffice Memos, <unitdate type="inclusive">1993-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Interoffice Memos, <unitdate type="inclusive">1996-2000</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>HIV Testing, <unitdate type="inclusive">1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Newspaper Articles, <unitdate type="inclusive">1994-1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Speaker's Bureau, <unitdate type="inclusive">1994-1999</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Strategic and Project Plans, <unitdate type="inclusive">1999-2000</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

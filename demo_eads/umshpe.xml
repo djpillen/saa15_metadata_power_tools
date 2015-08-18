@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::umshpe.xml//EN" encodinganalog="Identifier">
+umich-bhl-2011144</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Society of Hispanic Professional Engineers (University of Michigan) records, 1990-1999
+
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Melissa Hernandez, November 2011</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2011">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2011</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2011-11-30</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Society of Hispanic Professional Engineers <lb/>(University of Michigan) <lb/>records, 1990-1999
+
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Melissa Hernandez, November 2011
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Society of Hispanic Professional Engineers. 
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Society of Hispanic Professional Engineers (University of Michigan) records
+<unitdate type="inclusive" encodinganalog="245$f">
+1990-1999
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1995-1997
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2011144 Bimu 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+University of Michigan organization with the aim of promoting educational and professional opportunities for Hispanic engineering and science students, as well as their graduation and recruitment. It operated under the Society of Minority Engineering Students organization on campus.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were received from the unit in 1997 (donor <num type="donor" encodinganalog="541$e">8639</num>). 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>Periodic additions to the records are expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The collection is open without restriction.</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Society of Hispanic Professional Engineers (University of Michigan) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Society of Hispanic Professional Engineers was a student chapter of the national professional organization of the same name. The national chapter had been established in 1974 in California. The local University of Michigan, Ann Arbor chapter was recognized in 1992 and operates as part of the Society of Minority Engineering Students organization on campus. </p>
+
+<p>The UM SHPE chapter's mission is to serve and empower the Hispanic engineering community; to promote academic excellence, professional and personal development, leadership, and service. They aspire to achieve this by "providing resources to assist them (UM Hispanic community) during their college career. Such resources include workshops and general body meetings, where various companies speak about career opportunities, provide resume and interviewing skills workshops, and provide students with a better understanding of what life could be like after graduation." </p>
+
+
+<p>The SHPE chapter goals are:<blockquote><list type="simple">
+<item>To achieve a sense of community among Hispanic engineering and applied sciences students at the University of Michigan and other SHPE student chapters.</item>
+<item>To unite and organize Latino Engineering students based on their various needs.</item>
+<item>To promote professional as well as cultural awareness by means of social and intellectual interaction.</item>
+<item>To seek out and recruit potential Hispanic engineering and applied students.</item>
+<item>To improve the retention of Hispanic engineering and applied sciences students at the University of Michigan.</item>
+<item>To assist University faculty and staff to learn about and appreciate Hispanic/ Latin American culture.</item>
+</list></blockquote></p>
+
+
+<p>The chapter's mission, goals and additional cited in formation was taken from the UM SHPE website: http://www.shpe.studentorgs.umich.edu/  (accessed November 2011).</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>SCOPE CONTENT</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject encodinganalog="650" source="lcsh">Minority College Students--Michigan--Ann Arbor.</subject><subject encodinganalog="650" source="lcsh">Students--Societies, etc.</subject><corpname encodinganalog="610" source="lcnaf">Society of Minority Engineers (University of Michigan)</corpname><corpname encodinganalog="610" source="lcnaf">University of Michigan. College of Engineering.</corpname>
+
+
+</controlaccess>
+
+
+
+
+
+
+
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Records</unittitle></did>
+<scopecontent><p>The Records series comprises official documentation produced by the Society of Hispanic Professional Engineers (SHPE) as part of their work as the University of Michigan chapter of this organization from 1991 to 1999, while the bulk of it is the product of the chapter's work from 1995 to 1997. The material includes the constitution of the organization, the SHPE student chapter handbook, meeting related documentation such as agendas and minutes, as well as information on members, officers and membership. It also contains documents concerning event planning and collaboration with other organizations. The series is arranged in alphabetical order.</p>
+
+
+
+
+
+
+</scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Calendar of Events, <unitdate type="inclusive">1996-1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Emails (printouts), <unitdate type="inclusive">1996-1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>End of the year report, <unitdate type="inclusive">1998-1999</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1996-1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>News clippings and photographs, <unitdate type="inclusive">1995-1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Officer and Member Information, <unitdate type="inclusive">1996-1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Programming Task Force (Multi-Ethnic Student Affairs), <unitdate type="inclusive">1996-1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>SHPE Performance Surveys, <unitdate type="inclusive">1996-1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>SHPE Student Chapter Handbook, <unitdate type="inclusive">1991-1992</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Publications</unittitle></did>
+<scopecontent>
+
+<p>The Publications series includes materials such as newsletters and brochures from 1990 to 1997.</p>
+
+
+
+
+</scopecontent><c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters and brochures, <unitdate type="inclusive">1990-1997</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Conference and Awards Materials</unittitle></did>
+<scopecontent>
+
+
+
+<p>The Conference and Awards series includes awards received by the organization or its officers and materials from SHPE national and Society of Minority Engineering Students local conferences attended from 1995 to 1997. The series is arranged in alphabetical order.</p>
+
+
+</scopecontent><c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Forums and workshops</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>SHPE Awards, <unitdate type="inclusive">1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>SHPE Conference, <unitdate type="inclusive">1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>SMES Conference and Banquet Materials, <unitdate type="inclusive">1996</unitdate>, <unitdate type="inclusive">1997</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Résumé books</unittitle></did>
+<scopecontent>
+
+<p>The Résumé books series contains sections of résumé books compiled by the Society of Minority Engineering Students at the University of Michigan for industry representatives to promote minority student employment.</p>
+</scopecontent><c02 level="file"><did><container type="box" label="Box">1</container><unittitle>SMES Résumé book, <unitdate type="inclusive">1990-1991</unitdate>, <unitdate type="inclusive">1995</unitdate></unittitle></did></c02></c01> 
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

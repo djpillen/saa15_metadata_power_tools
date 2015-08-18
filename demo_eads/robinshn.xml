@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"[]>
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::robinshn.xml//EN" encodinganalog="identifier">umich-bhl-85355</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Finding Aid for Hubert N. Robinson Papers <date>1948-1984</date></titleproper>
+        <author encodinganalog="creator">Collection processed and finding aid prepared by Chris Leonard</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="date">1984</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by Thomas E. Powers, <date>September 2001</date></creation>
+      <langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>20031010</date>
+        <item>Converted to EAD2002 using Word macro and Xmetal</item>
+      </change>
+      <change>
+        <date>2001-09-10</date>
+        <item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections <lb />Bentley Historical Library<lb />University of Michigan</publisher>
+      <titleproper>Finding Aid for <lb />Hubert N. Robinson Papers, <date type="inclusive">1948-1984</date></titleproper>
+      <author>Finding aid prepared by: <lb />Chris Leonard</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">Robinson, Hubert Nelson, 1909-</persname>
+      </origination>
+      <unittitle encodinganalog="245">Hubert N. Robinson Papers
+<unitdate type="inclusive" encodinganalog="245$f">1948-1984</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">1 linear ft., 2 oversize volumes, and 1 oversize folder</extent>
+      </physdesc>
+      <abstract>Bishop of the African Methodist Episcopal Church. Scattered correspondence, and clippings detailing his career, church programs and printed material; also photographs.</abstract>
+      <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">85355;AC;Aa 2;UAm</unitid>
+      <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+      <repository encodinganalog="852">
+        <corpname>
+          <subarea>Bentley Historical Library</subarea> University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload" />
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>The collection is the gift of Bishop Robinson and was given through Rev. Kenneth Hill (Donor No. <num type="donor" encodinganalog="541$e">7123</num>).</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>The collection is open for research.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>Copyright has been transferred to the Regents of the University of Michigan.</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>item, folder title, box no., Hubert N. Robinson Papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Bishop Hubert N. Robinson was born in Urbana, Ohio in 1909. He received his A.B. from the Ohio State University and his B.D. from Hamma Divinity School at Wittenberg College. Robinson joined the Ohio Conference of the African Methodist Episcopal Church in 1930 and became an elder in 1934. His first pastorate was at Bellaire, Ohio and was followed by service at Cincinnati, Steubenville, and Columbus, Ohio; and Pittsburgh, Pennsylvania. From 1948 to 1955 Robinson led the St. James A.M.E. Church in Cleveland, Ohio. In 1955, he was reassigned to Ebenezer in Detroit, Michigan.</p>
+      <p>Upon his appointment as a bishop in 1964, Robinson was assigned to the Eighteenth District in Africa, consisting of Lesotho, Swaziland, Botswana, and Mozambique. Transferred back to the United States in 1968, he served in Alabama, Florida, and the Bahamas.</p>
+      <p>In 1976, he was appointed presiding bishop of the Fourth District. The district includes the Canadian, Chicago, Illinois, Indiana, and Michigan Annual Conferences. Since taking over the Fourth District, Bishop Robinson has received many honors. He has served as president of both the A.M.E. Council of Bishops and General Board and as chairman of the General Conference Commission. In 1979, Ebony named Bishop Robinson one of the 100 outstanding Blacks in America.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The papers of Bishop Hubert N. Robinson are divided into six series: biographical, correspondence, clippings and scrapbooks, programs, A.M.E. printed material, and photographs.</p>
+    </scopecontent>
+    <controlaccess>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">African Methodist Episcopal Church.</corpname>
+        <subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">Clergy--United States.</subject>
+        <persname source="lcnaf">Robinson, Hubert Nelson, 1909-</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Material:</head>
+        <corpname source="lcnaf" encodinganalog="610">African Methodist Episcopal Church.</corpname>
+        <subject source="lcsh" encodinganalog="650">African Americans--Spiritual life.</subject>
+        <subject source="lctgm" encodinganalog="650">Clergymen.</subject>
+        <subject source="lctgm" encodinganalog="650">Graduation ceremonies.</subject>
+        <subject source="lctgm" encodinganalog="650">Religious services.</subject>
+        <persname source="lcnaf">Robinson, Hubert Nelson, 1909-</persname>
+        <geogname source="lcsh" encodinganalog="651">South Africa.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre/Form:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Biographical</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Biographical series includes a printed biographical profile and awards from various civic organizations and municipalities.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Various information</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <scopecontent>
+          <p>Correspondence covers the period from 1950 to 1984 and is contained in one folder. It includes personal letters from friends and parishioners as well as official correspondence with other organizations.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">1950-1984</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Clippings and Scrapbook</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>Clippings, <unitdate type="inclusive">1950-1984</unitdate></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1950-1959</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1960-1969</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1970-1979</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1980-1984</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Scrapbooks</unittitle>
+          </did>
+          <scopecontent>
+            <p>The Ccrapbooks series consists of 2 volumes of clippings and miscellaneous material from Robinson's years as pastor of St. James in Cleveland.</p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <container type="volume" label="Oversize Volume">1</container>
+              <unittitle>
+                <unitdate type="inclusive">1948-1953</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="volume" label="Oversize Volume">2</container>
+              <unittitle>
+                <unitdate type="inclusive">1953-1955</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box" label="Box">1</container>
+          <unittitle>Programs</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">1950-1984</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>A.M.E. Printed Material and Miscellanea</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Quality of life centers, 4th Episcopal District, <unitdate type="inclusive">1976-1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Report of the ad hoc committee for corrections and/or codifications of the 1980-1984  A.M.E. Discipline, Bishop Hubert N. Robinson, chairman</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Michigan: contains booklets on, <unitdate type="inclusive">1982</unitdate> creative arts festival, Camp Baber, and <unitdate type="inclusive">1963</unitdate> North Ohio Conference</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>National</unittitle>
+          </did>
+          <note>
+            <p>(contains several booklets on the history and philosophy of the A.M.E. Church)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Swaziland and Bechuanaland: Minutes and notes</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>
+            <genreform source="aat" normal="Photographs">Photographs</genreform>
+          </unittitle>
+        </did>
+        <scopecontent>
+          <p>Portraits; photos of Robinson and his family at farewell reception prior to trip to South Africa; photos of church services and ceremonies, and of honorary degree ceremonies for Robinson; and group photos of bishops of the A.M.E. Church.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Portrait; preaching in church; receiving honorary degree</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Family and friends</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <physloc>UAm</physloc>
+            <unittitle>Bishops of A.M.E. Church, <unitdate type="inclusive">1980-1984</unitdate>, <unitdate type="inclusive">August 1984</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::regentag.xml//EN" encodinganalog="identifier">
+umich-bhl-0582</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Board of Regents (University of Michigan)agendas
+
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+University Archives Staff, June 2005 </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+June 2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney 
+<date>June 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20150323</date><item>Added Box 32.</item></change><change><date>20050713</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Board of Regents<lb/> (University of Michigan)<lb/>Agendas, 1996-(ongoing}
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+University Archives Staff, June 2005.    Last update: March 2015.
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Board of Regents.
+</corpname></origination>
+
+
+<unittitle encodinganalog="245">
+Board of Regents (University of Michigan) agendas
+<unitdate type="inclusive" encodinganalog="245$f">
+1996-(ongoing}
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+32 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+0582 Bimu B2 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The Board of Regents is the governing body of the University of Michigan.  The records include agendas for the Regents meetings, with included exhibits, and reports on university finances, promotions, and degree confirmations.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Agenda books are received immediately following each meeting of the Board of Regents (Donor no. <num type="donor" encodinganalog="541$e">5932</num>).  
+
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open without restriction.</p>
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Board of Regents (University of Michigan)agendas, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>See the finding aid for Board of Regents (University of Michigan), Records for a historical note on the Board of Regents. </p>
+
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>Since 1996 the archives has been receiving agenda books immediately following each meeting of the Board of Regents.  These agendas are published volumes which serve as a public record of the meetings.  They contain detailed agendas for each meeting as well as some exhibits from the meetings and reports on university finances, promotions, and degree confirmations.  Those agenda books comprise this collection.</p>
+<p>These records include various items: Regents communications, reports, recommendations, and other documents presented to the Regents for consideration at their meetings.  They form the most complete record of the Regents' actions.  As the official governing body of the university, the Regents deal with virtually every aspect of university policy and life.  The records of the Regents reflect this broad range of interests and authority.  But while the documentation is wide-ranging, it is not continuous.  Certain types of records are continually before the Regents, particularly information regarding salaries, leaves of absence, appointments to faculty positions, and formal approval of degrees conferred upon students.  More often, however, the Regents are presented with a specific problem and asked to resolve it through the creation of policy.  After the creation and successful implementation of a policy, the situation which caused the issue to arise is usually no longer a matter of Regental concern.  The Regents' records reflect this pattern of action.  Issues arise, are resolved, and then are supplanted by new concerns.</p>
+<p>The Proceedings of the Board of Regents (1837- ) are accessible online at the following URL:  &lt; http://www.hti.umich.edu/u/umregproc/ &gt;
+</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname encodinganalog="610" source="lcnaf">University of Michigan. Board of Regents.</corpname>
+<corpname encodinganalog="610" source="lcnaf">University of Michigan--Administration</corpname>
+
+</controlaccess></controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Regents Agendas</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">March 1996-July 1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">September 1996-March 1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">April 1997-July 1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">August 1997-March 1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">April 1998-September 1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">October 1998-April 1999</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">7</container><unittitle><unitdate type="inclusive">May 1999-October 1999</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">8</container><unittitle><unitdate type="inclusive">November 1999-May 2000</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">9</container><unittitle><unitdate type="inclusive">June 2000-November 2000</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">10</container><unittitle><unitdate type="inclusive">December 2000</unitdate>   –  <unitdate type="inclusive">July 2001</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">11</container><unittitle><unitdate type="inclusive">September 2001</unitdate>   –  <unitdate type="inclusive">March 2002</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">12</container><unittitle><unitdate type="inclusive">April 2002</unitdate>   –  <unitdate type="inclusive">September 2002</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">13</container><unittitle><unitdate type="inclusive">September 2002-April 2003</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">14</container><unittitle><unitdate type="inclusive">May 2003-November 2003</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">15</container><unittitle><unitdate type="inclusive">December 2003-July 2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">16</container><unittitle><unitdate type="inclusive">October 2004-April 2005</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">17</container><unittitle><unitdate type="inclusive">May 2005-September 2005</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">18</container><unittitle><unitdate type="inclusive">October 2005-March 2006</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">19</container><unittitle><unitdate type="inclusive">April 2006-September 2006</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">20</container><unittitle><unitdate type="inclusive">October 2006-April 2007</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">21</container><unittitle><unitdate type="inclusive">May 2007-September 2007</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">22</container><unittitle><unitdate type="inclusive">October 2007-April 2008</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">23</container><unittitle><unitdate type="inclusive">May 2008-December 2008</unitdate> </unittitle></did><note><p>(includes 2008 End of Year Report)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">24</container><unittitle><unitdate type="inclusive">January 2009-October 2009</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">25</container><unittitle><unitdate type="inclusive">November 2009-June 2010</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">26</container><unittitle><unitdate type="inclusive">July 2010-February 2011</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">27</container><unittitle><unitdate type="inclusive">March 2011-October 2011</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">28</container><unittitle><unitdate type="inclusive">November 2011-September 2012</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">29</container><unittitle><unitdate type="inclusive">October 2012-May 2013</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">30</container><unittitle><unitdate type="inclusive">June 2013--February 2013</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">31</container><unittitle><unitdate type="inclusive">March 2014--October 2014</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">32</container><unittitle><unitdate type="inclusive">November 2014--</unitdate></unittitle></did></c02>
+
+</c01>
+</dsc>
+
+
+
+<descgrp>
+<relatedmaterial>
+<head>Related Material</head>
+<p>The official set of Board of Regents records, inducing the original exhibits and agenda as maintained by the Secretary of the University, are transferred to the custody of the archives on a fixed twenty-five year schedule (e.g., the "official" agendas and exhibits for 1980 Regents meetings are scheduled for transfer to the archives in 2005).  For the record group containing the original exhibits, see the separate record group and finding aid for University of Michigan. Board of Regents (call no. 8722 Bimu B2 2).   </p></relatedmaterial>
+</descgrp>
+</archdesc>
+
+
+
+</ead>

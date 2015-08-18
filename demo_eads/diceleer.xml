@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::diceleer.xml//EN" encodinganalog="Identifier">
+umich-bhl-851106</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Lee Raymond Dice papers, 1903-1964
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>December 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-12-10</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Lee Raymond Dice papers, 1903-1964</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Dice, Lee Raymond, 1887-1977.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Lee Raymond Dice papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1903-1964
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+6 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851106 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of zoology, and director of the Institute of Human Biology. Administrative files of the Institute, professional correspondence, journals and field notebooks, including observations of Alaska, 1911-1912, and autobiographical and family material; and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Professor Dice (donor no. <num type="donor" encodinganalog="541$e">3454</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Lee Raymond Dice papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Lee Raymond Dice was born July 15, 1887, in Savannah, Georgia.  He graduated from Washington State College Preparatory School in 1907, received his B.A. from Stanford University in 1911 and his M.S. (1914) and Ph.D. (1915) from the University of California.</p>
+
+<p>Before coming to the University of Michigan in 1919, Dice taught zoology at Kansas State College, was a zoologist at Kansas Agricultural Experimental Station, was assistant professor of biology at the University of Montana, and assistant in zoology at the University of Illinois. </p>
+
+<p>He began at the University of Michigan as curator of mammals in the Museum of Zoology and instructor in zoology. He was promoted to assistant professor in 1928, associate professor in 1934, and full professor in 1943. In 1927, he had also become research associate in the Laboratory of Mammalian Genetics, later director of the Vertebrate Genetics Laboratory in 1934, and director of the Institute of Human Biology in 1950. In 1942, he founded the U-M Medical Center's Heredity Clinic. </p>
+
+<p>Dice was a member of the American Association for the Advancement of Science; American Society of Mammalogist (Vice-President 1947-51); Nature Conservancy (President 1948); American Society of Human Genetics (President 1950-1951); Ecological Society of America (President 1936-37); Society of Systematic Zoology (President 1949-50); Society for the Study of Evolution (Vice-President 1947-48, 1953-54); American Eugenics Society; British Ecological Society; Genetics Society of America; American Society of Naturalists; Society of Vertebrate Paleontologists; Member of the Board of Trustees of Cranbrook Institute of Science and of the Advisory Committee of the animal Welfare Institute.</p>
+
+<p>He was the author of numerous scientific papers and of three books: <title render="italic">Biotic provinces of North America; National Communities</title>; and <title render="italic">Man's nature and nature's man-the ecology of human communities</title>. </p>
+
+<p>He died January 31, 1977.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Dice collection consists of administrative files of the Institute of Human Biology, professional correspondence, journals and field notebooks, including observations of Alaska, 1911-1912, and autobiographical and family material, and photographs.
+The papers are organized of the following series: Professional Correspondence; Institute of Human Biology; University of Michigan Other; and Personal and miscellaneous. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Alaska.</geogname>
+<persname source="lcnaf" encodinganalog="600">Dice, Lee Raymond, 1887-1977.</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Zoology.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Institute of Human Biology.</corpname>
+<subject source="lcsh" encodinganalog="650">Zoology.</subject>
+
+
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<geogname source="lcsh" encodinganalog="651">Alaska.</geogname>
+
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Professional Correspondence, <unitdate type="inclusive">1933-1964</unitdate></unittitle></did>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">1933-1956</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>A-D</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>E-H</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>I-P</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Q-Z</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">1956-1964</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>A-E</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle>F-Z</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Institute of Human Biology</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Staff meetings </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Annual reports</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Ad hoc Committee on the Institute of Human Biology</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Descriptive material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Administrative reports regarding objectives and needs of IHB</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Administrative notebook</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Phoenix Project research proposal</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Rockefeller Foundation research proposal</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle><title render="italic">Systematic Biology</title> editorial board</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>University of Michigan Other</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Division of Biological Sciences</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Laboratory of Vertebrate Biology, meeting minutes, <unitdate type="inclusive">1939-1952</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Administrative units</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">6</container><unittitle>A-Z</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Personal and miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><title render="italic">National Communities</title> book: reviewer's comments and LRD response</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle>Personal material: include appointments, bibliography, and family reports</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle>"Interior Alaska in 1911 and 1912 Observations by a Naturalist" with accompanying <genreform normal="Photographs">photographs</genreform>, <unitdate type="inclusive">1911-1912</unitdate> </unittitle> <physdesc><extent>1 volume and 8 envelopes in 1 folder</extent></physdesc> <physdesc><physfacet>(photocopies</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle>Memoir and family papers </unittitle> <physdesc><physfacet>(photocopy</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle>Journals and field notebooks, <unitdate type="inclusive">1903-1918</unitdate></unittitle> <physdesc><extent>2 expandable folders</extent></physdesc></did><note><p> (include notes on Alaska, Montana, California, Kansas, and Washington)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle>Reprints of writings </unittitle></did> <note><p>(include bibliography of Dice's publications)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

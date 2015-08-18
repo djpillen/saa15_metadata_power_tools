@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::buddcomp.xml//EN" encodinganalog="Identifier">
+umich-bhl-2013046</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+The Budd Company records
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Cherie Edmonds </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2013">
+2013</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2013</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2013-06-11</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+The Budd Company records, 1912-1951</titleproper>
+
+<author>Finding aid created by<lb/> 
+Cherie Edmonds, 2013</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp"><did><origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Budd Company
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+The Budd Company records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1912-1951</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1920-1923</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.25 linear feet and 3 outsized volumes
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2013046 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The Budd Company record group consists of materials from the early 1900s, which mainly pertains to the company's Detroit operations. The bulk of the records include company ledgers.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was donated by Gary and Kathy Mulqueeney (donor no.  
+<num type="donor" encodinganalog="541$e">10913</num>) in April 2013.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+The Budd Company records, Bentley Historical Library, University of Michigan</p></prefercite>
+
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Best known for the fabrication of stainless steel and automobile components, the Budd Company was originally founded in Philadelphia, Penn., in 1912, by Edward G. Budd, as Edward G. Budd Manufacturing Company. After some success the company merged with its subsidiary, the Budd Wheel Company, founded by Edward G. Budd in Philadelphia in 1916, and became a pioneer in the development of steel car bodies.</p>
+
+<p>In 1925, the Budd Company purchased a manufacturing plant in Detroit, Michigan and also began to explore the European market. Further endeavors lead the company to develop innovations in, not only the automobile industry, but also the railroad, aviation, and plastics industries. In 1972, the Budd Company officially moved its headquarters to Troy, Michigan, and by the 1980s, the company focused solely on the automobile industry.</p>
+
+<p>In 1978 the Budd Company was acquired by Thyssen AG and changed its name to ThyssenKrupp Budd.  In 2006 the company was purchased by Martinrea International.
+</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The records of The Budd Company are comprised of Administrative Files, which include a supervisor's manual, contracts, and general ledgers. A complete collection of The Budd Company records can be found at Hagley Museum in Wilmington, Delaware.
+</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Budd Company.</corpname>
+<subject source="lcsh" encodinganalog="650">Automobile industry and trade--United States.</subject>
+<subject source="lcsh" encodinganalog="650">Automobiles--Parts.</subject>
+<subject source="lcsh" encodinganalog="650">Manufacturing industries--Michigan--Detroit.</subject>
+
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Ledgers (account books).</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Administrative Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Budd Supervisor's Manual, <unitdate type="inclusive">1946</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Contracts relating to the new Ambi-Budd set-up, 1930</unittitle></did> <note><p>(includes the Budd International Corporation By-Laws and Amended Certificate of Incorporation)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Rockefeller Center, Inc. Lease Agreement, <unitdate type="inclusive">1951</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>General Ledgers</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Journal Vouchers, <unitdate type="inclusive">1921-1922</unitdate> </unittitle> <physdesc><extent>3 volumes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Krouse Fatigue Machine Co., <unitdate type="inclusive">1938</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Krouse Testing Machine Co., <unitdate type="inclusive">1942</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Budd Wheel Company, <unitdate type="inclusive">1927-1929</unitdate></unittitle></did><note><p>(4 non-consecutive volumes)</p></note></c03>
+<c03 level="file"><did><container type="volume" label="Oversize Volume">1</container><unittitle>Edward G. Budd Manufacturing Company credit and cash book, <unitdate type="inclusive">1912-1913</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="volume" label="Oversize Volume">1</container><unittitle>Edward G. Budd Manufacturing Company Detroit factory credit and cash book, <unitdate type="inclusive">1913-1914</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="volume" label="Oversize Volume">1</container><unittitle>Edward G. Budd Manufacturing Company journal C, <unitdate type="inclusive">1920-1923</unitdate></unittitle></did></c03></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

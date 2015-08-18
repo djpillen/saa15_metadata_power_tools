@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::willisma.xml//EN" encodinganalog="identifier">
+umich-bhl-86298</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Mattie Azalia Willis papers, 1928-1970
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>July 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-07-24</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Mattie Azalia Willis Papers, 1928-1970</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Willis, Mattie Azalia, 1912-1970.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Mattie Azalia Willis papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1928-1970
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear ft. and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86298 Aa 2; UAm
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Battle Creek, Michigan, African American singer and music teacher, member of the Battle Creek Chapter of the National Association for the Advancement of Colored People. Correspondence, newspaper clippings, and other material relating to her professional career, diaries recording daily activities and personal thoughts, and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Mattie Willis’ daughter, Mrs. Charlotte Graham (donor no. <num type="donor" encodinganalog="541$e">5030</num>) and came to the library in 1971.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Mattie Azalia Willis Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Mattie Robbins was born March 2, 1912 in Battle Creek, Michigan.  She graduated from Battle Creek High School in 1929 where she was a member of the glee club and school chorus and where she also played the piano.  She attended Battle Creek College studying piano, voice, and violin. Music would be her life's work, both as a concert performer, a radio artist, and a lecturer on music to various groups.  In 1947, she was guest soloist for the Canadian Emancipation Celebration in Windsor, Ontario.  In 1950, she won the Vocal Division of the Kalamazoo Symphony auditions. Mattie Willis (married in 1940 to Albert Willis) was active in various community and civic groups, including the Calhoun Community Action Agency, and the Battle Creek Chapter of the National Association for the Advancement of Colored People.</p>
+
+<p>She died in December 28, 1970</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The collection has been arranged into the following series: Personal / Biographical; Writings, speech notes, compositions; Community activities; and Diaries.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Arts.</subject>
+<geogname source="lcsh" encodinganalog="651">Battle Creek (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Music--Michigan--Battle Creek.</subject>
+<corpname source="lcnaf" encodinganalog="610">National Association for the Advancement of Colored People. Battle Creek (Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Teachers--Michigan--Battle Creek.</subject>
+<subject source="lcsh" encodinganalog="650">Singers--Michigan--Battle Creek.</subject>
+<subject source="lcsh" encodinganalog="650">Women singers--Michigan--Battle Creek.</subject><subject source="lcsh" encodinganalog="650">Women teachers--Michigan--Battle Creek.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">African Americans--Women.</subject>
+<geogname source="lctgm" encodinganalog="651">Augusta (Mich.)--Theaters.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Barn Theatre (Augusta, Mich.)</corpname>
+<geogname source="lctgm" encodinganalog="651">Battle Creek (Mich.)--Dwellings.</geogname>
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Battle Creek.</subject>
+<subject source="lctgm" encodinganalog="650">Interiors.</subject>
+<subject source="lctgm" encodinganalog="650">Musicians.</subject>
+<subject source="lctgm" encodinganalog="650">Organs.</subject>
+<subject source="lctgm" encodinganalog="650">Pianos.</subject>
+<subject source="lctgm" encodinganalog="650">Singing.</subject>
+<subject source="lcsh" encodinganalog="650">Theaters--Michigan--Augusta.</subject>
+<subject source="lctgm" encodinganalog="650">Theatrical productions.</subject>
+<persname source="lcnaf" encodinganalog="600">Willis, Mattie Azalia, 1912-1970.</persname>
+<subject source="lctgm" encodinganalog="650">Women.</subject>
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Personal / Biographical</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Personal history and reminiscences, <unitdate type="inclusive">1938</unitdate> and <unitdate type="inclusive">1963</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Brochures and newspaper clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Memorial books from the funeral of Mattie Willis, <unitdate type="inclusive">December 1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform> </unittitle></did> <note><p>(Portraits and informal photographs of Willis, alone and with friends and associates; photographs of theatrical productions in which Willis performed; and photographs of Willis' homes in Battle Creek, Michigan.)</p></note> <note><p>(see also oversize group photo of MW as part of school group, UAm)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Posters for musical performances </unittitle></did> <note><p>(in oversize folder, UAm)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1929-1971</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Writings, speech notes, compositions</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"What Music Has Meant to Me" <unitdate type="inclusive">1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"American Negro Music and Its Influence in America and Around the World" <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Conference and speech notes, short story, and other miscellanea, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Battle Creek College term papers, <unitdate type="inclusive">1929-1930</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Musical compositions written by Mattie Willis</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Community activities</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Calhoun Community Action Agency, <unitdate type="inclusive">1970</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reorganized Church of Jesus Christ of the Latter Day Saints [Grand Rapids], <unitdate type="inclusive">1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Battle Creek chapter of the N.A.A.C.P., <unitdate type="inclusive">1968</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Diaries</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1928</unitdate> </unittitle></did> <note><p>(MW used earlier dated volume)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1930</unitdate> ?</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1931</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1932</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1933</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1944</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1945</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1946</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1947</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1953</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1954</unitdate> </unittitle> <physdesc><extent>4 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1955</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1956</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1957</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1958</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1960</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1961</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1963</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1964</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1967</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

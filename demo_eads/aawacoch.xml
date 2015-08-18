@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::aawacoch.xml//EN" encodinganalog="Identifier">
+umich-bhl-8535</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Ann Arbor - Washtenaw Council of Churches records, 1928-1969
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Frank Boles </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-02-12</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Ann Arbor - Washtenaw Council of Churches <lb/>Records, 1928-1969</titleproper>
+
+<author>Finding aid created by<lb/> 
+Frank Boles, 1978</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Ann Arbor - Washtenaw Council of Churches.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Ann Arbor - Washtenaw Council of Churches records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1928-1969
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8535 Ba 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Bulletins, minutes of committees, correspondence, news clippings, and other materials relating to the activities of the organization; also minutes, 1928-1953, of Ann Arbor Ministerial Association.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was deposited by the Ann Arbor Council of Churches (donor no. <num type="donor" encodinganalog="541$e">6224</num>) in 1978.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan. 
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Ann Arbor - Washtenaw Council of Churches records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Ann Arbor Ministerial Association was established in 1928. Its purpose was to "coordinate the plans and activities of the religious forces of Ann Arbor in regard to all matters of common interest and responsibility, to give united expression to religious conviction and conscience in matters of moral significance and social relationships ..." Some time in the 1940s, a separate organization -- the Ann Arbor Council of Churches -- was formed. The membership of this group included both clergy and laypeople. This organization gradually came to encompass like-minded people beyond Ann Arbor. Accordingly, the name of the organization was changed to the Ann Arbor - Washtenaw Council of Churches.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The record group is comprised of two series: Ann Arbor Ministerial Association and Ann Arbor-Washtenaw Council of Churches Yearly Files. The kinds of documents in the Ann Arbor Ministerial Association series includes minutes of meetings, scattered correspondence and financial reports. The Ann Arbor-Washtenaw Council of Churches Yearly Files also includes minutes as well as greater documentation of projects and services provided by the organization.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Clergy--Michigan--Washtenaw County.</subject>
+<geogname source="lcsh" encodinganalog="651">Washtenaw County (Mich.).</geogname>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Church history.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Ann Arbor Ministerial Association (Mich.).</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Ann Arbor Ministerial Association</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes (with financial reports, resolutions and correspondence), <unitdate type="inclusive">1928-1953</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous, <unitdate type="inclusive">1962-1963</unitdate>, <unitdate type="inclusive">1965-1967</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Ann Arbor-Washtenaw Council of Churches Yearly Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1944-1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1950-1951</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1953-1957</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">1958</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Administration</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Social Services</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">1959</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Administration</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Social Services</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">1960</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Administration</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>United Services and Christian Education</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Social Services</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Youth for Understanding, Michigan Teen-age Exchange</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">1961</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Administration</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>United Services and Christian Education </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Social Services </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">1962</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Administration</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>United Services and Christian Education</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Social Services </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>United Church Women of Ann Arbor</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">1963</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Administration </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>United Services and Christian Education</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Social Services</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>United Church Women of Ann Arbor</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">1964</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Administration </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>United Services and Christian Education</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Social Services</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>United Church Women of Ann Arbor</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">1965</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Administration </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>United Services and Christian Education</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Social Services</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>United Church Women of Ann Arbor</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">1966</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Administration </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>United Services and Christian Education</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Social Services </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>10th Annual N.C.C.J. Human Relations Institute</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>United Church Women of Ann Arbor</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">1967</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Administration </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>United Services and Christian Education</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Social Services</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>United Church Women of Ann Arbor</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1968</unitdate>, General</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1969</unitdate>, Annual Report</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

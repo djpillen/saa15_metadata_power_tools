@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+	<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+		<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::peacecorps.xml//EN" encodinganalog="Identifier">
+umich-bhl-2014125</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="Title">Finding Aid for 
+Peace Corps Office (University of Michigan) records
+</titleproper>
+				<author encodinganalog="Creator">Collection processed and finding aid created by 
+Elise Reynolds</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+				<date encodinganalog="Date" normal="2015">
+2015</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2015</date>
+			</creation>
+			<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language>
+			</langusage>
+			<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date>2015-02-24</date>
+				<item>Original encoding from Word 2010 file using Word macros and Xmetal.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+			<titleproper>Finding aid for<lb/>
+Peace Corps Office <lb/>(University of Michigan) <lb/>Records, 2010-2015</titleproper>
+			<author>Finding aid created by<lb/> 
+Elise Reynolds, November 2014</author>
+		</titlepage>
+	</frontmatter>
+	<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+		<did>
+			<origination>
+				<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Peace Corps Office.</corpname>
+			</origination>
+			<unittitle encodinganalog="245">
+Peace Corps Office (University of Michigan) records<unitdate type="inclusive" encodinganalog="245$f">
+2010-2015
+</unitdate>
+			</unittitle>
+			<physdesc>
+				<extent encodinganalog="300">
+2.18 GB and archived website
+</extent>
+			</physdesc>
+			<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2014125 Aa 3
+</unitid>
+			<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language>
+			</langmaterial>
+			<abstract>
+Office responsible for administering Peace Corps programming at the University of Michigan. Collection consists of video and web content surrounding the fiftieth anniversary celebration in 2010 of the proposal of the Peace Corps at the Michigan Union by Sen. John F. Kennedy.
+</abstract>
+			<repository>
+				<corpname encodinganalog="852">
+					<subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+				<extptr href="bhladd" show="embed" actuate="onload"/>
+			</repository>
+		</did>
+		<descgrp type="admin">
+			<acqinfo encodinganalog="541">
+				<p>
+Donated by University of Michigan Peace Corps Office (donor no.<num type="donor" encodinganalog="541$e">11160</num>), in August, 2014.  </p>
+			</acqinfo>
+			<accessrestrict encodinganalog="506">
+				<p>
+The collection is open to research.
+</p>
+			</accessrestrict>
+			<userestrict encodinganalog="540">
+				<p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+			</userestrict>
+			<prefercite encodinganalog="524">
+				<p>[item], folder, box,
+Peace Corps Office (University of Michigan) records, Bentley Historical Library, University of Michigan</p>
+			</prefercite>
+			<processinfo>
+				<p>
+					<extptr href="digitalproc" show="embed" actuate="onload"/>
+				</p>
+			</processinfo>
+		</descgrp>
+		<bioghist encodinganalog="545">
+			<p>The University of Michigan Peace Corps office helps students pursue service opportunities with the Peace Corps and disseminates information about the organization to the campus community.  The history of Peace Corps activities at the University of Michigan dates back to the conception and creation of the Peace Corps itself. In September 1960, Senator and then presidential candidate John F. Kennedy asked Dr. Samuel Hayes, UM Professor of Economics, to draft a report on a potential peace corps. During a campaigning trip in Ann Arbor on October 14, 1960, Senator and presidential candidate John F. Kennedy challenged the students present to spend time giving international service, the idea that forms the basis of the Peace Corps. </p>
+			<p>The response from Michigan students was more than just favorable. Interested students formed a group called Americans Committed to World Responsibility (ACWR), in support of the idea of a peace corps. Around 250 students signed petitions agreeing to volunteer, and the ACWR traveled to Ohio, where they met Kennedy at the airport and delivered the petitions in person. </p>
+			<p>The positive response of Michigan students provided the needed momentum that turned the peace corps from an idea into a reality, and on March 1, 1961, the Peace Corps was officially created through an Executive Order. But Michigan's contributions weren't finished. Over 2000 Michigan alumni have served in the Peace Corps and contributed in other significant ways to the organization. </p>
+			<p>In 2010, the Peace Corps turned 50, and the University held a series of activities to celebrate this milestone and the University's role in the birth of the Corps. Among the events was a National Symposium focusing on the future of international service, ceremonies on the Michigan Union steps where Kennedy addressed the students in 1960, guest speakers, photo exhibits, and more. </p>
+		</bioghist>
+		<arrangement encodinganalog="351">
+			<p>
+The collection is divided into two series, Fiftieth Anniversary Videos and Archived Website.</p>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+			<p>The Peace Corps Office (University of Michigan) records contain information about the unit as well as the role of the University of Michigan in the development of the Peace Corps. </p>
+		</scopecontent>
+		<controlaccess>
+			<p>
+				<extptr href="accnote" show="embed" actuate="onload"/>
+			</p>
+			<controlaccess>
+				<head>Subjects:</head>
+				<corpname source="lcnaf" encodinganalog="610">University of Michigan. Peace Corps Office.</corpname>
+				<subject source="lcsh" encodinganalog="650">Voluntarism--Michigan--Ann Arbor.</subject>
+			</controlaccess>
+			<corpname source="lcnaf" encodinganalog="610">University of Michigan. Peace Corps Office.</corpname>
+			<subject source="lcsh" encodinganalog="650">Voluntarism--Michigan--Ann Arbor.</subject>
+			<corpname source="lcnaf" encodinganalog="610">University of Michigan. Peace Corps Office.</corpname>
+			<subject source="lcsh" encodinganalog="650">Voluntarism--Michigan--Ann Arbor.</subject>
+			<controlaccess>
+				<head>Genre Terms:</head>
+				<genreform source="aat" encodinganalog="655">Digital moving image formats.</genreform>
+				<genreform source="aat" encodinganalog="655">Web sites.</genreform>
+			</controlaccess>
+		</controlaccess>
+		<dsc type="combined">
+			<c01 level="series">
+				<did>
+					<unittitle>Fiftieth Anniversary Videos</unittitle>
+				</did>
+				<scopecontent>
+					<p>Fiftieth Anniversary Videos, consists of videos of events held to commemorate the fiftieth anniversary of Senator Kennedy's speech at the Michigan Union. These videos were downloaded from YouTube. </p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<physloc>Online </physloc>
+						<unittitle>First Ceremony on Michigan Union Steps, <unitdate type="inclusive">2010</unitdate>
+						</unittitle>
+						<dao href="http://hdl.handle.net/2027.42/109423" show="new" actuate="onrequest">
+							<daodesc>
+								<p>[download item]</p>
+							</daodesc>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<physloc>Online </physloc>
+						<unittitle>Second Ceremony on Michigan Union Steps, <unitdate type="inclusive">2010</unitdate>
+						</unittitle>
+						<dao href="http://hdl.handle.net/2027.42/109422" show="new" actuate="onrequest">
+							<daodesc>
+								<p>[download item]</p>
+							</daodesc>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>National Symposium: The Future of International Service</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<physloc>Online </physloc>
+							<unittitle>Welcome and Opening Remarks, <unitdate type="inclusive">2010</unitdate>
+							</unittitle>
+							<dao href="http://hdl.handle.net/2027.42/109429" show="new" actuate="onrequest">
+								<daodesc>
+									<p>[download item]</p>
+								</daodesc>
+							</dao>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<physloc>Online </physloc>
+							<unittitle>First Panel Session -- Overview of the Current Landscape, <unitdate type="inclusive">2010</unitdate>
+							</unittitle>
+							<dao href="http://hdl.handle.net/2027.42/109425" show="new" actuate="onrequest">
+								<daodesc>
+									<p>[download item]</p>
+								</daodesc>
+							</dao>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<physloc>Online </physloc>
+							<unittitle>Second Panel Session -- The Impact of International Service: What are the Lessons?, <unitdate type="inclusive">2010</unitdate>
+							</unittitle>
+							<dao href="http://hdl.handle.net/2027.42/109428" show="new" actuate="onrequest">
+								<daodesc>
+									<p>[download item]</p>
+								</daodesc>
+							</dao>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<physloc>Online </physloc>
+							<unittitle>Third Panel Session -- New Initiatives and Policy Proposals, <unitdate type="inclusive">2010</unitdate>
+							</unittitle>
+							<dao href="http://hdl.handle.net/2027.42/109424" show="new" actuate="onrequest">
+								<daodesc>
+									<p>[download item]</p>
+								</daodesc>
+							</dao>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<physloc>Online </physloc>
+							<unittitle>Fourth Panel Session -- Role of Universities, <unitdate type="inclusive">2010</unitdate>
+							</unittitle>
+							<dao href="http://hdl.handle.net/2027.42/109426" show="new" actuate="onrequest">
+								<daodesc>
+									<p>[download item]</p>
+								</daodesc>
+							</dao>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<physloc>Online </physloc>
+							<unittitle>Closing Plenary and Keynote: "The Future of the Peace Corps", <unitdate type="inclusive">2010</unitdate>
+							</unittitle>
+							<dao href="http://hdl.handle.net/2027.42/109427" show="new" actuate="onrequest">
+								<daodesc>
+									<p>[download item]</p>
+								</daodesc>
+							</dao>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<physloc>Online </physloc>
+						<unittitle>The Passing of the Torch Promotional Video, <unitdate type="inclusive">2010</unitdate>
+						</unittitle>
+						<dao href="http://hdl.handle.net/2027.42/109430" show="new" actuate="onrequest">
+							<daodesc>
+								<p>[download item]</p>
+							</daodesc>
+						</dao>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Archived Website</unittitle>
+				</did>
+				<scopecontent>
+					<p>The Archived Website series documents the history of the creation of the Peace Corps and the fiftieth anniversary events. Content includes important news and announcements, stories of volunteers, and other facts and information relating to the creation and history of the Peace Corps at the University of Michigan. Starting in 2011, this archived website will be captured on a regular, ongoing basis as part of the University of Michigan Web Archives, hosted at http://webarchives.cdlib.org/a/universityofmichigan/. </p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<physloc>Online </physloc>
+						<unittitle>
+							<unitdate type="inclusive">2011-2015</unitdate>
+						</unittitle>
+						<dao href="214125-w-1" show="new" actuate="onrequest">
+							<daodesc>
+								<p>[view item]</p>
+							</daodesc>
+						</dao>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+		<descgrp type="add">
+			<relatedmaterial>
+				<head>Related Materials</head>
+<list>
+	<item><title render="italic" linktype="simple" href="http://quod.lib.umich.edu/b/bhlead/umich-bhl-2013124" show="replace" actuate="onrequest">David Giltrow photograph collection </title> finding aid is available online</item>
+	<item><title render="italic" linktype="simple" href="http://quod.lib.umich.edu/b/bhlead/umich-bhl-92537" show="replace" actuate="onrequest">Michiganensian photograph collection </title> finding aid is available online</item>
+	<item><title render="italic" linktype="simple" href="http://quod.lib.umich.edu/b/bhlead/umich-bhl-2012091" show="replace" actuate="onrequest">Out of the Blue: The Michigan Difference (television program) </title> finding aid is available online</item>
+	<item><title render="italic" linktype="simple" href="http://quod.lib.umich.edu/b/bhlead/umich-bhl-87265.25" show="replace" actuate="onrequest">University of Michigan News and Information Services Photographs </title> finding aid is available online</item>
+	<item><title render="italic" linktype="simple" href="http://quod.lib.umich.edu/b/bhlead/umich-bhl-2014029" show="replace" actuate="onrequest">Kermit Krueger papers </title> finding aid is available online</item>
+	<item><title render="italic" linktype="simple" href="http://quod.lib.umich.edu/b/bhlead/umich-bhl-8738" show="replace" actuate="onrequest">WUOM records (records of the Univeristy of Michigan radio station) </title> finding aid is available online</item>
+</list>
+			</relatedmaterial>
+		</descgrp>
+	</archdesc>
+</ead>

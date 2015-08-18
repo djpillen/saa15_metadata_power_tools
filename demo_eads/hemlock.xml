@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::hemlock.xml//EN" encodinganalog="Identifier">
+umich-bhl-93853</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Hemlock of Michigan records, 1989-2006
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Hemlock of Michigan members</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2010">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2010</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2010-06-23</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Hemlock of Michigan records, 1989-2006</titleproper>
+
+<author>Finding aid created by<lb/> 
+Hemlock of Michigan members</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Hemlock (Society). Hemlock of Michigan.
+</corpname>
+
+
+</origination>
+
+<unittitle encodinganalog="245">
+Hemlock of Michigan records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1989-2006
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+6.3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+93853 Bj 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Michigan chapter of organization established to support right of terminally ill adults to be able to choose either passive or active voluntary euthanasia for themselves. Organizational records, including correspondence, newsletters, membership lists, and clippings and articles about organization.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group came from the organization (donor no. <num type="donor" encodinganalog="541$e">8057</num>) in multiple accessions.</p></acqinfo>
+
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research, except for the membership lists which are closed for 20 years from the date of their creation.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Hemlock of Michigan records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Hemlock of Michigan is an educational, non-profit organization that supports the right of terminally ill adults to die with dignity and self-respect.  Therefore, the organization supports the rights of individuals to choose for themselves either a passive or active voluntary euthanasia.  This chapter of the National Hemlock Society was formed on September 23, 1989 at the home of Janet and Ray Good when sixteen people met to form a steering committee for the Michigan chapter.  Based upon the principle that terminally ill persons should be able to determine the manner, means, and timing of their death, Hemlock also supports the individual's right to refuse artificial support which only prolongs the process of dying.  Some of the objectives of the organization, beyond educating the public to the principle of active voluntary euthanasia, include support for legislation that would permit physicians to aid the terminally ill in dying. Hemlock of Michigan disbanded in 2006.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The record group includes organizational records, including correspondence, newsletters, and membership lists. Other files document the relationship of Hemlock of Michigan with the national organization as well as its activities as an advocacy group to the Michigan Legislature. Of significance are the several folders of clippings and articles on the activities of the organization and on the general subject of death and dying.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Euthanasia--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Hemlock (Society). Hemlock of Michigan.</corpname>
+<subject source="lcsh" encodinganalog="650">Right to die--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Suicide--Michigan.</subject>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Organization</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Formation of Hemlock of Michigan</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Board Meetings, Financial Reports, Memos among Board Members, <unitdate type="inclusive">1990-2006</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Membership Lists</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1989</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">7</container><unittitle><unitdate type="inclusive">1990s-2000s</unitdate> </unittitle></did> <note><p>(lists are closed for 20 years from the date of creation)</p></note></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Public Meetings and Fund Raisers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Official Handouts and Brochures</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Book Sales</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Relations with Beier &amp; Howlett (Law Firm)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Selection of letters to &amp; from members and private individuals (surname blacked out)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Janet Good, founder of Hemlock of Michigan</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Relations with Outside Organizations &amp; Individuals</unittitle></did>
+<c02 level="file"><did><unittitle>National Hemlock Society/Hemlock USA</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive">1990-2000</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>General, <unitdate type="inclusive">2001-2006</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Annual Reports</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Newsletters</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Chapter Leaders, <unitdate type="inclusive">1990-1993</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Chapter Leaders Resource, <unitdate type="inclusive">1994-2005</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>National, <unitdate type="inclusive">1988-2006</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Other Publications</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Other Chapters of Hemlock</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Other Death with Dignity Organizations, <unitdate type="inclusive">1991-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Other Death with Dignity Organizations, <unitdate type="inclusive">1993-2006</unitdate> </unittitle> <physdesc><extent>8 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Presentations &amp; Speeches</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Dr. Jack Kevorkian</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Libraries</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Political Activity</unittitle></did>
+<c02 level="file"><did><unittitle>Legislative, Commission on Death &amp; Dying</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>General, <unitdate type="inclusive">1991-1993</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>General, <unitdate type="inclusive">1993-1995</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Detroit, <unitdate type="inclusive">November 8, 1993</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Midland, <unitdate type="inclusive">November 9, 1993</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Grand Rapids, <unitdate type="inclusive">November 10, 1993</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Traverse City, <unitdate type="inclusive">November 12, 1993</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Final Report, <unitdate type="inclusive">1994</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Judicial, <unitdate type="inclusive">1990-1995</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Other State Programs, e.g. Wash. Initiative 119</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Letters</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Clippings and Articles</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">1992- 1989</unitdate> with some earlier clippings</unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1993</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1994</unitdate> </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1995</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1996</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1997</unitdate> </unittitle> <physdesc><extent>12 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive">1998</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">1998</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">1999</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">2000</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">2001</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">2002</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">2003</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">2003</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">2005</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive">2006</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

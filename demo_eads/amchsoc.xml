@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::amchsoc.xml//EN" encodinganalog="Identifier">
+umich-bhl-85600</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+American Chemical Society, University of Michigan Section records, 1900-1962
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Ke Lu </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-11-04</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+American Chemical Society, University of Michigan Section records, 1900-1962</titleproper>
+
+<author>Finding aid created by<lb/> 
+Ke Lu, 1995</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+American Chemical Society. University of Michigan Section.
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+American Chemical Society, University of Michigan Section records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1900-1962
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1912-1962
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.0 linear foot.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85600 Bn 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Organizational records of the University of Michigan Section of the American Chemical Society, including secretary's minutes, treasurer's records, correspondence with visiting chemists and the national organization, lists of officers and files relating to the support of a French orphan during World War I.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group came from the University of Michigan Chemistry Department (Donor No. <num type="donor" encodinganalog="541$e">587</num>) in two accessions, with the bulk of the records received in July 1995.  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+American Chemical Society, University of Michigan Section records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The American Chemical Society (ACS), founded in 1875, is the oldest and best-known scientific and professional organization in the field of chemistry and chemical engineering.  The ACS is also the world's largest organization devoted to one single science.  Currently it has a membership of more than 100,000 distributed among 155 local sections.</p>
+
+<p>The ACS, University of Michigan Section was chartered in December 1899 and officially founded in 1900 with 41 members.  Like other local sections, the organizational structure of the University of Michigan Section consisted of a presiding officer, a councilor and a secretary (later an executive committee was also set up).  Albert Prescott served as its first presiding officer.  The University of Michigan Section was the first ACS section in the state of Michigan.  By 1910, ten years after its founding, the number of members of the ACS in the state of Michigan had become so large that it was necessary to restrict the territory of the section to include only members within 10 miles of Ann Arbor.  This allowed for the formation of other local sections within the state.</p>
+
+<p>Since its founding, the ACS, University of Michigan Section has been an active unit, and it has played an important role in promoting the interest of chemists and the chemical engineering profession at the state and national level.  Each year, more than a dozen prominent chemists from around the world are brought to Ann Arbor to give presentations on their recent scientific experiments.  Many Michigan faculty are also invited to speak to members of other local sections.  The University of Michigan Section has also been actively involved in career counseling and chemistry education for high school students.  They provide information on the trends and developments in the chemical profession and job market, offer lectures and provide assistance with science fairs, laboratory demonstrations and experiments.  The Section has also been involved in philanthropic activities, such as sponsoring a French orphan after World War I.  Two presidents of the American Chemical Society (Albert Prescott and Moses Gomberg) have also come from the ACS, University of Michigan Section.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The records of the American Chemical Society, University of Michigan Section (1 linear foot) document major activities of the organization.  The records have been divided into three series:  Historical File, University of Michigan Section Files, And ACS Council Meeting Files.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Chemistry.</corpname>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+<corpname source="lcnaf" encodinganalog="610">American Chemical Society. University of Michigan Section.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Historical File</unittitle></did><scopecontent><p>The Historical Files, 1900-1952 (bulk dates, 1900-1930; 0.3 linear feet), contain early records of the ACS, University of Michigan Section.  It consists of secretary's records of the University of Michigan Section and ACS French Orphan Fund Files.  The secretary's records contain minutes and financial statements of the local section.  The orphan fund files consists of correspondence between the ACS, University of Michigan Section members and Michelle Pignal, a French orphan that they sponsored after World War I; and financial statements, which are mainly contributors' rosters.  Materials in this series are arranged chronologically.</p></scopecontent>
+<c02 level="file"><did><unittitle>Secretary's Files</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Records, <unitdate type="inclusive">1900-1931</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1900-1920</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1921-1952</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>French Orphan Files</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1922-1930</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Statements, <unitdate type="inclusive">1912-1929</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>University of Michigan Section Files</unittitle></did><scopecontent><p>The University of Michigan Section Files, 1934-1961 (0.5 linear feet), the largest portion of this record group, contains correspondence relating to the local section.  The correspondence has been further divided into three parts: general; election records; and local section speakers.  Election records include a list of officers from 1900 to 1956.  Of interest is correspondence relating to the local section speakers, which reflects the dynamic scholarly and professional activities among local section members.  The speeches and talks delivered by outside speakers offered local section members opportunities to broaden professional contacts and to obtain new viewpoints on scientific and professional matters.  Materials in this series are arranged chronologically.</p></scopecontent>
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive">1954-1961</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Election Records, <unitdate type="inclusive">1934-1956</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Local Section Speakers, <unitdate type="inclusive">1939-1946</unitdate>, <unitdate type="inclusive">1954-1959</unitdate> </unittitle> <physdesc><extent>10 folders</extent></physdesc></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>ACS National Council Meeting Files</unittitle></did><scopecontent><p>The last series, ACS Council Meeting Files, 1949-1962 (0.2 linear feet), contains records relating to the ACS National Council Meetings.  It consists of correspondence, constitutions and by-laws (amendments), minutes, newsletters and reports.  These records provide a broader picture of the activities of local sections as well as the national organization.  All materials are arranged chronologically.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1952-1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitutions and By-laws (amendments), <unitdate type="inclusive">1955-1961</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1954-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters, <unitdate type="inclusive">1960-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Reports</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive">1955-1961</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Executive, <unitdate type="inclusive">1955-1961</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Election and Nominations, <unitdate type="inclusive">1945-1961</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>Local Section</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1949</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1954-1955</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1956-1957</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1958</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1960</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Professional and Economic Status, <unitdate type="inclusive">1945-1961</unitdate></unittitle></did></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

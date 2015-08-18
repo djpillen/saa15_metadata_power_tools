@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::colemanc.xml//EN" encodinganalog="identifier">umich-bhl-85986</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Creighton R. Coleman Papers <date>1941-1977</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Thomas E. Powers</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2002</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>October 2002</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031001</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20021010</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Creighton R. Coleman Papers, <date type="inclusive">1941-1977</date></titleproper><author>Finding aid prepared by: <lb/>Thomas E. Powers</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Coleman, Creighton R., 1912-</persname></origination>
+<unittitle encodinganalog="245">Creighton R. Coleman Papers
+<unitdate type="inclusive" encodinganalog="245$f">1941-1977</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">2.3 linear ft.</extent></physdesc>
+<abstract>Assistant chief of the decartelization branch, economics division in the Office of Military Government for Germany (US), 1946-1948; later Republican state senator from Marshall, Calhoun County, Michigan, 1949-1956. Reports, correspondence, memoranda, and photographs concerning his work in Germany; also miscellaneous files detailing his activities in the state legislature.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">85986 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was the gift of Judge Creighton R. Coleman (donor no. <num type="donor" encodinganalog="541$e">5436</num>) and came to the library in different accessions 1973-1974 and 1985.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Creighton R. Coleman Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Creighton R. Coleman was assistant chief of the decartelization branch, economics division in the Office of Military Government for Germany (US), 1946-1948; later Republican state senator from Marshall, Calhoun County, Michigan, 1949-1956.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The collection is arranged into the following series: Office of the Military Government for Germany (US) Economics Division, Decartelization Branch; State Senator's Files; Topical Files; and Photographs.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><subject source="lcsh" encodinganalog="650">Antitrust law--Germany.</subject><geogname source="lcsh" encodinganalog="651">Calhoun County (Mich.)</geogname><subject source="lcsh" encodinganalog="650">Economics.</subject><geogname source="lcsh" encodinganalog="651">Germany.</geogname><corpname source="lcnaf" encodinganalog="610">Germany (Territory under Allied occupation, 1945-1955 : U.S. Zone). Office of Military Government.</corpname><subject source="lcsh" encodinganalog="650">Legislators--Michigan.</subject><geogname source="lcsh" encodinganalog="651">Marshall (Mich.)</geogname><corpname source="lcnaf" encodinganalog="610">Michigan. Legislature.</corpname><geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname><geogname source="local" encodinganalog="691">Michigan--Politics and government--1946-1960.</geogname><corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname><geogname source="lcsh" encodinganalog="651">United States--Politics and government--1953-1961.</geogname><geogname source="lcsh" encodinganalog="651">United States--Politics and government--1945-1953.</geogname><subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject></controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head><persname source="lcnaf" encodinganalog="600">Coleman, Creighton R., 1912-</persname><corpname source="lcnaf" encodinganalog="610">Germany (Territory under Allied occupation, 1945-1955 : U.S. Zone). Office of Military Government.</corpname></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Office of the Military Government for Germany (US) Economics Division, Decartelization Branch</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Program and aims of the decartelization branch</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Report on German Cartels and Combines, <unitdate type="inclusive">1946</unitdate></unittitle><physdesc><extent>3 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Activities of the former Bayer I.G. Farbenindustrie A.G. in the Pharmaceutical Industry</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The German Coal Economy</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Statistical Annex: Report of the Military Governor, <unitdate type="inclusive">August 1947</unitdate>  and<unitdate audience="internal" type="inclusive">September 1947</unitdate></unittitle><physdesc><extent>2 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Comparative Reading in Basic U.S. Policy Directives on Germany</unittitle><physdesc><extent>2 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Economic Data on Potsdam Germany, <unitdate type="inclusive">September 1947</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Statistical Annex: Report of the Military Governor, <unitdate type="inclusive">August 1947</unitdate>  and <unitdate type="inclusive">September 1947</unitdate></unittitle><physdesc><extent>2 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Comparative Reading in Basic U.S. Policy Directives on Germany</unittitle><physdesc><extent>2 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Economic Data on Potsdam Germany</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Comparative Federal Constitutions</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annexes to Decartelization: Report of, <unitdate type="inclusive">1948</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The Private Limited Companies Act (G.m.b.H.)</unittitle><physdesc><extent>2 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The German Commercial Code of, <unitdate type="inclusive">May 10, 1897</unitdate></unittitle><physdesc><extent>2 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>International Cartel Law</unittitle><physdesc><extent>2 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The German Law on Joint Stock Companies and Joint Stock Companies en Commandie of, <unitdate type="inclusive">January 30, 1937</unitdate></unittitle><physdesc><extent>3 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Decartelization in the U.S. Zone of Germany</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Activities of I.G. Farbenindustrie A.G., in the Nitrogen Industry</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Activities of I.G. Farbenindustrie A.G. in the Oils Industry</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Activities of I.G. Barbenindustrie A.G. in the Dyestuff Industry</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Legislation Procedures-Basic Papers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Decartelization of fertilizer sales syndicates</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Press file concerning work of decartelization branch</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Kilgore Committee Investigation</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Cartel Laws-German</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Decartelization Law, No. 56</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Committee to Investigate Decartelization testimony, <unitdate type="inclusive">1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Correspondence, <unitdate type="inclusive">1945-1948</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Memoranda and directives</unittitle><physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Drafts of writings and speeches</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Biographical data</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Deconcentration and decartelization in West Germany, 1945-1953  by J.F.J. Gillen</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>A problem paper on present and future United States policy toward Germany-prepared by Harold C. Deutsch, <unitdate type="inclusive">1955</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>The German White Paper-1940</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>A Year of Potsdam; the German Economy since the surrender</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Cookbook-"Operation Vittles"</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Germany's Major Industrial Combines, <unitdate type="inclusive">May 10, 1948</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Recommendation</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Invitation</unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>State Senator's Files, <unitdate type="inclusive">1949-1956</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Newspaper clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Correspondence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Speeches</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Press releases</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Miscellanea</unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Topical Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Biographical and personal</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Judge Training Programs</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Justice Department personnel miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Kellogg Community College Nursing Program</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Kellogg Community College Beginnings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Highway Legislation</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Michigan Judges Association/Michigan Association of Counties Council (efforts at cooperation)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Military Government personnel records</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Notre Dame (Visiting Japanese judges from)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>State Senate (newsletter)</unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle><genreform source="aat" normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Photos of meetings of the decartelization branch; also portrait and miscellaneous photos of meetings and ceremonial functions</unittitle></did></c02></c01></dsc></archdesc></ead>   

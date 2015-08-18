@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::deptradp.xml//EN" encodinganalog="Identifier">
+umich-bhl-0366</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for Department of Radiology (University of Michigan) publications, 1984-1995
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Jennifer Jacobs, 1999; Polly Reynolds, January 2007. </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>20070405</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2006-MD-DD</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Department of Radiology <lb/>(University of Michigan)<lb/>Ppublications,1984-1995
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Jennifer Jacobs, 1999; <lb/>Polly Reynolds, January 2007.
+
+
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Department of Radiology.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Department of Radiology (University of Michigan) publications 
+<unitdate type="inclusive" encodinganalog="245$f">
+1984-1995
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+4 folders
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0366 Bimu C46 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Contains a history of the Dept. of Radiology entitled The Distinguished History of Radiology at the University of Michigan on the Occasion of the Celebration of the Discovery of X-Rays and newsletters such as The Roentgen Review. Also includes brochures from the Breast Cancer Research Detection Center.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Publications are received periodically from the unit (donor #<num type="donor" encodinganalog="541$e">647</num>
+).
+ 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>Periodic additions to the records expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The publications are open without restriction</p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Department of Radiology (University of Michigan) publications, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The first use of X-rays at the University occurred in 1896, five months after Roentgen's announcement of his discovery.  Henry S. Carhart and William James Herdman, Professor of Diseases of the Mind and Nervous System and of Electrotherapeutics, respectively, were working with the rays using a static machine.  The University purchased its first X-ray equipment in 1903, though the Medical School had been using equipment purchased personally by Professors Charles Nancrede and Cyrenus Darling of the Department of Surgery.</p>
+
+<p>Vernon Justin Willey, appointed Instructor in Electrotherapeutics in 1901, was given the additional title of Director of the Roentgen Laboratory in 1906.  He resigned in 1909.  James Gerrit Van Zwaluwenburg was appointed to the faculty of internal medicine in 1907 and became interested in the application of X-rays.  As a result, Van Zwaluwenburg was chosen as head of the new Department of Roentgenology in 1913.  He saw the number of X-ray examinations at the University Hospital increase to ten thousand by the year 1922, which is the year that he died.  Samuel Wright Donaldson replaced him temporarily.</p>
+
+<p>Preston Manasseh Hickey was appointed Professor and Chairman of Roentgenology in the fall of 1922.  He had developed his interest in radiology through his hobby of photography, and clinical photography was an activity of the department under the guidance of both Hickey and Van Zwaluwenburg.  Hickey oversaw the plans for the department's facilities in the new University Hospital, which opened in 1925.  He died in 1930.</p>
+
+<p>Carleton Barnhart Peirce was appointed Interim Chair of the Department after Hickey's death, and in 1931, Fred Jenner Hodges accepted the permanent position.</p>
+
+<p>During Hodges' tenure as chair, he sought to renovate the department's facilities, though money was scarce.  He found he could upgrade the equipment more cheaply by modifying it in-house, using his or his colleagues' concepts, than he could by relying on industry.  In 1953, the name of the department was changed from Roentgenology to Radiology.</p>
+
+<p>Walter M. Whitehouse succeeded Hodges as chair in 1965.  He oversaw the department's role in the curriculum reforms in 1968, and the development of the medical service plan in 1974, which was a financial boon to the faculty of the Department of Radiology.</p>
+
+<p>Whitehouse resigned in 1979, and Douglass F. Adams took his place until 1981, when he resigned.</p>
+
+<p>William Martel, who had been on Michigan's faculty since 1957, was appointed acting chair, and, in 1982, he was given the permanent title.  He saw the move to a digital system of reporting exams in 1983 and the move to the new hospital in 1986, and he helped to establish the Department of Radiation Oncology in 1984.  This new department was chaired by Allen S. Lichter.  Martel resigned the chairmanship in 1992 to return to clinical practice and academic activities.</p>
+
+<p>N. Reed Dunnick was appointed as chair in 1992.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Department of Radiology Publications are divided into two series: Unit Publications, Sub-Unit Publications, and Topical Publications.</p>
+
+<p>The Unit Publications series contains a history of the department written in 1995 by William Martel on the occasion of the centennial of the discovery of the X-ray.  Also included are issues from two Department newsletters: <title render="italic"> The Roentgen Review</title> and <title render="italic">Radiology Information System Update</title>.  They were both published in the mid-1980's.</p>
+
+<p>The Sub-Unit Publications series contains a brochure from the Breast Cancer Detection Center detailing the procedure for a visit to the Center.</p>
+
+<p>The Topical Publications series contains a 1968 brochure describing some of the breakthroughs in research in radiology.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Radiology.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Breast Cancer Research Detection Center.</corpname>
+<title source="aacr2" encodinganalog="740">Roentgen review</title>
+
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<corpname source="lcnaf" encodinganalog="710">University of Michigan. Breast Cancer Research Detection Center.</corpname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Histories.</genreform>
+<genreform source="aat" encodinganalog="655">Newsletters.</genreform>
+<genreform source="aat" encodinganalog="655">Pamphlets.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Unit Publications</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Histories</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> The Distinguished History of Radiology at the U. of M.: On the Occasion of the Centennial Celebration of the Discovery of X-Rays</title>, by William Martel, <unitdate type="inclusive">1995</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Newsletters</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Radiology Information System Update</title>, <unitdate type="inclusive">1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> The Roentgen Review</title>, <unitdate type="inclusive">1984-1994</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Questionnaires</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Patient Satisfaction Questionnaire</title>, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Sub-Unit Publications</unittitle></did>
+<c02 level="file"><did><unittitle>Breast Cancer Detection Center</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Brochures, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Topical Publications</unittitle></did>
+<c02 level="file"><did><unittitle>Development</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Investment in Health</title>, <unitdate type="inclusive">1968</unitdate></unittitle></did></c03></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

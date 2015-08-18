@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::kermanc.xml//EN" encodinganalog="Identifier">
+umich-bhl-0424</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Cynthia Earl Kerman research files, 1927-2011
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Library staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change>
+<date>2013-01-23</date><item>Changes made with the addition of new material.</item></change>
+<change><date>2008-12-22</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Cynthia Earl Kerman research files, 1927-2011</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Library staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Kerman, Cynthia Earl.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Cynthia Earl Kerman research files
+<unitdate type="inclusive" encodinganalog="245$f">
+1927-2011
+</unitdate><unitdate type="bulk" encodinganalog="245$g">
+1927-1983
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.3 linear feet (in 2 boxes).
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0424 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Biographer of Kenneth E. Boulding. Collected information about life and career of Kenneth E. Boulding; tapes and transcripts of interviews with Kenneth E. Boulding and his family and associates; copies of Boulding articles; and photographs used in the biography.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was received in 1999 from Cynthia Earl Kerman (donor no. <num type="donor" encodinganalog="541$e">8876</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Cynthia Kerman has transferred her copyright to the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Cynthia Earl Kerman research files, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Cynthia Earl Kerman is a historian and biographer. She has written biographies of Jean Toomer and Kenneth E. Boulding. She was a professor of English at Villa Julie College in Stevenson, Maryland.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The collection is comprised of Cynthia Kerman's research file on Kenneth E. Boulding. In addition to collected materials, the files include interviews, correspondence, and audio cassettes of conversations with Kenneth Boulding.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Kerman, Cynthia Earl.</persname>
+<persname source="lcnaf" encodinganalog="600">Boulding, Kenneth Ewart, 1910-</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform><genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Kenneth E. Boulding Research Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bibliographies (KEB)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biography (proposal and development)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bouldingisms</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Christmas Letters from Bouldings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Conflict resolution:  history, letters, interviews, <unitdate type="inclusive">1972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Conversations (various interviews with the Bouldings)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence (between CEK and KEB)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence (between CEK and KEB regarding book), </unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence (between CEK and KEB's friends)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence (Kenworthy chapter)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Courtship and first years of marriage (interviews, Elise by CEK)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Elise Boulding (peace advocate)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Elise Boulding (Writings)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Elise Boulding: personal notes and correspondence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>England:  CEK correspondence with KEB's friends</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>England:  CEK interviews with KEB's friends</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Evaluations of KEB and his work</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Family relations (interviews, CEK with children)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Genealogy, KEB: copies of birth, marriage and death certificates, Jane Austen material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General Systems</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle> Ideas related to KEB</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Interviews, KEB mature life, with KEB, Elise, and children, <unitdate type="inclusive">1967-1969</unitdate>, copies of several KEB letters to publishers, etc.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Interviews with colleagues, Ann Arbor, <unitdate type="inclusive">1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Interviews CEK with KEB, <unitdate type="inclusive">1980</unitdate> and <unitdate type="inclusive">1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Leary checklist &amp; development charts</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notes on wirtings, KEB</unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pictures and notes on pictures</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Poetry, KEB, chronological <unitdate type="inclusive">1927-1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Public pronouncements, <unitdate type="inclusive">1953-1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Publicity, <unitdate type="inclusive">1956-1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reviews of <title render="italic"> Beyond Economics</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reviews of <title render="italic"> Conflict and Defense</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reviews of <title render="italic"> Creative Tension: the Life and Thought of Kenneth Boulding</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reviews of <title render="italic"> Economic Analysis</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reviews of <title render="italic"> Economics of Peace</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reviews of <title render="italic"> The Image</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reviews of <title render="italic"> Impact of the Social Sciences</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reviews of <title render="italic"> Meaning of the Twentieth Century</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reviews of <title render="italic"> The Organizational Revolution</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reviews of <title render="italic"> Principles of Economic Policy</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reviews of <title render="italic"> Reconstruction of Economics</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reviews of <title render="italic"> Skills of the Economists</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Schellenberg James A. (writer)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Spiritual autobiography at Ann Arbor Friends Meeting, <unitdate type="inclusive">July 1967</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Study of Values and TAT test</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Stuttering history</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>University of Michigan Press, <unitdate type="inclusive">1970-1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Writings, Elise,<unitdate type="inclusive">1974-2011</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Writings, KEB, <unitdate type="inclusive">1936-1956</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Writings, KEB, <unitdate type="inclusive">1957-1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Writings, KEB, <unitdate type="inclusive">1960-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Writings, KEB, <unitdate type="inclusive">1963-1965</unitdate></unittitle></did></c02>
+
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Writings, KEB, <unitdate type="inclusive">1966-1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Writings, KEB, <unitdate type="inclusive">1972-1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><genreform normal="Sound recordings">Audio tapes</genreform> of conversations with KEB, <unitdate type="inclusive">1983</unitdate> </unittitle> <physdesc><extent>4 cassettes</extent></physdesc></did></c02></c01>
+ 
+</dsc></archdesc>
+
+</ead>

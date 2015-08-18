@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::westerbg.xml//EN" encodinganalog="Identifier">
+umich-bhl-85461</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Martha Westerberg papers, 1947-1978
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-10-14</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Martha Westerberg papers, 1947-1978</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Westerberg, Martha.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Martha Westerberg papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1947-1978
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85461 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of neurology at the University of Michigan. Topical files largely concerning her interest in neurological subjects, notably myasthenia gravis; and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Dr. Westerberg (donor no. <num type="donor" encodinganalog="541$e">6521</num>) and came to the library in 1980.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Martha Westerberg papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Martha Westerberg was professor neurology at the University of Michigan.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of a single series of topical files relating to her research on neurological subject, particularly myasthenia gravis.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Myasthenia gravis.</subject>
+<subject source="lcsh" encodinganalog="650">Physicians--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Neurology.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Medical School.</corpname>
+<persname source="lcnaf" encodinganalog="600">Westerberg, Martha.</persname>
+<subject source="lcsh" encodinganalog="650">Women physicians--Michigan--Ann Arbor.$$2lcsh</subject>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lctgm" encodinganalog="650">Medical equipment.</subject>
+<persname source="lcnaf" encodinganalog="600">Westerberg, Martha R.</persname>
+<subject source="lctgm" encodinganalog="650">Women.</subject>
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Topical files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alcoholism</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Crebrospinal. Fluid Syndromes</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Collagen</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Encephalitis</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Epilepsy</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Headache</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History of Neurology</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mestinon</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Alcohol and Addiction Association</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Neurological Association </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Multiple Sclerosis</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Myasthenia Gravis</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Myasthenia Gravis Clinic, University of Michigan</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Myasthenia Gravis Foundation </unittitle> <physdesc><extent>11 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Myasthenia Lecture, <unitdate type="inclusive">1978</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Myasthenia Lectures</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Myasthenia Literature</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Myasthenia Gravis paper</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Myasthenia Gravis study</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Myasthenia Symposium, <unitdate type="inclusive">1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Myelitis</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mysuran paper</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Neuropathy</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ocular Anticholinesterase</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Parkinsonism</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Perpheral Neuritis</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Post Graduate Course</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Psychiatry</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Spasmodic Torticollis</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Strokes</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>TEPP</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Tensilon</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Drug Toxicities paper</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>WIN 8077</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform>: group photograph showing Westerberg with colleague and photograph of medical equipment, and</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

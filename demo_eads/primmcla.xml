@@ -1,0 +1,141 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::primmcla.xml//EN" encodinganalog="Identifier">
+umich-bhl-2009187</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Clarence J. Primm papers, 1918-1951</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections, Bentley Historical Library </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2010">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Len Coombs, 
+<date>2010</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc>
+<change><date>20100108</date><item>Original encoding.</item></change>
+<change><date>20120131</date><item>Edited to reflect migration of content from CD-ROM to Deep Blue JMBG</item></change>
+</revisiondesc>
+</eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Clarence J. Primm papers, 1918-1951</titleproper>
+
+<author>Finding aid created by<lb/> 
+Len Coombs, 2010</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Primm, Clarence J., 1886-1957.</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Clarence J. Primm papers<unitdate type="inclusive" encodinganalog="245$f">
+1918-1951</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">1 volume</extent>,<extent> 108 MB [15 digital files]</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2009187 Aa 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Papers of a soldier with the 339th Infantry in the  Allied intervention in Russia, 1918-1919, the "Polar Bear Expedition."</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Carol Primm, of Ocala, Florida, and Pete Stuntz, of Manitowoc, Wisconsin, in 2009 
+(Donor No. <num type="donor" encodinganalog="541$e">10245</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open for research.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>item, folder title, box no., Clarence J. Primm papers, 1918-1951, Bentley Historical Library, 
+University of Michigan</p></prefercite>
+</descgrp>
+<bioghist encodinganalog="545">
+<p>Clarence J. Primm was born in <geogname normal="South Dakota.">South Dakota,</geogname> worked as an educator in 
+<geogname normal="Michigan.">Michigan,</geogname> <geogname normal="Wisconsin.">Wisconsin,</geogname> and <geogname normal="Kansas.">Kansas,</geogname> 
+and after retirement lived in <geogname normal="Manitowoc (Wis.)">Manitowoc, Wis.</geogname> He served as First Lieutenant in 
+<corpname normal="United States. Army. Infantry, 339th. Company M.">Company M, 339th U.S. Infantry,</corpname> during the American intervention of 
+<geogname normal="Arkhangel'sk">Archangel, Russia.</geogname> As a staff officer he was one of the last Americans to leave 
+<geogname normal="Arkhangel'sk">Archangel</geogname> in September 1919.</p>
+</bioghist>
+
+<scopecontent><p>Teh Primm Papers include a typed <genreform normal="Reminiscences.">reminiscence</genreform> (titled "Polar Bear Tales") with transcribed copies of 
+<genreform normal="Letters (correspondence).">letters</genreform> written from <geogname normal="Russia.">Russia</geogname> describing Primm's experiences. 
+Also contains a digitized copy of the <genreform normal="Reminiscences.">reminiscence</genreform> and <genreform normal="Letters (correspondence).">letters</genreform> supplemented by <genreform normal="Photographs.">photos</genreform> and <genreform normal="Maps.">maps.</genreform></p><p>This collection contains digital ; the original papers and/or photographs are owned by the donor.  The digital items in this collection were digitized from originals by the individual donors before being received by the Bentley Historical Library.  Preservation copies of these files with their original file names and CD-ROM file structures intact have been submitted to Deep Blue.  Access copies of these digital files can be viewed by clicking on the links next to the individual folders in the Content List below.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Primm, Clarence J., 1886-1957.</persname>
+<geogname source="lcnaf" encodinganalog="651.">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Infantry, 339th.</corpname>
+<corpname encodinganalog="690" source="local">Polar Bear Expedition.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Papers</unittitle></did>
+
+<c02 level="file"><did><container type="box" label="Box">1</container>
+<unittitle>Volume: "Polar Bear Tales"</unittitle></did>
+<note><p>(Printed copy)</p></note></c02>
+
+<c02 level="file"><did><container type="folder" label="Folder">1</container>
+<unittitle>Digitized "Polar Bear Tales"</unittitle><physdesc><extent>15 files</extent></physdesc><dao show="new" actuate="onrequest" href="primm0001"><daodesc><p>[view items]</p></daodesc></dao></did>
+<note><p>(Note: The 15 PDF files that make up this folder have been merged into a single PDF file for the Access  Site.)</p></note></c02>
+
+</c01>
+
+
+
+
+</dsc></archdesc>
+
+
+</ead>

@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::webstdeb.xml//EN" encodinganalog="Identifier">
+umich-bhl-87353</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Webster Debating Society (University of Michigan) minute books, 1868-1916
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Library Staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2006-08-14</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-08-16</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Webster Debating Society <lb/>(University of Michigan) <lb/>Records, 1868-1916
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Library Staff
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Webster Debating Society.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Webster Debating Society (University of Michigan) minute books
+<unitdate type="inclusive" encodinganalog="245$f">
+1868-1916
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot (6 volumes)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+87353 Bimu M6 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Minutes, 1868-1881, 1895-1899, and 1905-1916, of the Webster Debating Society of the University of Michigan, a law school student organization.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were received from donor no. <num type="donor" encodinganalog="541$e">343</num>.
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506">
+<p>The record group is open without restriction.</p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+The collection is entirely in the public domain.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Webster Debating Society (University of Michigan) Minute Books, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Webster Debating Society was a student organization of the University of Michigan law school.</p>
+
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The collection comprises six volumes of minutes.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Law School.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Societies, etc.</corpname>
+<subject source="lcsh" encodinganalog="650">Debates and debating--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">Webster Debating Society (University of Michigan)</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Minutes</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October 1868</unitdate> -- <unitdate type="inclusive">February 1873</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">October 1873</unitdate> -- <unitdate type="inclusive">March 1881</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">October 1895</unitdate> -- <unitdate type="inclusive">December 1899</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">January 1905</unitdate> -- <unitdate type="inclusive">February 1908</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">March 1908</unitdate> -- <unitdate type="inclusive">March 1915</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">October 1915</unitdate> -- <unitdate type="inclusive">January 1916</unitdate></unittitle></did></c02></c01>
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

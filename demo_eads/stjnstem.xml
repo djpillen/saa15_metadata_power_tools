@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::stjnstem.xml//EN" encodinganalog="Identifier">
+umich-bhl-0242</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+St. John’s Episcopal Church, Temperance, Mich. records, 1963-1997
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+M. Ricah Marquez </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+M. Ricah Marquez, 
+<date>November 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-11-03</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+St. John’s Episcopal Church, <lb/>Temperance, Mich. <lb/>Records, 1963-1997</titleproper>
+
+<author>Finding aid created by<lb/> 
+M. Ricah Marquez, October 2006</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+St. John’s Episcopal Church (Temperance, Mich.)
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+St. John’s Episcopal Church, Temperance, Mich. records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1963-1997
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet and 3 oversize volumes
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0242 Ba 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+St. John’s Episcopal Church was established in 1963 in Temperance, MI.  The church closed in 1997 due to dwindling membership.  The records contain meeting minutes, photographs, financial reports, correspondence, and membership and church activity records.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group came from the Episcopal Church, Diocese of Michigan (donor no. <num type="donor" encodinganalog="541$e">1059</num>.</p></acqinfo>
+
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+St. John’s Episcopal Church, Temperance, Mich. records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>St. John's Episcopal Church, established in 1963, served the area around Temperance, MI.  The Episcopal Diocese of Michigan along with Reverend C. M. Stuart and the Trinity Episcopal Church parish in Monroe, MI, founded St. John's Mission.  Bishop Archie H. Crowley held the first service on July 21, 1963, at the Temperance Library.  Land was purchased in November 1964, and on July 25, 1969, the Mission held a groundbreaking ceremony.  It was not until January 18, 1970, when the first service was held at the new church building.  During its history, the church conducted traditional services and ceremonies sanctioned by the Episcopalian faith.  In 1997, the Church closed down because of the dwindling numbers of active members.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>St. John's Episcopal Church records consist of The records contain meeting minutes, photographs, financial reports, correspondence, and membership and church activity records.  The records are organized into eight series: Registers of baptisms, communicants, burials, marriages, etc.; Registers of services ; Membership records; Photographs and Background Material; Activities; Administrative Records; Bishop's Committee Meetings, and Miscellaneous.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">St. John's Episcopal Church (Temperance, Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Registers of births, etc.--Michigan--Temperance.</subject>
+<corpname source="lcnaf" encodinganalog="610">Episcopal Church--Michigan--Temperance.</corpname>
+<geogname source="lcsh" encodinganalog="651">Temperance (Mich.)--Church history.</geogname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Registers of baptisms, communicants, burials, marriages, etc.</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1963-1982</unitdate> </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">1</container><unittitle><unitdate type="inclusive">1981-1996</unitdate> </unittitle></did> </c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Baptisms (loose materials), <unitdate type="inclusive">1979-1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Confirmations (loose materials), <unitdate type="inclusive">1965</unitdate>, <unitdate type="inclusive">1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Marriages (loose materials), <unitdate type="inclusive">1980-1985</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Registers of Services</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1963-1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1977-1997</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Membership records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Transfers, <unitdate type="inclusive">1965-1996</unitdate></unittitle></did></c02>
+    <c02 level="file"><did><container type="volume" label="Oversize Volume">2</container><unittitle>St. John's Parish list, <unitdate type="inclusive">1963-1968</unitdate> </unittitle></did> </c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform> and Background Material</unittitle></did>
+    <c02 level="file"><did><container type="volume" label="Oversize Volume">3</container><unittitle>Scrapbook / photograph album of church activities and personalities, <unitdate type="inclusive">1963-1970</unitdate> </unittitle></did> </c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Photographs, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Historical Background, <unitdate type="inclusive">1963-1997</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Activities</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Fall Retreat, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Memorial Committee, <unitdate type="inclusive">1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Youth Ministry, <unitdate type="inclusive">circa 1960s</unitdate> and <unitdate type="inclusive">1984</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Administrative Records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Building Donations, <unitdate type="inclusive">1969-1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Financial Reports </unittitle> <physdesc><extent>6 folders</extent></physdesc></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1970-1975</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1996-1997</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Grant Proposals, <unitdate type="inclusive">1981-1986</unitdate>, <unitdate type="inclusive">1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Loan Repayment, <unitdate type="inclusive">1982-1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Salary and Benefit Policy Committee, <unitdate type="inclusive">1972-1976</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Bishop's Committee Meeting</unittitle></did>
+<c02 level="file"><did><unittitle>Meeting minutes</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1963-1975</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1980-1982</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1987-1994</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Secretary's records (?) containing minutes and financial material</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Lay Readers, <unitdate type="inclusive">1983</unitdate>, <unitdate type="inclusive">1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous programs, newspapers, announcements, <unitdate type="inclusive">1967-1971</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

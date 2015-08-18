@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::amaranth.xml//EN" encodinganalog="Identifier">
+umich-bhl-90166</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Amaranth Club (Jackson, Mich.) records, 1898-1992
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Melissa Johnson </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-10-31</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Amaranth Club (Jackson, Mich.) records, 1898-1992</titleproper>
+
+<author>Finding aid created by<lb/> 
+Melissa Johnson, 1990</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Amaranth Club (Jackson, Mich.)
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Amaranth Club (Jackson, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1898-1992
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1920-1980
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+90166 Bk 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Catholic women's literary club of Jackson, Michigan. Historical materials, minutes of meetings, meeting programs, and scrapbooks detailing club activities.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were received from Mrs. Paul Crigo (donor no. <num type="donor" encodinganalog="541$e">7799</num>) in May 1990.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Amaranth Club (Jackson, Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Amaranth Club of Jackson, Michigan was established in October 1897 and was the second women's Catholic literary club in Michigan; the first was the Catholic Woman's Study Club of Detroit.  The Amaranth Club was the first Catholic Literary Club to join the State Federation of Clubs in 1904.</p>
+
+<p>The Amaranth Club was founded by Mrs. James Falihee who thought that there should be a Catholic literary club in Jackson in addition to the other literary clubs that already existed.  The first year, 1897-98, the Amaranth Club numbered 23 members.  At its founding the object of the Amaranth Club was "mutual improvement," and this object has been in the bylaws to the present.  The women of the club presented their own programs, book reviews, readings, plays, debates, skits and musical presentations often having to do with current events and topics.  The Amaranth Club met weekly from October through April.</p>
+
+<p>The Amaranth Club was primarily a literary club, not a charity club.  However, throughout the years it donated much of its time and effort to charitable causes, especially during the depression and war years.  A Student Loan Fund was established in the late 1920s.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The records of the Amaranth Club date from 1898 to 1990, with the bulk dating from 1920 to 1980, and measure 2 linear feet.  The collection has been broken down into four series: Historical Materials,  Meeting Minutes (1921-1979), Meeting Programs (1898-1980), and Scrapbooks.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Amaranth Club (Jackson, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Catholic Church--Michigan--Jackson--Societies, etc.</corpname>
+<geogname source="lcsh" encodinganalog="651">Jackson (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Literature--Societies, etc.--Michigan--Jackson.</subject>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Jackson--Societies and clubs.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Historical Materials</unittitle></did><scopecontent><p>The Historical Materials are comprised of several histories of the Amaranth Club written by members at different points of the history of the club.  </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Various histories, various dates</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Meeting Minutes, <unitdate type="inclusive">1921-1979</unitdate></unittitle></did><scopecontent><p>The Meeting Minutes (1921-1979) make up about half of the collection.  Until 1965 they were written out longhand in bound volumes; after 1965 they were typed on loose paper.  Financial reports are included until 1965 in the bound volumes, but not after.  There are also newspaper clippings and other miscellaneous items in the bound meeting minutes.  The minutes give a detailed account of each meeting, describing not only the topic of the meeting but also sometimes what people wore and ate.  The minutes are complete except for the years 1897-1920, 1937-1939, and 1955-1959. At the end of this series is a list of members from 1966-1980 that was found at the end of the loose, unbound minutes.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">December 13, 1921-November 20, 1923</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October 7, 1924-April 26, 1927</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October 4, 1927-April 1, 1930</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">April 8, 1930-February 21, 1933</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">February 28, 1933-March 24, 1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October 1, 1940-March 21, 1944</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October 3, 1944-March 25, 1947</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October 5, 1947-February 27, 1951</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">March 6, 1951-February 8, 1955</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October 27, 1959-March 23, 1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">September 25, 1965-December 9, 1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January 13, 1970-March 26, 1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October 15, 1974-December 13, 1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January 10, 1978-December 11, 1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Amaranth Club members (1966-1980)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Meeting Programs, <unitdate type="inclusive">1899-1992</unitdate></unittitle></did><scopecontent><p>Meeting Programs were printed for each year and list the topics of each program.  A member list and a copy of the bylaws are printed at the end of each program.  The series is almost complete from 1898 to 1980. Only the following years are missing:  1941-42, 1942-43, 1943-44, 1970-71, and 1977-78.  </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1899/1900-1909/1910</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1910/1911-1919/1920</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1920/1921-1929/1930</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1930/1931-1939/1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1940/1941-1949/1950</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1950/1951-1959/1960</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1960/1961-1969/1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1970/1971-1979/1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1991/1992</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform></unittitle></did><scopecontent><p>The Scrapbook series is comprised of two scrapbooks; both have been unbound as they are very fragile.  The first scrapbook contains newspaper clippings and other items relating to the Amaranth Club and its members.  The first part of the second scrapbook is a collection of clippings and other memorabilia of the Athena Club, another women's literary club in Jackson, Michigan which was established in 1885.  The second half is made up of clippings of the Amaranth Club.  Perhaps a member of the Amaranth Club had previously belonged to the Athena Club and simply continued her scrapbook when she switched clubs.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous Loose Items (scattered dates)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Amaranth Club, <unitdate type="inclusive">1922-1952</unitdate> (scattered dates)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Athena Club and Amaranth Club, <unitdate type="inclusive">1927-1966</unitdate> (scattered dates)</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

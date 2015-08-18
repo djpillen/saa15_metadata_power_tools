@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::wolvcoop.xml//EN" encodinganalog="Identifier">
+umich-bhl-87246</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Michigan Wolverine Student Cooperative  (University of Michigan)  records, 1932-1943
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Library Staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2006-08-14</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-08-14</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Michigan Wolverine Student Cooperative  <lb/>(University of Michigan) <lb/>Records, 1932-1943
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Library Staff
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">Michigan Wolverine Student Cooperative (University of Michigan)
+</corpname></origination>
+
+<unittitle encodinganalog="245">Michigan Wolverine Student Cooperative (University of Michigan) records
+<unitdate type="inclusive" encodinganalog="245$f">1932-1943
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">2 linear feet and 1 outsize item
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">87246 Bimu F54 2 F54 Outsize
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Records, 1932-1943, of the Michigan Cooperative Boarding House of the University of Michigan, a cooperative eating club for students that was reorganized in 1937 as the Michigan Wolverine Student Cooperative.  Include minutes, reports, correspondence, financial records and print materials.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was received in multiple accessions from different individuals and organizations (donor nos. <num type="donor" encodinganalog="541$e">566</num>, <num type="donor" encodinganalog="541$e">1384</num>, <num type="donor" encodinganalog="541$e">2942</num> and <num type="donor" encodinganalog="541$e">2882</num>).
+
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506">
+<p>The record group is open without restriction.</p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Michigan Wolverine Student Cooperative  (University of Michigan) Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Organized in 1932 as a cooperative eating club for students, the Michigan Cooperative Boarding House was reorganized in 1937 as the Michigan Wolverine Student Co-op.  A historical sketch is included in the records.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The records are organized in two main series: Records of the Michigan Cooperative Boarding House and Records of the Michigan Wolverine Student Cooperative, both of which comprise minutes, reports, correspondence and financial records.  A third series, Miscellaneous, comprises a single oversize print of a tree of knowledge.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Cooperative societies--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1931-1940.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1941-1950.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan Wolverine Student Cooperative (University of Michigan)</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Records of Michigan Cooperative Boarding House</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1932-1934</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters, <unitdate type="inclusive">1932-1933</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Audit, <unitdate type="inclusive">1934</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Historical Sketch, <unitdate type="inclusive">1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Records of Michigan Wolverine Student Cooperative, Inc.</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive">1937-1940</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletter, <unitdate type="inclusive">1938-1939</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution and Bylaws</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers, <unitdate type="inclusive">1937-1944</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Manual of the Accounting System</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Reports, <unitdate type="inclusive">1937-1942</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Summary Payroll Sheets, <unitdate type="inclusive">1940-1942</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notes Payable to Sponsors</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Cash Recapitulation, <unitdate type="inclusive">1941-1942</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Financial Reports </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Financial Ledgers, <unitdate type="inclusive">1938-1943</unitdate> </unittitle> <physdesc><extent>6 volumes</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Tree of Knowledge </unittitle> <physdesc><physfacet>(Outsize Print</physfacet></physdesc></did></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

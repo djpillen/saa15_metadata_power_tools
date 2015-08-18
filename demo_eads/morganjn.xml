@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::morganjn.xml//EN" encodinganalog="Identifier">
+umich-bhl-2014108</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+James N. Morgan papers, 1939-2010
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Hannah Jenkins, 2013</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2014">
+2014</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2014</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2014-07-28</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+James N. Morgan papers, 1939-2010</titleproper>
+
+<author>Finding aid created by<lb/> 
+Hannah Jenkins, 2013</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Morgan, James N.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+James N. Morgan papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1939-2010
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1947-1999
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2014108 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+James N. Morgan was a professor of economics and researcher in the Institute for Social Research at the University of Michigan from 1949 to 1987. The collection ranges from 1939 to 2010 with the bulk being from 1947-1999. It includes biographical information, research, and writings that Morgan produced before, during, and after his time at the university.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by James Morgan (Donor No. <num type="donor" encodinganalog="541$e">10921</num>) in April 2013. 
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research without restriction.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+James N. Morgan papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>James N. Morgan was born March 1, 1918, in Corydon, Indiana on his grandfather's farm. He had one brother, Burton. He also lived in Iowa City, Seattle, and Evanston with his mother. He earned his B.A. from Northwestern University in 1939, and his M.A. and Ph.D. from Harvard University in 1941 and 1947, respectively. He was appointed to an assistant professorship at Brown University in 1947, immediately after receiving his doctorate. Morgan began working at the University of Michigan in 1949 as a postdoctoral fellow in economics and he was appointed to assistant program director at the University's Survey Research Center in 1951. He was promoted to program director in 1956 and became a full professor of economics in 1958. He was awarded the Distinguished Faculty Award and was the first professor at the University of Michigan to receive the W.S. Woytinsky Lectureship Award in 1977. Upon retiring from the university in 1987, he was awarded the titles of Research Scientist Emeritus and Professor Emeritus of Economics. Over the course of almost 40 years at the University of Michigan, Morgan produced 30 books, 37 book chapters, and 25 journal articles. His research focused on consumer behavior, the distribution of income and wealth, economic survey methods, housing status, and more.</p>
+
+<p>Morgan married Gladys Hassler in 1945 and had four children: Ken, Tim, John, and Janet. His wife passed away in 1996. </p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+
+<p>The James N. Morgan collection includes biographical information, research, and writings that Morgan produced before, during, and after his time at the university, spanning the years  1939 to 2010 with the bulk being from 1947-1999.  The collection is organized in three series: Biographical Material, Correspondence, and Research.
+</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Consumer behavior--Study and teaching--Michigan.</subject>
+<persname source="lcnaf" encodinganalog="600">Morgan, James N., 1918-</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Institute for Social Research.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Biographical Material</unittitle></did>
+<scopecontent><p>The series Biography Material contains information about Morgan and photographs of himself, family, friends, and co-workers. Also included are various writings that Morgan produced, including those published in scholarly journals, newspaper articles, and personal musings and journals. These are all contained within one folder.</p></scopecontent>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Biographical Material</unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Photographs, <unitdate type="inclusive">1939-2000</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Writings</unittitle></did>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"Can We Measure the Marginal Utility of Money?" <unitdate type="inclusive">1945</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"The Burden of Important Duties: Comment," <unitdate type="inclusive">1947</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"Milk Monopoly?" <unitdate type="inclusive">ca. 1947</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"Individual Savings in <unitdate type="inclusive">1947</unitdate> and 1948" <unitdate type="inclusive">1948</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"Land Use in Central Boston," <unitdate type="inclusive">1948</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"The Measurement of Gains and Losses," <unitdate type="inclusive">1948</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"The New British Town and Country Planning Act," <unitdate type="inclusive">1948</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"Providence Rhode Island," <unitdate type="inclusive">1948</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"Bilateral Monopoly and the Competitive Output," <unitdate type="inclusive">1949</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"A Note on the Justification for Price Discrimination," <unitdate type="inclusive">1949</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"Survey Would Be Costly," <unitdate type="inclusive">1965</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"An Open Letter to the Church on its Mission in the World Today," <unitdate type="inclusive">1969</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"Letter to the Editor of <title render="italic"> Research</title> News," <unitdate type="inclusive">1988</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"A Meditation on Passing the Peace," <unitdate type="inclusive">1988</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"Poor Would Feel Crunch of Higher State Sales Tax," <unitdate type="inclusive">1988</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"Children Should Be Society's First Priority," <unitdate type="inclusive">1989</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"Some Suggestions on Helping People with Alzheimer's," <unitdate type="inclusive">1991</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"Recollections of Northwestern in the Late Thirties," <unitdate type="inclusive">1992</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"Fiftieth Anniversary: A Half-Century Retrospective Account," <unitdate type="inclusive">1995</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"An Account of Gladys' Travels," <unitdate type="inclusive">1996</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"Some Reflections on the Life of Gladys Morgan," <unitdate type="inclusive">1996</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"The Proper Economic Role of Government in a Free Society," <unitdate type="inclusive">1998</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"Some Windmills at Which I Have Been Tilting," <unitdate type="inclusive">1999</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>"Article Perpetuates Notion that Social Security Can Fund Itself," <unitdate type="inclusive">2008</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<scopecontent><p>The Correspondence series is separated into two files. The first is a general file containing correspondence between Morgan and others within the department, as well as personal letters unrelated to academia. The second section is correspondence specifically regarding Study 721 and Study 745 which Morgan worked on at the Institute for Social Research at the University of Michigan.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive">1955-1988</unitdate> (scattered dates)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Regarding Study 721 and 745, <unitdate type="inclusive">1965-1967</unitdate>, <unitdate type="inclusive">1969</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Manuals</unittitle></did>
+<scopecontent><p>The Manuals series contains two files. The first is the instruction manual for OSIRIS IV, a data analysis system used by the Institute for Social Research. The second file contains the first and second editions of the Statistical Analysis System (SAS) guide which replaced the OSIRIS system.</p></scopecontent>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>OSIRIS IV, <unitdate type="inclusive">1981</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Statistical Analysis System (SAS) Guide for the OSIRIS User, <unitdate type="inclusive">1994-1995</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Research</unittitle></did>
+<scopecontent><p>The Research series contains files on three specific studies that Morgan worked on. The first is Study 678 which looks at the income of various families across the country. The second, Study 721, is an examination of economic behavior. The final study, 745, is an analysis of working status as well as consumer finances. Study 745 is a combination of research from Study 721 and Study 741 (not included in this collection). The series also contains Morgan's data from the OSIRIS system, and a report on the limitations of survey data.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>OSIRIS IV Data, <unitdate type="inclusive">1978-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Study 678: Low Income Study, Income and Welfare in the United States, <unitdate type="inclusive">1960</unitdate>, <unitdate type="inclusive">1967</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Study 721: Economic Behavior of Individuals, <unitdate type="inclusive">1964-1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Study 745: Study of Working and Planning and Survey of Consumer Finances (a combination of Study 721 and Study 741), <unitdate type="inclusive">1964-1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Values and Limitations of Survey Saving Data, <unitdate type="inclusive">1954</unitdate></unittitle></did></c02></c01> 
+
+</dsc></archdesc>
+
+</ead>

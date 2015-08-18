@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::umpicas.xml//EN" encodinganalog="Identifier">
+umich-bhl-9815</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Program for Inter-Institutional Collaboration in  Area Studies (University of Michigan) records, 1985-1995
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Eric Hartmann, February 1998</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2009-03-06</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Program for Inter-Institutional Collaboration in  Area Studies (University of Michigan) records, 1985-1995
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Eric Hartmann, February 1998
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Program for Inter-Institutional Collaboration in  Area Studies.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Program for Inter-Institutional Collaboration in  Area Studies (University of Michigan) records
+<unitdate type="inclusive" encodinganalog="245$f">
+1985-1995
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9815 Bimu 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Joint program between the University of Michigan, Associated Colleges of the Midwest and the Great Lakes Colleges Association to support student and faculty study and research in non-western area studies through grants, fellowships, conferences and programs.  Records consist of grant proposals, minutes of the steering committee, correspondence, evaluations, and applications for research grants and summer language fellowships.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was received in November 1997 	from the International Institute (donor number <num type="donor" encodinganalog="541$e">8654</num>).
+
+ 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>Periodic additions to the records expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The collection is open without restriction.</p>
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Program for Inter-Institutional Collaboration in  Area Studies (University of Michigan) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Program for Inter-Institutional Collaboration in Area Studies (PICAS), founded in early 1986, was a joint program between the University of Michigan, the Associated Colleges of the Midwest (ACM) and the Great Lakes Colleges Association (GLCA). It was designed to allow students and faculty of schools within the consortia to have access to the resources of the six University of Michigan study areas (listed on following page). PICAS sponsored conferences on non-western topics both at the University of Michigan and at affiliated colleges. Research grants were available to faculty of the colleges to come to Ann Arbor. Short-term grants, typically one week, were open to students and faculty. PICAS also sponsored summer language fellowships, through which recipients received intensive instruction in a study area language. Some of the fellowship recipients were taught at Beloit College. All grants and fellowships were awarded on a competitive basis. PICAS was governed by a steering committee consisting of the project director, the executive director, the presidents of ACM and GLCA, representatives from two of the six area study centers, and two faculty members each from ACM and GLCA. PICAS was funded by a series of grants from the Andrew Mellon Foundation and the Ford Foundation. From 1985 to 1990, the Pew Memorial Trust also contributed funding to PICAS. PICAS was closed when the grants expired in September 1995.</p>
+
+
+<p><chronlist><head>Program for Inter-institutional Collaboration in Area Studies Directors</head>
+<chronitem><date>1986</date><event>John Eadie</event></chronitem>
+<chronitem><date>1986-1987</date><event>Karl L. Hutterer</event></chronitem>
+<chronitem><date>1987-1988</date><event>John Cambell</event></chronitem>
+<chronitem><date>1988-1995</date><event>Ernst N. McCarcus</event></chronitem>
+</chronlist></p>
+
+
+<p>
+<list type="simple"><head>Member Institutions</head>
+<item>Associated Colleges of the Midwest 
+<list type="simple"><item>Beloit College</item>
+<item>Carleton College</item>
+<item>Coe College</item>
+<item>College of the University</item>
+<item>Colorado College</item>
+<item>Cornell College</item>
+<item>Grinnell College</item>
+<item>Knox College</item>
+<item>Lake Forest College</item>
+<item>Lawrence College</item>
+<item>Macalester College</item>
+<item>Monmouth College</item>
+<item>Ripon College</item>
+<item>St. Olaf College</item></list></item>
+<item>Great Lakes Colleges Association
+<list type="simple"><item>Albion College</item>
+<item>Antioch College</item>
+<item>Denison College</item>
+<item>DePauw College</item>
+<item>Earlham College</item>
+<item>Hope College</item>
+<item>Kalamazoo College</item>
+<item>Kenyon College</item>
+<item>Oberlin College</item>
+<item>Ohio Wesleyan</item>
+<item>Wabash College</item>
+<item>Wooster College</item></list></item>
+<item>University of Michigan area study centers
+<list type="simple"><item>Center for Afroamerican and African Studies</item>
+<item>Center for Chinese Studies</item>
+<item>Center for Japanese Studies</item>
+<item>Center for Middle Eastern and North African Studies</item>
+<item>Center for Russian and East European Studies</item>
+<item>Center for South and Southeast Asian Studies</item></list></item>
+</list>
+
+</p>
+
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>This record group is divided into four major series: Administrative, Applications, Correspondence and Grants.</p>
+
+<p>Administrative contains material concerning the running of the program. It contains the minutes of the steering committee as well as some smaller committees. Reports on PICAS activities, most written by the executive director, and evaluations of PICAS written by grant and fellowship recipients are included. The steering committee minutes in particular offer significant detail on PICAS activities and programs.</p>
+
+<p>Applications include mostly the proposals for conferences to be sponsored by PICAS and for faculty long term research grants. Some proposals and applications for other research grants and the summer language fellowship are also included. These files also have summary information on the number of fellowships awarded and evaluation of the fellowships and summer language programs.</p>
+
+<p>Correspondence contains material chiefly written and received by William Kincaid, executive director of PICAS. It contains incoming and outgoing correspondence from the faculty, students and administrators of the participating colleges. The bulk of the material concerns the summer language fellowships and the long-term faculty research grants.</p>
+
+<p>Grants is organized by the dates of the grants awarded to PICAS. It contains the grant applications and correspondence with the donors. It also contains information on possible sources to renew the grant beyond 1995.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Program for Inter-institutional Collaboration in Area Studies.</corpname>
+<subject source="lcsh" encodinganalog="650">Area studies.</subject>
+<subject source="lcsh" encodinganalog="650">Universities and colleges--Middle West.</subject>
+<subject source="lcsh" encodinganalog="650">Language and languages--Study and teaching (Higher)</subject>
+<corpname source="lcnaf" encodinganalog="610">Great Lakes Colleges Association.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Associated Colleges of the Midwest.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Administrative</unittitle></did>
+<c02 level="file"><did><unittitle>Committees</unittitle></did>
+<c03 level="file"><did><unittitle>Steering Committee, <unitdate type="inclusive">1986-1994</unitdate> </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><unittitle>Summer Language Fellowship Selection Panel, <unitdate type="inclusive">1986-1988</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Evaluation, <unitdate type="inclusive">1988-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>News Releases, <unitdate type="inclusive">1986-1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Reports</unittitle></did>
+<c03 level="file"><did><unittitle>Annual Report, <unitdate type="inclusive">1986-1993</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>Executive Director's Report, <unitdate type="inclusive">1987-1990</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>Weekly Report, <unitdate type="inclusive">1986-1988</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Evaluations</unittitle></did>
+<c03 level="file"><did><unittitle>General, <unitdate type="inclusive">1988-1989</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>Faculty Research Grants, <unitdate type="inclusive">1991-1992</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>Summer Language Fellowship, <unitdate type="inclusive">1987-1995</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Applications</unittitle></did>
+<c02 level="file"><did><unittitle>Conferences</unittitle></did>
+<c03 level="file"><did><unittitle>Guest Lecturers, <unitdate type="inclusive">1988-1991</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>Oberlin College Soviet Studies Conference, <unitdate type="inclusive">1988-1989</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>Conference Support Grants, <unitdate type="inclusive">1987-1990</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>University of Michigan</unittitle></did>
+<c04 level="file"><did><unittitle>East Asian Business Conference, <unitdate type="inclusive">1988-1989</unitdate></unittitle></did></c04>
+<c04 level="file"><did><unittitle>Middle East Cultural Conference, <unitdate type="inclusive">1988</unitdate></unittitle></did></c04>
+<c04 level="file"><did><unittitle>Midwest Slavic Conference, <unitdate type="inclusive">1987</unitdate></unittitle></did></c04>
+<c04 level="file"><did><unittitle>Video Teaching Roundtable, <unitdate type="inclusive">1988</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Wabash College Africa Week, <unitdate type="inclusive">1989-1990</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Long-Term Faculty Research Grants, <unitdate type="inclusive">1988-1995</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Short-Term Faculty Research Grants, <unitdate type="inclusive">1993-1995</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Summer Language Fellowships, <unitdate type="inclusive">1989-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Summary, <unitdate type="inclusive">1986-1995</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence<unitdate type="inclusive">1986-1995</unitdate> </unittitle> <physdesc><extent>13 folders</extent></physdesc></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">1986-1995</unitdate> </unittitle> <physdesc><extent>13 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><container type="box" label="Box">3</container><unittitle>Grants</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>First Grant (1985-1990), <unitdate type="inclusive">1985-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Second Grant (1990-1993), <unitdate type="inclusive">1989-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Supplemental Grant (1992-1993), <unitdate type="inclusive">1992-1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Third Grant (1993-1995), <unitdate type="inclusive">1993-1995</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Non-PICAS Proposals, <unitdate type="inclusive">1995</unitdate></unittitle></did></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

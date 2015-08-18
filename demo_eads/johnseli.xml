@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::johnseli.xml//EN" encodinganalog="identifier">
+umich-bhl-88482
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Elias Finley Johnson student notebook
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Bentley Library Historical Library Staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>Nov. 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20051129</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Elias Finley Johnson student notebook</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Library Historical Library Staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Johnson, Elias Finley, 1861-1933
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Elias Finley Johnson student notebook
+<unitdate type="inclusive" encodinganalog="245$f">
+1888-1889
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 volume
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+88482 Aa/1
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Law student at the University of Michigan. Student notes taken on Levi T. Griffin's evidence course.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Donor no.  
+<num type="donor" encodinganalog="541$e">343</num></p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Elias Finley Johnson Student Notebook, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Elias Finley Johnson was born in Van Wert, Ohio, June 24, 1861.
+He received B.S. degree from, National normal University of , Lebanon, Ohio and law degrees from the University of Michigan-LL.B. in 1890 and LL.M. in 1891;  He married Clara A. Smith, Sept. 6, 1883 with whom he had two children—Mrs. A. D. Gibbs and David Cecil. He served in the Ohio House of Representatives, 1883-87.  Johnson joined the faculty of the University of Michigan Law School in 1890.  He held  positions of  assistant and instructor in law, 1890-94; assistant professor, 1894-95; and professor of law, 1895-1901. He served as a judge, CFI of Pangasinan, 1901 and as associate judge on the Supreme Court of Philippine Islands, 1903-1933. He was also a member of Board of Regents University of the Philippines. He was the author of  <title render="italic">Johnson on Bills and Notes</title> and several treatises on Philippine law.  Johnson died July 31, 1933 in Palo Alto, California.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Elias Finley Johnson collection consists of a single volume of his  student notes taken on Levi T. Griffin's evidence course at the University of Michigan.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Griffin, Levi T. (Levi Thomas), 1837-1906.</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Law.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Student notebooks.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01><did><unittitle>Papers</unittitle></did><c02><did><container type="volume" label="Volume">1</container><unittitle>Student Notebooks on Levi/ T. Griffin's Evidence Course</unittitle></did></c02></c01></dsc></archdesc>
+
+</ead>

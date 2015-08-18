@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::jonessva.xml//EN" encodinganalog="Identifier">
+umich-bhl-851589</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Sarah Van Hoosen Jones papers, 1898-1972
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-18</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Sarah Van Hoosen Jones papers, 1898-1972</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Jones, Sarah Van Hoosen.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Sarah Van Hoosen Jones papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1898-1972
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851589 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Stony Creek and Rochester, Michigan, farmer and cattle breeder; president of the Association of Governing Boards of State Universities and Allied Institutions and member of the Committee for the White House Conference on Education. Professional and family correspondence, including letters from her mother, Alice Van Hoosen Jones, relating to everyday life, particularly in the period, 1900-1930.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Dr. Sarah Van Hoosen Jones (donor no. <num type="donor" encodinganalog="541$e">4427</num>)  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Sarah Van Hoosen Jones papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Sarah Van Hoosen Jones was born June 23, 1892 on the family farm at Stony Creek near Rochester, Michigan.  She went on to the University of Chicago where she majored in languages and then to the University of Wisconsin where she earned a doctorate in animal genetics. She returned to the farm where she operated an animal husbandry business, specializing in chickens, cattle, and milk production. Her farm was for many years noted for one of the best herds of Holstein-Frisian cattle in the Midwest.</p>
+     
+<p>Sarah Van Hoosen Jones had a lifelong interest in Michigan State University serving on the State Board of Agriculture, the governing board of the university from 1944 through 1955. In addition, she was for many years the MSU representative on the Association of Governing Bodies of State Universities and Allied Institutions.  She served as president of the Association in 1955. In 1956, she donated her farm to Michigan State University. She died in August 1972.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection includes correspondence and other papers regarding Jones' professional activities, the operation of her farm and cattle business, and to family matters.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Agriculture--Michigan--Oakland County.</subject>
+<corpname source="lcnaf" encodinganalog="610">Association of Governing Boards of State Universities and Allied Institutions.</corpname>
+<subject source="lcsh" encodinganalog="650">Farmers--Michigan--Oakland County.</subject>
+<geogname source="local" encodinganalog="691">Michigan--Social life and customs--1901-1910.</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Social life and customs--1911-1920.</geogname>
+<geogname source="lcsh" encodinganalog="651">Rochester (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Stony Creek (Oakland County, Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">White House Conference on Education (1955 : Washington, D.C.)</corpname>
+<subject source="lcsh" encodinganalog="650">Women civic leaders--Michigan--Oakland County.</subject>
+<subject source="lcsh" encodinganalog="650">Women in agriculture--Michigan--Oakland County.</subject>
+<subject source="lcsh" encodinganalog="650">Civic leaders--Michigan--Oakland County.</subject>
+<geogname source="lcsh" encodinganalog="651">Michigan--Social life and customs--20th century.</geogname>
+
+
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Jones, Alice Van Hoosen, 1855-1950.</persname>
+<persname source="lcnaf" encodinganalog="700">Van Hoosen, Bertha, 1863-</persname></controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1898-1900</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1901-1910</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1911-1912</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1913</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1914</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1915</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1916</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1917</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1918</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1919-1920</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1921-1923</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1923-1925</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1926-1930</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1931-1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1941-1950</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1951</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1952</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1953-1955</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1956-1960</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1961-1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1971-1972</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other papers</unittitle></did>
+<c02 level="file"><did><unittitle>Association of Governing Boards</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive">1954-1955</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Other papers, <unitdate type="inclusive">1954-1955</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Committee for the White House Conference on Education, <unitdate type="inclusive">1955</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings and obituaries</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellanea</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

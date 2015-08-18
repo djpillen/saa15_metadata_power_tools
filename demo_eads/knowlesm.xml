@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::knowlesm.xml//EN" encodinganalog="Identifier">
+umich-bhl-92381</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Margaret Keal Knowles photograph collection, ca. 1860-ca. 1920
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-17</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Margaret Keal Knowles photograph collection, ca. 1860-ca. 1920</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Knowles, Margaret Keal, collector.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Margaret Keal Knowles photograph collection 
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1860-ca. 1920
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.25 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+92381 UA 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Family photographs accumulated by Margaret Keal Knowles.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was accumulated by Margaret Keal Knowles (donor no. <num type="donor" encodinganalog="541$e">5889</num>).  
+</p></acqinfo>
+
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the collection are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+No copyright restrictions.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Margaret Keal Knowles photograph collection, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>No biographical information available.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of portraits and other photographs of Washington Irving Keal, Nellie Annetta Keal, Thomas Keal, Lucy Ann Wyman Smith, and other members of the Keal, Crandell, Smith, and White families of Ann Arbor and Dexter, Michigan. Apart from portraits, the collection also includes photographs of buildings in Dexter, Michigan, the store of John L. Crandell in Rochester, Michigan, and the Orin White house in Ann Arbor.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Dwellings.</geogname>
+<subject source="lctgm" encodinganalog="650">Business enterprises--Michigan--Rochester.</subject>
+<persname source="lcnaf" encodinganalog="600">Crandell, John L.</persname>
+<famname source="lcnaf" encodinganalog="600">Crandall family.</famname>
+<geogname source="lcsh" encodinganalog="651">Dexter (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Ann Arbor.</subject>
+<persname source="lcnaf" encodinganalog="600">Keal, Nellie Annetta.</persname>
+<persname source="lcnaf" encodinganalog="600">Keal, Thomas.</persname>
+<persname source="lcnaf" encodinganalog="600">Keal, Washington Irving, 1842-</persname>
+<famname source="lcnaf" encodinganalog="600">Keal family.</famname>
+<geogname source="lctgm" encodinganalog="651">Rochester (Mich.)--Business enterprises.</geogname>
+<persname source="lcnaf" encodinganalog="600">Smith, Lucy Ann.</persname>
+<famname source="lcnaf" encodinganalog="600">Smith family.</famname>
+<persname source="lcnaf" encodinganalog="600">White, Orin, 1794-1864.</persname>
+<famname source="lcnaf" encodinganalog="600">White family.</famname>
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Crandell family (family of donor's mother)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Alice Crandell</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>John Lincoln Crandell (1860-1945) </unittitle> <physdesc><extent>2 photos</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>John Lincoln Crandell in his store, Rochester, Mich.</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ralph Sperry (b. 1876)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Inez Sperry Stevens</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Julia Twitchell Van Etta (1848-1911) </unittitle> <physdesc><extent>2 photos</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Neva Sperry Crandell's 1st grade class, Whitehall, Mich., <unitdate type="inclusive">1900</unitdate> and <unitdate type="inclusive">1904-1905</unitdate> </unittitle> <physdesc><extent>2 photos</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dexter, Mich. and University of Michigan </unittitle> <physdesc><extent>7 photos</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Keal ancestors</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Thomas Keal (1814-1853)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Rosalind Ela Keal (1811-1867)</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Keal family</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Keal Family group</unittitle></did><note><p>( includes Washington Irving Keal (1842-1907), Jennie Smith Keal (1845-1916), George Irving Keal (b. 1876), Harry Morton Keal (b. 1880, father of donor), and Nellie Annetta Keal (1871-1910))</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>George Irving Keal (b. 1876)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Jennie E. Keal</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Washington Irving Keal (1842-1907) </unittitle> <physdesc><extent>8 photos</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Other family members</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Nellie Annetta Keal (Mrs. George S. Francisco; 1871-1910) </unittitle> <physdesc><extent>5 photos</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Nellie with her mother, Jennie E. Smith Keal (b. 1845-1916, grandmother of donor)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Nellie with brothers Harry Morton and George Irving</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Smith and White families</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Lucy Ann Wyman Smith (d.1847)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Family group</unittitle></did> <note><p>(Seated: Louis Clark (d.1930s), Carrie Smith Clark (Mrs. Will) Will Clark; Standing: Charles Clark; on wall are portraits of Louisa Merian and Oliver M. Smith, Jr. (b. 1815)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ione Keal White (b. 1840) and husband Orpheus White of Hartford, Mich.</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Residence of Orrin White, Ann Arbor </unittitle></did> <note><p>(built in 1837 of cobblestones)</p></note></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::brownrig.xml//EN" encodinganalog="Identifier">
+umich-bhl-85957</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+William Brownrigg papers, 1919-1967
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-10-16</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+William Brownrigg papers, 1919-1967</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Brownrigg, William, 1893-1969.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+William Brownrigg papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1919-1967
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85957 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+First director of the Michigan Civil Service Commission and director of personnel at U.S. Department of Justice under Attorney General Frank Murphy. Correspondence, speeches, and book reviews concerning his public career and his work for the governor; also photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of William Brownrigg (donor no. <num type="donor" encodinganalog="541$e">4760</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+William Brownrigg papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>William Brownrigg was a native of Manistee, Michigan. Following graduation from the University of Michigan, Brownrigg devoted his career to civil service reform, serving at one time as the executive officer of the California State Personnel Board before being selected as Michigan's personnel director in the gubernatorial administration of Frank Murphy in the mid-1930s. When Murphy came to Washington DC as Attorney General, Brownrigg was selected to head the justice department's new Division of Personnel Supervision and Management.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection was arranged into the following series: Correspondence, Speeches; Other papers: reports, memoranda, drafts, etc.; and Miscellaneous. Correspondents in the collection include Prentiss M. Brown, Stuart Chase, V. O. Key, Edward H. Litchfield, George Meader, Frank Murphy, and James K. Pollock.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Brownrigg, William, 1893-1969.</persname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Civil Service Commission.</corpname>
+<subject source="lcsh" encodinganalog="650">Public administration.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Dept. of Justice.</corpname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<persname source="lcnaf" encodinganalog="600">Brownrigg, William, 1893-1969.</persname>
+<persname source="lcnaf" encodinganalog="600">Murphy, Frank, 1890-1949.</persname>
+
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Brown, Prentiss Marsh, 1889-1973.</persname>
+<persname source="lcnaf" encodinganalog="700">Chase, Stuart, 1888-1985.</persname>
+<persname source="lcnaf" encodinganalog="700">Key, V. O. (Valdimer Orlando), 1908-1963.</persname>
+<persname source="lcnaf" encodinganalog="700">Litchfield, Edward H. (Edward Harold), 1914-1968.</persname>
+<persname source="lcnaf" encodinganalog="700">Meader, George, 1907-</persname>
+<persname source="lcnaf" encodinganalog="700">Murphy, Frank, 1890-1949.</persname>
+<persname source="lcnaf" encodinganalog="700">Pollock, James Kerr, 1898-</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1936-1956</unitdate> </unittitle> <physdesc><extent>25 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1957-1967</unitdate> </unittitle> <physdesc><extent>18 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Speeches</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1934-1939</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other papers: reports, memoranda, drafts, etc.</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1919-February 1940</unitdate> </unittitle> <physdesc><extent>20 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive"> March 1940-1961</unitdate> </unittitle> <physdesc><extent>19 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Reviews of <title render="italic">The Human Enterprise Process</title> (written by Brownrigg)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Photographs</unittitle></did></c02></c01>
+
+
+
+
+</dsc><descgrp type="add"><index>
+<head>Selective Index to Correspondents</head><indexentry><persname>Brown, Prentiss Marsh, 1889-1973</persname><ref><list type="simple"><item>Feb. 28, 1940, March 19, 1940</item></list></ref></indexentry>
+<indexentry><persname>Chase, Stuart, 1888-1985.</persname><ref><list type="simple"><item>Feb. 23, 1961</item></list></ref></indexentry>
+<indexentry><persname>Key, V.O. (Valdimer Orlando), 1908-1963.</persname><ref><list type="simple"><item>Nov. 5, 1956</item></list></ref></indexentry>
+<indexentry><persname>Litchfield, Edward H. (Edward Harold), 1914-1968</persname><ref><list type="simple"><item>Sept. 4, 1940, 1941-1942, 1952</item></list></ref></indexentry>
+<indexentry><persname>Meader, George, 1907-</persname><ref><list type="simple"><item>Jan. 20, 1958</item></list></ref></indexentry>
+<indexentry><persname>Murphy, Frank, 1890-1949.</persname><ref><list type="simple"><item>Dec. 29, 1938, 1939-1940, Jan. 24, 1941, Jan. 27, 1941</item></list></ref></indexentry>
+<indexentry><persname>Pollock, James Kerr, 1898-</persname><ref><list type="simple"><item>1936, Feb. 15, 1939, 1940-1943, 1952, Jan. 26, 1953, Oct. 22, 1954, Dec. 24, 1958, Dec. 29, 1958</item></list></ref></indexentry>
+</index>
+
+</descgrp></archdesc>
+
+</ead>
