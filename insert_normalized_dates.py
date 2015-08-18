@@ -12,7 +12,7 @@ with open(normalized_csv, 'rb') as csvfile:
     for row in reader:
         filename = row[0]
         print filename
-        xpath = row[4]
+        xpath = row[1]
         normalized = row[3]
         ead_file = open(join(path, filename))
         tree = etree.parse(ead_file)
