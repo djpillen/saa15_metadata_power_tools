@@ -18,6 +18,7 @@ yyyy_yyyys = re.compile(r'^\d{4}\-\d{4}s$') # Ex: 1920-1930s
 yyyys_yyyys = re.compile(r'^\d{4}s\-\d{4}s$') # Ex: 1920s-1930s
 
 # Initialize these values to keep track of how many dates we've normalized
+total_dates = 0
 normalized_dates = 0
 not_normalized_dates = 0
 
@@ -28,8 +29,9 @@ for filename in os.listdir(path):
     unitdates = tree.xpath('//unitdate')
     # loop through each <unitdate>
     for unitdate in unitdates:
-        if not 'normal' in unitdate.attrib:
-            if unitdate.text and len(unitdate.text) > 0:
+        if unitdate.text is not None:
+            total_dates += 1
+            if not 'normal' in unitdate.attrib:
                 # check if the content of <unitdate> matches any of those regular expressions
                 if yyyy.match(unitdate.text) and len(unitdate.text) == 4: # We also verify that the length is what we would expect based on the regular expression for an added level of certainty that these really are the kinds of dates we're looking for
                     unitdate.attrib['normal'] = unitdate.text # Dates like "1920" don't need to be changed at all to make a normalized version
@@ -58,21 +60,14 @@ for filename in os.listdir(path):
                     unitdate.attrib['certainty'] = "approximate"
                     normalized_dates += 1
                 else:
-                    not_normalized_dates +=1
                     continue
-            else:
-                not_normalized_dates += 1
-                continue
 
     outfilepath = 'demo_eads_normalized' #<-- Change this to a different directory than the one you started with in case anything goes wrong. You don't want to overwrite your original EADs.
     outfile = open((join(outfilepath, filename)), 'w')
     outfile.write(etree.tostring(tree, encoding="utf-8", xml_declaration=True)) # Write the new version of the EAD with normalized dates!
     outfile.close()
 
-# Add up our normalized_dates and not_normalized_dates to get the total dates checked
-total_dates = normalized_dates + not_normalized_dates
-
 # Print the results of our normalization attempt
 print "Normalization attempted on " + str(total_dates) + " dates"
 print "Number of dates normalized: " + str(normalized_dates)
-print "Number of dates not normalized: " + str(not_normalized_dates)
+print "Number of dates not normalized: " + str(total_dates - normalized_dates)
