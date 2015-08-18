@@ -1,0 +1,22 @@
+1. Filter on regular expression matching "Month DD YYYY"
+(^(january)|^(february)|^(march)|^(april)|^(may)|^(june)|^(july)|^(august)|^(september)|^(october)|^(november)|^(december))\s\d{1,2}\,?\s\d{4}$
+
+2. Remove all commas
+value.replace(',','')
+
+3. Split into several columns on spaces
+
+4. Rename resulting columns, something like "mm," "dd," and "yyyy"
+
+5. Replace spelled out months with numeric counterparts
+value.replace('January', '01').replace('February','02').replace('March', '03').replace('April', '04').replace('May', '05').replace('June', '06').replace('July','07').replace('August', '08').replace('September','09').replace('October', '10').replace('November','11').replace('December', '12')
+
+6. Add leading 0s to single digit days
+value.replace(/^\d{1}$/,'0' + value)
+
+7. Join columns back in the correct order
+cells['yyyy'].value + '-' + cells['mm'].value + '-' + cells['dd'].value
+
+8. Delete working "mm," "dd," and "yyyy" columns
+
+9. Export the normalized dates
