@@ -14,5 +14,5 @@ for filename in os.listdir(path):
 			date_path = tree.getpath(unitdate)
 			with open('all_unitdates.csv','ab') as csvfile:
 				writer = csv.writer(csvfile)
-				writer.writerow([filename, date, date_path])
+				writer.writerow([filename, date_path, date])
 	print filename

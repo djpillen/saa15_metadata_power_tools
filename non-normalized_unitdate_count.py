@@ -2,7 +2,7 @@ from lxml import etree
 import os
 from os.path import join
 
-path = 'demo_eads'
+path = 'demo_eads_normalized'
 
 total_dates = 0
 normalized_dates = 0 
