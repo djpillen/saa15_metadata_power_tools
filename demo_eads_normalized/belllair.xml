@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::belllair.xml//EN" encodinganalog="Identifier">
+umich-bhl-8568</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Laird Bell papers, 1903-1962
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-11-01</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Laird Bell papers, 1903-1962</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Bell, Laird, 1883-1965.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Laird Bell papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1903-1962
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8568 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Chicago attorney; correspondence, speeches, articles, and subject files relating to his public career.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Margaret Cameron (donor no. <num type="donor" encodinganalog="541$e">2688</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Laird Bell papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Laird Bell was born in Winona, Minnesota on April 6, 1883. He received his B.A. from Harvard in 1904 and his J.D. from the University of Chicago in 1907. Upon admission to the bar, he commenced the practice of law in Chicago. Bell, throughout his career, was active in various educational organizations, serving, for example, as chairman of the board of trustees of the University of Chicago (1949-1953), chairman of the board of trustees of Carleton College (1943-1955), and member of the board of overseers at Harvard (1948-1954).</p>
+
+<p>Laird Bell was also involved in public service organizations. In 1955, he was alternate U. S. delegate to 10th Assembly of the United Nations. He died October 21, 1965.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Laird Bell collection consists of a single series of Personal and Professional papers.  Included are speeches, articles, written, and subject files pertaining to his various organizational activities, especially his work as alternate U. S. delegate to 10th Assembly of the United Nations in 1955. There are also various material pertaining to the life of his grandfather, Wisconsin lumberman, W. H. Laird.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Universities and colleges--United States.</subject>
+<subject source="lcsh" encodinganalog="650">Education--United States.</subject>
+<geogname source="lcsh" encodinganalog="651">Germany.</geogname>
+<persname source="lcnaf" encodinganalog="600">Laird, W. H.</persname>
+<subject source="lcsh" encodinganalog="650">Logging--United States.</subject>
+<subject source="lcsh" encodinganalog="650">Lumbering--United States.</subject>
+<corpname source="lcnaf" encodinganalog="610">United Nations.</corpname>
+<corpname source="lcnaf" encodinganalog="610">United States. Timber Conservation Board.</corpname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Personal and Professional Papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers re. research and writing of biography of grandfather, W. H. Laird</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers, <unitdate type="inclusive" normal="1955/1963">1955-1963</unitdate> re. service as alternate delegate to 10th Assembly, United Nations (1955-1956) and later interest in the United Nations</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers re. Fund for the Republic</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers, <unitdate type="inclusive" normal="1931/1934">1931-1934</unitdate> re. U.S. Timber Conservation Board (particularly concerning timber conservation)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches and articles, <unitdate type="inclusive" normal="1903/1962">1903-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1936/1954">1936-1954</unitdate> (largely concerning speeches and articles)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence re. Atlantic articles, "Admit and Flunk"</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Transcripts of letters, <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate> and <unitdate type="inclusive" normal="1934">1934</unitdate> describing work in France, the Germany economy, etc.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings and miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">The Educations of Laird Bell</title>, by Erling Larson</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

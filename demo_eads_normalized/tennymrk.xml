@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::tennymrk.xml//EN" encodinganalog="Identifier">
+umich-bhl-92972</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Mark Wayland Tenny visual materials, 1895 and 1897
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-02-15</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Mark Wayland Tenny visual materials, 1895 and 1897</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Tenny, Mark Wayland.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Mark Wayland Tenny visual materials 
+<unitdate type="inclusive" encodinganalog="245$f">
+1895 and 1897
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 volume and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+92972 Aa 1; UAm
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Holly, Michigan resident. Sketchbook of Jacksonville, Florida views, including buildings and ships; watercolor of the University of Michigan Library; and a drawing of the library clock tower at the University of Michigan.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Mary and Emery George (donor no. <num type="donor" encodinganalog="541$e">6798</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Mark Wayland Tenny visual materials, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Mark Wayland Tenny was an civil engineering graduate of the University of Michigan, class of 1895. As a hobby, he painted and drew the sights he saw on his travels.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Tenny collection consists of one sketchbook containing depictions of the buildings, houses, and ships harbored at Jacksonville, Florida. There are also two drawings of University of Michigan views, the library and the clock tower of the library.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<geogname source="lcsh" encodinganalog="651">Florida.</geogname>
+<subject source="lctgm" encodinganalog="650">Ships--Florida.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Library.</corpname>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="gmgpc" encodinganalog="655">Drawings.</genreform>
+<genreform source="gmgpc" encodinganalog="655">Paintings.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Sketchbook, <unitdate type="inclusive" normal="1897">1897</unitdate> </unittitle> <physdesc><physfacet>12 x 17 cm</physfacet></physdesc></did>
+<c02 level="item"><did><unitid>1. </unitid><unittitle>Three Friends [ship], <unitdate type="inclusive">1/22/1897</unitdate> Jacksonville, Fla.</unittitle></did></c02>
+<c02 level="item"><did><unitid>2. </unitid><unittitle>Dr. Daniels old place near Panama Park, Fla., <unitdate type="inclusive">Jan 31, 1897</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unitid>3. </unitid><unittitle>Jacksonville, Fla., <unitdate type="inclusive">1/24/1897</unitdate></unittitle><note><p>house, upside down in sketchbook</p></note></did></c02>
+<c02 level="item"><did><unitid>4. </unitid><unittitle>Rock Road [curve], Jacksonville, Fla., <unitdate type="inclusive">1/27/1897</unitdate> </unittitle></did></c02>
+<c02 level="item"><did><unitid>5. </unitid><unittitle>Rock Road [fork], Jacksonville, Fla., <unitdate type="inclusive">1/28/1897</unitdate> </unittitle></did></c02>
+<c02 level="item"><did><unitid>6. </unitid><unittitle>On Dr. Daniels Old Place near Panama Park, Fla., <unitdate type="inclusive">Jan 31, 1897</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unitid>7. </unitid><unittitle>Dauntless [ship], Jacksonville, Fla. <unitdate type="inclusive">2/21/1897</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unitid>8. </unitid><unittitle>Cypress, <unitdate type="inclusive">2/21/1897</unitdate> [vertical]</unittitle></did></c02>
+<c02 level="item"><did><unitid>9. </unitid><unittitle>Convict Camp out Main Street Jacksonville, Fla., <unitdate type="inclusive">2/28/1897</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unitid>10. </unitid><unittitle>Rock Road [house with paling fence] Jacksonville, Fla., <unitdate type="inclusive">2/28/1897</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unitid>11. </unitid><unittitle>U.S. Steamer "Vesuvius", Jacksonville, Fla., <unitdate type="inclusive">2/28/1897</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unitid>12. </unitid><unittitle>U.S. Revenue Cutter "Boutwell" Jacksonville, Fla., <unitdate type="inclusive">2/28/1897</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unitid>13. </unitid><unittitle>Out South Jacksonville Road, <unitdate type="inclusive">3/7/1897</unitdate> </unittitle></did> <note><p>(Five houses, three marked as follows: 1. To Rent; 2. Room for Six/10 x 16; 3. Dickerson (on porch)/ 16 x 16/Dry Goods, Groceries, Notions, Hay and Grain)</p></note></c02>
+<c02 level="item"><did><unitid>14. </unitid><unittitle>Out South Jacksonville Road [small church] illegible, <unitdate type="inclusive">3/7/1897</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unitid>15. </unitid><unittitle>South Jacksonville Road [cabin with ladder at chimney] <unitdate type="inclusive">3/7/1897</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unitid>16. </unitid><unittitle>Phelps Place, South Jacksonville Fla., <unitdate type="inclusive">3/14/1897</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unitid>17. </unitid><unittitle>Cypress/Phelps Place,  S. Jacksonville, Fla., <unitdate type="inclusive">3/14/1897</unitdate> [vertical]</unittitle></did></c02>
+<c02 level="item"><did><unitid>18. </unitid><unittitle>Spanish Bayonet, <unitdate type="inclusive">3/28/1897</unitdate> [and] Cabbage Palmetta, <unitdate type="inclusive">4/31/1897</unitdate> [vertical]</unittitle></did></c02>
+<c02 level="item"><did><unitid>19. </unitid><unittitle>Live Oak, Phelps Place, S. Jacksonville, Fla., <unitdate type="inclusive">4/11/1897</unitdate> [vertical]</unittitle></did></c02>
+<c02 level="item"><did><unitid>20. </unitid><unittitle>One of Many, <unitdate type="inclusive">4/4/1897</unitdate> [cabin with wire fence]</unittitle></did></c02>
+<c02 level="item"><did><unitid>21. </unitid><unittitle>[Large church], S. Jacksonville, Fla., <unitdate type="inclusive">4/4/1897</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unitid>22. </unitid><unittitle>[Landscape with fences, shrine, cemetery (?)]  S. Jacksonville Road Fla., <unitdate type="inclusive">4/11/1897</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Other <genreform normal="Drawings">drawings</genreform></unittitle></did>
+<c02 level="item"><did><container type="folder" label="Oversize Folder">1</container><unittitle>[University of Michigan Library], <unitdate type="inclusive">3/14/1895</unitdate> </unittitle> <physdesc><physfacet>water color, 26 x 39 cm. on sheet 34 x 47 cm.</physfacet></physdesc></did></c02>
+<c02 level="item"><did><container type="folder" label="Oversize Folder">1</container><unittitle>[Clock tower of University of Michigan Library] <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><physfacet>drawing, 38 x 24 cm. on sheet 47 x 35 cm.</physfacet></physdesc></did></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::gilfilll.xml//EN" encodinganalog="Identifier">
+umich-bhl-2008131</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Lauren Gilfillan papers, 1921-1999
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-09-18</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Lauren Gilfillan papers, 1921-1999</titleproper>
+      <author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">
+Gilfillan, Lauren, 1909-
+</persname>
+      </origination>
+      <unittitle encodinganalog="245">
+Lauren Gilfillan papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1921-1999
+</unitdate><unitdate type="bulk" encodinganalog="245$g">
+1921-1938
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+0.6 linear feet and 1 oversize volume
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2008131 Aa 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Author of I Went to Pit College; correspondence and other materials relating to her book and to her later struggle with mental illness.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload"/>
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was donated by Alan M. Wald (donor no. <num type="donor" encodinganalog="541$e">10079</num>) in July 2009.  
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is not held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Lauren Gilfillan papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Lauren Gilfillan was the pseudonym of Harriet Woodbridge Gilfillan. She was born in 1909 in Washington DC, but eventually came to live in Kalamazoo where she graduated from high school. She graduated from Smith College in 1931 and moved to New York to seek a job in the publishing industry. One publisher encouraged her to write a first-hand account of the plight of miners in Pennsylvania. The result of her experiences was the book, published in 1934, <title render="italic">I Went to Pit College</title>.  Soon after completing her work on this project, Gilfillan would suffer from what would later be diagnosed as schizophrenia. She moved back to Kalamazoo but would eventually be hospitalized for an extended period of time at the University of Michigan Hospital and Kalamazoo State Hospital. She died in 1978.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Gilfillan collection is arranged into two series: Correspondence and Other Materials. Most of the collection relates to the publication of her book, <title render="italic">I Went to Pit College</title>, and to its reception by newspapers and literary periodicals. Some of the later materials in the collection concern Gilfillan's struggles with mental illness.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <persname source="lcnaf" encodinganalog="600">Gilfillan, Lauren, 1909-</persname>
+        <persname source="lcnaf" encodinganalog="600">Gilfillan, Lauren, 1909- I went to pit college.</persname>
+        <subject source="lcsh" encodinganalog="650">Mentally ill--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">Proletariat in literature.</subject>
+        <subject source="lcsh" encodinganalog="650">Women authors, American--20th century.</subject>
+        <subject source="lcsh" encodinganalog="650">Working class writings, American--Women authors.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Wald, Alan M., 1946-</persname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Fragments, <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1921/1929">1921-1929</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1930/1933">1930-1933</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1934">1934</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">March-October 1935</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">November-December 1935</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">January-March 1936</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">April-June 1936</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">July-August 1936</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">September-December 1936</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1937/1938">1937-1938</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1947/1999">1947-1999</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Other material</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Poems</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Printed</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Manuscripts</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Resources, notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">1</container>
+            <unittitle>Scrapbook containing clippings with reviews and other notices of her book "I went to Pit College" <unitdate type="inclusive" normal="1934">1934</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

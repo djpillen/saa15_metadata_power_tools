@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::bruffjn.xml//EN" encodinganalog="Identifier">
+umich-bhl-8550</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+John B. Bruff papers, 1966
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-10-11</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+John B. Bruff papers, 1966</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Bruff, John B. (John Bowman), 1929-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+John B. Bruff papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1966
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.3 linear feet 
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8550 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Lawyer and Democratic candidate for Michigan Lieutenant Governor in 1966; campaign files. 
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was received as part of the accession of James O’Hara papers (donor no. <num type="donor" encodinganalog="541$e">5939</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+John B. Bruff papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>John B. Bruff, born in 1929, was a lawyer active in the Michigan Democratic party. In 1966, he ran unsuccessfully for the office of Michigan Lieutenant Governor.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of a Campaign files series documenting his election to become state lieutenant governor in 1966. Included in the papers are correspondence, speeches, and campaign schedules. There are also various papers concerning political personages of the day: Zolton Ferency, George Romney, G. Mennen Williams and Robert Griffin.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Democratic Party (Mich.).</corpname>
+<subject source="lcsh" encodinganalog="650">Elections--Michigan--1966.</subject>
+<persname source="lcnaf" encodinganalog="600">Ferency, Zolton A., 1922- .</persname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1961-1970.</geogname>
+<persname source="lcnaf" encodinganalog="600">Romney, George W., 1907-1995.</persname>
+<persname source="lcnaf" encodinganalog="600">Williams, G. Mennen, 1911- .</persname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+
+</controlaccess>
+
+
+
+<controlaccess><head>Subjects - Sound Recordings:</head>
+<persname source="lcnaf" encodinganalog="600">Bruff, John B. (John Bowman), 1929-</persname>
+<subject source="lcsh" encodinganalog="650">Elections--Michigan--1966.</subject>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1961-1970.</geogname>
+<subject source="lcsh" encodinganalog="650">Radio in politics.</subject>
+
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+
+</controlaccess>
+
+
+<controlaccess><head>Contributors: Sound Recordings</head>
+<persname source="lcnaf" encodinganalog="700">Hart, Philip A. (Philip Aloysius), 1912-1976.</persname>
+<persname source="lcnaf" encodinganalog="700">Kennedy, Robert F., 1925-1968.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Campaign files, <unitdate type="inclusive" normal="1966">1966</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bruff campaign miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Campaign Calendar</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Schedules, <unitdate type="inclusive"> August 28-September 15, 1966</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Schedules, <unitdate type="inclusive"> September 16-October 3, 1966</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Zolton Ferency</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>George Romney</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>G. Mennen Williams</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Robert Griffin</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Democratic Party platform</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Major campaign issues</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Democratic legislative record</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Macomb County</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Approved public works projects</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Sound recordings">Recordings</genreform> of ads for Bruff by Robert Kennedy and Philip Hart </unittitle> <physdesc><extent>2  tapes</extent></physdesc><physdesc><physfacet>(15 sec. each) : analog, 7 1/2 ips ; 5 in.</physfacet></physdesc></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::smesum.xml//EN" encodinganalog="Identifier">
+umich-bhl-9624</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Society of Minority Engineering Students (University of Michigan) records, 1979-1996
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Marilyn M. McNitt, 1996</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2009">
+2009</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2009</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2009-02-19</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Society of Minority Engineering Students <lb/>(University of Michigan) <lb/>records, 1979-1996
+</titleproper>
+      <author>Finding aid created by<lb/> 
+Marilyn M. McNitt, 1996
+</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<corpname source="lcnaf" encodinganalog="110">
+Society of Minority Engineering Students (University of Michigan).
+</corpname></origination>
+      <unittitle encodinganalog="245">
+Society of Minority Engineering Students (University of Michigan) records
+<unitdate type="inclusive" encodinganalog="245$f">
+1979-1996
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+1 linear foot
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9624 Bimu 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+University of Michigan student organization established to aid in recruitment, retention, and placement of minority engineering students.  Records include minutes, organizational information, and activities material and publications.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+Records are received periodically from the unit.(Donor no.<num type="donor" encodinganalog="541$e">7940</num>
+ 
+).</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>Periodic additions to the records expected.</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>The record group is open to research.</p>
+        <p>
+          <extptr href="uarpacc" show="embed" actuate="onload"/>
+        </p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>Copyright is held by the Regents of the University of Michigan.</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Society of Minority Engineering Students (University of Michigan) records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>The Society of Minority Engineering Students (SMES) was founded in 1974.  The Minority Engineering Program (MEPO) organized SMES in an attempt to increase minority involvement in the College of Engineering.</p>
+      <p>SMES assists minority students as they develop personally, academically, and professionally.  The Society of Minority Engineering Students stresses the importance of a well-rounded social life, sponsoring picnics, an open house for parents and students, and the Senior dinner which honors the graduating members of SMES.  Academically, SMES sponsors study nights allowing fellow students to aid and support each other as well as offering free tutorial services.  Professionally, SMES offers workshops on interviewing, resume writing, and industrial tours.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The society of Minority Engineers  record group is organized into two series Records and Publications.  The Records series includes minutes, organizational information,  activities material and a brief account of Gardner Leverett's tenure as SMES president, 1990/91.</p>
+      <p>The Publications series includes Directories and resumé books, programs and a newsletter.  The SMES <title render="italic">Resumé Book</title> contains the resumés of SMES members.  These can be sent directly to personnel departments of major corporations throughout the nation upon request.  There is an almost complete run (1979-1993) of this publication in the printed materials subgroup.</p>
+      <p>The annual SMES Industrial Banquet brings together job candidates and representatives from major corporations in a relaxed, yet professional environment allowing the recruits and the recruiters more personal contact.  There is a nearly complete run of the programs for this dinner from 1979 to 1996.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">Society of Minority Engineering Students (University of Michigan)</corpname>
+        <subject source="lcsh" encodinganalog="650">Minority college students--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650">Students--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650">Students--Societies, etc.</subject>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Engineering.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs</corpname>
+        <title source="aacr2" encodinganalog="740">Resume book.</title>
+        <title source="aacr2" encodinganalog="740">Resume directory.</title>
+        <title source="aacr2" encodinganalog="740">SMES news.</title>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Brochures.</genreform>
+        <genreform source="aat" encodinganalog="655">Directories.</genreform>
+        <genreform source="aat" encodinganalog="655">Newsletters.</genreform>
+        <genreform source="aat" encodinganalog="655">Programs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Records</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Minutes, <unitdate type="inclusive" normal="1898/1994">1898-1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Organization</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Activities</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Gardner Leverett, Personal History as President</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Publications</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Unit Publications</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1-P</container>
+              <unittitle>Brochures, <unitdate type="inclusive" normal="1985/1995">1985-1995</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Directories</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1-P</container>
+                <unittitle>
+                  <title render="italic"> Directory of Underrepresented Student Societies in the College of Engineering and Related Sciences, 1998-99 Academic Year</title>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1-P</container>
+                <unittitle>Resumés 79, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1-P</container>
+                <unittitle>Resumés, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1-P</container>
+                <unittitle>Resumé Directory, <unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate> </unittitle>
+                <physdesc>
+                  <extent>2 folders</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1-P</container>
+                <unittitle>Resumé Book, 1985-1992/1993 </unittitle>
+                <physdesc>
+                  <extent>9 folders</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Newsletters</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1-P</container>
+                <unittitle>
+                  <title render="italic"> SMES News</title>, <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Programs</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1-P</container>
+                <unittitle>Annual Industrial Awards Banquet, <unitdate type="inclusive" normal="1979/1996">1979-1996</unitdate> </unittitle>
+                <physdesc>
+                  <extent>3 folders</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1-P</container>
+                <unittitle>Professional Development Conference, <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1-P</container>
+                <unittitle>
+                  <title render="italic"> How We've Grown:  In Celebration of 25 years of excellence.  25th Anniversary Celebration</title>, <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

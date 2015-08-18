@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::gormanfa.xml//EN" encodinganalog="identifier">
+umich-bhl-8778
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Gorman Family Papers, 1886-1970
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Catherine Mary Arnott </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2006 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>March 2006</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20060330 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Gorman Family Papers, 1886-1970</titleproper>
+
+<author>Finding aid created by<lb/> 
+Catherine Mary Arnott, 1987</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<famname source="lcnaf" encodinganalog="100">
+Gorman Family.</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Gorman Family papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1886-1970
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+8778 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Chelsea and Dexter, Michigan family. Letters of Nellie Gorman with her husband James, 1886-1892, while he served in the Michigan State Senate (1887-1891), and the U. S. House of Representatives (1891-1985); family letters; miscellanea relating to Gorman's estate; papers of son Galbraith Gorman, Dexter, Michigan, funeral home director; and photographs. 
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Mrs. Janet M. Snyder (donor no. <num type="donor" encodinganalog="541$e">7316</num>) of St. Johns, Michigan on March 27, 1986.  Mrs. Snyder had purchased the items at an estate sale.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is undetermined.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Gorman Family Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Gorman family settled and resided primarily in Chelsea, Michigan. James Sedgwick Gorman (1850-1923), a graduate of the University of Michigan Law School in 1876, and a Democrat, served as assistant prosecuting attorney of Jackson County for two years; was a member of the State House of Representatives in 1880; served in the State Senate in 1886 and 1888, and from 1891 to 1895 was a member of Congress. He married Nellie Bingham (1863-1949). a graduate of the Valparaiso, Indiana, Normal School, in 1887. Their son Galbraith (1889-?) attended Ferris Institute, served-in World War I and was a funeral director in Dexter, Michigan. Their daughter Agnes (1894-1970) was first employed by the State Industrial School for Boys in Lansing and later had a career in social work.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The collection begins with a genealogical chart of the Gorman family compiled by Mrs. M.L. Sias of Chelsea. The correspondence is largely that of Nellie Gorman with her children, but letters from 1886 to 1892 between James and Nellie Gorman give interesting details of James' term in the House of Representatives. The collection also includes papers pertaining to the disposition of Gorman's estate and cursory records of the cases apparently handled by Galbraith Gorman's funeral home between 1953 and 1961. The collection includes photographs of James and Agnes Gorman, members of the Bingham family, and some unidentified.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Chelsea (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Dexter (Mich.)</geogname>
+<famname source="lcnaf" encodinganalog="600">Gorman family.</famname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Legislature. Senate.</corpname>
+<subject source="lcsh" encodinganalog="650">Undertakers and undertaking--Michigan--Dexter.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Congress. House.</corpname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Dexter.</subject>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Chelsea.</subject>
+<subject source="lcsh" encodinganalog="650">Legislators' spouses--Michigan.</subject>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<famname source="lcnaf" encodinganalog="600">Gorman family.</famname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Gorman, Galbraith, b. 1889.</persname>
+<persname source="lcnaf" encodinganalog="700">Gorman, James Sedgwick, 1850-1923.</persname>
+<persname source="lcnaf" encodinganalog="700">Gorman, Nellie Bingham, 1863-1949.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Family Papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical and genealogical information</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters <unitdate type="inclusive" normal="1886/1970">1886-1970</unitdate> and <unitdate type="inclusive">undated</unitdate>, scattered dates </unittitle> <physdesc><extent>45 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gorman Estate</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Galbraith P. Gorman</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Mortuary records</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>School papers</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Tuition receipts (also includes Nellie Bingham Gorman's)</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Announcements, invitations, programs</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

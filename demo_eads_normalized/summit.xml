@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::summit.xml//EN" encodinganalog="identifier">
+umich-bhl-88298
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Summit Medical Center Records, 1969-2003 
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Marian Matyn and Jeremiah Mason</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2004</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Jeremiah Mason, 
+<date>September 2004</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20040930</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Summit Medical Center Records, 1969-2003</titleproper>
+
+<author>Finding aid created by<lb/> 
+Marian Matyn and Jeremiah Mason</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Summit Medical Center (Ann Arbor, Mich.)
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Summit Medical Center records  
+<unitdate type="inclusive" encodinganalog="245$f">
+1969-2003
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1970-1985
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.7 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+88298 Bf 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>Ann Arbor, Michigan based non-profit charitable corporation established to provide low-cost health services to low-income individuals and families. The records document the administration and to a lesser degree, the activities of the Summit Medical Center corporation and its clinics. Photographs include portraits of founder, Edward Pierce, and other staff physicians; and photographs of building, staff, and patients.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Records were donated by Mr. Lloyd T. Williams (Donor No. <num type="donor" encodinganalog="541$e">7557</num>) on May 25, 1988, and by Marcia Barrabee (Donor No. <num type="donor" encodinganalog="541$e">5820</num>) on August 23, 2004.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Summit Medical Center Records
+, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Summit Medical Center was incorporated by Albert Coudron, Lloyd Williams, Peter Darrow, and Melvin Pierce on August 23, 1968, at the behest of Pierce's son, Edward Pierce, M.D.  </p>
+<p>Edward Pierce received his M.D. at the University of Michigan in 1959.  He joined a private practice in Ann Arbor, and was elected to the Ann Arbor city council, representing the Fourth Ward in 1964.  Dr. Pierce left his practice and founded the Summit Medical Center (SMC) after unsuccessfully running for mayor of Ann Arbor in 1967.  SMC opened a clinic in a small house at 403 Summit Street on September 1, 1968.</p>
+<p>Jerry Walden, another graduate of the University of Michigan Medical School, joined Dr. Pierce at the Summit Street clinic on July 1, 1969.  In 1971, they moved the clinic to an historic house at 704 Spring Street, where the Model Neighborhood Health Corporation rented the second floor for a dental clinic until 1981.</p>
+<p>In 1973, the city of Ann Arbor approached SMC and asked them to expand their operations into another area of the city.  With revenue sharing funds from the city of Ann Arbor, and private contributions, SMC established the Packard Community Clinic at 3174 Packard Road in  September of 1973.  Dr. Walden lead the staff at the new clinic.  SMC acquired the Packard clinic building in 1977, and at the urging of Dr. Walden, a new corporation was spun-off by SMC on September 1, 1979, to oversee operations of the Packard Community Clinic.  The Packard clinic building was expanded that same year.</p>
+<p>Dr. Pierce retired from SMC in 1976 to pursue a career in politics.  He returned to Ann Arbor in 1982, and once again went into private practice.  Perpetually struggling financially, SMC was forced to close the Spring Street clinic in 1985.  The corporation was dissolved, and its assets, including the house at 704 Spring Street, and liabilities  were transferred to Child and Family Services of Washtenaw County. </p>
+</bioghist>
+
+<scopecontent encodinganalog="520"><p>The records of the Summit Medical Center are arranged alphabetically by topic.  The records contain information pertaining to years as early as 1969, and as late as 2003.  The bulk of the records were produced between 1970 and 1985, inclusive.  The records document the administration and to a lesser degree, the activities of the Summit Medical Center corporation and its clinics.  The administration of the Packard Community Clinic as an independent corporation (from 1979-2003) is also documented in a separate file titled Packard Community Clinic. Some of the records also document the relationships between SMC and the major insurance companies, the Johnson Foundation, the Model Cities Program, the Washtenaw County Word of God Community, and John Williams, DDS.  Records in the group were produced by Marcia Barrabee, Peter Darrow, Janet Klaver, Edward Pierce, Melvin Pierce, and Jerry Walden, among others.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Charities--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Children--Health and hygiene--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Medicine.</subject>
+<subject source="lcsh" encodinganalog="650">Physicians--Michigan--Ann Arbor.</subject>
+<persname source="lcnaf" encodinganalog="700">Pierce, Edward, 1930-</persname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">African Americans--Michigan--Ann Arbor--Health and welfare.</subject>
+<subject source="lctgm" encodinganalog="650">African Americans--Michigan--Ann Arbor--Work.</subject>
+<geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Clinics.</geogname>
+<subject source="lctgm" encodinganalog="650">Children.</subject>
+<subject source="lctgm" encodinganalog="650">Clinics--Michigan--Ann Arbor.</subject>
+<subject source="lctgm" encodinganalog="650">Health care.</subject>
+<subject source="lctgm" encodinganalog="650">Physicians--Michigan--Ann Arbor.</subject>
+<persname source="lcnaf" encodinganalog="600">Pierce, Edward, 1930-</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Topical Files</unittitle></did>
+<c02 level="file"><did><unittitle>Activities</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Educational Materials, <unitdate type="inclusive" normal="1975">1975</unitdate> and <unitdate type="inclusive">Undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Family Planning, <unitdate type="inclusive" normal="1973/1977">1973-1977</unitdate>  and <unitdate type="inclusive">Undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Medicaid Case, <unitdate type="inclusive" normal="1969/1976">1969-1976</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Background Information, <unitdate type="inclusive" normal="1974">1974</unitdate> and <unitdate type="inclusive">Undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Board</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>By-laws, <unitdate type="inclusive" normal="1977">1977</unitdate> and <unitdate type="inclusive">Undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Meeting Minutes, <unitdate type="inclusive" normal="1970/1985">1970-1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Meeting Minutes (notes, Marcia Barrabee Papers), <unitdate type="inclusive" normal="1975/1979">1975-1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Roster, <unitdate type="inclusive">Undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, General <unitdate type="inclusive" normal="1970/1977">1970-1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Financial Records</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence with Mel Pierce, <unitdate type="inclusive" normal="1971/1979">1971-1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive" normal="1970/1979">1970-1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Petty Cash Ledger, <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Fundraising</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive" normal="1970/1985">1970-1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Johnson Foundation, <unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>City of Ann Arbor Revenue Sharing, <unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>  and <unitdate type="inclusive">Undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Marcia Barrabee Papers--Correspondence, <unitdate type="inclusive" normal="1976">1976</unitdate> and <unitdate type="inclusive">Undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Memoranda, <unitdate type="inclusive" normal="1974/1977">1974-1977</unitdate>  and <unitdate type="inclusive">Undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Michigan Blue Shield, <unitdate type="inclusive" normal="1972/1975">1972-1975</unitdate>  and <unitdate type="inclusive">Undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Model Cities Health Center, <unitdate type="inclusive" normal="1970/1975">1970-1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous, <unitdate type="inclusive" normal="1970">1970</unitdate>, <unitdate type="inclusive" normal="1971">1971</unitdate> and <unitdate type="inclusive">Undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Monthly Reports <unitdate type="inclusive" normal="1977/1979">1977-1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Packard Community Clinic (as an independent organization), <unitdate type="inclusive" normal="1978/2003">1978-2003</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><genreform normal="Photographs">Photographs</genreform> <unitdate type="inclusive" normal="1971">1971</unitdate>, <unitdate type="inclusive" normal="1978">1978</unitdate> and <unitdate type="inclusive">Undated</unitdate> [c1971 and c1979]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Policy, <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Procedures, <unitdate type="inclusive" normal="1971/1979">1971-1979</unitdate>  and <unitdate type="inclusive">Undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Publicity</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Brochures, <unitdate type="inclusive" normal="1973">1973</unitdate> and <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Clippings, <unitdate type="inclusive" normal="1970/1985">1970-1985</unitdate>  and <unitdate type="inclusive">Undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Newsletters, <unitdate type="inclusive" normal="1974/1976">1974-1976</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Staff Meeting Minutes, <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate></unittitle></did></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::steannes.xml//EN" encodinganalog="Identifier">
+umich-bhl-86966</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Ste. Anne’s Church (Detroit, Mich.) registers, 1704-1842
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-09-23</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Ste. Anne’s Church <lb/>(Detroit, Mich.) <lb/>registers, 1704-1842</titleproper>
+      <author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Ste. Anne’s Church (Detroit, Mich.).
+</corpname>
+
+</origination>
+      <unittitle encodinganalog="245">
+Ste. Anne’s Church (Detroit, Mich.) registers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1704-1842
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+3 microfilm reels
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86966 mf 534c, mf535c, mf 536c
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Church registers, baptismal records, and death and marriage records dating from 1704 to 1842.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The records were made available for microfilming by the Archdiocese of Detroit (donor no. <num type="donor" encodinganalog="541$e">2888</num>).</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+Researcher must complete separate registration form before access to this record group will be permitted.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is not held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Ste. Anne’s Church (Detroit, Mich.) registers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>On July 26, 1701, two days after his arrival, Antoine de la Mothe Cadillac, founder of Detroit, built a chapel dedicated to Ste. Anne, patron saint of New France. Fire swept through the settlement on October 5, 1703 destroying the church, rectory, and several other buildings. The parish's earliest records were consumed in that fire. Subsequent records, dating from 1704, are now the second oldest continuous Roman Catholic parish records in the nation. These records of Ste Anne's Church are in the custody of the Archives of the Archdiocese of Detroit.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The record group includes church registers, baptismal records, and death and marriage records dating from 1704 to 1842.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">Catholic Church--Michigan--Detroit.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">St. Anne's Church (Detroit, Mich.)</corpname>
+        <geogname source="lcsh" encodinganalog="651">Detroit (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650">French Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">Registers of births, etc.</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Ste. Anne's church registers</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>Registre de Ste. Anne, Detroit, <unitdate type="inclusive" normal="1704/1801">1704-1801</unitdate></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">1</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1704/1744">1704-1744</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">1</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1744/1780">1744-1780</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">2</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1780/1801">1780-1801</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Baptismal records, <unitdate type="inclusive" normal="1801/1848">1801-1848</unitdate></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">2</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1801/1810">1801-1810</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="reel" label="Roll">2</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1810/1848">1810-1848</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="reel" label="Roll">3</container>
+            <unittitle>Death records, <unitdate type="inclusive" normal="1801/1842">1801-1842</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="reel" label="Roll">3</container>
+            <unittitle>Marriage records, <unitdate type="inclusive" normal="1801/1842">1801-1842</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="reel" label="Roll">3</container>
+            <unittitle>Chapelle du nordest-Baptisms, marriages, burials, <unitdate type="inclusive" normal="1810/1838">1810-1838</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Most Holy Trinity Church, Detroit</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="reel" label="Roll">3</container>
+            <unittitle>Marriages and deaths, <unitdate type="inclusive" normal="1834/1848">1834-1848</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="reel" label="Roll">3</container>
+            <unittitle>Baptisms, <unitdate type="inclusive" normal="1835/1869">1835-1869</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

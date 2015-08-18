@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::cyrio.xml//EN" encodinganalog="identifier">
+umich-bhl-87109</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Commission on Year-Round Integrated Operation (University of Michigan) records, 1957-1961
+
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Thomas A. La Porte, June 1993</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+February 2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Laura Schmidt, 
+<date>February 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050216</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Commission on Year-Round Integrated Operation <lb/>(University of Michigan), <lb/>Records, 1957-1961
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Thomas A. La Porte, June 1993
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Commission on Year-Round Integrated Operation.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Commission on Year-Round Integrated Operation (University of Michigan) records
+<unitdate type="inclusive" encodinganalog="245$f">
+1957-1961
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1958, 1961
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+.5 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+87109 Bimu B3 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The Commission on Year-Round Integration Records contain correspondence, reports, and background materials of the Commission, and its predecessor unit, the Calendar Study Committee.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was donated to the Bentley Historical Library. Donor number unknown.
+<num type="donor" encodinganalog="541$e"/>
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open for research.</p>
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Commission on Year-Round Integrated Operation (University of Michigan) Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>On February 27, 1961 University of Michigan President Harlan Hatcher appointed an eight member commission "to consider possible plans for integrated year-round operation and to recommend to him that program which would be best suited to the present and future needs of the University." ( <title render="italic">Box 1, folder: Final Report</title> )</p>
+<p>The commission examined three basic questions:  1.) Was a basic change to the University's academic routine justified and desirable?  2.) What alternative arrangements provided year-round integrated operation while maintaining the standards of the university?  3.) What arrangements should be recommended to the President and the Regents?</p>
+<p>The work of the Commission on Year-Round Integrated Operation (CYRIO) was very much a continuation of several earlier calendar committees.  Among its predecessors was the University Calendar Study Committee, chaired by Professor Paul S. Dwyer of the Mathematics department, which reported its findings June 19, 1958.  Appointed by President Hatcher on January 9, 1958, this five member committee had as its major goal "making recommendations for a university calendar suited to the times." (<title render="italic">Box 1, folder: Final Report, June 19, 1958</title>)  The committee made many recommendations regarding all facets of the university calendar, from the scheduling of new student orientation to the scheduling of commencement.  According to the CYRIO report, the Dwyer Report was "a major guide to other colleges and universities in their deliberations."</p>
+<p>Based on its research, the CYRIO recommended that year-round operation was necessary and desirable.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520"><p>
+The records of the Commission on Year-Round Integrated Operation are comprised of two series: The Commission on Year-Round Integrated Operation (CYRIO), and the Calendar Study Committee (the "Dwyer Committee").</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Calendar Study Committee.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Calendars.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Commission on Year-Round Integrated Operation.</corpname>
+
+</controlaccess></controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Commission on Year-Round Integrated Operation, <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle></did>
+<scopecontent><p>The CYRIO series includes some Dwyer Committee records, an incomplete set of meeting minutes and materials from the Pittsburgh Conference on Year-Round Operation. Although the records in the series are somewhat sparse, the inclusion of the commission's final report fills in many of the gaps in the record.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Meeting Minutes</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>LS&amp;A Examination Problem, Calendar Committee</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pittsburgh Conference on Year-Round Operation</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Scheduling Classes (Rutgers, Penn State)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Final Report</unittitle><physdesc>one bound volume</physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Calendar Study Committee, <unitdate type="inclusive" normal="1958">1958</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Calendar Study Committee Chronology, <unitdate type="inclusive" normal="1958">1958</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Calendar Study Committee, <unitdate type="inclusive" normal="1958">1958</unitdate></unittitle></did><scopecontent><p>The Calendar Study Committee series is comprised of correspondence and reports that the committee used and generated, including its final report, as well as sample calendars that were considered.  Also included are the reactions of deans, department heads, committees and the campus at large.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Material on Calendar</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Elements of a University Calendar</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sample Calendars</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Comments on preliminary report</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Examinations</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Deans, Department Heads and Committees</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box"><!---->1</container><unittitle>Campus reaction</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Intercollegiate athletics (impact)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Wayne State report</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>News items</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Final report, <unitdate type="inclusive">June 19, 1958</unitdate></unittitle><physdesc>one bound volume</physdesc></did></c02></c01>
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

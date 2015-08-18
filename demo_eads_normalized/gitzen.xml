@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::gitzen.xml//EN" encodinganalog="Identifier">
+umich-bhl-2010178</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Joseph A. Gitzen papers, 1917-1919
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Olga Virakhovskaya </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2010">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2010</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc>
+<change><date>20130517</date><item>Added tagging for subject indexing LAC</item></change>
+<change><date>2010-09-21</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Joseph A. Gitzen papers, 1917-1919</titleproper>
+
+<author>Finding aid created by<lb/> 
+Olga Virakhovskaya, September 2010</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Gitzen, Joseph A.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Joseph A. Gitzen papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1917-1919
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.2 linear feet, 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2010178 Aa 2 ; UAl
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Papers of Corporal Joseph A. Gitzen, resident of Houghton, Mich., member of Co. A., 310th U.S. Engineers who served in the Allied intervention in Russia, 1918-1920, the "Polar Bear Expedition." Collection includes Gitzen's personal and military papers, as well as Company A records, printed materials, maps, and an armband.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+This collection was donated by Robert Wuthrich (donor no. <num type="donor" encodinganalog="541$e">10398</num>) in August 2010.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<altformavail encodinganalog="530">
+<p>This collection has not been digitized by the Bentley Historical Library.</p>
+</altformavail><prefercite encodinganalog="524"><p>[item], folder, box,
+Joseph A. Gitzen papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Resident of <geogname normal="Houghton (Mich.)">Houghton, Mich.</geogname>, who served with <corpname normal="United States. Army. Engineer Regiment, 310th. Company A.">Company A, 310th Engineers</corpname> during the U.S. intervention at Archangel, Russia. Gitzen died between 1958 and 1960.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Joseph A. Gitzen collection includes Gitzen's <genreform normal="Diaries.">diaries</genreform>, <genreform normal="Letters (correspondence)">letters</genreform> and <genreform normal="Postcards.">postcards</genreform>, <genreform normal="Military records.">enlistment cards and field passes</genreform>, <genreform normal="Poems.">poems</genreform> and <genreform normal="Photographs.">photographs</genreform>; Co. A <genreform normal="Rosters.">rosters</genreform> and <genreform normal="Histories.">histories</genreform>; typewritten issues of <genreform normal="Newletters.">newsletter</genreform> <title render="italic">The Midnight Sun</title>, <genreform normal="Clippings.">newspaper clipping</genreform>, printed materials, oversize <genreform normal="Maps.">maps</genreform>, and an <genreform normal="Armbands.">armband</genreform>.</p>
+</scopecontent>
+
+
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Gitzen, Joseph A.</persname>
+<geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Engineer Regiment, 310th. Company A.</corpname>
+<subject source="local" encodinganalog="690">Polar Bear Expedition.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Personal files</unittitle></did><scopecontent><p>The Personal files series contains Gitzen's correspondence, diaries, military papers that include Gitzen's enlistment cards and field passes, two poems (one signed by Gitzen), and five photographs.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Diaries">Diaries</genreform>, <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Military papers, <unitdate type="inclusive" normal="1917/1919">1917-1919</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Poems, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform>, <unitdate type="inclusive">1918 undated</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>U.S. Army 310th Engineers Regiment, Company A records</unittitle></did><scopecontent><p>The U.S. Army 310th Engineers Regiment, Company A records series contains written histories of the Company and a number of Company rosters.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Company A rosters, <unitdate type="inclusive" normal="1919">1919</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Company A histories, <unitdate type="inclusive" normal="1919">1919</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Printed materials</unittitle></did><scopecontent><p>The Printed materials series contains several issues of the typewritten newsletter <title render="italic">The Midnight Sun</title> issued aboard of S.S. Steigerwald during the summer 1919 journey from Russia to the United States; a military brochure published by the War Camp Community Service, a song book, and a prayer book.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Catholic Prayer Book for the Army and Navy</title>, <unitdate type="inclusive" normal="1918">1918</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Litany of the Saints</title>, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">The Midnight Sun</title>, <unitdate type="inclusive">July 1919</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Where Do We Go From Here?</title> [<unitdate type="inclusive" normal="1919">1919</unitdate> ?]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Why Don't You Sing?</title>, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Maps</unittitle></did><scopecontent><p>The Maps series contains one undated oversize map of Shenkursk and two outsize undated maps of the Archangel region.</p></scopecontent>
+    <c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle><title render="italic">Sketch of Shenkursk Showing Fortifications</title>, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle> <title render="italic">Archangel Government</title> 5th Series, Sheet 1, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle> <title render="italic">Archangel Government</title> 5th Series, Sheet 2, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other materials</unittitle></did><scopecontent><p>The Other materials series contains an undated oversize newspaper clipping from <title render="italic">The Daily Mining Gazette</title> listing names of local recruits, and a cloth armband "U.S.A. Badge of Honor."</p></scopecontent>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>"One Hundred and Sixty Boys of St. Ignatius Congregation in Service of United States," clipping from <title render="italic">The Daily Mining Gazette</title>, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle><title render="italic">U.S.A. Badge of Honor</title>, cloth armband</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

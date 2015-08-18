@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::umbiosta.xml//EN" encodinganalog="identifier">
+umich-bhl-044</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Biological Station (University of Michigan) records, 1955-1991
+
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Adriane Hanson, Nov. 2003</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+Sept. 2004</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>Sept. 2004</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20040919</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Biological Station <lb/>(University of Michigan)<lb/> Records, 1955-1991
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Adriane Hanson, Nov. 2003
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Biological Station.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Biological Station (University of Michigan) records
+<unitdate type="inclusive" encodinganalog="245$f">
+1955-1991
+</unitdate>
+
+<unitdate type="inclusive" encodinganalog="245$f">
+1979-1989
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+044 Bimu C 241 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The University of Michigan Biological Station (UMBS) was established in 1909 as a teaching and research facility located in the tip of the lower peninsula of Michigan.  It preserves several habitats for study.  The main areas of research are field biology and ecology.  The records of the UMBS focus on evaluations of the program, research, and educational programs.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records (donor #<num type="donor" encodinganalog="541$e">1665</num>) were transferred November 2003.
+<num type="donor" encodinganalog="541$e">1665</num>
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open without restriction.</p>
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Biological Station (University of Michigan) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The University of Michigan Biological Station (UMBS) was established in 1909 and is part of the College of Literature, Science and Arts.  It is located on the tip of the lower peninsula of Michigan, on the shores of Douglas Lake.  The UMBS encompasses many habitats, including several vegetation zones, bogs, marshes, swamps, fens, beach pools, natural undeveloped lake shoreline, lakes, and two creek watersheds.  It was established to protect the land for current and future research.</p>
+
+<p>The UMBS is both a teaching and research facility.  It was established for summer research only but expanded to operate all year in the early 1970s to allow for more thorough study of the ecosystems.  Undergraduate and graduate students attend seminars, classes, and conduct independent studies to learn how to conduct research.  Professionals come to the UMBS to conduct research, and to teach.  There are research facilities, teaching laboratories and classrooms, a library, and living facilities.</p>
+
+<p>The research at UMBS is focused on field biology and ecology.  Researchers seek to understand the habitats and ecosystems located within the UMBS.  It provides a good location for studying lake, stream, and forest ecology.  Other areas of research have included the physiological ecology of plants and animals, systematics, limnology, biological indicators of environmental change, and land use and management.</p>
+
+<p>More current information is available at the UMBS website:  http://www.umich.edu/~umbs </p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The records of the University of Michigan Biological Station (UMBS) include materials used to evaluate the benefit of continuing the program during a university budget crisis in the early 1980s, and materials focused more generally on the research and educational programs of the UMBS.  The records are divided into four subseries:  Administrative, Review, Research, and Education Programs.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Biological Station.</corpname>
+<subject source="lcsh" encodinganalog="650">Ecology.</subject>
+<geogname source="lcsh" encodinganalog="651">Douglas Lake (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Sleeping Bear Dunes National Lakeshore (Mich.)</geogname>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Administrative</unittitle></did>
+<scopecontent>
+<p>Material in the Administrative series consists of information describing the program and location, partial executive committee meeting minutes from 1955 to 1964, discussions regarding the budget, enrollment statistics from 1909 to 1989, and the major need assessments.  </p>
+</scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Background, <unitdate type="inclusive" normal="1964/1976">1964-1976</unitdate></unittitle></did><note><p>(location descriptions, research possibilities, reports on UMBS progress)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biological Station Executive Committee Minutes, <unitdate type="inclusive" normal="1955/1964">1955-1964</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Changing Directors, <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Justifying Budget Needs to LS&amp;A, <unitdate type="inclusive" normal="1972/1983">1972-1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sources of Funding, <unitdate type="inclusive" normal="1964/1985">1964-1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Enrollment Statistics (number of undergraduate, graduate and foreign students each year), <unitdate type="inclusive" normal="1909/1989">1909-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Biological Station Needs, <unitdate type="inclusive" normal="1973">1973</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02></c01>
+
+
+
+
+<c01 level="series"><did><unittitle>Program Review</unittitle></did>
+<scopecontent>
+<p>The Program Review series contains records from the evaluation of the biostation program during the budget crisis in the early 1980s.  There are reports on the program, correspondence, materials from the LS&amp;A review committee, and summaries of surveys of graduate students, undergraduate students, investigators, faculty, and staff of the UMBS.</p>
+</scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>External Reviews, <unitdate type="inclusive" normal="1979/1982">1979-1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>LS&amp;A Review Committee, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence of Dean Steiner and Dr. Gates (Director of UMBS), <unitdate type="inclusive" normal="1981/1985">1981-1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Survey of Biological Station Residents, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Question IA:  Instruction and Courses, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Question IB:  Quality of Courses, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Question II:  Research Facilities, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Question III:  Housing and Dining Quality, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Question IV:  General Satisfaction, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle></did></c02></c01>
+
+
+
+
+<c01 level="series"><did><unittitle>Research</unittitle></did>
+<scopecontent>
+<p>The Research series includes research done at the UMBS and by UMBS researchers at other locations.  Materials include research proposals, contracts, and final reports.  The major research projects are a vegetation survey of the Manitou Islands and Sleeping Bear Dunes, and a water quality study of Northern Michigan.  There is also material regarding the formation of an Information Retrieval System for the UMBS library to facilitate access to records of past research.</p>
+</scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Research Proposals, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Publication List and Researcher Specializations, <unitdate type="inclusive" normal="1909/1989">1909-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Vegetation Survey (Manitou Islands, Sleeping Bear Dunes, proposal, research contract, expenses, correspondence), <unitdate type="inclusive" normal="1983/1989">1983-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Vegetation Survey Final Report (The Terrestrial Vegetation and Flora of North and South Manitou Islands, Sleeping Bear Dunes National Lakeshore, Technical Report No. 11, Hazlett and VanderKopple, Includes two maps)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Water Quality in Northern Michigan, <unitdate type="inclusive" normal="1984/1986">1984-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Information Retrieval System for the UMBS Library, <unitdate type="inclusive" normal="1981/1984">1981-1984</unitdate></unittitle></did></c02></c01>
+
+
+
+
+<c01 level="series"><did><unittitle>Education Programs</unittitle></did>
+<scopecontent>
+<p>The series Education Programs consists of two programs:  the Groundwater Education in Michigan program (GEM) and the Naturalist-Ecologist Training Program (NETP).  GEM promotes the maintenance of water quality and includes a center located at UMBS with literature pertaining to groundwater for the education of communities, and a classroom component to teach about water quality.  NETP is a training program for students located at the UMBS, which allows students to work with established ecologists and develop their knowledge and research skills.  The 1983 NETP report to the Mellon foundation includes ten black and white, 5x7 inch photographs attached to the back pages of the report.  Nine are of students conducting research and one is a group photograph.  The photograph on page 36 is missing.  </p>
+</scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Groundwater Education in Michigan (GEM) Annual Progress Report), <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Naturalist-Ecologist Training Program (NETP)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Goals and policies, <unitdate type="inclusive" normal="1982/1986">1982-1986</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Evaluations by students, <unitdate type="inclusive" normal="1983">1983</unitdate> <unitdate type="inclusive" normal="1985">1985</unitdate> <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle/></did></c03></c02></c01>
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

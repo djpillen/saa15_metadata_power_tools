@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::holycros.xml//EN" encodinganalog="Identifier">
+umich-bhl-86934</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Holy Cross Church (Cross Village, Mich.) records, 1847-1930
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-12-10</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Holy Cross Church (Cross Village, Mich.) records, 1847-1930</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Holy Cross Church (Cross Village, Mich.).
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Holy Cross Church (Cross Village, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1847-1930
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 microfilm reel
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86934 Ba Microcopy
+</unitid>
+
+<langmaterial>The material is largely in <language langcode="lat" encodinganalog="041">Latin</language> and <language langcode="oji" encodinganalog="041">Ottawa</language> </langmaterial>
+
+<abstract>
+Baptismal records, marriage, birth and death records, photographs, newspaper clippings and printed histories detailing activities of this Indian church.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were made available for microfilming by the church (donor no. <num type="donor" encodinganalog="541$e">5337</num>).</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+<originalsloc><p>The original records are held by the church.</p></originalsloc>
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Holy Cross Church (Cross Village, Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Holy Cross Church is a Catholic church which ministered to the Native American community of Cross Village, Michigan.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The records of the church date back to 1847 and include baptismal records, marriage, birth and death records, photographs, newspaper clippings and printed histories detailing activities of this Indian church. Most of the records are in Latin and Ottawa.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Cross Village (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Catholic Church--Missions--Michigan--Cross Village.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Catholic Church--Michigan--Cross Village.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Holy Cross Church (Cross Village, Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Indians of North America--Missions--Michigan--Cross Village.</subject>
+<subject source="lcsh" encodinganalog="650">Indians of North America--Michigan--Cross Village.</subject>
+<geogname source="lcsh" encodinganalog="651">Emmet County (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Registers of births, etc.--Michigan--Cross Village.</subject>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Church records</unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Historical notes</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Baptismal records, <unitdate type="inclusive" normal="1847/1868">1847-1868</unitdate> </unittitle></did> <note><p>(in Latin and Ottawa)</p></note></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Marriage, birth and death records, <unitdate type="inclusive" normal="1847/1868">1847-1868</unitdate> </unittitle></did> <note><p>(In Latin and Ottawa)</p></note></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Death records, <unitdate type="inclusive" normal="1847/1868">1847-1868</unitdate> </unittitle></did> <note><p>(In Latin and Ottawa)</p></note></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Church records, <unitdate type="inclusive" normal="1867/1870">1867-1870</unitdate> </unittitle></did> <note><p>(in Latin)</p></note></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Church records, <unitdate type="inclusive">ca. 1868-1895</unitdate> </unittitle></did> <note><p>(in Latin)</p></note></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Church records, <unitdate type="inclusive" normal="1901/1908">1901-1908</unitdate> </unittitle></did> <note><p>(in Latin)</p></note></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Church records, <unitdate type="inclusive" normal="1908/1920">1908-1920</unitdate> </unittitle></did> <note><p>(In English and Ottawa)</p></note></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Church records, <unitdate type="inclusive" normal="1921/1930">1921-1930</unitdate> </unittitle></did> <note><p>(In English and Polish)</p></note></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Miscellaneous church records</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Photographs</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Newspaper clippings and printed histories</unittitle></did></c02></c01>
+
+ 
+
+</dsc></archdesc>
+
+</ead>

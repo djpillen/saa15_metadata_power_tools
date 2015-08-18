@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::harvday.xml//EN" encodinganalog="identifier">umich-bhl-851074</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding aid for Harvey S. Day papers</titleproper></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan,</publisher><date encodinganalog="date">1997</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid prepared by William Landis<date>1997</date></creation></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>1999-07-14</date><item>converted to new container style</item></change>
+<change><date>1999-07-14</date><item>Converted to EAD version 1.0 using WORD 6 macro and some hand tagging.</item></change>
+<change><date>June 15, 1997</date><item>Bill Landis, Finding aid updated to current BHL EAD encoding standards.</item></change>
+<change><date>July 12, 1997</date><item>Bill Landis, Second update following discussion with Greg Kinney.</item></change>
+<change><date>8/9/997</date><item>headings deleted and other changes made to conform to new style, GK</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Harvey S. Day Papers, <date>1831-1935</date></titleproper>
+<author encodinganalog="creator">Finding aid prepared by <lb/>William Landis, 1997</author></titlepage></frontmatter>
+
+<archdesc level="collection" type="inventory" audience="external" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Day, Harvey S.</persname></origination>
+<unittitle encodinganalog="245">Harvey S. Day Papers
+<unitdate type="inclusive" encodinganalog="245$f" normal="1831/1935">1831-1935</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">1 linear ft.</extent></physdesc>
+<unitid label="Call No." encodinganalog="099" type="call number">851074 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<abstract>Dairy farmer in Willis, Michigan; personal and family correspondence and farm account books.</abstract>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection (Donor No. <num encodinganalog="541$e" type="donor">407</num>) was donated by Walter S. Fry of Detroit in 1938.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright to the collection has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, Box No., Harvey S. Day Papers, Bentley Historical Library.</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p><persname>Harvey S. Day</persname> was a dairy farmer of Willis, Michigan and an officer of the Holstein-Friesian Association.</p></bioghist>
+
+<scopecontent><p>Personal and family correspondence, including letter, <date type="single">1865</date>, of <persname>Matthew Day</persname> written from Joe Holt Hospital; letters, 1892-1935, concerning Holstein-Friesian cattle and the activities of the Holstein-Friesian Association, and Day's dairy farm; also bills, receipts, cattle transfer certificates, records of milk poundage, account books, <genreform>poetry</genreform>, <genreform>recipe book</genreform>, and other miscellaneous papers.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Form and Genre:</head><genreform source="aat">Account books.</genreform><genreform source="aat">Poetry.</genreform></controlaccess>
+
+<controlaccess><head>Subjects:</head><persname source="lcnaf" encodinganalog="600">Day, Harvey S.</persname><corpname source="lcnaf" encodinganalog="610">Holstein-Friesian Association of America.</corpname><subject source="lcsh" encodinganalog="650">Agriculture--Michigan--Washtenaw County.</subject><subject source="lcsh" encodinganalog="650">Cookery.</subject><subject source="lcsh" encodinganalog="650">Dairying--Michigan--Washtenaw County.</subject><subject source="lcsh" encodinganalog="650">Farmers--Michigan--Washtenaw County.</subject><geogname source="lcsh" encodinganalog="651">Ypsilanti (Mich.)</geogname></controlaccess>
+
+<controlaccess><head>Contributors:</head><persname source="lcnaf" encodinganalog="700">Day, Matthew.</persname></controlaccess></controlaccess>
+
+<dsc type="in-depth">
+<c01 level="collection"><did><unittitle><persname>Harvey S. Day</persname>  Papers, <unitdate type="inclusive" normal="1831/1935">1831-1935</unitdate></unittitle></did>
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1842/1865">1842-1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1866/1870">1866-1870</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-July 1871</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">August-December 1871</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-August 1872</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">September 1872-1874</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1875/1891">1875-1891</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1892/1897">1892-1897</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1898/1902">1898-1902</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1903/1905">1903-1905</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1906/1907">1906-1907</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1908">1908</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1909">1909</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-September 29, 1910</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">September 30-December 1910</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-March 1911</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Undated</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous cards, notes, etc.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform>Holstein records</genreform></unittitle><physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Printed <genreform>poems</genreform></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Manuscript <genreform>poems</genreform></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Day papers</unittitle><note><p>(Removed from Simons and Seamans account book)</p></note></did></c02>
+<c02 level="file"><did><unittitle>Records and statements</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1885/1892">1885-1892</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1893/1895">1893-1895</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1896/1898">1896-1898</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1899/1901">1899-1901</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1902/1908">1902-1908</unitdate>and undated</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform>Clippings</genreform></unittitle><physdesc><extent>8 folders</extent></physdesc></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle><genreform>Account book</genreform>, <unitdate type="inclusive">ca. 1901-ca. 1902</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle><genreform>Account book</genreform>, <genreform>poems</genreform>, recipes, <unitdate type="inclusive">ca. 1831-ca. 
+1859</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle>Milking <genreform>accounts book</genreform>, undated</unittitle></did></c02>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle><genreform>Recipe book</genreform>, undated</unittitle></did></c02></c01></dsc></archdesc></ead>

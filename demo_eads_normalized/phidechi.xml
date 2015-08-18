@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::phidechi.xml//EN" encodinganalog="Identifier">
+umich-bhl-2013024</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Phi Delta Chi, Alpha Chapter (University of Michigan) records, 1924-1995
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by Christopher Schunter, October 2011</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2013">
+2013</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2013</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2013-03-08</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Phi Delta Chi, Alpha Chapter <lb/>(University of Michigan)<lb/> records, 
+1924-1995
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Christopher Schunter, October 2011
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Phi Delta Chi. Alpha Chapter.  (University of Michigan).
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Phi Delta Chi, Alpha Chapter (University of Michigan) records
+<unitdate type="inclusive" encodinganalog="245$f">
+1924-1995
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2013024 Bimu F41 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Phi Delta Chi Fraternity was founded in 1883 by a group of pharmacy students at the University of Michigan. The Phi Delta Chi records contain minutes, publications, correspondence, a constitution and bylaws, a pledge manual, and photos from the mid-1990s.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were received from the College of Pharmacy donor number (<num type="donor" encodinganalog="541$e">3112</num>
+).  
+ 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>Periodic additions to the records are expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The collection is open without restriction.</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Board of Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Phi Delta Chi, Alpha Chapter (University of Michigan) records, Bentley Historical Library, University of Michigan</p></prefercite>
+
+
+
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Phi Delta Chi Fraternity was founded on November 2, 1883, by a group of eleven University of Michigan pharmacy students, who drew up the fraternity's constitution and bylaws.  These "founding fathers" of Phi Delta Chi include Charles Edward Bond, Franklin Herbert Frazee, Llewellyn Hall Gardner, Calvin Pomeroy Godfrey, Adolph Gustave Hoffman, Arthur Gilliam Hopper, Charles F. Hueber, George Pawling Leamon, Arthur Sidney Rogers, Azor Thurston, and Albert Tenney Waggoner.  Albert Benjamin Prescott, Dean of the College of Pharmacy, encouraged the formation of the fraternity, served as the group's sponsor, and became the first honorary member.  Because the fraternity was founded at Michigan, its chapter is the Alpha Chapter.</p>
+
+<p>The fraternity was originally known as Phi Chi.  Although changing the name to Phi Delta Chi was proposed at the fraternity's second meeting, it wasn't until 1910 that this name change was formally ratified.  The fraternity originally accepted members from the field of chemistry as well as pharmacy.  By 1933, requirements were changed to restrict membership to the field of pharmacy, and the society acquired the form in which it remains today, a professional fraternity dedicated to the field of pharmacy.  Women were first inducted in 1976.</p>
+
+<p>The Communicator, Phi Delta Chi's official publication, was first published in 1906 and continues to be published quarterly. Since 1883, Phi Delta Chi has chartered 57 chapters and initiated over 33,000 members.</p>
+<p>---------------</p>
+<p>Source: Phi Delta Chi Fraternity.  "History of Phi Delta Chi."  Accessed October 27, 2011.  http://www.phideltachi.org/about/the-organization/19-history-of-phi-delta-chi.</p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Phi Delta Chi records are divided into five series: Governance, Minutes, Miscellaneous, Photographs, and Publications.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Phi Delta Chi Fraternity. Alpha Chapter (University of Michigan)</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Pharmacy.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Societies, etc.</corpname>
+<subject source="lcsh" encodinganalog="650">Pharmacy--Michigan--Ann Arbor.</subject>
+
+
+
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Phi Delta Chi Fraternity. Alpha Chapter (University of Michigan).</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Pharmacy.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Societies, etc.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1991-2000.</corpname>
+
+
+</controlaccess>
+
+
+
+
+
+
+<controlaccess><genreform source="aat" encodinganalog="655">Photographs.</genreform>
+
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Governance</unittitle></did>
+<scopecontent><p>The Governance series includes the Alpha Chapter's constitution and bylaws from 1987 as well as a pledge manual from 1967.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution and Bylaws, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pledge Manual, <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Minutes</unittitle></did>
+<scopecontent><p>The Minutes series includes meeting minutes from 1924-1930 and 1985-1986.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1924/1930">1924-1930</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Special Meeting, <unitdate type="inclusive" normal="1928">1928</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1985/1986">1985-1986</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<scopecontent><p>The Miscellaneous series is comprised of a variety of material.  This includes a checkbook from the late 1940s and early 1950s, correspondence from 1930 and 1954, an early history of the fraternity, and a Certificate of Appreciation from the Salvation Army thanking the chapter for its community service during the 1993 Christmas season.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Checkbook, <unitdate type="inclusive" normal="1947/1952">1947-1952</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1930">1930</unitdate>, <unitdate type="inclusive" normal="1954">1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Early History, <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Salvation Army Certificate of Appreciation, <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Photographs, <unitdate type="inclusive" normal="1994">1994</unitdate> </unittitle></did>
+<scopecontent><p>The Photographs series contains a ca. 1965 group photo, and negatives and prints depicting fraternity members at events in the mid-1990s.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photographs</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Publications</unittitle></did>
+<scopecontent><p>The Publications series contains a 1965 issue of the Communicator, the fraternity's national publication, as well as two issues of the Alpha Tattler, the Alpha Chapter's publication, from 1992 and 1993.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The Alpha Tattler, <unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The Communicator, <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle></did></c02></c01> 
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

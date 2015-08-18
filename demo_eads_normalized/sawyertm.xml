@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::sawyertm.xml//EN" encodinganalog="Identifier">
+umich-bhl-89140</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Thomas Mitchell Sawyer papers, 1951-1998
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Jenny Sternaman </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>November 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-11-28</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Thomas Mitchell Sawyer papers, 1951-1998</titleproper>
+
+<author>Finding aid created by<lb/> 
+Jenny Sternaman, May 1988</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Sawyer, Thomas Mitchell, 1917-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Thomas Mitchell Sawyer papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1951-1988
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+89140 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of humanities in the College of Engineering of the University of Michigan. Reminiscences and family history; files relating to his administrative responsibilities at the University; essay written by Jan Veering, and edited by Sawyer, describing Veering's year in Ann Arbor, Michigan, as a visiting Dutch scholar to the University of Michigan.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Professor Sawyer (donor no. <num type="donor" encodinganalog="541$e">3867</num>) and came to the library in 1988.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open without restriction, except for 1 folder which is closed until 2013.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Thomas Mitchell Sawyer papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Thomas M. Sawyer was born in Hillsdale, Michigan, November 11, 1917. He is the descendent of two University of Michigan regents, Walter H. Sawyer and Austin E. Wing. After receiving a bachelor's degree in biology at Kenyon College (1939), Sawyer taught English in Pearl Harbor, Hawaii, where he experienced the Japanese attack. During World War II, Sawyer served as an ambulance driver in the American Field Service from 1943 to 1945. In 1945 Sawyer came back to Michigan and began a teaching career as a professor of humanities in the College of Engineering at the University of Michigan, while he worked toward a master's degree (1947) and a PhD (1953) in the field of speech. Professor Sawyer served as chairman of the College's Department of Humanities from 1966 to 1971. He retired from active teaching in 1986 and was later named professor emeritus of humanities by the Board of Regents.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Sawyer papers have been arranged into two series: Reminiscences and Family History which provides personal information on Sawyer and relates to memorable experiences during World War II and travels abroad and University Activities which is comprised of materials relating to Sawyer's activities at the University of Michigan in the period 1951-1986.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<persname source="lcnaf" encodinganalog="600">Sawyer, Thomas Mitchell, 1917-</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Engineering.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Veering, Jan.</persname>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Biographical / Personal</unittitle></did>
+<scopecontent><scopecontent><p>Biographical / Personal includes memoirs intended for Sawyer's grandchildren and relates in part to his experiences during World War II and observations while traveling in Pakistan (1963-64). This series includes some genealogical material and a copy of Jan Veering's "Speaking About Writing--An Academic Year in Ann Arbor" published in the Netherlands, and edited by Thomas Sawyer. Veering was a visiting Dutch scholar at the University of Michigan.</p></scopecontent></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reminiscences and Family History: "Personal Notes for my Children and Grandchildren" <unitdate type="inclusive" normal="1986">1986</unitdate> and <unitdate type="inclusive" normal="1998">1998</unitdate> </unittitle></did> <note><p>(2 editions)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Speaking About Writing--An Academic Year in Ann Arbor" by Jan Veering, edited by Thomas Sawyer, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>University Activities</unittitle></did>
+<scopecontent><p>University Activities is comprised of correspondence, spanning nearly all of Sawyer's professional affiliation with the University of Michigan (1951-1986). The correspondence covers such topics as curriculum development, humanities issues, student recommendations and discussions of his publications. Included are Department of Humanities newsletters (1971-1981), also memoranda and correspondence from Sawyer's committee work. Both the newsletters and the committee material address problems in curriculum development as well as other issues in the Department of Humanities.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1951/1986">1951-1986</unitdate> </unittitle> <physdesc><extent>11 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Departmental Newsletters, <unitdate type="inclusive" normal="1971/1981">1971-1981</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Committee Work Related to Curriculum Development, <unitdate type="inclusive" normal="1965/1980">1965-1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Committee Work, <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Marwil Tenure Denial Case, <unitdate type="inclusive" normal="1976/1983">1976-1983</unitdate> </unittitle></did> <note><p>(clippings and public documents)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Marwil Tenure Denial Case, <unitdate type="inclusive" normal="1976/1983">1976-1983</unitdate> </unittitle></did> <accessrestrict><p>(correspondence, reports, etc.; closed until 2013)</p></accessrestrict></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::clemenso.xml//EN" encodinganalog="Identifier">
+umich-bhl-89159</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Mount Clemens Symphony Orchestra Association records, 1957-1983
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Brian A. Williams </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-02-29</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Mount Clemens Symphony Orchestra Association records, 1957-1983</titleproper>
+
+<author>Finding aid created by<lb/> 
+Brian A. Williams, 1989</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Mount Clemens Symphony Orchestra Association.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Mount Clemens Symphony Orchestra Association records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1957-1983
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+89159 Bp.5 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Organization formed to support and assist the Mount Clemens Symphony Orchestra, Mount Clemens, Michigan, by means of fund raising activities and ticket sales promotions. Bylaws and board of directors minutes; also records of auxiliary organizations, the Mount Clemens Symphony Orchestra Women's Association and the Mount Clemens Symphony League; and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by the Macomb County Historical Society through Betty Lou Morris and Mrs. W. Whitney Sawyer, President of the Historical Society (Donor No. <num type="donor" encodinganalog="541$e">7610</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Mount Clemens Symphony Orchestra Association records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Mount Clemens Symphony Orchestra was formed in the Spring of 1956, primarily through the efforts of John Sweeney, who became the Orchestra's first conductor. The first concert was held January 26, 1957.</p>
+
+<p>In 1958, the Mount Clemens Symphony Orchestra Association (MCSOA) was formed to augment ticket sales, host receptions and assist with operating needs. Adjunct groups grew out of this initial Association to help with other areas. Among these other auxiliary groups were the Mount Clemens Symphony Orchestra Women's Association (MCSOWA), formed in 1966, and the Mount Clemens Symphony League, formed in 1978. These organizations held fund-raising activities and promoted the Orchestra and music appreciation to the community.</p>
+
+<p>The Mount Clemens Symphony Orchestra Women's Association was a member of the Michigan Orchestra Women's Association (MOWA). MOWA was organized in 1955 as a means of mutual support and communication among women's associations for symphony orchestras in Michigan. It was the first such association of its kind in the country.</p>
+
+<p>Declining concert attendance and slipping community support led to the disbanding of the MCSOA and its auxiliaries throughout the early 1980s. The Mount Clemens Symphony Orchestra was disbanded in 1983.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Mount Clemens Symphony Orchestra Association records consist of approximately two and one-half linear feet of minutes, financial reports, printed materials, bylaws, clippings and photographs. The records are those of the Mount Clemens Symphony Orchestra Association and its related organizations, the Mount Clemens Symphony Orchestra Women's Association, Michigan Orchestra Women's Association, and the Mount Clemens Symphony League. These are primarily minutes and reports.</p>
+
+<p>The majority of the record covers the time period from the mid 1970s to the Orchestra's disbanding in 1983. The newspaper clippings and printed materials sections span from the Orchestra's creation in 1956 to its demise in 1983. Included in these sections are materials relating to the Orchestra as well as the various supporting associations.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Mount Clemens (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Mount Clemens Symphony Orchestra Association.</corpname>
+<subject source="lcsh" encodinganalog="650">Music--Michigan--Mount Clemens.</subject>
+<subject source="lcsh" encodinganalog="650">Symphony orchestras--Michigan--Mount Clemens.</subject>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Mount Clemens--Societies and clubs.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Ballet.</subject>
+<subject source="lctgm" encodinganalog="650">Costumes.</subject>
+<corpname source="lcnaf" encodinganalog="610">Mount Clemens Symphony Orchestra Association.</corpname>
+<subject source="lctgm" encodinganalog="650">Music--Michigan--Mount Clemens.</subject>
+<subject source="lctgm" encodinganalog="650">Orchestras.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Organizational Records, <unitdate type="inclusive" normal="1957/1983">1957-1983</unitdate></unittitle></did>
+<c02 level="file"><did><unittitle>Bylaws and Board of Director's Minutes</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Women's Association Constitution, Minutes and Treasury Reports, <unitdate type="inclusive" normal="1974/1978">1974-1978</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Orchestra Women's Association Minutes and Reports, <unitdate type="inclusive" normal="1974/1978">1974-1978</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Symphony League Minutes and Financial Reports, <unitdate type="inclusive" normal="1978/1980">1978-1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Clippings</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1959">1959</unitdate>, <unitdate type="inclusive" normal="1966/1970">1966-1970</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1971/1977">1971-1977</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1965/1983">1965-1983</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Printed Materials <unitdate type="inclusive" normal="1957/1983">1957-1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Minutes, correspondence, performance information </unittitle></did> <note><p>(unprocessed)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Financial and printed </unittitle></did> <note><p>(unprocessed)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

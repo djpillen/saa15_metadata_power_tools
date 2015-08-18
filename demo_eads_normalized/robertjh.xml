@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::robertjh.xml//EN" encodinganalog="Identifier">
+umich-bhl-9413
+</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+James H. Robertson Papers, 1956-1987
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Weston T. Thompson </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date">
+2006 </date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>April 2006</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>20060421 </date>
+        <item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+James H. Robertson Papers, 1956-1987</titleproper>
+      <author>Finding aid created by<lb/> 
+Weston T. Thompson, January, 1994</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Robertson, James H. (James Holman), 1915-
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+James H. Robertson Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1956-1987
+</unitdate>
+
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+0.5 linear ft.
+</extent>
+      </physdesc>
+      <unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+9413 Aa 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+University of Michigan professor and administrator, director of the university's residential college, 1967-1973. Correspondence, 1956-1973, with students and colleagues; speech notes and various other writings; and photographs.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was donated by James H. Robertson (Donor no. <num type="donor" encodinganalog="541$e">7619</num>) on August 6, 1993.  
+</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+James H. Robertson Papers
+, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>James H. Robertson was born in Brooklyn, New York in 1915.  He obtained his B.S. in business administration from New York University in 1937 and his M.A. and Ph.D. in English from the University in Michigan in 1938 and 1950, respectively.  Dr. Robertson's professional affiliation with the University of Michigan began when he was a teaching fellow in the English Department, 1938-1941 and 1945-1946; he spent the intervening years serving in the U.S. Army.  In 1947 he was promoted to instructor.  After completing his Ph.D. in 1950, Dr. Robertson was named assistant professor and assistant dean of the College of Literature, Science, and Arts.  He became associate professor in 1957 and was named associate dean of the College of Literature, Science, and Arts in 1958.</p>
+      <p>When the university's Residential College opened in 1967, Dr. Robertson was named its first director.  He remained in that position through 1973.  He was named professor of English in 1969.  After leaving the Residential College, Dr. Robertson continued teaching at the university until his retirement in 1983.  Besides his teaching and administrative responsibilities, Dr. Robertson was active in numerous college and university committees.  He served as chairman of the Administrative Board from 1950 to 1967, as ex-officio member of the LSA Executive Committee from 1950 to 1972, and as a member of the Admissions Committee from 1950 to 1967.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Robertson papers are comprised largely of routine personal and professional correspondence.  His interests in faculty-student counseling, university administrative policies (not specifically University of Michigan), and maintaining friendships with students are documented in this collection.  Besides correspondence, this collection also includes notes from addresses given to high school students, university alumni, and Residential College students and parents.  His writing is well represented through poems, casual descriptive essays about students, and his published articles.  An interesting piece of Residential College paraphernalia, the mock diploma from the College's first graduating class (1971), may also be found in these papers.  Included are photographic portraits of Dr. Robertson.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <persname source="lcnaf" encodinganalog="600">Robertson, James H. (James Holman), 1915-</persname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. Residential College.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <persname source="lcnaf" encodinganalog="600">Robertson, James H. (James Holman), 1915-</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Personal and professional papers</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Biographical/Vitae</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence, <unitdate type="inclusive" normal="1956/1973">1956-1973</unitdate> </unittitle>
+            <physdesc>
+              <extent>17 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Residential College</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Mock Diploma</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>20th Anniversary Reunion, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Typed Notes, <unitdate type="inclusive">1957- ca. 1959</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Handwritten Notes, <unitdate type="inclusive" normal="1969/1973">1969-1973</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Writings</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Poems</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Student Profiles</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Published Articles, <unitdate type="inclusive" normal="1958/1986">1958-1986</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <genreform normal="Photographs">Photographs</genreform>:  Portraits, U.S.S. Macon Cruise</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

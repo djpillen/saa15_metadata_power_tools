@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::sciexped.xml//EN" encodinganalog="Identifier">
+umich-bhl-92132</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Scientific Expedition to Lake Superior photograph collection
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>January 2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2011-02-11</date><item>Changes made with the addition of new material.</item></change><change><date>2010-10-05</date><item>Change made to correct error.</item></change><change><date>2009-01-20</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Scientific Expedition to Lake Superior <lb/>Photograph collection
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Scientific Expedition to Lake Superior (1868)
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Scientific Expedition to Lake Superior photograph collection
+<unitdate type="inclusive" encodinganalog="245$f">
+1868
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+92132 UBimu C450 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Stereoscopic photos from a  scientific expedition to Michigan's upper peninsula and Lake Superior in 1868 organized by Albert E. Foote, assistant in the University of Michigan Chemistry Laboratory; includes views of the expedition's boats and camps, natural features including the Pictured Rocks and waterfalls, mining operations, Indians, ships, and a lighthouse.  
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was acquired through the University Library (Donor No. <num type="donor" encodinganalog="541$e">1278</num>).
+ 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>No further additions to the collections are expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The collection is open without restriction.</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], , box,
+Scientific Expedition to Lake Superior photograph collection, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Expedition to Isle Royale and the north shore of Lake Superior in 1868, organized by Albert E. Foote, assistant in the University of Michigan Chemistry Laboratory.</p>
+
+<p>For more information about this expedition see:</p>
+
+<p>Mark Walrod Harrington, "Our Lake Superior Trip," The <title render="italic">Michigan University Magazine</title> , No. 3 (1868/69): 170-174, 213-217, 276-270, 317-321 (Bentley Library call number Fimu/F3f)</p>
+
+<p>"Statement of Operations of the Museum ... for the year ending September 24th, 1868"<title render="italic">Proceedings of the Board of Regents of the University of Michigan</title> , 1864-70: 291-301 (Bentley call number Fimu/B2)</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>Stereograph views of the expedition's boats and camps, natural features including the Pictured Rocks and waterfalls, mining operations, Indians, ships, and a lighthouse.  The original set of cards apparently included 127 numbered items.   There are twenty-four items missing form the Bentley's collection.  the collection also includes several photographic prints, some of which appear to be reprints from the cards, and some note about the expedition and the collection made by F. Clever Bald, director of the Michigan Historical Collections, about 1950</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Boats.</subject>
+<subject source="lctgm" encodinganalog="650">Camping.</subject>
+<subject source="lctgm" encodinganalog="650">Copper mining.</subject>
+<subject source="lcsh" encodinganalog="650">Indians of North America.</subject>
+<subject source="lctgm" encodinganalog="650">Iron industry.</subject>
+<geogname source="lcsh" encodinganalog="651">Isle Royale (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Lighthouses--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">Marquette (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Munising (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Negaunee (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Ontonagon County (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Pictured Rocks (Mich.)--1868.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Schoolcraft Iron Company.</corpname>
+<subject source="lctgm" encodinganalog="650">Expeditions and surveys.</subject>
+<subject source="lctgm" encodinganalog="650">Ships--Great Lakes.</subject>
+<geogname source="lcsh" encodinganalog="651">Superior, Lake.</geogname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan Scientific Expedition to Lake Superior (1868)</corpname>
+<subject source="lcsh" encodinganalog="650">Waterfalls.</subject>
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="lctgm" encodinganalog="655">Stereographs.</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle><genreform normal="Stereographs">Stereograph Cards</genreform></unittitle></did>
+<c02 level="file"><did><container type="folder" label="Folder">1</container><unittitle>Ontonagon County, Michigan  </unittitle> <physdesc><extent>5 cards</extent></physdesc></did> <note><p>(nos.1-2, 5-,6, 9; includes Caledonia Mine and Evergreen Mine)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">1</container><unittitle>Pigeon River, Minnesota (Pigeon River Falls and rapids) </unittitle> <physdesc><extent>4 cards</extent></physdesc></did> <note><p>(nos. 10-13)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">2</container><unittitle>Rock Harbor, Isle Royale, Michigan (views of harbor, U-M expedition party in boats, lighthouse) </unittitle> <physdesc><extent>20 cards</extent></physdesc></did> <note><p>(16-36)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">3</container><unittitle>Neepigon Bay, North Shore of Lake Superior (views of shoreline, 1 view of expedition camp) </unittitle> <physdesc><extent>5 cards</extent></physdesc></did> <note><p>(nos. 37-41)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">3</container><unittitle>St Ignace Island, North Shore of Lake Superior </unittitle> <physdesc><extent>7 cards</extent></physdesc></did> <note><p>(nos. 44-50)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">3</container><unittitle>Perry's Island, North Shore of Lake Superior </unittitle> <physdesc><extent>3 cards</extent></physdesc></did> <note><p>(nos.53, 54-55)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">4</container><unittitle>Heck's Island, North Shore of Lake Superior  </unittitle> <physdesc><extent>2 cards</extent></physdesc></did> <note><p>(nos. 57-58)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">4</container><unittitle>St. Ignace Island, North Shore of Lake Superior </unittitle> <physdesc><extent>3 cards</extent></physdesc></did> <note><p>(nos.61-63)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">4</container><unittitle>Simpson's Island, North Shore of Lake Superior </unittitle><physdesc><extent>1 card</extent></physdesc></did> <note><p>(no. 65)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">4</container><unittitle>Thunder Bay, North Shore of Lake Superior  </unittitle> <physdesc><extent>3 cards</extent></physdesc></did> <note><p>(nos. 67-69)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">5</container><unittitle>Kaministiquia River, Canada </unittitle> <physdesc><extent>16 cards</extent></physdesc></did> <note><p>(nos. 70-85; includes Ft. William with Indians, no. 70, Kakabeka Falls, nos. 74-78; Indians, nos. 82, 84)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">6</container><unittitle>Thunder Cape, North Shore of Lake Superior  </unittitle> <physdesc><extent>1 card</extent></physdesc></did> <note><p>(no. 86)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">6</container><unittitle>Isle Royale, Michigan </unittitle> <physdesc><extent>2 cards</extent></physdesc></did> <note><p>(nos.87-88)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">6</container><unittitle>Rock Harbor, Isle Royale, Michigan, Siskowit Mine building </unittitle> <physdesc><extent>1 card</extent></physdesc></did> <note><p>(no. 89)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">6</container><unittitle>Marquette, Michigan </unittitle> <physdesc><extent>5 cards</extent></physdesc></did> <note><p>(nos.90-94; includes ships in bay, no. 90)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">7</container><unittitle>Pictured Rocks, Michigan </unittitle> <physdesc><extent>11 cards</extent></physdesc></did> <note><p>(nos.96,-87, 100-104, 106-107, 109, 111; includes Chapel Falls, nos. 96-97 and campsite, 106)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">8</container><unittitle>Munising, Michigan</unittitle></did>
+<c03 level="file"><did><container type="folder" label="Folder">8</container><unittitle>Schoolcraft Iron Company; buildings and furnace </unittitle> <physdesc><extent>5 cards</extent></physdesc></did> <note><p>(nos. 112-116)</p></note></c03>
+<c03 level="file"><did><container type="folder" label="Folder">8</container><unittitle>Cascade </unittitle> <physdesc><extent>1 card</extent></physdesc></did> <note><p>(no. 118)</p></note></c03>
+<c03 level="file"><did><container type="folder" label="Folder">8</container><unittitle>Munising Falls </unittitle> <physdesc><extent>2 cards</extent></physdesc></did> <note><p>(nos. 119-120)</p></note></c03></c02>
+<c02 level="file"><did><container type="folder" label="Folder">8</container><unittitle>Marquette, Michigan, expedition camp </unittitle> <physdesc><extent>1 card</extent></physdesc></did> <note><p>(no. 121)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">8</container><unittitle>Negaunee, Michigan </unittitle> <physdesc><extent>3 cards</extent></physdesc></did> <note><p>(nos. 125-127)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">9</container><unittitle>Unnumbered cards </unittitle> <physdesc><extent>4 cards</extent></physdesc></did> <note><p>(includes ships and ice in Marquette Harbor; west view of Chapel Rock, Pictured Rocks; "Rocks on Star Island;" and one unidentified)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">10</container><unittitle>Duplicate cards (reprints) </unittitle> <physdesc><extent>3 cards</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="folder" label="Folder">11</container><unittitle>Balmer prints </unittitle> <physdesc><extent>8 cards</extent></physdesc></did> <note><p>(includes the Amphitheatre and distant view of Chapel, Pictured Rocks; Jackson Iron Mine, Negaunee, and iron rolling mill, Marquette; Perry's Island and natural leaning tower, North Shore of Lake Superior)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photo Prints</genreform></unittitle></did>
+<c02 level="file"><did><container type="folder" label="Folder">12</container><unittitle>Campsite photos </unittitle> <physdesc><extent>5 prints</extent></physdesc></did> <note><p>(some appear to be reprints made for the stereo cards)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Notes</unittitle></did>
+<c02 level="file"><did><container type="folder" label="Folder">13</container><unittitle>Notes on the Expedition by F. Clever Bald, <unitdate type="inclusive">ca. 1950</unitdate> </unittitle></did> <note><p>(includes some extracts form Alexander Winchell journals)</p></note></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

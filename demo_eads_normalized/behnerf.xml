@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::behnerf.xml//EN" encodinganalog="Identifier">
+umich-bhl-90161</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Frederick G. Behner papers, 1893-1924
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Melissa Johnson, May 1990 and Olga Virakhovskaya, January 2013.</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kiney, 
+<date>2006-11-14</date> and Olga Virakhovskaya<date>2013-01-08</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2013-01-08</date><item>Changes made with addition of transcript of diaries.</item></change>
+<change><date>2012-03-06</date><item>Changes made with addition of original diaries.</item></change>
+<change><date>2006-11-14</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Frederick G. Behner papers, <lb/>1893-1924 (bulk 1896-1908)</titleproper>
+
+<author>Finding aid created by<lb/> 
+Melissa Johnson, May 1990 and Olga Virakhovskaya, January 2013.</author> 
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">Behner , Frederick G. (1874-1968)
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Frederick G. Behner papers, 1893-1924
+<unitdate type="inclusive" encodinganalog="245$f">
+1893-1924</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1896-1908</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+90161 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Teacher, Inspector of Schools in the Philippine Islands (1901-1905), and Presbyterian clergyman. Papers include biographical information, education and teaching materials, church miscellanea, diaries, correspondence and photographs.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was acquired in three different accessions from Frederick G. Behner, Jr. (Donor No. <num type="donor" encodinganalog="541$e">7713</num>), 1989 through 1990; the diaries came from Harriet Behner Sawyer (Donor No. <num type="donor" encodinganalog="541$e">10698</num>)in 2011.
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Frederick G. Behner papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Frederick G. Behner (1874-1968) was born in Wood County, Ohio.  He was what is often referred to as a "self-made" man. Due to family problems, he did not receive much formal primary or secondary education; rather he taught himself.  At the age of 16 he passed his teacher's examination and left home.  After working for a few years he entered North Central College in Naperville, Illinois and graduated as valedictorian in 1900.  Upon graduation he entered into service with the United States Government as Inspector of Schools in the Philippine Islands, and worked there from 1901 to 1905.  Behner worked, along with a man named B.N. Blakeslee, on the island of Banton teaching and acting as health director, although it is not clear what his capacities actually were.  Behner also worked in both Japan and China, again teaching, before returning to the States to enter the Xenia Seminary (Xenia, Ohio).  He was ordained in 1906 by the Presbyterian ministry, and presided at churches in Covington Ohio; New Paris, Ohio; Fargo North Dakota; St. Louis Missouri; Clarksburg West Virginia; Charleroi, Pennsylvania; Monroe Michigan, and Stockbridge Michigan.  He retired from the Stockbridge church in 1956. He later moved to Florida, spending his last years at the Florida Presbyterian Home in Lakeland.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The papers of Frederick G. Behner measure one linear foot and are contained in two series:  Papers and Photographs. The Papers series is further divided into biographical information; education and teaching; church; personal materials; correspondence; and general materials.</p>
+
+<p>The Biographical Information consists of photocopies of accounts that Behner's son, Frederick G. Behner, Jr., wrote using his father's diaries and oral accounts.  The Education and Teaching file includes Behner's teaching certificates (1893-1895), his university papers from North Central College, his students' papers from the Philippine Islands, and some papers from Xenia Seminary School.  His university papers are on a number of subjects, as are his students' papers, and are interesting as they reflect many social and political facets of the turn of the century.</p>
+
+<p>The Church papers include his licensure and requests from various churches asking Behner to work at their church.  The Personal file series includes Behner's diaries for the years 1901 through 1905 and chronicles his journey from Ohio down to the Philippine Islands, his years of teaching there, an extended trip home with major stops in Palestine and Europe, and his wedding.  The 1901 diary is accompanied by a partial transcript.  Also included a published volume of transcript of diary titled "One Man's Journey to the Philippine Islands: the Thomasite Adventure, 1901-1905." The Correspondence series (1896-1904) is very brief and arranged chronologically, containing only several letters. One letter of interest explains the purpose of the schools in the Philippine Islands; another is a permit to carry a shotgun.  The General Materials series is also very brief; it contains two steamship liner booklets with notations by Behner and a certificate indicating that Behner was a member of the National Geographic Society.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+
+<persname encodinganalog="600" source="lcnaf">Behner, Frederick G., 1874-1968.</persname>
+<subject encodinganalog="650" source="lcsh">Clergy--Philippines.</subject>
+<subject encodinganalog="650" source="lcsh">Thomasites--Philippines.</subject>
+<geogname encodinganalog="655" source="lcsh"> Philippines--History--1898-1946.</geogname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<persname encodinganalog="700" source="lcnaf">Behner, Frederick G., 1874-1968.</persname>
+<geogname encodinganalog="651" source="lcsh">China--History--1861-1912.</geogname><geogname encodinganalog="651" source="lcsh">Japan.</geogname><geogname encodinganalog="651" source="lcsh">Philippines-- History--1898-1946.</geogname><subject encodinganalog="650" source="lctgm">Travel.</subject></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform encodinganalog="655" source="gmgpc"> Albums.</genreform>
+<genreform encodinganalog="655">Diaries.</genreform>
+<genreform encodinganalog="655" source="aat">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Papers</unittitle></did>
+
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical Information</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Education and Teaching</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Teaching Certificates, <unitdate type="inclusive" normal="1893/1895">1893-1895</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>University Papers </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Students' Papers </unittitle> <physdesc><extent>9 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Xenia Seminary Papers</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Church</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Presbyterian Certificate of Licensure (1907)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Church Ministries (1909-1934)</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Personal Materials</unittitle></did>
+<c03 level="file"><did><unittitle><genreform normal="Diaries">Diaries</genreform></unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1901  July</unitdate>1-December 31</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1902  January</unitdate>1-December 31</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1903  January</unitdate>1-1904  January 2</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1904  June 14-1905  June 27</unitdate> and <unitdate type="inclusive">1905  November</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>One Man's Journey to the Philippine Islands: the Thomasite Adventure, <unitdate type="inclusive" normal="1901/1905">1901-1905</unitdate></unittitle></did></c03>
+
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Diary transcript, <unitdate type="inclusive">1901  July</unitdate>1-August 22</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1896/1904">1896-1904</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General Materials</unittitle></did></c02>
+</c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<scopecontent>
+<p>The Photographs series is comprised of numerous photographs of the Philippine Islands and other countries Behner visited.  There are both loose photographs and photograph albums. Most are labelled.  One album contains the negatives of what appears to be most of the photographs.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1901/1905">1901-1905</unitdate> </unittitle></did> <note><p>(loose photographs)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1901/1905">1901-1905</unitdate> </unittitle></did> <note><p>(<genreform normal="Albums">photograph album</genreform>)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1901/1905">1901-1905</unitdate> </unittitle></did> <note><p>(negative album)</p></note></c02>
+</c01>
+
+
+</dsc></archdesc>
+
+</ead>

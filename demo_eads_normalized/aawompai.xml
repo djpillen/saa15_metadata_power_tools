@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::aawompai.xml//EN" encodinganalog="Identifier">
+umich-bhl-8554</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Ann Arbor Women Painters records, 1951-1998
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Library staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-10-31</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Ann Arbor Women Painters records, 1951-1998</titleproper>
+      <author>Finding aid created by<lb/> 
+Bentley Historical Library staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<corpname source="lcnaf" encodinganalog="110">
+Ann Arbor Women Painters.
+</corpname>
+</origination>
+      <unittitle encodinganalog="245">
+Ann Arbor Women Painters records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1951-1998
+</unitdate>
+
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+6 linear feet
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8554 Bp 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Formerly known as the Women Painters' Group and affiliated, 1951-1960, with the Ann Arbor Art Association and the Women's City Club. In 2002, the name of the organization was changed to Ann Arbor Women Artists. Historian's books containing yearbooks, newspaper clippings, membership lists, officer reports, and exhibition material.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+      <physloc>Portions located in offsite storage; prior notification required for access.</physloc>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The records were donated by the organization (donor no. <num type="donor" encodinganalog="541$e">6375</num>) and first came to the library in 1979.</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+Periodic additions to the records expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The record group is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Ann Arbor Women Painters records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>AAWA was founded in 1951 as a volunteer organization and study group, called Ann Arbor Women Painters. The organizers of this group were Sarah Bull, Elsie Bailey and Doris Porter Mclean.</p>
+      <p>In 2002 the name was changed to Ann Arbor Women Artists to more accurately portray its members - artists working in a variety of media and producing vastly different types of art.</p>
+      <p>The purpose of the AAWA is to stimulate creative expression and sharing among its members in order to continually raise the quality of the art produced. Run as a volunteer organization, members exhibit their work in several different shows and exhibition spaces throughout the year. The organization also offers workshops and monthly events, including presentations by artists and others in the art field who speak on a wide variety of topics.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The records of the organization include clippings, programs, directories of members, minutes of meetings and annual reports, records of the historian and of the exhibition committee.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="650">Art--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650">Artists--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650">Arts--Michigan--Ann Arbor--Societies, etc.</subject>
+        <subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor--Societies and clubs.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Ann Arbor Art Association.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Ann Arbor Women Painters.</corpname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbook-binders</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1952/1964">1952-1964</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(binder contains clippings, programs, directory)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1964/1973">1964-1973</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(binder contains clippings, programs, directory)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1973/1981">1973-1981</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(binder contains clippings, programs, directory)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1981/1986">1981-1986</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(binder contains clippings, programs, directory)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1987/1991">1987-1991</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(binder contains clippings, programs, photographs)</p>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Business Records </unittitle>
+        </did>
+        <note>
+          <p>(minutes and annual reports)</p>
+        </note>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1951/1966">1951-1966</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1966/1981">1966-1981</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1981/1986">1981-1986</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1986/1993">1986-1993</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(continued in Historian's books)</p>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Historian's Records</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1986/1990">1986-1990</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(binder contains clippings, programs, directories, and business records)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1990/1994">1990-1994</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(binder contains clippings, programs, directories, and business records)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1994/1997">1994-1997</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(contains programs, newsletters, minutes, treasurer's reports, etc.)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1997/1999">1997-1999</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(contains programs, newsletters, minutes, treasurer's reports, etc.)</p>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Exhibition Committee</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1979/1989">1979-1989</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1989/1996">1989-1996</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Other Records</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Newsletters, <unitdate type="inclusive" normal="1990/2000">1990-2000</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Directories, <unitdate type="inclusive" normal="1961/2001">1961-2001</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Treasurer's book, <unitdate type="inclusive" normal="1989/1992">1989-1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Ledger and dues book, <unitdate type="inclusive" normal="1951/1962">1951-1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Miscellaneous directories, clippings and informational materials, <unitdate type="inclusive" normal="1950/1959" certainty="approximate">1950s</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Mary Bachman (?) (nominating committee chair, newsletter editor) record book, <unitdate type="inclusive" normal="1983/1993">1983-1993</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(contains programs, newsletters, etc.)</p>
+          </note>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

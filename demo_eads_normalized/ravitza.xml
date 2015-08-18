@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::ravitza.xml//EN" encodinganalog="Identifier">
+umich-bhl-2009028</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Allyn Ravitz papers, 1973-1997
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2010">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2010</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2010-03-17</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Allyn Ravitz papers, 1973-1997</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Ravitz, Allyn.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Allyn Ravitz papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1973-1997
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.6 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2009028 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Feminist attorney from Detroit, Michigan. Topical files relating to cases in which she was involved; organizational activities, especially the Feminist Federal Credit Union; and feminist issues and interests, including credit and housing discrimination, sexual harassment, etc.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Allyn Ravitz (donor no. <num type="donor" encodinganalog="541$e">10141</num>) and came to the library in 2009.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Allyn Ravitz papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Allyn Ravitz was a graduate of the University of Detroit School of Law in 1972. Soon thereafter she became legal counsel for Metropolitan Detroit NOW and active in various women's rights causes. In 1974, she helped form the first all-women's credit union in the country, the Feminist Federal Credit Union. Within one year, the credit union had issued more than a third of $1 million in loans to women. At the same time, Ravitz and others were trying to pass legislation to change Michigan's credit laws. Ravitz also helped change the Fair Housing Act so women would not be discriminated against on the basis of sex, age, or because they were mothers with children.</p></bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Allyn Ravitz collection includes subject files relating to her activities and to her overall interest in women's rights. Of especial interest are her files on the Feminist Federal Credit Union and her support of legislation to prohibit sex discrimination in credit practices. In addition to clippings and published material, the collection includes correspondence, organizational materials, certificates of appreciation, and miscellaneous.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Feminist Federal Credit Union.</corpname>
+<subject source="lcsh" encodinganalog="650">Feminists--Michigan.</subject>
+<persname source="lcnaf" encodinganalog="600">Ravitz, Allyn.</persname>
+<subject source="lcsh" encodinganalog="650">Sex discrimination against women--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Women lawyers--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Women's Defense and Education Committee.</corpname>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Topical Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biography, certificates, and clippings with mention of her activities </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Credit Bill, <unitdate type="inclusive" normal="1973/1975">1973-1975</unitdate> </unittitle></did> <note><p>(legislation to prohibit sex discrimination in credit practices)</p></note></c02>
+<c02 level="file"><did><unittitle>Feminist Federal Credit Union</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1973">1973</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1974">1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Great Lakes Steel Maternity bias, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>HUD Case, <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mabel Dingeman Dinner</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Women's Political Caucus, <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Sexual Harassment (clippings, publications, etc.)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>History, misc.</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous.</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Faye Nale case and related</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speaking Engagements, Correspondence, etc.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Violence against Women</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Winkelman's Credit Application, <unitdate type="inclusive">12/1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Women Who Move Detroit-engagement calendar, <unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Women's Defense &amp; Education Committee, <unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Women's Equality Day; women and the law</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::ukrainpr.xml//EN" encodinganalog="Identifier">
+umich-bhl-2009133</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Ukrainians in the United States: Publications of Ukrainian-American organizations and institutions, 1924-1979
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2011">
+2011</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2011</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2011-04-22</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Ukrainians in the United States: <lb/>Publications of Ukrainian-American <lb/>Organizations and Institutions, 1924-1979</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+  
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+[Ukrainian-American organizations and institutions]
+</corpname>  
+</origination>  
+<unittitle encodinganalog="245">
+Ukrainians in the United States: Publications of Ukrainian-American organizations and institutions 
+<unitdate type="inclusive" encodinganalog="245$f">
+1924-1979
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2009133 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> and <language langcode="ukr" encodinganalog="041">Ukrainian</language></langmaterial>
+
+<abstract>
+Ukrainian-American publications collected from various sources.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The materials were donated in part from John Panchuk (donor no.<num type="donor" encodinganalog="541$e">5143</num>) and came to the library in 1980.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not benn transferred to the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Ukrainians in the United States: Publications of Ukrainian-American organizations and institutions, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of publications, primarily from Ukrainian-American Michigan organizations and institutions.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject encodinganalog="650" source="lcsh">Ukrainian Americans--Michigan</subject>
+
+</controlaccess>
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Publications donated by John Panchuk</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Federatsiï Amerïkans'kykh Ukraïntsiv V Mishigen. (Ukrainian-American Federation of Michigan)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Iubileinii Almanakh, <unitdate type="inclusive" normal="1939/1954">1939-1954</unitdate> (Jubilee almanac) Detroit, <unitdate type="inclusive" normal="1954">1954</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Zvit Z diial'nosty, <unitdate type="inclusive" normal="1939/1949">1939-1949</unitdate> (Report on the activity) Detroit, <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Statut. (Bylaws) Detroit, <unitdate type="inclusive" normal="1947">1947</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Orhanizatsiia Oborony Ukraïny. (Defense of Ukraine)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Program I Statut. (Program and bylaws) New York, <unitdate type="inclusive" normal="1924">1924</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Soviet-American Tractor Co-operative Association</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Bylaws. Detroit, [19--]</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Tovarystva Starshykh Vikam Ukraïntsiv V Mishigen. (Ukrainian Older Age Society in Michigan)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Status. (Bylaws) Detroit, <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Ukrainian Art Exhibit, Wayne State University</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Souvenir booklet. Detroit, <unitdate type="inclusive" normal="1960">1960</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Ukraïns'ke Likars'ke Tovarystvo Pivnichonoï Ameryky. Michigans'kiï Viddil. (Ukrainian Medical Association of North America. Michigan Branch)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Likars'kiï Al'manakh. (Medical almanac) Detroit, <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Ukraïns'kiï KongresoviÏ Komitet</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Z Nahody Desiatylittia <unitdate type="inclusive" normal="1940/1950">1940-1950</unitdate> New York, <unitdate type="inclusive" normal="1950">1950</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Ukraïns'ko-Amerykans'koho Oseredka. (Ukrainian-American Center)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Statut. (Bylaws) Detroit, [19--]. </unittitle><physdesc>2 copies</physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Ukraïns'koïï Narodnoï Soiuz. Tovarystva im. M. Sichyns'koho, Viddil 146. (Ukrainian National Union. M Sichinsky Lodge 146)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Statut. (Bylaws) Hamtramck, <unitdate type="inclusive" normal="1926">1926</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Ukraïns'koï Narodnoï Hromady V Nort Ditroït. (Ukrainian Community Home of North Detroit)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Statut. (Bylaws) Detroit, [<unitdate type="inclusive" normal="1940">1940</unitdate>]</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Ukraïns'kyï Prosvitnyï Dim. (Ukrainian Educational Home Association)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Statut. (Bylaws) Detroit, <unitdate type="inclusive" normal="1923">1923</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Publications donated by the Ukrainian National Museum and Archives</unittitle></did>
+<c02 level="file"><did><unittitle>Ukrainian National Museum and Archives</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Report. [<unitdate type="inclusive" normal="1964">1964</unitdate> ï], <unitdate type="inclusive" normal="1966">1966</unitdate>, <unitdate type="inclusive" normal="1967">1967</unitdate>, <unitdate type="inclusive" normal="1970">1970</unitdate>, <unitdate type="inclusive" normal="1974">1974</unitdate>, <unitdate type="inclusive" normal="1975">1975</unitdate>, <unitdate type="inclusive" normal="1978">1978</unitdate>, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Ukrainian Community Center, Warren, Mich</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>[Dedication booklet.  <unitdate type="inclusive">December 16, 1978</unitdate>]</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>----------------<unitdate type="inclusive">April 23, 1978</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Immaculate Conception Ukrainian Catholic Church, Hamtramck, Mich</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Registered parish membership list <unitdate type="inclusive">1955-58</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Sisterhood of the Immaculate Conception:-----------------[40th anniversary] <unitdate type="inclusive" normal="1959">1959</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Golden anniversary booklet. <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Immaculate Conception Ukrainian Catholic High School, Hamtramck, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>The Basilea. <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate> v.15, no.1, 3, 4, 5</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Icon: <unitdate type="inclusive" normal="1966">1966</unitdate>, <unitdate type="inclusive" normal="1969">1969</unitdate>, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Dedication booklet. <unitdate type="inclusive" normal="1952">1952</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Ukrainian Medical Association of North America</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>------------. Detroit, <unitdate type="inclusive" normal="1969">1969</unitdate> [Latin-Ukrainian medical dictionary]</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Nomina anoatomica Ukrainica------------------. Detroit, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>--------------. Chicago, <unitdate type="inclusive" normal="1975">1975</unitdate>. [25th anniversary history]</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Journal. no.66-91, <unitdate type="inclusive" normal="1972/1978">1972-1978</unitdate> (some numbers missing)</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Ukrainian Catholic Youth League</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Sixth annual sports rally, Detroit, <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Ukrainian Youth League of North America</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Directory. <unitdate type="inclusive" normal="1954">1954</unitdate>, <unitdate type="inclusive" normal="1956">1956</unitdate>, <unitdate type="inclusive" normal="1957">1957</unitdate>, <unitdate type="inclusive" normal="1958">1958</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Mid-west rally, Detroit, <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Ukrainian Youth Organization</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>----------------. <unitdate type="inclusive" normal="1961/1976">1961-1976</unitdate> no.31-65 (some numbers missing)</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Ukrainian Bandurists Chorus</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Programs, etc. </unittitle> <physdesc><extent>1 folder</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Miscellaneous</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous programs of testimonial dinners, etc. </unittitle> <physdesc><extent>1 folder</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Parfanowycz, Sophie. Fairylike Oakwood. Chicago, <unitdate type="inclusive" normal="1965">1965</unitdate>. </unittitle></did> <note><p>(in Ukrainian)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Taras Schevchenko memorial book. <unitdate type="inclusive" normal="1964">1964</unitdate></unittitle></did></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

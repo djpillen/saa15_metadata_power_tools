@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::murphyjf.xml//EN" encodinganalog="Identifier">
+umich-bhl-852024</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+John Francis Murphy papers, 1883-1940
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2007">
+2007</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>March 2007</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2007-03-29</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+John Francis Murphy papers, 1883-1940</titleproper>
+      <author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<persname source="lcnaf" encodinganalog="100">
+Murphy, John Francis, 1849-1926.
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+John Francis Murphy papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1883-1940
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+2 linear feet
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+852024 Aa 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Father of Frank and George Murphy; correspondence and other papers.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was the gift of the Hon. George Murphy (donor no. <num type="donor" encodinganalog="541$e">3074</num>).</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+John Francis Murphy papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>John F. Murphy was born in June 17, 1849 in Guelph, Ontario, of American parents. He graduated from the Law School of the University of Michigan in 1881, then later moved to Harbor Beach, Michigan where he entered private practice.  In addition, Murphy served as prosecuting attorney of Huron County, city attorney of Harbor Beach, and member of the Democratic State Central Committee. He and his wife Mary Brennan Murphy were the parents of sons George, Harold, and Frank, and daughter Marguerite.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Murphy collection consists mainly of correspondence between John and Mary Brennan Murphy and their children, mainly sons George, and Frank while they were serving in the military during World War I. Other materials relate to the Democratic Party in Michigan, especially the elections of 1886 and 1888.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">Democratic Party (Mich.)</corpname>
+        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1886.</subject>
+        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1888.</subject>
+        <geogname source="lcsh" encodinganalog="651">Harbor Beach (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650">Lawyers--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">Taxation--Michigan.</subject>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. Law School.</corpname>
+        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Murphy, Frank, 1890-1949.</persname>
+        <persname source="lcnaf" encodinganalog="700">Murphy, George, 1897-1961.</persname>
+        <persname source="lcnaf" encodinganalog="700">Murphy, Mary Brennan, d. 1924.</persname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence, <unitdate type="inclusive" normal="1883/1940">1883-1940</unitdate></unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1883/1918">1883-1918</unitdate> </unittitle>
+            <physdesc>
+              <extent>15 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1919/1940">1919-1940</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle>
+            <physdesc>
+              <extent>17 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Other papers, <unitdate type="inclusive" normal="1883/1920">1883-1920</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Clippings, certificates, flyers, etc., <unitdate type="inclusive" normal="1889/1920">1889-1920</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Miscellanea: docket book, <unitdate type="inclusive" normal="1885">1885</unitdate> prayer book, picture of Mary Brennan Murphy, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Miscellanea, <unitdate type="inclusive">undated</unitdate> </unittitle>
+            <physdesc>
+              <extent>2 folders)</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

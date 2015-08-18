@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::cruzatg.xml//EN" encodinganalog="Identifier">
+umich-bhl-89160</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Gwendolyn S. Cruzat papers
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Jenifer A. Smith, March 1993</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Paul Jordan, 
+<date>2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-04-20</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Gwendolyn S. Cruzat Papers, 1964-1990</titleproper>
+
+<author>Finding aid created by<lb/> 
+Jenifer A. Smith, March 1993</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Cruzat, Gwendolyn S. 
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Gwendolyn S. Cruzat papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1964-1990
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1973-1976
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+89160 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Files of materials received from various University of Michigan committees and commissions on which she served, notably the Commission for Women, the Advisory Committee on Recreation, Intramurals and Club Sports, the Alumnae Athena Award Committee, and the University Club of Ann Arbor, Michigan.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated in 1988 by Gwendolyn S. Cruzat (Donor No. <num type="donor" encodinganalog="541$e">7609</num>).  A second accession was received in 1993.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Gwendolyn S. Cruzat papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Gwendolyn S. Cruzat was a Professor of Information and Library Science at the University of Michigan. She began teaching at the University in the 1960s and retired in 1991. She also served as faculty representative on the Board in Control of Intercollegiate Athletics.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Gwendolyn S. Cruzat Papers reflect her involvement with several committees dedicated to regulating university athletics and maintaining equality for both men's and women's athletics, notably the Commission for Women, the Advisory Committee on Recreation, Intramurals and Club Sports, the Alumnae Athena Award Committee, and the University Club of Ann Arbor, Michigan.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Cruzat, Gwendolyn S.</persname>
+<corpname source="lcnaf" encodinganalog="610">University Club of Ann Arbor (Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Advisory Committee on Recreation, Intramurals and Club Sports.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Alumnae Athena Award Committee.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Commission for Women.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. School of Information and Library Studies.</corpname>
+<subject source="lcsh" encodinganalog="650">College teachers--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Women college teachers--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Women college students--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
+
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Professional Papers</unittitle></did>
+
+
+<c02 level="file"><did><unittitle>Advisory Committee on Recreation, Intramurals and Club Sports (ACRICS)</unittitle></did><scopecontent><p>Advisory Committee on Recreational, Intramural and Club Sports (ACRICS) (0.05 linear ft., 1967-1972) contains reports proposing the construction of both the North Campus Recreation Building and the Central Campus Recreation Building and outlining the specific athletic and recreational needs of the university community that the construction of these building would address.</p></scopecontent>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Reports,<unitdate type="inclusive" normal="1967/1972">1967-1972</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+
+
+<c02 level="file"><did><unittitle>Alumnae Athena Award</unittitle></did><scopecontent><p>Alumnae Athena Award (0.05 linear ft., 1973-1977) contains committee proceedings, including the award agreement which outlines the history and purpose of the award and background material on women nominated for this award in 1974 and 1975.</p></scopecontent>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Committee Proceedings,<unitdate type="inclusive" normal="1973/1977">1973-1977</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Nominations,<unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Jones, Clara Stanton (Nominee), 1974/5</unittitle></did></c03></c02>
+
+
+<c02 level="file"><did><unittitle>Board in Control of Intercollegiate Athletics</unittitle></did><scopecontent><p>Board in Control of Intercollegiate Athletics (0.1 linear ft., 1987-1990) includes memoranda, agendas, and minutes documenting the issues and decisions made by the Committee on Academic Performance. This series also contains a manual prepared for members of the Board. The manual includes information on the structure of the Board and its committees, the Board's relationship to the Big Ten Conference, various University policies, and several organizational charts.</p></scopecontent>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Academic Performance Committee,<unitdate type="inclusive" normal="1987/1990">1987-1990</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Manual, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02>
+
+
+<c02 level="file"><did><unittitle>Commission for Women</unittitle></did><scopecontent><p>Commission for Women (0.4 linear ft., 1973-1974) documents this organization's inquiry into University of Michigan policies, procedures and practices which may contribute to discrimination against women. A manual includes Commission procedures and organizational charts. Also included are minutes which document the Commission's activities and concerns.</p></scopecontent>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Manual (contains org. charts, agenda, etc.), <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes,<unitdate type="inclusive">1970-June 1974</unitdate> </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous,<unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate></unittitle></did></c03></c02>
+
+
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did><scopecontent><p>Correspondence (0.1 linear ft., 1973-1990) documents Cruzat's role on the Board of Intercollegiate Athletics, Alumnae Athena Award Committee, and Commission for Women. Letters documenting the bitter dispute over awarding the prized "M" Award to women are also included.</p></scopecontent>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1973/1986">1973-1986</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1987/1990">1987-1990</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Women's Athletic Award ("M" Award Controversy), <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle></did></c03></c02>
+
+
+<c02 level="file"><did><unittitle>Minorities</unittitle></did><scopecontent><p>The Minorities (0.05 linear ft., 1964-1969) series includes correspondence and reports relating to the recruitment, appointment and utilization of minority group staff members in the University Library. Background material explaining the University of Michigan's Opportunity Award Program, in which minority students were actively recruited, is also included.</p></scopecontent>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>School of Library Science &amp; University Librarians, <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Opportunity Award Program,<unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate></unittitle></did></c03></c02>
+
+
+<c02 level="file"><did><unittitle>State Relations Committee</unittitle></did><scopecontent><p>State Relations Committee (0.05 linear ft., 1979-1981) series includes correspondence and meeting minutes which document the activities of this committee charged with improving communication between the state of Michigan and the University of Michigan.</p></scopecontent>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1979/1981">1979-1981</unitdate></unittitle></did></c03></c02>
+
+
+<c02 level="file"><did><unittitle>University Club of Ann Arbor</unittitle></did><scopecontent><p>The University Club of Ann Arbor (0.4 linear ft., 1971-1975; 1977-1978), of which Cruzat was a member of the board, includes minutes and reports outlining operations of this club which provides catering and entertainment services to its members (students, faculty and alumni).</p></scopecontent>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Board Proceedings,<unitdate type="inclusive" normal="1972/1978">1972-1978</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c03></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

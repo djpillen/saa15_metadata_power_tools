@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::kongasl.xml//EN" encodinganalog="Identifier">
+umich-bhl-85256</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Lembi Kongas papers, 1975-1978 and 1992
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-09-22</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Lembi Kongas papers, 1975-1978 and 1992</titleproper>
+      <author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<persname source="lcnaf" encodinganalog="100">
+Kongas, Lembi.
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+Lembi Kongas papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1975-1978 and 1992
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+2 linear feet.
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85256 Aa 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Oral history project conducted by Lembi Kongas entitled "Twentieth Century Farm Women: A View from Southern Michigan: Oral History Project, 1975-1978"; include audio tapes and transcripts of interviews; background materials; and published volumes, 1992, entitled "Farm women in the Twentieth Century: A view from southern Michigan."
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was deposited by Lembi Kongas (donor no. <num type="donor" encodinganalog="541$e">6155</num>).  
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is not held by the Regents of the University of Michigan. Copyright will be transferred upon the death of Lembi Kongas.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Lembi Kongas papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>In 1978-1978, Lembi Kongas, a trained anthropologist, conducted an oral history project with farm women who lived in Southern Michigan. The interviews were later published in two volumes entitled <title render="italic">Farm women in the Twentieth Century: A view from southern Michigan.</title> </p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Kongas collection consists of the results of the project to document the lives of farm women living in Southern Michigan. The collection includes tapes of oral interviews, transcripts of the interviews, background materials, and miscellaneous photographs and slides.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="650">Agriculture--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">Farm life--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">Women in agriculture--Michigan.</subject>
+        <title source="aacr2" encodinganalog="740">Twentieth century farm women : a view from southern Michigan.</title>
+        <title source="aacr2" encodinganalog="740">Farm women in the twentieth century.</title>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Oral histories.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Twentieth Century Farm Women: A View from Southern Michigan: Oral History Project, <unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate></unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Preface and Introduction</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Transcripts of oral interviews</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Bullen, Pearl (Ingham County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Brush, Pat (Allegan County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Clark, Marion (Ingham County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Crane, Lou (Allegan County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Grinnell, Thora (Barry County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Grobbill, Jill (Macomb County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Hawkes, Hazel (Cass County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>McIlvain, Betty, et al (Barry County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Heuser, Laura (Allegan County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Hoover, Ruth (Lenawee County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Hubbell, Jessie (Barry County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Kinman., Edna (Allegan County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Langs, Patricia (Barry County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Miles, Valois (Allegan County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Mixter, Julia (Ingham County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Monroe, Mary (Cass County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Prince, Juanita (Ingham County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Sanders, Edna (Cass County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Smith, Nancy (Ingham County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Smith, Stella (Lenawee County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Sparks, Rosemary (Cass County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Spencer, Corlan (Allegan County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Stid, Phyllis (Ingham County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Swift, Hazel (Cass County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Turner, Iva (Ingham County, Mich.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Wade, Rosella (Cass County, Mich.)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Supplementary material, including photographs and slides, publications discussing the project, research notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">Farm women in the Twentieth Century: A view from southern Michigan</title> (published transcripts) </unittitle>
+            <physdesc>
+              <extent>2 volumes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Audio tapes of oral history interviews </unittitle>
+            <physdesc>
+              <extent>25 7" reel-to-reel tapes and 11 cassettes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Videotape: Interview with Phyllis Diehl Stid, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Videotape: Interview with Juanita Prince, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

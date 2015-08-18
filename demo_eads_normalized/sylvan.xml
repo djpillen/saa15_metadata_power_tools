@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::sylvan.xml//EN" encodinganalog="Identifier">
+umich-bhl-86222</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Sylvan Township, Washtenaw County, Mich. records, 1834-1925
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Library staff. </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2009">
+2009</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2009-01-20</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Sylvan Township, Washtenaw County, Mich. <lb/>records, 1834-1925</titleproper>
+      <author>Finding aid created by<lb/> 
+Bentley Historical Library staff.</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <corpname source="lcnaf" encodinganalog="110">
+Sylvan (Washtenaw County, Mich. : Township).
+</corpname>
+      </origination>
+      <unittitle encodinganalog="245">
+Sylvan Township, Washtenaw County, Mich. records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1834-1925
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+2.5 linear feet and 3 oversize volumes
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86222 Cb.2/2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Sylvan Township, Washtenaw County, Michigan records.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload"/>
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The record group is an amalgam of records from different donors. The bulk of the records came from Fred Hoffman (donor no. <num type="donor" encodinganalog="541$e">10117</num>) in 2008; one township record book was donated by Louis Doll (donor no. <num type="donor" encodinganalog="541$e">1338</num>) in 1985; and the school records were donated by Edna R. Faulkner (donor no. <num type="donor" encodinganalog="541$e">3024</num>) in 1953.</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The record group is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Sylvan Township, Washtenaw County, Mich. records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Sylvan Township is located in western Washtenaw County.  Chelsea is the largest city in the Township.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The record group consists of township board records, 1834-1910, justice of the peace docket books, 1885-1925, assessment books, 1859-1886 (with some gaps), minutes of the board of school inspectors, 1866-1894, and records of School District Number 7 records, 1837-1910.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="650">Education--Michigan--Sylvan (Washtenaw County : Township)</subject>
+        <subject source="lcsh" encodinganalog="650">Elections--Michigan--Sylvan (Washtenaw County : Township)</subject>
+        <subject source="lcsh" encodinganalog="650">Roads--Michigan--Sylvan (Washtenaw County : Township)</subject>
+        <subject source="lcsh" encodinganalog="650">School census--Michigan--Sylvan (Washtenaw County : Township)</subject>
+        <subject source="lcsh" encodinganalog="650">Schools--Michigan--Sylvan (Washtenaw County : Township)</subject>
+        <geogname source="lcsh" encodinganalog="651">Washtenaw County (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650">Taxation--Michigan--Sylvan (Washtenaw County : Township)</subject>
+        <geogname source="lcsh" encodinganalog="651">Sylvan (Washtenaw County, Mich. : Township)</geogname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Township Board</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Poll list: statements of votes and other records, <unitdate type="inclusive" normal="1834/1853">1834-1853</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Minutes of the township board, <unitdate type="inclusive" normal="1863/1882">1863-1882</unitdate></unittitle>
+            <physdesc>
+              <physfacet>original and photocopy</physfacet>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Township record book, <unitdate type="inclusive" normal="1882/1892">1882-1892</unitdate></unittitle>
+          </did>
+          <note>
+            <p>(include minutes of meetings, etc.)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Township record book, <unitdate type="inclusive" normal="1905/1911">1905-1911</unitdate></unittitle>
+          </did>
+          <note>
+            <p>(include minutes of meetings, etc.)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Combined volume: include records of drain commission, <unitdate type="inclusive" normal="1891/1895">1891-1895</unitdate> and highway commissioner, <unitdate type="inclusive" normal="1893/1895">1893-1895</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">1</container>
+            <unittitle>Town Book for Accounts and Mortgages, <unitdate type="inclusive" normal="1835/1867">1835-1867</unitdate> and <unitdate type="inclusive" normal="1851/1882">1851-1882</unitdate></unittitle>
+          </did>
+          <note>
+            <p>(volume was used for multiple purposes)</p>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Justice of the Peace Docket Books and related</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Civil cases, <unitdate type="inclusive" normal="1885/1886">1885-1886</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Civil cases, <unitdate type="inclusive" normal="1893/1925">1893-1925</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Criminal cases, <unitdate type="inclusive" normal="1885/1903">1885-1903</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Litigation: Retirement Homes of the Detroit Annual Conference of the United Methodist Church v. Sylvan Township (Respondent-Appellant's Brief on Appeal; Respondent-Appellant Appendix), <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assessment Books</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1859">1859</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1862">1862</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1866">1866</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1867">1867</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">2</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1868">1868</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">3</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1886">1886</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Schools</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Minutes of the board of school inspectors, <unitdate type="inclusive" normal="1866/1894">1866-1894</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>School District Number 7 records</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>Minutes of the board, <unitdate type="inclusive" normal="1837/1868">1837-1868</unitdate></unittitle>
+            </did>
+            <note>
+              <p>(includes minutes of the board of School District No. 1, 1834-1837)</p>
+            </note>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>School district record book:  includes Minutes of the board, <unitdate type="inclusive">1865-1910;</unitdate> Register of officers, <unitdate type="inclusive" normal="1865/1905">1865-1905</unitdate>; Teacher contracts, <unitdate type="inclusive" normal="1865/1891">1865-1891</unitdate>; Register of teachers, <unitdate type="inclusive" normal="1866/1884">1866-1884</unitdate>; Expense record, <unitdate type="inclusive" normal="1865/1910">1865-1910</unitdate>; School census, <unitdate type="inclusive" normal="1877/1910">1877-1910</unitdate>; Financial report, <unitdate type="inclusive" normal="1889/1903">1889-1903</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>School forms book:  includes Acceptance of office, <unitdate type="inclusive" normal="1896/1900">1896-1900</unitdate>; Assessor's bond, <unitdate type="inclusive" normal="1896">1896</unitdate>; Teacher contracts, <unitdate type="inclusive" normal="1896/1909">1896-1909</unitdate>; Receipts, <unitdate type="inclusive" normal="1897/1910">1897-1910</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>Teacher's daily register, <unitdate type="inclusive" normal="1899/1900">1899-1900</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>Lease for school property, <unitdate type="inclusive" normal="1842">1842</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::mungerfm.xml//EN" encodinganalog="Identifier">
+umich-bhl-00108</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Munger Family papers, 1793-1945
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Carrie Hintz </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>January 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-01-18</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Munger Family papers, 1793-1945</titleproper>
+
+<author>Finding aid created by<lb/> 
+Carrie Hintz, October 2007</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<famname source="lcnaf" encodinganalog="100">
+Munger Family
+</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Munger Family papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1793-1945
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+00108 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Family of Baptist ministers from New York state and southwestern Michigan; papers of Harvey Munger, his son William L. Munger, William's wife Octavia and other members of the Munger, Griffin, and Brown family.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Material was contributed to the library by John and Ruth Munger (donor no. <num type="donor" encodinganalog="541$e">8940</num>) in 2000, and by William Boothby (donor no. <num type="donor" encodinganalog="541$e">9940</num>), in September 2007.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Munger Family papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Harvey Munger (1812-1862) was a Baptist minister active in southwestern Michigan; his son William Munger (1845-1908), also a Baptist minister, graduated from Kalamazoo College in 1871 and, after attending the Rochester Theological Seminary, married Octavia Griffin Munger, in 1877.  While attending the seminary in Rochester, Munger befriended Walter Rauschenbusch, a prominent Baptist minister and the founder of the Social Gospel Movement. The two remained very close throughout their lives and greatly influenced each other's theological beliefs. William Munger was also active as the field secretary of the Michigan Anti-Saloon League. He was also on the board of Kalamazoo College for nearly forty years.</p>
+
+<p>Octavia Griffin Munger, too, came from a line of Baptist ministers including her father, Harold Griffin, and her grandfather, Solomon Brown--a veteran of the American Revolution who then settled in New York State.  Octavia was born in southwest Michigan and attended Kalamazoo College where she met Harvey Munger.  She was active in the Michigan Woman's Baptist Missionary Society.  William and Octavia had four children, Griffin, Lura, Nelson, and Florence.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The collection is organized by family member. The papers of Harvey Munger include correspondence and a journal/account book (1835-1847). The papers of William L. Munger include letters received from Walter Rauschenbusch (1886-1918), sermons, writings and articles, and other papers relating to his activities with the Michigan Anti- Saloon League.  The Octavia Griffin Munger papers include correspondence with family members and friends, writings, and papers relating to her work with the Woman's Baptist Home and Missionary Society of Michigan.  There are also small files of materials from other members of the Munger family that primarily contain correspondence.  Of note are papers of Solomon Brown dating back to the eighteenth century and a letter received by Nancy Brown in 1841 from Sault Ste. Marie missionary, Abel Bingham, 1841.  The collection also includes a copy of a letter written by Angie Bingham Gilbert describing events surrounding the murder of James Schoolcraft by John Tanner. Tanner had formerly been a captive of the Indians in the 1840s in the Sault Ste. Marie area of Michigan. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<famname source="lcnaf" encodinganalog="600">Munger family.</famname>
+<subject source="lcsh" encodinganalog="650">Clergy--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Anti-Saloon League of Michigan.</corpname>
+<persname source="lcnaf" encodinganalog="600">Brown, Solomon, 1757-1815.</persname>
+<subject source="lcsh" encodinganalog="650">Missionaries--Michigan--Sault Sainte Marie.</subject>
+<persname source="lcnaf" encodinganalog="600">Munger, Harvey, 1812-1862.</persname>
+<persname source="lcnaf" encodinganalog="600">Munger, William L., 1845-1908.</persname>
+<persname source="lcnaf" encodinganalog="600">Munger, Octavia.</persname>
+<subject source="lcsh" encodinganalog="650">Murder--Michigan--Sault Sainte Marie.</subject>
+<persname source="lcnaf" encodinganalog="600">Rauschenbusch, Walter 1861-1918.</persname>
+<geogname source="lcsh" encodinganalog="651">Sault Sainte Marie (Mich.)--History.</geogname>
+<persname source="lcnaf" encodinganalog="600">Schoolcraft, James L.</persname>
+<persname source="lcnaf" encodinganalog="600">Tanner, John 1780?-1847.</persname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Societies and clubs.</subject>
+<corpname source="lcnaf" encodinganalog="610">Woman's Baptist Home and Foreign Missionary Societies of Michigan.</corpname>
+<subject source="lcsh" encodinganalog="650">Temperance--Michigan.</subject>
+
+</controlaccess>
+
+
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Bingham, Abel 1786-1865.</persname>
+<persname source="lcnaf" encodinganalog="700">Brown, Solomon, 1757-1815.</persname>
+<persname source="lcnaf" encodinganalog="700">Gilbert, Angelina Bingham.</persname>
+<persname source="lcnaf" encodinganalog="700">Munger, Harvey, 1812-1862.</persname>
+<persname source="lcnaf" encodinganalog="700">Munger, William L., 1845-1908.</persname>
+<persname source="lcnaf" encodinganalog="700">Munger, Octavia.</persname>
+<persname source="lcnaf" encodinganalog="700">Rauschenbusch, Walter 1861-1918.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Sermons</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Harvey Munger</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1830/1859">1830-1859</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Journal/Account Book, <unitdate type="inclusive" normal="1835/1847">1835-1847</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>William L. Munger</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical Information</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters received, <unitdate type="inclusive" normal="1883/1908">1883-1908</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters from Walter Rauschenbusch, <unitdate type="inclusive" normal="1886/1918">1886-1918</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>7 folders</extent></physdesc></did> <note><p>(some of the letters addressed to Mrs. Munger)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Anti-Saloon League</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous </unittitle></did> <note><p>(include photographic portrait of, and other material about, Walter Rauschenbusch)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Sermons">Sermons</genreform></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Scrapbook of Newspaper and Journal Articles</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Support for position of chaplain at Jackson Prison</unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Octavia Griffin Munger</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1861/1936">1861-1936</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>8 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Woman's Baptist Home and Missionary Society of Michigan, <unitdate type="inclusive" normal="1870">1870</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Writings</unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Other Munger family members</unittitle></did>
+<c02 level="file"><did><unittitle>Rhoda Munger</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Album of sentiments, <unitdate type="inclusive" normal="1846">1846</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Florence Boothby (née Munger)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1908/1931">1908-1931</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Lura Munger</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence and Graduation Speech, <unitdate type="inclusive" normal="1908/1938">1908-1938</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Nelson Munger</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1908/1914">1908-1914</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>John Munger</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Letter from Iran, <unitdate type="inclusive" normal="1945">1945</unitdate></unittitle></did></c03></c02></c01>
+<c01 level="series"><did><unittitle>Griffin and Brown family papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence between Solomon Brown and Parker Reynolds, <unitdate type="inclusive" normal="1793/1794">1793-1794</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Solomon Brown's Writing, <unitdate type="inclusive" normal="1780/1799" certainty="approximate">1780s-1790s</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>H.M. Griffin Correspondence, <unitdate type="inclusive" normal="1864/1870">1864-1870</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Griffin-Brown genealogical and biographical material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Nancy Brown. Letter from Abel Bingham, <unitdate type="inclusive" normal="1841">1841</unitdate> </unittitle></did> <note><p>(original and typescript)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lucy Ann Griffin. Letter to her mother, <unitdate type="inclusive" normal="1846">1846</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Angie Bingham Gilbert. Letter (typescript), <unitdate type="inclusive"> November 14, 1899</unitdate> to Peter White describing events surrounding the murder of James Schoolcraft by John Tanner </unittitle></did> <note><p>(Tanner had formerly been a captive of the Indians)</p></note></c02></c01>
+<c01 level="series"><did><unittitle>Other families and miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Zenos and Henry Case Family materials, <unitdate type="inclusive" normal="1846/1854">1846-1854</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Church covenants, <unitdate type="inclusive" normal="1857">1857</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Genealogical and biographical information; also photocopies of family photographs</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Family related newspaper clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous and various correspondence, <unitdate type="inclusive" normal="1840/1936">1840-1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous clippings and publications</unittitle></did></c02></c01>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</dsc></archdesc>
+
+</ead>

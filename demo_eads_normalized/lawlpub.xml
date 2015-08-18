@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::lawlpub.xml//EN" encodinganalog="Identifier">
+umich-bhl-9735</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Law Library (University of Michigan) Publications, 1967-1989
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Stacy Foley Strumpfer, 1995; Erin Passehl, February 2006
+ </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006-06</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2006-06-04</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-06-04</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Law Library <lb/>(University of Michigan) <lb/>Publications, 1967-1989
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Stacy Foley Strumpfer, 1995<lb/>
+Erin Passehl, February 2006
+
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Law Library.
+
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Law Library (University of Michigan) publications
+<unitdate type="inclusive" encodinganalog="245$f">
+1967-1989
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9735 Bimu C430 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Includes annual reports, brochures and pamphlets, manuals such as A Guide to Legal Research, programs, regulations for library use, and reports.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Publications are received periodically from the unit.
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506">
+
+
+
+
+<p>The Law Library publications are open to research without restriction.<extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Law Library (University of Michigan) Publications, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>For a historical note on the Law Library see the finding aid for law Library (University of Michigan) Records. </p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Law Library Publications Include annual reports, brochures and pamphlets, manuals such as <title render="italic">A Guide to Legal Research</title>, programs, regulations for library use, and reports.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Law Library.</corpname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Annual reports.</genreform>
+<genreform source="aat" encodinganalog="655">Pamphlets.</genreform>
+<genreform source="aat" encodinganalog="655">Manuals.</genreform>
+<genreform source="aat" encodinganalog="655">Programs.</genreform>
+<genreform source="aat" encodinganalog="655">Regulations.</genreform>
+<genreform source="aat" encodinganalog="655">Reports.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Publications</unittitle></did>
+<c02 level="file"><did><unittitle>Unit Publications</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Reports, 1984-85, 1985-86</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Articles</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>"Building a Foreign Law Collection at the University of Michigan Law Library, 1910-1960" (by Margaret Leary, <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Brochures</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous, <unitdate type="inclusive" normal="1967/1988">1967-1988</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Guides</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Public Catalog Guide</title>  (1983)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Tape Tour #1 &amp; #2</title>  (1983)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> User's Guide</title>  (1982)</unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Manuals</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> A Guide to Legal Research</title>, <unitdate type="inclusive" normal="1976/1987">1976-1987</unitdate> </unittitle> <physdesc><extent>4 volumes</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Introduction to Legislative Materials and Legislative Histories</title> (1982 1983)</unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Programs</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Dedication: Law Library Addition, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> The Legalization of American Society: A Symposium Commemorating the Dedication of the Law Library Addition</title>, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Regulations</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Selected Library Rules</title>, <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Reports</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Automation for the University of Michigan Law Library:  Final Report</title> (1989)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Introduction to Sources of International Law at the University of Michigan Law Library</title>  (1983)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Law School Building Program Report and Statement</title></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> List of Publications</title> (1983)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>University of Michigan Law <title render="italic"> School Capital Campaign and Guidelines</title></unittitle></did></c04>
+</c03></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

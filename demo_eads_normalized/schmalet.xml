@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::schmalet.xml//EN" encodinganalog="Identifier">
+umich-bhl-85384</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Theodore R. Schmale Papers.
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Library Staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Cheney J. Schopieray, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-02-01</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Theodore R. Schmale Papers, 1918-1961</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Library staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Schmale, Theodore R., d. 1969
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Theodore R. Schmale Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1918-1961
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1929-1961
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85384 Aa2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> and <language langcode="ger" encodinganalog="041">German</language></langmaterial>
+
+<abstract>
+Papers,1918-1961,of Theodore R. Schmale, pastor of Bethlehem Evangelical Church [now Bethlehem United Church of Christ]; includes manuscripts of sermons (partially in German); and autobiography,1895,of father-in-law, Johann H. Dinkmeier, describing life in Germany, his immigration to the United States, and his experiences as a teacher and Evangelical pastor. [original and typescript of translation]
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated.
+<num type="donor" encodinganalog="541$e">(donor 6553)</num></p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the collection are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Theodore R. Schmale, son-in-law of German immigrant Johann H. Dinkmeier, received his A.B. degree from the University of Pittsburgh and B.D. from the Western Theological Seminary (Pittsburgh, Pennsylvania).  He served for twenty years as pastor of St. Peter's Evangelical and Reformed Church in the same city before moving to Ann Arbor, where he served as the sixth pastor of the Bethlehem Evangelical Church (now Bethlehem United Church of Christ) from 1928 to 1951.</p>
+
+<p>Theodore Schmale was also a member of the Board of Foreign Missions of the Evangelical Synod, made two trips to Honduras related to the mission work of his denomination (in 1938 and 1941), and served in other community positions.  Among them, he was a Board Member of the Y.M.C.A., member of the Community Chest Board, and President of the Ann Arbor Ministerial Association.</p>
+
+<p>During Schmale's pastorate at the Bethlehem Evangelical Church, a parish house was constructed, the interior of the sanctuary was renovated, church membership nearly doubled, the congregation's business office was improved, and the church program was enlarged to include the support of a Missionary in India.  After his retirement, Pastor Schmale continued to preach German services.  He died in Detroit on June 4, 1969.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Papers of Theodore R. Schmale consist primarily of his manuscript sermons, most of them dating from 1929 to 1961.  These sermons are arranged in three separate sections: chronologically, by topic, and by scripture reference.  In addition, the collection contains a small quantity of biographical material on Theodore Schmale, an 1895 autobiography of Schmale's father-in-law, Johann Heinrich Dinkmeier, and an English translation from the autobiography's original German.  Dinkmeier's autobiography describes life in Germany, his immigration to the United States, and his experiences as a teacher and Evangelical pastor.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject encodinganalog="651" source="lcsh">Ann Arbor (Mich.)--Church history.</subject>
+<corpname encodinganalog="610" source="lcnaf">Bethlehem United Church of Christ (Ann Arbor, Mich.).</corpname>
+<subject encodinganalog="650" source="lcsh">Clergy--Michigan--Ann Arbor.</subject>
+<subject encodinganalog="651" source="lcsh">Michigan--Emigration and immigration.</subject>
+<subject encodinganalog="650" source="lcsh">German Americans--Michigan.</subject>
+<corpname encodinganalog="610" source="lcnaf">United Church of Christ--Michigan--Ann Arbor.</corpname>
+<subject encodinganalog="651" source="lcsh">Germany--Emigration and immigration.</subject>
+<subject encodinganalog="650" source="lcsh">Immigrants--Michigan.</subject>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+
+<persname encodinganalog="700" source="lcnaf">Dinkmeier, Johann Heinrich, b. 1849</persname>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Johann Heinrich Dinkmeier</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Autobiography [in German]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Translation of autobiography</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Theodore R. Schmale</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical material</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Sermons (Chronological)</unittitle></did> <note><p/></note>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">undated</unitdate> (in German)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1918">1918</unitdate> ?,1929-1940</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1941/1945">1941-1945</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1946/1950">1946-1950</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1951/1952">1951-1952</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1953">1953</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1954">1954</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1955">1955</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1956">1956</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1957">1957</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1959/1961">1959-1961</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Sermons (Topical)</unittitle></did> 
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Christmas</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Denominationalism</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Easter and Lent</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Fourth of  July </unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Funerals</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Labor Day</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Lord's Prayer</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Memorial Day</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Missions</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Mother's Day</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Peace</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Prejudice Prosperity (post World War II)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Special occasions</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Thanksgiving</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Washington's Birthday</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>World conditions</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Sermons (by scripture reference)</unittitle></did> 
+<c03 level="file"><did><unittitle>New Testament</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Matthew</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Mark ;Luke</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>John</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Acts</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Romans</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Corinthians; Galatians; Ephesians</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Philippians; Colossians; Thessalonians</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Timothy; Hebrews; James</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Peter; Revelations</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>[In German]</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Old Testament</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Genesis to Joshua</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Judges to Solomon</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Isaiah to Malachi</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>[In German]</unittitle></did></c04></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Sermons (fragmentary) 15 folders</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellanea </unittitle></did> <note><p>(include church programs)</p></note></c02></c01></dsc>
+</archdesc>
+
+</ead>

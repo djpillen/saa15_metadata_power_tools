@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::quaalw.xml//EN" encodinganalog="identifier">
+umich-bhl-0607
+</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Finding Aid for 
+Ward L. Quaal Papers, 1941-2004
+</titleproper>
+        <author encodinganalog="creator">Collection processed and finding aid created by 
+Thomas E. Powers </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="date">
+2006 </date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>January 2006</date></creation>
+      <langusage>The finding aid is written in  <language langcode="eng">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>20060126</date>
+        <item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Ward L. Quaal Papers, 1941-2004</titleproper>
+      <author>Finding aid created by<lb/> 
+Thomas E. Powers, January 2006</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">
+Quaal, Ward L.
+</persname>
+      </origination>
+      <unittitle encodinganalog="245">
+Ward L. Quaal Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1941-2004
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+9 oversize volumes and 0.3 linear ft. 
+</extent>
+      </physdesc>
+      <unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+0607 Aa 2; AC
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Broadcasting executive, mainly with WGN Continental Broadcasting Co. in Chicago; scrapbooks containing clippings, photographs, programs, and memorabilia from his career when he first joined WGN in 1941 until 2004.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload"/>
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was the gift of Ward L. Quaal (donor no. <num type="donor" encodinganalog="541$e">4379</num>) and came to the library in December 2005.  
+</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Ward L. Quaal Papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Born April 7, 1919 in Ishpeming, Michigan, Ward L. Quaal is a renowned broadcasting executive and innovator, serving with several broadcasting entities, but mainly with WGN Continental Broadcasting Co. (now Tribune Broadcasting Co.). He graduated from the University of Michigan in 1941, then went to worked for WGN.  After three years of wartime service, 1942-1945, he returned to WGN as special assistant to the general manager.  From 1949 to 1952, Quaal took a leave of absence from WGN to become executive director of the Clear Channel Broadcasting Service in Washington DC.  He later served as president and chief executive officer of the Service from 1964 to 1974.  In 1952, Quaal joined the Crosley Broadcasting Corp. as assistant general manager, later vice president and general manager of Crosley's radio, television and short wave properties. In 1956, he returned to WGN as vice president and general manager. Then in 1963, he was elected president of the Company.   In 1975, he retired to form Ward L. Quaal Company, a broadcasting consultation and lobbying service.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Quaal collection consists of nine scrapbooks covering the period of 1941 to 2004 and consisting of clippings, photographs, programs and other published materials, and various other memorabilia from all periods of his career in broadcasting.  These scrapbooks are accompanied by a detailed index.  In addition, the collection includes photocopies of letters that Quaal received from US presidents and other notable public figures.  There is also a folder of biographical information.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <persname source="lcnaf" encodinganalog="600">Quaal, Ward L.</persname>
+        <subject source="lcsh" encodinganalog="650">Broadcasting--United States.</subject>
+        <subject source="lcsh" encodinganalog="650">Radio broadcasting--United States--Management.</subject>
+        <subject source="lcsh" encodinganalog="650">Television broadcasting--United States--Management.</subject>
+        <corpname source="lcnaf" encodinganalog="610">WGN (Radio station : Chicago, Ill.)</corpname>
+        <corpname source="lcnaf" encodinganalog="610">WGN (Television station : Chicago, Ill.)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbooks </unittitle>
+        </did>
+        <note>
+          <p>(oversize volumes)</p>
+        </note>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1941/1961">1941-1961</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(volume no. 1)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">2</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(volume no. 2)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">3</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1962/1964">1962-1964</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(volume no. 3)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">4</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1964/1966">1964-1966</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(volume no. 4)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">5</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1966/1968">1966-1968</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(volume no. 5)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">6</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(volume no. 6)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">7</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1970/1973">1970-1973</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(volume no. 7)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">8</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1973/1985">1973-1985</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(volume no. 8)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">9</container>
+            <unittitle>1985-2004</unittitle>
+          </did>
+          <note>
+            <p>(volume no. 9)</p>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Other Papers</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Index to the scrapbooks</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Photocopies of letters from US Presidents and other public figures </unittitle>
+          </did>
+          <note>
+            <p>(mainly thank you letters and letters of appreciation)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Biographical miscellaneous</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

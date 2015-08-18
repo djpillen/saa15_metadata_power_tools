@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::joneslv.xml//EN" encodinganalog="Identifier">
+umich-bhl-2014073</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+LaVerne Jones Collection
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Christopher Schunter </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2014">
+2014</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2014</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2014-05-08</date><item>Original encoding from Word 2010 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+LaVerne Jones Collection, 1878-1966</titleproper>
+
+<author>Finding aid created by<lb/> 
+Christopher Schunter, May 2014</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+ 
+
+<persname source="lcnaf" encodinganalog="100">
+Jones, LaVerne
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+LaVerne Jones Collection
+<unitdate type="inclusive" encodinganalog="245$f">
+1878-1966
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1900-1944
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.4 linear feet (in 2 boxes)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2014073 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+LaVerne Jones was an employee of the Michigan Bell Telephone Company.  The materials include board of directors minutes, correspondence, publications, reports, maps, and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Material was donated by Eleanor Jones (donor no.  <num type="donor" encodinganalog="541$e">10792</num>) in June 2012.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+LaVerne Jones Collection, Bentley Historical Library, University of Michigan</p></prefercite>
+
+
+ 
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>While a Michigan Bell Telephone Company was created in 1881, the Michigan Bell Telephone Company whose records are contained in this collection was founded in 1904, when a group led by Norman Harris of Chicago formed the Michigan State Telephone Company with headquarters in Detroit.  The name changed to Michigan Bell Telephone Company in 1924 (Box 1, Miscellaneous). The company held licensing contracts with AT&amp;T and eventually controlled all AT&amp;T lines in Michigan.  After passage of the 1921 Graham Act made it easier for AT&amp;T and its subsidiaries to acquire independent telephone companies, Michigan Bell controlled over eighty percent of the total phone lines in the state.  The introduction of direct dialing in the 1950s allowed for the rapid expansion of service occurring in the 1960s and 1970s.  Following the ruling of an antitrust lawsuit in 1984, Michigan Bell was divested from AT&amp;T and became part of the regional holding company Ameritech.</p></bioghist>
+
+ 
+
+<scopecontent encodinganalog="520">
+<p>The LaVerne Jones Collection contains records documenting the Michigan Bell Telephone Company's history, primarily in the first half of the twentieth century.  The records contain correspondence, publications, reports, maps, photographic materials, and several miscellaneous documents.</p>
+
+<p>Correspondence includes topics such as audits, stock, legal issues, rate controversies, organizational changes, and government nationalization of the telephone system in 1918-1919.  Much of the correspondence is addressed to or signed by Mr. A. von Schlegell, general manager.</p>
+
+<p>Prominent publications include telephone directories at the state, county, and local levels; a history of the telephone in Michigan; several issues of "The Michigan Bell" magazine; an engineering bulletin; and a manual of telephone services.</p>
+
+<p>Reports consist of annual company reports, topical reports such as one on inventory and appraisal, and a large work entitled "Histories of Michigan Bell Telephone Company Exchanges."</p>
+
+<p>Miscellaneous records include research documents relating to the company's formation, early history, and organizational structure as well as board of directors minutes from the Valley Home Telephone Company at the time it was acquired by Michigan Bell in 1922. </p>
+
+<p>The maps consist primarily of base maps which are marked with telephone lines and proposed extensions of lines, as well as boundaries of areas serviced by Michigan Bell.  Mapped areas include Detroit, Grand Rapids, Kalamazoo, Benton Harbor, and the Bay City-Saginaw area, as well as the state of Michigan as a whole</p>
+
+<p>Photographic materials include both prints and negatives and feature mostly company facilities and equipment such as transformers and switchboards.  There is also a photo celebrating the consolidation of the Michigan State Telephone Company and the Valley Home Telephone Company in 1922.  Also contained in this collection are photos of telephone poles being transported by train and a Michigan central train wreck. </p>
+
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Michigan Bell Telephone Company.</corpname>
+<subject source="lcsh" encodinganalog="650">Telephone companies--Michigan.</subject>
+
+
+</controlaccess>
+
+ 
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>LaVerne Jones Collection</unittitle></did>
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1899">1899</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1900/1909">1900-1909</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1910/1919">1910-1919</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1920/1929">1920-1929</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1930/1939">1930-1939</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1940/1943">1940-1943</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Publications</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Articles, <unitdate type="inclusive" normal="1917">1917</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Booklets/Leaflets, <unitdate type="inclusive" normal="1899/1918">1899-1918</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Bulletins, <unitdate type="inclusive" normal="1921">1921</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Directories, <unitdate type="inclusive" normal="1878/1949">1878-1949</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"A History of Michigan in Paintings," <unitdate type="inclusive" normal="1966">1966</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"History of the Telephone in Michigan," circa <unitdate type="inclusive" normal="1964">1964</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Manual of Telephone Services, <unitdate type="inclusive" normal="1935">1935</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"The Michigan Bell," <unitdate type="inclusive" normal="1953">1953</unitdate>, <unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous, <unitdate type="inclusive" normal="1960/1966">1960-1966</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Programs, <unitdate type="inclusive">1919 undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Reports</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual, <unitdate type="inclusive" normal="1904/1916">1904-1916</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Histories of Michigan Bell Telephone Company Exchanges," <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Topical, <unitdate type="inclusive" normal="1915/1919">1915-1919</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Maps, <unitdate type="inclusive" normal="1899/1944">1899-1944</unitdate>, <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Photographic Materials</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Negatives, <unitdate type="inclusive">1925 undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Prints, <unitdate type="inclusive" normal="1913/1966">1913-1966</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

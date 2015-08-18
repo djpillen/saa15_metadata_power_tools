@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::blairg.xml//EN" encodinganalog="Identifier">
+umich-bhl-8862</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Geraldine Blair papers, 1959-1987
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Marlee Horrocks </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-12-19</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Geraldine Blair papers, 1959-1987</titleproper>
+
+<author>Finding aid created by<lb/> 
+Marlee Horrocks, 1992</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Blair, Geraldine.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Geraldine Blair papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1959-1987
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1977-1987
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8862 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Friend of peace activist Rebecca Shelley. Transcripts of oral history interviews with Rebecca Shelley conducted by Eric Hanson; correspondence regarding proposed movie about life of Rebecca Shelley; and miscellaneous collected Shelley materials, including photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Geraldine Blair (Donor No. <num type="donor" encodinganalog="541$e">6832</num>) in April 1987.  
+</p></acqinfo>
+
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Board of Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Geraldine Blair papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Geraldine Blair was a friend to Rebecca Shelley (1887-1984), a participant in the World War I peace movement and later peace activities, from approximately the mid-1970s until Shelley's death in 1984.  Identifying herself either as the "Unofficial Coordinator of Shelley Projects" or "Unofficial Chairman of Friends of Shelley," Blair worked to fulfill two of Shelley's expressed wishes:  to have her life story written and to have a movie made of her life.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>These papers contain transcripts of oral histories conducted with Shelley, biographical information on Shelley accumulated by Blair, and documentation of Blair's efforts to locate a biographer or actress interested in writing or enacting Rebecca Shelley's story.  Unable to see the project through to completion, Blair donated these papers to the Bentley Library in April 1987.</p>
+
+<p>The Papers of Geraldine Blair are divided into three series:  Oral History Transcripts; Correspondence, 1973-1987; and Miscellaneous Materials Documenting Shelley's Life, 1959-1985. </p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Pacifism.</subject>
+<persname source="lcnaf" encodinganalog="600">Shelley, Rebecca, 1887-1984.</persname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<persname source="lcnaf" encodinganalog="600">Shelley, Rebecca, 1887-1984.</persname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Hanson, Eric.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Oral histories.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle><genreform normal="Oral histories">Oral History</genreform> Transcripts 1-28 (<unitdate type="inclusive">10/16/77-8/12/78</unitdate>)</unittitle></did>
+<scopecontent><p>Of primary importance in the Geraldine Blair papers are carbon copies of transcripts of 28 oral history interviews (622 pages) with Rebecca Shelley.  The interviewer, Eric Hanson, a Battle Creek, Michigan history teacher, conducted these interviews during the period 10/16/77-8/12/78 as part of an oral history project at Western Michigan University.  The interviews, which range freely through Shelley's life, took place at her home Peaceways, near Battle Creek.  At the time the transcripts were donated to the Bentley Library, it was noted that the tapes themselves were in the Western Michigan Archives, Aldo Library Building, Kalamazoo, Michigan (Accession number A-1573).  Blair, who played a role in transcription of the tapes, also indicated that the original set of transcripts was in the possession of Paul Shelly, Rebecca's brother.  Transcripts are arranged chronologically by date of interview.  Additional items pertaining to the tapes, such as excerpts and an attempt at indexing, are filed at the end of this series.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Oral History Transcripts 1-5, <unitdate type="inclusive">10/16/77-11/20/77</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Oral History Transcripts 6-10, <unitdate type="inclusive">11/27/77-1/8/78</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Oral History Transcripts 11-15, <unitdate type="inclusive">1/15/78-2/19/78</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Oral History Transcripts 16-20, <unitdate type="inclusive">3/12/78-4/16/78</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Oral History Transcripts 21-18, <unitdate type="inclusive">5/7/78-8/12/78</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Oral History Transcripts-Miscellaneous Information [Indexing, excerpts]</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence, <unitdate type="inclusive" normal="1973/1987">1973-1987</unitdate></unittitle></did><scopecontent><p>The correspondence in the collection was either written or received by Geraldine Blair.  In her role as "Unofficial Coordinator of Shelley Projects," Blair corresponded with a wide cast of individuals, including Shelley family members, friends, potential biographers, and actresses.  Materials are arranged alphabetically by name of correspondent.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alonso, Harriet [possible biographer]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alonso, Harriet-Writings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bentley Historical Library</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence-Miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Eldred, Mary [longtime peace activist and friend of Rebecca Shelley]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fonda, Jane [Rebecca Shelley's choice of actress to portray her life]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Grandstaff, Jean [Battle Creek teacher]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lash, Joseph P. [potential biographer]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reedy, Janet [peace activist and friend of Rebecca Shelley]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Rentschler, Robert J. [Executive Director of the Michigan International Council]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Roesti, Frederick C. [Rebecca Shelley's great-nephew]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Roesti, Margaret [Rebecca Shelley's niece]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Shelly, Paul [Rebecca Shelley's brother]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Wilson, Sally [Longtime neighbor and caretaker of Rebecca Shelley's]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Wynner, Edith [Consultant to the Schwimmer-Lloyd Collection at the New York Public Library]</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous Materials Documenting Rebecca Shelley's Life, <unitdate type="inclusive" normal="1959/1985">1959-1985</unitdate></unittitle></did><scopecontent><p>The small miscellaneous materials series is comprised of the following:  biographical information; newsclippings, which account for the earliest dates in the collection; some of Shelley's poetry and an annotated copy of her book<title render="italic">In Mourning</title> ; information concerning her home, Peaceways, which she hoped to some day serve as an international community promoting peace and brotherhood; and a few items about a special film showing of "War Without Winners," for which Shelley served as an interpreter.  Seven photographs of Shelley are filed at the end of this series.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical Information</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsclippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Peaceways [Shelley's Battle Creek home]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"War Without Winners" [<unitdate type="inclusive">12/7/79</unitdate> film showing]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Writings [Poetry and annotated author's copy of In Mourning]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform> [7 photos of <unitdate type="inclusive">10/28/79</unitdate> Michigan International Council Dinner; <unitdate type="inclusive">12/7/79</unitdate> showing of "War Without Winners," and photo of Shelley dated <unitdate type="inclusive" normal="1979">1979</unitdate>]</unittitle></did></c02></c01>
+ 
+
+</dsc><descgrp type="add"><relatedmaterial><head>Related Material</head><p>The researcher should be advised that the Rebecca Shelley papers are also in the holdings of the Bentley Library.</p></relatedmaterial></descgrp></archdesc>
+
+</ead>

@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::bunzeljo.xml//EN" encodinganalog="Identifier">
+umich-bhl-861001</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Joseph H. Bunzel papers, 1936-1975
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Jeanne E. Miller (1978) and Chris Leonard (1985)</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>November 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-11-15</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Joseph H. Bunzel papers, 1936-1975</titleproper>
+
+<author>Finding aid created by<lb/> 
+Jeanne E. Miller (1978) and Chris Leonard (1985 reappraisal)</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Bunzel, Joseph Hans, 1907-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Joseph H. Bunzel papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1936-1975
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+861001 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Sociologist and researcher into the subject of gerontology, particularly gerontophobia. Speeches, reprints, manuscripts of writings; also research materials, including reports and collected data, and correspondence, relating in part to his work on the Research Committee of the New York City Mayor's Advisory Committee for the Aged, 1949-1951.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was given to the Institute of Gerontology of the University of Michigan by Mrs. Bunzel (accession no. 78-003) and then transferred to the Michigan Historical Collections in 1984. (donor no. <num type="donor" encodinganalog="541$e">6160</num>).  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Mrs. Bunzel retains copyright on Bunzel’s unpublished manuscript on Gumplowicz.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Joseph H. Bunzel papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Joseph Hans Bunzel was born in Graz, Austria, September 20, 1907. He received a J.D. in Social Science from the University of Vienna in 1932 and a Diplomate in Business Administration in 1933. he also attended medical school in Vienna and studied in a number of other universities: University of Dijon, psychology, 1932; Sorbonne, sociology, 1932; Johns Hopkins University, sociology and history of medicine, 1940-1942; University of Pittsburgh, psychology, tests and measurements, 1949-1950. In 1938 he married Gertrude Godwyn Bunzel and left Austria; in 1945 he became a United States citizen.</p>
+
+<p>Bunzel's career included research, teaching, and clinical positions. His work in sociology spanned his entire career. He was Coordinator and Director of the Curriculum Study, Colleges of Western North Carolina (1941-1942); in housing and health in the Baltimore City Health Department (1942-1943), Pittsburgh Housing Association and Allegheny Board of Assistance (1943-1946 and 1950-1957), National Association of Housing Officials and Chicago Real Estate Corporation (1948-1949) and the New York City Board of Guardians (1951). It was as Director of Research for the New York City Mayor's Advisory Committee for the Aged that Bunzel began to focus his research interest on aging. During his tenure with this committee research was conducted on several projects simultaneously. From 1956-1967 Bunzel was a professor of social science at the College of William and Mary, Virginia Union University, the University of North Dakota, and St. John's University in Minnesota. In 1965 he worked on a research planning project in the geriatric ward of Fergus Falls State Hospital in Minnesota. From 1967 until his death, Bunzel was professor of sociology at the State University of New York College at Buffalo. </p>
+
+<p>Throughout his years of teaching, Bunzel produced numerous papers on gerontology, particularly on the concept of gerontophobia. He was the main author of the report of the New York City Mayor's Committee for the Aged. He authored a column in <title render="italic">Strait</title>, the student newspaper of the State University of New York College at Buffalo, dealing primarily with gerontological concerns. In addition, he continued his research and publishing in sociology, doing much writing on Ludwig Gumplowicz.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The papers deal primarily with Bunzel's work and writings from 1936 to 1975, especially with the concept of gerontophobia. The papers also contain some items relating to Bunzel's work in other areas of sociology. The collection has been divided into two series: Papers and Research.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Older people.</subject>
+<subject source="lcsh" encodinganalog="650">Aging.</subject>
+<subject source="lcsh" encodinganalog="650">Gerontology.</subject>
+<corpname source="lcnaf" encodinganalog="610">New York (N.Y.). Mayor's Advisory Committee for the Aged.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Papers</unittitle></did><scopecontent><p>The first series, papers, consists of papers, speeches and reprints authored by Bunzel from 1936 to 1975. Included are "Concept, Meaning and Treatment of Gerontophobia," issues of <title render="italic">Strait</title> and copies of Bunzel's column in<title render="italic">Strait</title>. Papers from a number of conferences are included, as are course materials. This series includes Bunzel's unpublished manuscript "Gumplowicz as a legal and political figure." </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Writings, <unitdate type="inclusive" normal="1936/1973">1936-1973</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>13 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Existentialism series, <unitdate type="inclusive">ca. 1956-1964</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Gumplowicz as a legal and political figure," <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Notes on Slavery," <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Security under Law," <unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle><title render="italic"> Strait</title></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Entire issues, <unitdate type="inclusive" normal="1971/1973">1971-1973</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Bunzel articles, <unitdate type="inclusive" normal="1971/1975">1971-1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers by other authors </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Research</unittitle></did><scopecontent><p>The second series, Research, includes reports, data and some correspondence from a number of Bunzel's projects. The largest portion of this series comprises material from the Research Committee of the New York City Mayor's Advisory Committee for the Aged. This committee conducted numerous research projects during the years 1949-1951. The series includes some data, reports on separate projects as well as on the work of the entire committee, correspondence and minutes of the committee and interim and final reports of the research.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Self Study of Junior Colleges of Western North Carolina, <unitdate type="inclusive" normal="1941">1941</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>New York City Mayor's Advisory Committee for the Aged, <unitdate type="inclusive" normal="1949/1953">1949-1953</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Notes</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Project questionnaires</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Proposal to Rockefeller Foundation</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Report, <unitdate type="inclusive" normal="1953">1953</unitdate> "NYC Senior Citizens-Our Most Neglected Resource"</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Interim reports </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Drafts</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Volume 1</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Volume 2</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Volume 3</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Volume 2, equivalent</unittitle></did></c04></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fergus Falls State Hospital Research Project, <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>St. Cloud Study of Gerontophobia, <unitdate type="inclusive" normal="1966">1966</unitdate></unittitle></did></c02></c01>
+
+
+</dsc><descgrp type="add"><relatedmaterial><head>Related Material</head><p>The Ne York State University at Buffalo also has a Joseph Bunzel collection.</p></relatedmaterial></descgrp></archdesc>
+
+</ead>

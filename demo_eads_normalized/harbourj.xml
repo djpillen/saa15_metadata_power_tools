@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::harbourj.xml//EN" encodinganalog="Identifier">
+umich-bhl-2012132</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+James E. Harbour papers, 1977-2009
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2012">
+2012</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2012</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2012-09-17</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+James E. Harbour papers, 1977-2009</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Harbour, James E.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+James E. Harbour papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1977-2009
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2012132 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of James E. Harbour (donor no. <num type="donor" encodinganalog="541$e">10794</num>) and came to the library in June 2012.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are expected.
+</p></accruals>
+
+
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+James E. Harbour papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>James E. Harbour is a recognized automotive industry analyst.  Early in his career, he worked in the automotive industry as a manager and director in the engineering and financial disciplines at Ford Motor Company and Chrysler Corporation. In 1980, he formed Harbour and Associates, Inc., a consulting firm designed to assist manufacturing companies improve their overall competitiveness.  The firm dedicated itself to helping manufacturers develop a strategic focus where the design, product, and manufacturing engineering functions focused on continuous improvement of product quality and efficiency.  The firm worked directly with automotive companies throughout the world and expanded its scope to assist companies in industries such as pharmaceuticals, consumer products, electrical components, furniture, and paper products as they study and apply improvement methods.</p>
+
+<p>Harbour and his team created the first <title render="italic">Harbour Report</title>, a study of manufacturing performance at original equipment manufacturers (OEMs) in 1980.  The report was updated in 1989 and became an annual publication in 1993.  The <title render="italic">Harbour Report</title> has driven improvements in manufacturing performance for the OEMs over the past three decades.  Recognized throughout the automotive industry, the report is read by thousands of automotive OEMs, suppliers, financial analysts, and media each year.</p>
+
+<p>In 2009, he released his autobiography, <title render="italic">Factory Man: How Jim Harbour discovered Toyota's quality and productivity methods and helped the U.S. auto industry get competitive</title>, written with James V. Higgins and published by the Society of Manufacturing Engineers (SME). </p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Harbour collection concerns his work as an analyst of the automobile industry. In addition to copies of <title render="italic">The Harbour Report</title>, the collection includes newspaper and magazine articles written by Harbour or containing references to him, and files pertaining to his participation at automobile related conferences.  Also of interest are various promotional and related materials surrounding the publication of his book <title render="italic">Factory Man</title>.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Harbour, James E.</persname>
+<subject source="lcsh" encodinganalog="650">Automobile industry and trade--United States.</subject>
+<subject source="lcsh" encodinganalog="650">Automobile journalists--United States.</subject>
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Topical files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Analysis of the Japanese Landed Cost Advantage for the Manufacture of Subcompact Cars, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Auto Employment Study, <unitdate type="inclusive" normal="1979">1979</unitdate> and <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Auto Workforce Study, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Auto Workforce Analysis: Workers per Million Vehicles Produced 1979 vs. 1995</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Auto Workforce, <unitdate type="inclusive">December 31, 1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Automotive Competitive Challenges; Going Beyond Lean (Harbour-Felax Group)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Automotive -- In-house sourcing</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical -- personnel appointment notices</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical --<title render="italic">Fast Company</title>, magazine article about Harbour</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General Motors articles</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General Motors competitive studies</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General Motors Metal Stamping press release, <unitdate type="inclusive">October 1998</unitdate> </unittitle></did> <note><p>(include mention of Harbour Report)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Quotations of others about statements of Harbour</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Vendor tooling study: "Vendor Tooling: The Not so Missing Link" <unitdate type="inclusive" normal="2009">2009</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Wagoner, Rick, Jr., correspondence with, <unitdate type="inclusive" normal="2004/2005">2004-2005</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Harbour family members</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Laurie Harbour </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ron Harbour, article about</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ken Harbour, article on quality</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Conferences</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Auto News World Congress, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Japanese Auto Industry Conference, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Automobile Production Conference, <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Schafer Hydroforming Congress, <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>APMA Canada Auto Parts Manufacturing Association, <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters received following his participation at various meetings, <unitdate type="inclusive" normal="1983/1994">1983-1994</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Factory Man</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reviews, articles, press releases, interviews </unittitle> <physdesc><extent>40 folders in 1 expandable folder</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Power Point presentation to the Society of Manufacturing Engineers, <unitdate type="inclusive">February 2009</unitdate> </unittitle> <physdesc><extent>1 binder</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Draft of book (Microsoft Word); power-point presentation about book </unittitle> <physdesc><extent>4 CD-Rs</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Articles written by Harbour or containing references to him</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Newspaper clippings and magazine articles, <unitdate type="inclusive" normal="1977/2009">1977-2009</unitdate> </unittitle> <physdesc><extent>1 binder and 10 folders in 1 expandable folder</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Harbour Report</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>The Harbour Report: A Decade Later, Competitive Assessment of the North American Automobile Industry <unitdate type="inclusive" normal="1979/1989">1979-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>The Harbour Report: Competitive Assessment of the North American Automobile Industry <unitdate type="inclusive" normal="1989/1992">1989-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>The Original Harbour Report <unitdate type="inclusive" normal="1980">1980</unitdate>, <unitdate type="inclusive" normal="1981">1981</unitdate> (Second Edition)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>The Harbour Report, Manufacturing Analysis, Company by Company, Plant by Plant, Europe,  <unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate> and <unitdate type="inclusive" normal="1999/2005">1999-2005</unitdate> </unittitle> <physdesc><extent>9 issues</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>The Harbour Report, Manufacturing Analysis, Company by Company, Plant by Plant, North America,  <unitdate type="inclusive" normal="2000/2005">2000-2005</unitdate> and <unitdate type="inclusive" normal="2007">2007</unitdate> </unittitle> <physdesc><extent>7 issues</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Promotional brochure for <unitdate type="inclusive" normal="2004">2004</unitdate> report</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

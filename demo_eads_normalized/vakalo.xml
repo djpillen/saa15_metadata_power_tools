@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::vakalo.xml//EN" encodinganalog="identifier">
+umich-bhl-04102
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Kathleen L. Vakalo Papers, 1971-1991
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Thomas E. Powers </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2004</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 2004, 
+<date>November 2004</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20041105 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Kathleen L. Vakalo Papers, 1971-1991</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff, 2004</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Vakalo, Kathleen L.
+</persname></origination>
+
+<unittitle encodinganalog="245">
+Kathleen L. Vakalo Papers  
+<unitdate type="inclusive" encodinganalog="245$f">
+1971-1991
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+4 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+04102 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Citizen expert on the topic of low-level radioactive waste control; accumulated materials relating to her participation and involvement in various commissions and agencies concerned with low-level radioactive waste control.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Kathleen L. Vakalo (donor no. <num type="donor" encodinganalog="541$e">9499</num>) and came to the library in August 2004.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Kathleen Vakalo has transferred her copyright to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Kathleen L. Vakalo Papers
+, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Kathleen L. Vakalo received her BA in philosophy and MA in educational psychology both from the University of Michigan. Through study and organizational participation, Vakalo became knowledgeable on the issue of low-level radioactive waste control.  In 1980, Congress had passed the Low Level Waste Policy Act that shifted responsibility for the managment and disposal of low-level radioactive waste to the states.  This act also encouraged states to form compacts to manage waste on a regional basis.  In 1982, Michigan became the first state to pass Compact legislation in the Midwest.  Subsequently six additional states signed on forming the Midwest Low-Level Radioactive Waste Compact.  The purpose of the Compact (in part) was to determine which of the seven states would be chosen as host state. </p>
+<p>In 1984, Vakalo was selected as a citizen member of the Michigan Environmental Review Board Subcommittee on Low-level Radioactive Waste.  Since 1982, she had worked as a volunteer researcher on low-level radioactive waste for the Public Interest Research Group in Michigan (PIRGIM) so when the Michigan Departments of Natural Resources and Public Health needed some member of the general public to serve on the subcommittee, PIRGIM recommended Vakalo.  In addition, in 1986 she was appointed by the Speaker of the Michigan House to the Michigan Radioactive Waste Control Commitee as a citizen member.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520"><p>The Vakalo collection consists of accumulated materials relating to her participation and interest in groups concerned with the issue of low-level radioactive waste disposal.  The collection is most valuable for files of reports, memoranda, meeting minutes, and related material.  The series in the collection are: Midwest Interstate Low-Level Radioactive Waster Commission; Michigan Low-Level Radioactive Waste Authority; International Low-Level Radioactive Waste Research and Education Institute; and Topical Files.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Vakalo, Kathleen L.</persname>
+<corpname source="lcnaf" encodinganalog="610">International Low-Level Radioactive Waste Research and Education Institute.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan Low-Level Radioactive Waste Authority.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Midwest Interstate Low-Level Radioactive Waste Commission (U.S.)</corpname>
+<subject source="lcsh" encodinganalog="650">Low level radioactive waste disposal facilities--Location--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Radioactive waste sites--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Radioactive waste disposal--Michigan.</subject>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Midwest Interstate Low-Level Radioactive Waste Commission</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual reports, <unitdate type="inclusive" normal="1984/1985">1984-1985</unitdate>  <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletter, <title render="italic">Update</title>, <unitdate type="inclusive" normal="1985/1989">1985-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan newsletter, <title render="italic">Update</title>, <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Regional Management Plan, <unitdate type="inclusive" normal="1985/1985">1985-1985</unitdate></unittitle><physdesc><extent>12 reports</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous printed and reports</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Chronological file</unittitle></did><note><p>(includes minutes, memoranda, reports, etc.)</p></note>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1983/1990">1983-1990</unitdate>  and <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02></c01>
+
+<c01 level="series"><did><unittitle>Michigan Low-Level Radioactive Waste Authority</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Report to the Governor, Legislature, and Department of Public Health (December 1986)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Impacts of Siting a low-level radioactive waste facilty in Michigan, <unitdate type="inclusive">June, 1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Meeting minutes; and proposed legislation</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Miscellaneous reports, meeting minutes</unittitle><physdesc><extent>3 folders</extent></physdesc></did></c02></c01>
+
+<c01 level="series"><did><unittitle>International Low-Level Radioactive Waste Research and Education Institute</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Minutes, reports, publicity, etc., <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Topical files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Governor's Committee on Nuclear Waste, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Low-level radioactive waste-background information</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Melson, Gail (Science Research Coordinator, Legislative Science Office</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Memoranda, <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Michigan Nuclear Waste Disposal Dateline, <unitdate type="inclusive" normal="1972/1980">1972-1980</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Thesis (M.A.), <unitdate type="inclusive" normal="1980">1980</unitdate> "Nuclear waste repository siting and Michigan, 1975-1977"</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Michigan Nuclear Facility Emergency Plan, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Michigan Radioactive Waste Control Committee</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>General</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Vakalo's appointment</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Midwest Compact Committee</unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Public Interest Research Group in Michigan (PIRGIM)</unittitle><physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Radioactive Exchange Decisionmakers forum (3rd annual)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Radioactive waste disposal (clippings)</unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Saginaw County Medical Society, Committee on the Environment of the, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Sinclair (Mary) statements and memoranda</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Vakalo, Kathleen</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Resume/biography</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Presentations</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Correspondence</unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

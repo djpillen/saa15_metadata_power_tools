@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::MiU-H//TXT us::MiU-H::pepinge.xml//EN" encodinganalog="identifier">
+umich-bhl-2008031</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+George E. Pepin Papers, <date> 1918-1919 </date>
+
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Olga Virakhovskaya </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">2008-08-12</date></publicationstmt></filedesc> 
+
+<profiledesc>
+<creation>Encoded finding aid created by Olga Virakhovskaya, <date>2008-08-12</date></creation>
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage><descrules>Finding aid prepared using DACS.</descrules></profiledesc>
+
+<revisiondesc>
+<change><date>20091223</date><item>Edited for style LAC</item></change>
+<change><date>20080812</date><item>Original encoding from Word 6.0 file using Word macros 
+and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of 
+
+Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+George E. Pepin Papers, <date> 1918-1919 </date> 
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Olga Virakhovskaya
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination><persname source="lcnaf" encodinganalog="100">Pepin, George E.</persname></origination>
+
+<unittitle encodinganalog="245">
+George E. Pepin Papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1918-1919</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 folder
+[46 digital files]</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+2008031 Aa 1
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> 
+
+</langmaterial>
+
+<abstract>
+Typescript of diary of Pepin's military service.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was donated by Cathy Pepin-Toussaint, of Bloomfield, New Jersey, in 2008 
+(Donor no.: <num type="donor" encodinganalog="541$e">9990</num>).</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open for research.
+</p>
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder title,
+George E. Pepin Papers <date> 1918-1919 </date>
+, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545"><p>George E. Pepin served in <corpname normal="United States. Army. Engineer Regiment, 310th. Company B.">Co. B, 
+310th Engineers,</corpname> during the American intervention in North Russia. Pepin enlisted at Camp Custer, Mich., on July 3, 1918.  His unit departed from the United States for Russia on 
+July 21, 1918. Pepin returned to the United States on August 3, 1919, and was discharged at Camp Sherman, Ohio, August 13, 1919.</p></bioghist>
+
+<scopecontent encodinganalog="520">
+<p>
+Typescript of <genreform normal="Diaries.">diary</genreform> of Pepin's military service; also Russian 
+<genreform normal="Postcards.">postcards</genreform> and <genreform normal="Photographs.">photographs</genreform> of Pepin.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head>
+
+<corpname encodinganalog="610" source="lcnaf"> United States. Army. Engineer Regiment, 310th.</corpname>
+<persname encodinganalog="600" source="lcnaf">Pepin, George E. </persname>
+<geogname encodinganalog="651" source="lcsh">Soviet Union--History--Allied Intervention, 1918-1920.</geogname>
+<subject source="lcsh">World War, 1914-1918.</subject>
+<subject source="local" encodinganalog="690">Polar Bear Expedition.</subject></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Papers</unittitle></did>
+<c02 level="file"><did><container label="Folder" type="folder">1</container>
+<unittitle>Transcript of diary, 1918-1919 and military papers</unittitle><physdesc><extent>2 items</extent></physdesc><dao href="pepin0001" show="new" actuate="onrequest"><daodesc><p>[view items]</p></daodesc></dao></did></c02>
+
+<c02 level="file"><did><container label="Folder" type="folder">2</container>
+<unittitle>Photographs, postcards, and a letter, 1918 and undated</unittitle><physdesc><extent>7 items</extent></physdesc>
+		
+	<dao href="pepin0002" show="new" actuate="onrequest"><daodesc><p>[view items]</p></daodesc></dao></did>
+</c02>
+</c01></dsc></archdesc>
+</ead>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::casslsp.xml//EN" encodinganalog="identifier">
+umich-bhl-732
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+[Lewis Cass Speeches and other publications, 1830-1856]
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Michigan Historical Collections Staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2005 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>June 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050621</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+[Lewis Cass Speeches and other publications, 1830-1856]</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections Staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">Cass, 
+Lewis,  1782-1866
+</persname></origination>
+
+<unittitle encodinganalog="245">
+[Lewis Cass Speeches and other publications]
+<unitdate type="inclusive" encodinganalog="245$f">
+1830-1856
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear ft. (22 items)
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+DA 2 C343 S742
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Speeches and publications, 1830-1856, of Lewis Cass, democratic politician.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open without restriction.
+</p></accessrestrict>
+
+
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+[Lewis Cass Speeches and other publications], Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Territorial Governor of Michigan, Superintendent of Indian Affairs, Secretary of War under President Jackson, U.S. minister to France, and Democratic politician.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>Speeches and publications, 1830-1856, of Lewis Cass, democratic politician. Topics include, prosecution of the war and Mexico, extension of slavery in Kansas and Nebraska territories, railroad land grants  and other internal improvement projects and foreign affairs.  Some speeches were delivered in the U.S. Senate, other at various civic or ceremonial affairs. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname encodinganalog="600" source="lcnaf">Cass, Lewis, 1782-1866.</persname>
+<subject source="lcsh" encodinganalog="650">Slavery--United States--Extension to the territories.</subject>
+<geogname source="lcsh" encodinganalog="651">United States--Politics and government--1815-1861.</geogname>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Speeches and publications</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Address...before the association of the alumni of Hamilton College</title>, <unitdate type="inclusive">August 25, 1830</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Discourse...before the American Historical Society</title>, <unitdate type="inclusive">January 30, 1836</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Speech...in reply to Mr. Benton of Missouri</title>, <unitdate type="inclusive">April 2, 1846</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Speech...on the bill providing for the prosecution of the War Against Mexico</title> . <unitdate type="inclusive">May 12, 1846</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">France, its king, court, and government, by an American</title> </unittitle></did> <note><p>(Third edition, New York, 1848)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Remarks...on the late French Revolution</title>, <unitdate type="inclusive">March 28, 1848</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Speech...in the Senate of the United States</title>, <unitdate type="inclusive">January 4, 1850</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Remarks...on the dissolution of the Union and the Constitution of California</title>, <unitdate type="inclusive">February 12, 1850</unitdate> &amp; <unitdate type="inclusive">February 20, 1850</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Address...Delivered before the Kalamazoo County Agricultural Society on Friday, October 11, 1850</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Remarks...delivered in the Senate, March 1 &amp; 3, 1851 on the River &amp; Harbor Bill</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Speeches...in the Senate of the U.S,, December 11 &amp; 12, 1851</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">The North American Fisheries</title> . Speech, <unitdate type="inclusive">August 3, 1852</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Speech on Non-Intervention</title>, February10, 1852.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Remarks on the bill making a grant of public lands to Iowa to aid in constructing certain railroads</title>, <unitdate type="inclusive">March 15, 1852</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Speech on the Collins Line of Steamers</title>, <unitdate type="inclusive">May 7, 1852</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Speech...on the Clayton-Bulwer Treaty.</title> January 11, 1854.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Nebraska &amp; Kansas. Speech...on the powers of government over slavery in the territories</title>, <unitdate type="inclusive">February20, 1854</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Address...to the democracy of Detroit</title>, <unitdate type="inclusive">November 4, 1854</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Speech on...Religious Rights of American Citizens Residing or Travelling in Foreign Countries</title>, <unitdate type="inclusive" normal="1854">1854</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Speech...on our relations with Great Britain</title>, <unitdate type="inclusive">January 28, 1856</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Kansas -- the territories</title>, <unitdate type="inclusive">May 12-13, 1856</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Speech...on the president's veto messages on the river and harbor appropriation bills</title>, <unitdate type="inclusive">July 7, 1856</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

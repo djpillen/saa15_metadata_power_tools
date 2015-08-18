@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::millerfj.xml//EN" encodinganalog="Identifier">
+umich-bhl-851925</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Floyd Josiah Miller papers, 1907-1954
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-12-07</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Floyd Josiah Miller papers, 1907-1954</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff, November 1979</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Miller, Floyd Josiah, 1886-1954.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Floyd Josiah Miller papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1907-1954
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet and 4 oversize volumes
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851925 Aa 2; AC
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Editor and publisher of the <title render="italic">Daily Tribune</title>; scrapbooks of newspaper columns and editorials, personal scrapbooks, diary, and miscellaneous.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Richard P. Miller (donor no. <num type="donor" encodinganalog="541$e">5168</num>).</p></acqinfo>
+
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Floyd Josiah Miller papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Floyd Josiah Miller was editor and publisher of the <title render="italic">Daily Tribune</title>, a south Oakland County, Michigan, newspaper.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The collection is comprised of four series: Biographical; Newspaper career; Miscellaneous; and Scrapbooks.  The Biographical series is important for Miller's diary of his life and career in the period of 1932-1954.  The diary provides a detailed description of the operation of the newspaper during the depression with comments on state and national politics.  The Newspaper career series includes scrapbooks of his editorials and his "Personally Speaking" column.  The Scrapbook series includes clippings, programs, scattered photographs, and memorabilia from his career and personal activities.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="630">The daily tribune (Royal Oak, Mich.)</subject>
+<subject source="lcsh" encodinganalog="650">Depressions--1929--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Journalists--Michigan--Royal Oak.</subject>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1929-1938.</geogname>
+<subject source="lcsh" encodinganalog="650">Newspaper publishing--Michigan--Royal Oak.</subject>
+<geogname source="lcsh" encodinganalog="651">Oakland County (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Newspaper editors--Michigan--Royal Oak.</subject>
+<geogname source="lcsh" encodinganalog="651">Royal Oak (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="630">Royal Oak daily tribune</subject>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Biographical</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Autobiography of early career, with biographical and family material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Diaries">Diary</genreform>, <unitdate type="inclusive" normal="1932/1954">1932-1954</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Newspaper career</unittitle></did>
+<c02 level="file"><did><unittitle>Newspaper column, "Personally Speaking"</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1929/1937">1929-1937</unitdate> </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">September 1937-January 1940</unitdate> </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January 1940-October 1943</unitdate> </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October 1943-October 1944</unitdate> </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1952/1954">1952-1954</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Local editorials </unittitle></did> <note><p>(include some written by Philip F. Miller)</p></note>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1946/1949">1946-1949</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1950/1951">1950-1951</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1952">1952</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1953">1953</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1954">1954</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1907/1918">1907-1918</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous cards and selective service materials</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Copies of<title render="italic"> Indianapolis Spectator</title>, <unitdate type="inclusive" normal="1938">1938</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Pamphlet: "Land of the Incas" </unittitle></did> <note><p>(Reprinted from "Personally Speaking" articles)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Personal <genreform normal="Scrapbooks">Scrapbooks</genreform>, <unitdate type="inclusive" normal="1932/1947">1932-1947</unitdate></unittitle></did>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">1</container><unittitle><unitdate type="inclusive" normal="1932/1937">1932-1937</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">2</container><unittitle><unitdate type="inclusive" normal="1937/1941">1937-1941</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">3</container><unittitle><unitdate type="inclusive" normal="1941/1947">1941-1947</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="volume" label="Oversize Volume">4</container><unittitle><unitdate type="inclusive">June-September 1938</unitdate></unittitle></did></c02></c01>
+
+
+</dsc><descgrp type="add"><relatedmaterial><head>Related Materials</head><p>The library also houses the papers of Floyd Miller's son Philip F. Miller and his grandson Richard P. Miller.</p></relatedmaterial></descgrp></archdesc>
+
+</ead>

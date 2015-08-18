@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::johnsonb.xml//EN" encodinganalog="Identifier">
+umich-bhl-2010072</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Brian K. Johnson papers, 1974-1992
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+B. Myerowitz </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2010">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2010</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2010-04-15</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Brian K. Johnson papers, 1974-1992</titleproper>
+
+<author>Finding aid created by<lb/> 
+B. Myerowitz, 2010</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Johnson, Brian K.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Brian K. Johnson papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1974-1992
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1989-1991
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet and 1 tube
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2010072 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Documentation of the environmental issues and legal proceedings associated with the Traxler Landfill in Pinconning, Michigan.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Collection received from Brian Johnson in 2009 (donor no. <num type="donor" encodinganalog="541$e">10256</num>).  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the papers are expected.
+</p></accruals>
+
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Brian K. Johnson papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Brian K. Johnson of Johnson Consultants, Jackson, Michigan served as a consultant on issues related to the Traxler Landfill.</p>
+
+<p>In 1989, a construction permit was issued by the Michigan Department of Natural Resources to Traxler Landfill Inc., authorizing construction of a new landfill for solid waste disposal on a 100 acre site in Pinconning Township in Bay County Michigan.  Both the local community and environmental activists opposed the landfill due to concerns about negative impacts on the surrounding wetlands, groundwater quality, and the proximity to Whitefeather Creek and Saginaw Bay.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection includes reports, correspondence, drawings, and newspaper clippings that document the controversy over the Traxler Landfill in Pinconning Township, Michigan.</p>
+
+<p>In addition, there are materials documenting the incorporation of Dumpbusters, a non-profit organization dedicated to prevention of further pollution of natural resources, and active in the controversy surrounding the Traxler Landfill.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Johnson, Brian K.</persname>
+<subject source="lcsh" encodinganalog="650">Landfills--Michigan--Pinconning.</subject>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Dept. of Natural Resources.</corpname>
+<subject source="lcsh" encodinganalog="650">Waste disposal in the ground--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Wetlands--Michigan.</subject>
+
+</controlaccess>
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Traxler Landfill file</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reports and reference materials, <unitdate type="inclusive" normal="1989/1991">1989-1991</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Construction permits, <unitdate type="inclusive" normal="1989">1989</unitdate> and <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence and legal documents, <unitdate type="inclusive" normal="1984/1992">1984-1992</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Meeting minutes of the Pinconning Township Board, <unitdate type="inclusive" normal="1984/1991">1984-1991</unitdate> (scattered)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Meeting notes</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Dumpbusters</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>501C incorporation, bylaws, and miscellaneous background information, <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Billing for consultation, <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Database research</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Department of Natural Resources newsletters, memos, reports, <unitdate type="inclusive" normal="1989/1992">1989-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings and publicity, <unitdate type="inclusive" normal="1990/1992">1990-1992</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous <genreform normal="Photographs">photographs</genreform> (including Traxler construction site), <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous (including samples from Gundle Lining Systems Company)</unittitle></did></c02>
+<c02 level="file"><did><container type="tube" label="Tube">1</container><unittitle>Site plan drawings, <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="tube" label="Tube">1</container><unittitle>Building blueprints, <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="tube" label="Tube">1</container><unittitle>Map of flood plan area in Pinconning quadrangle, <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

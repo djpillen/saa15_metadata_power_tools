@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::glazerla.xml//EN" encodinganalog="Identifier">
+umich-bhl-2011063</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Lawrence M. Glazer papers, 1981-1987
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Owen Ellis, May 2011</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2011">
+2011</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2011</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2011-06-09</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Lawrence M. Glazer papers, 1981-1987</titleproper>
+
+<author>Finding aid created by<lb/> 
+Owen Ellis, May 2011</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Glazer, Lawrence M.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Lawrence M. Glazer papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1981-1987
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2011063 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Former Michigan Assistant Attorney General, chief legal adviser to Michigan Governor James Blanchard, and later State Circuit Judge. The collection documents his time as an advisor and legal counsel for James Blanchard during his gubernatorial campaign and as governor.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Lawrence M. Glazer (donor no. <num type="donor" encodinganalog="541$e">9947</num>) and came to the library in multiple accessions, 2007-2011.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Lawrence M. Glazer papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Lawrence M. Glazer, from the city of Detroit, earned his bachelor's degree in history from Wayne State University in 1965. He graduated from the University of Michigan Law School in 1968. He then served as a Michigan Assistant Attorney General for seven years, before entering private practice for seven years. In 1982 Glazer joined James Blanchard's campaign for governor as chief state issues advisor. After Blanchard won the election, he became special counsel and chief legal advisor to the governor for five years. After leaving Blanchard's administration, Glazer served as a state circuit judge, presiding over criminal, civil and divorce trials from 1987 until he retired in 2003. During his retirement Glazer authored a biography of Governor John B. Swainson.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Papers of Lawrence Glazer document his work with James Blanchard as candidate for office and as a member of his staff as special counsel and chief legal advisor. The collection is arranged into two series: Chronological, and 1982 Gubernatorial Campaign materials.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Blanchard, James J., 1942-</persname>
+<persname source="lcnaf" encodinganalog="600">Glazer, Lawrence M.</persname>
+<corpname source="lcnaf" encodinganalog="610">Democratic Party (Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Governor (1983-1991 : Blanchard)</corpname>
+<subject source="lcsh" encodinganalog="650">Elections--Michigan--1982.</subject>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1981-1990.</geogname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Chronological</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1981/1987">1981-1987</unitdate> </unittitle> <physdesc><extent>9 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><unitdate type="inclusive" normal="1982">1982</unitdate> Gubernatorial Campaign</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Blanchard's Correspondence related to campaign</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Campaign Letters and Publications</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Drafts of statements, position papers, etc. </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+ 
+
+</dsc><descgrp type="add"><descgrp><relatedmaterial><head>Related Material</head><p>The library also has the gubernatorial and political papers of Governor James Blanchard.</p></relatedmaterial></descgrp></descgrp></archdesc>
+
+</ead>

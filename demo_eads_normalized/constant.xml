@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::constant.xml//EN" encodinganalog="Identifier">
+umich-bhl-2012044</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Kathy and Angelos Constantinides papers, 1899-2012
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2012">
+2012</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2012</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2013-06-18</date><item>Changes made with additional material.</item></change>
+<change><date>2012-03-30</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Kathy and Angelos Constantinides <lb/>Papers, 1899-2011</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff, 2012</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Constantinides, Kathy, 1936-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Kathy and Angelos Constantinides papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1889-2012
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.1 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2012044 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Angelos and Kathy Constantinides (donor no. <num type="donor" encodinganalog="541$e">10541</num>) and came to the library in multiple accessions, 2011 and May 2013.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are expected.
+</p></accruals>
+
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Kathy and Angelos Constantinides papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Kathy Bakalis was born in Detroit, Michigan in 1936. Her parents had immigrated from Greece in 1927. She graduated from Lincoln High School in 1954 and Wayne State University in 1958. In December of that same year she married Angelos Constantinides. With her husband, Kathy shared many community and volunteer activities. In the 1970s, she worked on the Equal Rights Amendment campaign. She was active in other gender and women's issues, and was, in addition, a recognized artist.</p>
+
+<p>Angelos Constantinides was born August 15, 1927 in Port Said, Egypt. As citizens of Greece, his parents registered his birth with the Greek Consulate. He graduated from the Greek Community High School in Port Said in 1944. He immigrated to the United States in 1947. He served in the Korean War following which he attended and graduated from Wayne University in Detroit in 1955. He graduated from the Chicago College of Osteopathy in June 1959 and established a general practice in Romulus, Michigan (1960-1977). From 1977 to 1988, he was occupational physician with the Ford Motor Company in Dearborn. He retired in 1988.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Kathy and Angelos Constantinides collection consists of family materials, files relating to Kathy Constantinides's involvement in women's and civil rights issues, documents from the education and career of Angelos Constantinides, and files from their shared involvement in the American Civil Liberties Union and other organizations. Family materials include various certificates and documents from the lives of George and Eleni Constantinides (Angelos's parents) and Pete and Hrissi Bakalis (Kathy's parents). Of note is <title render="italic">The Autobiography of Pete John Bakalis</title> translated and edited by Kathy. The papers of Kathy (Bakalis) Constantinides includes her various writings -- an autobiography, a family history, as well as her extensive correspondence to newspaper editors and organizations on gender and women's rights issues. The Angelos Constantinides papers documents his education and his service during the Korean War.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Bakalis, Pete.</persname>
+<persname source="lcnaf" encodinganalog="600">Bakalis, Hrissi.</persname>
+<persname source="lcnaf" encodinganalog="600">Constantinides, Angelos.</persname>
+<persname source="lcnaf" encodinganalog="600">Constantinides, Eleni.</persname>
+<persname source="lcnaf" encodinganalog="600">Constantinides, George.</persname>
+<persname source="lcnaf" encodinganalog="600">Constantinides, Kathy, 1936-</persname>
+<subject source="lcsh" encodinganalog="650">Greek Americans--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Women's rights--Michigan.</subject>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Constantinides, Angelos.</persname></controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>George and Eleni Constantinides</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Early documents: dowry agreement, <unitdate type="inclusive" normal="1889">1889</unitdate> and cantina permit, <unitdate type="inclusive" normal="1900">1900</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Binder of various legal documents: birth certificate, passport, etc.</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Pete and Hrissi Bakalis</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic">The Autobiography of Pete John Bakalis</title> (Panayiotis Ioannou Bakalis) translated by Angelos and Kathy (Bakalis) Constantinides (1994) </unittitle></did> <note><p>(also include photocopy of the original text in Greek; the autobiography was started in 1982)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Text of book "Apolloniada," the story of Pete and Hrissi Bakalis's village </unittitle></did> <note><p>(also include map made by Kathy Constantinides of this village)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Ellis Island material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Various documents</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Kathy (Bakalis) Constantinides</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Autobiography entitled "Remembering"</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Family history entitled <title render="italic">Hrissi</title> (1987)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Curriculum vitae</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Van Dyke, Michigan Public Schools teaching documents</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Wayne State University: transcript, commencement program, admission to WSU Graduate School</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Eastern Michigan University: graduate teaching assistant contract, gradation program, miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Eastern Michigan University: art dept. grades</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Grade school and high school certificates; also graduation diploma and program</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Letters to the editor and to organizations on topics of women's rights and civil liberties, <unitdate type="inclusive" normal="1979/2010">1979-2010</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Gender neutral language usage</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Art censorship</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Gender and women's issues</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Women's Rights National Historical Park</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Noise complaints</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Reproductive rights and abortion</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Letters used in book "Letters: Liberty Circumscribed"</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Clergy sexual misconduct</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Handbook by KC entitled <title render="italic">Challenging Professional Sexual Exploitation</title> (1993)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Church baptismal certificate</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lincoln High School graduation class photo</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Angelos Constantinides</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Autobiography</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Certificate from Medical Field Service School</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Various certificates</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Certificate of recognition and related correspondence, U.S. Army Cold War Recognition Office</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Wayne State University transcript; also curriculum vitae</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Passport</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Chicago College of Osteopathy class of <unitdate type="inclusive" normal="1959">1959</unitdate> class photo</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Various professional certificates</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Grade school and high school diplomas</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Shared activities</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Genealogy</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>American Civil Liberties Union (regarding their gift to the ACLU)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Neighbors, Inc.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Letters from relatives in Greece </unittitle></did> <note><p>(in Greek, with translations)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Various documents: certificates, etc.</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Digital Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>DVD-R files of the materials from the collection </unittitle> <physdesc><extent>2 DVD-Rs</extent></physdesc></did></c02></c01>
+ 
+
+</dsc><descgrp type="add"><relatedmaterial><head>Related Material</head><p>Additional papers of Kathy Constantinides are available at the Labadie Collection, Hatcher Library, University of Michigan.</p></relatedmaterial></descgrp></archdesc>
+
+</ead>

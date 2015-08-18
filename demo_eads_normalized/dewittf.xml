@@ -1,0 +1,360 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::dewittf.xml//EN" encodinganalog="Identifier">
+umich-bhl-89163</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Fred DeWitt papers, 1939-1979
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Brian A. Williams </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>July 2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-07-28</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Fred DeWitt papers, 1939-1979</titleproper>
+      <author>Finding aid created by<lb/> 
+Brian A. Williams, 1989</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<persname source="lcnaf" encodinganalog="100">
+DeWitt, Fred.
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+Fred DeWitt papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1939-1979
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+0.3 linear feet
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+89163 Aa 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Secretary of the engineering class of 1929 of the University of Michigan. Files relating to class reunions, including group photographs; also various subject files.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was donated by Fred DeWitt, (Donor no. <num type="donor" encodinganalog="541$e">7481</num>), member of the 1929 engineering class at the University of Michigan.</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Fred DeWitt papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Fred DeWitt was secretary of the engineering class of 1929 of the University of Michigan.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The DeWitt papers are in effect the records of the class of 1929 and are primarily concerned with class reunions. The first reunion was the 10th, held in 1939, followed by the 20th in 1949. Thereafter reunions were held every five years through the 50th reunion. The 1929 Engineers were a well organized group. They printed and distributed class directories in conjunction with their reunions and kept in close contact throughout the years. The collection includes letters, announcements and reports on activities for each of the reunions. Of note is a questionnaire filled out during the 20th reunion which asked about the present activities of the graduates, their occupations and families. Also included is a brief section on changes made to the school of engineering prior to the proposed Michigan engineering centennial in 1954. Other information consists of photographs taken at the various reunions and log books of dues and guest registers.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Alumni and alumnae.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Engineering. Class of 1929.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <geogname source="lcsh" encodinganalog="651">Camp Davis (University of Michigan)</geogname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Alumni and alumnae.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Engineering. Class of 1929.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--1921-1930.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Reunion files</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>10th Reunion, <unitdate type="inclusive"> June 16-17, 1939</unitdate></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>General material</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Guest register</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Group <genreform normal="Photographs">photograph</genreform></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>20th Reunion, <unitdate type="inclusive"> June 10, 1949</unitdate></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>General material</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Questionnaire</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <genreform normal="Photographs">Photograph album</genreform>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>25th Reunion, <unitdate type="inclusive"> June 10-12, 1954</unitdate></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>General material</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Group <genreform normal="Photographs">photograph</genreform></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <genreform normal="Photographs">Photograph album</genreform>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>30th Reunion, <unitdate type="inclusive"> June 11-12, 1959</unitdate></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>General material</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Group <genreform normal="Photographs">photograph</genreform></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <genreform normal="Photographs">Photograph album</genreform>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Snapshots</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>35th Reunion, <unitdate type="inclusive"> May 21-23, 1964</unitdate></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>General material</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Group <genreform normal="Photographs">photograph</genreform></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>40th Reunion, <unitdate type="inclusive"> October 10-11, 1969</unitdate></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>General material</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Complaints following reunion and proposed class letter</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Group <genreform normal="Photographs">photograph</genreform></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Snapshots</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>42nd Reunion, <unitdate type="inclusive"> October 15-16, 1971</unitdate></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>General material</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>45th Reunion, <unitdate type="inclusive"> October 25-26, 1974</unitdate></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>General material</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>50th Reunion, <unitdate type="inclusive"> April 26-28, 1979</unitdate></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>General material</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Group <genreform normal="Photographs">photograph</genreform></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Class miscellaneous</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Notes on changes made to Engineering School and statement about Phoenix Project for centennial celebration of Engineering School in <unitdate type="inclusive" normal="1954">1954</unitdate> material <unitdate type="inclusive" normal="1950/1952">1950-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Financial reports of class of <unitdate type="inclusive" normal="1929">1929</unitdate> engineering loan fund, <unitdate type="inclusive" normal="1959/1982">1959-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Dues payment record, <unitdate type="inclusive" normal="1939/1974">1939-1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Guest register, <unitdate type="inclusive" normal="1949/1979">1949-1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <genreform normal="Photographs">Photographs</genreform> from engineering camps in Jackson Hole, Wyoming and Camp Davis in Michigan</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

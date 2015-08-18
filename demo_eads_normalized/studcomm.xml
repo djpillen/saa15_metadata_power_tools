@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::studcomm.xml//EN" encodinganalog="Identifier">
+umich-bhl-87289</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Office of Student Community Relations (University of Michigan) records, 1961-1971
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Library staff.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2006">
+2006</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2006-08-14</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2006-08-14</date>
+        <item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Office of Student Community Relations <lb/>(University of Michigan) <lb/>Records, 1961-1971
+
+</titleproper>
+      <author>Finding aid created by<lb/> 
+Bentley Historical Library staff.
+</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<corpname source="lcnaf" encodinganalog="110">University of Michigan. Office of Student Community Relations.
+</corpname></origination>
+      <unittitle encodinganalog="245">Office of Student Community Relations (University of Michigan) records
+
+<unitdate type="inclusive" encodinganalog="245$f">
+1961-1971
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+4 linear feet
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+87289 Bimu B7 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Records, 1961-1971, of the Office of Student Community Relations of the University of Michigan, organization within the Office of Student Affairs; contain files largely relating to university regulations respecting student use of automobiles and bicycles, student housing, and other student concerns.  Also contains earlier material inherited from other university offices.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+      <physloc>Portions located in offsite storage; prior notification required for access.</physloc>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The Records were received from the Office of Student Community Relations (donor no. <num type="donor" encodinganalog="541$e">5013</num>
+).
+ 
+</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>The record group is open without restriction.</p>
+        <p>
+          <extptr href="uarpacc" show="embed" actuate="onload"/>
+        </p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Office of Student Community Relations (University of Michigan) Records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Shortly after assuming the Vice Presidency of Student Affairs on December 1, 1964, Richard Cutler created the Office of Student-Community Relations, while eliminating the offices of the Dean of Women and Dean of Men.  The Office of Student-Community Relations was created to administer off-campus housing, student vehicle registration, and student-community concerns.</p>
+      <p>Under the subsequent Vice Presidency of Robert Knauss, who was elected to that position in 1970, the functions of the Student-Community Relations Office were absorbed by the Housing Division, creating a single unified housing structure as recommended in 1965 by The President's Commission on Off-Campus Housing.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The records include regulations regarding student automobiles and resulting parking and traffic problems (1922-1968), planning and regulation of bicycles and motorcycles, housing inspection, and other matters of student concern.  The minutes of the University Council, composed of faculty members and students, containing emergency guidelines developed in 1970/1971 for dealing with campus unrest are included, as are a student credit union survey (1969), a health service study (1968-1969), and studies of university bookstores and campus recreation.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. Office of Student Affairs.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1961-1970.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. Office of Student Community Relations.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Campus--1959-1960.</corpname>
+        <subject source="lctgm" encodinganalog="650">Bicycles and tricycles.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Records</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>University Regulations and Planning Regarding Automobiles</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Ban on Student Driving, <unitdate type="inclusive" normal="1922/1959">1922-1959</unitdate></unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1</container>
+                <unittitle>Publicity</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1</container>
+                <unittitle>Correspondence</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1</container>
+                <unittitle>Surveys</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Driving Rules Revisions, <unitdate type="inclusive" normal="1961/1968">1961-1968</unitdate></unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1</container>
+                <unittitle>Driving Regulations Board, <unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1</container>
+                <unittitle>Legality of Regulations and Fees</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1</container>
+                <unittitle>Auto Study Commission, <unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">1</container>
+                <unittitle>Student Traffic Advisory Board</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">2</container>
+                <unittitle>Student Vehicle Bureau, <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">2</container>
+                <unittitle>Parking System Capabilities, <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>University Regulations and Planning Regarding. Motorcycles</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">2</container>
+              <unittitle>Noise</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">2</container>
+              <unittitle>Parking</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">2</container>
+              <unittitle>Safety</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>University Regulations and Planning Regarding Bicycles</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Housing</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Student Advisory Committee on Housing</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">2</container>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box" label="Box">2</container>
+                <unittitle>Subcommittee on Off-Campus Housing</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>Men's Housing Inspections, <unitdate type="inclusive" normal="1926/1946">1926-1946</unitdate> </unittitle>
+              <physdesc>
+                <extent>3 volumes</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>President's Commission on Role of Students in Decision Making</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Legal Services for Student Use</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>University Council, <unitdate type="inclusive" normal="1968/1971">1968-1971</unitdate></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">4</container>
+              <unittitle>Campus Unrest</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">4</container>
+              <unittitle>Emergency Guidelines</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">4</container>
+              <unittitle>Rules and Procedures of University schools and colleges</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Student Credit Union Survey, <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Campus Recreation</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Health Service Study Commission, <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Student Bookstore</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Photographs of Bicycle Parking Problems, <unitdate type="inclusive" normal="1959/1960">1959-1960</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

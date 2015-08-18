@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::mullettm.xml//EN" encodinganalog="Identifier">
+umich-bhl-92584</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Martha Mullett collection, ca. 1865-ca. 1880
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-08</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Martha Mullett collection, ca. 1865-ca. 1880</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Mullett, Martha, collector.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Martha Mullett collection 
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1865-ca. 1880
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+92584 UA 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Collection of stereograph images of views of Michigan’s Upper Peninsula in the late nineteenth century.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The provenance of the collection is uncertain.   
+</p></acqinfo>
+
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Martha Mullett collection, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>There is no information available about Martha Mullett, the collector of these photographs.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>This collection consists of six envelopes of stereographs published by Bailey &amp; Whitesides, C. B. Brubaker, and A. G. Emergy, and some photographed by B. F. Childs. The images are scenes of Michigan's Upper Peninsula in the late nineteenth century, including Michigamme, Houghton, Hancock, and Sault Sainte Marie, Michigan and the Pictured Rocks.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lctgm" encodinganalog="650">Camping.</subject>
+<subject source="lctgm" encodinganalog="650">Copper mining--Michigan--Upper Peninsula.</subject>
+<geogname source="lcsh" encodinganalog="651">Hancock (Mich.)</geogname>
+<persname source="lcnaf" encodinganalog="600">Houghton, Jacob, 1827-1903.</persname>
+<geogname source="lcsh" encodinganalog="651">Houghton (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Indians of North America.</subject>
+<subject source="lctgm" encodinganalog="650">Iron mining--Michigan--Upper Peninsula.</subject>
+<geogname source="lcsh" encodinganalog="651">Michigamme (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Michigamme Company.</corpname>
+<geogname source="lcsh" encodinganalog="651">Michigamme, Lake (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Pictured Rocks (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Saint Mary's River (Mich. and Ont.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Sault Sainte Marie (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Waterfalls.</subject>
+
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+
+<corpname source="lcnaf" encodinganalog="710">Bailey &amp; Whitesides Stereoscopic and Portrait Gallery.</corpname>
+<persname source="lcnaf" encodinganalog="700">Brubaker, C. B.</persname>
+<persname source="lcnaf" encodinganalog="700">Childs, B. F.</persname>
+<persname source="lcnaf" encodinganalog="700">Emery, A. G.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="gmgpc" encodinganalog="655">Stereographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Collected stereographs </unittitle></did> <note><p>(arranged by series name and publisher)</p></note>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bailey &amp; Whitesides Stereoscopic and Portrait Gallery, Marquette, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Hungarian Falls, Houghton, Mich. </unittitle></did> <note><p>(envelope no. 1)</p></note></c03></c02>
+<c02 level="file"><did><unittitle>"Gems of Lake Superior Scenery" published by C.B. Brubaker, Marquette, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigamme, Mich., including Lake Michigamme, Michigamme Iron Mine, and Jacob Houghton party </unittitle></did> <note><p>(envelope no. 2)</p></note></c03></c02>
+<c02 level="file"><did><unittitle>"Lake Superior Views" published by A.C. Emery, Marquette, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Houghton and Hancock, Mich., including copper mines, stamp mills, smelters, and a hospital </unittitle></did> <note><p>(envelope no. 3)</p></note></c03></c02>
+<c02 level="file"><did><unittitle>"The Picturesque of Lake Superior" photographed by B.F. Childs, published by C.B. Brubaker, Marquette, Mich.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Marquette area, Mich., including Laughing Water Falls, camping, and iron mines; also Sault Ste. Marie, Mich., including Indian village </unittitle></did> <note><p>(envelope nos. 4)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Pictured Rocks </unittitle></did> <note><p>(envelope nos. 5-6)</p></note></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

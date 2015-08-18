@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::newkirkh.xml//EN" encodinganalog="Identifier">
+umich-bhl-851978</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Henry Wirt Newkirk Papers, 1862-1931
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>May 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-05-16</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Henry Wirt Newkirk Papers, 1862-1931</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Newkirk, Henry Wirt, 1854-1946.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Henry Wirt Newkirk Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1862-1931
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851978 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Member of the Michigan State Legislature. Personal papers include correspondence, speeches and writings, a scrapbook, and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Mr. Birkett Newkirk (donor no. <num type="donor" encodinganalog="541$e">2191</num>) and came to the library in 1946.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Henry Wirt Newkirk Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Attorney from Luther and Dexter, Michigan, Republican state representative from Osceola and Lake Counties, 1893-1894, Dexter businessman, Washtenaw County probate judge, state representative from Washtenaw County, 1907-1910 and 1917-1918, and mayor of Ann Arbor, 1931-1933.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection has been arranged into a single series of Personal papers.  Included are correspondence; two volumes of speeches and other writings concerning prohibition, woman suffrage, and other political and patriotic subjects; scrapbook, family materials, and miscellanea. Within the correspondence, there are collected letters of Michigan Senator Charles E. Townsend, 1913-1914, and a letter from Benjamin R. Tillman concerning smoking in the U.S. Senate. Other correspondents include J. G. Cannon, Secretary of State William J. Bryan, Booker T. Washington, James B. Angell, Frank Knox, Harry B. Hutchins, Charles E. Townsend, and Earl C. Michener.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Dexter (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Judges--Michigan--Washtenaw County.</subject>
+<geogname source="lcsh" encodinganalog="651">Lake County (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Lawyers--Michigan--Washtenaw County.</subject>
+<geogname source="lcsh" encodinganalog="651">Luther (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Legislature.</corpname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1899-1916.</geogname>
+<persname source="lcnaf" encodinganalog="600">Newkirk, Henry Wirt, 1854-1946.</persname>
+<geogname source="lcsh" encodinganalog="651">Osceola County (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Prohibition--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Smoking.</subject>
+<geogname source="lcsh" encodinganalog="651">Washtenaw County (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Women--Suffrage--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname></controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Business enterprises--Michigan--Luther.</subject>
+<persname source="lcnaf" encodinganalog="600">Cramton, Louis C. (Louis Convers), b. 1875.</persname>
+<geogname source="lcsh" encodinganalog="651">Deckerville (Mich.)</geogname>
+<geogname source="lctgm" encodinganalog="651">Dexter (Mich.)--Mills.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Dexter Union School (Dexter, Mich.)</corpname>
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Luther.</subject>
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Portage Lake (Livingston County and Washtenaw County)</subject>
+<geogname source="lcsh" encodinganalog="651">Lake County (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Lumber industry.</subject>
+<geogname source="lctgm" encodinganalog="651">Luther (Mich.)--Business enterprises.</geogname>
+<geogname source="lctgm" encodinganalog="651">Luther (Mich.)--Dwellings.</geogname>
+<geogname source="lctgm" encodinganalog="651">Luther (Mich.)--Streets.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Legislature (37th : 1893)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Legislature. House of Representatives.</corpname>
+<subject source="lctgm" encodinganalog="650">Mills--Michigan--Dexter.</subject>
+<subject source="lctgm" encodinganalog="650">Mills--Michigan--Petoskey.</subject>
+<subject source="lctgm" encodinganalog="650">Mills--Michigan--Portage Lake (Livingston County and Washtenaw County)</subject>
+<persname source="lcnaf" encodinganalog="600">Newkirk, Henry Wirt, 1854-1946.</persname>
+<subject source="lctgm" encodinganalog="650">Newspaper industry.</subject>
+<subject source="lctgm" encodinganalog="650">Photography.</subject>
+<geogname source="lcsh" encodinganalog="650">Petoskey (Mich.)</geogname>
+<geogname source="lctgm" encodinganalog="651">Petoskey (Mich.)--Mills.</geogname>
+<geogname source="lctgm" encodinganalog="651">Portage Lake (Livingston County and Washtenaw County, Mich.)--Dwellings.</geogname>
+<geogname source="lctgm" encodinganalog="651">Portage Lake (Livingston County and Washtenaw County, Mich.)--Mills.</geogname>
+<geogname source="lcsh" encodinganalog="651">Portage Lake (Livingston County and Washtenaw County, Mich.)</geogname>
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Angell, James Burrill, 1829-1916.</persname>
+<persname source="lcnaf" encodinganalog="700">Bryan, William Jennings, 1860-1925.</persname>
+<persname source="lcnaf" encodinganalog="700">Cannon, Joseph Gurney, 1836-1926.</persname>
+<persname source="lcnaf" encodinganalog="700">Cutcheon, Byron M., 1836-1908.</persname>
+<persname source="lcnaf" encodinganalog="700">Hutchins, Harry B. (Harry Burns), 1847-1930.</persname>
+<persname source="lcnaf" encodinganalog="700">Knox, Frank, 1874-1944.</persname>
+<persname source="lcnaf" encodinganalog="700">Michener, Earl C. (Earl Cory), 1876-1957.</persname>
+<persname source="lcnaf" encodinganalog="700">Smith, William Alden, 1859-1932.</persname>
+<persname source="lcnaf" encodinganalog="700">Tillman, Benjamin R. (Benjamin Ryan), 1847-1918.</persname>
+<persname source="lcnaf" encodinganalog="700">Townsend, Charles Elroy, 1856-1924.</persname>
+<persname source="lcnaf" encodinganalog="700">Warner, Frederick Maltby, 1865-1923.</persname>
+<persname source="lcnaf" encodinganalog="700">Washington, Booker T., 1856-1915.</persname>
+<persname source="lcnaf" encodinganalog="700">Williams, John Sharp, 1854-1932.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+<genreform source="gmgpc" encodinganalog="655">Silhouettes.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Personal papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical and genealogical material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Family letters, <unitdate type="inclusive" normal="1862/1893">1862-1893</unitdate> (scattered dates)</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1893/1897">1893-1897</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1900/1909">1900-1909</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1910/1931">1910-1931</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Collected letters of Charles E. Townsend, <unitdate type="inclusive" normal="1913/1914">1913-1914</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letter from A.B. to Col. Preston concerning court case involving a slave in Mississippi prior to the Civil War, <unitdate type="inclusive" normal="1874">1874</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Copy of Kentucky newspaper published by Newkirk, <unitdate type="inclusive" normal="1886">1886</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Military commission issued to Henry Johnson and signed by Dewitt Clinton, <unitdate type="inclusive">April 24, 1818</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ledger (purpose unclear)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Scrapbooks">Scrapbook</genreform> containing clippings, memorabilia, and letters, <unitdate type="inclusive">ca. 1893-1913</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Republican Party miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Certificates of appointment and election, invitations, programs, etc.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellanea; include clippings, etc.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches and other writings </unittitle> <physdesc><extent>2 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform> </unittitle> <physdesc><extent>3 envelopes</extent></physdesc></did> 
+<scopecontent><p>The photographs file includes prints of mills in Portage Lake, Dexter, and Petoskey, Michigan; photographs of dwellings and businesses in Luther, Michigan; group and individual portraits of Michigan legislators and other photographs relating to Newkirk's political career.</p></scopecontent></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

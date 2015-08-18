@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::towerfam.xml//EN" encodinganalog="Identifier">
+umich-bhl-86127</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Tower Family papers, 1841-1937
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-02-19</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Tower Family papers, 1841-1937</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<famname source="lcnaf" encodinganalog="100">
+Tower Family
+</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Tower Family papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1841-1937
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86127 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Business and commercial family of Ionia, Michigan; correspondence and financial records of Angelo E. Tower and Osmond S. Tower; correspondence and business records of Louis S. Lovell, W.B. Heath, and George Webber, Ionia, Michigan, businessmen.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection came from Mrs. Ada Owsley (donor no. <num type="donor" encodinganalog="541$e">4674</num>) in 1968.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Tower Family papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Tower family members were earlier settlers to Ionia, Michigan. The patriarch of the family was Osmond Tower. His sons Osmond S. Tower and Angelo E. Tower were active in the business life of Ionia. Both sons served as captains with Company E, Sixth Michigan Cavalry during the Civil War. After the war, Angelo continued with his business interests. He was most involved in lumber and other investments, first in Ionia, later in the western United States, particularly Washington State, Tacoma area. Osmond was involved in banking and various commercial investments, notably as a stockholder and officer in the First National Bank of Ionia (later State Savings Bank).</p>
+
+<p>Other individuals represented in the papers are Louis Lovett, who was vice president of the First National Bank, and who, in addition, had a lively interest in lumber investments and financial loans. Another family member, W. B. Heath, was cashier at the bank. Also represented in the collection is George W. Webber, who was a lumber dealer and general merchant in Ionia. He also served a term in Congress (1881-1882), and was president of the Second National Bank of Ionia.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection was accumulated and donated by Ada Health Owsley, the daughter of W.B. Heath, who had himself married into the Tower family. Most of the collection relates to the business dealings of Tower family members. The most important exception is a portion of the correspondence dealing with the Civil War service of Angelo Tower, a captain with Company E, Sixth Michigan Cavalry. These papers include both letters to his family and other documents relating to his military responsibilities. The collection, both correspondence and financial records, documents the development and commercial growth of Ionia, Michigan, and includes various records of Louis S. Lovell, bank cashier W.B. Heath, and George W. Webber, president of the Second National Bank of Ionia. The fact that there are some papers of George W. Webber, a banking competitor to the Towers is curious. Perhaps a possible merger of the two Ionia banks led to the storage of retired records in a common area. Regardless, the banking records of Tower and Webber offer some insight into the commercial development of Ionia.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Banks--Michigan--Ionia.</subject>
+<subject source="lcsh" encodinganalog="650">Business records.</subject>
+<geogname source="lcsh" encodinganalog="651">Ionia (Mich.)--Commerce.</geogname>
+<geogname source="lcsh" encodinganalog="651">Ionia County (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Lumber trade--Michigan--Ionia.</subject>
+<subject source="lcsh" encodinganalog="650">Lumber trade--Washington (State).</subject>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+<subject source="lcsh" encodinganalog="650">Veterans--Michigan--Ionia.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Cavalry Regiment, 6th (1862-1865). Company E.</corpname>
+
+
+</controlaccess>
+
+
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Heath, William B.</persname>
+<persname source="lcnaf" encodinganalog="700">Lovell, Louis S., b. 1816.</persname>
+<persname source="lcnaf" encodinganalog="700">Morse, Allen Benton, 1839-1921.</persname>
+<persname source="lcnaf" encodinganalog="700">Tower, Angelo Emery.</persname>
+<persname source="lcnaf" encodinganalog="700">Tower, Osmond Selwyn, 1839-1910.</persname>
+<persname source="lcnaf" encodinganalog="700">Webber, George W., b. 1825.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive" normal="1855/1936">1855-1936</unitdate> </unittitle> <physdesc><extent>23 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Business papers and miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive" normal="1861/1936">1861-1936</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Publications</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>A.E. Tower account books </unittitle></did> <note><p>(include rent accounts)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Lumber book</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Louis Lovell account books and office book</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Webber and Wilson daybook</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>George Webber <genreform normal="Scrapbooks">scrapbook</genreform></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Ada Heath Owsley Emergency Relief Administration file, <unitdate type="inclusive" normal="1930/1939" certainty="approximate">1930s</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Account books and journals (miscellaneous) </unittitle> <physdesc><extent>2 volumes</extent></physdesc></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

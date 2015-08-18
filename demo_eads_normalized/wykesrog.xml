@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::wykesrog.xml//EN" encodinganalog="Identifier">
+umich-bhl-86385</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Roger Irving Wykes papers, 1889 and 1907-1938
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>August 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-08-27</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Roger Irving Wykes papers, 1889 and 1907-1938</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Wykes, Roger Irving, 1874-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Roger Irving Wykes papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1889 and 1907-1938
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86385 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Attorney General of Michigan, 1912. Briefs and other legal papers relating to the Duluth, South Shore and Atlantic Railroad case and the Grand Rapids Gas Company case; correspondence, 1907-1908, on his campaign and activities in the Michigan Constitutional Convention; scrapbooks on the Constitutional Convention and Michigan politics, 1907-1920. 
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Frederic K. Wykes (donor no. <num type="donor" encodinganalog="541$e">3446</num>) and came to the library in 1958.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Roger Irving Wykes papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Roger I. Wykes was born in Grand Rapids on September 6, 1874, and educated in the Grand Rapids and South Grand Rapids High Schools. He then taught school for two years before entering the Law School of the University of Michigan. He graduated in 1895, then in 1896 began the practice of law in Grand Rapids.</p>
+
+<p>Over the course of his career, Wykes became a specialist in laws affecting railroads. From 1897 to 1904 he was with the Michigan Attorney General's office, in charge of litigation against railroads and other corporations regarding their compliance with state laws regulating rates and tax liability. From 1904 to 1906, he was assistant general counsel of the Grand Rapids &amp; Indiana Railway Company.</p>
+
+<p>In May, 1907, he was elected a delegate to the state's Constitutional Convention, where he served on the Committee on Finance and Taxation.  From 1910 to 1911, Wykes was a member of the Grand Rapids Charter Commission. In 1912, he was a member and president of the Special Committee of Inquiry into Taxation Methods in the State of Michigan. That same year, he was appointed to fill out the un-expired term of the state's Attorney General. From 1915 to 1917, he was general counsel for the Association of Michigan Railways. During this same period of time, 1905-1920, Wykes was retained by the Attorney General as special counsel in railway, telegraph, telephone and express rate, tax and charter cases.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Roger Irving Wykes papers are comprised of four series: Correspondence; Michigan Constitutional Convention, 1907-1908; Miscellaneous; and Litigation Case Files. Most of the correspondence relates to his campaign for delegate to the Constitutional Convention. The great bulk of the Litigation series relates to his participation in the Duluth South Shore and Atlantic Railroad Company Rate Case.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Duluth South Shore and Atlantic Railway Company.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Grand Rapids Gas Company.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Dept. of Attorney General</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Constitutional Convention (1907-1908)</corpname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1899-1916.</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1917-1921.</geogname>
+<subject source="lcsh" encodinganalog="650">Public utilities--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Railroads--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
+
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+<persname source="lcnaf" encodinganalog="600">Wykes, Roger Irving, 1874-</persname>
+
+</controlaccess>
+
+
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Blair, Charles A. (Charles Austin), 1854-1912.</persname>
+<persname source="lcnaf" encodinganalog="700">Osborn, Chase S. (Chase Salmon), b. 1860</persname>
+<persname source="lcnaf" encodinganalog="700">Vandenberg, Arthur H. (Arthur Hendrick), 1884-1951.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> June 1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> July 1907</unitdate> </unittitle></did> <note><p>(include letters from Arthur H. Vandenberg)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> August 1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> September-December 1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1908">1908</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1910/1938">1910-1938</unitdate> (scattered)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Michigan Constitutional Convention, <unitdate type="inclusive" normal="1907/1908">1907-1908</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers, <unitdate type="inclusive" normal="1907">1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Scrapbook, <unitdate type="inclusive" normal="1907/1908">1907-1908</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Scrapbooks">Scrapbook</genreform>, <unitdate type="inclusive" normal="1912/1920">1912-1920</unitdate> concerning Wykes' political activities</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous family documents, autograph book, land abstract, etc.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Paper: "A Railway Rate Case; involving the power of, and limitations upon, public control and the means and procedure to, and the principles governing, relief from excesses of state authority"</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Diary of Hattie Jennings of trip from Ann Arbor to Europe, <unitdate type="inclusive" normal="1889">1889</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Litigation Case Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Grand Rapids Gas Light Company v. Michigan Trust Company</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Grand Rapids East Side Water Power, <unitdate type="inclusive" normal="1926">1926</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Duluth South Shore and Atlantic Railroad Company Rate Case, <unitdate type="inclusive" normal="1913/1914">1913-1914</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1913/1914">1913-1914</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive" normal="1913/1914">1913-1914</unitdate></unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

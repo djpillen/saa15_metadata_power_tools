@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader relatedencoding="Dublin Core" audience="internal">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::donabed.xml//EN" encodinganalog="identifier">
+umich-bhl-03136</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Avedis Donabedian papers, 1946-2000
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by Wendy Pflug, August 2003 </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+Feb. 2004</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, <date>Feb. 2003</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>200300804</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Avedis Donabedian, 1919-2000, <lb/>Papers, 1946-2000
+
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Wendy Pflug, August 2003</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<persname encodinganalog="100" source="lcnaf">
+Donabedian, Avedis, 1919-2000</persname></origination>
+
+<unittitle encodinganalog="245">
+Avedis Donabedian papers
+<unitdate encodinganalog="245$f" type="inclusive">
+1946-2000</unitdate></unittitle>
+
+<physdesc><extent encodinganalog="300">
+2.0 linear feet</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">03136 Aa 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>Professor of Public Health at the University of Michigan from 1961 to 1988, noted  for research in the field of quality assessment of public health and service. Papers contain biographical material, correspondence, and material related to his research and professional activities, including studies for the Community Health Association of Detroit, Michigan and background on various publications. </abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541">
+<p>The papers were transferred to the Bentley Historical Library (donor no. <num type="donor" encodinganalog="541$e">9245</num>) in August 2002 and March 2003. 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506" type="access">
+<p>The records are open to research.</p></accessrestrict>
+
+<userestrict encodinganalog="540">
+<p>Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Avedis Donabedian papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Avedis Donabedian was born January 7, 1919, in Beirut, Lebanon.  He attended American University of Beirut, where he earned a BA in 1940 and an MD in 1944, both with the title "with distinction."  Donabedian began his medical career as physician and acting superintendent of English Mission Hospital in Jerusalem from 1945 to 1947. In April 1947, he began a post-graduate course in pediatrics and child health at the University of London.  In 1948, he returned to his alma mater and began his teaching and research career as an instructor in physiology and clinical assistant in the departments of dermatology and venereology, a position he held until 1950.  During this time, Donabedian also kept up his medical practice as university physician at the American University of Beirut. </p>
+<p>In 1953, Donabedian immigrated to the United States to attend the Harvard School of Public Health.  In 1955, he graduated magna cum laude with a Master's degree in Public Health (M.P.H.).  Upon his graduation from Harvard University, he began research on what was to become his career specialty of medical care evaluation as a medical associate at the United Community Services of Metropolitan Boston from 1955 to 1957. In 1957 he was asked to return to the Harvard School of Public Health as a visiting lecturer in Medical Care for the 1957-1958 school year.</p>
+<p>After Harvard, Donabedian secured a position at New York Medical College, where he was named Assistant Professor of Preventative Medicine, Consultant to the Department of Physical Medicine and Rehabilitation, and Research Consultant on a study of rehabilitation in nursing home patients.</p>
+<p>In 1961 Donabedian came to the University of Michigan School of Public Health, as an Associate Professor of Public Health Economics.  He was promoted to full professor of Public Health Economics in July 1964.  In 1966 he was appointed Professor of Medical Care Organization.  During his long and distinguished career at the University of Michigan, Donabedian focused on the area of quality assessment and monitoring of health services.  This research helped establish the epidemiology of patient needs and the design of program benefits for the public and private sectors.  In recognition of his achievements in the field of public health, he was honored as the Nathan Sinai Distinguished Professor of Public Health in 1979.  Donabedian published eight books and wrote numerous articles in the field of health service.  He was most widely known for developing the "Donabedian paradigm," an idea that was the basis for the concept and design of the statistical model used for hospital rankings.  His work has been translated into several languages, and is known internationally.</p>
+<p>In 1989, Donabedian retired from the University of Michigan and was awarded emeritus status.  In retirement he frequently lectured at international conferences on public health and service.  He stayed active in the field by serving on various editorial boards for medical journals.  For relaxation he wrote poetry and studied Arabic.</p>
+<p>Donabedian's pioneering contributions to the development of systematic frameworks for understanding health service established him as one of the preeminent scholars in the field.  In 1999 he was awarded one of public health's highest honors, the Sedgwick Memorial Medal for Distinguished Service in Public Health, awarded by the American Public Health Association. </p>
+<p>Donabedian's many other honors have included the George Welch Medal of the American Medical Association (1976) and the Dean Conley Award (1969) by the American College of Hospital Administrators.  He was among the original members inaugurated in the Institute of Medicine of the National Academy of Sciences, honorary member of the National Academy of Mexico, and the Royal College of General Practitioners of the United Kingdom.  Foundations in his name have been established in Italy, Spain, and Argentina. </p>
+<p>Avedis Donabedian died November 9, 2000, in Ann Arbor, Michigan.  His wife Dorothy died in 2003.  He was survived by his sons Haig, Beij, and Armen.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The papers of Avedis Donabedian document his career as professor at the University of Michigan School of Public Health and in the medical research field from 1946 to 1997.  The papers are divided into three series: Correspondence, Research and Professional Activities, and Biographical.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Donabedian, Avedis.</persname>
+<subject source="lcsh" encodinganalog="650">Medical care--Quality control.</subject>
+<subject source="lcsh" encodinganalog="650">Health service administration.</subject>
+<subject source="lcsh" encodinganalog="650">Medical care--Evaluation.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. School of Public Health.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Medical Care Organization.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Community Health Association (Detroit, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<scopecontent><p>The Correspondence series, 1946-1997 (1.2 linear feet), contains professional communication concerning Donabedian's  work. It is the largest series in the collection, and reflects his long and distinguished career.  The correspondence series contains many letters inviting him to lecture at international public health colloquiums, communications with others professionals in his field, and requests for reprints of his work in medical anthologies.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1946/1991">1946-1991</unitdate></unittitle><physdesc><extent>18 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1992/1997">1992-1997</unitdate></unittitle><physdesc><extent>3 folders</extent></physdesc></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Research and Professional Activities</unittitle></did>
+<scopecontent><scopecontent><p>The Research and Professional Activities series, 1957-1993 (0.8 linear feet), documents Donabedian's scholarly work in the field of public health and service. Included are studies conducted early in his career such as prenatal studies, and the monitoring of health service provided by Community Health Associates in Detroit, Michigan.  Of particular note is a folder of yearly reports Donabedian submitted to the School of Public Health.  The reports give a detailed list of activities and research published from the years 1965 to 1988.</p></scopecontent></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Development of Community Health Associates, <unitdate type="inclusive" normal="1957/1959">1957-1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Prenatal Care Studies, <unitdate type="inclusive" normal="1958">1958</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Avedis Donabedian, MD, Consultants Management, <unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Community Health Associates</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Membership Statistics, <unitdate type="inclusive" normal="1960/1964">1960-1964</unitdate></unittitle><physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Research Projects, <unitdate type="inclusive" normal="1959/1964">1959-1964</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Service Statistics, <unitdate type="inclusive" normal="1960/1963">1960-1963</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Interviews with Metropolitan Hospital and Clinics Physicians, <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Windsor Medical Services Research Project, <unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Research Grant Information, <unitdate type="inclusive" normal="1961/1963">1961-1963</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Research Papers, <unitdate type="inclusive" normal="1958/1965">1958-1965</unitdate></unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>University of Michigan School of Public Health Course Materials, <unitdate type="inclusive" normal="1963/1967">1963-1967</unitdate>  (scattered)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Yearly Reports, <unitdate type="inclusive" normal="1965/1988">1965-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Editorial Board Reviews for Journals, <unitdate type="inclusive" normal="1975/1993">1975-1993</unitdate>  (scattered)</unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic">Medical Care Chartbook</title>, Eighth and Ninth Edition Revisions, <unitdate type="inclusive" normal="1980/1990">1980-1990</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Biographical</unittitle></did>
+<scopecontent><p>The Biographical series, 1953-2000 (0.2 linear feet), is a miscellaneous collection of papers and articles chronicling the personal life of Avedis Donabedian.  Included are his United States Citizenship papers, and license to practice medicine.  Also included are photos of Donabedian and his wife, Dorothy.  Of particular note are selected poems written by  Donabedian, which give insight into his personal thoughts.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Biography Miscellaneous, <unitdate type="inclusive" normal="1953/1993">1953-1993</unitdate>  (scattered)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Photographs</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Poetry, <unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Press Articles on Avedis Donabedian, <unitdate type="inclusive" normal="1962/1987">1962-1987</unitdate>  <unitdate type="inclusive" normal="2000">2000</unitdate> (scattered)</unittitle></did></c02></c01>
+
+
+
+</dsc></archdesc>
+
+</ead>

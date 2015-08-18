@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::carescw.xml//EN" encodinganalog="Identifier">
+umich-bhl-2010201</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Charles W. Cares, Jr. drawings, 1951-2005
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Jessica L. Scott, October 2010</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2010=12-14</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-MD-DD</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Charles W. Cares, Jr.  drawings, 1951-2005</titleproper>
+
+<author>Finding aid created by<lb/> 
+Jessica L. Scott, October 2010</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Cares, Charles W.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Charles W. Cares, Jr.  drawings 
+<unitdate type="inclusive" encodinganalog="245$f">
+1951-2005
+</unitdate>
+</unittitle>
+<physdesc><extent encodinganalog="300">
+7 outsize folders
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2010201 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Charles W. Cares, Jr. was a professor of landscape architecture in the School of Natural Resources and Environment at the University of Michigan from 1959 to 1986. He was also Director of the Nichols Arboretum from 1968 to 1986. This collection consists of landscape drawings, drafted in pencil (and occasionally colored), of residences and parks in the Ann Arbor area and select projects outside of Ann Arbor that have special significance.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Material was received in September 2010 (donor <num type="donor" encodinganalog="541$e">10430</num>). 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open without restriction.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Charles W. Cares, Jr.  drawings, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Charles William Cares, Jr. was born on October 29, 1918, in Meadville, Pennsylvania. "He spent his childhood in Cleveland, Ohio, where his love of plants and agriculture was fostered by working on the family farm and in his mother's flower shops."[1] He received his Bachelor of Art degree from Allegheny College in Pennsylvania in 1939, his Bachelor of Science degree in Landscape Architecture from Michigan State University in 1950, and a Master of Landscape Architecture degree from Harvard University in 1958. Following his graduation from Allegheny College, he managed a family florist business in Cleveland for two years. He joined the U.S. Navy from 1941 to 1946, and for the next two years he was a partner at a sporting goods store in Meadville, Pennsylvania. "In 1950, he joined the landscape architecture firm of Ralph E. Griswold and Associates in Pittsburgh."[2] He also served as an associate professor of landscape architecture at Cornell University beginning in 1951, in the Department of Floriculture and Ornamental Horticulture. His major project there was organizing the "planting and site plans for the freshmen dormitory group at Ithaca College."[3] Much of his earlier work is located in central New York State. </p>
+
+<p>Cares joined the University of Michigan as an associate professor of landscape architecture in 1959. In 1964, he was promoted to professor, and in 1969 was appointed chair of the Department of Landscape Architecture. The professional organizations which Cares was a member of included the American Society of Landscape Architects, the American Institute of Architects, and the Michigan Academy of Arts and Sciences. "He was also the Michigan liaison for the National Chair for Historic Preservation, and a registered landscape architect in the states of New York and Michigan."[4] He also participated in private consulting, by providing landscape architecture services to organizations such as Ithaca College, the Reflection Riding Arboretum, the Sapelo Island Foundation, Wells College, and residential and public developments in Michigan, New York, and Pennsylvania.[5] He was named Professor Emeritus of Landscape Architecture by the Regents of the University of Michigan upon his retirement from active faculty status in July 1986. </p>
+
+<p>Cares was the Director of the Nichols Arboretum from 1968 to 1986, and also designed the landscape for many of its areas. At this time, "conscious efforts were renewed to carefully steward natural areas in the Arboretum," and Cares specifically took part in encouraging the native prairie grasses in Dow Field to be established.[6] In the early 1960s, Cares also assisted in providing the planting plans for what would be designated the Matthaei Botanical Gardens, including the "creation of Willow Pond, under the architects Edward A. Eichstadt and Carl Johnson of Eichstadt and Grissom Associates of Detroit, Michigan."[7] </p>
+
+<p>"Landscape quality of man-dominated environments, rural and urban, had been his research area and he also took an active part in the planning of Ann Arbor Township, including chairing the Ann Arbor Township Planning Board and Ann Arbor Township Zoning Board of Appeals."[8]</p>
+
+<p>Cares died September 22, 2010, in Ann Arbor, Michigan. He was married to Marian McKee (deceased 2006) for 58 years, and they had four children. </p>
+
+<p>_____________________</p>
+
+<p>Notes</p>
+
+<p>1) Michigan Live LLC. "Charles W. 'Chuck' Cares Jr." Last modified September 25, 2010. Accessed October 21, 2010. http://obits.mlive.com/obituaries/annarbor/obituary.aspx?n=charles-w-cares-chuck&amp;pid=145608090.</p>
+<p>2The University of Michigan Regents Communication. Subject: Report of Faculty Retirement, Action Requested: Adoption of Memoir. July 1986. </p>
+<p>3) ibid. </p>
+<p>4) The University of Michigan Regents Communication. Subject: Report of Faculty Retirement, Action Requested: Adoption of Memoir. July 1986. </p>
+<p>5) The University of Michigan Regents Communication. Action Request: Reappointment of Instructional Retiree, Name: Charles W. Cares, Jr., Title: Professor Emeritus of Landscape Architecture. October 1986. </p>
+<p>6) "A Century of Growing, 1907-2007.": 3. </p>
+<p>7) ibid., 6. </p>
+<p>8) The University of Michigan Regents Communication. Subject: Report of Faculty Retirement, Action Requested: Adoption of Memoir. July 1986. </p>
+
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>This collection covers most of Cares' professional career, although it is only a reflection of his style of work, and not a comprehensive view. The drawings are mostly of residential properties, although the collection also covers a few public parks, office buildings, and other non-residential buildings. The majority of the designs are in pencil, with a select few in ink or coloring materials (which are not consistently used throughout his career.) The paper used for the drawings includes tracing paper, drafting paper, and blueprint paper.</p>
+
+<p>Cares' style of drawing is very soft, since he often worked in pencil and rarely used inks or colors for his drawings. However, the complexity of his projects could range from a simple sketch to a highly detailed mapping of a landscape, with labels indicating which trees and flora were to be placed in a given location. Occasionally a list of the plants to be used at the site would be provided along with the drawing. Cares was very consistent in labeling his projects, where information was commonly placed in the lower right corner of the drawing, such as the owner's name, site name, or site address (house number, street name, town name), as well as the date of the project. </p>
+
+<p>The scope of this collection includes projects that were completed in the Ann Arbor area, with the exception of projects bearing special significance (see the "Other (Non-Ann Arbor)" folder.) The drawings were not received in any discernable order. As such they have been broadly categorized by location, and there is no item level control of the drawings. The collection consists of seven oversize folders. </p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Edsel &amp; Eleanor Ford House.</corpname>
+<persname source="lcnaf" encodinganalog="600">Cares, Charles W.</persname>
+<subject source="lcsh" encodinganalog="650">Landscape architecture.</subject>
+<subject source="lcsh" encodinganalog="650">Landscape architecture--Michigan--Ann Arbor.</subject>
+<geogname source="lcsh" encodinganalog="651">Nichols Arboretum (University of Michigan)</geogname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Matthaei Botanical Gardens.</corpname>
+
+</controlaccess>
+
+
+
+
+
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="gmgpc" encodinganalog="655">Landscape architecture drawings.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Landscape Drawings</unittitle></did>
+<scopecontent><p>The Ann Arbor Projects folders contain landscape drawings from the years 1960 to 2009 (roughly) and consist of mostly residential properties within Ann Arbor. Some significant highlights include Cares' work with other prominent local architects such as Robert Metcalf and David Osler. </p>
+
+<p>The Edsel Ford Residence folder contains landscape design drawings (aerial view), sketches, and conceptual layouts of different viewing points of the Edsel and Eleanor Ford House at Grosse Pointe Shores, Michigan. </p>
+
+<p>The University of Michigan Buildings folder contains landscape drawings of the sites that Cares was involved in while at the University of Michigan, including the Nichols Arboretum, Matthaei Botanical Gardens, Kelsey Museum of Archaeology, areas on North Campus, and the residence of Harold T. Shapiro, former president of the University of Michigan.</p>
+
+<p>The Other (Non-Ann Arbor) folder contains work completed by Cares that is of special significance and not located in the Ann Arbor area. This includes drawings for the Cares family residences (both in Michigan and Colorado), Kingswood School at Cranbrook (Bloomfield Hills, MI), Grosse Ile Parkway, International Flower Show in 1962 (New York City), Adams Park (Tecumseh, MI), William H. Seward House (Auburn, NY), and Ithaca College (Ithaca, NY). There are also unlabeled conceptual drawings of houses (versus having the landscape be an aerial view, which was more common in Cares' style), and selected drawings from other locations outside of Ann Arbor that best highlight Cares' style and complexity in his work.</p>
+</scopecontent>
+<c02 level="file"><did><container type="map-case" label="Drawer">1</container><unittitle>Ann Arbor Projects </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="map-case" label="Drawer">1</container><unittitle>Edsel Ford Residence</unittitle></did></c02>
+<c02 level="file"><did><container type="map-case" label="Drawer">1</container><unittitle>University of Michigan Buildings</unittitle></did></c02>
+<c02 level="file"><did><container type="map-case" label="Drawer">1</container><unittitle>Other (Non-Ann Arbor)</unittitle></did></c02></c01>
+</dsc></archdesc>
+
+</ead>

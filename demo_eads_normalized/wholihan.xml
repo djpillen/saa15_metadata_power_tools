@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::wholihan.xml//EN" encodinganalog="Identifier">
+umich-bhl-85452</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Timothy W. Wholihan papers, 1867-1948
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>August 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-08-28</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Timothy W. Wholihan papers, 1867-1948</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff, March 1980</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Wholihan, Timothy W.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Timothy W. Wholihan papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1867-1948
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.3 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85452 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Railroad fireman, 1882-1887, and engineer, 1887-1934, for the Michigan Central Railroad. Miscellaneous personal and collected material relating to his interest in railroads, the Brotherhood of Locomotive Engineers, and his work with the Michigan Central Railroad; include membership cards and certificates, clippings, time tables, ca. 1870-1905, tire report, 1893, wage agreement, 1887, and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Dr. and Mrs. John W. Wholihan (donor no. <num type="donor" encodinganalog="541$e">6445</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Timothy W. Wholihan papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Timothy W. Wholihan was long-time employee of the Michigan Central Railroad. He worked as railroad fireman from 1882 to 1887, and then as an engineer from 1887 to 1934.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Wholihan collection is a small collection of miscellaneous materials accumulated by Wholihan as fireman and engineer with the Michigan Central Railroad. There are three small series in the collection: Miscellaneous; Brotherhood of Locomotive Engineers; and Michigan Central Railroad.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Brotherhood of Locomotive Engineers (U.S.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan Central Railroad Company.</corpname>
+<subject source="lcsh" encodinganalog="650">Railroads--Michigan.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<geogname source="lcsh" encodinganalog="651">Jackson (Mich.)</geogname>
+<geogname source="lctgm" encodinganalog="651">Leonidas (Mich.)--Railroad stations.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Michigan Central Railroad Company</corpname>
+<subject source="lctgm" encodinganalog="650">Railroad accidents.</subject>
+<subject source="lctgm" encodinganalog="650">Railroad stations--Michigan--Leonidas.</subject>
+<subject source="lctgm" encodinganalog="650">Railroads--Michigan.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous papers, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership cards in various railroad organizations, <unitdate type="inclusive" normal="1885/1923">1885-1923</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clipping, <unitdate type="inclusive" normal="1948">1948</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Brotherhood of Locomotive Engineers, <unitdate type="inclusive" normal="1885/1944">1885-1944</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous certificates, <unitdate type="inclusive" normal="1885/1944">1885-1944</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clipping, <unitdate type="inclusive" normal="1942">1942</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Michigan Central Railroad, <unitdate type="inclusive" normal="1867/1919">1867-1919</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous information, <unitdate type="inclusive" normal="1867/1919">1867-1919</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clipping on <unitdate type="inclusive" normal="1893">1893</unitdate> train wreck</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Timetables, <unitdate type="inclusive">ca. 1870-1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Tire report, <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Wage agreement, <unitdate type="inclusive" normal="1887">1887</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

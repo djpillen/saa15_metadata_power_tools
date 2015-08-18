@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::michacad.xml//EN" encodinganalog="Identifier">
+umich-bhl-851827</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Michigan Academy of Science, Arts and Letters records, 1894-1980
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Marjorie Barritt, June 1982</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2006-08-07</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-08-07</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Michigan Academy of Science, Arts and Letters <lb/>Records, 1894-1980
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Marjorie Barritt, June 1982
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Michigan Academy of Science, Arts and Letters.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Michigan Academy of Science, Arts and Letters records
+<unitdate type="inclusive" encodinganalog="245$f">
+1894-1980
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851827 Bimu N201 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Papers, 1894-1980, of the Michigan Academy of Science, Arts and Letters (named the Michigan Academy prior to 1921), a professional association of researchers and academicians.  Include minutes, financial records, membership lists, and founding documents. </abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+These materials were received from the Michigan Academy of Science, Arts and Letters (Donor Numbers <num type="donor" encodinganalog="541$e">972</num> and <num type="donor" encodinganalog="541$e">1558</num>) in several accessions beginning in 1941.
+
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506">
+<p>The collection is open without restriction.</p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Michigan Academy of Science, Arts and Letters Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>In March of 1892, University of Michigan zoology professor J. E. Reighard addressed a circular letter to well-known men in Michigan discussing the possible formation of a state society of naturalists "to comprise zoologists, botanists and physiologist."  This effort was unsuccessful, but in 1894, Professors F. C. Newcombe, botany, J. B. Steere, zoology, and W. P. Lombard, physiology, Called for a meeting to organize a society whose role would be to co-ordinate scientific research and improve methods of teaching.</p>
+
+<p>At a meeting on June 27, 1894, officers were elected for the newly formed Michigan Academy of Science. W. J. Beal was elected President, J. B. Steere, Vice President, and F. C. Newcombe, Secretary-Treasury. Sixteen persons attended from the University of Michigan; also represented were the Agricultural College at East Lansing, the State Normal School at Ypsilanti, Hillsdale, Alma and Adrian Colleges, and the cities of Detroit, Grand Rapids, Bay City, and Ann Arbor.</p>
+
+<p>The Michigan Academy grew in numbers; members were added from new fields of interest. In recognition of its expanded interest sections, the Academy changed its name in 1921 to the Michigan Academy of Science, Arts and Letters. By 1950 there were eighteen interest sections including: Anthropology, Botany, Economics, Fine Arts, Folklore, Forestry, Geography, Geology and Mineralogy, History and Political Science, Mathematics, Philosophy, Psychology, Sanitary and Medical Science, Sociology and Zoology. The Academy encompassed people beyond the Colleges and universities and offered a forum for the presentation and publication of papers in the above fields.</p>
+
+<p>From 1899 to 1921, the state legislature appropriated funds directly to the Academy for the publication of papers. In 1921 the University of Michigan Press undertook the publication of the annual volume of Papers. As a result of receiving a four-year grant from the Kellogg Foundation in 1963, the Michigan Academy reorganized. A permanent secretariat was established to undertake the organizational and publication duties, which had previously been carried out by volunteers. The annual Papers were replaced by a quarterly journal, <title render="italic">The Academician</title>.</p>
+
+<p>Through most of its history, i.e. the years documented by these records, the Michigan Academy was administered by a Council, which met twice yearly. The Council consisted of the Executive Officers, the Section Chairmen, the chairmen of standing committees and the past Presidents. The standing committees of the Academy were: membership, public welfare, state land policy, honorable mention, preservation of natural resources and the Junior Academy.</p>
+
+<p>"All persons engaged in research, the promotion of literature or the arts, or the dissemination of knowledge" were eligible for membership. The annual two-day membership meeting combined a business session, an address by the outgoing President and the reading of papers before the various sections. Besides its stimulation of research and publication the Academy prepared resolutions on public policy and lobbied in support of those resolutions.</p>
+
+<p>In 1946, the Junior Academy was formed to encourage scholarly work among high school and college age persons. The Junior Academy affiliated with the American Association for the Advancement of Science, and sponsored the State Science Talent Search.</p>
+
+<p>According to the Academy's website housed at Alma College (http://www.alma.edu/michiganacademy/), in 2006, over half of its members were faculty and graduate students supporting Michigan colleges and universities, while others included "independent scholars, scholars from other states, and people engaged in relevant research in business and government."  Activities included an annual meeting and two publications, <title render="italic">The Academician</title> and the <title render="italic">Academy Letter</title>, a newsletter published three times per year.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Michigan Academy of Science, Arts and Literature papers is organized into three series: Minutes of Annual Meeting and Semiannual Council Meetings, Financial Ledgers and Auditor's Reports, and Organizational Files.</p>
+
+<p>The heart of the documentation of the Michigan Academy of Science, Arts and Literature is the series of minutes of the annual meeting and the semiannual council meetings. The minutes include reports of the standing committees, Treasurer's, Auditor's, and Librarian's reports, and text of all resolutions passed. (The minutes also appear in the published Annual Reports along with the program of the Annual Meeting, the Presidential and General Address, and membership lists.) The Minutes and Reports for 1894-1905<title render="italic"/> are bound and include a history of the founding of the Michigan Academy written by F. C. Newcombe.</p>
+
+<p>The financial ledgers 1904-1937 are bound. Auditor's reports prior to 1964 are filed with the minutes of the annual business meeting. After 1964, the minutes files are incomplete.  Therefore, the complete run of auditor's reports, 1964-1980, are separately foldered.</p>
+
+<p>Much of the correspondence in this collection was of a routine nature. Many letters were exchanged regarding physical arrangements for meetings or regarding publication deadlines. Routine correspondence was separated from the collection. The organizational files also included a quantity of routine material. Membership lists, drafts of resolutions, and other material appearing in the manuscript minutes or in the published Annual Report were also separated from the collection. Beginning in 1953 membership lists were no longer printed in the Annual Report therefore membership information after 1953 was kept with the collection.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Arts.</subject>
+<subject source="lcsh" encodinganalog="650">Education--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Science.</subject>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Minutes of Annual Meeting and Semiannual Council Meetings</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1894/1905">1894-1905</unitdate> </unittitle> <physdesc><physfacet>(1 bound volume</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1906/1967">1906-1967</unitdate> </unittitle> <physdesc><extent>9 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Financial Ledgers and Auditor's Reports</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Ledgers, <unitdate type="inclusive" normal="1904/1937">1904-1937</unitdate> </unittitle> <physdesc><extent>4 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Auditor's Reports, <unitdate type="inclusive" normal="1908/1970">1908-1970</unitdate> </unittitle> <physdesc><extent>11 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Organizational Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Articles of Incorporation and Constitutions, <unitdate type="inclusive" normal="1923/1968">1923-1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Membership Lists and Officers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Interest Sections</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Junior Academy, <unitdate type="inclusive" normal="1942/1968">1942-1968</unitdate></unittitle></did></c02></c01>
+
+</dsc>
+
+
+<descgrp type="add">
+<relatedmaterial>
+<head>Related Material</head>
+<p>Also available to researchers in the Bentley Library's printed collection are Michigan Academy published material, including the <title render="italic">Annual Report</title>, the <title render="italic">Academy Letter</title>, the <title render="italic">Programs of Annual Meetings</title>, the <title render="italic">Bulletin</title>, and the <title render="italic">Papers of the Michigan Academy of Science, Arts and Literature</title>.</p></relatedmaterial>
+</descgrp>
+</archdesc>
+
+
+
+</ead>

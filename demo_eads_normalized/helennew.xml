@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::helennew.xml//EN" encodinganalog="identifier">
+umich-bhl-87184</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Helen Handy Newberry Residence(University of Michigan) records, 1915-1947
+
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Elena B. Teaford, January 1992
+</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+January 2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Leslie Knoblauch, 
+<date>January 2005</date></creation>
+
+<langusage>The finding aid is written in<language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050121</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>Helen Handy Newberry Residence<lb/>(University of Michigan)<lb/>Records, 1915-1947<lb/> 
+
+
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Elena B. Teaford<lb/>
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Helen Handy Newberry Residence (University of Michigan)
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Helen Handy Newberry Residence (University of Michigan) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1915-1947
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+.5 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+87184 Bimu F44 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The collection the Helen Newberry Residence contains adminsitrative files and information relating to the history of the Helen Handy Newberry Residence at the University of Michigan. 
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+This record group was transferred from the office of Helen Newberry Residence in 1960.(Donor #
+<num type="donor" encodinganalog="541$e">3640</num>).
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The records are open to research.</p>
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Helen Handy Newberry Residence(University of Michigan) Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Helen Handy Newberry Residence was one of the first residence halls to be built on the University of Michigan campus.  The hall was built to house women students and continues to be used for this purpose.  In the summer of 1913, Truman Handy Newberry, John Stought Newberry, and Helen Newberry Joy contributed approximately $75,000 to the Student Christian Association to erect a women's dormitory in memory of their mother Helen Handy Newberry.  The residence was designed by the firm of Kahn and Wilby of Detroit and built by C. H. Christman of Lansing.  It is a four story semi-fireproof building with a white stucco exterior.  Under the provisions of the bequest, the residence was to be owned by the Student Christian Association, but built and administered by the university.  In 1924, the university purchased the building from the Student Christian Association.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520"><p>
+This small 0.5 linear feet collection contains administrative records from the early years of Newberry Hall, 1915-1947.  The first folder contains the minutes of the Board of Governors for the years, 1915 to 1925.  The board was made up of five women.  These women included the Dean of Women and at least two women who were University of Michigan graduates or who had been students.  This board was appointed by the regents from those nominated by the Board of Trustees of the Students Christian Association.  The second folder includes brief historical and financial records.  These records give a brief financial history of the opening of the residence hall.  This includes an interesting discussion of the separate roles of the university and the Student Christian Association in the upkeep of the building.  There is a folder of budget summaries and a folder containing audits performed between 1927 and 1931.  The Food Services records include the number of meals served and an example of the cost for guest meals. The last folder is the architectural contract from Kahn and Wilby for alterations to Newberry Hall
+</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+
+<corpname source="lcnaf" encodinganalog="610">Helen Handy Newberry Residence (University of Michigan)</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing.</corpname>
+<subject source="lcsh" encodinganalog="650">Dormitories--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Women college students--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
+
+
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform>Administrative Records</genreform></controlaccess></controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Administative Records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive" normal="1915/1925">1915-1925</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History and Financial Reports, <unitdate type="inclusive" normal="1923/1924">1923-1924</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Budget Reports <unitdate type="inclusive" normal="1933">1933</unitdate>, <unitdate type="inclusive" normal="1945/1946">1945-1946</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Audits, <unitdate type="inclusive" normal="1927/1931">1927-1931</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Food Service, <unitdate type="inclusive" normal="1943/1947">1943-1947</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Architectural Contracts, <unitdate type="inclusive" normal="1922">1922</unitdate></unittitle></did></c02></c01>
+
+
+</dsc>
+</archdesc>
+</ead>

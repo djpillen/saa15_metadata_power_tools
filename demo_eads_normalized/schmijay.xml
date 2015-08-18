@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::schmijay.xml//EN" encodinganalog="Identifier">
+umich-bhl-852222</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Jay Handler Schmidt papers, 1918-1968
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>November 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-11-16</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Jay Handler Schmidt papers, 1918-1968</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Schmidt, Jay Handler, 1891-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Jay Handler Schmidt papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1918-1968
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+852222 Aa 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Alumnus of University of Michigan, and secretary of the University of Michigan Club of Suburban New Jersey. Correspondence and other materials relating to his alumni activities and his continuing interest in University affairs; and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Jay Schmidt (donor no. <num type="donor" encodinganalog="541$e">2139</num>) and came to the library mainly in 1971 and 1974.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Jay Handler Schmidt papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Jay H. Schmidt graduated from the University of Michigan School of Engineering in 1916, with a degree in chemical engineering. He served in France during World War I, and did graduate work at the University of Montpellier (France) as a member of the Army School Detachment. In 1925, Schmidt founded Special Toiletries Corp., a contract cosmetics firm. He was president of the firm until his retirement in 1948.</p>
+
+<p>Schmidt was a very loyal alumnus of the University of Michigan. He was a member of the University of Michigan Club of New York Scholarship Committee, an officer of the First District Alumni Association, and organizer and officer of the University of Michigan Club of Suburban New Jersey.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Schmidt collection consists of 0.4 feet of papers covering the years 1918-1968, though concentrating in the period since 1944. There is a small folder of materials detailing his World War I service and a few letters concerning his interest in perfumes and fragrances. The collection also contains two folders and several letters relating to Schmidt's work as board member and fund-raiser on behalf of the University of Michigan Committee, Thomas E. Dewey for President, during the 1944 and 1948 elections. Much of the collection concerns other alumni activities, including a sample of letters relating to recruiting prospective students for the University of Michigan.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Dewey, Thomas E. (Thomas Edmund), 1902-1971.</persname>
+<subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1944.</subject>
+<subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1948.</subject>
+<geogname source="lcsh" encodinganalog="651">United States--Politics and government--1933-1953.</geogname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Alumni and alumnae.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Alumni Association.</corpname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<persname source="lcnaf" encodinganalog="600">Dewey, Thomas E. (Thomas Edmund), 1902-1971.</persname>
+<geogname source="lcsh" encodinganalog="651">France.</geogname>
+<geogname source="lcsh" encodinganalog="651">Germany.</geogname>
+<subject source="lctgm" encodinganalog="650">Military bands.</subject>
+<subject source="lctgm" encodinganalog="650">Military parades and ceremonies.</subject>
+<subject source="lctgm" encodinganalog="650">Victory celebrations--France.</subject>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Personal and political</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1943/1968">1943-1968</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>World War I miscellanea</unittitle></did></c02>
+<c02 level="file"><did><unittitle>University of Michigan Committee, Thomas E. Dewey for President</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1944">1944</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Bills, disbursements, and other financial papers, <unitdate type="inclusive" normal="1944">1944</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence concerning the possibility of organizing U-M Alumni to support Dewey for president in <unitdate type="inclusive" normal="1948">1948</unitdate>, <unitdate type="inclusive" normal="1947/1948">1947-1948</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>University of Michigan Alumni Activities</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alumni Association of the University of Michigan, First District, <unitdate type="inclusive" normal="1944/1962">1944-1962</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>University of Michigan Club of New York, Scholarship Committee</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Agendas and minutes, <unitdate type="inclusive" normal="1946/1952">1946-1952</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters (sample) typical of his activities in recruiting prospective students for the U-M, <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>University of Michigan Club of Suburban New Jersey</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes and treasurer's statements, <unitdate type="inclusive" normal="1948/1963">1948-1963</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Alumni Association of the University of Michigan</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive" normal="1959/1962">1959-1962</unitdate> of Student Governors Conference</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>University of Michigan Alumni Clubs Council</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers, <unitdate type="inclusive" normal="1946/1952">1946-1952</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes of various University of Michigan Clubs in New York and New Jersey, <unitdate type="inclusive" normal="1946/1950">1946-1950</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alumni Association of the University of Michigan, <title render="italic">Field Secretary's Bulletin</title>, <unitdate type="inclusive" normal="1947/1961">1947-1961</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Michigan New Jersey News</title>, published by University of Michigan Club of Suburban New Jersey, <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>College of Engineering of the University of Michigan. <title render="italic">A survey of fund raising resources and a plan of campaign</title> </unittitle></did> <note><p>(mimeographed booklet prepared by Kersting, Brown and Co. 1948)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence concerning a projected article about residents of Putney, Vermont, who moved to the Western Reserve, Ohio, <unitdate type="inclusive" normal="1955/1959">1955-1959</unitdate> </unittitle></did> <note><p>(includes map of Putney showing location of cellar holes)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellanea (drafts of letters and letters of editors)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>University of Michigan and Thomas Dewey</unittitle></did></c02>
+<c02 level="file"><did><unittitle>World War I</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>French countryside and cities</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Military activities and the Front</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Victory celebrations</unittitle></did></c03></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

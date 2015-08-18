@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::thomrobt.xml//EN" encodinganalog="Identifier">
+umich-bhl-88574</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+A History of Michigan in Paintings, ca. 1964-1967
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-02-17</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+A History of Michigan in Paintings, ca. 1964-1967</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Thom, Robert A.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+A History of Michigan in Paintings 
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1964-1967
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+25 pictures (in 1 folder)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+88574 UAm
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The prints were distributed by the Michigan Historical Commission through the John M. Munson Michigan History Fund.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p><title render="italic">A History of Michigan in Paintings</title> was a series of paintings commissioned by Michigan Bell Telephone Company to advance the knowledge of the State of Michigan's "colorful and exciting development." Robert Thom was the artist. F. Clever Bald wrote the accompanying text for the graphic reproductions of the paintings.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The prints are illustrative of significant moments in the history of Michigan from pre-history to World War II.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lcsh" encodinganalog="650">Automobiles--Michigan</subject>
+<persname source="lcnaf" encodinganalog="600">Cadillac, Antoine Laumet de Lamothe, 1658-1730.</persname>
+<persname source="lcnaf" encodinganalog="600">Cass, Lewis, 1782-1866.</persname>
+<geogname source="lcsh" encodinganalog="651">Detroit (Mich.)--Pictorial works.</geogname>
+<geogname source="lcsh" encodinganalog="651">Fort Michilimackinac (Mackinaw City, Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Fort Mackinac (Mackinac Island, Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Fur trade--Michigan.</subject>
+<persname source="lcnaf" encodinganalog="600">Harvey, Charles Thompson, 1829-1912.</persname>
+<persname source="lcnaf" encodinganalog="600">Houghton, Douglass, 1809-1845.</persname>
+<subject source="lcsh" encodinganalog="650">Indians of North America--Michigan.</subject>
+<subject source="local" encodinganalog="690">Interiors--Schools.</subject>
+<persname source="lcnaf" encodinganalog="600">Joliet, Louis, 1645-1700.</persname>
+<geogname source="lcsh" encodinganalog="651">Kalamazoo (Mich.)--Pictorial works.</geogname>
+<persname source="lcnaf" encodinganalog="600">La Salle, Robert Cavelier, sieur de, 1643-1687.</persname>
+<geogname source="lcsh" encodinganalog="651">Lansing (Mich.)--Pictorial works.</geogname>
+<subject source="lctgm" encodinganalog="650">Lumber industry.</subject>
+<persname source="lcnaf" encodinganalog="600">Marquette, Jacques, 1637-1675.</persname>
+<geogname source="lcsh" encodinganalog="651">Marquette (Mich.)--Pictorial works.</geogname>
+<persname source="lcnaf" encodinganalog="600">Mason, Stevens Thomson, 1811-1843.</persname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Capital and capitol.</geogname>
+<geogname source="lcsh" encodinganalog="651">Michigan--History.</geogname>
+<persname source="lcnaf" encodinganalog="600">Perry, Oliver Hazard, 1785-1819.</persname>
+<geogname source="lcsh" encodinganalog="651">Pictured Rocks (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Railroads--Michigan.</subject>
+<persname source="lcnaf" encodinganalog="600">Saint Lusson, Simon François Daumont, sieur de, fl. 17th cent.</persname>
+<geogname source="lcsh" encodinganalog="651">Sault Sainte Marie (Mich.)--Pictorial works.</geogname>
+<geogname source="lcsh" encodinganalog="651">Sault Sainte Marie Canal (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Ships--Great Lakes.</subject>
+<geogname source="lcsh" encodinganalog="651">United States--History--War of 1812.</geogname>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Infantry Regiment, 24th (1862-1865).</corpname>
+<corpname source="lcnaf" encodinganalog="610">Willow Run Bomber Plant.</corpname>
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Bald, F. Clever (Frederick Clever), 1897-1970.</persname>
+<corpname source="lcnaf" encodinganalog="710">Michigan Historical Commission.</corpname>
+<corpname source="lcnaf" encodinganalog="710">Michigan Bell Telephone Company.</corpname></controlaccess>
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>A History of Michigan in Paintings</unittitle></did>
+<c02 level="file"><did><unittitle>Set 1</unittitle></did>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Before History: 10, 000 B.C.</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Michigan Indians: Algonquin village about 1500 A.D.</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Sieur de La Salle and the "Griffon": St. Ignace, August 27, 1679</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Massacre at Michilimackinac: June 2, 1763</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Set 2</unittitle></did>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Mme. Cadillac arrives at Detroit: October 1701</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Perry transfers to the "Niagara": September 10, 1813</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>The Americans take over Fort Mackinac: September 1, 1796</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Lewis Cass expedition: May 25-September 23, 1820</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Set 3</unittitle></did>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Douglass Houghton finds copper: 1840</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>The Capitol moves to Lansing: January 3, 1848</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Charles Harvey builds the locks: 1853-1855</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Putting the world on wheels: 1913</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Set 4</unittitle></did>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>When Pine was King: 1840-1890</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>The Detroit fire: June 11, 1805</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Furs-Trappers-Traders: 1660-1850</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>The boy governor: July 24, 1831</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Set 5</unittitle></did>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Detroit-world port: 1965</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Joliet and Marquette: May 17, 1673</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>The pageant of the Sault: June 14, 1671</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>The one-room school: 1861</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Set 6</unittitle></did>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Michigan in the Civil War: 1861-1865</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Michigan fever: 1836</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>The iron horse: July 1837</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Riches underground: 1966</unittitle></did></c03>
+<c03 level="file"><did><container type="folder" label="Oversize Folder">UAm</container><unittitle>Arsenal of Democracy: World War II</unittitle></did></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

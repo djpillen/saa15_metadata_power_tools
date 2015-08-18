@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::mwomepub.xml//EN" encodinganalog="Identifier">
+umich-bhl-97118</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+M Wwomen publications, 1980-1998
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by Marilyn M. McNitt, October 1997
+</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2009">
+2009</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2009-01-20</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+M Women publications
+</titleproper>
+      <author>Finding aid created by<lb/> 
+Marilyn M. McNitt, October 1997
+</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Michigan Women’s Athletic Association
+</corpname></origination>
+      <unittitle encodinganalog="245">
+M Women publications
+<unitdate type="inclusive" encodinganalog="245$f">
+1980-1998
+</unitdate>
+
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+0.2 linear foot
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+97118 Bimu 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Volunteer organization dedicated to the support and growth of women's varsity athletics at the University of Michigan, founded in 1979.  Publications include annual reports, brochures, directories, and newsletters entitled M Women, M Women Newsletter, and the University of Michigan Women's Athletic Association Newsletter
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+Publications are received periodically from the unit (donor #<num type="donor" encodinganalog="541$e">8586</num>) and Sheryl Szady (donor #<num type="donor" encodinganalog="541$e">7769</num>).
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>Periodic additions to the records expected.</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>The publications are open to research.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+M Wwomen publications, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Prior to the passage of Title IX in 1972, women's sports did not enjoy varsity status nationally.  This legislation was passed in an effort to end this and other discriminatory practices at schools that received federal funds.  Two examples of the types of discrimination that occurred were that men had varsity athletics and women did not and men had funding and scholarships available and women did not.  When Title IX was passed the University of Michigan chose seven women's club sports to elevate to varsity sport status for the 1973-74 school year; these included: tennis, basketball, swimming, diving, synchronized swimming, volleyball and field hockey.  Women who participated in these varsity sports at the University of Michigan were eligible for the block "M" athletic letter in 1974.  Men who received letters also became members of the M Club (a men's social club).  The M Club had no female athletes among its members.  The idea for a women's club for female athletes, similar to that of the M Club, was proposed in 1978.  The Michigan Women's Athletic Association "M-Women" was founded in 1979.  The group began its meetings in 1980 with Helen Morsink as its first president.  The mission statement of the organization is to "promote, foster, and assist in the growth and promotion of the University of Michigan's women's athletic programs."  The group became dedicated to helping fund female athletes by providing fellowships and scholarships to student athletes and their coaches.  Membership to the M-Women is open to both fans and athletes, male or female.  </p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Unit Publications series includes annual reports entitled <title render="italic">President's Annual Report</title>, brochures, directories, and invitations.  The newsletters were first published in September 1980 under the title<title render="italic">The University of Michigan Women's Athletic Association Newsletter</title>.  It continued under this title until June 1982.  In December 1982 the title changed to <title render="italic">M Women Newsletter</title>.  Publication under this title continued at least until Spring/Summer 1986.  The Bentley Library holds issues of a third newsletter <title render="italic">M Women</title> from Winter 1988 through the present.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. Michigan Women's Athletic Association.</corpname>
+        <title source="aacr2" encodinganalog="740">M women.</title>
+        <title source="aacr2" encodinganalog="740">M women newsletter.</title>
+        <title source="aacr2" encodinganalog="740">University of Michigan women's athletic association newsletter.</title>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Annual reports.</genreform>
+        <genreform source="aat" encodinganalog="655">Pamphlets.</genreform>
+        <genreform source="aat" encodinganalog="655">Directories.</genreform>
+        <genreform source="aat" encodinganalog="655">Newsletters.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Unit Publications</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Annual Reports</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <title render="italic">President's Annual Report</title>, <unitdate type="inclusive" normal="1981/1987">1981-1987</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Directories</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <title render="italic">Membership Directory</title>, <unitdate type="inclusive" normal="1994">1994</unitdate>, <unitdate type="inclusive" normal="1998">1998</unitdate>, <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <title render="italic">M Women</title>, <unitdate type="inclusive" normal="1988/2006">1988-2006</unitdate> </unittitle>
+              <physdesc>
+                <extent>6 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <title render="italic">M Women Newsletter</title>, <unitdate type="inclusive" normal="1982/1986">1982-1986</unitdate> </unittitle>
+              <physdesc>
+                <extent>2 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <title render="italic">The University of Michigan Women's Athletic Association Newsletter</title>, <unitdate type="inclusive" normal="1980/1982">1980-1982</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Website, <unitdate type="inclusive" normal="1999/2001">1999-2001</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

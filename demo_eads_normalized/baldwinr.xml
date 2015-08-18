@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::baldwinr.xml//EN" encodinganalog="Identifier">
+umich-bhl-8811</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Ralph B. Baldwin papers, 1949-2001
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Library staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-02-18</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Ralph B. Baldwin papers, 1949-2001</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Library staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Baldwin, Ralph Belknap, 1912-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Ralph B. Baldwin papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1949-2001
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+8 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8811 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Grand Rapids, Michigan manufacturing company executive, astronomer. Technical correspondence, 1949-1992, relating to astronomical studies, particularly concerning the moon; correspondence, 1980-1981, used in preparation of his book, "The deadly fuze: a secret weapon of World War II;" speeches on astronomical subjects and pertaining to his interest in product liability reform; and unpublished autobiography.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Ralph Baldwin (donor no. <num type="donor" encodinganalog="541$e">4307</num>) first began donating materials to the library in 1965.  Periodic additions have been received since then.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the papers are expected.
+</p></accruals>
+
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Except for published writings, copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Ralph B. Baldwin papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Ralph Baldwin, a native of Grand Rapids, Michigan, was a graduate of the University of Michigan.  In his career, he has been both a businessman and a respected scientist. For many years he was an officer, later president of the Oliver Machinery Company in Grand Rapids. Outside of his business, Baldwin was a scientist with many interests. During World War II, he was a senior physicist in the Johns Hopkins Applied Physics Laboratory. Here he helped develop the radio proximity fuze described in his book <title render="italic">The Deadly Fuze</title>. During this same approximate period, Baldwin formulated the principles of current lunar geology. He described his work in the book <title render="italic">The Face of the Moon</title> (1949).</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Baldwin collection consists of general correspondence and technical correspondence relating to astronomical topics and to the publication of his book <title render="italic">The Deadly Fuze</title>. There are also speeches, biographical and autobiographical material, and various materials relating to the proximity fuze. The collection largely consists of photocopies of original materials.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Astronomy--United States.</subject>
+<persname source="lcnaf" encodinganalog="600">Baldwin, Ralph Belknap, 1912-</persname>
+<geogname source="lcsh" encodinganalog="651">Moon.</geogname>
+<subject source="lcsh" encodinganalog="650">Products liability.</subject>
+<subject source="lcsh" encodinganalog="650">Proximity fuzes.</subject>
+<subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Technical correspondence</unittitle></did>
+
+
+<c02 level="file"><did><unittitle><unitdate type="inclusive" normal="1949/1989">1949-1989</unitdate> (primarily on astronomical topics)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>A-F</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>F-M</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>M-T</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>T-Z</unittitle></did></c03></c02>
+
+
+<c02 level="file"><did><unittitle><unitdate type="inclusive" normal="1989/1992">1989-1992</unitdate> (primarily on astronomical topics)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>A-Z </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03></c02>
+
+
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Regarding publication of the book, <title render="italic">The Deadly Fuze</title>, mainly <unitdate type="inclusive" normal="1980/1981">1980-1981</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle>A-Z</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>General correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive" normal="1960/1989" certainty="approximate">1960s-1980s</unitdate> A-Z</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle><unitdate type="inclusive" normal="1990/2001" certainty="approximate">1990s-2001</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Speeches</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle>On astronomical subjects, <unitdate type="inclusive">ca. 1951-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">7</container><unittitle>On product liability, <unitdate type="inclusive">ca. 1951-1990</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Biographical Material</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">7</container><unittitle>Clippings, reprints, citation</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">7</container><unittitle>Autobiography (unpublished), <unitdate type="inclusive" normal="1993">1993</unitdate> and <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">7</container><unittitle>Oral history interview transcript, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">7</container><unittitle>Papers re Crafoord Award, <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Proximity Fuze</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">8</container><unittitle>Manuscripts of "The Deadly Fuze"</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">8</container><unittitle>Laboratory technical reports on the proximity fuze</unittitle></did></c02></c01>
+ 
+
+</dsc><descgrp type="add"><relatedmaterial><head>Related Material</head><p>Ralph B. Baldwin has donated similar collections of his papers to other repositories. These include Grand Valley State University Special Collection and University Archives and the Library of the Applied Physics Laboratory, Laurel, Maryland.</p></relatedmaterial></descgrp></archdesc>
+
+</ead>

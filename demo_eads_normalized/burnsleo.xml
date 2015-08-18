@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::burnsleo.xml//EN" encodinganalog="Identifier">
+umich-bhl-92429</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Leo A. Burns photograph collection, ca. 1890-ca. 1915?
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>November 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-11-15</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Leo A. Burns photograph collection, ca. 1890-ca. 1915?</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Burns, Leo A., 1894-1982.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Leo A. Burns photograph collection 
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1890-ca. 1915?
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+92429 UA 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Battle Creek, Michigan, resident; glass negatives of houses and house interiors, of children, women, boating scenes, and a railroad car, possibly taken in the Battle Creek, Michigan area.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Susan Wineberg (donor no. <num type="donor" encodinganalog="541$e">5400</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+No copyright restrictions.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Leo A. Burns photograph collection, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Leo A. Burns, following his service in World War I, graduated in 1921 the University of Michigan. He lived in Battle Creek, Michigan and worked in the insurance business.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection is arranged into a single series of glass negative with two subseries for different sizes (4"x5" and5"x8"). The negatives are unidentified, but they are probably of a Battle Creek area family or families, perhaps the family of Burns's wife, Betty Hoyt.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Boats.</subject>
+<subject source="lctgm" encodinganalog="650">Children.</subject>
+<subject source="lctgm" encodinganalog="650">Clothing and dress--1890-1915.</subject>
+<subject source="lctgm" encodinganalog="650">Dwellings.</subject>
+<subject source="lctgm" encodinganalog="650">Interiors.</subject>
+<subject source="lctgm" encodinganalog="650">Railroads--Michigan.</subject>
+<subject source="lctgm" encodinganalog="650">Women.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="lctgm" encodinganalog="655">Glass photonegatives.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Glass Negatives</genreform></unittitle></did>
+
+
+<c02 level="subseries"><did><unittitle>4" x 5"</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>1 ) </unitid><unittitle>"Watering horses at Yankee Springs" </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>2 ) </unitid><unittitle>Two girls with doll in front of house </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>3 ) </unitid><unittitle>Boathouse and 3 women in rowboat </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>4 ) </unitid><unittitle>Two men standing in "Marguerite" (rowboat) with many other men on shore </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>5 ) </unitid><unittitle>Man reading by his front porch, two children playing at his feet </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid> 6) </unitid><unittitle>Two adults and two children in rowboat, on a lake or pond </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>7 ) </unitid><unittitle>Two women standing next to a rowboat on a lake or pond </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>8 ) </unitid><unittitle>Eight people on picnic </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid> 9) </unitid><unittitle>Man standing on hill </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>10 ) </unitid><unittitle>Two children standing in pond or lake </unittitle></did> </c03></c02>
+
+
+<c02 level="subseries"><did><unittitle>5" x 8"</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>11-12 ) </unitid><unittitle>Two girls in costumes </unittitle> <physdesc><extent>2 negatives</extent></physdesc></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>13 ) </unitid><unittitle>Three women and child cavorting, one woman on table top </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>14 ) </unitid><unittitle>Room Interior: Mother reading to two children </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>15 ) </unitid><unittitle>Three women and two children on porch, No. 303 (Lake Ave.?, Battle Creek?) </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>16 ) </unitid><unittitle>Woman, two children and dog on porch </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid> 17) </unitid><unittitle>Woman standing on porch, one child in dog-cart, another sitting on porch steps</unittitle><note><p>Same house as no. 16</p></note></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid> 18) </unitid><unittitle>Three men standing on Grand Trunk Railroad tank car </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>19 ) </unitid><unittitle>Man watering lawn with hose, woman and two children, next to their home </unittitle></did> <note><p>(Same house as no. 16)</p></note> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid> 20) </unitid><unittitle>Group of 5 women sitting on porch steps </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid> 21) </unitid><unittitle>Room interior-Victorian style </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid> 22) </unitid><unittitle>Room interior with man reading magazine </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid> 23) </unitid><unittitle>Young boy playing Indian, on a hill </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>24 ) </unitid><unittitle>Young boy playing cowboy, </unittitle><note><p>on same hill as no. 23</p></note></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>25 ) </unitid><unittitle>Water heater/boiler </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid> 26) </unitid><unittitle>Outdoor Fall or Spring scene: Group standing outdoors near a horse-drawn buggy </unittitle></did> </c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unitid>27 ) </unitid><unittitle>"B.R. Murry's Res. Battle Creek, Mich." </unittitle></did> </c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Prints and notes</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Prints</genreform> of Hoyt and Burns families</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notes on Burns and Hoyt families</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

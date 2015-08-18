@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::mannrich.xml//EN" encodinganalog="Identifier">
+umich-bhl-88244</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Richard D. Mann papers, 1965-1984
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Matthew T. Schaefer </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>June 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-06-22</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Richard D. Mann papers, 1965-1984</titleproper>
+
+<author>Finding aid created by<lb/> 
+Matthew T. Schaefer, March 1988</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Mann, Richard D. (Richard Dewey), 1933-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Richard D. Mann papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1965-1984
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+5 linear inches (in 1 box)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+88244 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of psychology at the University of Michigan, and an organizer of the teach-ins on the Vietnam War in Ann Arbor, Michigan, and elsewhere, 1965-1966. Autobiographical papers; files on the protest against the Vietnam War; and materials on Program for Educational and Social Change, an effort to open university courses to the local community.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Professor Mann (donor no. <num type="donor" encodinganalog="541$e">7487</num>)  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Richard D. Mann papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Richard D. Mann, University of Michigan psychology professor, played an important role in organizing the Ann Arbor and National teach-ins on the Vietnam War during the spring of 1965. He continued his activist attempts to make education timely and relevant by designing courses to examine the dynamics of student protest at Columbia and during the Black Action Movement at the University of Michigan. He also participated in efforts to open university courses to members of the local community through the short-lived Program for Educational and Social Change in 1972.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Richard D. Mann papers are arranged in chronological order according to his teach-in activism and teaching activities. The materials include correspondence, notes of telephone conversations and meetings, leaflets, course material, research papers, conference pamphlets, and printed materials. The Vietnam War Protest materials contain interesting correspondence with McGeorge Bundy, national security advisor to President Johnson, and Mann's organizational notes. The Program for Educational and Social Change materials detail Mann's efforts to teach free courses on community activism and the response of the university administration to his efforts. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Black Action Movement (University of Michigan)</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Psychology.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<subject source="lcsh" encodinganalog="650">Vietnam War, 1961-1975.</subject>
+
+</controlaccess>
+
+
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Bundy, McGeorge.</persname>
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Teaching and teach-in activities</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Autobiographic Musings, <unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Vietnam War Protest, <unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor Teach-in, <unitdate type="inclusive"> March-April 1965</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>National Teach-in, <unitdate type="inclusive"> March-June 1965</unitdate></unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence with McGeorge Bundy, <unitdate type="inclusive"> March-April 1965</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Mann's notes, <unitdate type="inclusive"> April-May 1965</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Program and General Correspondence, <unitdate type="inclusive"> April-June 1965</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>International Conference, <unitdate type="inclusive"> September 1965-January 1966</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings, <unitdate type="inclusive"> April-May 1965</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Teaching Sociology/Psychology 988, <unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate></unittitle></did>
+<c03 level="file"><did><unittitle>Columbia, <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Bureau of Applied Social Research Papers, <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Handouts to Class, <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Magazine Articles and Clippings, <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Other Student Revolts, <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>Black Action Movement (BAM), <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Chronology, <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings and Press Releases, <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters to<title render="italic"> Michigan Daily</title>, <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Identity of the Group Research, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle></did></c04></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Program for Educational and Social Change (PESC), <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Teaching Peace Studies, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

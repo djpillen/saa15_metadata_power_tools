@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::mipolport.xml//EN" encodinganalog="Identifier">
+umich-bhl-2014044</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Michigan Politicians Portraits collection.
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Molly Malcolm. </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2014">
+2014</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2014</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2013-04-08</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Michigan Politicians Portraits collection, 1885-1982</titleproper>
+
+<author>Finding aid created by<lb/> 
+Molly Malcolm, March 2014</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Bentley Historical Library</corpname>
+ 
+</origination>
+
+<unittitle encodinganalog="245">
+Michigan Politicians Portraits collection 
+<unitdate type="inclusive" encodinganalog="245$f">
+1885-1982
+</unitdate>
+ 
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2014044 Aa 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Collection of 26 portraits of Michigan governors, lieutenant governors and senators, scattered between 1885-1982. All portraits except two were autographed by politicians pictured to Charles A. Sink, Michigan Republican politician.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Collection generated from various sources over an extended period of time.</p></acqinfo>
+  
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Michigan Politicians Portraits collection, Bentley Historical Library, University of Michigan</p></prefercite>
+ 
+
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Michigan Territory, which came under American rule in 1805, was incorporated as the 26th state on January 26, 1837.  Since its founding, Michigan has had 48 governors and 40 state senators. The portraits of a small number of these political leaders are included in this collection.</p>
+
+<p>Most photos in the collection were autographed to Charles A. Sink, a Republican politician.  Sink served twice as a Republican member of the Michigan House of Representatives (1919-1920 and 1925-1926) and three times in the Michigan Senate, taking office from 1921-1922, 1927-1927, and 1929-1930.  He was director of both the University of Michigan Musical Society (1927-1968) and the University of Michigan School of Music (1927-1940).   </p>
+</bioghist>
+ 
+
+<scopecontent encodinganalog="520">
+<p>Portrait collection of Michigan politicians spanning the years 1885-1982, with most photos from the period 1927-1982. Collection consists of two folders: "Governors" which contains 19 photographs, and "Senators", which contains 7 photographs. All dates listed correspond to the terms served by each politician.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Alger, R. A. (Russell Alexander), 1836-1907.</persname>
+<persname source="lcnaf" encodinganalog="600">Brucker, Wilber Marion, 1894-1968.</persname>
+<persname source="lcnaf" encodinganalog="600">Comstock, William Alfred, 1877-1949.</persname>
+<persname source="lcnaf" encodinganalog="600">Dickinson, Luren Dudley, 1859-1943.</persname>
+<persname source="lcnaf" encodinganalog="600">Ferguson, Homer, 1888-1982.</persname>
+<persname source="lcnaf" encodinganalog="600">Fitzgerals, Frank D. (Frank Dwight), 1885-1939.</persname>
+<subject source="lcsh" encodinganalog="650">Governors--Michigan.</subject>
+<persname source="lcnaf" encodinganalog="600">Green, Fred W. (Fred Warren), 1872-1936.</persname>
+<persname source="lcnaf" encodinganalog="600">Griffin, Robert P. (Robert Paul), 1923-</persname>
+<persname source="lcnaf" encodinganalog="600">Groesbeck, Alexander J. (Alexander Joseph), 1873-1953.</persname>
+<persname source="lcnaf" encodinganalog="600">Hart, Philip A. (Philip Aloysius), 1912-1976.</persname>
+<persname source="lcnaf" encodinganalog="600">Kelly, Harry F. (Harry Francis), 1895-1971.</persname>
+<persname source="lcnaf" encodinganalog="600">McNamara, Pat, 1894-1966.</persname>
+<persname source="lcnaf" encodinganalog="600">Milliken, William G., 1922-</persname>
+<persname source="lcnaf" encodinganalog="600">Murphy, Frank, 1890-1949.</persname>
+<persname source="lcnaf" encodinganalog="600">Osborn, Chase S. (Chase Salmon), 1860-1949.</persname>
+<persname source="lcnaf" encodinganalog="600">Pingree, Hazen S., 1840-1901.</persname>
+<persname source="lcnaf" encodinganalog="600">Potter, Charles E. (Charles Edward), 1916-1979.</persname>
+<persname source="lcnaf" encodinganalog="600">Romney, George W., 1907-1995.</persname>
+<persname source="lcnaf" encodinganalog="600">Sigler, Kim, 1894-</persname>
+<persname source="lcnaf" encodinganalog="600">Swainson, John B. (John Burley), 1925-1994.</persname>
+<persname source="lcnaf" encodinganalog="600">Townsend, Charles E. (Charles Elroy), 1856-1924.</persname>
+<persname source="lcnaf" encodinganalog="600">Van Wagoner, Murray.</persname>
+<persname source="lcnaf" encodinganalog="600">Vandenberg, Arthur H. (Arthur Hendrick), 1884-1951.</persname>
+<persname source="lcnaf" encodinganalog="600">Williams, G. Mennen, 1911-1988.</persname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lctgm" encodinganalog="650">Legislators--Michigan.</subject>
+<subject source="lctgm" encodinganalog="650">Politicians--Michigan.</subject>
+
+
+</controlaccess>
+ 
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Sink, Charles A. (Charles Albert), 1879-1972.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Portraits.</genreform>	
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Michigan Politicians Portraits collection</unittitle></did>
+<c02 level="file"><did><unittitle>Governors</unittitle></did>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Alger, Russell A., <unitdate type="inclusive" normal="1885/1887">1885-1887</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Brucker, Wilber M., <unitdate type="inclusive" normal="1931/1933">1931-1933</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Comstock, William A., <unitdate type="inclusive" normal="1933/1935">1933-1935</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Dickinson, Luren D., <unitdate type="inclusive" normal="1915/1921">1915-1921</unitdate>, <unitdate type="inclusive" normal="1927/1933">1927-1933</unitdate>, <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Fitzgerald, Frank D., <unitdate type="inclusive">January-March 1939</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Green, Fred W., <unitdate type="inclusive" normal="1927/1931">1927-1931</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Groesbeck, Alexander J., <unitdate type="inclusive" normal="1921/1927">1921-1927</unitdate> </unittitle> <physdesc><extent>2 photographs</extent></physdesc></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Kelly, Harry F., <unitdate type="inclusive" normal="1943/1947">1943-1947</unitdate> </unittitle> <physdesc><extent>2 photographs</extent></physdesc></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Milliken, William G., <unitdate type="inclusive" normal="1965/1969">1965-1969</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Murphy, Frank, <unitdate type="inclusive" normal="1937/1939">1937-1939</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Osborn, Chase S., <unitdate type="inclusive" normal="1911/1913">1911-1913</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Pingree, Hazen S., <unitdate type="inclusive" normal="1897/1901">1897-1901</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Romney, George, <unitdate type="inclusive" normal="1963/1969">1963-1969</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Sigler, Kim, <unitdate type="inclusive" normal="1947/1949">1947-1949</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Swainson, John B., <unitdate type="inclusive" normal="1961/1963">1961-1963</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Van Wagoner, Murray D., <unitdate type="inclusive" normal="1941/1943">1941-1943</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Williams, G. Mennen, <unitdate type="inclusive" normal="1949/1961">1949-1961</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Senators</unittitle></did>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Ferguson, Homer, <unitdate type="inclusive" normal="1943/1955">1943-1955</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Griffin, Robert P., <unitdate type="inclusive" normal="1966/1979">1966-1979</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Hart, Philip A., <unitdate type="inclusive" normal="1959/1976">1959-1976</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>McNamara, Patrick V., <unitdate type="inclusive" normal="1955/1966">1955-1966</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Potter, Charles E., <unitdate type="inclusive" normal="1952/1959">1952-1959</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Townsend, Charles Elroy, <unitdate type="inclusive" normal="1911/1923">1911-1923</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Vandenberg, Arthur H., <unitdate type="inclusive" normal="1928/1951">1928-1951</unitdate></unittitle></did></c03></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

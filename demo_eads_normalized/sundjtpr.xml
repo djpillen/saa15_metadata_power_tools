@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::sundjtpr.xml//EN" encodinganalog="Identifier">
+umich-bhl-748</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Jabez Thomas Sunderland sermons, lectures, addresses, etc. ca 1878-1898</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-17</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Jabez Thomas Sunderland <lb/>sermons, lectures, addresses, etc., ca. 1878-1898 </titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Sunderland, Jabez Thomas, 1842-1936.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Jabez Thomas Sunderland sermons, lectures, addresses, etc. 
+<unitdate type="inclusive" encodinganalog="245$f">ca. 18978-1898</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 box 
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+748 DA 2; S958; S486
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The provenance of these materials is unknown.
+</p></acqinfo>
+
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+No copyright restrictions
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Jabez Thomas Sunderland sermons, lectures, addresses, etc., Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Jabez T. Sunderland was a Unitarian minister and reformer.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>This collection of pamphlets and reprints was gathered from different sources. Many of these, in addition to others, will be found in the Jabez T. Sunderland collection.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Sermons, American.</subject>
+<corpname source="lcnaf" encodinganalog="710">First Unitarian Church (Ann Arbor, Mich.)</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Pamphlets and reprints</unittitle></did>
+<c02 level="file"><did><unittitle>A College Town Pulpit-monthly sermons by Rev. J.T. Sunderland</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Series 1, no. 1: Why Study the Bible?</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Series 1, no. 2: Jesus as Humanity's Ideal</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Series 1, no. 3: Sectarianism; Its Evils, Causes and Cure</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Series 1, no. 6: Loyalty to Conviction</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Series 1, no. 7: Is Life a Blessing?</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Series 1, no. 8: Robert G. Ingersoll's Treatment of "The Bible"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Series 1, no.9: Religion for a Republic</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Series I., no. 10: The Surest Way of Doing Good</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Series 2, no. 7: The Ministry of Sorrow</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Series 3, no. 1: Why Study the Bible?</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Series 3, no. 2: How to Study the Bible</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Miscellaneous sermons:</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Dr. Winchell's "Preadamites" <unitdate type="inclusive" normal="1881">1881</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>The Religion of Lincoln, Webster and Whittier</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Immortality in the Light of Evolution</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Is the Bible Infallible?</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>A Ministry of Fifteen Years in a College Town <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Rev. B. Fay Mills and the State University-Ought Revivals and Meetings for Sectarian Propagandism to be held in a State Institution of Learning? <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Saved by Hope--Farewell Sermon in Ann Arbor</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>True and False Liberalism--(American Unitarian Association-4th series, no. 56.)</unittitle></did></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

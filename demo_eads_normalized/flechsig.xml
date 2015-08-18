@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::flechsig.xml//EN" encodinganalog="Identifier">
+umich-bhl-2013107</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Jack Flechsig papers, 1919-1988.
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Patricia Ryan  </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2013">
+2013</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2013</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2013-09-19</date>
+        <item>Original encoding from Word 2007 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Jack Flechsig Papers, 1919-1988</titleproper>
+      <author>Finding aid created by<lb/> 
+Patricia Ryan, September 2013</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Flechsig, Jack
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+Jack Flechsig Papers,<unitdate type="inclusive" encodinganalog="245$f">
+1919-1988
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1970-1988
+</unitdate>
+
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+1.3 linear feet (including outsize)
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2013107 Aa 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Jack Flechsig (1922-2011) served as the Art Director for WXYZ-TV Channel 7 in Detroit, Mich. for 39 years. This collection includes station publications, copies of his work (set designs, advertisements, promotional items, etc.), as well as papers of various family members.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+Donated by Brenna Moloney (Donor no.   
+<num type="donor" encodinganalog="541$e">10896</num>) in February 2013</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Jack Flechsig papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Jack Flechsig was born May 30, 1922 in Detroit to Helen and Otto Flechsig. He attended Wayne State University and was a Second Lieutenant in the United States Army Air Forces during WWII and served as a navigator flying in 52 missions. Flechsig was a member of the Directors Guild of America and the Theatre Department at Wayne State University.  He was also a lifelong Puppeteer and a member of the Puppeteers of America. On January 15, 1949, he married Constance McBrearty, to whom he was married for 62 years, giving them 8 children and 11 grandchildren. Flechsig spent his professional career as an Emmy Award winning (1980s) Art Director for WXYZ-TV Channel 7, beginning in 1948 when the station first began broadcasting. He retired 39 years later in January of 1988. Flechsig died January 17, 2011 in Bloomfield Twp. at the age of 88.</p>
+      <p>WXYZ-TV is an ABC affiliated station and the third of ABC's five original owned and operated TV stations (after New York and Chicago). The station was created out of the ABC-owned radio station WXYZ (1270 AM). The station originally began broadcasting in 1948 from studios located in the Maccabees Building in downtown Detroit. In 1959, broadcast facilities moved to Southfield, Mich. The station began broadcasting in color in 1964. By 1978, WXYZ-TV was the second most-dominant TV station in the U.S. in terms of local viewership. It remains a major television station in Detroit.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>Jack Flechsig (1922-2011) was the Art Director of WXYZ-TV Channel 7 in Detroit for 39 years. The majority of this collection covers his time working at the station; however, part of the collection contains papers of the families of Flechsig and his wife, Constance. The collection is divided into two series: the Personal series and the Business series.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <persname source="lcnaf" encodinganalog="600">Flechsig, Jack.</persname>
+        <subject source="lcsh" encodinganalog="650">Television stations--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650">Television stations--Michigan--Southfield.</subject>
+        <corpname source="lcnaf" encodinganalog="610">WXYZ-TV (Television station : Southfield, Mich.)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655">Scenography.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Personal</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Personal series (0.3 linear feet, 1919-1972) consists of material of various family members of Jack Flechsig and his wife, Constance McBrearty Flechsig. These family members include Madge Walker (aunt of Constance), Helen Flechsig (mother of Jack), Saidee McBrearty (mother of Constance), Jerome McBrearty (cousin of Constance), and Otto Flechsig (father of Jack). This series is organized with a designated folder for each family member containing their personal items as well as a miscellaneous folder with unassigned materials of interest. The Personal series is varied, with items relating to the American Red Cross (Madge Walker's service award), the Palette and Brush Club (Saidee McBrearty), the American Legion Auxiliary (Helen Flechsig), and the University of Detroit (Jerome McBrearty), among others, located within the personal folders of Flechsig's family.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>College photograph, <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Helen Flechsig, <unitdate type="inclusive" normal="1945/1947">1945-1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Jerome McBrearty, <unitdate type="inclusive" normal="1935">1935</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Madge Walker</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>American Red Cross service award, <unitdate type="inclusive">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Photographs, <unitdate type="inclusive">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Scrapbook with loose papers, <unitdate type="inclusive" normal="1919/1966">1919-1966</unitdate> </unittitle>
+            </did>
+            <note>
+              <p>(scattered)</p>
+            </note>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellaneous, <unitdate type="inclusive" normal="1928/1972">1928-1972</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(scattered)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Saidee McBrearty, <unitdate type="inclusive" normal="1948/1965">1948-1965</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(scattered)</p>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Business</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Business series (1 linear foot, 1950-1988) consists of items related to Flechsig's time at WXYZ-TV as the Art Director. This series provides insight into program advertising, television set design, as well as the work environment of WXYZ-TV. Some items of interest include a wide variety of Flechsig's designs, detailed lists of television rates and research as well as programming schedules, and many photographs from on set at the station (one photograph of President Nixon on the WXYZ-TV set is of note).</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence-community outreach, <unitdate type="inclusive" normal="1971">1971</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence-company cards, <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence-company programs invitations, <unitdate type="inclusive" normal="1972/1979">1972-1979</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(with gaps)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Design awards, <unitdate type="inclusive" normal="1980/1985">1980-1985</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(with gaps)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Designs, <unitdate type="inclusive" normal="1982">1982</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Miscellaneous, <unitdate type="inclusive" normal="1982">1982</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Program guides and magazines, <unitdate type="inclusive" normal="1950/1983">1950-1983</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(with gaps)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Program posters and promotional items, <unitdate type="inclusive" normal="1978">1978</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Program schedules and calendars, <unitdate type="inclusive" normal="1974/1983">1974-1983</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(scattered)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Photographs, <unitdate type="inclusive" normal="1980">1980</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Photographs, <unitdate type="inclusive" normal="1988">1988</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Retail newsletter, Winter <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Slides from set, <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Sticker and pin designs, <unitdate type="inclusive" normal="1969">1969</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Television ratings and research, <unitdate type="inclusive" normal="1970/1982">1970-1982</unitdate> </unittitle>
+          </did>
+          <note>
+            <p>(with gaps)</p>
+          </note>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

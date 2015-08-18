@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::hammaker.xml//EN" encodinganalog="identifier">
+umich-bhl-851388
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Wilbur Emery Hammaker Papers, 1947-1965
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+William H. McNitt </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20051018 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Wilbur Emery Hammaker Papers, 1947-1965</titleproper>
+
+<author>Finding aid created by<lb/> 
+William H. McNitt, 1970</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Hammaker, Wilbur Emery, 1876-1968
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Wilbur Emery Hammaker papers,  
+<unitdate type="inclusive" encodinganalog="245$f">
+1947-1965
+</unitdate></unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+851388 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Bishop of the Methodist Episcopal Church and temperance advocate. Speeches and articles and papers from his work with the National Temperance and Prohibition Council.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Dr. Paul M. Hammaker (donor no. <num type="donor" encodinganalog="541$e">4936</num>) and came to the library in 1970.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Wilbur Emery Hammaker Papers
+, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Wilbur E. Hammaker was born February 17, 1876 in Springfield, Ohio. He pastored different churches in Ohio then in 1936 he was elected a bishop of the Methodist Episcopal Church.  He then served in Nanking, China (1936-1939), in the Denver area (1939), and other assignments 1940 to 1948 when he retired.  Bishop Hammaker was a leader within the church's temperance movement, serving as president of the Methodist Church Board of Temperance (1944-1948); then vice president in charge of counseling and public relations (1948-1952).  He also served as president of the National Temperance and Prohibition Council (1948-1958).  He died August 11, 1968.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The collection is arranged into three series, each primarily relating to the topic of temperance and the Methodist Church's advocacy of temperance.  The series are Speeches, articles, and other writings; National Temperance and Prohibition Council; and Miscellaneous.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Clergy--Michigan.</subject>
+<persname source="lcnaf" encodinganalog="600">Hammaker, Wilbur Emery, 1876-1968.</persname>
+<corpname source="lcnaf" encodinganalog="610">Methodist Episcopal Church.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Methodist Church (U.S.). General Board of Temperance.</corpname>
+<corpname source="lcnaf" encodinganalog="610">National Temperance and Prohibition Council.</corpname>
+<subject source="lcsh" encodinganalog="650">Prohibition--United States.</subject>
+<subject source="lcsh" encodinganalog="650">Social reformers--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Temperance--United States.</subject>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Hooton, Caradine Ray, 1895-</persname>
+</controlaccess></controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Speeches, articles, and other writings</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive">1947-January 1953</unitdate> </unittitle> <physdesc><extent>12 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Manuscript of <title render="italic">Drinking -- Is it Wrong?</title> <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"The History and Philosophy of the Temperance Movement" <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches of Deets Pickett, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches of other temperance advocates</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>National Temperance and Prohibition Council</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers, <unitdate type="inclusive" normal="1942/1965">1942-1965</unitdate> </unittitle> <physdesc><extent>11 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Temperance organizations (general), <unitdate type="inclusive" normal="1950/1952">1950-1952</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Caradine R. Hooton papers, <unitdate type="inclusive" normal="1951/1965">1951-1965</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did> <note><p>(Hooton was General Secretary of the General Board of Temperance of the Methodist Church)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Temperance pamphlets, <unitdate type="inclusive" normal="1944/1965">1944-1965</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

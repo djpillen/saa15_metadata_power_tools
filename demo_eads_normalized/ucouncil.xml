@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader relatedencoding="Dublin Core" audience="internal">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::ucouncil.xml//EN" encodinganalog="identifier">
+umich-bhl-87338</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+University Council (University of Michigan) records, 1931-1948
+
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Bentley Staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+January 2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Laura Schmidt, 
+<date>January 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050131</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+University Council <lb/>(University of Michigan), <lb/>Records, 1931-1948
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Staff
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. University Council.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+University Council (University of Michigan) records
+<unitdate type="inclusive" encodinganalog="245$f">
+1931-1948
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+87338 Bimu B31a 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The University Council was originally created to replace the Senate Council in 1931. Membership consisted of the President of the University, members selected by the President, and representatives elected by the different schools and colleges of the University.  The Council was concerned with academic policies affecting the University as a whole, or policy questions which concerned two or more schools or colleges.  In 1948 The Council was disbanded and most of its functions were taken over by a reconstituted and much more powerful Senate Advisory Committee on Academic Affairs (SACUA).  The record group consists of minutes of meetings, 1931-1947 (3 v.); accompanying documents, 1931-1945 (13 v.); committee reports, scattered correspondence, topical files, and material on reconstituted University Council, 1970-1987.
+</abstract>
+
+
+<repository><corpname encodinganalog="852">
+<subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Donor: 
+
+<num type="donor" encodinganalog="541$e">234</num>, <num type="donor" encodinganalog="541$e">5662</num>, <num type="donor" encodinganalog="541$e">3572</num>
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p>
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Board of Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+University Council (University of Michigan) Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+
+<p>In May 1931, the Board of Regents of the University of Michigan authorized the Senate of the University to create a University Council.  As established, the University Council was to exercise the functions of the Senate Council which it replaced, and the legislative functions of the Senate itself.  The Senate, however, retained the right of review over the legislative actions of the Council.</p>
+<p>Membership on the Council consisted of the President of the University, members selected by the President, and representatives elected by the different schools and colleges of the University.</p>
+<p>The Council was concerned with academic policies affecting the University as a whole, or policy questions which concerned two or more schools or colleges.  The Council had five standing committees: 1) program and policy; 2) educational policies; 3) student relations; 4) public relations; and 5) plant and equipment.  The committee on program and policy considered matters referred to it by the President or by the other standing committees.  It was also charged with the preparation of the program for the meeting of the Council.  The other four standing committees had jurisdiction over the various administrative and advisory boards and committees of the University.</p>
+<p>In 1948, upon recommendation of the Provost, the Regents approved a resolution which abolished the University Council.  Most of its functions were taken over by a reconstituted and much more powerful Senate Advisory Committee on Academic Affairs (SACUA).</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+
+<p>The University Council Records include seven series: Standing Committees, Committees (reports), Correspondence and Other Papers, Correspondence with Board of Regents, Topical Files, Minutes (bound volumes), and Accompanying Documents (bound volumes).</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Administration.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Senate.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Standing Committees</unittitle></did>
+<scopecontent><p>The Standing Committees series contains documents relating to amendments and decisions on policies and programs under the jurisdiction of the separate committees.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Educational Policies</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Plant and Equipment</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Program and Policy</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Public Relations</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Student Relations</unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Committees (reports)</unittitle></did>
+<scopecontent><p>The Committees (reports) include progress and informative reports in various areas being monitored by the University Council, such as alumni relations and discipline.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alumni Relations</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Accredited Schools</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bureau of Appointments and Occupational Information</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Calendar</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Cooperation with Educational Institutions</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Discipline</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Extension Service</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Foreign Students and International Center</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Honorary Degrees</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Honors Convocation</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Intercollegiate Athletics</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Latin American Relations</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lectures</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Library</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Military Science and Tactics</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Orientation Period</unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Correspondence and Other Papers</unittitle></did>
+<scopecontent><p>The Correspondence and Other Papers and Correspondence with Board of Regents series contain letters and several communications involving the University Council.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1931/1936">1931-1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1937/1944">1937-1944</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><container type="box" label="Box">1</container><unittitle>Correspondence with Board of Regents</unittitle></did><scopecontent><p>The Correspondence and Other Papers and Correspondence with Board of Regents series contain letters and several communications involving the University Council.</p></scopecontent></c01>
+
+<c01 level="series"><did><unittitle>Topical Files</unittitle></did>
+<scopecontent><p>The Topical Files cover a wide range of materials having to do with the agendas, formation, and management of the University Council itself.  One file contains materials relating to Louis A. Hopkins, the University Council Secretary.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hopkins, Louis A.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Organization</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Programs and Agenda</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Questionnaires</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Three term plan, <unitdate type="inclusive" normal="1942">1942</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Minutes (bound volumes)</unittitle></did>
+<scopecontent><p>The Minutes (bound volumes) of the University Council contain the meeting minutes of the council, and are complimented by the Accompanying Documents (bound volumes) which have narratives and other materials relating to University Council meetings, arranged in chronological order.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1931/1936">1931-1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1937/1942">1937-1942</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">November 9, 1942-May 26, 1947</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1931/1932">1931-1932</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1932/1933">1932-1933</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1933/1934">1933-1934</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1934/1935">1934-1935</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1936/1937">1936-1937</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1937/1938">1937-1938</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1938/1939">1938-1939</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1939/1940">1939-1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1940/1941">1940-1941</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1943/1945">1943-1945</unitdate></unittitle></did></c02></c01>
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

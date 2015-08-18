@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::fyfe.xml//EN" encodinganalog="identifier">umich-bhl-851395</eadid>
+
+<filedesc><titlestmt>
+<titleproper>Finding Aid for the Fyfe Family Papers1864-1942</titleproper>
+<author encodinganalog="creator">Finding aid prepared by William Landis, 1997</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date type="single">1997</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid prepared by William Landis, 1997</creation>
+<langusage><language encodinganalog="language" langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>2001-08-31</date><item>Minor corrections made, photographs file added.</item></change>
+<change><date>1999-09-20</date><item>Converted to EAD version 1.0 using WORD 6 macro and some hand tagging.</item></change>
+<change><date>Aug, 1997</date><item>Original encoding in EAD beta, hand tagged by Bill Landis in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper encodinganalog="title">Finding Aid for the<lb/> Fyfe Family Papers, 1864-1942</titleproper><author>Finding Aid prepared by William Landis, 1997</author></titlepage></frontmatter>
+
+<archdesc level="collection" type="inventory" audience="external" relatedencoding="marc21"><did>
+
+<origination>
+<famname source="lcnaf" encodinganalog="100">Fyfe family.</famname>
+</origination>
+
+<unittitle encodinganalog="245">Fyfe Family Papers
+<unitdate type="inclusive" encodinganalog="245$f" normal="1864/1942">1864-1942</unitdate></unittitle>
+
+<physdesc><extent encodinganalog="300">4 folders</extent></physdesc>
+
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">851395 Aa/1 UAs</unitid>
+
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+
+<abstract>Correspondence and genealogical  information concerning the Fyfe family of Lansing, Michigan, including letters from Jennie Fyfe a Civil War nurse and teacher in a Black school in Paducah Kentucky.</abstract>
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>(Donor Nos. <num encodinganalog="541$e" type="donor">1771, </num><num>3121</num>)</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright to the collection has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder, Fyfe Family Papers, Bentley Historical Library.</p></prefercite></descgrp>
+
+
+
+<bioghist encodinganalog="545"><p>Jennie Fyfe, of Lansing, Michigan, served as a nurse in the Civil War and as a teacher in a black school in Paducah, Kentucky.</p></bioghist>
+
+<scopecontent><p>This collection includes correspondence, March 31, 1864, to June 17, 1866, from Jennie Fyfe to her sister, Mrs. <persname>Ellen Mott</persname>, and other family members;  obituaries of <persname>Mary A. Miles</persname>; and  genealogical notes of Mrs. <persname>Della Miles Bertch</persname> concerning <persname>John Fyfe</persname>  and other family members.  It also includes a  photograph of  Jennie Fyfe.</p></scopecontent>
+
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subject Terms</head>
+<persname source="lcnaf" encodinganalog="600">Bertch, Della Miles, 1861-</persname>
+<famname source="lcnaf" encodinganalog="600">Fyfe family.</famname>
+<famname source="lcnaf" encodinganalog="600">Gilbert family.</famname>
+<famname source="lcnaf" encodinganalog="600">Gray family.</famname>
+<persname source="lcnaf" encodinganalog="100">Miles, Mary A., d. 1904</persname>
+<famname source="lcnaf" encodinganalog="600">Miles family.</famname>
+<famname source="lcnaf" encodinganalog="600">Perry family.</famname>
+<famname source="lcnaf" encodinganalog="600">Prescott family.</famname>
+<famname source="lcnaf" encodinganalog="600">Strong family.</famname>
+<subject source="lcsh" encodinganalog="650">Afro-Americans.</subject>
+<subject source="lcsh" encodinganalog="650">Nurses--Kentucky.</subject>
+<subject source="lcsh" encodinganalog="650">Women teachers--Kentucky.</subject>
+<subject source="lcsh" encodinganalog="650">Teajchers--Kentucky.</subject>
+<geogname source="lcsh" encodinganalog="651">Kentucky.Lansing (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Paducah (Ky.)</geogname>
+<subject source="lcsh" encodinganalog="650">United States--History--Civil War, 1861-1865.</subject></controlaccess>
+
+<controlaccess><head>Form and Genre Terms</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess>
+
+<controlaccess><head>Contributors</head>
+<persname source="lcnaf" encodinganalog="700">Fyfe, Jennie.</persname>
+<persname source="lcnaf" encodinganalog="700">Mott, Ellen.</persname>
+</controlaccess></controlaccess>
+
+<dsc>
+<c01 level="collection"><did><unittitle>Fyfe family</unittitle></did>
+<c02 level="item"><did><container label="Folder" type="folder">1</container><unittitle>Provenancial information</unittitle></did><note><p>(Information regarding provenance prepared by Mary E. Mott regarding the correspondence in this folder and notarized by Charles Hopkins, Clerk, Supreme Court of Michigan.April 29, 1893)</p></note></c02>
+<c02 level="file"><did><container label="Folder" type="folder">1</container><unittitle><genreform>Correspondence</genreform> from <persname>Jennie Fyfe</persname> to her sister, <persname>Ellen Mott</persname>, and to her father and family in general, <unitdate type="inclusive">March 31, 1864-June 17, 1866</unitdate></unittitle></did></c02>
+<c02 level="item"><did><container label="Folder" type="folder">1</container><unittitle>Letter to family, <unitdate type="inclusive">March 31, 1864</unitdate></unittitle><note><p>(From <geogname>Paducah, Kentucky)</geogname></p></note><dao href="fyfe1"><daodesc><p>[view letter]</p></daodesc></dao></did></c02>
+<c02 level="file"><did><container label="Folder" type="folder">2</container><unittitle>Papers concerning the genealogy of the families of <persname>John Fyfe</persname>, <persname>John Strong</persname>, <persname>John Perry</persname>, <persname>Robert Gray</persname>, <persname>John Gilbert</persname>, <persname>John Miles</persname>, and <persname>James Prescott</persname>, <unitdate type="inclusive">1899-1923 and undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container label="Folder" type="folder">3</container><unittitle>Genealogical materials largely concerning <persname>Della M. Bertch</persname>, <unitdate type="inclusive" normal="1904/1942">1904-1942</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container label="Folder" type="folder">3</container><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did><scopecontent><p>The photographs include a portrait of Jennie Fyfe as an old woman, an unidentified group photo, bathing scene with Richard Fyfe present, and portriat of Della Fyfe Miles. </p></scopecontent></c02></c01></dsc></archdesc></ead>

@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::easlick.xml//EN" encodinganalog="Identifier">
+umich-bhl-851158</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Kenneth A. Easlick papers, 1924-1979
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-11-14</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Kenneth A. Easlick papers, 1924-1979</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Easlick, Kenneth A. (Kenneth Alexander), 1893-1979.</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Kenneth A. Easlick papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1924-1979
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+3 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851158 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of dentistry at University of Michigan; personal materials relating to World War I service, speeches, correspondence, and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection (donor no. <num type="donor" encodinganalog="541$e">3756</num>) was the gift of Dr. Easlick and came to the library in several accessions beginning in 1961.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Kenneth A. Easlick papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Kenneth A. Easlick was born September 12, 1893 in Ridgeway, Michigan. He graduated from the University of Michigan in 1917, then volunteered for service with the U.S. Army Ambulance Service and was assigned to detached service with the French Army.  He served two years, then spent about five years working with the Reynolds Spring Company of Jackson. He returned to the University of Michigan and received his dental degree in 1928. That same year, he was appointed clinical instructor in operative density.</p>
+
+<p>Easlick became director of the Children's Clinic at the University of Michigan in 1930.  He also became a member of the American Society of Dentistry for Children in 1932, only five years after its formation, and served on its college curriculum committee from 1936 to 1946, when the organization was fighting to see that pedodontics (dentistry for children) was included in the courses given to dental students.  </p>
+
+<p>Easlick served on the editorial board of the ASDC "Journal of Dentistry for Children" for six years, and was a member of its executive council from 1939 to 1942.  He was a member of the American Board of Pedodontics from 1942 to 1961 and was made a diplomate of that board in 1948.  He moved through the academic ranks to professor of dentistry and public health dentistry in 1945, and held that position until 1964, when he became professor emeritus of dentistry and public health dentistry at the University of Michigan. He retired from the University in 1963, after serving 35 years on the faculty.  He died on December 21, 1979 at the age of 86.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Easlick collection consists of materials relating to his service in World War I with the U.S. Army Ambulance Service Section 591, including copies of <title render="italic">Le Jubicourt Matin</title>, a journal of the reminiscences of the men of Unit #591, bulletins, a photograph album and miscellaneous correspondence and directories. Other materials in the collection include speeches, correspondence, and miscellanea relating to his career in children's dentistry. The collection concludes with a presentation volume of remembrances received upon his retirement in 1961, a volume of remembrances received from his students in 1964, and letters of condolence.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Dentistry--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Dentists--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Ambulance Service. Section 591.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. School of Dentistry.</corpname>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918--Education and the war.</subject>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918--Michigan--Ann Arbor.</subject>
+<title source="aacr2" encodinganalog="730">Jubicourt matin.</title>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+
+<persname source="lcnaf" encodinganalog="600">Easlick, Kenneth A. (Kenneth Alexander), 1893-1979.</persname>
+<geogname source="lcsh" encodinganalog="651">Finance.</geogname>
+<subject source="lctgm" encodinganalog="650">Military art and science.</subject>
+<subject source="lctgm" encodinganalog="650">Military facilities.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Ambulance Service. Section 591.</corpname>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="lctgm" encodinganalog="655">Albums.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>United States Army Ambulance Corps, Unit #591</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Le Jubicourt Matin</title></unittitle></did>
+<note><p>(a semi-annual journal containing reminiscences of the men of #591)</p></note><c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1922/1967">1922-1967</unitdate> incomplete </unittitle> <physdesc><extent>23 volumes</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>U.S.A.A.C. Bulletin, <unitdate type="inclusive" normal="1934/1977">1934-1977</unitdate></unittitle> <physdesc><extent>3 folders</extent></physdesc></did><note><p>(scattered issues)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> The history of the United States Ambulance Service with the French and Italian Armies, 1917-1918-1919</title> (<unitdate type="inclusive" normal="1967">1967</unitdate>)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Memoirs of 591 in the World War</title> by DeWitt C. Miller, <unitdate type="inclusive" normal="1932">1932</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers, <unitdate type="inclusive">ca. 1924-1977</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did> <note><p>(includes correspondence, directories, etc.)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Easlick Genealogy, from 1810-1900 compliled by Kenneth A. Easlick</unittitle></did><note><p>(includes a portion of the chapter dealing with his service in World War I (incomplete))</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Speeches and related materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1932/1937">1932-1937</unitdate> </unittitle> <physdesc><extent>11 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1937/1941">1937-1941</unitdate> </unittitle> <physdesc><extent>18 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>South American dental publications, some featuring Kenneth Easlick, <unitdate type="inclusive" normal="1940/1949" certainty="approximate">1940s</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence, clippings, and other papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1941/1960">1941-1960</unitdate> and <unitdate type="inclusive" normal="1974">1974</unitdate> </unittitle> <physdesc><extent>20 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>World War I photograph <genreform normal="Albums">album</genreform>, <unitdate type="inclusive" normal="1917/1919">1917-1919</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Photos detached from album</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Personal; later career</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Volume of letters received in <unitdate type="inclusive" normal="1961">1961</unitdate> upon occasion of his retirement</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Volume of remembrances of Easlick by his former students, <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Condolences and letters of remembrance received by his family in <unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Letters received in <unitdate type="inclusive" normal="1973">1973</unitdate> after receiving award from the American Society of Dentistry for Children</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Miscellaneous awards and citations</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Miscellaneous correspondence and clippings</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

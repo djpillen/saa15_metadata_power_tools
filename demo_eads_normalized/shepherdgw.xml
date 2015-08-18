@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::shepherdgw.xml//EN" encodinganalog="Identifier">
+umich-bhl-2014151</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+George W. Shepherd papers 
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Claire De Witt </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2014">
+2014</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2014</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2014-11-10</date><item>Original encoding from Word 2010 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+George W. Shepherd Papers, 1919-1965</titleproper>
+
+<author>Finding aid created by<lb/> 
+Claire De Witt, October 2014</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Shepherd, George W.</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+George W. Shepherd papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1919-1965
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1919-1939
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+3 linear feet and 2 maps (in 1 tube)</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2014151 Aa 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+George W. Shepherd was a Congregationalist missionary in China with the New Life Movement from 1919-1939 and advisor to Chiang Kai-Shek; married to Dr. Clara (Sargent) Shepherd. The collection includes George Shepherd's writings about his experiences in China, family correspondence, sermons and lectures, and material from the New Life Movement.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was received from Jay J. Pease, Jr. (donor no. <num type="donor" encodinganalog="541$e">11126</num>) in August 2011.</p></acqinfo>
+ 
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+George W. Shepherd papers, Bentley Historical Library, University of Michigan</p></prefercite>
+
+ 
+
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>George W. Shepherd served as a Congregationalist missionary in China between 1919 and 1939 during which time he became intimately involved in that country's political workings.  Shepherd worked mainly in the Fukien region, though he traveled due to professional assignments and the political climate.  Shepherd became proficient in the Chinese language and worked to spread Christianity around the Chinese countryside.</p>
+
+<p>During Shepherd's time as a missionary China experienced much political turmoil.    Both the Communist and Nationalist parties raised armies and fighting broke out across China as both factions sought dominance.  Chiang Kai-Shek, the leader of the Nationalist party, gained control of the country in 1928.  The Nationalists were largely anti-Western and anti-Communist and instead embraced Confucianism and other traditional Chinese influences.</p>
+
+<p>Shepherd's close connection with Chinese politics developed during the latter half of his time in China as the result of his work with Chiang Kai-Shek's wife, known as Madame Kai-Shek, and the New Life Movement she supported.  The New Life Movement sought to blend Chinese moral values found in Confucianism along with some Christianity and had a heavy nationalist influence.  George Shepherd focused primarily on the Christianity piece and sought to spread Christianity to as many Chinese citizens as possible through the New Life Movement.</p>
+
+<p>George Shepherd and his family eventually had to leave China in 1939 because of the looming Second World War; however he continued to speak about his time in China and even wrote a book that was never published about his experiences.  He also collected his letters and writings from the time and kept them together.  His wife Dr. Clara Sargent Shepherd wrote about the family's experiences in an unpublished memoir.</p>
+</bioghist>
+
+<arrangement encodinganalog="351">
+<p>
+The papers consist of two series: Writings and New Life Movement in China Materials.</p>
+</arrangement>
+
+<scopecontent encodinganalog="520">
+<p>The George W. Shepherd papers provide an intimate look at Chiang Kai-Shek and China through the eyes of a Congregationalist minister.  The papers also document the experience of a missionary family living in China between 1919 and 1939.  This collection will be used by those seeking information about China from an American/Australian Christian perspective during a time of great change within China. Shepherd's writings include correspondence, memoranda, notes, and manuscript of Shepherd's book about Chiang Kai-Shek and China. The New Life Movement in China materials include promotional materials, photographs, maps, and missionary records.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Chiang, Kai-Shek 1887-1975.</persname>
+<geogname source="lcsh" encodinganalog="651">China--History--Republic, 1912-1949.</geogname>
+<geogname source="lcsh" encodinganalog="651">Politics and Government-- 1912-1949.</geogname>
+<geogname source="lcsh" encodinganalog="651">Social conditions.</geogname>
+<subject source="lcsh" encodinganalog="650">Missionaries--China--20th century.</subject>
+ 
+<corpname source="lcnaf" encodinganalog="610">New Life Movement.</corpname>
+<persname source="lcnaf" encodinganalog="600">Shepherd, George W.</persname>
+<persname source="lcnaf" encodinganalog="600">Shepherd, Clara Sargent.</persname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lctgm" encodinganalog="650">Agricultural laborers.--China--20thcentury.</subject>
+<geogname source="lcsh" encodinganalog="651">China--Maps.</geogname>
+<subject source="lctgm" encodinganalog="650">Missionaries--China--20th century.</subject>
+
+<subject source="lctgm" encodinganalog="650">Students--China--20th century.</subject>
+</controlaccess>
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Shepherd, Clara Sargent.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Maps.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Writings, <unitdate type="inclusive" normal="1919/1943">1919-1943</unitdate>, <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle></did><scopecontent><p>The Writings series (1919-1943; 2 linear feet) contains material written by, with, or to George Shepherd.  Of particular note are a typed memoir that Dr. Clara Sargent Shepherd wrote about the family's life in China and several drafts of an unpolished book by Shepherd about his time working with Chiang Kai-Shek.  The manuscript and memoir are based largely off of correspondence included in this series, both original handwritten and typed letters.  Other items include lecture and sermon notes with topics such as prayer, character, and the significance of holidays, personal memorandum books, and notes on Christian mission work including building a new world and other topics.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1919/1939">1919-1939</unitdate> </unittitle> <physdesc><extent>13 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Manuscript, <unitdate type="inclusive">after 1939</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did> <note><p>(Shepherd's book about Chiang Kai-Shek)</p></note></c02>
+<c02 level="file"><did><unittitle>Memoir: "Yours in the Bonds of Love" by Clara Shepherd</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1965">1965</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>After <unitdate type="inclusive" normal="1939">1939</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Memorandum, <unitdate type="inclusive" normal="1934">1934</unitdate>, <unitdate type="inclusive" normal="1938">1938</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Notes on General Missions, <unitdate type="inclusive" normal="1940">1940</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Sermon and Lecture Notes, <unitdate type="inclusive" normal="1943">1943</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>8 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>New Life Movement in China Materials,  <unitdate type="inclusive" normal="1919/1943">1919-1943</unitdate></unittitle></did><scopecontent><p>The New Life Movement in China Materials series (1919-1943; 2 linear feet) holds materials regarding Shepherd's work with the New Life Movement while he was in China.  This includes promotional booklets and published materials about China as well as some of Shepherd's materials from working with Chinese citizens.  Also included are some of Shepherd's travel in China materials with dates of travel.  The series also contains photographs of Chinese citizens, Chiang Kai-Shek and his wife, and Shepherd himself.  In addition there are two oversize maps of China in this collection, one made in the United States date unknown, and one made in China in 1938.</p></scopecontent>
+
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Christian Mission Materials, <unitdate type="inclusive" normal="1938">1938</unitdate>, <unitdate type="inclusive" normal="1941">1941</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+
+<c02 level="file"><did><unittitle>Maps</unittitle></did>
+
+<c03 level="file"><did><container type="tube" label="Tube">1</container><unittitle>New Map of China, <unitdate type="inclusive" normal="1938">1938</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="tube" label="Tube">1</container><unittitle>Map of China, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Photographs, <unitdate type="inclusive">circa  1919-1939</unitdate> </unittitle> <physdesc><extent>9 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Promotional Materials, <unitdate type="inclusive" normal="1931">1931</unitdate>, <unitdate type="inclusive" normal="1935/1942">1935-1942</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Travel Materials <unitdate type="inclusive" normal="1930">1930</unitdate>-<unitdate type="inclusive" normal="1941">1941</unitdate></unittitle></did></c02></c01>
+
+</dsc>
+
+<descgrp type="add"><relatedmaterial><head>Related Material</head><p>For other related material see the University of Stanford's Hoover Institute's George W. Shepherd papers.</p></relatedmaterial></descgrp>
+
+
+
+</archdesc>
+
+</ead>

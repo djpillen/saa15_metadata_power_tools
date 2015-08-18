@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::youngjg.xml//EN" encodinganalog="Identifier">
+umich-bhl-8716</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+John G. Young papers, 1969-1976
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>September 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-09-12</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+John G. Young papers, 1969-1976</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Young, John G.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+John G. Young papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1969-1976
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8716 Aa 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of engineering, and director of engineering placement at the University of Michigan. Files relating to student demonstrations and protests over the visits of corporate recruiters to the University; includes handouts, correspondence, clippings, policy statements, and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Professor Young (donor no. <num type="donor" encodinganalog="541$e">6483</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+John G. Young papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>John G. Young was professor of engineering at the University of Michigan. For many years, he had responsibility for the student placement in the U-M College of Engineering</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection relates primarily to student demonstrations and protests over the visits of corporate recruiters to the University of Michigan in the period of the late 1960s to the mid-1970s.  The series in the collection are Demonstrations and disturbances; Forums; University student organizations; and Miscellaneous.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Engineering.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Political activity.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1961-1970.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1971-1980.</corpname>
+<subject source="lcsh" encodinganalog="650">Demonstrations--Michigan--Ann Arbor.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Demonstrations--Michigan--Ann Arbor.</subject>
+<subject source="lctgm" encodinganalog="650">Slogans.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Engineering.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Political activity.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1971-1980.</corpname>
+<persname source="lcnaf" encodinganalog="600">Young, John G.</persname>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Demonstrations and disturbances</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Litton Systems, <unitdate type="inclusive"> January 1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dow Chemical, <unitdate type="inclusive"> February 1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Naval Weapons demonstration, <unitdate type="inclusive"> March 1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Vietnam Moratorium, <unitdate type="inclusive"> October 1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hughes Aircraft, <unitdate type="inclusive"> October 1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>DuPont Corporation, <unitdate type="inclusive"> January 1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>DuPont Corporation (Central Student Judiciary Trial)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General Electric, <unitdate type="inclusive"> February 1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General Electric (Robert Parsons case)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lockheed Corporation, <unitdate type="inclusive"> February 1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dow Chemical, <unitdate type="inclusive"> February 1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>RAM strike, <unitdate type="inclusive"> March 1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Atlantic Richfield, <unitdate type="inclusive"> March 1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dow Chemical, <unitdate type="inclusive"> October 1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Honeywell Corporation, <unitdate type="inclusive"> February 1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Exxon Corporation, <unitdate type="inclusive"> February 1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Oil company protests, <unitdate type="inclusive"> February 1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Central Intelligence Agency/National Security Agency, <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Forums</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Consumers Power visit, <unitdate type="inclusive"> November 1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>University student organizations</unittitle></did>
+<c02 level="file"><did><unittitle>Office of Student Services</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Policies</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Questionnaire on South Africa</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Opinions and reactions</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings and related materials</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Senate Assembly</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Student Relations Committee</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Judiciary Committee</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Radical College</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Policy Committee" on placement</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Research issue</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Protest materials </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform>: mainly student demonstration against visit of Exxon Corp. recruiters, <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

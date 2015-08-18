@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::miensian.xml//EN" encodinganalog="Identifier">
+umich-bhl-92537</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Michiganensian photograph collection, ca. 1977-1981
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-02-25</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Michiganensian photograph collection, ca. 1977-1981</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Michiganensian.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Michiganensian photograph collection 
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1977-1981
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.25 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+92537 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+University of Michigan student yearbook. Photos of student activities and organizations, athletics, and campus scenes.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The photographs were donated by the organization (donor no. <num type="donor" encodinganalog="541$e">1967</num>).  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Michiganensian photograph collection, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Michiganensian is the student yearbook of the University of Michigan.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of photographs taken by student members of the staff of the Michiganensian. The photographs were taken for the 1980 and 1981 issues of the publication and document student activities and organizations, athletics, and campus scenes.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+<controlaccess><head>Subjects - Visual Materials:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Sports.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Societies, etc.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1971-1980.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1981-1990.</corpname>
+<subject source="lcsh" encodinganalog="650">Greek letter societies--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor--Societies and clubs.</subject>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform> Published <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle></did>
+<c02 level="file"><did><unittitle>Student Activities</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Sports, Men's</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Sports, Women's</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Student Life Exteriors</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Student Life Interiors</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Student Musicians</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Students</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>University Photographs</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Buildings</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Ann Arbor Photographs</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Businesses and views</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform> Published <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle></did>
+<c02 level="file"><did><unittitle>Student Activities</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Demonstrations</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Peace Corps Ceremonies (20th Anniversary)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Sports, Men's</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Sports, Women's</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Student Life</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Theater and Art</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Student Organizations</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Societies and Clubs</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Students-Groups</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Dormitory Residents</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Fraternities </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Sororities</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>University Photographs</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Buildings</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Faculty</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Gerald R. Ford Library</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Individuals</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Medical School-Burn Unit</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>President Harold T. Shapiro</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Solar Power</unittitle></did></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

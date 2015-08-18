@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::salinewo.xml//EN" encodinganalog="Identifier">
+umich-bhl-852185</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Saline Woman’s Club (Mich.) Records
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by
+Marian J. Matyn </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Cheney J. Schopieray, 
+<date>January 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-MD-DD</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Saline Woman’s Club (Mich.) Records, 1905-1987</titleproper>
+
+<author>Finding aid created by<lb/> 
+Marian J. Matyn, October 15, 1988</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Saline Woman’s Club (Mich.)
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Saline Woman’s Club (Mich.) Records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1905-1987
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.25 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+852185 Bk.w 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Administrative records, newspaper clippings, and photographs, 1905-1987,  of the Saline Woman’s Club, founded in 1904.  The organization’s initial literary focus later expanded to include welfare and civic improvements.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by the Saline (Mich.) Woman's Club through Mrs. F.N. Lockwood January 28, 1947, and Mrs. Edith Mueller, May 5, 1977 and September 26, 1988 (donor <num type="donor" encodinganalog="541$e">2263</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The records are open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Saline Woman’s Club (Mich.) Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Mrs. Jenny Brown and Mrs. Fannie Unterkircher co-founded the Saline Literary Club in 1904. As the Club's membership grew from its initial six female members, its literary endeavors expanded to include welfare and civic improvements. This development led to the Club's name being changed to the Saline Woman's Club in 1910. The Club joined the state federation in 1908 and the county federation in 1916.</p>
+
+<p>Over the years, the many good deeds of the Club have included donations of food, clothes, and monetary funding to orphans, prisoners, the city of Saline, and victims of national disasters.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The records of the Saline Woman's Club include 1.25 linear feet of administrative records and clippings dating from 1905 to 1987. The collection is arranged alphabetically by topic, excepting a folder of organizational histories located at the front of the collection. Items within folders are arranged chronologically.</p>
+
+<p>Of particular interest to the researcher will be the organizational histories, minutes, and presidents' reports which detail the Club's deeds and concerns.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname encodinganalog="610" source="lcnaf">Saline Woman's Club (Mich.).</corpname>
+<geogname encodinganalog="655" source="lcsh">Saline (Mich.).</geogname>
+<subject encodinganalog="650" source="lcsh">Women--Michigan--Saline--Societies and clubs.</subject>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject encodinganalog="650" source="lcsh">Costumes.</subject>
+<geogname encodinganalog="651" source="lcsh">Saline (Mich.).</geogname>
+<corpname encodinganalog="610" source="lcnaf">Saline Woman's Club (Mich.).</corpname>
+<subject encodinganalog="650" source="lcsh">Women.</subject>
+<subject encodinganalog="650" source="lcsh">Women--Organizations.</subject>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+
+<corpname encodinganalog="710" source="lcnaf">Saline Woman's Club (Mich.).</corpname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform encodinganalog="655" source="aat">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Topical Files</unittitle></did>
+
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Organizational Histories (various dates)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings, ca. 1910-1984</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution, By-laws, Rules,<unitdate type="inclusive" normal="1939/1982">1939-1982</unitdate></unittitle></did></c02>
+
+<c02 level="file"><did><unittitle>Minutes</unittitle></did>
+
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>June 1905-March 1909</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>March 1909-May 1912</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>October 1912-March 1916</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>October 1930-May 1934</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>September 1934-April 1938</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>April 1938-September 1941</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>October 1941-May 1945</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>July 1945-May 1950</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>June 1950-June 1955</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>October 1955-May 1962</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>October 1962-May 1968</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>October 1968-May 1971</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>October 1971-May 1977</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>May 1977-September 1985</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous, <unitdate type="inclusive">ca.1928-1984</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Presidents' Reports,<unitdate type="inclusive" normal="1968/1986">1968-1986</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Yearbooks,<unitdate type="inclusive" normal="1905/1906">1905-1906</unitdate>-<unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Photographs, 1960s-1980s</unittitle></did></c03></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

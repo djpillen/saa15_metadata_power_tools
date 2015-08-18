@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::blanjant.xml//EN" encodinganalog="identifier">umich-bhl-028</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Janet Blanchard Papers <date>1987-1990</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Karen Jania</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2003</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>September 2003</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20030926</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Janet Blanchard Papers, <date type="inclusive">1987-1990</date></titleproper><author>Finding aid prepared by: <lb/>Karen Jania</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Blanchard, Janet</persname></origination>
+<unittitle encodinganalog="245">Janet Blanchard Papers
+<unitdate type="inclusive" encodinganalog="245$f" normal="1987/1990">1987-1990</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">3.5 linear ft.</extent></physdesc>
+<abstract>Career state government worker, later wife of Michigan governor James J. Blanchard. Files detailing her career in state government and her later duties as wife of Michigan governor James J. Blanchard, 1989-1990. The collection includes extensive documentation of the Governor's Task Force on Telecommunications (1990) on which she served.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">028 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>These files were received as part of the James J. Blanchard gubernatorial papers accession.  Donor no. <num type="donor" encodinganalog="541$e">7893</num>.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright of the James Blanchard gubernatorial papers from which these files were taken has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Janet Blanchard Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Janet Fox Blanchard was a native of Williamston, Michigan.  She attended Michigan State University in the mid-1970s and later took evening classes in Western Michigan University's satellite program in Lansing.  She graduated with a bachelor of arts degree in 1988.  Until her marriage to James Blanchard in September 1989, Janet Blanchard was a career civil servant working in various state departments, serving at the time of her marriage as executive assistant of the Cabinet Council on Human Investment (beginning in 1987).</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The collection is divided into three series.  In addition to a few folders of biographical information, there is a small series of correspondence and other materials pertaining to her education and career prior to her marriage to Governor James J. Blanchard.  The third series of papers relates to Janet Blanchard's role as First Lady of Michigan.  This later series is comprised of general information, including correspondence; organizational activities files, with extensive documentation pertaining to the Governor's Task Force on Telecommunications in 1990; and events files containing speeches, drafts of talks, and related correspondence detailing her attendance and participation at various public functions.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><persname source="lcnaf" encodinganalog="600">Blanchard, Janet.</persname><persname source="lcnaf" encodinganalog="600">Blanchard, James J., 1942-</persname><subject source="lcsh" encodinganalog="650">Governors' spouses--Michigan.</subject><corpname source="lcnaf" encodinganalog="610">Michigan. Governor (1983-1991 : Blanchard)</corpname><corpname source="lcnaf" encodinganalog="610">Michigan. Governor's Telecommunication Task Force.</corpname><subject source="lcsh" encodinganalog="650">Women--Michigan.</subject></controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head><persname source="lcnaf" encodinganalog="600">Blanchard, Janet.</persname><corpname source="lcnaf" encodinganalog="610">Michigan Information Technology Network, Inc.</corpname><corpname source="lcnaf" encodinganalog="610">Children's Trust Fund for the Prevention of Child Abuse.</corpname><subject source="lctgm" encodinganalog="650">Schools--Michigan</subject></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Videotapes.</genreform><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Biographical/Personal</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Vita</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle><physdesc><extent>2 folders</extent></physdesc><physdesc><physfacet>mainly photocopies</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Wedding related correspondence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Honeymoon photographs and Christmas cards</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letter from Yousuf Karsh, <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Janet Fox Papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Educational records</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Employment history</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Cabinet Council on Human Investment, <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Janet Fox/James Blanchard engagement, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>First Lady files</unittitle></did>
+<c02 level="subseries"><did><unittitle>Miscellaneous</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform source="aat" normal="Photographs">Photographs</genreform></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Interviews, published material</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle><physdesc><extent>15 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Volunteerism</unittitle><physdesc><extent>3 folders</extent></physdesc></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Organizational Activities</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Child care initiatives (include Governor's Task Force on Child Care), <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Children's Trust Fund papers and <genreform source="aat" normal="Videotapes">videotapes</genreform>, <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle><physdesc><extent>6 folders and 2 VHS videotapes</extent></physdesc></did></c03>
+<c03 level="file"><did><unittitle>Governor's Task Force on Telecommunications</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Budget evaluations, agendas, minutes</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Correspondence and clippings</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Current infrastructure assessment, <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle><physdesc><extent>7 folders</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Deliverables draft text, <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle><physdesc><extent>8 
+folders</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>EDS and task force recommendations, <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Executive order and task force vision statements</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Final report-draft text</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Implementation strategies-draft report, <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Michigan Information Technology Network papers and <genreform source="aat" normal="Videotapes">videotape</genreform></unittitle><physdesc><extent>1 folder and VHS videotape</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Objectives and recommendations</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Potential implementation strategies</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Recommended strategies-draft report, <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Michigan 4-H Foundation, <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Speeches/public appearances</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Schedules</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Event files, <unitdate type="inclusive">September 1989-July 1990</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Event files, <unitdate type="inclusive">July 1990-November 1990</unitdate></unittitle></did></c03></c02></c01></dsc></archdesc></ead>

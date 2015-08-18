@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::emigvaxi.xml//EN" encodinganalog="Identifier">
+umich-bhl-851312</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Emigrantinstitutet (Växjö, Sweden) letters, 1869-1932
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-12-03</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Emigrantinstitutet (Växjö, Sweden) letters, 1869-1932</titleproper>
+      <author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Emigrantinstitutet (Växjö, Sweden).
+</corpname>
+</origination>
+      <unittitle encodinganalog="245">
+Emigrantinstitutet (Växjö, Sweden) letters 
+<unitdate type="inclusive" encodinganalog="245$f">
+1869-1932
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+0.5 linear feet
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851312 Bz 2</unitid>
+      <langmaterial>The material is in <language langcode="swe" encodinganalog="041">Swedish</language> </langmaterial>
+      <abstract>
+Copies of letters from Swedish immigrants to Michigan to family and friends in  Sweden.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was photocopied from the holdings of the Emigrantinstitutet (donor no. <num type="donor" encodinganalog="541$e">5310</num>).  
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is not held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <originalsloc>
+        <p>The original letters are held by Emigrantinstitutet (Växjö, Sweden).</p>
+      </originalsloc>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Emigrantinstitutet (Växjö, Sweden) letters, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>The Emigrantinstitutet was established in 1965. Its purpose was to preserve records, interviews, and memorabilia relating to the period of major Swedish emigration between 1846 and 1930. Much of this emigration was to the United States.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>This is a collection of copied letters from the holdings of the Emigrantinstitutet in Växjö, Sweden. The letters are from Swedish immigrants in Michigan and Indiana to their friends and families in Sweden. The letters are from various Michigan communities, including Benton Harbor, Calumet, Chippewa Lake, Custer, Elk Rapids, Escanaba, Grand Rapids, Hancock, Iron Mountain, Ironwood, Kalkaska, L'Anse, Ludington, Manistee, Marquette, Menominee, Michigamme, Montague, Muskegon, Rapid River, Tustin, and Vulcan. One of the letters is from Johan G. R. Baner of Ironwood, Michigan. In addition, there is daybook maintained by an immigrant recounting travels in America in 1890.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <geogname source="lcsh" encodinganalog="651">Benton Harbor (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Calumet (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Chippewa Lake (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Custer (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Elk Rapids (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Michigan--Emigration and immigration.</geogname>
+        <geogname source="lcsh" encodinganalog="651">Escanaba (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Grand Rapids (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Hancock (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Indiana.</geogname>
+        <geogname source="lcsh" encodinganalog="651">Iron Mountain (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Ironwood (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Kalkaska (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">L'Anse (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Ludington (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Manistee (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Marquette (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Menominee (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Michigamme (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Michigan City (Ind.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Montague (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Muskegon (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Rapid River (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650">Swedish Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
+        <geogname source="lcsh" encodinganalog="651">Tustin (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Vulcan (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Sweden--Emigration and immigration.</geogname>
+        <subject source="lcsh" encodinganalog="650">Immigrants--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">Immigrants--Indiana.</subject>
+        <geogname source="lcsh" encodinganalog="651">Indiana--Emigration and immigration.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Banér, Johan G. R. (Johan Gustav Runeskeold), 1861-1938.</persname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Immigrant letters and daybook</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Immigrant daybook, <unitdate type="inclusive" normal="1890">1890</unitdate>, describing travels in America</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Immigrant letters</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Miscellaneous</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Benton Harbor, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Calumet, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Chippewa Lake, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Custer, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Elk Rapids, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Escanaba, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Grand Rapids, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Hancock, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Iron Mountain, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Ironwood, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Kalkaska, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>L'Anse, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Ludington, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Manistee, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Marquette, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Menominee, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Michigamme, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Michigan City, Ind.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Montague, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Muskegon, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Rapid River, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Tustin, Mich.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Vulcan, Mich.</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

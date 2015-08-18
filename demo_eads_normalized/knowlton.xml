@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+    <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+        <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::knowlton.xml//EN" encodinganalog="identifier">umich-bhl-88475</eadid>
+
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Finding Aid for Jerome Cyril Knowlton Autograph Book </titleproper>
+                <author encodinganalog="creator">Collection processed and finding aid created by Bentley Historical Library Staff </author>
+            </titlestmt>
+
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+                <date encodinganalog="date"> 2005 </date>
+            </publicationstmt>
+        </filedesc>
+
+        <profiledesc>
+            <creation>Encoded finding aid created by Greg Kinney, <date>Nov. 2005</date></creation>
+
+            <langusage>The finding aid is written in <language langcode="eng">English</language></langusage>
+        </profiledesc>
+
+        <revisiondesc>
+            <change>
+                <date>20051129</date>
+                <item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+
+    <frontmatter>
+        <titlepage>
+
+            <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+            <titleproper>Finding aid for<lb/> Jerome Cyril Knowlton Autograph Book</titleproper>
+
+            <author>Finding aid created by<lb/> Bentley Historical Library Staff</author>
+
+        </titlepage>
+    </frontmatter>
+
+    <archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21">
+        <did>
+
+            <origination>
+                <persname source="lcnaf" encodinganalog="100"> Knowlton, Jerome C. (Jerome Cyril),1850-1916. </persname>
+            </origination>
+
+            <unittitle encodinganalog="245"> Jerome Cyril Knowlton autograph book and photographs <unitdate type="inclusive" encodinganalog="245$f"> 1892 </unitdate>
+            </unittitle>
+
+            <physdesc><extent encodinganalog="300">1 volume and 1 folder </extent></physdesc>
+
+            <unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number"> 88475 Aa/1 </unitid>
+
+            <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language>
+            </langmaterial>
+
+            <abstract> Professor of law at the University of Michigan. Collection consists of autographs and sentiments of University of Michigan faculty and photographs. </abstract>
+
+
+            <repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+                <extptr href="bhladd" show="embed" actuate="onload"/></repository>
+        </did>
+
+        <descgrp type="admin">
+            <acqinfo encodinganalog="541">
+                <p> Donor No. <num type="donor" encodinganalog="541$e">220</num>.</p>
+            </acqinfo>
+
+            <accessrestrict encodinganalog="506">
+                <p> The collection is open to research. </p>
+            </accessrestrict>
+
+            <userestrict encodinganalog="540">
+                <p> Copyright is sheld by the Regents of the University of Michigan. </p>
+            </userestrict>
+
+
+            <prefercite encodinganalog="524">
+                <p>[item], folder, box, Jerome Cyril Knowlton autograph book and photographs, Bentley Historical Library, University of Michigan</p>
+            </prefercite>
+        </descgrp>
+
+        <bioghist encodinganalog="545">
+            <p>Jerome C. Knowlton joined the faculty as a full-time professor in 1886/87. He served as Dean of the Law School, 1891-1895, and returned to the faculty until is death in 1916.</p>
+        </bioghist>
+
+
+
+        <scopecontent encodinganalog="520">
+            <p>The Knowlton collection consists of autographs and sentiments of University of Michigan faculty and photographs of Knowlton in classroom and with family members and a childhood
+                photograph of Knowlton's daughter.</p>
+        </scopecontent>
+
+        <controlaccess>
+            <p><extptr href="accnote" show="embed" actuate="onload"/></p>
+            <controlaccess>
+                <head>Subjects:</head>
+                <persname source="lcnaf" encodinganalog="600">Knowlton, Jerome C. (Jerome Cyril), 1850-1916.</persname>
+                <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+            </controlaccess>
+
+            <controlaccess>
+                <head>Subjects - Visual Materials:</head>
+                <subject source="lctgm" encodinganalog="650">Classrooms--Michigan--Ann Arbor.</subject>
+                <persname source="lcnaf" encodinganalog="600">Knowlton, Jerome C. (Jerome Cyril), 1850-1916.</persname>
+                <famname source="lcnaf" encodinganalog="600">Knowlton family.</famname>
+                <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+            </controlaccess>
+
+            <controlaccess>
+                <head>Genre Terms:</head>
+                <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+                <genreform source="aat" encodinganalog="655">Autographs.</genreform>
+            </controlaccess>
+
+        </controlaccess>
+
+
+        <dsc type="combined">
+
+
+            <c01 level="series">
+                <did>
+                    <unittitle>Papers</unittitle>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unittitle>Autograph Book</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder" label="Folder">1</container>
+                        <unittitle>Photographs</unittitle>
+                        <physdesc><extent>4 items</extent></physdesc>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+
+</ead>

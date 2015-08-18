@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::alpharho.xml//EN" encodinganalog="Identifier">
+umich-bhl-90167</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Alpha Rho Chi (Fraternity) Iktinos Chapter records, 1909-1993
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Eleanor Fye, April 1990</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2006-11-13</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2006-11-13</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Alpha Rho Chi (Fraternity) <lb/>Iktinos Chapter records, 1909-1993
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Eleanor Fye, April 1990
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Alpha Rho Chi (fraternity). Iktinos chapter (University of Michigan).
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Alpha Rho Chi (Fraternity) Iktions Chapter records
+<unitdate type="inclusive" encodinganalog="245$f">
+1909-1993
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2.5 linear ft. and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+90167 Bimu 41; UBImum F41
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+ University of Michigan chapter of an architecture student fraternity.  Minutes, 1909-1931, of Architectural Society, a University of Michigan group; minutes, newsletters, and other materials of Iktinos Chapter of Alpha Rho Chi; and collected material relating to activities of national office.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group (Donor No. <num type="donor" encodinganalog="541$e">7537</num>
+) was received in March 1988.  Additions have been received.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>Periodic additions to the records expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The record group is open for research.</p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the University of Michigan
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Alpha Rho Chi (fraternity) Iktinos Chapter records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Alpha Rho Chi is a national professional fraternity limiting its membership to students of architecture and the allied arts.  It was founded at the Universities of Illinois and Michigan in April 1914, with the intent of enhancing and promoting the artistic, scientific, and practical development of younger members of the architectural profession.</p>
+
+<p>The Iktinos chapter at the University of Michigan has long been active on local and national levels in pursuing this goal.  Locally, they have sponsored numerous social activities, as well as educational lectures by notable professional architects.  Nationally, members have played an active role in the fraternity's national conventions, and in alumni relations.  Some of the records in the collection were damaged by water during a fire at the fraternity's Ann Arbor house in 1938.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The records of the Iktinos Chapter of the Alpha Rho Chi Professional Architectural Fraternity comprise four series: Architectural Society (1909-1931) and Alpha Rho Chi (1914-1993), Photographs, and Sound Recordings.  Within each subgroup, files are arranged alphabetically.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname encodinganalog="610" source="lcnaf">Alpha Rho Chi (Fraternity). |b Iktinos Chapter (University of Michigan).</corpname><corpname encodinganalog="610" source="lcnaf">University of Michigan Architectural Society.</corpname><corpname encodinganalog="610" source="lcnaf">University of Michigan |x Students |x Societies, etc.</corpname>
+<subject normal="650" source="lcsh">Architecture.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<corpname encodinganalog="610" source="lcnaf">Alpha Rho Chi (Fraternity).-Iktinos Chapter (University of Michigan).</corpname><corpname encodinganalog="610" source="lcnaf"> University of Michigan--Students.</corpname><corpname encodinganalog="610" source="lcnaf">University of Michigan--Buildings.</corpname>
+
+</controlaccess>
+
+
+
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform encodinganalog="655" source="aat">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Architectural Society</unittitle></did>
+<scopecontent>
+<p>The Architectural Society series (0.1 linear ft.) consists of the minutes of the society, a University of Michigan organization formed in 1909 and active until 1931.  The minutes indicate that the focus of the society's activity was social.  However, in addition to sponsoring dances, they appear to have also sponsored lectures by faculty members.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Architectural Society minutes, <unitdate type="inclusive" normal="1909/1931">1909-1931</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Alpha Rho Chi</unittitle></did>
+<scopecontent>
+<p>The records of the Alpha Rho Chi series (1.9 linear ft.) contain almost equal parts local and national records.  Included are extensive chapter minutes, covering social activities and lectures.  Also included is the chapter newsletter, which includes announcements of activities as well as news about alumni.  The "Guest Books" provide a glimpse of what specific activities took place, and who attended.  The "House Fund" file contains an interesting entry regarding the chapter's acquisition of their own house in 1922.  The national records include an almost complete run of the national magazine.  Subjects covered include activities of active members and alumni and events at universities.  The "Reports of the Annual National Convention" (.5 linear ft.) give an excellent view of the fraternity's goals and achievements at the national and chapter levels.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Archi" (national magazine), <unitdate type="inclusive" normal="1918/1986">1918-1986</unitdate></unittitle> <physdesc><extent>5 folders</extent></physdesc><note><p>(incomplete)</p></note></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Grand Council of Alpha Rho Chi Financial Reports, <unitdate type="inclusive" normal="1956/1970">1956-1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Guest Books (bound), <unitdate type="inclusive" normal="1919/1965">1919-1965</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>House Fund, <unitdate type="inclusive" normal="1919/1922">1919-1922</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Iktinews" chapter newsletter (incomplete), <unitdate type="inclusive" normal="1948/1993">1948-1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Minutes, <unitdate type="inclusive" normal="1914/1971">1914-1971</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1914-May 1948</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did> <note><p>(gap from 1928 to 1937)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive"> September 1948-May 1971</unitdate> </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Pledge Manuals </unittitle></did><note><p>(? to 10/80)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Reports of the Annual National Convention (1st to 34th), <unitdate type="inclusive" normal="1915/1972">1915-1972</unitdate> </unittitle> <physdesc><extent>10 folders</extent></physdesc></did> <note><p>(missing 26th, 30th and 33rd annual conventions)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Financial Records (includes membership dues), <unitdate type="inclusive" normal="1913/1915">1913-1915</unitdate> (2 bound volumes)</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Collected materials from individual members</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Bert Trowell file (miscellaneous materials)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Amy Reineri file (miscellaneous materials)</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Photographs</unittitle></did>
+<scopecontent><p>The Photographs series includeds photos of fraternity members, the Alpha Rho Chi house and various socal  activities.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Fraternity house</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Group portraits</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Social activities</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Various groupings</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Sound recording</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Bertil Lindblad tape discussing in part the history of APX for <unitdate type="inclusive" normal="1936/1940">1936-1940</unitdate> </unittitle> <physdesc><extent>1 sound cassette</extent></physdesc></did> <note><p>(mainly music of the period and U-M Glee Club)</p></note></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

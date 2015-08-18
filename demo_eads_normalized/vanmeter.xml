@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::vanmeter.xml//EN" encodinganalog="Identifier">
+umich-bhl-2011076</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Margie J. Van Meter papers, 1968-1986
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Natalie Bond, February 2011</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2011</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2001-107-07</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Margie J. Van Meter papers, 1968-1986
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Natalie Bond, February 2011
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="110">
+Van Meter, Margie J.
+</persname></origination>
+
+<unittitle encodinganalog="245">
+Margie J. Van Meter papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1968-1986
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2011076 Aa 
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Margie J. Van Meter was among the first clinical nurse specialists at the University of Michigan.  Her papers document her training as a clinical nurse specialist at the University of Michigan's School of Nursing and the early years of her nursing career in the University of Michigan Health System.  The collection contains Van Meter's daily journals (4 spiral notebooks), covering the years between 1970 and 1972.  Various administrative materials and educational material are included in the papers.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Material was received in 2002 (donor no. <num type="donor" encodinganalog="541$e">9274</num>).  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>No further additions are expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>Restricted access in part; see access restrictions on following page.</p>
+
+<p>The RECORD GROUP record group includes restricted material in the following categories: 
+<list type="simple">
+<item>Patient/Client Records -- Boxes 2</item>
+
+</list></p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Margie J. Van Meter papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Margie J. Van Meter was a Clinical Nursing Specialist at the University of Michigan Hospital following her graduation from the School of Nursing graduate program in 1970.  She worked primarily on the 9 West floor of the University Hospital, as well as in the hospital's pain clinic.  Van Meter was also the Coordinator of Nursing Quality, and was the Recording Secretary for the Nursing Honorary Society, Sigma Rho.</p>
+
+<p>Van Meter later became involved with the Haiti Nursing Foundation, an organization that provides financial support to the school of nursing at Faculté des Sciences Infirmières [de Léogâne] l'Université Episcopale d'Haïti, as well as funding for various projects to improve nursing in Haiti.  She was the recipient of the Friend of Nursing Award in 2009 from the University of Michigan School of Nursing.</p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Margie J. Van Meter Papers are divided into three series relating to her education and work as a clinical nursing specialist: Administrative, Clinical Nursing Specialist records, School of Nursing, Patient Logs and Records. </p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Van Meter, Margie J., 1937-</persname>
+<subject source="lcsh" encodinganalog="650">Nurses--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Nursing--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Nurse practitioners.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Medical-Surgical Nursing Area.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Hospital.</corpname>
+
+</controlaccess>
+
+
+
+
+
+
+
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Clinical Nursing Specialist records</unittitle></did>
+<scopecontent><p>The Clinical Nursing Specialist records contain records from Van Meter's time on the 9 West floor of the University of Michigan Hospital, as well as papers from an MBO (Management by Objectives) workshop.  Two bound packets distributed at Clinical Nursing Specialist (CNS) symposiums reflect early meetings and organization of Clinical Nursing Specialists from 1974 and 1975. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Administrative</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>9 West, <unitdate type="inclusive" normal="1970/1976">1970-1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>MBO (Management by Objectives) Workshop, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Meeting/Staff Notes, <unitdate type="inclusive" normal="1971/1978">1971-1978</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Position Description (CNS, Clinical Nursing Specialist), <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clinical Nursing Specialist Symposium, <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clinical Nursing Specialist Symposium, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1970/1978">1970-1978</unitdate>, <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Forms</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Self Evaluations, <unitdate type="inclusive" normal="1970/1972">1970-1972</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>School of Nursing</unittitle></did>
+<scopecontent><p>The School of Nursing series contains van Meter's notes from medical-surgical seminars, as well as from other classes and workshops between 1968 and 1970.  Term papers done by Van Meter are included. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Class and Workshop Notes, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Medical-Surgical Seminars</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Term Papers, <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Patient Records and Logs</unittitle></did>
+<scopecontent><p>The series Patient Records and Logs is restricted due to the presence of name identifiable patient information.  These records consist of four spiral-bound notebooks containing Van Meter's daily notes, remarks, reflections on CNS care and practices, and patient observations from 1970 to 1972, as well as a smaller notebook with similar contents.  Patient Files contains similar materials, the personal medical records of those patients treated by Van Meter at the University of Michigan Hospital.  These records include patient profiles, nursing assessments, and updates on patient conditions.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Patient Logs, <unitdate type="inclusive" normal="1970/1972">1970-1972</unitdate></unittitle></did><accessrestrict><p>[CR Restricted until <date normal="2074-07-01" type="restriction">July 1, 2074</date>]</p></accessrestrict></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Patient Records, <unitdate type="inclusive" normal="1970/1974">1970-1974</unitdate> </unittitle> <physdesc><extent>7 folders</extent></physdesc></did><accessrestrict><p>[CR Restricted until <date normal="2074-07-01" type="restriction">July 1, 2074</date>]</p></accessrestrict></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Patient Files Discharged, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle></did><accessrestrict><p>[CR Restricted until <date normal="2074-07-01" type="restriction">July 1, 2074</date>]</p></accessrestrict></c02></c01>
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

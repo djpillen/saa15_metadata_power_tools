@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::tappanhp.xml//EN" encodinganalog="Identifier">
+umich-bhl-86101</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Henry Philip Tappan papers, 1840-1936
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014-03-12</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+      <change>
+        <date>2008-02-22</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Henry Philip Tappan papers, 1840-1936</titleproper>
+      <author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">
+Tappan, Henry Philip, 1805-1881.
+</persname>
+      </origination>
+      <unittitle encodinganalog="245">
+Henry Philip Tappan papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1840-1936
+</unitdate><unitdate type="bulk" encodinganalog="245$g">
+1840-1881
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+1 linear foot (in 3 boxes) and 2 oversize folders
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86101 Aa 2; Ac; UAm
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+First president of University of Michigan. Correspondence, essays, sermons, lectures, poetry, and photographs.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload"/>
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was transferred from the Graduate Library of the University of Michigan (donor no. <num type="donor" encodinganalog="541$e">1278</num>), with an addition in 2013 from Marguerite O. O'Connell (donor no. <num type="donor" encodinganalog="541$e">9477</num>).</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box, Henry Philip Tappan papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Henry Philip Tappan, first president of the University of Michigan, was born at Rhinebeck on the Hudson, New York on April 18, 1805.  He graduated with a B.A. degree from Union College in Schenectady in 1825, then received a divinity degree from Auburn Theological Seminary in 1827. In 1828, he was ordained a minister of the Congregational Church, but medical difficulties shortened his ministerial career allowing him time to travel. From 1832 to 1837, Tappan was professor of moral and intellectual philosophy at the University of the City of New York.</p>
+      <p>Prior to coming to the University of Michigan in 1852, Tappan lived and studied abroad, becoming acquainted with the progressive and scholarly traditions of European universities.  As president, Tappan was responsible for the growth of the University, for improving the quality of faculty, and for the founding of the Detroit Observatory. Tappan also faced opposition to his leadership from the Board of Regents and in 1863, he was asked to resign. The remaining years of his life were spent in Switzerland, where he died November 15, 1881.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Tappan papers include addresses, lectures, sermons, poems, biographical material, list of books in the Tappan library, and correspondence. The correspondence deals with his scholarly interests, particularly in philosophy and education, his travels in Europe, and University of Michigan matters. Tappan's correspondents include James B. Angell, Thomas M. Cooley, Victor Cousin, Edward P. Evans, Alpheus Felch, Samuel F. B. Morse, Charles H. Palmer, Julia Livingston Tappan, and Andrew D. White. A separate group of correspondence is addressed from Tappan to his friend and financial advisor Edwards Pierrepont. There is also correspondence about Tappan particularly between Charles M. Perry and graduates and officials of The University of Michigan, and three volumes of manuscript poems by Tappan. </p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="650">Poetry.</subject>
+        <subject source="lcsh" encodinganalog="650">Clergy--Michigan--Ann Arbor.</subject>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. President.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects: Visual Materials</head>
+        <subject source="lctgm" encodinganalog="650">Medals.</subject>
+        <subject source="lctgm" encodinganalog="650">Monuments and memorials.</subject>
+        <subject source="lctgm" encodinganalog="650">Sculpture.</subject>
+        <geogname source="lcsh" encodinganalog="651">Switzerland.</geogname>
+        <persname source="lcnaf" encodinganalog="600">Tappan, Henry Philip, 1805-1881.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Angell, James Burrill, 1829-1916.</persname>
+        <persname source="lcnaf" encodinganalog="700">Cooley, Thomas McIntyre, 1824-1898.</persname>
+        <persname source="lcnaf" encodinganalog="700">Cousin, Victor, 1792-1867.</persname>
+        <persname source="lcnaf" encodinganalog="700">Evans, E. P. (Edward Payson), 1831-1917.</persname>
+        <persname source="lcnaf" encodinganalog="700">Felch, Alpheus, 1804-1896.</persname>
+        <persname source="lcnaf" encodinganalog="700">Morse, Samuel Finley Breese, 1791-1872.</persname>
+        <persname source="lcnaf" encodinganalog="700">Palmer, Charles Henry, 1814-1887.</persname>
+        <persname source="lcnaf" encodinganalog="700">Tappan, Julia Livingston.</persname>
+        <persname source="lcnaf" encodinganalog="700">White, Andrew Dickson, 1832-1918.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655">Sermons.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence </unittitle>
+        </did>
+        <note>
+          <p>(microfilm copy of most of the correspondence is available)</p>
+        </note>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1840/1863">1840-1863</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1864/1870">1864-1870</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1871/1877">1871-1877</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1878/1881">1878-1881</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence with Edwards Pierrepont</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1855/1866">1855-1866</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1867/1869">1867-1869</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1870/1880">1870-1880</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Biographical</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Letters of Charles M. Perry re Henry P. Tappan, <unitdate type="inclusive" normal="1909/1938">1909-1938</unitdate> (scattered)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Collected materials of Charles M. Perry re Henry P. Tappan, including copies of Tappan letters</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Letters to James B. Angell and Alfred H. Lloyd from Henry W. Rankin concerning in part Tappan, <unitdate type="inclusive" normal="1909">1909</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder" label="Oversize Folder">Ac</container>
+            <unittitle>Auction list </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder" label="Oversize Folder">Ac</container>
+            <unittitle>
+              <title render="italic">Detroit Daily Advertiser</title> articles </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>List of books in Tappan's library</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Essays, addresses, etc.</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Moral philosophy: include "A Course of Moral Philosophy" and manuscripts on philosophy and ideas on universities</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>John Milton, essay on</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Manuscript of essay "Psychology" </unittitle>
+            <physdesc>
+              <extent>2 folders</extent>
+            </physdesc>
+          </did>
+          <note>
+            <p>(include typescript version)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>
+              <genreform normal="Sermons">Sermons</genreform>
+            </unittitle>
+            <physdesc>
+              <extent>3 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Poetry</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Translation of "Nibelungenlied"</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Poetry and manuscript volumes of poetry </unittitle>
+            <physdesc>
+              <extent>3 volumes and 1 folder</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>
+            <genreform normal="Photographs">Photographs</genreform>
+          </unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Portraits</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder" label="Folder">UAm</container>
+            <unittitle>Photographs of Switzerland; and photographs of sculptures and other Tappan memorials </unittitle>
+          </did>
+          <note>
+            <p>(in oversize folder UAm)</p>
+          </note>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

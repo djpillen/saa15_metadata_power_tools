@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::rinseyfa.xml//EN" encodinganalog="Identifier">
+umich-bhl-861000</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Rinsey family papers, 1856-1950
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>January 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-01-28</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Rinsey family papers, 1856-1950</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<famname encodinganalog="100" source="lcnaf">Rinsey family.</famname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Rinsey family papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1856-1950
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1913-1928
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+861000 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Ann Arbor, Michigan family, proprietors of Rinsey &amp; Seabolt grocery store. Papers of David Rinsey, Ann Arbor, Michigan, grocer; also papers of his son George, a bank teller, and of George's wife, Ina Alexander Rinsey; including correspondence, legal documents, and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by the estate of Ina Alexander Rinsey (donor no. <num type="donor" encodinganalog="541$e">7263</num>) and came to the library in 1985.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Rinsey family papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Rinsey family, headed by David Rinsey, were proprietors of Rinsey &amp; Seabolt grocery store of Ann Arbor, Michigan. His son George Rinsey was a bank teller. </p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection includes correspondence and legal documents of David Rinsey, his son George, and of George's wife, Ina Alexander Rinsey. There are also photographs and photograph albums of the Rinsey family's home and place of business in Ann Arbor. The photographs consists of both formal and informal portraits; interior and exterior photos of their homes on North Division St., Ann Arbor, Michigan; interior and exterior photos of Rinsey &amp; Seabolt grocery on E. Washington St.; and photographs of family events and activities.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<geogname source="local" encodinganalog="691">Ann Arbor (Mich.)--Dwellings.</geogname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor.</subject>
+<famname source="lcnaf" encodinganalog="600">Alexander family.</famname>
+
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Buildings.</geogname>
+<geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Churches.</geogname>
+<geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Dwellings.</geogname>
+<geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Grocery stores.</geogname>
+<geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Streets.</geogname>
+<subject source="lctgm" encodinganalog="650">Buildings--Michigan--Ann Arbor.</subject>
+<subject source="lctgm" encodinganalog="650">Children.</subject>
+<subject source="lctgm" encodinganalog="650">Churches--Michigan--Ann Arbor.</subject>
+<subject source="lctgm" encodinganalog="650">Clothing and dress.</subject>
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Ann Arbor.</subject>
+<geogname source="lctgm" encodinganalog="651">Dwellings--Ohio.</geogname>
+<subject source="lctgm" encodinganalog="650">Families.</subject>
+<subject source="lctgm" encodinganalog="650">Fathers and children.</subject>
+<geogname source="lcsh" encodinganalog="651">Florida.</geogname>
+<subject source="lctgm" encodinganalog="650">Funeral rites and ceremonies.</subject>
+<subject source="lctgm" encodinganalog="650">Grocery stores--Michigan--Ann Arbor.</subject>
+<subject source="lctgm" encodinganalog="650">Interiors.</subject>
+<geogname source="lcsh" encodinganalog="651">Mackinac Island (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Nuns.</subject>
+<persname source="lcnaf" encodinganalog="600">Rinsey, Ina Alexander.</persname>
+<famname source="lcnaf" encodinganalog="600">Rinsey family.</famname>
+<corpname source="lcnaf" encodinganalog="610">St. Thomas the Apostle Church (Ann Arbor, Mich.)</corpname>
+<subject source="lctgm" encodinganalog="650">Streets--Michigan--Ann Arbor.</subject>
+<subject source="lctgm" encodinganalog="650">Weddings.</subject>
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Rinsey, David, b. 1838.</persname>
+<persname source="lcnaf" encodinganalog="700">Rinsey, George, 1881-</persname>
+<persname source="lcnaf" encodinganalog="700">Rinsey, Ina Alexander.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="gmgpc" encodinganalog="655">Albums.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1913/1927">1913-1927</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1928">1928</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1929">1929</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1930/1948">1930-1948</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous and <unitdate type="inclusive">Undated</unitdate> material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Album of letters to Theodore Alexander upon death of his wife, <unitdate type="inclusive" normal="1906">1906</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper Clippings </unittitle> <physdesc><extent>1 folder and 1 album</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legal Documents Land Contracts Mortgages Stock Certificates Warranty Deeds Wills Miscellaneous </unittitle></did> <note><p>(include specifications for 402 N. Division home)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Portraits </unittitle> <physdesc><extent>3 envelopes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Informal photos of family members and others</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>David Rinsey home, 402 N. Division, Ann Arbor </unittitle></did> <note><p>(include informal photos of Rinsey children by house)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>George Rinsey home, 406 N. Division</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Rinsey property, 4th and Division </unittitle></did> <note><p>(now Embassy Hotel)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Rinsey store, interior (Washington Street), <unitdate type="inclusive">ca. 1910s</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bowling Green, Ohio, home</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Family <genreform normal="Albums">albums</genreform> </unittitle> <physdesc><extent>3 volumes</extent></physdesc></did> <note><p>(one album includes views of home, St. Thomas Church in Ann Arbor, and vacation photos)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

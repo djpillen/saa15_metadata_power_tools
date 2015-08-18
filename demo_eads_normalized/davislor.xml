@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::davislor.xml//EN" encodinganalog="Identifier">
+umich-bhl-851220</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Lorenzo Davis papers, 1822-1899
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>July 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-07-30</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Lorenzo Davis papers, 1822-1899</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Davis, Lorenzo, 1812-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Lorenzo Davis papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1822-1899
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.6 linear feet (in 2 boxes)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851220 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Washtenaw County, Michigan minister, local historian and public official; correspondence, sermons, and collected papers relating to the history of Ann Arbor and Washtenaw County, Michigan.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was transferred from the Graduate Library of the University of Michigan (donor no. <num type="donor" encodinganalog="541$e">1278</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Lorenzo Davis papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Lorenzo Davis was born in Covington, N.Y., April 29, 1812, the son of Jonathan E. and Hannah (Curtis) Davis, natives of Massachusetts.  His father was a farmer, teacher and itinerant Methodist Episcopal minister.  In 1828, Lorenzo moved to Ypsilanti only to return to New York in 1829, then back again to Michigan in 1831.  In 1834 Davis obtained a license to preach, and was received into the Ohio conference, which then included the Michigan Territory.  He was pastor in various Michigan communities before finally settling in Ann Arbor in 1845 where he both preached and clerked in a drug store.  In his life, Davis had many activities and interests: as a publisher, farmer, as register of deeds for two years, as town clerk and superintendent of the poor, as active member of the Washtenaw County Pioneer Society, and member and secretary of the Agricultural Society of Washtenaw County.</p></bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>Except for a scattering of correspondence and sermon notes, the bulk of the Davis collection relates to the Washtenaw County Pioneer Society and to the history of Ann Arbor and Washtenaw County. Included is correspondence of Ezra and William S. Maynard, biographies of early pioneers, papers relating to the development of the temperance movement in Washtenaw County, the history of Northfield, Sylvan, and Ypsilanti Townships, Michigan; papers, 1881, concerning the First Congregational Church of Salem Township, Michigan; and papers, 1866, concerning the Ann Arbor Sunday School Convention. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Congregational Churches--Michigan--Salem.</corpname>
+<subject source="lcsh" encodinganalog="650">Farmers--Michigan--Washtenaw County.</subject>
+<subject source="lcsh" encodinganalog="650">Frontier and pioneer life--Michigan--Washtenaw County.</subject>
+<geogname source="lcsh" encodinganalog="651">Northfield (Mich. : Township)</geogname>
+<geogname source="lcsh" encodinganalog="651">Salem (Washtenaw County, Mich. : Township)</geogname>
+<geogname source="lcsh" encodinganalog="651">Sylvan (Washtenaw County, Mich. : Township)</geogname>
+<subject source="lcsh" encodinganalog="650">Temperance--Michigan--Washtenaw County.</subject>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+<geogname source="lcsh" encodinganalog="651">Washtenaw County (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Washtenaw County (Mich.). Board of the Superintendents of the Poor.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Washtenaw County Historical Society.</corpname>
+<geogname source="lcsh" encodinganalog="651">Ypsilanti (Mich. : Township)</geogname>
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Maynard, William Sumner, 1802-1866.</persname>
+<persname source="lcnaf" encodinganalog="700">Maynard, Ezra.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform encodinganalog="655" source="aat">Sermons.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Personal and collected material</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1822/1899">1822-1899</unitdate> </unittitle></did> <note><p>(include correspondence with William S. Maynard)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings concerning the meetings of Washtenaw County Pioneer Society, <unitdate type="inclusive" normal="1870/1879" certainty="approximate">1870s</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Recollections by Davis of the early ministers of Washtenaw County</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History of Ann Arbor by Lorrin Mills read to the Washtenaw County Pioneer Society, <unitdate type="inclusive" normal="1877">1877</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History of Ann Arbor by Thomas Holmes; and other historical and biographical notes</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers relating to the history of Washtenaw County</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers concerning the board of the superintendents of the poor of Washtenaw County, <unitdate type="inclusive" normal="1833">1833</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History of the temperance movement in Washtenaw County</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes of the Washtenaw County Pioneer Society, <unitdate type="inclusive" normal="1878/1879">1878-1879</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Receipts of Eagle Fire Company, No. 1, <unitdate type="inclusive" normal="1864">1864</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Paper concerning the First Congregational Church of Salem Township, Washtenaw County, <unitdate type="inclusive" normal="1881">1881</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers concerning the Ann Arbor Sunday School Convention, <unitdate type="inclusive" normal="1866">1866</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers concerning the history of Ypsilanti, Sylvan, and Northfield townships</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Map of the Navarre farm on the Raisin River, <unitdate type="inclusive" normal="1838">1838</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Records of the bounty paid on the scalps of woodchucks, <unitdate type="inclusive" normal="1885/1886">1885-1886</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Sermons">Sermons</genreform>: Lorenzo Davis </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographies of early residents of Washtenaw County</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>List of Washtenaw County residents willing to serve in home guard, <unitdate type="inclusive" normal="1861">1861</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Personal notebook</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Road assessments, <unitdate type="inclusive" normal="1881/1885">1881-1885</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>School censuses and reports, <unitdate type="inclusive" normal="1881/1886">1881-1886</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

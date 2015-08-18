@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::rosschow.xml//EN" encodinganalog="identifier">umich-bhl-85367</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for C. Howard Ross Papers <date>ca. 1955-1980</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Roberta Keniston</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2003</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>December 2003</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20031211</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>C. Howard Ross Papers, <date type="inclusive">ca. 1955-1980</date></titleproper><author>Finding aid prepared by: <lb/>Roberta Keniston</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Ross, C. Howard, 1890-1980.</persname></origination>
+<unittitle encodinganalog="245">C. Howard Ross Papers
+<unitdate type="inclusive" encodinganalog="245$f">ca. 1955-1980</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">1 linear ft.</extent></physdesc>
+<abstract>Ann Arbor, Michigan, physician, researcher and speaker on such topics as geriatrics, local history, and the use of herbs and plants in medical treatment. Correspondence, published and unpublished writings, speeches and talks, clippings, photographs, and other papers relating to his various interests.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">85367 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was the gift of Mrs. C. Howard Ross (donor no. <num type="donor" encodinganalog="541$e">3180</num>) and came to the library in March 1983.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., C. Howard Ross Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>C. Howard Ross was born in Troy, Ohio on July 6,1890. He graduated from Troy High School in 1908 and taught in the village school until 1912, when he entered The University of Michigan. He paid for his education by working as an Instructor in Botany. In 1916 he received a degree in Forestry with distinction.</p>
+<p>After teaching high school for one year, Ross served in the U.S. Army during World War I. From 1919 until 1927, he worked first with Deere and Company in Moline, Illinois and then as Manager of the Union Malleable Iron Company.</p>
+<p>Since childhood Ross had ambitions of becoming a doctor, and in 1927, at the age of 37, he entered The University of Michigan Medical School, graduating at the age of 41. After an internship and a term as half-time Instructor in Internal Medicine while he built up his practice, he devoted full time to private practice in Ann Arbor until he retired at the age of 78. His special medical interests were geriatrics, medical writing, and medical ethics and economics.</p>
+<p>Considered one of the leading Michigan experts in the field of geriatrics, Ross was a wise and compassionate physician to all of his patients, but particularly to the elderly. He published extensively in the field of geriatrics, as well as in gardening, history, especially local history, and the use of plants and herbs in medicinal treatments. He was in great demand as an interesting and witty speaker.</p>
+<p>Remaining active throughout his older years, Ross died at the age of 90, August 30, 1980.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The C. Howard Ross Collection covers the period from about 1955 to 1980, and is made up largely of material related to Dr. Ross' strongest interests: geriatrics and history. There is little in the collection dealing with his childhood, his years as a school teacher or his work in industry. The bulk of the material deals with his years as a doctor and after his retirement from practice, and consists largely of reprints of published articles on geriatrics and history, especially local history, and of unpublished manuscripts chiefly about history and biography. There are some clippings concerning his activities as a physician and as a speaker on medical and other topics, primarily gardening, local history, and the use of herbs and plants in medicinal treatment.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--History.</geogname><subject source="lcsh" encodinganalog="650">Medicine--Michigan.</subject><subject source="lcsh" encodinganalog="650">Physicians--Michigan--Ann Arbor.</subject><persname source="lcnaf" encodinganalog="100">Ross, C. Howard, 1890-1980.</persname></controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head><geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname><geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Buildings.</geogname><geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Business enterprises.</geogname><geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Courthouses.</geogname><geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Hotels and taverns.</geogname><geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Streets.</geogname><persname source="lcnaf" encodinganalog="600">Binder, Charles.</persname><subject source="lctgm" encodinganalog="650">Buildings--Michigan--Ann Arbor.</subject><corpname source="lcnaf" encodinganalog="610">Charles Binder Saloon (Ann Arbor, Mich.)</corpname><persname source="lcnaf" encodinganalog="600">Cooper, Harry D., 1863-1933.</persname><subject source="lctgm" encodinganalog="650">Courthouses--Michigan--Ann Arbor.</subject><subject source="lctgm" encodinganalog="650">Hotels and taverns--Michigan--Ann Arbor.</subject><subject source="lctgm" encodinganalog="650">Streets--Michigan--Ann Arbor.</subject><corpname source="lcnaf" encodinganalog="610">University of Michigan. Class of 1916.</corpname><corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing--1901-1910.</corpname><corpname source="lcnaf" encodinganalog="610">Washtenaw County Courthouse (Ann Arbor, Mich.)</corpname></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Topical Files, <unitdate type="inclusive"> ca. 1955-1980</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Abortion (views about)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>American Medical Writers Association</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor Historical Foundation</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Awards</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Christmas greetings, <unitdate type="inclusive" normal="1967/1980">1967-1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings about</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Committee on Courses on Medical Economics and Ethics</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fox, Winslow (article, "Physicians Walk Among Many Religions")</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Manuscripts of Unpublished Writings</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Adventures in Royalty and Botany"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>American History</unittitle><physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>European History</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Medicine</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Professor Joseph B. Steere"</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Poems</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Radio Talks</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Review</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Washtenaw Historical Society</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Writings (published)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Geriatrics</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Medicine</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Dr. Tom Lovell, the Cobbler Poet"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Michigan's Railroad Jack"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"The Practice of Medicine in the Revolutionary War"</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform source="aat" normal="Photographs">Photographs</genreform></unittitle><physdesc><extent>2 envelopes</extent></physdesc></did><note><p>(include photographs of Ann Arbor, Michigan streets and businesses, and of Washtenaw County courthouse; exterior view of the Charles Binder saloon with beer wagon in front (ca. 1890); photos of miscellaneous buildings and personalities; and 1956 reunion photo of University of Michigan Class of 1916 College of Literature, Science, and the Arts)</p></note></c02></c01></dsc></archdesc></ead>

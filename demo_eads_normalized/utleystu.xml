@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::utleystu.xml//EN" encodinganalog="Identifier">
+umich-bhl-740</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Stuart Wells Utley pamphlets and reprints, 1920s-1930s
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-02-08</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Stuart Wells Utley pamphlets and reprints, 1920s-1930s</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff </author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Utley, Stuart Wells, 1879-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Stuart Wells Utley pamphlets and reprints 
+<unitdate type="inclusive" encodinganalog="245$f">
+1920s-1930s
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 box 
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+DA 2; U91; A227</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+This collection of pamphlets and reprints was accumulated from different sources.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright status o the pamphlets isunknown.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Stuart Wells Utley pamphlets and reprints, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Detroit, Michigan manufacturer.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>This is a collection of pamphlets and reprints, accumulated from different sources, and written by Stuart Wells Utley, a Detroit, Michigan, businessman.</p>
+</scopecontent>
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Pamphlets and reprints</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">American principles or planned economy, which will you choose?</title></bibref></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">The challenge to business management.</title></bibref></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">Commercialism.</title></bibref></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">The duty of the church to the social order.</title></bibref></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">For whom shall I vote-Mr. Roosevelt or Mr. Landon?</title></bibref></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">If government regulations are to take away profits from business, who must absorb the losses?</title></bibref></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">The industrialist and politics.</title></bibref></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">Industry and civilization.</title></bibref></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">Industry's contribution to civilization.</title></bibref></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">The New Deal.</title></bibref></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">On the road to Moscow.</title></bibref></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">President's address to the Employers' Association of Detroit, 1924 and 1925</title></bibref></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">The role of the steel foundry industry in the war.</title></bibref></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">This industry of ours.</title></bibref></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">What is ahead in the way of our responsibility to our employees?</title></bibref></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">What of the future.</title></bibref></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><bibref><title render="italic">What the future holds for American citizens.</title></bibref></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::allenemo.xml//EN" encodinganalog="Identifier">
+umich-bhl-85588</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Emmet O. Allen papers, 1867-1931
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>July 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-07-31</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Emmet O. Allen Papers, 1867-1931</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Allen, Emmet O. (Emmet Oliver), 1846-1933.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Emmet O. Allen papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1867-1931
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear ft.</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85588 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Emmet O. and Elizabeth Howell Allen family of Bridgewater Township, Washtenaw County, Michigan.  Correspondence concerning daily activities and pioneer life in Kansas and Clinton, Michigan.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Mildred Allen (donor no. <num type="donor" encodinganalog="541$e">4831</num>) and came to the library in 1971.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+No copyright restrictions
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Emmet O. Allen Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Emmet O. Allen was born May 24, 1846 in Bridgewater Township, Washtenaw County, Michigan.  His family had recently moved from New York State.  He attended a rural school close to his home, also a school at Clinton and Ypsilanti, Michigan.  As a young man, he lived in Kansas for a time, but then came back to Michigan.  In 1881, he married Elizabeth (Libbie) Howell.  Both he and his wife were teachers.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>This family collection is divided into the following series: William F. Allen; Emmet O. Allen; Elizabeth Howell Allen; Matthew Howell; and Photographs</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Bridgewater (Mich. : Township)</geogname>
+<geogname source="lcsh" encodinganalog="651">Clinton (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Farm life--Michigan--Washtenaw County.</subject>
+<geogname source="lcsh" encodinganalog="651">Kansas.</geogname>
+<geogname source="lcsh" encodinganalog="651">Washtenaw County (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Women in agriculture--Michigan--Washtenaw County.</subject>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Allen, Elizabeth Howell.</persname>
+<persname source="lcnaf" encodinganalog="700">Linden, Judson.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>William F. Allen </unittitle></did> <note><p>(father of Emmet O. Allen)</p></note>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters to his brother Oliver Allen of East Bethany, Genesee County, New York, <unitdate type="inclusive" normal="1841/1857">1841-1857</unitdate> </unittitle></did> <note><p>(the letters are written from Tecumseh and Clinton)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Emmet O. Allen</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reminiscences, letters, and essays, <unitdate type="inclusive" normal="1867/1875">1867-1875</unitdate> </unittitle> <physdesc><physfacet>photocopy</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1860/1931">1860-1931</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>12 folders</extent></physdesc></did> <note><p>(some gaps in dates)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters from friend Judson Linden, <unitdate type="inclusive" normal="1872/1888">1872-1888</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc> <physdesc><physfacet>include some transcriptions of letters</physfacet></physdesc></did> <note><p>(most of the letters written from Kansas)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Elizabeth Howell Allen</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1868/1936">1868-1936</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>11 folders</extent></physdesc></did> <note><p>(the letters are from friends and family members)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Essays, <unitdate type="inclusive" normal="1869/1900">1869-1900</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Matthew Howell </unittitle></did> <note><p>(Matthew Howell was the father of Elizabeth Howell and lived near Saline, in Clinton and Adrian, Michigan)</p></note>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letter received, <unitdate type="inclusive" normal="1846/1898">1846-1898</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Portraits of family members</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

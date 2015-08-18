@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::nrefmap.xml//EN" encodinganalog="Identifier">
+umich-bhl-2010010</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+[Maps of Archangel District, Russia], 4th ser., [1918?]</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections, Bentley Historical Library </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2010">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Len Coombs, 
+<date>2010</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc>
+<change><date>20100108</date><item>Original encoding.</item></change>
+</revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+[Maps of Archangel District, Russia], 4th ser., [1918?]</titleproper>
+
+<author>Finding aid created by<lb/> 
+Len Coombs, 2010</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+North Russia Expeditionary Force. Mapping Section.</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+[Maps of Archangel District, Russia], 4th ser.<unitdate type="inclusive" encodinganalog="245$f">
+[1918?]</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+9 maps : col. ; 27 x 35 cm.</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+M7063.A7 1918 U5d (2010010)</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Maps created for the  Allied intervention in Russia, 1918-1919, the "Polar Bear Expedition."</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Mrs. Roy Worden, of Jackson, Michigan, in 1966 (Donor No. <num type="donor" encodinganalog="541$e">4376</num>), 
+and Hugo Salchow, of Southfield, Michigan, in 1972 (Donor No. <num type="donor" encodinganalog="541$e">5216</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the collection are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open for research.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>item, folder title, box. no., North Russia Expeditionary Force. Mapping Section. 
+[Maps of Archangel District, Russia], 4th ser., [1918?], 
+Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<scopecontent encodinganalog="520"><p>
+The collection contains <genreform normal="maps">maps</genreform> (Scale 1:420,000) of the district of 
+<geogname normal="Arkhangel'sk (Russia)">Archangel, Russia</geogname> 
+created by engineers of the Allied intervention in North Russia, the 
+<corpname normal="North Russia Expeditionary Force. Mapping Section.">N.R.E.F. Mapping Section.</corpname> The Bentley Historical Library 
+has only a partial set of these maps.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head>
+<geogname source="lcnaf" encodinganalog="651">Arkhangel'skaia oblast' (Russia)--Maps.</geogname>
+<geogname source="lcnaf" encodinganalog="651.">Soviet Union--History--Allied intervention, 1918-1920--Maps.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Elope. Mapping Section.</corpname>
+<corpname source="lcnaf" encodinganalog="610">North Russia Expeditionary Force. Mapping Section.</corpname>
+<corpname encodinganalog="690" source="local">Polar Bear Expedition--Maps.</corpname>
+
+</controlaccess>
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Maps.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="file"><did><unittitle>Maps</unittitle></did>
+
+<c02 level="file"><did><container type="folder" label="Folder">1</container>
+<unittitle>Maps</unittitle></did>
+</c02>
+
+</c01>
+
+
+
+
+</dsc></archdesc>
+
+</ead>

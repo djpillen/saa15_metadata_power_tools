@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::spoonerc.xml//EN" encodinganalog="Identifier">
+umich-bhl-93676</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+C. Willett Spooner visual materials collection, 1957-1960
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2010</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2010-01-13</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+C. Willett Spooner visual materials collection, 1957-1960</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Spooner, C. Willett (collector).
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+C. Willett Spooner visual materials collection
+<unitdate type="inclusive" encodinganalog="245$f">
+1957-1960
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 film reels (8mm, 550 ft.) with DVD use copy and streaming file
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+93676 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Films, DVD use copies and streaming files the construction of the Great Lakes freighter Edmund Fitzgerald, the launchings of the freighters Herbert C. Jackson and Arthur B. Homer, and the maiden voyage of the Homer. These freighters were the last ships built by Great Lakes Engineering Works, River Rouge, Michigan</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of C. Willett Spooner (donor no.
+<num type="donor" encodinganalog="541$e">8130</num>).</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the collection are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.   The original 8mm films are restricted, DVD use copy and streaming file available.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+C. Willett Spooner visual materials collection, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>C. Willett Spooner was professor in the Department of Naval Architecture and Marine Engineering at the University of Michigan. In the late 1950s, he left the university in order to work in private industry. Perhaps in this connection, he was able to obtain these motion pictures relating to the construction of freighters by the Great Lakes Engineering Works of River Rouge, Michigan.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Spooner collection consists of two motion pictures (with DVD use copy) of the construction of the Great Lakes freighter Edmund Fitzgerald, the launchings of the freighters Herbert C. Jackson and Arthur B. Homer, and the maiden voyage of the Homer. These freighters were the last ships built by Great Lakes Engineering Works of River Rouge, Michigan.</p>
+
+<p>In 2009 a preservation tape, DVD use copy and master and streaming  digital files of the motion pictures were made.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<corpname source="lcnaf" encodinganalog="610">Arthur B. Homer (Ship)</corpname>
+<subject source="lctgm" encodinganalog="650">Boat and ship industry--Michigan--River Rouge.</subject>
+<corpname source="lcnaf" encodinganalog="610">Edmund Fitzgerald (Ship)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Great Lakes Engineering Works.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Herbert C. Jackson (Ship)</corpname>
+<subject source="lctgm" encodinganalog="650">Launchings.</subject>
+<geogname source="lctgm" encodinganalog="651">River Rouge (Mich.)--Boat and ship industry.</geogname>
+<subject source="lctgm" encodinganalog="650">Ships--Great Lakes.</subject>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">DVDs.</genreform>
+
+<genreform source="aat" encodinganalog="655">Motion pictures.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Motion 
+Pictures</unittitle></did>
+<c02 level="item"><did><unittitle>Building of the Edmund Fitzgerald, 
+<unitdate type="inclusive" normal="1957/1958">1957-1958</unitdate></unittitle><unitid>93676-1</unitid></did>
+<c03 level="otherlevel" otherlevel="item-part"><did><unittitle>Original: </unittitle> 
+<physdesc><physfacet>8 mm film,  color, silent, 
+00:27:10</physfacet></physdesc></did> 
+<accessrestrict><p>[Restricted]</p></accessrestrict></c03>
+<c03 level="otherlevel" otherlevel="item-part"><did><container type="box" label="DVD Box">10</container><unittitle>Use Copy: </unittitle> 
+<physdesc><physfacet>DVD</physfacet></physdesc></did>
+</c03>
+<c03 level="otherlevel" otherlevel="item-part"><did><unittitle>Streaming File: 93676-1</unittitle> 
+<physdesc><physfacet>flash-flv</physfacet></physdesc></did></c03></c02>
+
+
+<c02 level="item"><did><unittitle>Launchings of the freighters 
+Herbert C. Jackson and Arthur B. Homer, and the maiden voyage 
+of the Homer,  <unitdate type="inclusive" normal="1959/1960">1959-1960</unitdate></unittitle><unitid>93676-2-2</unitid></did>
+<c03 level="otherlevel" otherlevel="item-part"><did><unittitle>Original: </unittitle> 
+<physdesc><physfacet>8 mm film,  color, silent, 
+00:10:24</physfacet></physdesc></did><accessrestrict><p>[Restricted]</p></accessrestrict></c03>
+<c03 level="otherlevel" otherlevel="item-part"><did><container type="box" label="DVD Box">10</container><unittitle>Use Copy: </unittitle> 
+<physdesc><physfacet>DVD</physfacet></physdesc></did>
+</c03>
+<c03 level="otherlevel" otherlevel="item-part"><did><unittitle>Streaming File:  93676-1-2 
+</unittitle> 
+<physdesc><physfacet>flash-flv</physfacet></physdesc></did></c03></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

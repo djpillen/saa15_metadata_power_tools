@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::obrienfm.xml//EN" encodinganalog="Identifier">
+umich-bhl-85401</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+O’Brien Family (Detroit, Mich.) papers, ca. 1932-1965
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2007">
+2007</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>April 2007</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2007-04-10</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+O’Brien Family (Detroit, Mich.) <lb/>Papers, ca. 1932-1965</titleproper>
+      <author>Finding aid created by<lb/> 
+Michigan Historical Collections staff, October 1980</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<famname source="lcnaf" encodinganalog="100">
+O’Brien Family
+</famname>
+</origination>
+      <unittitle encodinganalog="245">
+O’Brien Family (Detroit, Mich.) papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1932-1965
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+1 linear foot and 1 oversize volume
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85401 Aa 2; AC
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+O'Brien family of northern Michigan and Detroit, Michigan; family papers of Patrick H. O'Brien and other family members.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was the gift of Mr. and Mrs. John O’Brien (donor no. <num type="donor" encodinganalog="541$e">6526</num>) and came to the library in 1980.  
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+Periodic additions to the records are not expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+O’Brien Family (Detroit, Mich.) papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Patrick H. O'Brien was born in Michigan's Upper Peninsula on March 15, 1868. He graduated from Northern Indiana Law School in 1891, then began the practice of law in Wisconsin. He moved to Calumet, Michigan in 1899 where he entered private practice and local politics.  In 1922, he settled in Detroit where he continued his law and Democratic party activities. He was a candidate for governor in 1932, but was defeated for the nomination; he was, however, elected state attorney general in the fall election. He served one term.  In 1937, O'Brien was an unsuccessful candidate for mayor of Detroit. In 1939, he was elected Wayne county probate judge, serving until his retirement in 1956. He died July 27, 1959.</p>
+      <p>Michael O'Brien, brother of Patrick H. O'Brien, was a Detroit insurance executive with the American Life Insurance Company. </p>
+      <p>Gerald K. O'Brien, son of Patrick H. O'Brien, served as deputy attorney general of Michigan (1933-1934), assistant prosecutor for Wayne County, 1934-1940, and later Wayne County prosecutor. </p>
+      <p>John H. O'Brien, son of Michael O'Brien, was a Detroit journalist, working with the <title render="italic">Detroit Times</title> and the <title render="italic"> Detroit News</title>. During the 1950s, O'Brien was executive director of the Hearst newspaper organization's campaign for national highway improvement.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The O'Brien family collection includes papers and scrapbooks of John H. O'Brien, a newsman with the Hearst newspaper chain largely concerning the campaign, 1952-1957, for better interstate highway system. In addition, there are scrapbooks and other materials of Michael O'Brien relating to his insurance business and to the political campaigns of his brother, Patrick H. O'Brien. The papers of Eleanor Lawton O'Brien concern her interests in family planning. The reminiscences of Jean Worth relate to his boyhood in Menominee, Michigan, ca. 1915.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <geogname source="lcsh" encodinganalog="651">Detroit (Mich.).</geogname>
+        <geogname source="lcsh" encodinganalog="651">Menominee (Mich.).</geogname>
+        <subject source="lcsh" encodinganalog="650">Women--Michigan--Detroit.</subject>
+        <geogname source="lcsh" encodinganalog="651">Upper Peninsula (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650">American newspapers.</subject>
+        <famname source="lcnaf" encodinganalog="600">O'Brien family.</famname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <persname source="lcnaf" encodinganalog="600">O'Brien, Gerald.</persname>
+        <persname source="lcnaf" encodinganalog="600">O'Brien, Patrick Henry, 1868-</persname>
+        <famname source="lcnaf" encodinganalog="600">O'Brien family.</famname>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">O'Brien, Eleanor Lawton.</persname>
+        <persname source="lcnaf" encodinganalog="700">O'Brien, John H.</persname>
+        <persname source="lcnaf" encodinganalog="700">O'Brien, Michael.</persname>
+        <persname source="lcnaf" encodinganalog="700">O'Brien, Patrick Henry, 1868-</persname>
+        <persname source="lcnaf" encodinganalog="700">Worth, Jean, 1904-1987.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Family papers</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>Patrick H. O'Brien</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Miscellaneous clippings and political matter</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Campaign literature, Detroit mayoral election, <unitdate type="inclusive" normal="1937">1937</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Gerald K. O'Brien (son of Patrick)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Clippings and memorabilia</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Michael O'Brien (brother of Patrick)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Clippings and biographical material</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <genreform normal="Scrapbooks">Scrapbook</genreform> concerning in part political career of Patrick H. O'Brien, <unitdate type="inclusive" normal="1932/1936">1932-1936</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <genreform normal="Scrapbooks">Scrapbook</genreform> largely containing advertising publicity for his insurance firm, <unitdate type="inclusive" normal="1932/1937">1932-1937</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>John H. O'Brien (son of Michael)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <title render="italic">Detroit Times</title> miscellanea</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <genreform normal="Scrapbooks">Scrapbook</genreform> concerning campaign for better highways, <unitdate type="inclusive" normal="1952/1957">1952-1957</unitdate> </unittitle>
+            </did>
+            <note>
+              <p>(oversize volume)</p>
+            </note>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <genreform normal="Scrapbooks">Scrapbook</genreform> concerning campaign for better highways, <unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate> </unittitle>
+            </did>
+            <note>
+              <p>(volume was intended as entry in the Ted V. Rodgers annual journalism awards prize)</p>
+            </note>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Miscellanea re. good roads campaign</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Eleanor (Lawton) O'Brien</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Legislative work for family planning clinics in Michigan, <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Jean Worth</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Reminiscences of boyhood in Menominee, Michigan, <unitdate type="inclusive" normal="1944">1944</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <genreform normal="Photographs">Photographs</genreform> of Gerald and Patrick O'Brien</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

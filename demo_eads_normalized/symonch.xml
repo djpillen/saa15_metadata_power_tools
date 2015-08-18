@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::symonch.xml//EN" encodinganalog="identifier">
+umich-bhl-85440
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Charles Symon Papers, 1933-1983
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Bentley Historical Library staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2006 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2006</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20060227 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Charles Symon Papers, 1933-1983</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Library staff, 1984</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Symon, Charles
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Charles Symon papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1933-1983 
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+85440 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Historian of the C.C.C. in Michigan. Research materials.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Charles Symon (donor no. <num type="donor" encodinganalog="541$e">7047</num>) and came to the library in 1984.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Charles Symon Papers
+, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Historian and author of <title render="italic"> We Can Do It: A History of the Civilian Conservation Corps in Michigan, 1933-1942</title> (1983).</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Symon collection consists of research material created and accumulated for his book on the C.C.C. in Michigan. Included are correspondence with, and reminiscences of, former CCC members, miscellaneous CCC publications, newspaper clippings, and photographs. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Civilian Conservation Corps (U.S.)</corpname>
+<subject source="lcsh" encodinganalog="650">Conservation of natural resources--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Depressions--1929--Michigan.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<geogname source="lcsh" encodinganalog="651">Camp Eldorado (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Camps.</subject>
+<corpname source="lcnaf" encodinganalog="610">Civilian Conservation Corps (U.S.)</corpname>
+<subject source="lctgm" encodinganalog="650">Machine shops.</subject>
+<geogname source="lcsh" encodinganalog="651">Upper Peninsula (Mich.)</geogname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Smith, Clyde.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Research Material</unittitle></did>
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1980/1983">1980-1983</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan State Archives, <unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Post publication, <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Camp Locations in Michigan</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Educational Activities</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ludington, <unitdate type="inclusive" normal="1941">1941</unitdate> and <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan, Miscellaneous</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reunion, <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>CCC Publications</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Northlander</title> (newsletter) <unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate> </unittitle> <physdesc><physfacet>photocopies</physfacet></physdesc></did></c03>
+<c03 level="file"><did><unittitle>Annuals, <unitdate type="inclusive" normal="1937">1937</unitdate></unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Camp Custer District</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Fort Brady District </unittitle> <physdesc><physfacet>photocopy</physfacet></physdesc></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Bulletins and Manuals</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Manuscripts</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Lathrop, Orrin, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Minier, Leonard, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper Clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>National C.C.C. publications</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

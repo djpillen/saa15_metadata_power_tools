@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::deptped.xml//EN" encodinganalog="identifier">
+umich-bhl-0275</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Department of Pediatrics and Communicable Diseases (University of Michigan) publications, 1959-1993
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Jennifer Jacobs, 1999.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2007">
+2007</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>20071122</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2006MMDD</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Department of Pediatrics and Communicable Diseases <lb/>(University of Michigan) <lb/>Publications, 1959-1993
+</titleproper>
+      <author>Finding aid created by<lb/> 
+Jennifer Jacobs, 1999.
+</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Department of Pediatrics and Communicable Diseases.
+</corpname></origination>
+      <unittitle encodinganalog="245">
+Department of Pediatrics and Communicable Diseases (University of Michigan) publications
+<unitdate type="inclusive" encodinganalog="245$f">
+1959-1993
+</unitdate>
+
+<unitdate type="inclusive" encodinganalog="245$g">
+1982-1993
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+0.5 linear feet
+</extent>
+      </physdesc>
+      <unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+0275 Bimc C41 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>Unit of the University of Michigan Medical School; publications include annual reports, bulletins, directories, manuals, and the newsletter <title render="italic">Pediatric Crier</title>.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+Publications are received periodically from the unit (donor #<num type="donor" encodinganalog="541$e">647</num>).
+<num type="donor" encodinganalog="541$e">647</num>
+ 
+</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>The Publications are open for research.</p>
+        <p>
+          <extptr href="uarpacc" show="embed" actuate="onload"/>
+        </p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Department of Pediatrics and Communicable Diseases (University of Michigan) publications, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>When the University’s Medical Department opened in 1850, it included a professor of the diseases of women and children.  In 1858, Alonzo Palmer, Professor of the Theory and Practice of Medicine, Pathology and Materia Medica, prepared a report for the State Medical Society emphasizing the importance of separately studying the diseases of children.  He cited the infant mortality rate as twenty-five percent for children under one year and over fifty percent for children under five.  Children were patients in the University Hospital and used in clinical demonstrations and in 1886 a group of women opened the Children’s Free Hospital in Detroit for their care.</p>
+      <p>In 1898, Dr. Elizabeth Bates left in her will $100,000 to the University of Michigan’s Medical School for the purpose of an endowed professorship to be known as the Bates Professorship of the Diseases of Women and Children first held by James N. Martin.  Despite Martin’s title, the instruction of pediatrics remained in the hands of George Dock who had been Professor of Theory and Practice of Medicine since 1891, and had an interest in the infectious diseases of children.  The Bates professorship, in 1923, was officially linked to the Chair of the Department of Obstetrics and Gynecology.</p>
+      <p>But there were no children’s hospital facilities in Ann Arbor until the Palmer Ward was opened in 1901 with one floor dedicated to pediatrics.  The entire building housed children by 1913.  In 1905, a pediatrics division within the Department of Internal Medicine was formed with David Murray Cowie as instructor.  But the Department of Pediatrics did not really begin to grow until the adoption by the state of the Children’s Hospital Law in 1913, which allowed any indigent sick child to be cared for for free at the University Hospital.  In 1920, the division was separated out into the Department of Pediatrics and Infectious Diseases.</p>
+      <p>Cowie died in 1940, and Charles F. McKhann Jr. took the chair of the department.  The Kellogg Foundation had promised a new Children’s Hospital, and McKhann’s first duties at the University of Michigan involved the plans for it.  Unfortunately, three years later, he brought up the touchy subject of Detroit to the medical faculty.  These were unsuccessful and he resigned.</p>
+      <p>James Leroy Wilson was appointed to chair the department in 1944.  Both McKhann and Wilson played key roles in the development of the iron lung.  Wilson remained in the chair until 1967, when he was replaced by William J. Oliver.  Oliver began expanding and revitalizing the department along subspecialty lines almost as soon as he took over.  Oliver also oversaw the planning and construction of the C.S. Mott Children’s Hospital, which opened in 1969.</p>
+      <p>When Oliver resigned in 1979, Robert P. Kelch was asked to serve as interim chair.  A year later, Robert C. Kelsch began his term as interim chair (the similarity in their names was the source of much confusion) and in 1981, Robert P. Kelch was appointed to the permanent position.</p>
+      <p>Kelch retired in 1995 and Janet Gilsdorf served as interim chair until Jean E. Robillard was appointed in 1996.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Department of Pediatrics and Communicable Diseases Publications contains one series, Unit Publications.  The series includes the Department’s <title render="italic">Annual Report</title> for the years 1982/83 through 1992/93, bulletins for the residency training program, directories of practitioners and faculty, two manuals for use in the Medical Center, one issue of the newsletter <title render="italic">Pediatric Crier</title>, and various programs.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Pediatrics and Communicable Diseases.</corpname>
+        <subject source="lcsh" encodinganalog="650">Pediatrics--Handbooks Manuals etc.</subject>
+        <subject source="lcsh" encodinganalog="650">Pediatrics--Study and teaching--Michigan--Ann Arbor.</subject>
+        <title source="aacr2" encodinganalog="740">Pediatric crier.</title>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Annual reports.</genreform>
+        <genreform source="aat" encodinganalog="655">Bulletins.</genreform>
+        <genreform source="aat" encodinganalog="655">Directories.</genreform>
+        <genreform source="aat" encodinganalog="655">Manuals.</genreform>
+        <genreform source="aat" encodinganalog="655">Newsletters.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Unit Publications</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Annual Reports</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <title render="italic">Annual Report</title>, <unitdate type="inclusive" normal="1982/1993">1982-1993</unitdate> </unittitle>
+              <physdesc>
+                <extent>8 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Bulletins</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <title render="italic">Residency and Fellowship Training Programs</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Directories</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Miscellaneous, <unitdate type="inclusive">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <title render="italic">Pediatric Faculty</title>, <unitdate type="inclusive" normal="1985">1985</unitdate>, <unitdate type="inclusive" normal="1988">1988</unitdate> </unittitle>
+              <physdesc>
+                <extent>2 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Manuals</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <title render="italic">The Children’s Units: Information for Parents and Patients</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <title render="italic">Pediatric Laboratory Values</title>, <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <title render="italic">The Pediatric Crier</title>, <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Programs, <unitdate type="inclusive" normal="1959/1990">1959-1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Yearbooks</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <title render="italic">House Officers</title>, <unitdate type="inclusive">1982/83</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+    <descgrp type="add">
+      <relatedmaterial>
+        <head>Relate Material</head>
+        <p>The papers of Harry A. Towsley--held by the Bentley Library--contain some files on pediatrics.  The researcher should consult the finding aid.  A history written in 1998 by Howard Markel, <title render="italic">Caring for Children: A Celebration of the Department of Pediatrics and Communicable Diseases at the University of Michigan</title>, is also availabe at call number Fimu.C46.C277.C536.</p>
+      </relatedmaterial>
+    </descgrp>
+  </archdesc>
+</ead>

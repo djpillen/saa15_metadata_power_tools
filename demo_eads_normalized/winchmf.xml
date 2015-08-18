@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::winchmf.xml//EN" encodinganalog="Identifier">
+umich-bhl-90158</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Alexander Winchell Papers relating to Syracuse University, 1850-1896.
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2012">
+2012</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2012</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2012-08-22</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Alexander Winchell Papers <lb/>relating to Syracuse University, 1850-1896</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+
+<persname source="lcnaf" encodinganalog="100">
+Winchell, Alexander, 1824-1891.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Alexander Winchell Papers relating to Syracuse University 
+<unitdate type="inclusive" encodinganalog="245$f">
+1850-1896
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1871-1880
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+7 microfilm reels
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+90158 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Alexander Winchell Papers relating to Syracuse University, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Alexander Winchell was a professor of geology and paleontology at the University of Michigan and director of the Michigan Geological Survey. In 1872 he was appointed the first Chancellor of Syracuse University. He was inaugurated on February 13, 1873 and resigned on June 24, 1874.</p></bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>These selections of the Alexander Winchell papers relate primarily to his chancellorship at Syracuse University (1873-1874) and to the years following. The materials were microfilmed at the request of a researcher. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname encodinganalog="610" source="lcnaf">Syracuse University.</corpname>
+<persname encodinganalog="600" source="lcnaf">Winchell, Alexander, 1824-1891 </persname>
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive" normal="1873/1879">1873-1879</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">July 1850-September 1896</unitdate>, not addressed to Alexander Winchell</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Biographical and miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Family record and short biographical sketch of Alexander Winchell</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Biographical sketch of Alexander Winchell, <unitdate type="inclusive" normal="1824/1886">1824-1886</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Speeches, lectures and miscellaneous writings</unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">February 12, 1873</unitdate>: Remarks to the medical graduates</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">September 24, 1873</unitdate>: Report of the Syracuse University to the Western New York Conference of the Methodist Episcopal Church</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">January 1, 1875</unitdate>: Syllabus of a course of lectures on geology to be delivered in the Syracuse University during the winter term of <unitdate type="inclusive" normal="1874/1875">1874-1875</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">September 1, 1875</unitdate>: School of Geology in the Syracuse University</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">August, 1876</unitdate>: Observations on the Chautauqua Conglomerate</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Diaries</unittitle></did>
+<note><p>The volume numbers refer to the numbering sequence originally applied to the original Winchell collection.</p></note><c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive" normal="1872">1872</unitdate> (vol. 93)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive" normal="1873">1873</unitdate> (vol. 94)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive" normal="1874">1874</unitdate> (vol. 95-96)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1875">1875</unitdate> (vol. 97)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1876">1876</unitdate> (vol. 98)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1877">1877</unitdate> (vol. 99)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1878">1878</unitdate> (vol. 100)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1879">1879</unitdate> (vol. 101)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1880">1880</unitdate> (vol. 102)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1873">1873</unitdate> of trip to Europe (vol. 114-117)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1873/1874">1873-1874</unitdate> (vol. 118)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1874">1874</unitdate> containing notes and thoughts on Lotie (vol. 119)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1874">1874</unitdate> of trip to Europe (vol. 120-125)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1875">1875</unitdate> of travels through United States (vol. 126-128)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1875">1875</unitdate> of trip to Boston and New York (vol. 129-131)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1876">1876</unitdate> of trip to Centennial Exposition (vol. 132)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Travel Diaries</unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1876">1876</unitdate> (vol. 133-134)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1877">1877</unitdate> (vol. 135)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1878">1878</unitdate> (vol. 136)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1879">1879</unitdate> (vol. 137-138)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive" normal="1879/1880">1879-1880</unitdate> (vol. 139)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Letterpress books</unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">3</container><unittitle><unitdate type="inclusive" normal="1871/1874">1871-1874</unitdate> (vol. 156)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">3</container><unittitle><unitdate type="inclusive" normal="1874/1877">1874-1877</unitdate> (vol. 157)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">4</container><unittitle><unitdate type="inclusive" normal="1874/1877">1874-1877</unitdate> (vol. 157) (cont.)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">4</container><unittitle><unitdate type="inclusive" normal="1877">1877</unitdate> (vol. 158)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">4</container><unittitle><unitdate type="inclusive" normal="1877/1881">1877-1881</unitdate> (vol. 159)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">5</container><unittitle><unitdate type="inclusive" normal="1887/1881">1887-1881</unitdate> (vol. 159) (cont.)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">5</container><unittitle><unitdate type="inclusive" normal="1877/1878">1877-1878</unitdate> (vol. 160)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">6</container><unittitle><unitdate type="inclusive" normal="1877/1878">1877-1878</unitdate> (vol. 160) (cont.)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Various volumes</unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">6</container><unittitle>Volume, <unitdate type="inclusive" normal="1873/1874">1873-1874</unitdate> containing copies of European travel letters from Winchell family members (vol. 169)</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Record of Correspondence</unittitle></did>
+<c03 level="file"><did><container type="reel" label="Roll">6</container><unittitle><unitdate type="inclusive" normal="1871/1877">1871-1877</unitdate> (vol. 174)</unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">6</container><unittitle><unitdate type="inclusive" normal="1877/1883">1877-1883</unitdate> (vol. 175)</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Geological Lectures</unittitle></did>
+<c03 level="file"><did><container type="reel" label="Roll">6</container><unittitle><unitdate type="inclusive" normal="1870">1870</unitdate> (vol. 196)</unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">6</container><unittitle><unitdate type="inclusive" normal="1875">1875</unitdate> (vol. 197)</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="reel" label="Roll">6</container><unittitle>Register of Pupils, <unitdate type="inclusive" normal="1873/1879">1873-1879</unitdate> (vol. 237-partial)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Scrapbooks</unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">6</container><unittitle><unitdate type="inclusive" normal="1873/1876">1873-1876</unitdate> concerning Syracuse University (vol. 261)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">7</container><unittitle><unitdate type="inclusive" normal="1873/1874">1873-1874</unitdate> concerning European travels (vol. 262)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">7</container><unittitle><unitdate type="inclusive" normal="1876/1879">1876-1879</unitdate> (vol. 266)</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

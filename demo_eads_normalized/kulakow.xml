@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::kulakow.xml//EN" encodinganalog="identifier">
+umich-bhl-89512</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Adam Kulakow papers, 1989
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Christine Weideman, 1989</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-08-07</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Adam Kulakow Papers, 1989</titleproper>
+
+<author>Finding aid created by<lb/> 
+Christine Weideman, November 1989</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Kulakow, Adam
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Adam Kulakow papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1989
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+6 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+89512 Aa 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+University of Michigan student, producer of the documentary videotape, "Keeping in Mind" about three faculty members forced to leave the University of Michigan because of alleged affiliations with the Communist Party.
+Includes production files; copy of videotape "Keeping in Mind"; and videotapes of interviews with the three accused faculty, Chandler Davis, Clement Markert, and Mark Nickerson, and interviews with other university faculty and administrators and researchers of the period, notably David Bohr, Elizabeth Douvan, Harlan Hatcher, Marvin Niehuss, and Ellen Schrecker.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was acquired from Adam Kulakow in June 1989 (Donor # <num type="donor" encodinganalog="541$e">7689</num>).
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+"Keeping in Mind" videotapes (i.e. the documentary itself) are for in-house use only, unless the researcher receives written authorization from Adam Kulakow. Keeping in Mind videotapes (of the documentary itself) may not be copied without written authorization from Adam Kulakow, unless the researcher is one of the following members of the documentary production team: Scott Burnham, Greg Davis, Julie Rubin, Scott Sabin, Jim Wade.
+</p>
+<p>
+Researchers who are affiliated with the University of Michigan can obtain a copy of "Keeping in Mind" for showing on the University of Michigan Ann Arbor campus by contacting the University of Michigan Film and Video Library (764-5360).
+</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Different copyright conditions apply to the finished video <title render="italic">Keeping in Mind</title> and the videotapes of interviews:
+<list type="simple">
+<item>Kulakow, Adam, retains copyright to the documentary, Keeping in Mind.</item>
+<item>Bohr, Dr. David, has transferred copyright to his interview with Adam Kulakow to the University of Michigan.</item>
+<item>Davis, Dr. Chandler, retains copyright to his interview with Adam Kulakow and requests, "Anyone quoting me on the basis of these tapes is requested to check the quotation with me before publication."</item>
+<item>Douvan, Dr. Elizabeth, has transferred copyright to her interview with Adam Kulakow to the University of Michigan.</item>
+<item>Hatcher, Dr. Harlan, has transferred copyright to his interview with Adam Kulakow to the University of Michigan.</item>
+<item>Markert, Dr. Clement, has transferred copyright to his interview with Adam Kulakow to the University of Michigan.</item>
+<item>Nickerson, Dr. Mark, retains copyright to his interview with Adam Kulakow.</item>
+<item>Niehuss, Professor Marvin, has transferred copyright to his interview with Adam Kulakow to the University of Michigan.</item>
+<item>Schrecker, Dr. Ellen, has transferred copyright to her interview with Adam Kulakow to the University of Michigan.</item>
+</list>
+
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Adam Kulakow papers,1989, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>University of Michigan student, College of Literature Science and Art, class of 1989.  Kulakow undertook research on the impact of the "McCarthyism" on the University fo Michigan  for his senior honors thesis. The result was the video <title render="italic">Keeping in Mind</title> about three faculty members forced to leave the University of Michigan because of alleged affiliations with the Communist Party.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Adam Kulakow Papers and Visual Materials consist of materials which Kulakow generated while producing the documentary <title render="italic">Keeping in Mind</title>, an exploration of the effects of McCarthyism on The University of Michigan in the 1950s.  The documentary was Kulakow's undergraduate senior honors thesis at the University of Michigan.  It focuses on three University of Michigan faculty members (Dr. Chandler Davis, Dr. Clement Markert, and Dr. Mark Nickerson) who were called before the House UnAmerican Activities Committee in 1954 to testify regarding their alleged affiliations with the Communist Party and examines subsequent actions taken by the University.  Kulakow's work was funded by the University of Michigan, College of Literature, Science, and the Arts; the Bentley Historical Library; and the Leo Burnett Scholarship.  The documentary premiered on the University of Michigan Ann Arbor campus on April 18, 1989.  At the premier, the film was shown and afterwards the events on which it focused were discussed by the three professors, who had traveled to Ann Arbor for the event. </p>
+
+<p>The collection is comprised of two U-matic videotape copies of the documentary itself (one of which is an archival master copy, not for research use) and one VHS copy of the documentary (to be used for making copies only); U-matic videotapes of interesting interviews conducted by Kulakow and his production crew with historians and University of Michigan faculty and administrators; and one folder of handwritten Kulakow notes and interview transcripts.  In addition to the Kulakow collection, the researcher is advised to consult the Bentley Historical Library manuscript card catalog for other collections which pertain to the incidents documented in<title render="italic"> Keeping in Mind</title>.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Academic freedom.</subject>
+<subject source="lcsh" encodinganalog="650">Anti-communist movements--United States.</subject>
+<persname source="lcnaf" encodinganalog="600">Bohr, David.</persname>
+<persname source="lcnaf" encodinganalog="600">Davis, Chandler.</persname>
+<persname source="lcnaf" encodinganalog="600">Douvan, Elizabeth Ann Malcolm, 1926-</persname>
+<persname source="lcnaf" encodinganalog="600">Hatcher, Harlan Henthorne, 1898-</persname>
+<persname source="lcnaf" encodinganalog="600">Markert, Clement L. (Clement Lawrence), 1917-</persname>
+<persname source="lcnaf" encodinganalog="600">Nickerson, Mark.</persname>
+<persname source="lcnaf" encodinganalog="600">Niehuss, Marvin Lemmon, 1903-</persname>
+<persname source="lcnaf" encodinganalog="600">Schrecker, Ellen.</persname>
+
+<title source="aacr2" encodinganalog="730">Keeping in Mind [videorecording]</title></controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lcsh" encodinganalog="650">Academic freedom.</subject>
+<subject source="lcsh" encodinganalog="650">Anti-communist movements--United States.</subject>
+<persname source="lcnaf" encodinganalog="600">Bohr, David.</persname>
+<persname source="lcnaf" encodinganalog="600">Davis, Chandler</persname>
+<persname source="lcnaf" encodinganalog="600">Douvan, Elizabeth Ann Malcolm, 1926-</persname>
+<persname source="lcnaf" encodinganalog="600">Hatcher, Harlan Henthorne, 1898-</persname>
+<persname source="lcnaf" encodinganalog="600">Markert, Clement L. (Clement Lawrence), 1917-</persname>
+<subject source="lctgm" encodinganalog="650">McCarthyism.</subject>
+<persname source="lcnaf" encodinganalog="600">Nickerson, Mark.</persname>
+<persname source="lcnaf" encodinganalog="600">Niehuss, Marvin Lemmon, 1903-</persname>
+<persname source="lcnaf" encodinganalog="600">Schrecker, Ellen.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+<genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle><title render="italic">Keeping in Mind</title></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>U-matic archival master  </unittitle></did> <accessrestrict><p>[Restricted, staff use only]</p></accessrestrict></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>VHS use copy</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Interviews</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Handwritten Notes and Transcripts</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bohr, Dr. David </unittitle> <physdesc><extent>1 videotape</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Davis, Dr. Chandler H.</unittitle> <physdesc><extent>14 videotapes, 2 audio cassettes</extent></physdesc></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>videotapes 1-2</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>videotapes 3-14</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>cassette tapes</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Douvan, Dr. Elizabeth </unittitle> <physdesc><extent>3 videotapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Hatcher, Dr. Harlan </unittitle> <physdesc><extent>4 videotapes</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Markert, Dr. Clement </unittitle> <physdesc><extent>6 videotapes</extent></physdesc></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>videotape 1</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>videotapes 2-6</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Nickerson, Dr. Mark </unittitle> <physdesc><extent>9 videotapes</extent></physdesc></did>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>videotapes 1-3</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle>videotapes 4-9</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Niehuss, Professor Marvin </unittitle> <physdesc><extent>4 videotapes</extent></physdesc></did>
+<c03 level="file"><did><container type="box" label="Box">5</container><unittitle>videotapes 1-2</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">6</container><unittitle>videotapes 3-4</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle>Schrecker, Dr. Schrecker </unittitle> <physdesc><extent>5 videotapes</extent></physdesc></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

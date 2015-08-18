@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::leslieel.xml//EN" encodinganalog="Identifier">
+umich-bhl-87121</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Elizabeth A. Leslie papers, 1940-1966 
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Thomas E. Powers </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>April 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-04-12</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Elizabeth A. Leslie papers, 1940-1966</titleproper>
+
+<author>Finding aid created by<lb/> 
+Laura L. Bost, January 1992</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Leslie, Elizabeth A.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Elizabeth A. Leslie papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1940-1966
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1957-1963
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+87121 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Assistant Dean of Women at the University of Michigan (1958-1963), later Associate Director of Student Activities and Organizations in the Office of Student Affairs. Collection concerns various University of Michigan responsibilities mainly in the area of housing and oversight of student organizations.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Elizabeth Leslie (Donor no. <num type="donor" encodinganalog="541$e">1604</num>), 1967-1968.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Elizabeth A. Leslie papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Elizabeth A. Leslie worked as the Assistant Dean of Women at the University of Michigan beginning in the early 1950s, and as the Associate Director of Student Activities and Organizations in the Office of Student Affairs (OSA) beginning in 1962.  Leslie worked as a coordinator for non-dormitory housing first through the League Housing program, and later in the Off Campus Housing Division of the Office of Student Affairs.  Her work in the Office of Student Affairs also brought her in contact with the Student Government Council and other student groups.</p>
+
+<p>In the Office of the Dean of Women, Leslie worked with women attending the university who did not live in a campus dormitory.  In the late 1950s and early 1960s, female students under the age of 22 were not allowed to live in unsupervised housing.. The League Housing program allowed these women to live in private homes near campus.  Many sorority houses began in the early part of the century as unaffiliated League Houses, but by the time Leslie worked in the ODW, most of the League Housing was for sorority members.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Leslie collection concerns her various University of Michigan responsibilities mainly in the area of housing and oversight of student organizations. The papers have been arranged in two series:  Student Housing and Student Organizations.  </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Leslie, Elizabeth A.</persname>
+<corpname source="lcnaf" encodinganalog="610">Sigma Kappa Sorority.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dean of Women.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Office of Student Affairs.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Societies, etc.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
+<subject source="lcsh" encodinganalog="650">Women college students--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">African Americans--Michigan--Ann Arbor.</subject>
+<persname source="lcnaf" encodinganalog="600">Bacon, Deborah.</persname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Dwellings.</geogname>
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Ann Arbor.</subject>
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Student Housing</unittitle></did><scopecontent><p>The Student Housing series includes Dean of Women files and files relating to League Housing. The Dean of Women files include the handbook for the Assistant Dean and an Administrative Assistant, and a retrospective of forms and procedures used in the office from the late 1950s and early 1960s.  There is also an internal study conducted in 1957, and a handbook for directors of women's residences. The League Housing files include correspondence with the house directors and contract, pricing, and inspection records (filed alphabetically by street address) for some of the houses.  Of interest are photographs of four of the houses.  These papers provide a glimpse of women's lives at the university in the last years of the university regulations governing their living arrangements.  Also within the files are agreements between the house owners and the ODW on rental charges, and records of inspection tours.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dean of Women files, <unitdate type="inclusive" normal="1958/1963">1958-1963</unitdate> </unittitle> <physdesc><extent>9 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>League Housing papers</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>League House Directors, <unitdate type="inclusive" normal="1941/1960">1941-1960</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence concerning League Housing </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><unittitle>League Housing</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann to Division</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Elm to Hamilton Pl.</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Haven to Hill</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>E. Huron to Madison</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Maynard to S. State</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Tappan to Thompson</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>714 E. University to 1011 E. University</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>1015 E. University to E. William</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did></c04></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Supplementary Housing, <unitdate type="inclusive">1942/43-1962/63</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Off Campus Housing Procedure, <unitdate type="inclusive" normal="1966">1966</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Office of Student Affairs, <unitdate type="inclusive" normal="1962/1964">1962-1964</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Student Organizations</unittitle></did><scopecontent><p>The Student Organization series concerns Leslie's contacts with various campus organizations. Of interest are the Sigma Kappa Case files which relate to the case in the late 1950s of the national chapter of Sigma Kappa sorority which threatened to revoke the charters of two local chapters because they had inducted African American women. The series also includes two Topical Files containing material about a variety of other student organizations.  The Ann Arbor Girls' Club, as one example, was organized for the "town girls" who were from the Ann Arbor area.  The information on the Barbour Scholars mainly relates to their housing arrangements.  The rules and regulations and some correspondence about the "J-Hop" will be found here, as will rosters of Wyvern, a junior women's honorary society.</p></scopecontent>
+<c02 level="file"><did><unittitle>Sigma Kappa Case, <unitdate type="inclusive"> September 1956-December 1959</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did>
+<c03 level="file"><did><unittitle>Clippings</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>"References I-IX" (timelines and university policies)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Student Government Council, <unitdate type="inclusive" normal="1956/1958">1956-1958</unitdate> (scattered dates)</unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1954/1959">1954-1959</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Summaries and Regulation Handbook</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Topical File 1</unittitle></did>
+<c03 level="item"><did><container type="box" label="Box">2</container><unittitle>Ann Arbor Girls' Club, <unitdate type="inclusive" normal="1950/1953">1950-1953</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">2</container><unittitle>Assembly Dorm Council, <unitdate type="inclusive" normal="1958/1962">1958-1962</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">2</container><unittitle>J-Hop, <unitdate type="inclusive" normal="1953/1961">1953-1961</unitdate> scattered dates</unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">2</container><unittitle>Joint Judiciary, <unitdate type="inclusive" normal="1961/1964">1961-1964</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Topical File 2</unittitle></did>
+<c03 level="item"><did><container type="box" label="Box">2</container><unittitle>Student Government Council, <unitdate type="inclusive" normal="1961/1965">1961-1965</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">2</container><unittitle>Wyvern, <unitdate type="inclusive" normal="1940/1948">1940-1948</unitdate></unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::aarotary.xml//EN" encodinganalog="Identifier">
+umich-bhl-852172</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Ann Arbor Rotary Club records, 1931-2008
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Marc Levitt </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2010-09-07</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change><change><date>2008-11-11</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Ann Arbor Rotary Club records, 1931-2008</titleproper>
+
+<author>Finding aid created by<lb/> 
+Marc Levitt, 2008</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Ann Arbor Rotary Club.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Ann Arbor Rotary Club records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1931-2008
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+852172 Bk 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Ann Arbor chapter of national service organization; administrative files, topical files, and publications.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were donated by the Ann Arbor Rotary Club (donor no. <num type="donor" encodinganalog="541$e">5407</num> in 2008.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Ann Arbor Rotary Club records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Ann Arbor Rotary Club was founded in July of 1916. The mission of the organization was to encourage, foster, and implement the ideals of Rotary International in the local community and throughout the world in ways that enhance the quality of life and human dignity, create greater understanding among all people, and advance the search for peace. In all of their activities, they strive to abide by the highest ethical standards and always be guided by the Rotary principle of 'Service Above Self.' (from Rotary Club's website)</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of four series: Administration, Music, Projects, and Publications and documents the club's institutional and community activities.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Societies, etc.</geogname>
+</controlaccess>
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Administration</unittitle></did><scopecontent><p>The Administration series consists of policies, membership details, speakers, and other similar institutional records.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Strategic Plan, <unitdate type="inclusive" normal="1997/2002">1997-2002</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution and By Laws, <unitdate type="inclusive" normal="1973">1973</unitdate>, <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Board Policies and Procedures, <unitdate type="inclusive" normal="1968">1968</unitdate>, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Reports, <unitdate type="inclusive" normal="1998/2007">1998-2007</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Board Minutes, <unitdate type="inclusive" normal="1949/2004">1949-2004</unitdate> </unittitle> <physdesc><extent>3 folders and 4 expandable folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Finances, <unitdate type="inclusive" normal="1934/1945">1934-1945</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Membership</unittitle></did>
+<c03 level="file"><did><unittitle>Lists</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1948">1948</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1992/1994">1992-1994</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Directories, <unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate> and <unitdate type="inclusive" normal="1997/2008">1997-2008</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Anniversaries (50th, 75th), <unitdate type="inclusive" normal="1966">1966</unitdate>, <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Award Certificates, <unitdate type="inclusive" normal="1996/2008">1996-2008</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1931/1934">1931-1934</unitdate> and <unitdate type="inclusive" normal="1936/1937">1936-1937</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Plans of Committees, <unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Speakers, <unitdate type="inclusive" normal="1965/1972">1965-1972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Report to the District Governor of Club Committees, <unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Rotary Foundation Scholars Report, <unitdate type="inclusive" normal="1980">1980</unitdate>, <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>University of Michigan Rotaract Club miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Miscellaneous</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1932/1934">1932-1934</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1967/1983">1967-1983</unitdate></unittitle></did></c03></c02>
+</c01>
+
+
+
+<c01 level="series"><did><unittitle>Music</unittitle></did><scopecontent><p>The Music series contains the songs written for and by the rotary club.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Radio Broadcast, <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Rotary Song Books, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Projects</unittitle></did><scopecontent><p>The Projects series document the club's two international service endeavors in Peru and Sierra Leone.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Peru, <unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Sierra Leone, <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Publications</unittitle></did><scopecontent><scopecontent><p>The majority of the Publications series contains a run of <title render="italic">Harpoon</title>, the club's newsletter.  A directory for high school students and a history of the club are also included.</p></scopecontent></scopecontent>
+<c02 level="file"><did><unittitle>Harpoon (newsletter)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1920/1922">1920-1922</unitdate> </unittitle> <physdesc><extent>1 bound volume</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive" normal="1921/1948">1921-1948</unitdate> </unittitle> <physdesc><extent>28 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive" normal="1949/1982">1949-1982</unitdate> </unittitle> <physdesc><extent>34 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive" normal="2000/2002">2000-2002</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive" normal="2004/2007">2004-2007</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive">Undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Directory of Occupational and Career Information, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>A History of the Ann Arbor Rotary, <unitdate type="inclusive" normal="1916/1947">1916-1947</unitdate> (Calvin O. Davis)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>History, <unitdate type="inclusive" normal="1964/1970">1964-1970</unitdate> and <unitdate type="inclusive" normal="1970/1980">1970-1980</unitdate> </unittitle> <physdesc><extent>2 items in 1 folder</extent></physdesc></did></c02>
+</c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

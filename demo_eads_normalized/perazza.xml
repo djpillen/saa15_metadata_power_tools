@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::perazza.xml//EN" encodinganalog="Identifier">
+umich-bhl-2009180</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Julio Perazza visual materials, 1970s and 1984-1986
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-12-22</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Julio Perazza visual materials, 1970s and 1984-1986</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff, 2009</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Perazza, Julio
+</persname>
+</origination>
+<unittitle encodinganalog="245">
+Julio Perazza visual materials 
+<unitdate type="inclusive" encodinganalog="245$f">
+1970s and 1984-1986
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2009180 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Ana Luisa Cardona (donor no. <num type="donor" encodinganalog="541$e">10213</num>) in June 2009.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Julio Perazza visual materials, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Julio Perazza was born in San Juan, Puerto Rico on August 29, 1943.  After graduating from Western High School in Detroit, he studied at various places, including Highland Park Community College. He eventually completed his B.F.A. in photography at the University of Michigan (1975) and his M.F.A. in photography from Eastern Michigan University.</p>
+
+<p>He worked for a time at Great Lakes Steel, and later toured as a performer and photographer with the musical performing arts company "Up with People". Perazza devoted his life to photography, both as an artist and as a teacher. The subjects of his photographs were African-Americans in Detroit, Chicanos in Michigan, and life in his homeland of Puerto Rico. His artwork has been exhibited throughout Michigan and around California, Texas, Washington, D.C. and Chicago.  He died July 28, 1998.</p>
+
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Julio Perazza collection consists of photograph negatives taken during the period of 1984-1986. The images relate mainly to the Hispanic community of Detroit, particularly of activities at Casa de Unidad. These include photographs of various classes (dance, photography, etc.) and of social events sponsored by this Hispanic organization. The collection also includes a motion picture created by Latino students at the University of Michigan in the early 1970s intended as a recruiting tool to encourage individuals to apply for admission.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects - Visual Materials:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Casa de Unidad (Detroit, Mich.)</corpname>
+<geogname source="lcsh" encodinganalog="651">Detroit (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Hispanic Americans--Education--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Hispanic Americans--Michigan--Detroit.</subject>
+<persname source="lcnaf" encodinganalog="600">Perazza, Julio.</persname>
+<subject source="lctgm" encodinganalog="650">Photography--Michigan--Detroit.</subject>
+<subject source="lctgm" encodinganalog="650">Students--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
+
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Motion pictures.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Negatives</genreform></unittitle></did>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">June-September 1984</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Baker's Keyboard Lounge, <unitdate type="inclusive">June 1984</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor Art Fair Street Shoot and Detroit Hispanic Festival, <unitdate type="inclusive">July 1984</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Latin American Festival, <unitdate type="inclusive">July 1984</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Amigo Band at Chene Park, <unitdate type="inclusive">August 1984</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>La Casa Detroit Hispanic Salsa Band, <unitdate type="inclusive">August 1984</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>La Casa George Vargas Donating his Art Drawing, <unitdate type="inclusive">August 1984</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>New York Salsa Band Leader Fountain Play, <unitdate type="inclusive">August 1984</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ozzie's Birthday Surprise Party, <unitdate type="inclusive">September 30-31, 1984</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">March-May 1985</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Casa de Unidad Creative Writing Class, <unitdate type="inclusive">March 1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Casa de Unidad Dance Class, <unitdate type="inclusive">March 1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Casa de Unidad Graphics-Other, <unitdate type="inclusive">March 1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Casa de Unidad Photo Class, <unitdate type="inclusive">March 1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Funeral at St. Anne Church 1, <unitdate type="inclusive">March 1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Funeral at St. Anne Church 2, <unitdate type="inclusive">March 1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Bread/Puppet 1, <unitdate type="inclusive">April 1985</unitdate> ?</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Bread/Puppet 2, <unitdate type="inclusive">April 1985</unitdate> ?</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Arab and Hispanic Dinner, <unitdate type="inclusive">May 1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Arab/Hispanic Dinner, <unitdate type="inclusive">May 1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Clark Park-First Time with Photo Class, <unitdate type="inclusive">May 1985</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">October-December 1985</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Devil's Night, <unitdate type="inclusive">October 1985</unitdate> Christmas, <unitdate type="inclusive">November 1985</unitdate> Carmen/Mark, <unitdate type="inclusive">November 1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>S.W.A.P. Wear Red Ribbon, <unitdate type="inclusive">November 1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>S.W.A.P. Ribbon Sign on Casa Door, <unitdate type="inclusive">December 1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Flor y Canto de Navidad B, <unitdate type="inclusive">December 1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Flor y Canto de Navidad C, <unitdate type="inclusive">December 1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Flor y Canto de Navidad D, <unitdate type="inclusive">December 1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Front Room Gallery, Julio Perazza's Photos 1, <unitdate type="inclusive">December 1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Front Room Gallery, Julio Perazza's Photos 2, <unitdate type="inclusive">December 1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Tree Trimming Party A, <unitdate type="inclusive">December 1985</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">May 1986</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Theaters A, <unitdate type="inclusive">May 1986</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Theaters B, <unitdate type="inclusive">May 1986</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Theaters C, <unitdate type="inclusive">May 1986</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Theaters D, <unitdate type="inclusive">May 1986</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Motion pictures">Motion picture</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Motion picture created by Latino students at the University of Michigan in the early <unitdate type="inclusive" normal="1970/1979" certainty="approximate">1970s</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

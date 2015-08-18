@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::holmesfa.xml//EN" encodinganalog="identifier">
+umich-bhl-861037
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Holmes Family Papers, 1883-1957
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Vicky Baum </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20051028</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Holmes Family Papers, 1883-1957</titleproper>
+
+<author>Finding aid created by<lb/> 
+Vicky Baum, 1985</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<famname source="lcnaf" encodinganalog="100">
+Holmes Family.
+</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Holmes Family papers,  
+<unitdate type="inclusive" encodinganalog="245$f">
+1883-1957
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1897-1903
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+861037 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Bay City, Michigan. Personal letters, primarily of Susie Holmes living in New York from family members in Michigan detaining daily activities and family matters.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Mrs. Sally Lien (donated no. <num type="donor" encodinganalog="541$e">7218</num>) in June 1985.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Holmes Family Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Holmes family lived in turn-of-the century Bay City, Michigan. They were middle-class entrepreneurs in the lumber business, their social circle consisting of other mill and hardware business families. The mother, Emeline, widow of Mr. Henry (?) Holmes, had at least five children: Susie (Susan Ann); John called also Jack and married to Pauline; Wendell, a lumber dealer, married to Ruth Price; Daisy (possibly real name Lydia), a sister (name uncertain) married to Edward C. Hargrave, who was the son in E. J. Hargrave &amp; Son Lumber Mill, with possibly three children; and Harry Holmes who may have been a brother of Henry Holmes.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Holmes papers, dating ca. 1883 to 1957, have been divided into four major series: Susie Holmes Papers, Harry Holmes Papers, Other Holmes Papers, and Miscellaneous. For the most part, the Holmes Family collection documents events and concerns of a middle-class family running a family business and socializing with other middle-class business families. The family enjoyed good hotels when they traveled, they worried about profits and losses, and they commented occasionally on national events of the times. But in sum, their work ethic, comments about life and death in general, and concern for family and friends are the themes that distinguish this collection of family letters.</p>
+
+<p>The bulk of the papers consists of letters from the family to Susie Holmes. From 1897 to 1903, Susie was living near, and working in, Buffalo New York for Charles G. Butts. In addition to family correspondence, business correspondence from her boss, and personal business material such as her insurance notices, the Susie Holmes series includes church activity announcements, a few wedding invitations, a batch of 3 x 5 cards with English and American literary references, and letters to and from other members of her family which were subsequently forwarded on to Susie.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Bay City (Mich.)</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Social life and customs--1891-1900.</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Social life and customs--1901-1910.</geogname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Social life and customs--19th century.</geogname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Social life and customs--20th century.</geogname><subject source="lcsh" encodinganalog="650">Women--New York (State)</subject></controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Holmes, Harry.</persname>
+<persname source="lcnaf" encodinganalog="700">Holmes, Susie.</persname>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Susie A. Holmes</unittitle></did>
+<scopecontent><p>The letters to Susie Holmes refer to family and friends, their ailments, travels, moving experiences, comments about the family business, and acknowledgment of gifts received during the holidays. Susie, it would appear, was the only member of the family, with the possible exception of a sibling in Georgia, not living in the Bay City area. Though there is no indication Susie was escaping from an affair of the heart or that she was an early advocate of women's economic rights, she was fairly young, unmarried, and living far from home. The many letters, often dated one day right after the other, indicate a voluminous correspondence between Susie and her family. The series of her business correspondence also indicates that she had a very cordial relationship with her boss and her boss's mother or wife. Susie also received "letters" from a few of her young nieces and nephews. She traveled occasionally to see family members either for brief vacation time or for business, and was trusted enough by her boss, Charles G. Butts, to receive letters from him with instructions to act upon information he was sending her or to look up information for him. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Family correspondence, letters addressed to Susie, <unitdate type="inclusive" normal="1897/1903">1897-1903</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>26 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters forwarded to Susie (with no accompanying-letter), <unitdate type="inclusive" normal="1900/1903">1900-1903</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Postcards, <unitdate type="inclusive" normal="1900/1903">1900-1903</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Telegrams, <unitdate type="inclusive" normal="1899">1899</unitdate> ?-1903</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Business Correspondence, Letters of Charles G. Butts (Susie's boss) to Susie, <unitdate type="inclusive" normal="1898/1903">1898-1903</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous insurance forms and letters, <unitdate type="inclusive" normal="1897/1903">1897-1903</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous and unidentified, <unitdate type="inclusive" normal="1902/1903">1902-1903</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Wedding invitations</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Church materials</unittitle></did></c02>
+<c02 level="file"><did><unittitle>3 x 5 cards</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>English Literature titles</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>American Literature titles</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Magazine titles</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Captivities"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Travels"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Undetermined</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Harry Holmes (primarily receipts), <unitdate type="inclusive" normal="1883/1913">1883-1913</unitdate></unittitle></did><scopecontent><p>The second series of the collection relates to Harry Holmes. Included are business receipts between Harry and other companies dealing in lumber, hardware, brick and tile, lime, machine parts, and other goods and services. There is also a copy of a contract between Harry and the Michigan Central Railroad for the building of a machine shop in Bay City.</p></scopecontent>
+<c02 level="file"><did><unittitle>Personal receipts</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Handwritten ledgers</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper subscriptions</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Groceries and ice</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Household goods (such as wall paper)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Printers and books</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Clothes and Shoes</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Untitled receipts "received of Harry Holmes"</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Business receipts, alphabetical by name of company</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>A-M</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>N-Z</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Single, assorted receipts from hardware and lumber related dealers</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous receipts</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Contract between Harry Holmes and the Michigan Central Railroad for the building of a machine shop in Bay City, Michigan</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other Correspondence</unittitle></did><scopecontent><p>Letters to and from other members of the Holmes family, including the Price in-laws, make up the third series. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Holmes Family, <unitdate type="inclusive" normal="1901/1957">1901-1957</unitdate></unittitle></did><note><p>scattered dates</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Price Family in-laws, <unitdate type="inclusive" normal="1924/1944">1924-1944</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<scopecontent><p>The final series contains miscellaneous correspondence from non-relations, fragments of letters (no beginning and/or no date), advertisements, social event announcements, and other ephemeral items.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters to others and fragments</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Advertisements and ephemera</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

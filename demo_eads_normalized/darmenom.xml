@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::darmenom.xml//EN" encodinganalog="Identifier">
+umich-bhl-85125</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Daughters of the American Revolution. Menominee Chapter (Menominee, Mich.) records, 1905-1974
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>June 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-06-27</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Daughters of the American Revolution. Menominee Chapter (Menominee, Mich.) records, 1905-1974</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Daughters of the American Revolution. Menominee Chapter (Menominee, Mich.).
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Daughters of the American Revolution. Menominee Chapter (Menominee, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1905-1974
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85125 Be.1 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Secretary's books, financial records, membership material, and press and publicity books.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was deposited by the Daughters of the American Revolution of Michigan (donor no. <num type="donor" encodinganalog="541$e">1171</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Daughters of the American Revolution. Menominee Chapter (Menominee, Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Menominee Chapter of the Daughters of the American Revolution was organized February 28,1905. It was chartered January 11,1908 and disbanded October 10, 1974.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The record groups consists of minutes of meetings, financial and membership records, press and publicity materials, and various topical files detailing the chapter's activities.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Menominee (Mich.).</geogname>
+<subject source="lcsh" encodinganalog="650">Patriotic societies--Michigan--Menominee.</subject>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Menominee--Societies and clubs.</subject>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Organizational records</unittitle></did>
+<c02 level="file"><did><unittitle>Secretary books</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1924/1930">1924-1930</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1930/1949">1930-1949</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1949/1963">1949-1963</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1964/1974">1964-1974</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Treasurer books</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1918/1945">1918-1945</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1945/1957">1945-1957</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1957/1969">1957-1969</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Treasurer's reports in notebook, <unitdate type="inclusive" normal="1930/1933">1930-1933</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Historian Books</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1905/1924">1905-1924</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1924/1956">1924-1956</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Regent's meeting books</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1963/1969">1963-1969</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1970/1974">1970-1974</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Press books and publicity books </unittitle></did> <note><p>(include scattered photographs)</p></note>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1932/1933">1932-1933</unitdate> </unittitle> <physdesc><extent>2 volumes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1933/1934">1933-1934</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1933/1936">1933-1936</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1937/1940">1937-1940</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1954/1961">1954-1961</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1960/1968">1960-1968</unitdate> </unittitle></did> <note><p>(unbound volume)</p></note></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Convention reports -- papers written by members, <unitdate type="inclusive" normal="1906">1906</unitdate>, <unitdate type="inclusive" normal="1910">1910</unitdate>, <unitdate type="inclusive" normal="1911">1911</unitdate>, <unitdate type="inclusive" normal="1912">1912</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Papers by Bertha Greene, <unitdate type="inclusive" normal="1917/1918">1917-1918</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>History of Chapter, <unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate> and <unitdate type="inclusive" normal="1937/1938">1937-1938</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Washington, D.C. and Mount Vernon postcards and photographs</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>DAR Ritual <unitdate type="inclusive" normal="1951">1951</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic">The DAR</title> -- magazine published by Boy's Club of Menominee, <unitdate type="inclusive" normal="1924/1927">1924-1927</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Year books and programs</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1944">1944</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1947/1951">1947-1951</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Notebook containing miscellaneous correspondence and information</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Ledger containing membership papers </unittitle></did> <note><p>(returned to donor,  March 2006)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Registrar's File Cards and miscellaneous forms</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Membership card file box</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Membership List &amp; Committees, <unitdate type="inclusive" normal="1936/1942">1936-1942</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

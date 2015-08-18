@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::angellal.xml//EN" encodinganalog="identifier">
+umich-bhl-85626
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Alexis C. Angell Papers, 1868-1876 and 1927-1928
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Bentley Historical Library Staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kiney, 
+<date>Nov. 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20041129</date><item>Original encoding from MARC record using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Alexis C. Angell Papers, 1868-1876 and 1927-1928</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Library Staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Angell, Alexis C. (Alexis Caswell), 1857-1932.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Alexis C. Angell papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1868-1876 and 1927-1928
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+25 items
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+85626 Aa/1
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Detroit, Michigan, attorney, professor at University of Michigan Law School, son of James Burrill and Sarah Caswell Angell. Letters written to his grandparents as a young man; also correspondence relating to his efforts to rewrite the biography of Thomas M. Cooley written by Henry Wade Rogers.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>Donor no. <num type="donor" encodinganalog="541$e">1333</num></p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>Copyright is held by the Regnets of the University of Michigan</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Alexis C. Angell Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Alexis Angell was a  professor at the University of Michigan Law school, 1893-1898.</p>
+<p>Alexis Angell was born in Providence, Rhode Island, April 26, 1857, the son of James Burrill and Sarah Swoope (Caswell) Angell.  James B. Angell became president of the University of Michigan in 1871.
+Alexis received a A.B. degree for U-M in 1878, an LL.B. in 1880, and completed the LL.D. degree in 1915. He married Fanny C. Cooley, June 6, 1880.  They had six children—Sarah C., Thomas C., Alice, James B., Elizabeth H., and Robert C. Alexis began practicing law in Detroit in 1880, and later joined the firms Wells, Angell, Boynton &amp; McMillan, 1892-1902 and Angell, Boynton, McMillan &amp; Bodman, 1902-11.  He served U.S. district judge for the Eastern District of Michigan, July 1, 1911-June 1, 1912. after resigning his judgship he was affiliated as a member of several Detroit law firms: Angell, Boynton, McMillan (Philip H., Bodman &amp; Turner, 1912-14; Angell, Bodman &amp; Turner, 1914-1919; Angell &amp; Turner, 1919-20; Angell, Turner &amp; Dyer, 1920-30; Angell, Turner, Dyer &amp; Meek, 1930—1932.  </p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Alexis Angell papers consist of letters written to his grandparents as a young man and correspondence relating to his efforts to rewrite the biography of Thomas M. Cooley written by Henry Wade Rogers.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Cooley, Thomas McIntyre, 1824-1898.</persname>
+<persname source="lcnaf" encodinganalog="600">Rogers, Henry Wade, 1853-1926.</persname><persname> 	 Clements, William L. (William Lawrence), 1861-1934</persname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Papers</unittitle></did>
+<c02 level="file"><did><container type="folder" label="Folder">1</container><unittitle>Letters to grandparents, <unitdate normal="1868/1876">1868-1876</unitdate></unittitle><physdesc><extent>3 items</extent></physdesc></did></c02>
+    <c02><did><container type="folder" label="Folder">1</container><unittitle>Correspondence relating to Rogers' biography of Thomas M. Cooley, <unitdate normal="1927/1928">1927-1928</unitdate></unittitle></did></c02>
+</c01></dsc></archdesc>
+
+</ead>

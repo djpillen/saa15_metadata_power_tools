@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::meerse.xml//EN" encodinganalog="Identifier">
+umich-bhl-861116</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Marvin M. Meerse papers, 1943-1978
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Christopher Leonard </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>March 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-03-28</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Marvin M. Meerse papers, 1943-1978</titleproper>
+
+<author>Finding aid created by<lb/> 
+Christopher Leonard, May 1985</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Meerse, Marvin M., 1910-1978.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Marvin M. Meerse papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1943-1978
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+861116 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Career army officer, speechwriter for military and political figures on army-related topics. Speeches, diaries, 1971 and 1973, copy of his mystery novel, and photographs.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Mrs. Ada Sager (donor no. <num type="donor" encodinganalog="541$e">7171</num>), the sister of Marvin Meerse, 1985.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Marvin M. Meerse papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Marvin M. Meerse (1910-1978) served in the U.S. Army from 1943 to 1970. After combat duty in the Philippines during World War II, much of his time was spent teaching public speaking and military psychology in the Adjutant General's School. From 1955 until his retirement, he was speechwriter for several of the Army's top generals in Europe and Korea. In June 1963, one of his speeches was read by President Kennedy to U.S. forces in Hanau, West Germany. Meerse was also a writer for several Army publications and editor of <title render="italic">Gimmicks and Gadgets</title>. Upon his retirement, Meerse had achieved the rank of Sergeant Major.</p>
+
+<p>After he left the service, Meerse devoted much of his time to railroad clubs. He served as president and editor of the Cincinnati Railroad Club and in 1975 published <title render="italic">Richmond Junction</title>, a mystery novel with a railroad setting.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The papers of Marvin M. Meerse consist of one linear foot of material and cover the years 1943-1978. Though the collection includes both professional and personal papers, the vast majority of the papers are professional, mostly texts of speeches written by Meerse from 1955 to 1968.</p>
+
+<p>As these speeches are often discussions of freedom, containment, and the threat of communism, they provide insight into the soldier's perspective on these topics. Included in the collection are speeches written by Meerse for generals: A.C. McAuliffe, Bruce C. Clarke, Paul Freeman, Dwight Beach, C.H. Bonisteel, Creighton W. Abrams, Jr., George T. Duncan, Louis W. Truman, and W.C. Garrison. There is also a speech written by Meerse and delivered by President John Kennedy and speeches by Attorney General Robert Kennedy and Secretary of the Army Wilber Brucker, presumably also written by Meerse.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Kennedy, John F. (John Fitzgerald), 1917-1963.</persname>
+<persname source="lcnaf" encodinganalog="600">Kennedy, Robert F., 1925-1968.</persname>
+<persname source="lcnaf" encodinganalog="600">Meerse, Marvin M., 1910-1978.</persname>
+<subject source="lcsh" encodinganalog="650">Speech.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Army.</corpname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<geogname source="lcsh" encodinganalog="651">Germany.</geogname>
+<persname source="lcnaf" encodinganalog="600">Johnson, Lyndon B. (Lyndon Baines), 1908-1973.</persname>
+<persname source="lcnaf" encodinganalog="600">Kennedy, John F. (John Fitzgerald), 1917-1963.</persname>
+<geogname source="lcsh" encodinganalog="651">Korea (South)</geogname>
+<persname source="lcnaf" encodinganalog="600">Meerse, Marvin M., 1910-1978.</persname>
+<subject source="lctgm" encodinganalog="650">Military camps.</subject>
+<subject source="lctgm" encodinganalog="650">Military inspections.</subject>
+<subject source="lctgm" encodinganalog="650">Military officers.</subject>
+<subject source="lctgm" encodinganalog="650">Speechwriting.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Army.</corpname>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Professional Papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Speeches</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General A.C. McAuliffe, <unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Several persons, <unitdate type="inclusive" normal="1957/1963">1957-1963</unitdate> </unittitle></did> <note><p>(includes speech for John Kennedy; also speeches by Wilber Brucker and Robert Kennedy)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Generals Truman, Duncan, and Garrison, <unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General Paul Freeman, <unitdate type="inclusive" normal="1960/1965">1960-1965</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Generals Freeman and Bruce Clarke, <unitdate type="inclusive" normal="1961/1964">1961-1964</unitdate> </unittitle></did> <note><p>(bound volume also contains 1963 speech by President Kennedy)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Several persons, <unitdate type="inclusive" normal="1966/1968">1966-1968</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Graduation and commencement, <unitdate type="inclusive" normal="1950/1961">1950-1961</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Aptitude tests and humorous bits</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Greetings and congratulatory messages</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Generals Clarke and Freeman, <unitdate type="inclusive" normal="1961/1963">1961-1963</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Generals Dwight Beach, C.H. Bonisteel, and others, <unitdate type="inclusive" normal="1964/1968">1964-1968</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Posters and flyers, NCO Club No. 1, <unitdate type="inclusive" normal="1948/1951">1948-1951</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous papers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous printed</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Personal Papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1950/1970">1950-1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1971/1978">1971-1978</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Diaries">Diaries</genreform>, <unitdate type="inclusive" normal="1971">1971</unitdate> and <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Richmond Junction</title> <unitdate type="inclusive" normal="1975">1975</unitdate> </unittitle></did> <note><p>(railroad novel by Meerse)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

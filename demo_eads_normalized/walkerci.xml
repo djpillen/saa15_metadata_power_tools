@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::walkerci.xml//EN" encodinganalog="identifier">umich-bhl-874</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Charles I. Walker Collection, <date>1817-1887</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Michigan Historical Collections staff</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2002</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>August 2002</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20020821</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Charles I. Walker Collection, <date type="inclusive">1817-1887</date></titleproper><author>Finding aid prepared by: <lb/>Michigan Historical Collections staff</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Walker, Charles I. (Charles Irish)</persname>, collector</origination>
+<unittitle encodinganalog="245">Charles I. Walker Collection
+<unitdate type="inclusive" encodinganalog="245$f" normal="1817/1887">1817-1887</unitdate><unitdate type="bulk" encodinganalog="245$g" normal="1817/1825">1817-1825</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">1 traycase</extent></physdesc>
+<abstract>Professor of law at the University of Michigan. Papers collected relating to the founding of the University; include original draft of the act to establish the Catholepistemiad, table explaining meaning of names of professorships, various drafts and amendments, receipts, correspondence, and related documents; contain papers drafted or signed by Augustus B. Woodward, John Monteith, and William Woodbridge.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">874 AC</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial><physloc>In vault; access permitted during weekdays only.</physloc>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was transferred from the Library of the University of Michigan. Donor no. <num type="donor" encodinganalog="541$e">1278</num></p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research. The collection is available for use only during regular weekday hours.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright is retained by the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Charles I. Walker Collection, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Professor of law at the University of Michigan.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>Collected documents relating to the founding of the University, including original draft of the act to establish the Catholepistemiad, table explaining meaning of names of professorships, various drafts and amendments, receipts, correspondence, and related documents; contain papers drafted or signed by Augustus B. Woodward, John Monteith, and William Woodbridge.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><corpname source="lcnaf" encodinganalog="610">Catholepistemiad (Detroit, Mich.)</corpname><corpname source="lcnaf" encodinganalog="610">University of Michigan--History.</corpname></controlaccess>
+
+<controlaccess><head>Contributors:</head><persname source="lcnaf" encodinganalog="700">Monteith, John, 1788-1868.</persname><persname source="lcnaf" encodinganalog="700">Woodbridge, William, 1780-1861.</persname><persname source="lcnaf" encodinganalog="700">Woodward, Augustus B. (Augustus Brevoort), d. 1827.</persname></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>University of Michigan founding documents</unittitle></did>
+<c02 level="item"><did><container type="box" label="Out Case">1</container><unittitle>Letter to James B. Angell from Charles I. Walker donating these early letters to the University of Michigan, <unitdate type="inclusive">February 11, 1885</unitdate></unittitle></did><note><p>(item no. A)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Out Case">1</container><unittitle>The original draft of the act to establish the Catholepistemiad, or University of Michigania, in the handwriting of its author, Judge Augustus B. Woodward; and drafts of other legislation, file date<unitdate audience="internal" type="inclusive">November 7, 1817</unitdate></unittitle></did><note><p>(item no. 1)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Out Case">1</container><unittitle>A table explaining the meaning of the names of the professorships mentioned in the act</unittitle></did><note><p>(in the handwriting of Judge Augustus B. Woodward)</p></note><note><p>(item no. 2)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Out Case">1</container><unittitle>Memoranda of proposed amendments to Woodward's draft</unittitle></did><note><p>(item no. 3)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Out Case">1</container><unittitle>A draft of an act prepared in, <unitdate type="inclusive" normal="1818">1818</unitdate> to provide for the election of Regents of the University (in the handwriting of Judge Woodward and signed by him)</unittitle></did><note><p>(item no. 4)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Out Case">1</container><unittitle>A rough draft of the act of 1821 amending the act to establish the Catholepistemiad, and providing for Regents (in the handwriting of Judge Woodward)</unittitle></did><note><p>(item no. 5)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Out Case">1</container><unittitle>A draft of a new act "to institute a University within the Territory of Michigan", <unitdate type="inclusive" normal="1825">1825</unitdate></unittitle></did><note><p>(item no. 6)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Out Case">1</container><unittitle>A draft of a new act "to institute a University within the Territory of Michigan", <unitdate>undated</unitdate></unittitle></did><note><p>(item no. 7)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Out Case">1</container><unittitle>An enactment by the University of Michigania that subscribers should not be required to pay more than fifty dollars a year; passed, <unitdate type="inclusive">September 12, 1817</unitdate></unittitle><note><p> (formally signed by John Monteith, President, and attested by J. L. Whiting, Register)</p></note></did><note><p>(item no. 8)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Out Case">1</container><unittitle>Enactment signed and attested, <unitdate type="inclusive">October 3, 1817</unitdate></unittitle></did><note><p>(A fund had been raised for the sufferers of the fire of 1805 in Detroit, Montreal, and elsewhere. The money had not been paid to the sufferers, and this act was to indemnify the holders of the money if they paid it to the University)</p></note><note><p>(item no. 9)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Out Case">1</container><unittitle>An appointment by John Monteith, President, of George McDougall as Trustee and Visitor of the Classical Academy of Detroit, <unitdate type="inclusive">February 26, 1818</unitdate></unittitle></did><note><p>(item no. 10)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Out Case">1</container><unittitle>A receipt to Judge A. B. Woodward for his subscription to the University for the year, <unitdate type="inclusive" normal="1817">1817</unitdate></unittitle><note><p> (signed by Duncan Reid, Collector)</p></note></did><note><p>(item no. 11)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Out Case">1</container><unittitle>Three letters from the Judge B. F. H. Witherell to Judge Woodward, calling upon him to pay his subscription to the University</unittitle></did><note><p>(The balance was $87.50)</p></note><note><p>(item no. 12)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Out Case">1</container><unittitle>A brief history of the University of Michigan, by C. I. Walker, published in the newspapers, <unitdate type="inclusive" normal="1869">1869</unitdate></unittitle></did><note><p>(item no. 13)</p></note></c02>
+<c02 level="item"><did><container type="box" label="Out Case">1</container><unittitle>A letter from Governor William Woodbridge to Judge Woodward making reference to those who should be chosen President and the Professors at the opening of the Catholepistemiad, <unitdate>undated</unitdate></unittitle></did><note><p>(item no. 14)</p></note></c02>
+<c02 level="file"><did><unittitle>Other documents (letter and enclosures)</unittitle></did><note><p>(item no. 15)</p></note>
+<c03 level="item"><did><container type="box" label="Out Case">1</container><unittitle>Letter from Judge James V. Campbell (with enclosures), <unitdate type="inclusive">March 15, 1887</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Out Case">1</container><unittitle>Report of the Committee on the organization, and government of the University, <unitdate type="inclusive">March 17, 1838</unitdate></unittitle><note><p>(signed Henry R. Schoolcraft, chairman)</p></note></did></c03>
+<c03 level="item"><did><container type="box" label="Out Case">1</container><unittitle>Report of the Monroe Branch, University of Michigan, <unitdate type="inclusive">March 9, 1838</unitdate></unittitle><note><p>(signed S. Center, principal)</p></note></did></c03></c02></c01></dsc></archdesc></ead>

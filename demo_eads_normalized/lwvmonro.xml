@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::lwvmonro.xml//EN" encodinganalog="Identifier">
+umich-bhl-851658</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+League of Women Voters of Monroe (Mich.) records, 1959-1963
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-02-21</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+League of Women Voters of Monroe (Mich.) <lb/>records, 1959-1963</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+League of Women Voters of Monroe (Mich.)
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+League of Women Voters of Monroe (Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1959-1963
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear foot.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851658 Bm 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Monroe, Michigan branch of the League of Women Voters; correspondence, reports, and newsletters relating to League activities.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was donated by the League (donor no. <num type="donor" encodinganalog="541$e">4164</num>) and came to the library in 1964.  
+</p></acqinfo>
+
+
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+League of Women Voters of Monroe (Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The League of Women Voters is a nonpartisan, volunteer organization whose purpose is to promote political responsibility through the informed and active participation of citizens in government. The Monroe League chapter was established in 1960.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The records of the League of Women Voters of Monroe date from 1959 to 1963, and consist of correspondence, reports, newsletters and printed materials relating to local politics and government</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Monroe (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Municipal government--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Monroe--Societies and clubs.</subject>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive" normal="1959/1963">1959-1963</unitdate> </unittitle> <physdesc><extent>19 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Newsletters</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1960/1963">1960-1963</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

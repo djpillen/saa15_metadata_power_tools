@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::robinscj.xml//EN" encodinganalog="identifier">umich-bhl-2011051</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for C. J. Robinson photograph collection,<date>1918.</date></titleproper>
+<author encodinganalog="creator">Finding aid prepared by Len Coombs</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2011</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Len Coombs, <date>2011</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20110216</date><item>Original encoding in EAD2002 using manual tagging.</item></change><change><date>20120214</date><item>Edited to reflect migration of content from CD-ROM to Deep Blue JMBG</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+<titleproper>Finding Aid for <lb/>C. J. Robinson photograph collection,<date>1918.</date></titleproper>
+<author>Finding aid prepared by: <lb/>Len Coombs</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Robinson, C. J.</persname></origination>
+<unittitle encodinganalog="245">C. J. Robinson photograph collection
+<unitdate type="inclusive" encodinganalog="245$f">1918.</unitdate></unittitle>
+<physdesc><extent>1.81 MB [1 digital file]</extent></physdesc>
+<abstract>Scanned copy of photograph of C. J. Robinson, who served as private, Royal Army Medical Corps, 1916-1919, and served on HM Hospital Ship Kalyan, 
+which transported injured troops from the Allied intervention at Archangel, Russia, to Britain.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">2011051 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was donated by Steve Robinson in 2011
+(Donor no.: <num type="donor" encodinganalog="541$e">10515</num>).</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<originalsloc><p>The collection was scanned by the donor who retained the
+original materials.</p></originalsloc>
+<prefercite encodinganalog="524"><p>item, folder title, box no., C. J. Robinson photograph collection, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p><persname normal="Robinson, C. J.">C. J. Robinson</persname> was private, 
+<corpname normal="Great Britain. Army. Royal Army Medical Corps.">Royal Army Medical Corps</corpname>, 1916-1919, and served on 
+<corpname normal="Kalyan (Hospital ship)">HM Hospital Ship Kalyan</corpname>, which transported injured troops from the Allied intervention at 
+<geogname normal="Arkhangel'sk">Archangel, Russia</geogname>, to Britain.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>This collection contains digital reproductions; the original papers and/or photographs are owned by the donor.  The digital items in this collection were digitized from originals by the individual donors before being received by the Bentley Historical Library.  Preservation copies of these files with their original file names and CD-ROM file structures intact have been submitted to Deep Blue.  Access copies of these digital files can be viewed by clicking on the links next to the individual folders in the Content List below.</p><p>In this finding aid, the files have been arranged into one series, Photographs. Within each series, files are listed numerically according to the file arrangement they were given by the donor. The files in this collection are in JPG format.</p><p>The collections consists of a digitized photograph that belonged to Private C. J. Robinson, who served with the <corpname normal="Great Britain. Army. Royal Army Medical Corps.">RAMC</corpname>, Royal Army Medical Corps, 1916-1919, on the HM Hospital Ship Kalyan.  The photograph was taken in 1918 at a concert party of RAMC members dressed in <subject normal="Pierrot (Fictitious character">Pierrot</subject> costumes on board the <corpname normal="Kalyan (Hospital ship)">Kalyan</corpname>, identified as the <corpname normal="North Russia Expeditionary Force.">North Russian Expeditionary Force</corpname>.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects - Visual Material:</head>
+<persname source="lcnaf" encodinganalog="600">Robinson, C. J.</persname>
+<corpname source="lcnaf" encodinganalog="610">Kalyan (Hospital ship)</corpname>
+<subject source="lcsh" encodinganalog="650">Pierrot (Fictitious character)</subject>
+<geogname source="lcnaf" encodinganalog="651">Soviet Union -- History -- Allied intervention, 1918-1920.</geogname>
+<subject source="local" encodinganalog="690">Polar Bear Expedition.</subject>
+<subject source="lctgm" encodinganalog="650">Clowns.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+</controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Photograph collection</unittitle></did>
+
+    <c02 level="file"><did><container type="folder" label="Folder">1</container>
+<unittitle>Photograph</unittitle>
+
+
+
+<physdesc><extent>1 file</extent></physdesc><dao show="new" actuate="onrequest" href="robinson0001"><daodesc><p>[view items]</p></daodesc></dao></did></c02>
+
+
+
+</c01></dsc></archdesc></ead>

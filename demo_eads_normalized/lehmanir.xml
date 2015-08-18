@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::lehmanir.xml//EN" encodinganalog="Identifier">umich-bhl-89483</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Ira A. Lehman papers, 1910-1989
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Dennis Moser </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>March 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-03-08</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Ira A. Lehman papers, 1910-1989</titleproper>
+
+<author>Finding aid created by<lb/> 
+Dennis Moser, January 1993</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Lehman, Ira A., 1891-1992.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Ira A. Lehman papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1910-1989
+</unitdate>
+
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+89483 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Orthodontist of Detroit, later Plymouth, Michigan. Correspondence with his mentor, A. LeRoy Johnson, dean of the Harvard School of Dental Medicine; also his reminiscences of Johnson; files relating to organizational activities; and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Ira Lehman and other members of the Lehman family (donor no. <num type="donor" encodinganalog="541$e">5279</num>).</p></acqinfo>
+
+
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Ira A. Lehman papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Dr. Ira A. Lehman (1891 - 1992) was a graduate of the University of Michigan, School of Dentistry, Class of 1913 and practiced in the Detroit, Michigan, area.  He was very active in University of Michigan alumni activities, especially as related to the affairs of the School of Dentistry Class of 1913. </p>
+
+<p>Ira Lehman was closely associated with Dr. Alfred LeRoy Johnson, a prominent teacher of orthodontics.  In 1923, Dr. Johnson, Head of Orthodontics at Tufts University, was appointed Professor of Orthodontia at the University of Michigan.  When Lehman, who had been practicing general dentistry, discovered that as an alumnus he could attend Johnson's lectures without having to pay registration fees, he became one of Johnson's students.  This led to Lehman's shift into the practice of orthodontics and was the foundation of his long professional and personal relationship with Johnson.</p>
+
+<p>Both men held views of dental education and orthodontics that were unpopular at the time.  According to a statement by Lehman, all but 10% of their patients were children, and the popular view was that all treatments should be "mechanical" in nature, employing such prosthetic dental devices as braces, retainers, and elastic bands.  Johnson's view was that because children were growing rapidly, their dental problems were often biological in origin and that if dealt with properly, would be outgrown.  Lehman undertook research in this area by making mouth models of the patients that he and Johnson referred to one another.  Johnson was so vehement in his views and so strongly disagreed with the Dean of the School, Marcus Llewellyn Ward, that he left at the end of his first academic year and went to the University of Pennsylvania.  Lehman remained in Michigan, but as a follower and staunch supporter of Johnson, he had little status in the School.  He continued to publish articles promoting his and Johnson's views.  Lehman felt strongly that Johnson held a unique place in the history of dentistry and orthodontics and along with several other friends, persuaded Johnson to publish his book <title render="italic">Dentistry - As I See It</title> in 1935.  Even after Johnson's death in 1967, Lehman continued to correspond with Johnson's family, especially with his daughter Jane, evidently with the hope of persuading some younger, scholarly dental student to write the complete biography of his mentor.  It was partly with that hope in mind that Lehman wrote down his reminiscences of Johnson in 1989.</p>
+
+<p>Throughout his life, Lehman was also active in various dental associations and organizations, both nationally and in Michigan.  He was active in the Great Lakes Association of Orthodontics and received a Certificate of Lifetime Membership in the American Dental Association.  His work with the American Association of Orthodontics centered on its museum and library and he was instrumental in building up their collection of books.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Dr. Ira A. Lehman Papers represent this Michigan dentist's professional activities in the practice of dentistry and his correspondence with his peers and mentor.  This collection is divided into three series: Personal Materials; Professional Correspondence and Materials; and University of Michigan School of Dentistry Class of 1913.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">American Association of Orthodontists.</corpname>
+<subject source="lcsh" encodinganalog="650">Dentistry--United States.</subject>
+<subject source="lcsh" encodinganalog="650">Dentists--Michigan--Detroit.</subject>
+<corpname source="lcnaf" encodinganalog="610">Great Lakes Association of Orthodontists.</corpname>
+<persname source="lcnaf" encodinganalog="600">Lehman, Ira A., 1891-1992.</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Dental Surgery. Class of 1913.</corpname>
+
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<persname source="lcnaf" encodinganalog="600">Johnson, Alfred LeRoy.</persname>
+<persname source="lcnaf" encodinganalog="600">Lehman, Ira A., 1891-1992.</persname>
+
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Dental Surgery. Class of 1913.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing.</corpname>
+</controlaccess>
+
+
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Johnson, Alfred LeRoy.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Personal Materials</unittitle></did><scopecontent><p> Personal Materials consists of miscellaneous University of Michigan class materials, personal letters, and photographs.  Included is an expense book maintained while attending the University of Michigan, 1910-1912.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>University of Michigan student account book, <unitdate type="inclusive" normal="1910/1912">1910-1912</unitdate> and examinations of the Michigan Board of Dental Examiners, <unitdate type="inclusive" normal="1912/1913">1912-1913</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous personal letters, <unitdate type="inclusive" normal="1938/1967">1938-1967</unitdate> (scattered)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform>, miscellaneous (professional meetings, members of the 1913 U-M dental class)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Professional Correspondence and Materials</unittitle></did><scopecontent><p> Professional Correspondence and Materials concerns in part Lehman's activities with various professional organizations.  Of perhaps greater interest are the folders of Lehman's correspondence with Dr. Alfred L. Johnson relating to their mutual professional interests.</p></scopecontent>
+<c02 level="file"><did><unittitle>American Association of Orthodontists</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1956/1978">1956-1978</unitdate> largely concerning its museum and library</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Great Lakes Association of Orthodontists</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1935/1942">1935-1942</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Drafts and manuscripts of professional papers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reprints of articles</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Dr. Alfred LeRoy Johnson and family</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1928/1974">1928-1974</unitdate> (scattered) </unittitle> <physdesc><extent>12 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Lehman's Reminiscences of Johnson, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>University of Michigan School of Dentistry Class of <unitdate type="inclusive" normal="1913">1913</unitdate></unittitle></did><scopecontent><p> University of Michigan School of Dentistry Class of 1913 consists of correspondence, 1938-1979, relating to Lehman's involvement in the class' loan fund project to provide support to students attending the University of Michigan Dental School.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Loan Fund Correspondence, <unitdate type="inclusive" normal="1938/1979">1938-1979</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

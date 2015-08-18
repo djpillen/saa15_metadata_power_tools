@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::dukekev.xml//EN" encodinganalog="identifier">umich-bhl-0224</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Finding Aid for Kevin Duke Papers  <date>1984-1998</date></titleproper>
+        <author encodinganalog="creator">Collection processed and finding aid prepared by Susannah Livingood</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="date">February 2002</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by Susannah Livingood, <date>February 2002</date></creation>
+      <langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>20031001</date>
+        <item>Converted to EAD2002 using Word macro and Xmetal</item>
+      </change>
+      <change>
+        <date>2002-03-26</date>
+        <item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding Aid for <lb/>Kevin Duke Papers, <date type="inclusive">1984-1998</date></titleproper>
+      <author>Finding aid prepared by: <lb/>Susannah Livingood</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">Duke, Kevin.</persname>
+      </origination>
+      <unittitle encodinganalog="245">Kevin Duke Papers
+<unitdate type="inclusive" encodinganalog="245$f" normal="1984/1998">1984-1998</unitdate>
+<unitdate type="bulk" encodinganalog="245$g" normal="1987/1997">1987-1997</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">1 linear ft.</extent>
+      </physdesc>
+      <abstract>Ann Arbor, Michigan, businessman, active in local community groups and programs; a founder of Trailblazers of Washtenaw County, a non-profit agency operating a clubhouse rehabilitation center for the mentally ill; also active in Ann Arbor educational issues. Records of Trailblazers include bylaws, minutes, publications, and other administrative records; also files relating to involvement in other organizations for the mentally ill and Ann Arbor education.</abstract>
+      <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">0224 Aa 2</unitid>
+      <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea> University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload"/>
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>This collection was the gift of Mr. Duke (donor no. <num type="donor" encodinganalog="541$e">8269</num>) and came to the library in 2001.</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>The records are open to research; names of individuals receiving services from Trailblazers may not be cited.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>Copyright has been transferred to the University of Michigan.</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>item, folder title, box no., Kevin Duke Papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Kevin Duke is an Ann Arbor businessman and an active member of several local community groups.  He graduated from the University of Michigan in 1980 with a bachelor's degree in English.  In 1981, he started the Duke Realty Corporation.  He is licensed as both a real estate agent and builder.  Duke has also served as the president of the Halcyon II Corporation, a company that operates the Burwood House, an adult foster care home for the chronically mentally ill in Ann Arbor.</p>
+      <p>Duke has been a community activist in Ann Arbor and Washtenaw County for over twenty years.  He has worked with a variety of community service programs, such as food banks, and he ran for 9th District Washtenaw County Commissioner in the early 1990s. Duke was especially interested in the development of local support groups and services for the mentally ill and their families.  He was president of the Alliance for the Mentally Ill of Washtenaw County from 1989 to 1990, and he received Washtenaw Community College's 1990 Community Organization Award in recognition of the Alliance's work.  Duke was also a founder of the Trailblazers of Washtenaw County, a non-profit agency operating a clubhouse rehabilitation center for the mentally ill.  He served on its executive board from 1989 to 1998.</p>
+      <p>As a father, involvement in his children's education expanded his community interests to include educational issues.  Duke served on two Ann Arbor Public School committees:  the Equity Audit Committee (1993-1997), and the Wines Elementary School's School Management Team (1995-1997).  He was appointed to the Equity Audit Committee by the Ann Arbor Board of Education, and he was elected as a parent representative to the Wines Elementary School Management Team.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The papers of Kevin Duke consist primarily of materials related to the different community service groups with which he was involved:  Trailblazers of Washtenaw County, Alliance for the Mentally Ill in Washtenaw County, the Equity Audit Committee, and the Wines Elementary School's School Management Team.  More than half of the collections relate to Trailblazers.  The collection has been divided into two series:  Trailblazers of Washtenaw County and Other Projects.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">Alliance for the Mentally Ill of Washtenaw County.</corpname>
+        <geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+        <persname source="lcnaf" encodinganalog="600">Duke, Kevin.</persname>
+        <subject source="lcsh" encodinganalog="650">Education--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650">Mentally ill--Care--Michigan--Washtenaw County.</subject>
+        <subject source="lcsh" encodinganalog="650">Schools--Michigan--Ann Arbor.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Trailblazers of Washtenaw County.</corpname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Trailblazers of Washtenaw County, <unitdate type="inclusive" normal="1989/1998">1989-1998</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Trailblazers of Washtenaw County</unittitle>
+          </did>
+          <scopecontent>
+            <p>The Trailblazers of Washtenaw County series (1989-1998; .6 linear feet) documents the incorporation of the organization and Duke's involvement in his capacity as member of the executive board.  Trailblazers' mission includes a dedication to providing a community-based rehabilitation center for adults experiencing the disabling effects of psychiatric illness, and it is committed to improving social services for persons with mental illness by developing vocational programs and a sense of community.  Duke served on the executive board from 1989 to 1998.  Materials in this series relate to regular board meetings, budgets, correspondence, fundraising, service project proposals, and building maintenance.  Trailblazers discussed merging with the Full Circle Community Center and Project Transition in 1996-1997, and it eventually did merge with Full Circle in 1997.  Three subseries have been created to reflect the three periods of administrative history:  (1) Trailblazers alone, (2) Trailblazers plus Full Circle and Project Transition as the three agencies discussed merging, and (3) Trailblazers/Full Circle post-merger.</p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Bylaws, Administrative Structure, <unitdate type="inclusive" normal="1989/1996">1989-1996</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Agendas, Minutes, Reports, <unitdate type="inclusive" normal="1989/1997">1989-1997</unitdate></unittitle>
+              <physdesc>
+                <extent>4 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Community Center Proposal, <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Events, Publications, User Statistics, <unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Personnel Letters, Miscellaneous Correspondence, <unitdate type="inclusive" normal="1994/1998">1994-1998</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Accreditation Requirements/Documentation, <unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Buildings/Maintenance, <unitdate type="inclusive" normal="1987/1998">1987-1998</unitdate></unittitle>
+              <physdesc>
+                <extent>6 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Trailblazers of Washtenaw County/Full Circle Community Center/Project Transition</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Merger Agendas, Minutes, Reports, <unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate></unittitle>
+              <physdesc>
+                <extent>3 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Trailblazers of Washtenaw County/Full Circle Community Center</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Agendas, Minutes, Reports, <unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Substance Abuse Services Proposal, <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Fundraising, <unitdate type="inclusive" normal="1996/1998">1996-1998</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Other Projects, <unitdate type="inclusive" normal="1984/1997">1984-1997</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>The Other Projects series (1984-1997, .4 linear feet) includes files on other community groups or committees to which Duke contributed his time, as well as a file of newspaper clippings and political letters written by or to Duke.  Materials in this series include a brief administrative file on the Alliance for the Mentally Ill of Washtenaw County, a file on the public debate surrounding the siting of Halcyon's Burwood House for mentally ill patients in a family neighborhood, and administrative records for the Ann Arbor Public School's Equity Audit Committee and Wines Elementary School's School Management Team.  The Equity Audit Committee was responsible for monitoring progress made by Ann Arbor in ensuring equal educational opportunities for all students, particularly in the areas of the application of disciplinary policies and academic opportunities.  The Wines School Management Team was responsible for working with the school's staff, teachers, students, and parents to develop acceptable standards for student behavior.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Alliance for the Mentally Ill of Washtenaw County, <unitdate type="inclusive" normal="1984/1997">1984-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>News Clippings, Letters, Political Correspondence, <unitdate type="inclusive" normal="1988/1997">1988-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Proposed Group Home at 201 Burwood (Ann Arbor), <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Equity Audit Committee (Ann Arbor Public Schools)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Orientation Notebook, <unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Agendas, Minutes, Reports, <unitdate type="inclusive" normal="1993/1997">1993-1997</unitdate></unittitle>
+              <physdesc>
+                <extent>3 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Wines Elementary School (Ann Arbor) School Management Team, <unitdate type="inclusive" normal="1995/1997">1995-1997</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::csmil.xml//EN" encodinganalog="Identifier">
+umich-bhl-0590</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Cognitive Science and Machine Intelligence Laboratory (University of Michigan) records, 1980-1990 
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+University Archives Staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>20070906</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Cognitive Science and Machine Intelligence Laboratory<lb/> (University of Michigan) <lb/>Records, 1980-1990 
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+University Archives Staff
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">University of Michigan. Cognitive Science and Machine Intelligence Laboratory.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Cognitive Science and Machine Intelligence Laboratory (University of Michigan) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1980-1990
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0590 Bimu 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The Cognitive Science and Machine Intelligence Laboratory (CSMIL) was established in 1985 as a joint venture with the School of Business, College of Engineering, and College of Literature, Science and the Arts. Gary Olson served as director from 1985 to 1994.  Records detail the establishment of the laboratory and include committee minutes, financial records, announcements, and material on the colloquium series and various distinguished scientists invited to speak on artificial intelligence, spatial reasoning, and visualization of information.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Donor No. 
+<num type="donor" encodinganalog="541$e">9576</num>.
+ 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>Periodic additions to the records expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The records are open without restriction.</p>
+
+
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Cognitive Science and Machine Intelligence Laboratory (University of Michigan) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Cognitive Science and Machine Intelligence Laboratory (CSMIL) was established in 1985 as a joint venture with the School of Business, College of Engineering, and College of Literature, Science and the Arts. Gary Olson served as director from 1985 to 1994. In 1988 the Regents approved a project to build a Collaboration Technology Suite for the Laboratory in the Business School. The CSMIL eventually evolved into the Collaboratory for Research on Electronic Work (CREW).</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The records consist of Topical Files, alphabetically arranged, which document various aspects of the Cognitive Science and Machine Intelligence Laboratory's administrative activities and research endeavors.  </p>
+
+<p>Within this series, Cognitive Science Course contains records pertaining courses which offered students a multidisciplinary approach to the study of cognition.  These courses were proposed and offered between 1986 and 1988.  Files contain correspondence, proposals, and course descriptions. </p>
+
+<p>Colloquium Series contains programs, correspondence, and bulletins from colloquia sponsored and organized by the Cognitive Science and Machine Intelligence Laboratory. </p>
+
+<p>The Newsletters series contains the <title render="italic">CSMIL Bulletin</title>, the main publication of the Cognitive Science and Machine Intelligence Laboratory, published biweekly. It provided a calendar of relevant events, colloquia, and workshops, as well as other announcements. Towards the late 1980s, the bulletin contained lengthier articles. This series also contains two editions of <title render="italic">Express</title>, a publication that updated the broader scientific community on the accomplishments of the EXPRES project, an electronic communication initiative. </p>
+
+<p>Open Houses contains administrative documents, such as hand outs, to-do lists, and screen-shot print outs, relating to the CSMIL open houses.</p>
+
+<p>Sloan Foundation contains records of the grant received to establish a program in Cognitive Science.  The files include the final report to the Sloan Foundation on the project's development and activities. </p>
+
+<p>Technical Reports include six spiral-bound versions of published reports co-authored by members of the Cognitive Science and Machine Intelligence Laboratory. The reports appeared in various journals, including <title render="italic">Journal of Experimental Psychology</title>, and the <title render="italic">Journal on Expert Systems</title>. </p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Cognitive Science and Machine Intelligence Laboratory.</corpname>
+<subject source="lcsh" encodinganalog="650">Artificial intelligence.</subject>
+<subject source="lcsh" encodinganalog="650">Human-computer interaction--Study and teaching.</subject>
+<subject source="lcsh" encodinganalog="650">Interactive computer systems.</subject>
+<persname source="lcnaf" encodinganalog="600">Olson, Gary M.</persname>
+</controlaccess>
+
+
+
+
+
+
+
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Topical Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Announcements, <unitdate type="inclusive" normal="1980/1985">1980-1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Reports, <unitdate type="inclusive" normal="1982/1986">1982-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Administrative Plan, <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Background Materials, <unitdate type="inclusive">ca. 1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Behavioral Decision Training Course, <unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Brochures on Human Computer Interaction Programs, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Budget Summary Reports, <unitdate type="inclusive" normal="1986/1993">1986-1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Chinese Delegation, <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Cognitive Science Course</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Course Proposal, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Planning Committee, <unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Teaching, <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle></did></c03></c02>
+
+
+<c02 level="file"><did><unittitle>Colloquium Series</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Colloquium Series, <unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Colloquium Series, <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Commercialization Workshop, <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Connection Machine, <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1985/1988">1985-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Executive Committee Agendas, <unitdate type="inclusive" normal="1985/1987">1985-1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Flyers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>CSMIL Bulletin, <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>CSMIL Bulletin, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>CSMIL Bulletin, <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>CSMIL Bulletin, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>CSMIL Bulletin, <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Express</unittitle></did></c03></c02>
+
+
+<c02 level="file"><did><unittitle>Open Houses</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">April 30, 1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October 11, 1988</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Posters</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Program Description, <unitdate type="inclusive">1988 undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Progress Reports, <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Report on Activities, Budget, Administration, <unitdate type="inclusive" normal="1985/1986">1985-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sloan Foundation</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Sloan Foundation, <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Sloan Foundation Final Report, <unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate></unittitle></did></c03></c02>
+
+
+<c02 level="file"><did><unittitle>Technical Reports</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Structure and Process in Semantic Memory", <unitdate type="inclusive">April, 1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"A Qualitative Approach for Recovering Relative Depths in Dynamic Scenes", <unitdate type="inclusive">June, 1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Mental Models in Human-Computer Interaction", <unitdate type="inclusive">June, 1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Extracting Expertise from Experts", <unitdate type="inclusive">June, 1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"An Advantage Model of Choice", <unitdate type="inclusive">September, 1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Can Principles of Cognition Lower the Barriers to Programming?", <unitdate type="inclusive">September, 1987</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Vision Workshop</unittitle></did></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

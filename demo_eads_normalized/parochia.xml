@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::parochia.xml//EN" encodinganalog="identifier">umich-bhl-85511</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Council About Parochiaid Records <date>1970-1978</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Bentley Historical Library staff</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2002</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>October 2002</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20021010</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Council About Parochiaid Records, <date type="inclusive">1970-1978</date></titleproper><author>Finding aid prepared by: <lb/>Bentley Historical Library staff</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="recordgrp" relatedencoding="marc21"><did>
+<origination><corpname source="lcnaf" encodinganalog="110">Council About Parochiaid</corpname></origination>
+<unittitle encodinganalog="245">Council About Parochiaid records
+<unitdate type="inclusive" encodinganalog="245$f" normal="1970/1978">1970-1978</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">1 linear ft.</extent></physdesc>
+<abstract>Michigan organization formed to oppose public aid to non-public schools and students, variously known as CAP, and the Council Against Parochiaid.  Minutes of meetings, correspondence, and other materials relating to their support of Proposal C in the Michigan election of 1970, and their opposition to Proposal H (the Voucher Plan) in the election of 1978.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">85511 Bh 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The records were received in 1970 and 1979 from the organization and through its executive director Mrs. Kathryn A. Boucher (donor nos. <num type="donor" encodinganalog="541$e">4981</num> and <num type="donor" encodinganalog="541$e">6282</num>).</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The record group is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Council About Parochiaid Records, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>The Council About Parochiaid (also known as the Council of Organizations and Others for Education About Parochiaid, and the Council Against Parochiaid) is a non-profit coalition of organizations and individuals formed in 1970 with principal offices in Lansing. The Council About Parochiaid or CAP's primary activity has been to oppose the flow of public funds to private and parochial schools. As of 1978, membership in CAP included some thirty organizations and individuals. Among the former category are: the American Civil Liberties Union, the Anti-Defamation League, Americans United for Separation of Church and State, The League of Women Voters of Michigan, Michigan Alliance of Black Educators, Michigan Association of School Boards, Michigan Education Association, Michigan Federation of Teachers, and the United Methodist Church.</p>
+<p>After the Michigan State Legislature adopted a measure permitting the flow of public funds to non-public schools in 1969, CAP planned and coordinated a statewide initiative petition and political campaign seeking passage of a constitutional amendment to prohibit public aid to non-public schools and students. The proposed amendment appeared on the 1970 ballot as Proposal C. In that year Michigan voters rejected public tax support for church-related and other non-public schools through the passage of Proposal C.</p>
+<p>Though continuing to hold meetings, CAP remained relatively dormant until 1978 when the Citizens for More Sensible Financing of Education (CSF) organized an initiative petition placing a voucher plan, Proposal H, on the ballot. Because this measure would shift local property taxes for the operation of schools and other educational purposes to the state personal income tax and/or single business tax, and require the distribution of educational vouchers to support the attendance of each pupil at the public or non-public school of the parent's or guardian's choice, CAP viewed Proposal H as a pro-parochiaid measure. CAP-78, the political action arm and state ballot committee to oppose the voucher plan amendment unsuccessfully sought the disqualification of the petitions through the State Supreme Court, and then organized a successful campaign to defeat Proposal H on the ballot.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>These papers from the files of Kathryn Boucher, Executive Director of CAP, contain organizational and campaign materials in addition to newspaper clippings covering the two major state ballot proposals of the 1970's concerning public aid to non-public schools and students in the state of Michigan. The collection includes lists, bulletins, news releases, financial statements, mailings, workshop materials, papers from local coalitions, poll results and legal materials in addition to papers from the organization, United We Can, and a file containing "pro-parochiaid" materials. Also in the collection are notices and minutes of meetings for the years 1970-1972 and 1977-1978, and correspondence, 1970-1973, and 1977-1978. The 1970 correspondence record a variety of personal positions of Michigan Education Association members on the issue of parochiaid.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><subject source="lcsh" encodinganalog="650">Church schools--Michigan--Finance.</subject><subject source="lcsh" encodinganalog="650">Education--Michigan.</subject><subject source="lcsh" encodinganalog="650">Elections--Michigan--1970.</subject><subject source="lcsh" encodinganalog="650">Elections--Michigan--1978.</subject><subject source="local" encodinganalog="690">Parochiaid.</subject><corpname source="lcnaf" encodinganalog="610">Council About Parochiaid.</corpname><subject source="lcsh" encodinganalog="650">Government aid to private schools--Michigan.</subject></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Meetings</unittitle></did><note><p> (minutes, notices, and related material)</p></note>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></unittitle></did><note><p> (folder 1)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></unittitle></did><note><p> (folder 2)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1972">1972</unitdate></unittitle></did><note><p> (folder 3)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1977">1977</unitdate></unittitle></did><note><p> (folder 4)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1978">1978</unitdate></unittitle></did><note><p> (folder 5)</p></note></c02></c01>
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></unittitle></did><note><p> (folder 6)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1972">1972</unitdate></unittitle></did><note><p> (folder 7)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1973">1973</unitdate></unittitle></did><note><p> (folder 8)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1977">1977</unitdate></unittitle></did><note><p> (folder 9)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-June 1978</unitdate></unittitle></did><note><p> (folder 10)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">July-December 1978</unitdate></unittitle></did><note><p> (folder 11)</p></note></c02></c01>
+<c01 level="series"><did><unittitle>Proposal "C" (Anti-parochiaid) Yes Campaign, <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lists</unittitle></did><note><p>(organizations, contact people, distribution centers, coordinators)</p></note><note><p> (folder 12)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bulletins</unittitle></did><note><p> (folder 13)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>News Releases</unittitle></did><note><p> (folder 14)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Campaign material; include blank initiative petition, handouts, flyers, fact sheets, time table, and related material</unittitle></did><note><p> (folder 15)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legal material</unittitle></did><note><p> (folder 16)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Printed materials (news clippings and reprints)</unittitle></did><note><p> (folder 17)</p></note></c02></c01>
+<c01 level="series"><did><unittitle>Proposal "H" (Voucher Plan) No Campaign, <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lists</unittitle></did><note><p>(organizations, speakers bureau, committees, distribution centers)</p></note><note><p> (folder 18)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Charts: Organization and Campaign Designs, and Information Tasks-Timeline</unittitle></did><note><p> (folder 19)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>News Releases</unittitle></did><note><p> (folder 20)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Statements</unittitle></did><note><p> (folder 21)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mailings (newsletters and related materials)</unittitle></did><note><p> (folder 22)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>CAP-78 Local Coalitions</unittitle></did><note><p> (folder 23)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>CAP Regional Workshops, <unitdate type="inclusive">May 12, 1978</unitdate></unittitle></did><note><p>(schedules, resource teams, lists)</p></note><note><p> (folder 24)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Campaign material; include handouts, flyers, pamphlets, radio spots, newspaper ads, bumper sticker, and Michigan Association of School Board's position papers</unittitle></did><note><p> (folder 25)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Poll results</unittitle></did><note><p> (folder 26)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legal material (complaint for mandamus)</unittitle></did><note><p> (folder 27)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legal material</unittitle></did><note><p>(Board of State Canvassers meeting and sampling plans and decisions criteria for petition validation)</p></note><note><p> (folder 28)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legal Developments Affecting Education</unittitle></did><note><p> (folder 29)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>United We Can material; including platform, mailings, handouts, newsletter and related material</unittitle></did><note><p> (folder 30)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pro-parochiaid material; including newsclippings, blank Initiative Petition, CSF Board of Directors list, CSF Newsletters, press release reprints, and booklet</unittitle></did><note><p> (folder 31)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did><note><p> (folder 32)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Voucher Plans (other states)</unittitle></did><note><p> (folder 33)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous newsletters</unittitle></did><note><p> (folder 34)</p></note></c02></c01>
+<c01 level="series"><did><unittitle>Printed material</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Church and State, <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle></did><note><p> (folder 35)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reprints</unittitle></did><note><p> (folder 36)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>News clippings</unittitle><physdesc><extent>5 folders</extent></physdesc></did><note><p> (folders 37-42)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>UPI Releases</unittitle></did><note><p> (folder 43)</p></note></c02></c01></dsc></archdesc></ead>

@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::fineresr.xml//EN" encodinganalog="Identifier">
+umich-bhl-88303</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Sidney Fine collected research materials, ca. 1900-1970s
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>July 2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-07-09</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Sidney Fine collected research materials, ca. 1900-1970s</titleproper>
+      <author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<persname source="lcnaf" encodinganalog="100">
+Fine, Sidney, 1920- collector.
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+Sidney Fine collected research materials 
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1900-1970s
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+13 linear feet
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+88303 Aa 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Professor of history at the University of Michigan; collected materials pertaining to his research interests.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was the gift of Professor Sidney Fine (donor no. <num type="donor" encodinganalog="541$e">3500</num>).</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is not held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Sidney Fine collected research materials, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Sidney Fine was a professor of recent American history at the University of Michigan.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>This collection consists of that research material accumulated by Sidney Fine in the course of research for his various monographs on the New Deal, the Detroit Riot of 1967, and his study of Walter Drew. </p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">Automobile industry and trade--United States.</subject>
+        <geogname source="lcsh" encodinganalog="651">Detroit (Mich.)--History--20th century.</geogname>
+        <subject source="lcsh" encodinganalog="650">Automobile industry workers--Labor unions--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">New Deal, 1933-1939.</subject>
+        <subject source="lcsh" encodinganalog="650">General Motors Corporation Sit-Down Strike, 1936-1937.</subject>
+        <corpname source="lcnaf" encodinganalog="610">United States. Automobile Labor Board.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">United States. National Recovery Administration.</corpname>
+        <subject source="lcsh" encodinganalog="650">Riots--Michigan--Detroit--History--20th century.</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Collected research materials</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence and memoranda, <unitdate type="inclusive" normal="1933/1936">1933-1936</unitdate> </unittitle>
+            <physdesc>
+              <extent>4 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Testimony of William Green at the formation of the N.R.A. Automobile Code; also hearing of the Tool and Die Makers Strike in Detroit, <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Edgewater, New Jersey ad the Chester, Pennsylvania strikes against the Ford Motor Company; include depositions, <unitdate type="inclusive" normal="1933/1934">1933-1934</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Minutes of the meetings of mediation and negotiation in the Automobile Industry, <unitdate type="inclusive" normal="1934">1934</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Decisions of the Automobile Labor Board, <unitdate type="inclusive" normal="1934/1935">1934-1935</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellanea; include reports, rules, minutes, documents, etc., <unitdate type="inclusive" normal="1934/1935">1934-1935</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>N.R.A. code, <unitdate type="inclusive" normal="1933">1933</unitdate> for the automobile industry; also related codes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellaneous printed reports</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>F.B.I. reports relating to Detroit Riots, <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Community Relations Service, Justice Department files re Detroit Riot (largely copies of clippings)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Correspondence of Harold Stassen, Gov. of Minnesota, relating to the <unitdate type="inclusive" normal="1939">1939</unitdate> WPA strike in Minneapolis </unittitle>
+            <physdesc>
+              <physfacet>1 microfilm roll</physfacet>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Papers of Emil Hurja, 1932-39, relating to Michigan politics, <unitdate type="inclusive" normal="1932/1939">1932-1939</unitdate> </unittitle>
+            <physdesc>
+              <physfacet>1 microfilm roll</physfacet>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Boxes">3-6</container>
+            <unittitle>Collected materials used in his research on the Detroit Riot of 1967 </unittitle>
+          </did>
+          <note>
+            <p>(interviews with Nathan Caplan included in box 5)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Boxes">7-13</container>
+            <unittitle>Collected material relating to his research on Walter Drew</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+    <descgrp type="add">
+      <relatedmaterial>
+        <head>Related Material</head>
+        <p>The library also has a collection of Sidney Fine's professional papers, separately cataloged.</p>
+      </relatedmaterial>
+    </descgrp>
+  </archdesc>
+</ead>

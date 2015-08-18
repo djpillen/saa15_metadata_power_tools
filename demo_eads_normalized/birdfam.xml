@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::birdfam.xml//EN" encodinganalog="identifier">
+umich-bhl-85497
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Bird Family Papers, 1835-1914
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2004 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>July 2004</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20040706 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Bird Family Papers, 1835-1914</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff, 1981</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<famname source="lcnaf" encodinganalog="100">
+Bird Family
+</famname></origination>
+
+<unittitle encodinganalog="245">
+Bird Family Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1835-1914
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+85497  Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Bird family of Truago (now Trenton) in Wayne County,  Michigan, later founders of Clayton in Lenawee County, Michigan. Papers, 1837-1857, of Chauncey Bird, including account of flight in 1811 from Litchfield, Connecticut, to escape persecution by Masons; papers, 1835-1873, of Reuben E. Bird, largely concerning operation of Clayton general store; and diary, scrapbook, and other papers of John E. Bird, state attorney general and supreme court justice.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Mr. Major Bird (donor no. <num type="donor" encodinganalog="541$e">305</num>) and came to the library in 1938 with a small addition in 1980.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Bird Family Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Bird General Store (Clayton, Mich.)</corpname>
+<geogname source="lcsh" encodinganalog="651">Clayton (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Freemasonry--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">General stores--Michigan--Clayton.</subject>
+<geogname source="lcsh" encodinganalog="651">Lenawee County (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Trenton (Mich.)</geogname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Bird, Chauncey.</persname>
+<persname source="lcnaf" encodinganalog="700">Bird, John E. (John Everett), 1862-1928.</persname>
+<persname source="lcnaf" encodinganalog="700">Bird, Reuben E. (Reuben Everett), 1811-1885.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform></controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Chauncey Bird</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers, <unitdate type="inclusive" normal="1837/1857">1837-1857</unitdate></unittitle></did><note><p>(including letters from relatives about farm life in Michigan; and account of flight in 1811 from Litchfield, Conn. to escape persecution by Masons)</p></note></c02></c01>
+
+<c01 level="series"><did><unittitle>Reuben E. Bird</unittitle></did>
+<c02 level="file"><did><unittitle>Papers</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1835/1853">1835-1853</unitdate>  and <unitdate type="inclusive" normal="1861">1861</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1872/1874">1872-1874</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1875/1880">1875-1880</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1881/1882">1881-1882</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legal materials concerning seizure of a horse owned by Bird, <unitdate type="inclusive" normal="1872">1872</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Account book, <unitdate type="inclusive" normal="1870/1873">1870-1873</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Business cards and advertisements</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous (including newspaper obituary)</unittitle></did></c02>
+<c02 level="file"><did><unittitle>General store records</unittitle></did>
+<c03 level="file"><did><unittitle>Account book</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1836/1843">1836-1843</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1844/1835">1844-1835</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1848/1853">1848-1853</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1850/1860">1850-1860</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1869/1873">1869-1873</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Cash book, <unitdate type="inclusive" normal="1866/1870">1866-1870</unitdate></unittitle></did><note><p>(volume later used as book of quotations)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Plats for Clayton, Mich., ca. <unitdate type="inclusive" normal="1838">1838</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Tax assessment roll for Hudson Township, Lenawee County, <unitdate type="inclusive" normal="1840">1840</unitdate></unittitle></did></c03></c02></c01>
+
+<c01 level="series"><did><unittitle>John E. Bird</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Diaries">Diary</genreform>, <unitdate type="inclusive">January-February 1872</unitdate>  and account book, <unitdate type="inclusive" normal="1874/1877">1874-1877</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Scrapbooks">Scrapbook</genreform> containing obituaries of family and friends, ca. <unitdate type="inclusive" normal="1876/1914">1876-1914</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Bird family</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Receipts, mortgages, notes, etc.</unittitle><physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Anti-Masonic printed material</unittitle></did></c02></c01>
+
+</dsc></archdesc>
+</ead>

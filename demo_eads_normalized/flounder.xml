@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::flounder.xml//EN" encodinganalog="identifier">
+umich-bhl-0446
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Flounders (Club) Records, 1935-2003
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Leslie Knoblauch </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2005 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Leslie Knoblauch, 
+<date>April 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050422</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Flounders (Club) Records, 1935-2003</titleproper>
+
+<author>Finding aid created by<lb/> 
+Leslie Knoblauch, March 2004</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Flounders (Club)
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Flounders (Club) records,  
+<unitdate type="inclusive" encodinganalog="245$f">
+1935-2003
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1975-2003
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+0446 Br 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+University of Michigan faculty water polo team. Administrative and background information; also photographs, videotape and DVD of Flounders events; and CD-ROMs of Flounders images and documents.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was the gift of Professor Richard Bailey (donor no. <num type="donor" encodinganalog="541$e">5893</num>)</p>
+</acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Flounders (Club) Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Between 1925 and 1926 the University of Michigan swim coach Matt Mann started The Flounders, a water polo team for male faculty members. The members consistently met three times week, Monday, Wednesday, and Friday at noon at the Michigan Union pool, where they would play a quick game, then head off to a group lunch at the Union. The Flounders became known for their lack of definitive rules, rough playing style, and for not keeping an official score. When a member's name appeared in print that player was obligated to buy coffee or, as the updated rules state, ice-cream or both for the other members. Undergraduate students who were members of the swim team and sons of members were allowed to join the team, as long as they could make it through one game, which usually lasted half an hour and could involve being scratched, injured, or held under water for up to five minutes at a time.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520"><p>The collection is comprised of two series; Administration and Background Information, and Other Media. The bulk of the records are in the Administration series, which contains information pertaining to the history of the organization, fundraising efforts by the Flounders for a score board, memorials, and bills for annual charges for supplies and rental of space. The Other Media series primarily documents random weekly games, team pictures, and the planting of a memorial tree in 1983 for deceased Flounder member John Slocum. There are also several CD-ROMS that contain images of members and miscellaneous clippings. A DVD is included that was created for the 75th anniversary of the founding of the Flounders in 2003. The paper records accumulated during the making of the anniversary DVD, which include typed captions for images, are within the administration series. A VHS Tape is also included as part of the collection that contains material documented in 2002. </p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Flounders (Club)</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty--Societies, etc.</corpname>
+<subject source="lcsh" encodinganalog="650">Water polo--Michigan--Ann Arbor.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<corpname source="lcnaf" encodinganalog="610">Flounders (Club)</corpname>
+<subject source="lcsh" encodinganalog="650">Water polo--Michigan--Ann Arbor.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">CD-ROMs.</genreform>
+<genreform source="aat" encodinganalog="655">DVDs.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+</controlaccess></controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Administration and Background Information, <unitdate type="inclusive" normal="1935/2003">1935-2003</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Charges for Usage of the Intramural Sports Building (IMSB), <unitdate type="inclusive" normal="1988/1991">1988-1991</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Fundraising</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Hopkins, Clark Memorial Fund, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Scoreboard Fund, <unitdate type="inclusive">October 1992</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Slocum, John Memorial Tree, <unitdate type="inclusive">February 1993</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History, <unitdate type="inclusive" normal="1975/1994">1975-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Images of Artwork dedicated to Eugene Power, <unitdate type="inclusive">January 1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The Making of the 75th Anniversary <genreform normal="DVDs">DVD</genreform>, <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle><physdesc><extent>2 floppy discs</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Member Lists, <unitdate type="inclusive" normal="1976/1994">1976-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Newspaper Clippings</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive" normal="1935/2002">1935-2002</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Slocum, John. Memorial Tree Dedication, <unitdate type="inclusive">May 1983</unitdate></unittitle></did></c03></c02></c01>
+
+<c01 level="series"><did><unittitle>Other media</unittitle></did>
+<c02 level="file"><did><unittitle><genreform normal="CD-ROMs">CD-ROMS</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Christmas <unitdate type="inclusive" normal="2000">2000</unitdate> and Pool <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings and Miscellaneous, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Email Pictures and CB Scans, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">June 1995-June 1997</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>DVD</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>75th Anniversary, <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><genreform normal="Photographs">Negatives</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Water polo Game, <unitdate type="inclusive">June 1975</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Slocum, John. Memorial Tree Dedication, <unitdate type="inclusive">May 1983</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Team Pictures, <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Water polo Game, <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Water polo Game, <unitdate type="inclusive">July 2000</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>VHS <genreform normal="Videotapes">Videotape</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"The Flounders, April 26, 2002"</unittitle></did></c03></c02></c01>
+
+
+
+</dsc></archdesc>
+
+</ead>

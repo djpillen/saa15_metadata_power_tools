@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::wilhelmr.xml//EN" encodinganalog="Identifier">
+umich-bhl-85449</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Ross J. Wilhelm Papers, 1925-1983
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Anne Frantilla </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>July 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-07-14</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Ross J. Wilhelm Papers, 1925-1983</titleproper>
+
+<author>Finding aid created by<lb/> 
+Anne Frantilla, April 1984</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Wilhelm, Ross Johnston, 1920-1983.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Ross J. Wilhelm Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1925-1983
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+3 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85449 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of business economics in the University of Michigan School of Business Administration. Copies of radio commentaries, "Business Review," 1960-1981; papers relating to newspaper column, "Inside Business"; speeches and essays; correspondence, 1971-1982; and photographs and miscellaneous.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The Wilhelm collection was donated by Mrs. Rowena Wilhelm (Donor no. <num type="donor" encodinganalog="541$e">7016</num>) in 1984.  Additions were received in 1988.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Ross J. Wilhelm Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Professor Ross Johnston Wilhelm, a University of Michigan business economics professor whose commentaries on business and political issues were nationally syndicated, was born January 20, 1920 in Arlington, New Jersey. He married Rowena May in 1944.</p>
+
+<p>Wilhelm received his BA and MBA degrees from Western Reserve, Cleveland, Ohio and his Ph.D. from the University of Michigan in 1963. Wilhelm was a Professor of Business Economics in the Graduate School of Business Administration at the University of Michigan.</p>
+
+<p>His radio program, "Business Review" was heard from 1961 to 1981 on WUOM, and was nationally syndicated. He also wrote a column "Inside Business" which appeared regularly in more than 300 newspapers. Wilhelm received the University of Michigan Distinguished Service Award in 1963, and the Janus Award for the best business-oriented radio program in the nation in 1973.</p>
+
+<p>Wilhelm died on March 22, 1983, at age 63.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Ross Wilhelm papers (1925-1982) date principally from 1960 to 1982 and measure three linear feet. The papers document Wilhelm's radio program "Business Review" and other aspects of his professional career.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Economics.</subject>
+<subject source="lcsh" encodinganalog="650">Radio broadcasting--United States.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. School of Business Administration.</corpname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Broadcasting.</subject>
+<geogname source="lcsh" encodinganalog="651">Oak Island (Lunenburg, N.S.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">WUOM (Radio station : Ann Arbor, Mich.)</corpname>
+<persname source="lcnaf" encodinganalog="600">Wilhelm, Ross Johnston, 1920-1983.</persname>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Personal and Biographical, <unitdate type="inclusive" normal="1925/1982">1925-1982</unitdate> (scattered dates)</unittitle></did>
+<scopecontent><p>The Personal and Biographical material (1925-1982) primarily documents Wilhelm's teaching career at the University of Michigan. Included are photographs.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photos</genreform> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did><scopecontent><p>Portrait and contact photographs of Wilhelm; photographs of Wilhelm broadcasting WUOM radio program, with students and colleagues, and with family after receiving honorary doctorate from Eastern Michigan University (1977); and slides relating to excavations on Oak Island in Nova Scotia.</p></scopecontent></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Professional Activities, <unitdate type="inclusive" normal="1960/1982">1960-1982</unitdate></unittitle></did><scopecontent><p>Professional Activities (1960-1982) contains the weekly commentaries Wilhelm gave on his radio show "Business Review." There are also essays and correspondence relating to a column, "Inside Business," that Wilhelm wrote for Business Roundtable, a non-profit organization in New York. Also included are various speeches Wilhelm gave and essays he wrote throughout his career.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Business Review, <unitdate type="inclusive" normal="1960/1969">1960-1969</unitdate> </unittitle> <physdesc><extent>10 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Business Review, <unitdate type="inclusive" normal="1970/1981">1970-1981</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>13 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Business Roundtable, <unitdate type="inclusive" normal="1974/1977">1974-1977</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic"> Readings in the Age of Enterprise</title> (book), <unitdate type="inclusive" normal="1964">1964</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Menominee-Marinette Study, <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Speeches and Essays</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive" normal="1956/1982">1956-1982</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive">Undated</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did><scopecontent><p>Correspondence, 1971-1982, includes reactions of listeners to "Business Review," greetings from ex-students and documentation of other professional activities.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>General, <unitdate type="inclusive" normal="1971/1982">1971-1982</unitdate> [A-Z] </unittitle> <physdesc><extent>20 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Re: Speeches, <unitdate type="inclusive" normal="1963/1982">1963-1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Rowena Wilhelm: Condolences received on Ross Wilhelm's death</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did><scopecontent><p>Miscellaneous includes notes and an article by Wilhelm on Oak Island, a small island in Nova Scotia where treasure was thought to have been buried. Also included are two folders of newspaper clippings regarding Wilhelm's economic forecasts and political views. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Oak Island Treasure, <unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Newspaper Clippings, <unitdate type="inclusive" normal="1972/1980">1972-1980</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::corsonwp.xml//EN" encodinganalog="identifier">umich-bhl-8789</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for William D. Corson Papers <date>1896-1926</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Carol Hofstadter</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2002</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>October 2002</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031001</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20021010</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>William D. Corson Papers, <date type="inclusive">1896-1926</date></titleproper><author>Finding aid prepared by: <lb/>Carol Hofstadter</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Corson, William D.</persname></origination>
+<unittitle encodinganalog="245">William D. Corson Papers
+<unitdate type="inclusive" encodinganalog="245$f" normal="1896/1926">1896-1926</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">5 linear in. and 1 oversize folder</extent></physdesc>
+<abstract>Soldier with the 31st Michigan Volunteer Infantry during the Spanish-American War.  War-related documents, including bills, orders and passes, and pension applications; also financial materials, 1901-1902, relating to his involvement in the Ann Arbor Gun Club; and photographs.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">8789 Aa 2 UAm</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was the gift of William T. Bronson (donor no. <num type="donor" encodinganalog="541$e">5756</num>) and came to the library in September 1986.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., William D. Corson Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>William D. Corson was a soldier with the 31st Michigan Volunteer Infantry during the Spanish-American War. Trained in Chattanooga, Tennessee, the Michigan 31st served in Cuba during the war.  After the war, Corson became proprietor of Corson's Cozy Corner saloon which was located at the northwest corner of Ann and Main Street in Ann Arbor, Michigan.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The William D. Corson collection is primarily an accumulation of the momentos of a number of the men of the 31st Michigan Volunteer Infantry. Materials include newspaper clippings concerning the Michigan 31st both in Chattanooga and in Cuba, bills of purchases by the commissary in Cuba (many of these for cigars), orders and passes issued through the office of Captain Ross Granger, souvenirs, and photographs.</p>
+<p>The collection also contains insurance policies, including those from the period of Corson's duty during the Spanish-American War and pension applications for veterans of the war. These applications were solicited by law firms and seem to represent a thriving local industry.</p>
+<p>The rest of the collection contains material collected after the Spanish-American War when Corson was a saloon proprietor. Included are photographs of the saloon taken around 1910. Corson was also the secretary and treasurer of the Ann Arbor Gun Club and kept shooting scores, bills, receipts and an account book of the club. An oversized group portrait shows Corson and other members of the club.</p>
+<p>In addition, the collection includes photographs of family and friends, Ann Arbor scenes, a group portrait of the veterans of the 31st Michigan Volunteer Infantry, and photos of military activities, while training in the United States and while stationed in Cuba. A number of advertising cards for several local Ann Arbor businesses are included and probably date prior to 1910.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname><corpname source="lcnaf" encodinganalog="610">Ann Arbor Gun Club (Mich.)</corpname><subject source="lcsh" encodinganalog="650">Spanish-American War, 1898</subject><corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Infantry Regiment, 31st (1898-1899)</corpname></controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head><corpname source="lcnaf" encodinganalog="610">Ann Arbor Gun Club (Mich.)</corpname><geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname><corpname source="lcnaf" encodinganalog="610">Ann Arbor Railroad Company.</corpname><corpname source="lcnaf" encodinganalog="610">Argo Mills (Ann Arbor, Mich.)</corpname><subject source="lctgm" encodinganalog="650">Business enterprises--Michigan--Ann Arbor.</subject><persname source="lcnaf" encodinganalog="600">Corson, William D.</persname><corpname source="lcnaf" encodinganalog="610">Corson's Cozy Corner Saloon (Ann Arbor, Mich.)</corpname><subject source="lctgm" encodinganalog="650">Hotels and taverns--Michigan--Ann Arbor.</subject><subject source="lctgm" encodinganalog="650">Interiors.</subject><subject source="lctgm" encodinganalog="650">Military camps.</subject><subject source="lctgm" encodinganalog="650">Railroad accidents.</subject><subject source="lcsh" encodinganalog="650">Spanish-American War, 1898</subject><corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Infantry Regiment, 31st (1898-1899)</corpname></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Thirty-first Michigan Volunteer Infantry, <unitdate type="inclusive"> ca. 1896-1926</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper Clippings, <unitdate type="inclusive"> ca. 1898</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bills, <unitdate type="inclusive"> ca. 1898-1899</unitdate></unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Orders and Passes, <unitdate type="inclusive" normal="1898/1901">1898-1901</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Momentos, <unitdate type="inclusive" normal="1897/1926">1897-1926</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Insurance Policies, <unitdate type="inclusive" normal="1896/1898">1896-1898</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pension Applications, <unitdate type="inclusive" normal="1898/1899">1898-1899</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Ann Arbor Gun Club, <unitdate type="inclusive" normal="1901/1902">1901-1902</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Scores, Bills and Receipts, <unitdate type="inclusive" normal="1901/1902">1901-1902</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Account Book, <unitdate type="inclusive"> ca. 1901-1902</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle><genreform source="aat" normal="Photographs">Photographs</genreform>, <unitdate type="inclusive">ca. 1898-ca. 1910</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Thirty-first Michigan Volunteer Infantry, <unitdate type="inclusive"> ca. 1897-1898</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Spanish-American War, <unitdate type="inclusive" normal="1897/1898">1897-1898</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Veterans of Thirty-first Volunteer Infantry</unittitle></did><note><p>(in oversized folder UAm)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor Gun Club</unittitle></did><note><p>(in oversized folder UAm)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Corson's Cozy Corner Saloon, <unitdate type="inclusive"> ca. 1910</unitdate></unittitle></did><note><p>(also in oversized folder UAm)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Personal (unidentified and undated)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor (unidentified and undated)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Advertising cards (prior to 1910)</unittitle></did></c02></c01></dsc></archdesc></ead>

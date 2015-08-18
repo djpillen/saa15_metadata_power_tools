@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::trowbrid.xml//EN" encodinganalog="identifier">umich-bhl-86143</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for  Charles Trowbridge papers, <date>ca. 1823-ca. 1840</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by  Michigan Historical Collections staff</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1998</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>June 1998</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>1999-07-24</date><item>converted to new container style</item></change>
+<change><date>1999-07-24</date><item>Converted to EAD version 1.0 using WORD 6 macro and some hand tagging.</item></change>
+<change><date>July 7, 1998</date><item>Original encoding from Word 6.0 file</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>C.C. Trowbridge Papers, <date>ca. 1823-ca. 1840</date>
+</titleproper><author>Finding aid prepared by: <lb/> Thomas E. Powers</author></titlepage></frontmatter>
+
+<archdesc level="collection" type="inventory" audience="external" relatedencoding="marc21"><did>
+<origination><persname encodinganalog="100" source="lcnaf">Trowbridge, C. C. (Charles Christopher), 1800-1883.</persname></origination>
+<unittitle encodinganalog="245">C.C. Trowbridge papers
+<unitdate encodinganalog="245$f" type="inclusive">ca. 1823-ca. 1840</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">0.5 linear ft.</extent></physdesc>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">86143 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<abstract>Clerk to Gen. Lewis Cass on 1819 expedition among Indians of upper Great Lakes, Indian agent and negotiator, mayor of Detroit in 1834, and later University of Michigan regent. Papers consist primarily of material relating to his early experience among the Indians including reports to Cass and other accounts of Indian life and language.  Consists in part of photostats of material held by the  Burton Historical Library.</abstract>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was the gift of Mrs. William Mitchell, daughter of Sydney Trowbridge Miller and came to the library in 1938. Donor no. <num encodinganalog="541$e" type="donor">1764</num></p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has not been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., C.C. Trowbridge papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Charles Christopher Trowbridge was born in Albany, New York, December 29, 1800.  He moved westward to Detroit in 1819 and shortly thereafter joined General Lewis Cass as a clerk and assistant topographer in Cass' expedition among the Indian tribes of the upper Great Lakes and Mississippi River.  The purpose of the expedition was partly scientific and partly to improve relations with the Indian tribes of the area.  In 1821, Secretary of War Calhoun appointed Trowbridge as Indian agent with responsibility of accompanying chiefs and representatives of the Six Nations of New York state to Green Bay for the purpose of finding suitable lands where the Six Nations might resettle.  As an agent and Indian negotiator, Trowbridge was becoming increasing proficient in the study of tribal dialects and the customs and traditions of the Indians of the area.  With his acknowledged expertise on Indian affairs, Trowbridge was given further and varied assignments as Indian agent, translator and mediator.</p>
+<p>In 1825, Trowbridge began increasingly to devote himself to business pursuits such as banking, land development and sawmills.  He also turned to politics, serving as mayor of Detroit in 1834 and running unsuccessfully for governor in 1837.  Following Trowbridge's defeat, Governor Stevens T. Mason appointed him regent of the University of Michigan, where he served from 1839 until 1842.  Business and civic pursuits engaged Trowbridge for the remainder of his life.  He died April 3, 1883.</p>
+<p>Further biographical information about Trowbridge will be found in James V. Campbell, "Biographical Sketch of Charles Christopher Trowbridge," Michigan Pioneer Coll., 6: 478-91; in Trowbridge's autobiography, Personal memoirs of Charles Christopher Trowbridge as written for his kindred (Detroit: 1893); and The territorial papers of the United States: Vol. XI, The Territory of Michigan, 1820-1829, p. 936.</p></bioghist>
+
+<scopecontent><p>The Trowbridge collection consists mainly of materials accumulated during the early years of his career when he was acting as Indian agent and when he devoted himself to the study of the languages and customs of the native Americans of the upper midwest.</p>
+<p>The major portion of the Trowbridge papers are located at the Burton Historical Collection (NUCMC 70-1194)</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><persname source="lcnaf">Trowbridge, C. C. (Charles Christopher), 1800-1883.</persname><subject source="lcsh" encodinganalog="650">Indians of North America--Michigan.</subject><geogname source="lcsh" encodinganalog="651">Sault Sainte Marie (Mich.)</geogname><corpname source="lcnaf" encodinganalog="610">University of Michigan--History.</corpname></controlaccess>
+
+<controlaccess><head>Contributors:</head><persname source="lcnaf" encodinganalog="700">Higginson, Francis John, 1804-1872.</persname></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Native American material</unittitle></did>
+<c02 level="file"><did><container label="Box" type="box">1</container><unittitle>Response to Governor Lewis Cass' questionnaire concerning the Chippewa, Ottawa, and Winnebago Indians</unittitle></did><note><p>(photocopies in part; a portion of these manuscripts are located at the Burton Historical Collection)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Portion of a journal kept at Sault Ste. Marie, <unitdate type="inclusive">June 14-August 2, 1830</unitdate> (?)</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Speeches; folder includes:</unittitle></did>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Speech of Aukkebuggecaash (Gueule Plat) of Leech Lake, Upper Mississippi, delivered at the agency of Sault Ste. Marie, <unitdate type="inclusive">July 1830</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Speech of the Buffalo chief, Peezhikee, alias Way Ishkee, of Lapointe, Lake Superior, delivered at the agency of Sault Ste. Marie, <unitdate type="inclusive">July 1830</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Account of some of the traditions, manner, and customs of the Lenee Lenaupee, or Delaware Indians (37 pp.)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Traditions of the Lenee Lenaupee, or Delaware (27 pp.). </unittitle></did><note><p>(Appears to be an earlier draft of the manuscript)</p></note></c02>
+<c02 level="file"><did><unittitle>Delaware language</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Part I, a grammar (284 p.)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Part II, verb conjugations</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Part I</unittitle></did><note><p>(apparently an earlier draft of the first 45 pages of Part I; these 48 pages compare very closely, with only minor differences, with the first 45 pages of the fuller version)</p></note></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Traditions, manners, and customs of the Twaatwaa or Meearmeear Indians.</unittitle></did><note><p>(This manuscript is a slightly different version from that found at the Burton Historical Collection which was published as <title render="italic">Meearmeear Traditions</title>, edited by Vernon Kinietz in Occasional contributions from the Museum of Anthropology of the University of Michigan, no. 7, April 1938)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Keekarpoo Indians (2 versions)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Shauwanoa traditions, <unitdate type="inclusive">July 24, 1824</unitdate></unittitle></did><note><p>(This manuscript, based on information from the Prophet, was published, along with Black Hoofs account, in Shawnese Traditions, edited by Vernon Kinietz and Erminie W. Vogelin in Occasional contributions from the Museum of Anthropology of the University of Michigan, no. 9, June 1939)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Shauwonoa Traditions, Black Hoof's account of</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minneehoohauh Woahpee, <unitdate type="inclusive" normal="1823">1823</unitdate></unittitle></did><note><p>(an incomplete dictionary of English terms translated into the Weannebeago, Dahcoatah, Munoamoanee, and Ojibwa languages)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters and speech giving information about the early history of the of the University of Michigan</unittitle></did><note><p>(Photostats of materials held by the Burton Historical Collection)</p></note></c02></c01></dsc></archdesc></ead>

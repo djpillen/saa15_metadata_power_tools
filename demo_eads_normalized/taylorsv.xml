@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::taylorsv.xml//EN" encodinganalog="Identifier">
+umich-bhl-8725</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+S. Vern Taylor papers, 1833 and ca. 1860-1914 
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-02-13</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+S. Vern Taylor papers, 1833 and ca. 1860-1914</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Taylor, S. Vern (Seneca Vern), 1887-1969.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+S. Vern Taylor papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1833 and ca. 1860-1914
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8725 Aa 2; UAm
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Graduate of the College of Engineering of the University of Michigan in the class of 1911, later Detroit businessman. Papers and photographs relating to student life and activities.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Mrs. Patricia Hoobler Schock (donor no. <num type="donor" encodinganalog="541$e">5913</num>) and came to the library in 1976.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+S. Vern Taylor papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>S. Vern Taylor graduated from the College of Engineering of the University of Michigan in 1911. He went on to become a successful Detroit businessman as president of the Concrete Steel Fireproofing Company.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of programs and newspaper clippings largely concerning student life at the University of Michigan. The photographs are portraits and snapshots of Taylor, family members and friends; photographs of the construction of Barton Dam in Ann Arbor, Michigan; photographs of University of Michigan student surveying projects; and photographs of University of Michigan students, groups, and activities. In addition, there is an arithmetic notebook, 1833, of H. Green, student at the Detroit Academy. This item was probably collected by Taylor or perhaps in the possession of a family member.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Catholepistemiad (Detroit, Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Engineering.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Engineering.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1901-1910.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1911-1920.</corpname>
+<persname source="lcnaf" encodinganalog="600">Taylor, S. Vern (Seneca Vern), 1887-1969.</persname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Aged persons.</subject>
+
+<persname source="lcnaf" encodinganalog="600">Angell, James Burrill, 1829-1916.</persname>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Streets.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Barton Dam (Ann Arbor, Mich.)</corpname>
+<subject source="lctgm" encodinganalog="650">Bridges.</subject>
+<subject source="lctgm" encodinganalog="650">Children.</subject>
+<subject source="lctgm" encodinganalog="650">Construction.</subject>
+<subject source="lctgm" encodinganalog="650">Dams.</subject>
+<subject source="lctgm" encodinganalog="650">Dwellings.</subject>
+<subject source="lctgm" encodinganalog="650">Engineering.</subject>
+<subject source="lctgm" encodinganalog="650">Families.</subject>
+<geogname source="lcsh" encodinganalog="651">Fourteenth Avenue (Ann Arbor, Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Golf.</subject>
+<geogname source="lcsh" encodinganalog="651">Huron Street (Ann Arbor, Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Interiors.</subject>
+<subject source="lctgm" encodinganalog="650">Laborers.</subject>
+<corpname source="lcnaf" encodinganalog="610">Michigan Union.</corpname>
+<subject source="lctgm" encodinganalog="650">Postal service.</subject>
+<subject source="lctgm" encodinganalog="650">Secondhand sales.</subject>
+<subject source="lctgm" encodinganalog="650">Streets--Michigan--Ann Arbor.</subject>
+<subject source="lctgm" encodinganalog="650">Surveying--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Tau Beta Pi. Gamma Chapter (University of Michigan)</corpname>
+<persname source="lcnaf" encodinganalog="600">Taylor, S. Vern (Seneca Vern), 1887-1969.</persname>
+<famname source="lcnaf" encodinganalog="600">Taylor family.</famname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Engineering. Class of 1911.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1901-1910.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing--1901-1910.</corpname>
+<geogname source="lcsh" encodinganalog="651">Washington Street (Ann Arbor, Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Women.</subject>
+<subject source="lcsh" encodinganalog="650">Women college students--Michigan--Ann Arbor.</subject></controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="gmgpc" encodinganalog="655">Albums.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="gmgpc" encodinganalog="655">Postcards.</genreform>
+<genreform source="gmgpc" encodinganalog="655">Tintypes.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1903/1907">1903-1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1908">1908</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1909">1909</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1910">1910</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1911">1911</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1912/1914">1912-1914</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Arithmetic notebook of H. Green, student at Detroit Academy, <unitdate type="inclusive" normal="1833">1833</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Taylor, Seneca Vern. Portraits, snapshots</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Taylor, Mrs. S.V. (?), with family</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Barton Dam project, <unitdate type="inclusive" normal="1912">1912</unitdate>: includes surveying</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Children</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Groups, Family </unittitle></did> <note><p>(see also oversize folder UAm)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Groups, Formal</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Groups, School and Work; includes surveying</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Groups, Social; includes Tau Beta Pi, golf</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Groups, Other</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Individuals, Men. Identified; includes J.B. Angell buying ticket for Union Circus</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Individuals, Men. Unidentified </unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Individuals, Men. Unidentified; includes golf</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Individuals, Women</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Massena, N.Y. Project, <unitdate type="inclusive" normal="1913">1913</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Tintypes">Tintypes</genreform>, unidentified; 1 house, 4 group portraits, 1 individual portrait</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>University of Michigan photographs</unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>Tau Beta Pi</unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>Taylor family</unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>University of Michigan College of Engineering, Class of 1911</unittitle></did></c02>
+<c02 level="file"><did><unittitle><genreform normal="Albums">Albums</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Small album with New England literary figures, including: H.D. Thoreau, R.W. Emerson, A.B. Alcott, W.L. Garrison, Wendell Phillips, H.W. Beecher, George Duffield (Detroit minister)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Large album, <unitdate type="inclusive">ca. 1870-1900</unitdate>, of photos of unidentified family members</unittitle></did></c03></c02>
+    <c02 level="file"><did><container type="volume" label="Atlas">MH6/A613/1910/T246</container><unittitle>Atlas of student exercises, <unitdate type="inclusive" normal="1910">1910</unitdate></unittitle></did> <note><p>(includes Stadia survey of vicinity east of Huron River between Cedar and Kellogg Streets; plane table survey of Michigan Union property; and map and camera survey of block east of Fireman's Park; all in Ann Arbor, Mich.; also includes 16 photographs of area east of Fireman's Park, Ann Arbor, Mich.)</p></note><note><p>(atlas call no. MH6/A613/1910/T246)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

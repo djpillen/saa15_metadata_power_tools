@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::eynon.xml//EN" encodinganalog="Identifier">
+umich-bhl-85166</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Bret Eynon papers, 1966-1977
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-12-24</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Bret Eynon papers, 1966-1977</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Eynon, Bret.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Bret Eynon papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1966-1977
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85166 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Student at the University of Michigan, collected materials relating to his interest in the radical causes and issues of the 1960s and 1970s.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Bret Eynon (donor no. <num type="donor" encodinganalog="541$e">6451</num>) and came to the library in 1980.</p></acqinfo>
+
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Bret Eynon papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Bret Eynon was a researcher and historian of the "New Left" in Ann Arbor, Michigan in the 1960s. He later became director of the LaGuardia Center for Teaching and Learning.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Bret Eynon collection consists of original and collected material relating to his interest in the radical causes and issues of the 1960s and 1970s. The files, arranged by topic, relate to the Black Action Movement (BAM) strike at the University of Michigan, John Sinclair, draft resistance, protests about the war in Vietnam, the Welfare Rights Organization, and feminism and the women's movement.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Black Action Movement (University of Michigan)</corpname>
+<subject source="lcsh" encodinganalog="650">Feminism--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Draft.</subject>
+<subject source="lcsh" encodinganalog="650">Radicalism--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1961-1970.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1971-1980.</corpname>
+<subject source="lcsh" encodinganalog="650">Vietnam War, 1961-1975.</subject>
+<subject source="lcsh" encodinganalog="650">Welfare rights movement--Michigan.</subject>
+<persname source="lcnaf" encodinganalog="600">Sinclair, John, 1941-</persname>
+<subject source="lcsh" encodinganalog="650">Women's rights--Michigan--Ann Arbor.</subject>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Topical File</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor High School newspaper, <unitdate type="inclusive" normal="1967/1972">1967-1972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Black Action Movement (BAM) strike</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Black Manifesto</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Children's Community School</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Contemporary History Project</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Activities of respondents</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Papers</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>"John Sinclair: Hipster" (essay by Bret Eynon)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Draft of paper (untitled) by Bret Eynon and Jill Irvine, <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Draft of paper (untitled)</unittitle></did></c04></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Event flyers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Feldman, Rich: personal history</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gay rights (Ann Arbor)</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Government intelligence activities</unittitle></did>
+<c03 level="file"><did><unittitle>COINTELPRO (Michigan)</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1962/1966">1962-1966</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1968">1968</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Human Rights Party and Radical Independent Party</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Articles</unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>COINTELPRO (National)</unittitle></did></c03>
+<c03 level="file"><did><unittitle>CIA</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Memos and correspondence concerning contract with the University of Michigan</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Project Resistance</unittitle></did></c04></c03></c02>
+<c02 level="file"><did><unittitle>Organizations (<unitdate type="inclusive" normal="1970/1979" certainty="approximate">1970s</unitdate>)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Human Rights Party</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>New University Conference</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Project Outreach</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Selective Service (P. Harris)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Reference File</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Students for a Democratic Society (SDS)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Voice newsletter, <unitdate type="inclusive">undated</unitdate> and <unitdate type="inclusive" normal="1963/1966">1963-1966</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Toledo Free Press, <unitdate type="inclusive">ca. 1966</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Recruiter protests, <unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Teach-in, <unitdate type="inclusive">November 1975</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Publicity</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Reference file and organization lists</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Welfare Rights Organization (WRO)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Adams, Joan</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor WRO</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>State and national</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Women's movement</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Family Planning Medical Services</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Feminist Party</unittitle></did></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

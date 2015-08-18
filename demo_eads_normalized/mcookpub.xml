@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::mcookpub.xml//EN" encodinganalog="Identifier">
+umich-bhl-0514</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Martha Cook Building (University of Michigan) publications, 1916-2005
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Marilyn M. McNitt, 1993</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>20070409</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2014-11-17</date><item>Revised with new material added.</item></change><change><date>2007-04-09</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Martha Cook Building <lb/>(University of Michigan) <lb/>Publications, 1916-2013</titleproper>
+
+<author>Finding aid created by<lb/> 
+Marilyn M. McNitt, 1993
+<lb/>Lexy deGraffenreid, 2013</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Martha Cook Building (University of Michigan).
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Martha Cook Building (University of Michigan) publications 
+<unitdate type="inclusive" encodinganalog="245$f">
+1916-2013
+</unitdate>
+</unittitle>
+<physdesc><extent encodinganalog="300">
+1.5 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0514 Bimu F17 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>Women's dormitory at the University of Michigan Publications include annuals, histories, newsletters, and programs. Also contains material relating to the fiftieth anniversary celebration and to the Martha Cook Alumnae Association of Detroit. </abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group (Donor no. <num type="donor" encodinganalog="541$e">5887</num>)
+ has been donated by the Board of Governors of the Martha Cook Building in several accessions.
+ 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>Periodic additions to the publications expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The publications are open without restriction.</p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Board of Governors of the Martha Cook Building.
+</p></userestrict>
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Martha Cook Building (University of Michigan) publications, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Please consult the history found in the finding for Martha Cook Building (University of Michigan) Records.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Martha Cook Building Publications (40 folders) include annuals, histories, newsletters, and programs as well as material relating to the fiftieth anniversary celebration and to the Martha Cook Alumnae Association of Detroit  The Publications are organized into two series: Unit Publications and Sub-Unit Publications.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Martha Cook Building (University of Michigan)</corpname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="lcsh" encodinganalog="655">Student publications.</genreform>
+<genreform source="aat" encodinganalog="655">Annuals.</genreform>
+<genreform source="aat" encodinganalog="655">Histories.</genreform>
+<genreform source="aat" encodinganalog="655">Newsletters.</genreform>
+<genreform source="aat" encodinganalog="655">Programs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Unit Publications</unittitle></did>
+<scopecontent><p>The Unit Publications series contains a long run of Martha Cook annuals, which include photographs of the residents and descriptions of the activities taking place in the residence hall.  These annual yearbooks cover the period from 1916 to1941, 1975/76, and 2000/01.  There are histories, including the memoirs of Olive Chernow, who was a resident at Martha Cook when she was a student and later served as director of Martha Cook Building from 1973 to 1979.  This series also contains a brief run of the newsletter <title render="italic">The Cookie Press</title>.</p>
+</scopecontent>
+<c02 level="file"><did><unittitle>Annuals</unittitle></did>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle><title render="italic">The Cook Book</title>, <unitdate type="inclusive" normal="1916">1916</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Martha Cook Annual</title>, <unitdate type="inclusive" normal="1917/1939">1917-1939</unitdate>, <unitdate type="inclusive" normal="2000/2009">2000-2009</unitdate> </unittitle> <physdesc><extent>32 folders</extent></physdesc></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Life and Times in Martha Cook Building</title>, <unitdate type="inclusive" normal="1941">1941</unitdate></unittitle></did></c03><c03 level="item"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Martha Cook Annual: A Panorama of Life at Martha Cook</title>, <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle></did></c03>
+
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle><title render="italic">The Martha Cook Building</title>, <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate></unittitle></did></c03>
+</c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Articles about Martha Cook, <unitdate type="inclusive" normal="1973/1975">1973-1975</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Constitutions</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Constitution, By-laws and Regulations of the Martha Cook Building</title>, <unitdate type="inclusive" normal="1925/1932">1925-1932</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Flyers, <unitdate type="inclusive">Undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Histories</unittitle></did>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle><title render="italic">The Martha Cook Building</title> by Wystan Stevens, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle><title render="italic">The Martha Cook Building:  Its History and Traditions</title> by Elaine Macklin and Tenney Chamberlain, <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle></did></c03>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle><title render="italic">My Years at the Martha Cook Building</title> by Olive Chernow</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Newsletters</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">The Cookie Press</title>, <unitdate type="inclusive" normal="1946/1947">1946-1947</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03><c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Alumnae Associaton</title>, <unitdate type="inclusive" normal="1993/2013">1993-2013</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Other</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Martha's Cookin'</title>, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Programs</unittitle></did>
+<c03 level="item"><did><container type="box" label="Box">1</container><unittitle>Vesper Service, <unitdate type="inclusive" normal="1929/1934">1929-1934</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Sub-Unit Publications</unittitle></did>
+<scopecontent>
+<p>The Sub-Unit Publications include publications describing the Fiftieth Anniversary Celebration and the activities of the Martha Cook Alumnae Association of Detroit.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Twenty-Fifth Anniversary Celebration, <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Fiftieth Anniversary Celebration</unittitle></did>
+<c03 level="file"><did><unittitle>Histories</unittitle></did>
+<c04 level="item"><did><container type="box" label="Box">1</container><unittitle><title render="italic">The Martha Cook Building:  Fiftieth Anniversary</title>,<title render="italic">1915-1965</title> , <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Programs</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Martha Cook Alumnae Association of Detroit</unittitle></did>
+<c03 level="file"><did><unittitle>Christmas Breakfast or Brunch</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Invitations, <unitdate type="inclusive" normal="1964/1966">1964-1966</unitdate></unittitle></did></c04></c03>
+
+<c03 level="file"><did><unittitle>Scholarship Luncheon and Tea</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Invitations, <unitdate type="inclusive" normal="1973/1979">1973-1979</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Programs, <unitdate type="inclusive" normal="1966/1978">1966-1978</unitdate></unittitle></did></c04></c03></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

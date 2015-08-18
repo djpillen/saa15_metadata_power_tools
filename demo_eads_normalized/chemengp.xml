@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::chemengp.xml//EN" encodinganalog="identifier">
+umich-bhl-9724</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Department of Chemical Engineering (University of Michigan), publications, 1916-2004
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Marilyn M. McNitt, June 2003</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>20071122</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006MMDD</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Department of Chemical Engineering <lb/>(University of Michigan), <lb/>Publications, 1916-2004
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Marilyn M. McNitt, June 2003
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Department of Chemical Engineering.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Department of Chemical Engineering (University of Michigan), publications
+<unitdate type="inclusive" encodinganalog="245$f">
+1916-2004
+</unitdate>
+
+<unitdate type="inclusive" encodinganalog="245$g">
+1969-1990
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.6  linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+9724; Bimu; C146; 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>The Department of Chemical Engineering publications include brochures and pamphlets, bulletins and course catalogs, histories such as the History of the Chemical Engineering at the University of Michigan, Manuals entitled How to Succeed in Chemical Engineering at the University of Michigan, and programs from the Donald L. Katz Lectureship in Chemical Engineering.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The publications are received periodically from the unit (Donor No. <num type="donor" encodinganalog="541$e">1884</num>).
+
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506">
+<p>The publications is open without restriction. </p>
+
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Department of Chemical Engineering (University of Michigan), publications, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>BIOG/HIST</p>
+
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Department of Chemical Engineering Publications (.6 linear feet) consists of three series:  Unit Publications, Sub-Unit Publications and Topical Publications.  The bulk of the publications document the Department of Chemical Engineering.</p>
+
+<p>The Unit Publications series contains printed material published specifically by the Department of Chemical Engineering.  These publications are defined as being widely distributed and may be published at regular intervals.  They are arranged by genre of the publication.</p>
+
+<p>The Unit Publications series includes brochures, bulletins, directories, histories, manuals, and programs.  The bulletins include course catalogs for the department from 1916 to 1940.  There are also descriptions of the graduate program in Chemical Engineering from 1974 to 1995.  There are two histories in the Unit Publications series.  The first is a brief history written in 1980.  The second, <title render="italic">A Century of Chemical Engineering at the University of Michigan...</title>, published in 2002, was compiled by Professor James O. Wilkes as a centennial history for the department.  <title render="italic">How to Succeed in Chemical Engineering at the University of Michigan</title> was written to help incoming students find their way through the department, the university and the city of Ann Arbor.  There are programs describing the Donald L. Katz Lectureship in Chemical Engineering from 1971 to 1989.</p>
+
+<p>The Sub-Unit Publications series contains publications from subordinate offices, departments, programs and organizations within the Department of Chemical Engineering.  These publications are arranged alphabetically by the creating sub-unit.  This series includes brochures from the Industrial Affiliates Program.</p>
+
+<p>The Topical Publications series includes printed materials published to document specific events or activities such as fund-raising or one-time conferences hosted by the Department of Chemical Engineering.  The Topical Publications materials document the Centennial celebration in 1998 including one newsletter entitled <title render="italic">100 Years</title>.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Chemical Engineering.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Donald L. Katz Lectureship in Chemical Engineering.</corpname>
+<corpname source="lcnaf" encodinganalog="710">Donald L. Katz Lectureship in Chemical Engineering.</corpname>
+<title source="aacr2" encodinganalog="740">History of chemical engineering at the University of Michigan.</title>
+<title source="aacr2" encodinganalog="740">How to succeed in chemical engineering at the University of Michigan.</title>
+
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Pamphlets.</genreform>
+<genreform source="aat" encodinganalog="655">Bulletins.</genreform>
+<genreform source="aat" encodinganalog="655">Histories.</genreform>
+<genreform source="aat" encodinganalog="655">Manuals.</genreform>
+<genreform source="aat" encodinganalog="655">Programs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Unit Publications</unittitle></did>
+<c02 level="file"><did><unittitle>Brochures</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive" normal="1960/1994">1960-1994</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Bulletins</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Announcement of the Course in Chemical Engineering</title> ..., <unitdate type="inclusive" normal="1916/1925">1916-1925</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Program in Chemical Engineering</title> ..., <unitdate type="inclusive" normal="1926/1927">1926-1927</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Chemical Engineering</title>, <unitdate type="inclusive" normal="1929/1934">1929-1934</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Courses in Chemical and Metallurgical Engineering</title>, <unitdate type="inclusive" normal="1935/1940">1935-1940</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Graduate Studies in Chemical Engineering</title>, <unitdate type="inclusive" normal="1974/1995">1974-1995</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Directories, <unitdate type="inclusive" normal="1988">1988</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Histories</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">A Century of Chemical Engineering at the University of Michigan:  A Miscellany of Contributions From Historical Documents, Students, Alumni, Staff, Faculty, and Friends, 1898-2002</title>, compiled by James O. Wilkes, <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">History of Chemical Engineering at the University of Michigan</title>, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Manuals</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Digital Computing, FORTRAN IV, WATFIV, and MTS</title>, by B. Carnahan and J.O. Wilkes, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">How to Succeed in Chemical Engineering at the University of Michigan</title>, <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Programs</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Donald L. Katz Lectureship in Chemical Engineering, <unitdate type="inclusive" normal="1971/1989">1971-1989</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>The Goff Smith Lectures, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Symposia held at the University of Michigan, <unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Visitation Committee, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Sub-Unit Publications</unittitle></did>
+<c02 level="file"><did><unittitle>Industrial Affiliates Program</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Brochures, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Topical Publications</unittitle></did>
+<c02 level="file"><did><unittitle>Centennial Celebration</unittitle></did>
+<c03 level="file"><did><unittitle>Newsletters</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">100 Years</title>, <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Programs, <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle></did></c03></c02></c01>
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

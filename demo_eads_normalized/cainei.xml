@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::cainei.xml//EN" encodinganalog="Identifier">
+umich-bhl-2014005</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Elmer I. Cain papers
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michael Shallcross </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2013">
+2014</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2014</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014-01-21</date>
+        <item>Original encoding from Word 2007 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Elmer I. Cain papers, date</titleproper>
+      <author>Finding aid created by<lb/> 
+Michael Shallcross, January 2014</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">
+Cain, Elmer I.
+</persname>
+      </origination>
+      <unittitle encodinganalog="245">
+Elmer I. Cain papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1917-1942
+</unitdate><unitdate type="bulk" encodinganalog="245$g">
+1917-1942
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+122 MB (online)
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2014005 Aa3
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Member of United States Army Co. H, 339th Infantry and veteran of the Allied Intervention in Northern Russia at the close of World War I.  Includes digitized photographs depicting the daily lives and responsibilities of soldiers in Onega and Parog, Russia as well as scenes from Russian villages.  Also contains digitized versions of Cain's draft registration cards from the First and Second World Wars.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload"/>
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>Donated by Andrew Cain (donor no. <num type="donor" encodinganalog="541$e">11044</num>) in January 2014.  
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>Ffurther additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>The collection is open without restriction.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Photographs are in the public domain..</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Elmer I. Cain papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+      <processinfo>
+        <p>[Delete this set of tags if not needed for digital material processing]</p>
+        <p>
+          <extptr href="digitalproc" show="embed" actuate="onload"/>
+        </p>
+      </processinfo>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Born December 22, 1893 and resident of La Porte, Indiana, Elmer Irvan Cain worked as a moulder in the La Porte Foundary and Furnace Co. prior to his induction to the United States Army in World War I.  Cain served in Co. H, 339th Infantry with the American North Russia Expeditionary Force in Onega and Archangel, Russia.  He also registered for the draft in the Second World War at the age of 48.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Elmer I. Cain papers provide rich photographic evidence of the daily lives of United States soldiers engaged in the American Expedition to Northern Russia.  The collection is divided into two series, Photographs and Draft Registration.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <persname source="lcnaf" encodinganalog="600">Cain, Elmer I.</persname>
+        <subject source="lcsh" encodinganalog="650">Soldiers--American--Russia (Federation)</subject>
+        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <corpname source="lcnaf" encodinganalog="610">United States. Army. Infantry, 339th. Company H.</corpname>
+        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <persname source="lcnaf" encodinganalog="600">Cain, Elmer I.</persname>
+        <geogname source="lcsh" encodinganalog="651">Onega Bay Region (Russia)</geogname>
+        <subject source="lctgm" encodinganalog="650">Soldiers--American--Russia (Federation)</subject>
+        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <corpname source="lcnaf" encodinganalog="610">United States. Army. Infantry, 339th. Company H.</corpname>
+        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <corpname source="lcnaf" encodinganalog="710">American National Red Cross.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform encodinganalog="655" source="aat">Digital files.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <physloc>Online</physloc>
+          <unittitle>Photographs, <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate></unittitle>
+          <dao show="new" actuate="onrequest" href="2014005-1">
+            <daodesc>
+              <p>[view items]</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent>
+          <p>The Photographs series includes digitized versions of photographs taken by the American Red Cross during the American intervention in North Russia. Subject matter includes American soldiers in formation, at barracks, on guard, and at ease playing hockey and other pursuits in addition to images of Russian churches, shipyard, bathhouses, and village scenes. Accompanying index provides original captions and handwritten notes on the backs of original photographs.  These photographs represent a portion of a larger series of images created by the American Red Cross.</p>
+        </scopecontent>
+        <c02 level="item">
+          <did>
+            <unittitle>180: Guard mount of American troops in Onega, North Russia. Lt. C. F. Phillips, detailed from Co. H, 339th Infantry, shown at left</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>181: Co. H (339th Infantry) men shooting on rifle range at Onega. Notice that this range is hewn out of the solid forest.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>182: One platoon of Co. H, 339th Infantry posing for photograph. Lt. C.F.Phillips in center of rear row.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>183: Church or cathedral in Onega.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>184: Cross in street of Onega. This sort of cross is to be found in every city, town or village throughout Russia.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>185: Russian workmen sawing timbers for use in shipbuilding. (Onega)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>186: Ship construction at Onega in dead of winter.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>187: Close up of the above showing the curious seams into which wedges of wood are inserted.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>189: General view of village of Nizamojorskaya. This is located on the road between Archangel and Onega and is a pretty view reminding one somewhat of a Swiss village as it is built on the side of a steep hill.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>190: American soldier drawing water from a Russian well in Onega.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>191: Guard mount of American troops in Onega, North Russia. The troops are occupying the barracks formerly used by the Czar's soldiers and the old sign over the gate still remains. Lt. C. F. Phillips is shown in this photo, Capt. Ballensinger commanding.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>193: Camp fire scene in woods near Onega, American troops.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>194: Customs House, Onega, N. Russia, where American Officers live. Capt. R. W. Ballensinger at gate.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>195: Fur coat worn by officer of North Russian Expeditionary Force, (Capt. R. W. Ballensinger.)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>196: Lewis Automatic Rifle manned by Americans on roof in Russian village.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>197: Lt. A. B. Carlson with a patrol enroute to investigate adjacent villages.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>199: Birds eye view of Onega from roof of "Y".</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>200: Gateway of Russian house opposite Y.M.C.A., Onega.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>201: Group of American soldiers skaters on public rink, Onega.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>202: Bathhouses at village of Parog. Every Russian family [sic] own their own private bath house where they go each Saturday for their cleansing which is almost, if not actually a religious rite. This view shows the steam coming out of the bathhouses and also American soldiers leaving same.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>203: Inspecting the guard in front of the American barracks in the village of Parog. Parog is in the Onega valley.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <physloc>Online</physloc>
+          <unittitle>Draft Registration,  <unitdate type="inclusive" normal="1917">1917</unitdate>, <unitdate type="inclusive" normal="1942">1942</unitdate></unittitle>
+          <dao show="new" actuate="onrequest" href="2014005-2">
+            <daodesc>
+              <p>[view items]</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent>
+          <p>The Draft Registration series includes digitized versions of Cain's draft registration forms from the First and Second World Wars, with information on his birth, profession, address,  and marital status.</p>
+        </scopecontent>
+        <c02 level="item">
+          <did>
+            <unittitle>World War I, <unitdate type="inclusive" normal="1917">1917</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>World War II, <unitdate type="inclusive" normal="1942">1942</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

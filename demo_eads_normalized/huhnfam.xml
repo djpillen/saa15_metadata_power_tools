@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::huhnfam.xml//EN" encodinganalog="Identifier">
+umich-bhl-02116</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Huhn Family photographs, 1880-1960
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Charlene Pete </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-02-11</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Huhn Family photographs, 1880-1960</titleproper>
+
+<author>Finding aid created by<lb/> 
+Charlene Pete, 2002</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<famname source="lcnaf" encodinganalog="100">
+Huhn Family.
+</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Huhn Family photographs 
+<unitdate type="inclusive" encodinganalog="245$f">
+1880-1960
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1900-1930
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.9 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+02116 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Ann Arbor, Michigan, family. Family photographs (portraits and groupings); studio photographs (portraits and groupings) by firms in Ann Arbor, Jackson, and Ypsilanti, Mich.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+This collection was donated by Martha and Einar Kvaran (donor no. <num type="donor" encodinganalog="541$e">8960</num>) in June 2002.</p></acqinfo>
+
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the collection are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Huhn Family photographs, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Herman A. Huhn, born around 1892, was the son of Ann Arbor constable, Frederick J. Huhn, who died on March 27, 1931. In 1908, he married Ethelyn M. Maddox of Ypsilanti, who died in the late 1920's.  After 1928 she disappears from the city directories.  They had one son Robert, who was killed in World War II, and two daughters. Herman Huhn retired from the Ann Arbor News as a printer and linotype operator, in 1957 or 1958 and died in 1976 or 1977.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>This collection is made up of 0.8 linear feet of photographs and 0.1 linear feet of other related material.  It contains three series:  Family Photographs, Studio Photographs, and Other Material.  Both the dated and undated photographs cover the period from 1900 to 1930 but most of them are undated.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+<controlaccess><head>Subjects - Visual Materials:</head>
+<famname source="lcnaf" encodinganalog="600">Hohn family.</famname>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Family <occupation normal="Photographs">Photographs</occupation></unittitle></did><scopecontent><p>The Family Photographs series makes up 0.4 linear feet of the collection.  It includes loose photographs, both identified and unidentified, and two photograph albums.  The folders are divided into any or all of these categories:  photographs of just one person, photographs of two people, photographs of groups of people, either family, friends or both, photographs on postcards, a trip to the zoo and various photographs of the town.</p></scopecontent>
+<c02 level="file"><did><unittitle>Loose Photographs</unittitle></did>
+<c03 level="file"><did><unittitle>Identified</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Portraits, <unitdate type="inclusive" normal="1900/1949" certainty="approximate">1900-1940s</unitdate> (scattered)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Couples</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Groups, <unitdate type="inclusive" normal="1902/1969" certainty="approximate">1902-1960s</unitdate> (scattered dates) </unittitle></did> <note><p>(newspaper photo included, 1945)</p></note></c04></c03>
+<c03 level="file"><did><unittitle>Unidentified</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Portraits</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Couples</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Groups</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Postcards</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Zoo</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Town</unittitle></did></c04></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photograph Albums</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Studio <genreform normal="Photographs">Photographs</genreform></unittitle></did><scopecontent><p>The Studio Photographs series makes up 0.4 linear feet of the collection.  It includes Michigan studios in Ann Arbor, Jackson, Ypsilanti, and various other cities, out-of-state studios, and unidentified studios.  All of these contain photographs of one person, two people and groups, or various combinations of the three.</p></scopecontent>
+<c02 level="file"><did><unittitle>Michigan</unittitle></did>
+<c03 level="file"><did><unittitle>Ann Arbor</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Portraits </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Couples</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Groups</unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Jackson Portraits</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Ypsilanti</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Portraits (wife's family)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Couples (wife's family)</unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Miscellaneous Studios</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Portraits</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Couples, <unitdate type="inclusive" normal="1905">1905</unitdate></unittitle></did></c04></c03></c02>
+<c02 level="file"><did><unittitle>Out-of-State</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Portraits</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Couples</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Unidentified Studios</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Portraits </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Couples</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other Material</unittitle></did><scopecontent><p>The Other Material series makes up 0.1 linear feet of the collection.  This series includes various related material that are not photographs.  The dates stretch from 1905 until 1950 and materials include dance cards from the Qui Nine Club Dance and the Ann Arbor High Dance, the Elk Club Dedication Book, a wedding invitation to Herman's and Ethelyn's wedding, an insurance card, and a song book with no cover.  It also includes negatives of the photographs included in this collection and negatives of different related pictures.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1905/1950">1905-1950</unitdate> (scattered dates) </unittitle></did> <note><p>(dance cards, wedding invitation, publications, etc.)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Negatives</genreform></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

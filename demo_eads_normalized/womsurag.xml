@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::womsurag.xml//EN" encodinganalog="Identifier">
+umich-bhl-85466</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Women for Survival of Agriculture in Michigan records, 1971-1986 
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>August 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-08-27</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Women for Survival of Agriculture in Michigan records, 1971-1986</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Women for Survival of Agriculture in Michigan
+</corpname>
+
+
+</origination>
+
+<unittitle encodinganalog="245">
+Women for Survival of Agriculture in Michigan records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1971-1986
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85466 Bg 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Organization of Michigan family farm wives created in 1971. History and general organizational materials; papers relating to the informational unit of the organization, the American Agri-Women, and the national movement of family farm wives; related printed materials; and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were donated by the organization (donor no. <num type="donor" encodinganalog="541$e">6865</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Women for Survival of Agriculture in Michigan records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>This organization of Michigan family farm wives was created in 1971.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The record group consists of historical background and general organizational materials; papers relating to the informational unit of the organization, the American Agri-Women, and the national movement of family farm wives. There are also some related printed materials and photographs.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Agriculture--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">American Agri-Women.</corpname>
+<subject source="lcsh" encodinganalog="650">Farmers--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Societies and clubs.</subject>
+<subject source="lcsh" encodinganalog="650">Women in agriculture--Michigan.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Apples.</subject>
+<subject source="lctgm" encodinganalog="650">Clothing and dress.</subject>
+<subject source="lctgm" encodinganalog="650">Demonstrations.</subject>
+<subject source="lctgm" encodinganalog="650">Farmers' groups.</subject>
+<geogname source="lcsh" encodinganalog="651">Kalamazoo (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Women for Survival of Agriculture in Michigan.</corpname>
+<subject source="lctgm" encodinganalog="650">Women--Organizations.</subject>
+<subject source="lctgm" encodinganalog="650">Women--Political life.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Organizational records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Historical Background </unittitle></did> <note><p>(folder no. 1)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Agendas (fragmentary) and State Board minutes, <unitdate type="inclusive"> December 9, 1981</unitdate> and <unitdate type="inclusive" normal="1984/1985">1984-1985</unitdate> </unittitle></did> <note><p>(folder no. 2)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters, <unitdate type="inclusive">1972-April 1986</unitdate> </unittitle></did> <note><p>(folder no. 3)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Promotional Materials </unittitle></did> <note><p>(folder no. 4)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsclippings, <unitdate type="inclusive" normal="1971/1981">1971-1981</unitdate> (photocopies) </unittitle></did> <note><p>(folder no. 5)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsclippings, <unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate> (original) </unittitle></did> <note><p>(folder no. 5-A)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, notices and miscellaneous, <unitdate type="inclusive">ca. 1972-1981</unitdate> </unittitle></did> <note><p>(folder no. 6)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>WSAM: Informational Unit, <unitdate type="inclusive">ca. 1976-1977</unitdate> </unittitle></did> <note><p>(folder no. 7)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>6th National Convention of American Agri-Women and 10th Anniversary Celebration of WSAM, <unitdate type="inclusive" normal="1981">1981</unitdate> </unittitle></did> <note><p>(folder no. 8)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>American Agri-Women, <unitdate type="inclusive">ca. 1974-1982</unitdate> </unittitle></did> <note><p>(folder no. 9)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Other Farm Women's Groups, mostly <unitdate type="inclusive" normal="1982">1982</unitdate> </unittitle></did> <note><p>(folder no. 10)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Related Printed Materials, <unitdate type="inclusive">ca. 1976</unitdate> </unittitle></did> <note><p>(folder no. 11)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform> of activities, particularly Kalamazoo, Michigan demonstration against meat boycott, <unitdate type="inclusive">ca. 1972-1973</unitdate></unittitle></did> <note><p>(folder no. 12)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

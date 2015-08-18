@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::umsafety.xml//EN" encodinganalog="Identifier">
+umich-bhl-92138</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Safety Dept. (University of Michigan) photograph collection, 1969-1970
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2009-93-06</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Safety Dept. (University of Michigan) <lb/>photograph collection, 1969-1970 
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Safety Dept.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Safety Dept. (University of Michigan) photograph collection
+<unitdate type="inclusive" encodinganalog="245$f">
+1969-1970
+</unitdate>
+</unittitle>
+<physdesc><extent encodinganalog="300">
+0.3 
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+92138 Bimu B27 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Surveillance-type and other photos of student demonstrations at the University of Michigan.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Donor number 
+<num type="donor" encodinganalog="541$e">6497</num>.
+ 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>No further additions to the collection are expected..</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The collection is open without restriction.</p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Safety Dept. (University of Michigan) photograph collection, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Public safety department of the University of Michigan involved in investigation of  student protest activities.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>Photographs and negatives, 1969-1970, showing student unrest on the University of Michigan campus and nearby. Includes protests over interviews conducted on campus, Black Action movement, the ROTC takeover, vandalism and other demonstrations of protest. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<corpname source="lcnaf" encodinganalog="610">Black Action Movement (University of Michigan)</corpname>
+<subject source="lctgm" encodinganalog="650">Demonstrations--Michigan--Ann Arbor.</subject>
+
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Buildings.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Campus.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Political activity.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1961-1970.</corpname>
+<subject source="lctgm" encodinganalog="650">Vandalism.</subject>
+<subject source="lctgm" encodinganalog="650">Classrooms--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Student registration.</subject>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Photographs </unittitle></did> <note><p>(Dates of photos indicate printing date and not necessarily the date of the activity shown.)</p></note>
+<c02 level="file"><did><container type="folder" label="Folder">1</container><unittitle>Administration Building, activities near, <unitdate type="inclusive">March 19, 1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Folder">2</container><unittitle>Angell Hall, <unitdate type="inclusive">March 24, 1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Folder">3</container><unittitle>Black Action movement, <unitdate type="inclusive">March 1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Folder">4</container><unittitle>Miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Folder">5</container><unittitle>Naval Science protest</unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Folder">6</container><unittitle>Interview protests at B.A. (and Engineering?)</unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Folder">7</container><unittitle>Registration</unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Folder">8</container><unittitle>ROTC takeover, <unitdate type="inclusive">September 14, 1969</unitdate> (photos dated  May, 1970)</unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Folder">9</container><unittitle>Tent City, photos dated <unitdate type="inclusive">September 23, 1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Folder">10</container><unittitle>South U. demonstrations</unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Folder">11</container><unittitle>Vandalism</unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Folder">12</container><unittitle>IST (Institute for Science and Technology) Building bomb damage</unittitle></did></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

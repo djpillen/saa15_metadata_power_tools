@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::msclub.xml//EN" encodinganalog="identifier">
+umich-bhl-87242</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Michigan Schoolmasters' Club
+
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Amy Leigh, January 1993</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+February 2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Leslie Knoblauch, 
+<date>2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050224</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Michigan Schoolmasters' Club,<lb/>Records, 1886-1969
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Amy Leigh, January 1993.
+
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Michigan Schoolmasters' Club
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Michigan Schoolmasters' Club records
+<unitdate type="inclusive" encodinganalog="245$f">
+1886-1969
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+87242 Bimu N201 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The records of the Michigan Schoolmaster' Club at the University of Michigan contain historical information, administrative files, and correspondence. 
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by the Michigan Schoolmasters' Club in 1969 (Donor #
+<num type="donor" encodinganalog="541$e">4808</num>).
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to researchers.</p>
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Michigan Schoolmasters' Club Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Michigan Schoolmaster' Club was founded in 1886 at the University of Michigan when a group of forward thinking "schoolmen" gathered together to discuss the feasability of forming a teacher's club with the purpose of extending and improving the professional relationship between educators on the secondary and collegiate levels.  Among those who encouraged and participated in the formation of this group were James B. Angell and John Dewey.</p>
+<p>For the first seven years of its existence, meetings of the Schoolmasters' Club were held three times a year.  As this arrangement became impractical, it was agreed that one meeting a year would suffice.  These annual meetings were held on the campus of the University of Michigan at Ann Arbor until 1969, with the only break being the year 1945 when permission for the meeting was refused by the federal government.  The format for the annual meeting was consistent:  general sessions were held in the morning and a variety of conferences on specific academic subjects were held in the afternoon.  Speakers for the general sessions were local and national figures in the field of education.  The club published the proceedings of the annual meeting in its journal from 1894 onward.</p>
+<p>In 1965 and 1968, the Schoolmasters' Club undertook the planning of a series of "Articulation Workshops" which were held at various junior and community colleges in Michigan.  The aim of these workshops was to identify problems common to secondary and collegiate level educators and then to work towards possible solutions.</p>
+<p>As attendence at the annual meetings and membership waned in the second half of the century, it became clear that the Schoolmasters' Club would need either to rethink its mission or fade out of existence.  Several alternative options were discussed by the executive committee.  It was decided in 1969 that remaining funds should be used to establish a scholarship fund at the University of Michigan in the name of the Michigan Schoolmasters' Club.
+</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520"><p>
+The records of the Michigan Schoolmasters' Club (MSC) provide a good source of information about current educational issues in the period from 1886 to 1969.  The collection has been arranged into three series:  Historical/Background Files, Administrative Records, and Correspondence.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+
+<corpname source="lcnaf" encodinganalog="610">Michigan Schoolmasters' Club.</corpname>
+<subject source="lcsh" encodinganalog="650">Teachers--Michigan.</subject>
+
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Historical/Background Files</unittitle></did>
+<scopecontent>
+<p>The Historical/Background Files series includes surveys relating to the articulation workshops in 1965 and 1968, background material used in the preparation of a published history of the MSC, several journal papers, life membership lists, and a file concerning the dissolution of the Club.</p>
+<p>Additional materials at the Bentley concerning the Michigan Schoolmasters' Club include the club's programs, proceedings, and journals, which are bound chronologically from 1902, and the history of the first seven decades of the club, published in 1958 by Leslie Butler.  These materials are cataloged separately in the published materials catalog of the library.</p>
+</scopecontent>
+
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Articulation Workshops, <unitdate type="inclusive" normal="1965/1968">1965-1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Background Material for History of MSC, <unitdate type="inclusive" normal="1950/1958">1950-1958</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Journal Papers, <unitdate type="inclusive" normal="1960/1964">1960-1964</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Life Membership Lists, <unitdate type="inclusive" normal="1950/1963">1950-1963</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers concerning Dissolution of MSC, <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Administrative Records</unittitle></did>
+<scopecontent>
+<p>The Administrative Records consist of a bound volume of meeting minutes, membership lists, and the original articles of association (1886-1922), a file of presidents' letters, a subseries of Committee Minutes, and the records of several of the Club's sections.</p></scopecontent>
+
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Records of MSC, <unitdate type="inclusive" normal="1886/1922">1886-1922</unitdate></unittitle><physdesc><extent>1 volume</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Records and Minutes, <unitdate type="inclusive" normal="1935/1964">1935-1964</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Presidents' Letters, <unitdate type="inclusive" normal="1956/1963">1956-1963</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Committee Minutes</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Executive Committee, <unitdate type="inclusive" normal="1967/1969">1967-1969</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Planning Committee, <unitdate type="inclusive" normal="1964/1968">1964-1968</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>Various Reports</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Appraisal</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Auditing, <unitdate type="inclusive" normal="1963/1968">1963-1968</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Resolutions, <unitdate type="inclusive" normal="1961/1966">1961-1966</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Teachers Agencies, <unitdate type="inclusive" normal="1922">1922</unitdate>, <unitdate type="inclusive" normal="1952">1952</unitdate></unittitle></did></c04></c03></c02>
+<c02 level="file"><did><unittitle>Section Records</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Fine Arts, <unitdate type="inclusive" normal="1930/1950">1930-1950</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Mathematics, <unitdate type="inclusive" normal="1935/1967">1935-1967</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Music, <unitdate type="inclusive" normal="1930/1945">1930-1945</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Visiting Teachers Program, <unitdate type="inclusive" normal="1926/1929">1926-1929</unitdate></unittitle><physdesc><extent>2 folders</extent></physdesc> </did></c02>
+</c01>
+
+<c01 level="series"><did><unittitle>Correspondence, <unitdate type="inclusive" normal="1918/1921">1918-1921</unitdate>, <unitdate type="inclusive">1960-1969 </unitdate></unittitle></did>
+<scopecontent>
+<p>The Correspondence files are arranged chronologically from 1918 to 1969, with a significant gap from 1921 to 1960.</p></scopecontent>
+
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1918/1921">1918-1921</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1960/1963">1960-1963</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1966/1967">1966-1967</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><container type="box" label="Box">1</container><unittitle>Sound recordings</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Audiotapes, <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle><physdesc><extent>2 reels</extent></physdesc><physdesc><physfacet>7-inch reels, 3-3/4ips</physfacet></physdesc></did></c02></c01>
+
+</dsc></archdesc>
+
+
+
+</ead>

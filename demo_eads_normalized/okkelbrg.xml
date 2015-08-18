@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::okkelbrg.xml//EN" encodinganalog="Identifier">
+umich-bhl-852018</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Peter Olaus Okkelberg papers, 1910-1950
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>April 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-04-11</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Peter Olaus Okkelberg papers, 1910-1950</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Okkelberg, Peter Olaus, 1880-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Peter Olaus Okkelberg papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1910-1950
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+852018 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of biology and dean of the Horace H. Rackham School of Graduate Studies; contain correspondence and other papers concerning his professional activities; and biographical sketch.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Professor Okkelberg (donor no. <num type="donor" encodinganalog="541$e">2698</num>) in 1959. 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Peter Olaus Okkelberg papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Peter Olaus Okkelberg was born in Goodhue, Minnesota on November 12, 1880. He received his B.A. and M.A. degrees from the University of Minnesota, and his Ph.D. degree in zoology from the University of Michigan in 1918. After graduating from the University of Minnesota, Okkelberg came to the University of Michigan, first as an instructor in zoology, then after receiving his doctorate, as assistant professor (1918-1927), associate professor (1927-1929), as associate professor and executive secretary of the department (1929-1932), as professor and executive secretary of the department (1932-1933), as professor and secretary of the graduate school (1933-1936), as professor and assistant dean of the graduate school (1936-1947), and as professor and associate dean of the graduate school (1947-1951).</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Okkelberg collection is comprised of correspondence dating from 1910 to 1950, the approximate dates of his tenure at the University of Michigan.  The correspondence is arranged chronologically and relates primarily to his career as a professor of zoology and to his work as an University of Michigan assistant and associate dean of the graduate school. Okkelberg corresponded with colleagues and administrators, within and outside the University of Michigan community. Correspondents include: Marion L. Burton, Oct. 1920, Robert M. Lovett, Sept. 1926, Jacob E. Reighard, July 1913, and Alexander G. Ruthven, June 1914 and April 1918.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Adrian College (Adrian, Mich.)</corpname>
+<famname source="lcnaf" encodinganalog="600">Hesselberg family.</famname>
+<corpname source="lcnaf" encodinganalog="610">Horace H. Rackham School of Graduate Studies.</corpname>
+<persname source="lcnaf" encodinganalog="600">Okkelberg, Peter Olaus, 1880-</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Biology.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Laboratories.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Zoology.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
+<subject source="lctgm" encodinganalog="650">Zoology.</subject>
+<subject source="lctgm" encodinganalog="650">Classrooms--Michigan--Ann Arbor.</subject>
+</controlaccess>
+
+
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Burton, Marion Le Roy, 1874-1925.</persname>
+<persname source="lcnaf" encodinganalog="700">Lovett, Robert Morss, 1870-1956.</persname>
+<persname source="lcnaf" encodinganalog="700">Reighard, Jacob Ellsworth, 1861-.</persname>
+<persname source="lcnaf" encodinganalog="700">Ruthven, Alexander Grant, 1882-</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1910/1931">1910-1931</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1932/1941">1932-1941</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive" normal="1942/1950">1942-1950</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Biographical sketch and history of the Hesselberg family.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><genreform normal="Photographs">Photographs</genreform> of students working in zoology laboratories and classrooms</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

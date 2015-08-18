@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::jensenka.xml//EN" encodinganalog="Identifier">
+umich-bhl-92366</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Kathryn Jensen photograph collection, ca. 1910
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-24</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Kathryn Jensen photograph collection, ca. 1910</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Jensen, Kathryn.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Kathryn Jensen photograph collection 
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1910
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+92366 UA 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Photographs, contact prints, and glass negatives collected by Mrs. Robert Jensen.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+
+</did><descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The photographs were donated by Mrs. Robert Jensen (donor no. <num type="donor" encodinganalog="541$e">7053</num>) of Harbor Springs, Michigan.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+No copyright restrictions
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Kathryn Jensen photograph collection, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Mrs. Robert Jensen was a resident of Harbor Springs, Michigan.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of photographs, contact prints, and glass negatives relating to miscellaneous topics, including ice cutting and storage at Mackinaw City, Michigan, and logging and other activities at or near Harbor Springs and Haring, Michigan. There are also some photographs of railroads, ships, and a lighthouse.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lctgm" encodinganalog="650">Boat and ship industry.</subject>
+<subject source="lctgm" encodinganalog="650">Boats.</subject>
+<subject source="lcsh" encodinganalog="650">Boy Scouts.</subject>
+<subject source="lctgm" encodinganalog="650">Coaches and carriages.</subject>
+<subject source="lctgm" encodinganalog="650">Fire engines and equipment.</subject>
+<geogname source="lcsh" encodinganalog="651">Harbor Springs (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Haring (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Ice industry--Michigan--Mackinaw City.</subject>
+<subject source="lctgm" encodinganalog="650">Lighthouses--Michigan.</subject>
+<subject source="lctgm" encodinganalog="650">Lumber industry.</subject>
+<geogname source="lctgm" encodinganalog="651">Mackinaw City (Mich.)--Ice industry.</geogname>
+<subject source="lctgm" encodinganalog="650">Railroads--Michigan.</subject>
+<subject source="lctgm" encodinganalog="650">Ships--Great Lakes.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="gmgpc" encodinganalog="655" normal="Glass phototransparencies.">Glass phototransparencies.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Boats</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Boats </unittitle> <physdesc><physfacet><genreform>glass negatives</genreform></physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Haring station </unittitle> <physdesc><physfacet><genreform normal="Glass phototransparencies.">glass negative</genreform></physfacet></physdesc></did> <note><p>(see also railroads)</p></note></c02>
+<c02 level="file"><did><unittitle>Ice cutting, Mackinaw City </unittitle></did> <note><p>(includes description by C.M. Reyner)</p></note>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Close-ups</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General views</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Negatives</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lumbering</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lumbering </unittitle> <physdesc><physfacet><genreform normal="Glass phototransparencies.">glass negatives</genreform></physfacet></physdesc> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Miscellaneous and views</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Boy Scout troop at Alanson </unittitle> <physdesc><physfacet><genreform normal="Glass phototransparencies.">glass negative</genreform></physfacet></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Coach before an inn </unittitle> <physdesc><physfacet>contact print and <subject normal="Glass phototransparencies.">glass negative</subject></physfacet></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Fire Wagon (?) across street from millinery shop </unittitle> <physdesc><physfacet><genreform normal="Glass phototransparencies.">glass negative</genreform></physfacet></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Lighthouse </unittitle> <physdesc><physfacet>contact print and <genreform normal="Glass phototransparencies.">glass negative</genreform></physfacet></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Woman standing in field, house in background </unittitle> <physdesc><physfacet><genreform normal="Glass phototransparencies.">glass negative</genreform></physfacet></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous </unittitle> <physdesc><physfacet>contact prints</physfacet></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Railroads </unittitle></did> <note><p>(see also lumbering)</p></note>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle/> <physdesc><physfacet><genreform normal="Glass phototransparencies.">Glass negatives</genreform></physfacet></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle/> <physdesc><physfacet>Contact print</physfacet></physdesc></did></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

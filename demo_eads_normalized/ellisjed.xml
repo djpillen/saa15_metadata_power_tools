@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::ellisjed.xml//EN" encodinganalog="Identifier">
+umich-bhl-851178</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+J. Edwin Ellis scrapbooks, 1909-1947
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-12-15</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+J. Edwin Ellis scrapbooks, 1909-1947</titleproper>
+      <author>Finding aid created by<lb/> 
+Michigan Historical Collections staff, 1980</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">
+Ellis, J. Edwin.
+</persname>
+      </origination>
+      <unittitle encodinganalog="245">
+J. Edwin Ellis scrapbooks 
+<unitdate type="inclusive" encodinganalog="245$f">
+1909-1947
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+1 linear foot and 10 oversize volumes
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851178 Aa 2; AC
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Mayor of Owosso, Michigan, and life-long supporter and chronicler of the career of Thomas E. Dewey. Scrapbooks containing newspaper clippings, correspondence and campaign miscellanea relating primarily to Dewey's legal career in New York State and his political activities, particularly his campaign for the Presidency in 1944.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload"/>
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The provenance of this collection is unclear.</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is not held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+J. Edwin Ellis scrapbooks, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>J. Edwin Ellis was mayor of Owosso, Michigan. In addition, he was a life-long supporter of Thomas E. Dewey who was also from Owosso.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The collection consists of scrapbooks relating to the career of Thomas E. Dewey. The scrapbooks begin in 1909, but only go up to 1947, and thus do not cover Dewey's 1948 Presidential campaign or his later career. </p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <persname source="lcnaf" encodinganalog="600">Dewey, Thomas E. (Thomas Edmund), 1902-1971.</persname>
+        <geogname source="lcsh" encodinganalog="651">New York (State)--Politics and government--1865-1950.</geogname>
+        <geogname source="lcsh" encodinganalog="651">Owosso (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1944.</subject>
+        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1933-1945.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Publications, clippings, etc.</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Political papers, <unitdate type="inclusive" normal="1944">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Newspaper clippings </unittitle>
+            <physdesc>
+              <extent>3 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">Thomas E. Dewey: Racket Buster</title> (<imprint><geogname>New York</geogname>: <publisher>One-Slot Publishing Co.</publisher>, <date>n.d.</date></imprint>) </unittitle>
+            <physdesc>
+              <extent>2 copies</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>"Attorney for the People. The Life Story of Thomas E. Dewey."<title render="italic">Liberty Magazine</title>, <unitdate type="inclusive">October 21, 1939</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>
+            <genreform normal="Scrapbooks">Scrapbooks</genreform>, <unitdate normal="1909/1947">1909-1947</unitdate></unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1909/1919">1909-1919</unitdate> and <unitdate type="inclusive" normal="1927/1935">1927-1935</unitdate></unittitle>
+          </did>
+          <note>
+            <p>(Vol. 1)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">2</container>
+            <unittitle>
+              <unitdate type="inclusive">1937-July 1939</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(Vol. 2)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">3</container>
+            <unittitle>
+              <unitdate type="inclusive">July 1939-December 1939</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(Vol. 3)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">4</container>
+            <unittitle>
+              <unitdate type="inclusive">January 1940-April 1940</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(Vol. 4)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">5</container>
+            <unittitle>
+              <unitdate type="inclusive">February 1940-August 1942</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(Vol. 5)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">6</container>
+            <unittitle>
+              <unitdate type="inclusive">August 1942-June 1944</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(Vol. 6)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">7</container>
+            <unittitle>
+              <unitdate type="inclusive">June 1944-July 1944</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(Vol. 7)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">8</container>
+            <unittitle>
+              <unitdate type="inclusive">July 1944-September 1944</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(Vol. 8)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">9</container>
+            <unittitle>
+              <unitdate type="inclusive">July 1944-October 1944</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(Vol. 9)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">10</container>
+            <unittitle>
+              <unitdate type="inclusive">October 1944-December 1946</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(Vol. 10)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">11</container>
+            <unittitle>
+              <unitdate type="inclusive">January 1947-November 1947</unitdate>
+            </unittitle>
+          </did>
+          <note>
+            <p>(Vol. 11)</p>
+          </note>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

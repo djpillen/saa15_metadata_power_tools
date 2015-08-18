@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::kjolhede.xml//EN" encodinganalog="Identifier">
+umich-bhl-85258</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Peder Kjølhede papers, 1880-1935 and undated
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-12</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Peder Kjølhede papers, 1880-1935 and undated</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Kjølhede, Peder
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Peder Kjølhede papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1880-1935 and undated
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85258 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="dan" encodinganalog="041">Danish</language> </langmaterial>
+
+<abstract>
+Danish-Lutheran pastor from Muskegon, Grayling, and other Michigan locales; sermons and other pastoral materials.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Mrs. Theodore Kjølhede (donor no. <num type="donor" encodinganalog="541$e">6406</num>).  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Peder Kjølhede papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Peder Kjølhede was a Danish-Lutheran pastor who served in Muskegon, Grayling, and other Michigan cities.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Peder Kjølhede papers consists mainly of his sermons and sermon notes, with some photographs and miscellaneous records of various church functions and celebrations.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Clergy--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Danish Americans--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">Grayling (Mich.)--Religion.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Lutheran Church--Michigan--Grayling.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Lutheran Church--Michigan--Muskegon.</corpname>
+<geogname source="lcsh" encodinganalog="651">Muskegon (Mich.)--Religion.</geogname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lctgm" encodinganalog="650">Churches--Michigan--Grayling.</subject>
+<subject source="lctgm" encodinganalog="650">Churches--Michigan--Manistee.</subject>
+<subject source="lcsh" encodinganalog="650">Danish Americans--Michigan.</subject>
+<geogname source="lctgm" encodinganalog="651">Grayling (Mich.)--Churches.</geogname>
+<geogname source="lcsh" encodinganalog="651">Ludington (Mich.)</geogname>
+<geogname source="lctgm" encodinganalog="651">Manistee (Mich.)--Churches.</geogname>
+<subject source="lctgm" encodinganalog="650">Parades and processions.</subject>
+
+</controlaccess>
+
+
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Pastoral papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sermons</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Sermons</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Baptisms, confirmations, weddings, funerals</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Ordinations, dedications, ministerial appointments</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Birthdays, anniversary, jubilees</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>School meetings, church meetings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle> June 5 festivities;  July 4 festivities, song</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Confessionals, correspondence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><genreform normal="Photographs">Photographs</genreform>: portraits of individuals, photos of church buildings, and miscellaneous</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::pmhnurs.xml//EN" encodinganalog="Identifier">
+umich-bhl-87271</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Psychiatric-Mental Health Nursing Area (University of Michigan) records, 1973-1982
+
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Frank Boles, June 1987</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2006-08-14</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-08-14</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Psychiatric-Mental Health Nursing Area<lb/>
+(University of Michigan) <lb/>Records, 1973-1982
+
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Frank Boles, June 1987
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">University of Michigan. Psychiatric-Mental Health Nursing Area.</corpname></origination>
+
+<unittitle encodinganalog="245">Psychiatric-Mental Health Nursing Area (University of Michigan) records
+
+<unitdate type="inclusive" encodinganalog="245$f">1973-1982
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">87271 Bimu C266 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>Records, 1973-1982, of the Psychiatric-Mental Health Nursing area in the University of Michigan School of Nursing.  Include course materials and a small amount of miscellaneous materials.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The material was received in 1986 through the Psychiatric-Mental Health Nursing Area office (Donor No. <num type="donor" encodinganalog="541$e">7342</num>).
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>The record group is open without restriction.</p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Psychiatric-Mental Health Nursing Area (University of Michigan)Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>In the fall of 1961 the School of Nursing established a pioneering master's degree program in the area of psychiatric nursing.  This program seems to have been the nucleus around which a group of interested faculty gathered, establishing an informal subject area.  While its organization remained informal, by the mid-1960's formal responsibility for study in the area was vested in a designated faculty member, who for practical purposes also served as the chair of the Psychiatric Nursing area.  This organizational structure continued for several years.</p>
+
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The records of the Psychiatric-Mental Health Nursing Area date from 1973 to 1982 and measure one linear foot in volume.  They consist almost exclusively of course material, arranged by course number.  In addition, there are a few folders of miscellaneous material.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. School of Nursing.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Psychiatric-Mental Health Nursing Area.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Course Material</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N226, <unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N235, <unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N268, <unitdate type="inclusive" normal="1981/1982">1981-1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N375, <unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N431, <unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>IA52, <unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N500, <unitdate type="inclusive" normal="1973/1977">1973-1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N501, <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N502, <unitdate type="inclusive" normal="1975/1980">1975-1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N506, <unitdate type="inclusive" normal="1973/1980">1973-1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N508, <unitdate type="inclusive" normal="1973/1976">1973-1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N510, <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N515, <unitdate type="inclusive" normal="1974/1980">1974-1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N519, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N521, <unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N60l, <unitdate type="inclusive" normal="1973/1981">1973-1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N602, <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N603, <unitdate type="inclusive" normal="1975/1979">1975-1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N606, <unitdate type="inclusive" normal="1974/1979">1974-1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N608, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N609, <unitdate type="inclusive" normal="1974/1979">1974-1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N612, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N670, <unitdate type="inclusive" normal="1973/1976">1973-1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N671, <unitdate type="inclusive" normal="1977/1981">1977-1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N672, <unitdate type="inclusive" normal="1978/1981">1978-1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N673, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N681, <unitdate type="inclusive" normal="1975/1979">1975-1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N701, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N727, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>N887, <unitdate type="inclusive" normal="1980/1981">1980-1981</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous Records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Predicting Success in Graduate Programs, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Research, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Senior Level Core Material, <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate></unittitle></did></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

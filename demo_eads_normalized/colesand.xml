@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::colesand.xml//EN" encodinganalog="Identifier">
+umich-bhl-2010156</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Sandra S. Cole papers, 1994-2007
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Jennifer Barr </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2010">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2010</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2010-08-27</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Sandra S. Cole papers, 1994-2007</titleproper>
+
+<author>Finding aid created by<lb/> 
+Jennifer Barr, 2010</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Cole, Sandra S., 1937-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Sandra S. Cole papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1994-2007
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2010156 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Sandra S. Cole is a sexologist and professor (retired) at the University of Michigan School of Medicine. This collection documents Cole’s transgender advocacy, including the University of Michigan’s Comprehensive Gender Services Program, the inclusion of gender identity in the non-discrimination policies of the University of Michigan and the City of Ann Arbor, and her presentations, public appearances, and consultation work on transgender issues in the late 1990s and early 2000s. 
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Sandra S. Cole (donor no. <num type="donor" encodinganalog="541$e">10378</num>) in July, 2010.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Sandra S. Cole papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Sandra S. Cole, Ph.D., is a professor (retired), sexologist and sex educator. From 1970 to 1977, she was on the faculty of the University of Minnesota Medical School, in the Program in Human Sexuality. In 1977, she joined the Department of Physical Medicine and Rehabilitation at the University of Michigan School of Medicine. In 1993 she founded the University's Comprehensive Gender Services Program (CGSP), a multidisciplinary healthcare program for transgender people. She served as the program's director until her retirement in 2000.</p>
+
+<p>Since the early 1980s, Cole has been active in the transgender community as an educator, consultant, and advocate. She was the co-author of Ann Arbor, Michigan's ordinance on gender identity non-discrimination, which was passed in 1999. Between 1999 and 2007 she worked for the inclusion of gender identity in the University's non-discrimination policies. Also active in this effort were Jim Toy from the Office of Equity and Diversity, Royster Harper, Vice President for Student Affairs, Frederic McDonald-Dennis, Director of the Office of Lesbian, Gay and Bisexual Affairs, and others.</p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Sandra S. Cole papers document Cole's work on behalf of the transgender community at the University of Michigan and in Ann Arbor. A number of the papers in the collection are photocopies of items held by the Kinsey Institute for Research in Sex, Gender, and Reproduction at Indiana University. The collection consists of four series: Comprehensive Gender Services Program, University of Michigan Non-Discrimination Policy, Lectures, Public Appearances, and Consultation Work, and Transgender Reference Materials.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Politics and government.</geogname>
+<persname source="lcnaf" encodinganalog="600">Cole, Sandra S., 1937-</persname>
+<subject source="lcsh" encodinganalog="650">Sex discrimination--Law and legislation.</subject>
+<subject source="lcsh" encodinganalog="650">Sex discrimination in education--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Transgender people--Legal status, laws, etc.--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Transgender people--Medical care--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Physical Medicine and Rehabilitation.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Comprehensive Gender Services Program (CGSP), <unitdate type="inclusive" normal="1997/2000">1997-2000</unitdate></unittitle></did><scopecontent><p>The bulk of the Comprehensive Gender Services Program series consists of a 1997 annual report on the program's services, policies, and procedures. The series also includes program evaluation forms, mission and vision statements, and miscellaneous forms and procedures dating from 1998 to 2000.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Report, <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Forms and Program Information, <unitdate type="inclusive" normal="1998/2000">1998-2000</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>University of Michigan Non-Discrimination Policy, <unitdate type="inclusive" normal="1999/2007">1999-2007</unitdate></unittitle></did><scopecontent><p>The second series, University of Michigan Non-Discrimination Policy, documents the history of transgender advocacy at the University of Michigan. Materials include reports from the Gender Identity Working Group in 2003 and the Task Force on the Campus Climate for Transgender, Bisexual, Lesbian, and Gay (TBLG) Faculty, Staff, and Students in 2004-2005. The work of these groups helped lay the groundwork for the changes in the University's non-discrimination policy that were passed in 2007. This series also includes Cole's notes, correspondence, and prepared remarks for meetings with the Regents of the University in 2005 and 2007.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reports and Memoranda on Transgender Advocacy at U of M, <unitdate type="inclusive" normal="1999/2002">1999-2002</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annotated Draft of Standard Practice Guide, <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Division of Student Affairs Gender Identity Services Survey Results, <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gender Identity Working Group Agenda, Minutes, and Reports, <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Task Force on the Campus Climate for TBLG Faculty Staff, and Students Reports and Related Materials, <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>TBLG Subcommittee Reports, <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notes and Correspondence, <unitdate type="inclusive" normal="2005">2005</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Regents Meeting Comments, Correspondence, and Related Materials, <unitdate type="inclusive" normal="2003">2003</unitdate> and <unitdate type="inclusive" normal="2005">2005</unitdate> </unittitle></did> <note><p>(includes biographical sketches of Cole)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Amendment to Regents Bylaws, Correspondence, Clippings, and Related Materials, <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Lectures, Public Appearances, and Consultation, <unitdate type="inclusive" normal="1997/2004">1997-2004</unitdate></unittitle></did><scopecontent><p>Lectures, Public Appearances, and Consultation documents Cole's role as an advocate, educator, and consultant on transgender issues. Materials include policy drafts and comments related to the 1999 passage of the Ann Arbor City Ordinance Amendment; lecture notes, presentation slides, and reference materials for lectures on transgender identity and healthcare; and reports and articles from the Open Justice Commission on sexual orientation and transgender education for the legal community.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Model: Drafts, Lecture Notes, and Slide Printouts, <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ypsilanti Campaign for Equality Healing Workshop: Notes and Correspondence, <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor City Council Ordinance Amendment Drafts, Comments, Clippings, and Related Material, <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>U of M Sexual Harassment Training Agenda and Notes, <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Transgender Odyssey Toward Acceptance: Slide Printouts, Lecture Notes, and Related Materials, <unitdate type="inclusive" normal="2001/2002">2001-2002</unitdate> </unittitle></did> <note><p>(includes biographical sketch of Cole)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Transgender Odyssey Toward Acceptance: Notes, Slides, and Transparencies, <unitdate type="inclusive" normal="2001/2002">2001-2002</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Open Justice Commission Reports, Articles, and Related Materials, <unitdate type="inclusive" normal="2002/2003">2002-2003</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>The Avalanche: Lecture Notes and Related Materials, <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>National Transgender Library and Archives Dedication Correspondence and Remarks, <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Transgender Healthcare: Lecture Notes and Related Materials, <unitdate type="inclusive">ca. 2000</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Transgender Reference Materials, <unitdate type="inclusive" normal="1994/2007">1994-2007</unitdate></unittitle></did><scopecontent><p>The final series, Transgender Reference Materials, consists of articles and clippings on topics related to transgender identity and social experience, non-discrimination policies, civil rights, and healthcare.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Civil Rights and Legal Resources for Transgender, <unitdate type="inclusive" normal="1998/2003">1998-2003</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>College and University Non-Discrimination Policies, <unitdate type="inclusive" normal="1994/2007">1994-2007</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Gender Identity Disorder/Gender Dysphoria, Articles and Related Materials, <unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Transgender College Faculty and Students, Articles and Clippings, <unitdate type="inclusive" normal="1994/2004">1994-2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Transgender Healthcare, Articles and Bulletins, <unitdate type="inclusive" normal="1995/1997">1995-1997</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Transgender Identity, Articles, Clippings, and Related Materials, <unitdate type="inclusive" normal="1999/2004">1999-2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Transgender Medical and Social Services Brochures, <unitdate type="inclusive">ca. 2000</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc><descgrp type="add"><relatedmaterial><head>Related Material</head><p>Sandra Cole has donated the bulk of her professional papers to the Kinsey Institute for Research in Sex, Gender, and Reproduction at Indiana University.</p></relatedmaterial></descgrp></archdesc>
+
+</ead>

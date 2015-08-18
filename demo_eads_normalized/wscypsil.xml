@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::wscypsil.xml//EN" encodinganalog="Identifier">
+umich-bhl-85468</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Woman’s Study Club of Ypsilanti records, 1897-1999
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Collection staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-02-09</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Woman’s Study Club of Ypsilanti records, 1897-1999</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Collection staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Woman’s Study Club of Ypsilanti (Mich.)
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Woman’s Study Club of Ypsilanti records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1897-1999
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+5 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85468 Bp 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Originally formed as auxiliary to Ladies Literary Club. Minutes, scrapbooks, program books, and other organizational materials.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was donated by the organization (donor no. <num type="donor" encodinganalog="541$e">6128</num>). 
+</p></acqinfo>
+
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Woman’s Study Club of Ypsilanti records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>In 1896, the Ladies Literary Club of Ypsilanti sponsored an auxiliary organization, the Study Club. The first meeting of the Club was held in the Ladies Library building in January 1897. The purpose of the Club was to meet and listen to a prepared lecture on a subject of topical interest given by one of the Club's members. In 1903, the Study Club formed its own auxiliary, the Woman's Club, which held its first meeting in 1904. In 1924, the two groups merged to form the Woman's Study Club of Ypsilanti. </p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The records of the Woman's Study Club of Ypsilanti include a history of the organization written in 1980, minute books of the organization, programs, membership materials, and scrapbooks of club activities.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Arts--Michigan--Ypsilanti--Societies, etc.</subject>
+<corpname source="lcnaf" encodinganalog="610">Ladies Literary Club (Ypsilanti, Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Ypsilanti--Societies and clubs.</subject>
+<geogname source="lcsh" encodinganalog="651">Ypsilanti (Mich.)</geogname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>History</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1980">1980</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Secretary's Minutes</unittitle></did>
+
+
+<c02 level="subseries"><did><unittitle>Study Club</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1897/1898">1897-1898</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1904/1908">1904-1908</unitdate></unittitle></did></c03></c02>
+
+
+<c02 level="subseries"><did><unittitle>Ypsilanti Study Club</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1908/1924">1908-1924</unitdate> </unittitle> <physdesc><extent>7 volumes</extent></physdesc></did></c03></c02>
+
+
+<c02 level="subseries"><did><unittitle>Ypsilanti Woman's Club (auxiliary to Ypsilanti Study Club)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1914/1924">1914-1924</unitdate> </unittitle> <physdesc><extent>2 volumes</extent></physdesc></did></c03></c02>
+
+
+<c02 level="subseries"><did><unittitle>Woman's Study Club of Ypsilanti (renamed from Ypsilanti Study Club)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1924/1954">1924-1954</unitdate> </unittitle> <physdesc><extent>7 volumes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1954/1999">1954-1999</unitdate> </unittitle> <physdesc><extent>6 volumes and 6 booklets</extent></physdesc></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Conventions and special events</unittitle></did>
+<c02 level="file"><did><unittitle>Michigan Centennial</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Correspondence and miscellanea, <unitdate type="inclusive" normal="1937">1937</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform>, <unitdate type="inclusive" normal="1937">1937</unitdate> </unittitle> <physdesc><extent>2 volumes</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Fourteenth Conference of the Cause and Cure of War, Washington DC, <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>General Federation of Women's Clubs, Triennial Convention, Detroit, <unitdate type="inclusive" normal="1953">1953</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Program Books/Membership materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Study Club (later Woman's Study Club)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive" normal="1897/1999">1897-1999</unitdate> </unittitle></did> <note><p>(some years missing)</p></note></c03></c02>
+<c02 level="file"><did><unittitle>Ypsilanti Woman's Club</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive" normal="1904/1924">1904-1924</unitdate> </unittitle></did> <note><p>(some years missing)</p></note></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Resolutions and letters of respect for deceased members</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive" normal="1930/1952">1930-1952</unitdate> </unittitle> <physdesc><extent>4 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle><unitdate type="inclusive" normal="1952/1992">1952-1992</unitdate> </unittitle> <physdesc><extent>4 volumes</extent></physdesc></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

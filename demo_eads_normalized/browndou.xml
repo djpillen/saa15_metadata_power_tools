@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::browndou.xml//EN" encodinganalog="Identifier">
+umich-bhl-8899</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Douglas S. Brown papers, 1924-ca. 1954
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-01-28</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Douglas S. Brown papers, 1924-ca. 1954</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Brown, Douglas S., 1914-1956.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Douglas S. Brown papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1924-ca. 1954
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8899 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Economist, instructor in economics at the University of Michigan. Correspondence, diaries, and miscellanea.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Elizabeth G. Brown (donor no. <num type="donor" encodinganalog="541$e">3290</num>).  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Douglas S. Brown papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Douglas S. Brown was born October 14, 1914 in Milwaukee, Wisconsin. He graduated from the University of Michigan with a B.A. in 1939 and a master's degree in economics in 1940. He taught economics in various universities. Beginning in 1951, he was employed in the banking industry becoming senior economic and investment analyst with the National Bank of Detroit. He died in November 1956.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Douglas Brown papers consists of correspondence, both professional and personal, files relating to his work as a teacher of economics at the University of Michigan, and diaries maintained as a young man.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+<controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Economics.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">ca. 1941-ca. 1954</unitdate>, A-Z</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1931-October 1942</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>University of Michigan material</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Employment records</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Re. work with sororities and fraternities</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Diaries">Diaries</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1924/1933">1924-1933</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

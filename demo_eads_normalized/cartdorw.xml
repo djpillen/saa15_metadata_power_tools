@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::cartdorw.xml//EN" encodinganalog="identifier">umich-bhl-85110</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Dorwin Cartwright Papers <date>1943-1979</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by John D. Beatty</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1984</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>July 2002</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>2011-08-19</date><item>Change made with alteration of the finding aid.</item></change>
+<change><date>20031001</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20020709</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Dorwin Cartwright Papers, <date type="inclusive">1943-1979</date></titleproper><author>Finding aid prepared by: <lb/>John D. Beatty</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Cartwright, Dorwin</persname></origination>
+<unittitle encodinganalog="245">Dorwin Cartwright Papers
+<unitdate type="inclusive" encodinganalog="245$f" normal="1943/1979">1943-1979</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">1 linear foot and 1 oversize folder.</extent></physdesc>
+<abstract>Founder and director of the Research Center for Group Dynamics at the Massachusetts Institute of Technology, an organization that later merged with the Survey Research Center of the University of Michigan to form the Institute for Social Research. Correspondence, reports, memoranda, articles, lectures, and an unfinished manuscript pertaining to research on war bond sales for the U. S. Bureau of Agricultural Economics, 1943-1946; also papers on subsequent research on social behavior and psychology conducted at the University of Michigan.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">85110 Aa 2; UAl</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was the gift of Professor Cartwright (donor no. <num type="donor" encodinganalog="541$e">7071</num>)</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Dorwin Cartwright Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Dorwin Philip Cartwright was born March 3, 1915 in Des Moines, Iowa.  He received his BA from Swarthmore College in 1937, his MA in 1938 and PhD in 1940, both from Harvard.  After serving briefly as a research fellow at the University of Iowa, he joined the staff of U.S. Department of Agriculture's Bureau of Agricultural Economics.  As director of the Division of Program Surveys, Cartwright conducted research on war bond sales and public attitudes toward bond drives with his colleague, Rensis Likert.  (See Rensis Likert collection for related material)</p>
+<p>At the conclusion of World War II in 1945, Cartwright became an associate professor and in 1947 director of the Research Center for Group Dynamics at the Massachusetts Institute of Technology.  Under his directorship the Center became a leading sponsor of social science data research.  The following year he was persuaded by his former colleague, Rensis Likert, to move the Center to the Survey Research Center at the University of Michigan.  The two centers later merged to form the Institute of Social Research (ISR).</p>
+<p>At Michigan, while continuing to head the Research Center for Group Dynamics, Cartwright became an associate professor of psychology and authored numerous articles on social attitudes and the quantification of group behavior.  He later became research coordinator at ISR and served on the board of directors for the Social Science Research Council.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The Dorwin Cartwright Papers reflect Cartwright's career as researcher of war bond sales for the Bureau of Agricultural Economics during World War II and his later activities as professor and staff member of the Institute of Social Research.  The papers contain some correspondence reflecting his transfer from Massachusetts Institute of Technology (MIT) to the University of Michigan, but include primarily reprints of Cartwright's articles and reports while on the staff at the University.  The papers also contain some of Cartwright's lectures and an unpublished manuscript in which he summarized his research on war bond sales.  Accompanying the war bond materials are several promotional advertising posters from World War II.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><persname source="lcnaf" encodinganalog="600">Cartwright, Dorwin.</persname><subject source="lcsh" encodinganalog="650">Social surveys--Research.</subject><corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname><corpname source="lcnaf" encodinganalog="610">University of Michigan. Institute for Social Research.</corpname><subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Bureau of Agricultural Economics, <unitdate type="inclusive" normal="1943/1950">1943-1950</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Memoranda, <unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Summary Reports, <unitdate type="inclusive" normal="1943/1945">1943-1945</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Survey Questionnaires, <unitdate type="inclusive" normal="1943/1945">1943-1945</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>War Bond Promotional Material, <unitdate type="inclusive" normal="1943/1945">1943-1945</unitdate></unittitle></did><note><p>See also oversize folder, UAl</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Unfinished Manuscript and Related Correspondence re:  War Bond Research, <unitdate type="inclusive" normal="1946/1950">1946-1950</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Research Center for Group Dynamics</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1945/1948">1945-1948</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reports and Memoranda, <unitdate type="inclusive" normal="1946/1950">1946-1950</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lectures, <unitdate type="inclusive" normal="1949/1978">1949-1978</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Writings</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reprinted Articles (unbound), <unitdate type="inclusive" normal="1948/1979">1948-1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Bound Articles</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1945/1950">1945-1950</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1951/1953">1951-1953</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1954/1956">1954-1956</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1957/1958">1957-1958</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1959/1960">1959-1960</unitdate></unittitle></did></c03></c02></c01></dsc></archdesc></ead>

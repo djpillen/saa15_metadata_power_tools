@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::nisbettf.xml//EN" encodinganalog="Identifier">
+umich-bhl-852118</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Nisbett Family papers, 1892-1923
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-04</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Nisbett Family papers, 1892-1923</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<famname source="lcnaf" encodinganalog="100">
+Nisbett Family.
+</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Nisbett Family papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1892-1923
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+852118 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Big Rapids, Michigan family. Correspondence and other papers concerning Big Rapids (Mich.) Post Office, Big Rapids Board of Trade, and family matters; also photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of family members (donor no. <num type="donor" encodinganalog="541$e">4175</num>).  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Nisbett Family papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Nisbett family were residents of Big Rapids, Michigan. One family member, William P. Nisbett was secretary of the Big Rapids Board of Trade.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of correspondence and other papers relating to family matters and to the activities of William P. Nisbett with the Big Rapids (Mich.) Post Office, Big Rapids Board of Trade, and the National Wagon Company.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Big Rapids (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Big Rapids Board of Trade.</corpname>
+<subject source="lcsh" encodinganalog="650">Boards of trade--Michigan--Big Rapids.</subject>
+<corpname source="lcnaf" encodinganalog="610">Ferris Institute.</corpname>
+<subject source="lcsh" encodinganalog="650">Manufactures--Michigan--Big Rapids.</subject>
+<famname source="lcnaf" encodinganalog="600">Nesbitt family.</famname>
+<geogname source="lcsh" encodinganalog="651">Pontiac (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Postal service.</subject>
+<subject source="lcsh" encodinganalog="650">Governors--Michigan.</subject>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<persname source="lcnaf" encodinganalog="600">Nisbett, William P., b. 1847.</persname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Ferris, Woodbridge N., 1853-1928.</persname>
+<corpname source="lcnaf" encodinganalog="710">National Wagon Company (Big Rapids, Mich.)</corpname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence and other papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January 1892-December 1895</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January 1896-December 1898</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-June 1899</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">July-December 1899</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-April 1900</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">May-July 1900</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">August-December 1900</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-April 1901</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">May-August 1901</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">September-December 1901</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-June 1902</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">July-December 1902</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-April 1903</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">May-August 1903</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">September-December 1903</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1904">1904</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-April 1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">May-August 1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">September-December 1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-February 1906</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">March-May 1906</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">June-December 1906</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1907/1914">1907-1914</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1915">1915</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1916/1923">1916-1923</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>William P. Nisbett</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Personal reminiscences of Pontiac, Mich. in the 1860s and 1870s"  <unitdate type="inclusive">undated</unitdate></unittitle> <physdesc><extent>19 p.</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Diary, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letterbook, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Big Rapids Board of Trade papers</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>National Wagon Company, Big Rapids</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Directors and stockholders meetings, <unitdate type="inclusive" normal="1904/1905">1904-1905</unitdate> </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Time Book, <unitdate type="inclusive" normal="1904/1905">1904-1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ledgers, <unitdate type="inclusive" normal="1904/1905">1904-1905</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Portraits of William P. Nisbett</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

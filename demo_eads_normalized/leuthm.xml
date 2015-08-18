@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::leuthm.xml//EN" encodinganalog="identifier">umich-bhl-85255</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Margaret Leutheuser Collected Papers [microform]<date>1853-1935</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Bentley Historical Library staff and Sheon Montgomery</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2000</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Sheon Montgomery, <date>June 2001</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>2001-06-27</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Margaret Leutheuser Collected Papers [microform], <date type="inclusive">1853-1935</date></titleproper><author>Finding aid prepared by: <lb/>Bentley Historical Library staff and Sheon Montgomery</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100" role="collector">Leutheuser, Margaret.</persname></origination>
+<unittitle encodinganalog="245">Margaret Leutheuser Collected Papers [microform]
+<unitdate type="inclusive" encodinganalog="245$f" normal="1853/1935">1853-1935</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">1 microfilm roll</extent></physdesc>
+<abstract>Papers collected by Margaret Leutheuser of Ann Arbor, Michigan, relating to ancestor families, notably the Leach, Waterman, and Armstrong families. Civil War materials of Morgan L. Leach, member of the 1st and 9th Michigan Cavalry; farm account books of Edgar and William Armstrong of Mundy Township, Genesee County, Michigan; correspondence of other family members; and scrapbooks containing newspaper accounts of settlement of Leach family in Genesee County, and account of trip of Morgan Leach to Traverse Bay, Michigan, in the 1860s.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">85255 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository encodinganalog="852"><corpname><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>These materials were acquired in 1981 from Margaret S. (Mrs. Richard A.) Leutheuser (Donor no.   <num type="donor" encodinganalog="541$e">6570</num>)</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Margaret Leutheuser Collected Papers, Bentley Historical Library, University of Michigan</p></prefercite><altformavail><p>The collection was microfilmed in 2000. Access to the originals is restricted.</p></altformavail></descgrp>
+
+<bioghist encodinganalog="545"><p>Most of the collection relates to the descendants of Jeshuran and Theoda Huntington Leachnatives of Vermont who, after their marriage, moved frequently with their family between Ohio, Michigan and New York states.  Following Jeshuran's death in c. 1842 the family returned to settle in Genesee County, Michigan.  There were seven children: Morgan L., DeWitt Clinton (called D.C.), Henry, Lois Huntington, Wesley, A. Judson (called A.J. or Judson), and Theoda.</p>
+<p>Morgan studied medicine at the University of Michigan in 1851-1853.  He practiced medicine and married before returning to complete his studies in 1857-1858, when he received his M.D.  Morgan enlisted in the 1st Michigan Cavalry in 1861 as a private and was soon made a hospital steward.  He was wounded in 1861, taken prisoner, paroled and given a medical discharge.  He was commissioned in late 1862 as Assistant Surgeon with the 9th Michigan Cavalry. He resigned on July 15, 1864 and returned to Michigan where he practiced medicine and wrote extensively for local newspapers, publishing a book in 1884, <title render="italic">A History of the Grand Traverse Region</title>.</p>
+<p>DeWitt was active in politics, both at the state and national levels, and was editor or owner of several newspapers. Wesley served in the 1st Michigan Cavalry from August 1861 to August 1864.  A.J. moved to Nebraska in 1867.</p>
+<p>Lois H. Leach received her teaching certificate at age fifteen and taught in Genesee County schools.  She married three times, first to Frederick Waterman, then William O'Dell, and briefly to Jacob M. Runyan, who became ill and died within days of their wedding.  Lois Leach Waterman and her first husband had five children:  Edgar, Ella, Hattie, Fred Jr., and Lois.  Fred Jr. took his young family to pioneer in Nebraska in 1885.  They tried several locations in Nebraska before returning to Michigan in 1895.  Fred's son, Edgar Waterman (b. 1880) wrote a manuscript of his childhood memories from these years.  The younger Lois Waterman married Edgar M. Armstrong, son of William Armstrong, and had three daughters, Eleanor, Louise, and Harriet (Hattie).</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>Margaret Leutheuser collected a variety of materials pertaining to her ancestors, notably among the Leach, Waterman and Armstrong families.  The collection dates from the 1850s to the 1930s, and includes family correspondence, newspaper articles written by Morgan (M.L.) Leach, and farm account books.  The materials are arranged in one Family Papers series by the originator/author of the item.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><famname source="lcnaf" encodinganalog="700">Armstrong family.</famname><subject source="lcsh" encodinganalog="650">Farm life--Michigan.</subject><geogname source="lcsh" encodinganalog="651">Genesee County (Mich.)</geogname><geogname source="lcsh" encodinganalog="651">Grand Traverse Bay Region (Mich.)</geogname><persname source="lcnaf" encodinganalog="700">Leach, M. L. (Morgan Lewis), 1821-</persname><famname source="lcnaf" encodinganalog="700">Leach family.</famname><geogname source="lcsh" encodinganalog="651">Mundy (Mich.)</geogname><geogname>Nebraska</geogname><subject>Temperance</subject><subject source="lcsh" encodinganalog="650">Travelers</subject><corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Cavalry Regiment, 1st (1861- 1866)</corpname><corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Cavalry Regiment, 9th (1863-1865)</corpname><geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname><famname source="lcnaf" encodinganalog="700">Waterman family.</famname></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Scrapbooks</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Family Papers</unittitle></did>
+<c02 level="file"><did><container label="Roll" type="reel">1</container><unittitle>Outline of family relationships</unittitle></did><scopecontent><p>Outline of Family Relationships includes brief notes made by Louise Armstrong in 1954, and a genealogical chart created by a BHL staff member from family information found within the collection.</p></scopecontent></c02>
+<c02 level="file"><did><unittitle>Theoda H. Leach (b. 1799-d. 1872)</unittitle></did><scopecontent><p>The Theoda H. Leach folder contains three letters from her son, Morgan, from 1853 to 1863.  The 1853 letter recounts his arrival in Ann Arbor, his expenses and lack of money, and his student class schedule.  The 1861 letter announces his arrival in Traverse City and his enthusiasm for building a life there.  The 1863 letter is written from camp in Tenessee with the 9th Michigan Cavalry, and laments the lack of reliable war information.</p></scopecontent>
+<c03 level="file"><did><unittitle>Letters to family members, mostly to her daughter Lois H. Leach Waterman</unittitle></did>
+<c04 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive" normal="1853/1863">1853-1863</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive" normal="1864/1872">1864-1872</unitdate></unittitle></did></c04></c03></c02>
+<c02 level="file"><did><unittitle>Morgan L. Leach (b. 1821-d. 1910)</unittitle></did><scopecontent><p>Morgan (M.L.) Leach contributed numerous articles and works of fiction to local newspapers throughout the 1860s-1880s.  His scrapbook contains articles on a variety of topics, including temperance and the Wintergreen Temperance Society, religion and Christianity, and the "Woman Question," as well as poetry and short stories.  The scrapbook also includes a series of articles contributed by A.J. Leach about his experiences pioneering and living in Nebraska.</p></scopecontent>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle>Letters to his mother, Theoda H. Leach, <unitdate type="inclusive" normal="1853/1863">1853-1863</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle>Scrapbook of newspaper articles written by M.L. Leach, <unitdate audience="internal" type="inclusive" normal="1870/1889" certainty="approximate">1870s-1880s</unitdate></unittitle><physdesc><extent>1 volume</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Lois H. Leach Waterman O'Dell Runyan (b. 1828-d. 1915)</unittitle></did><scopecontent><p>Lois H. Leach Waterman O'Dell Runyan kept a scrapbook of articles written by her brother Morgan (M.L.), including his series of Civil War letters as a correspondent for the Republican newspaper (pp. 1-10), a series concerning his travels to the Traverse Bay area in the 1860s (pp. 27-34) and to Nebraska in 1874 (pp. 11-22), his accounts of the Leach family's settlement in Genesee County in the 1830s (pp. 23-25), and other articles, poetry and stories.  There are also two folders of correspondence: one of letters written by her mother, Theoda, and one of letters Lois wrote to her grandchildren.</p></scopecontent>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle>Letters to her grandchildren, <unitdate type="inclusive" normal="1907/1910">1907-1910</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle>Scrapbook containing newspaper articles written by Morgan L. Leach, <unitdate type="inclusive" normal="1861/1875">1861-1875</unitdate></unittitle><physdesc><extent>1 volume</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Edgar Waterman (b. 1880)</unittitle></did><scopecontent><p>Lois's son, Fred Waterman, Jr., married in c. 1879.  His son, Edgar Waterman, wrote manuscripts under the pen name Edgar Huntington.  Saga of a Nebraska Family is a memoir of his experiences as a child (ages 5-15) pioneering with his family in Nebraska.  Due to several years of drought, the family moved to various homesteads in central and western Nebraska before returning permanently to Michigan in 1895.</p></scopecontent>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle><title render="italic">Saga of a Nebraska Family</title> (manuscript), <unitdate audience="internal" type="inclusive">late 1930s</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle>Miscellaneous manuscripts</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>William Marshall Armstrong</unittitle></did>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle>Farm account book<unitdate type="inclusive" normal="1865/1874">1865-1874</unitdate></unittitle><physdesc><extent>1 volume and 9 items</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Edgar M. Armstrong</unittitle></did>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle>Personal papers, <unitdate type="inclusive" normal="1877/1928">1877-1928</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle>Scrapbook of newspaper clippings mostly concerning the Civil War and Reconstruction, <unitdate type="inclusive" normal="1880/1889" certainty="approximate">1880s</unitdate></unittitle><physdesc><extent>1 volume</extent></physdesc></did></c03>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle>Farm account book, <unitdate type="inclusive" normal="1886/1889">1886-1889</unitdate></unittitle><physdesc><extent>1 volume</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Hattie Armstrong (b. September 1888)</unittitle></did>
+<c03 level="file"><did><container label="Roll" type="reel">1</container><unittitle>"The Normal Review System of Writing" penmanship workbook</unittitle></did></c03></c02>
+<c02 level="file"><did><container label="Roll" type="reel">1</container><unittitle>Miscellaneous Letters, <unitdate type="inclusive" normal="1879/1935">1879-1935</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container label="Roll" type="reel">1</container><unittitle>Scrapbook of newspaper clippings about half concern family members, <unitdate type="inclusive">ca. 1870-1915</unitdate></unittitle><physdesc><extent>1 volume</extent></physdesc><note><p>(include obituaries of family members)</p></note></did></c02></c01></dsc></archdesc></ead>

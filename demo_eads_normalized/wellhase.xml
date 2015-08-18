@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::wellhase.xml//EN" encodinganalog="Identifier">
+umich-bhl-0714</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Wellness HIV/AIDS Services records, 1986-1999 
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Library staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>January 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-02-21</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Wellness HIV/AIDS Services <lb/>records, 1986-1999</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Library staff, January 2007</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Wellness HIV/AIDS Services.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Wellness HIV/AIDS Services records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1986-1999
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0714 Bj 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Flint, Michigan-based HIV/AIDS services organization; board of directors minutes, administrative and topical files, and materials collected from other peer organizations.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was donated by the organization (donor no. <num type="donor" encodinganalog="541$e">9780</num>) in September 2006.</p></acqinfo>
+
+
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open without restriction; access to the records does require the researcher to sign a statement agreeing to preserve the confidentiality of names mentioned in the files.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box, Wellness HIV/AIDS Services records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Established in January 1986, the Wellness HIV/AIDS Services organization grew out of the Flint AIDS Task Force. The purpose of the organization was to assist (through various services) in the care of people affected by HIV/AIDS and to promote education and prevention in the community.  Some of the specific services provided by Wellness included anonymous HIV testing, counseling and case management, support groups for persons affected or infected by HIV or AIDS, and other miscellaneous assistance activities.  Wellness HIV/AIDS Services served the people of Genesee, Lapeer, and Shiawassee counties.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Wellness HIV/AIDS Services record group consists of the following series: Board of Directors files; Administrative and Topical files; and Related Organizations. Included are minutes and documents of the organization's board of directors, grant applications files, training and education materials, planning documents for HIV prevention initiatives, and materials received from other AIDS/HIV organizations.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Wellness HIV/AIDS Services.</corpname>
+<subject source="lcsh" encodinganalog="650">AIDS (Disease)--Patients--Services for--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">HIV-positive persons--Services for--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Wellness Networks (Organization)</corpname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Board of Directors files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes and discussion documents, <unitdate type="inclusive" normal="1986/1999">1986-1999</unitdate> </unittitle> <physdesc><extent>19 folders</extent></physdesc></did> <note><p>(lacking 1996)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Board of Directors Retreat materials, <unitdate type="inclusive">March 1998</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Administrative and Topical files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Grants</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Community Foundation of Greater Flint, <unitdate type="inclusive" normal="1988/1991">1988-1991</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Flint Area Health Foundation, <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Junior League of Flint, <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Mott Children's Health Center, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Project for Urban and Regional Affairs, <unitdate type="inclusive" normal="1988/1990">1988-1990</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Special Office on AIDS Prevention (SOAP), <unitdate type="inclusive" normal="1987/1990">1987-1990</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Prevention</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>GLS (Genesee, Lapeer, Shiawassee) Community HIV Prevention Planning Group, <unitdate type="inclusive" normal="1996/1998">1996-1998</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Region VI Community Planning Group for HIV Prevention, <unitdate type="inclusive" normal="1996/1998">1996-1998</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Region VI HIV Comprehensive AIDS Resources Emergency Consortium, <unitdate type="inclusive" normal="1997/1999">1997-1999</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Statewide Community Planning Group for HIV Prevention, <unitdate type="inclusive" normal="1998/1999">1998-1999</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Training and education</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Training manual</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Fundamentals of HIV Prevention Counseling</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Resource materials</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Section I: Basics of HIV/AIDS</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Section II: HIV Testing; Section III: Legislation; Section IV: Psychosocial Issues</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Section V: Issues for Populations Especially Affected by the Epidemic</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Section VI: Prevention and Risk Reduction</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Section VII: Glossary of HIV and AID Related Terminology</unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Other informational materials</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Related Organizations</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Advisory Group on New Model for Community Organization, <unitdate type="inclusive" normal="1998/1999">1998-1999</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>AIDS Walk Michigan, <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Battle Creek Community AIDS Resource and Education Services, <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>HIV/AIDS Alliance of Michigan, <unitdate type="inclusive" normal="1995/1999">1995-1999</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Kalamazoo AIDS Resource Education Services, <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Michigan's Persons Living with HIV/AIDS Task Force, <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Planned Parenthood of East Central Michigan, <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Southeastern Michigan HIV/AIDS Council, the Region I HIV Care Consortia, grant application submitted to the Michigan Department of Community Health, <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Statewide HIV/AIDS Care Council</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>New Membership Portfolio</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Policy and practices documents </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Transition House, <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Wellness Network, Inc.</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Detroit, <unitdate type="inclusive" normal="1989/1991">1989-1991</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Huron Valley</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Traverse City, <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Brochures</unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

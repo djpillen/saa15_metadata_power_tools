@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::goodspd.xml//EN" encodinganalog="identifier">
+umich-bhl-05125
+</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Finding Aid for 
+Robert Goodspeed papers, 2000-2004 
+</titleproper>
+        <author encodinganalog="creator">Collection processed and finding aid created by 
+Zachary Monahan, October 2005 </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="date">
+200602 </date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>Feb. 2006</date></creation>
+      <langusage>The finding aid is written in  <language langcode="eng">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2004 </date>
+        <item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Robert Goodspeed Papers, 2000-2004</titleproper>
+      <author>Finding aid created by<lb/> 
+Zachary Monahan, October 2005</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21">
+    <did>
+      <origination>
+<persname source="lcnaf" encodinganalog="100">
+Goodspeed, Robert
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+Robert Goodspeed papers
+ 
+<unitdate type="inclusive" encodinganalog="245$f">
+2000-2004 
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+1 linear foot.
+</extent>
+      </physdesc>
+      <unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+05125 Aa2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+History honors student and reporter for the Michigan Daily, student newspaper for the University of Michigan. Includes history honors thesis (and background material) "Urban Renewal in Postwar Detroit: The Gratiot Area Redevelopment Plan," material for a mini-course on student activism at Michigan, and material collected for newspaper stories relating to campus issues, especially affirmative action, and the related group, By Any Means Necessary (BAMN). Also material on Michigamua and Vulcans.
+
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+Papers were received in February 2005 
+(Donor No. <num type="donor" encodinganalog="541$e">9561</num>).
+</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan with the exception of Goodspeed’s thesis and course materials.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Robert Goodspeed Papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Robert Goodspeed is from Maine and graduated from Greely High School in 2000.  He attended the University of Michigan from 2000 to 2004 and graduated with high honors in history.  His honors thesis was titled "Urban Renewal in Postwar Detroit: The Gratiot Area Redevelopment Project."  He also taught a mini-course in the "History of Student Activism at the University of Michigan" during the winter semester of 2004.</p>
+      <p>Goodspeed was highly involved while at the University of Michigan serving on student government, writing for <title render="italic">The Michigan Daily</title>, and participating in College Democrats and the U of M chapter of the ACLU.  He also worked at the Blue Nile Restaurant, served on the <title render="italic">Cool Cities Task Force</title>, and founded the Ann Arbor news and civic website ArborUpdate.com.</p>
+      <p>He currently lives in Washington D.C., editing Dcist.com which is a city-based weblog.  Goodspeed also works for the the Internet Coordinator for People For the American Way Foundation's Department of National Programs and Outreach   More information about Goodspeed can be found at his frequently updated blog:  Goodspeedupdate.com</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Goodspeed collection is divided into two series: Academics and Journalism Topics.  The collection consists primarily of printouts of reports and e-mail correspondence, flyers for campus events.  There are also police reports, decisions from court cases, and material acquired through Freedom of Information (FOIA) requests.  </p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--2001-2010.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1991-2000.</corpname>
+        <subject source="lcsh" encodinganalog="630">Michigan daily.</subject>
+        <subject source="lcsh" encodinganalog="650">Urban renewal--Michigan--Detroit.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Michigamua.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Vulcans (University of Michigan)</corpname>
+        <subject source="lcsh" encodinganalog="650">Affirmative action programs--Michigan--Ann Arbor.</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Academics</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Academics series contains materials related to the Honors program, the course pack for the course on student activism at Michigan taught by Goodspeed in winter 2004, and the final draft of his honors thesis "Urban Renewal in Postwar Detroit: The Gratiot Area Redevelopment Project" and related background materials.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Honors Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Honors Thesis: "Urban Renewal in Postwar Detroit: The Gratiot Area Redevelopment Project" and Materials Gathered for the Thesis</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>"Student Activism and Social Change"-Course Taught in Winter <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Journalism Topics</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Journalism Topics series contains the source materials for many of Goodspeed's stories for <title render="italic">The Michigan Daily.</title>   Much of the material was acquired through FOIA requests.  Topics range from stories written for the crime beat to investigations of campus secret societies, particularly Michigamua and Vulcans.  Stories cover campus and Ann Arbor news.  Of note is material on affirmative action and the group BAMN (By Any Means Necessary).</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Academic Integrity</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Affirmative Action</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Ann Arbor Historic Districts</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Ann Arbor Police Department/Department of Public Safety</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Ann Arbor Transit Authority</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Athletes and Crime</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>BAMN (By Any Means Necessary)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Beta Theta Pi Rape Allegations</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Chetly Zarko v Regents</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>City Hall</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Department of Defense Research</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Digital Millennium Copyright Act</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Dining Services</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Dining Services-Freedom of Information Act</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Drug Use</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Freedom of Information Act</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>[Michael] Grass Privacy-Freedom of Information Act</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>LS&amp;A Organizational Studies</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>LS&amp;A Religion Studies</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <title render="italic">Michigan Daily</title> (includes "<title render="italic">Inside the Daily</title> ")</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Michigamua and Vulcans</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Michigamua and Delta Kappa Epsilon</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellaneous Materials</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Naked Mile</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Net PD</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Primate Research</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Professor William Kauffman Plagiarism Case</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Regents</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Residence Hall Security</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Student Neighborhood Association</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Student's Rights Coalition</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>"The Student Agenda"</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::deppathp.xml//EN" encodinganalog="Identifier">
+umich-bhl-0276</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Dept. of Pathology (University of Michigan) publications, 1973-1997
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Jennifer Jacobs, 1999</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2009-02-12</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Dept. of Pathology <lb/>(University of Michigan) <lb/>publications, 1973-1997</titleproper>
+
+<author>Finding aid created by<lb/> 
+Jennifer Jacobs, 1999
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Dept. of Pathology.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Dept. of Pathology (University of Michigan) publications
+<unitdate type="inclusive" encodinganalog="245$f">
+1973-1997
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0276 Bimu C41 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>Unit of the University of Michigan Medical School.
+Includes annual reports, brochures and pamphlets, and reports. Also contains manuals from the Blood Bank and the Pathology Laboratories.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Publications are received for the department periodically (Donor no. <num type="donor" encodinganalog="541$e">2108</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>Periodic additions to the records expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The collection is open without restriction.</p>
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Dept. of Pathology (University of Michigan) publications, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>In the early history of the Medical School, most of the heads of departments were simultaneously heads of other departments, and the head was generally the only faculty in the department. This was the case in the Department of Pathology. The first Professor of Pathology (as well as of Physiology) was Jonathan Adams Allen. He lost the support of his colleagues and was dismissed by the Regents in 1854.</p>
+
+<p>Samuel Denton, who had been involved in the University since the first Board of Regents meeting in 1837, serving on various committees, then took over Allen's position, in addition to his own as Professor of the Theory and Practice of Medicine. He died in 1860.</p>
+
+<p>Alonzo Benjamin Palmer had been Professor of Materia Medica, Therapeutics, and Diseases of Women and Children since 1854. After Denton's death, Palmer took his title of Professor of Theory and Practice of Medicine and Pathology. Palmer served in this position until his death in 1887; he was also Dean of the Medical School for the last twelve of these years. During his tenure, in 1882, twenty to thirty microscopes were acquired and put to use in an advanced elective course in normal and pathological histology. The Pathological Laboratory was first mentioned in the 1888-89 course catalog of the Medical School. Also during this time, other instructors of pathology were added to the faculty.</p>
+
+<p>In 1888, when Heneage Gibbes replaced Palmer, the chair of pathology was the only department that Gibbes was appointed to chair, so that he would have more time for laboratory work. However, he was no longer allowed to have any assistants or other instructors. Gibbes' views on the nature of bacteria (that they were insignificant in the production of disease) caused rifts between him and his colleagues (see Wilfred B. Shaw's <title render="italic">The University ofMichigan:,4n Encyclopedic Survey,</title> Volume II). However, he remained Professor of Pathology until 1895, when he left for Detroit's Michigan College of Medicine.</p>
+
+<p>In 1895, George Dock was assigned the chair of Pathology, in addition to his chair as Professor of Theory and Practice of Medicine and Clinical Medicine, which he had held since 1891. Aldred Scott Warthin, (who was also trained in music) was Dock's assistant, and with Dock's new responsibilities, he needed Warthin as an Instructor in Pathology. Warthin was a prolific researcher, and was selected as Chairman and Professor of Pathology and Director of the Pathological Laboratory in 1903.</p>
+
+<p>Warthin, Carl V. Weller and George Herrman researched the pathological effects of mustard gas during the period of World War 1. The studies appeared in the <title render="italic">Journal of Laboratory and Clinical Medicine</title> and as a book.</p>
+
+<p>In 193 1, Weller was appointed Professor and Chairman of the Department of Pathology and Director of the Laboratory to replace Warthin. A. James French took the position in 1956, and Peter A. Ward in 1980.</p>
+
+
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Department of Pathology Publications are divided into two series: Unit Publications and Sub-Unit Publications.</p>
+
+<p>The Unit Publications series includes the Department's annual report for the years 1981 through 1990 and a report titled <title render="italic">Documents Related to Goals, Medical Service Plan Program, Strategies and Related Matters</title> from 19 8 0/8 1.</p>
+
+<p>In the series Sub-Unit Publications the researcher can find a manual of standard practices from the Blood Bank, as well as the <title render="italic">Pathology Laboratories Handbook,</title> which has been published since 1979.</p>
+
+
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Pathology.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Blood Bank.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Pathology Laboratories.</corpname>
+<subject source="lcsh" encodinganalog="650">Pathology--Study and teaching--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="710">University of Michigan. Hospitals. Blood bank.</corpname>
+<corpname source="lcnaf" encodinganalog="710">University of Michigan. Pathology Laboratories.</corpname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Annual reports.</genreform>
+<genreform source="aat" encodinganalog="655">Pamphlets.</genreform>
+<genreform source="aat" encodinganalog="655">Reports.</genreform>
+<genreform source="aat" encodinganalog="655">Manuals.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+
+
+<c01 level="series"><did><unittitle>Unit Publicatons</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Reports</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Reports, <unitdate type="inclusive" normal="1981/1992">1981-1992</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Brochures</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Abnormal Biology: Understanding and  Diagnosis, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>M Labs, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>House Officer Training Program, ca <unitdate type="inclusive" normal="1976">1976</unitdate> and <unitdate type="inclusive">ca. 1981</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Reports</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Documents Related to Goals, Medical Service Plan Program, Strategies and Related Matters, <unitdate type="inclusive">1980/81</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Sub-unit Publications</unittitle></did>
+<c02 level="file"><did><unittitle>Blood Bank</unittitle></did>
+<c03 level="file"><did><unittitle>Manuals</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Blood Transfusion Policies and Standard Practices, <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle></did></c04></c03></c02>
+<c02 level="file"><did><unittitle>Pathology Laboratories</unittitle></did>
+<c03 level="file"><did><unittitle>Manuals</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Pathology Laboratories Handbook, <unitdate type="inclusive" normal="1979/1996">1979-1996</unitdate> (8folders)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Pathology Laboratories Handbook: The Mini Book,, <unitdate type="inclusive">1996/97</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Reports</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Documents Related to Goals, Medical Service Plan Program, Strategies and Related Matters, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle></did></c04></c03></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::peterskn.xml//EN" encodinganalog="Identifier">
+umich-bhl-8992</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Kenneth Earl Peters collection, ca. 1900-1919
+
+</titleproper>
+<author encodinganalog="Creator">Finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>November 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-11-29</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Kenneth Earl Peters collection, ca. 1900-1919</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Peters, Kenneth Earl, collector.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Kenneth Earl Peters collection 
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1900-1919
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+5 microfilm rolls
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8992 Aa Microcopy
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Student at the University of Michigan. Collected material relating to the Good Roads Movement in Michigan.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+These microfilm reels were donated by Kenneth E. Peters (donor no. <num type="donor" encodinganalog="541$e">4495</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Kenneth Earl Peters collection, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Kenneth Earl Peters, at the time this material was collected, was a doctoral student in history at the University of Michigan.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>This collection consists of negative microfilm copies of records located at the National Archives and Records Administration and the Library of Congress. These records were used in Kenneth Earl Peters' doctoral dissertation "The Good-Roads Movement and the Michigan State Highway Department, 1905-1917."</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Roads--Michigan.</subject>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Post Office Department, Record Group 28</unittitle></did>
+<note><p>(Originals at National Archives)</p></note><c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Division of Rural Mails, Entry 214, General Records, <unitdate type="inclusive" normal="1902/1934">1902-1934</unitdate> </unittitle></did> <note><p>(Boxes 42-45. Arranged alphabetically by name of Michigan county (incomplete) Papers relate to the inspections made by Post Office Department (POD) prior to establishment of county-wide Rural Free Delivery Services (RFD))</p></note></c02>
+<c02 level="file"><did><unittitle>Bureau of the Fourth Assistant Postmaster General, Division of Rural Mails</unittitle></did>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Records, <unitdate type="inclusive" normal="1902/1910">1902-1910</unitdate> Entry 216, Forms, <unitdate type="inclusive" normal="1902/1910">1902-1910</unitdate>. 6 pages.</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Immediate Office of the Fourth Assistant Postmaster General.</unittitle></did>
+<c03 level="file"><did><unittitle>Entry 184-General Records, <unitdate type="inclusive" normal="1902/1932">1902-1932</unitdate></unittitle></did>
+<c04 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Box 62. 142 pp.</unittitle></did></c04>
+<c04 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Box 32. 287 pp.</unittitle></did></c04>
+<c04 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Box 38. 161 pp.</unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Entry 185-Correspondence of James I. Blakslee, <unitdate type="inclusive" normal="1914/1920">1914-1920</unitdate></unittitle></did>
+<c04 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Box 1. 41 pp.</unittitle></did></c04>
+<c04 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Box 2. 85 pp.</unittitle></did></c04>
+<c04 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Box 3. 48 pp.</unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Entry 215-Records of the Division of Rural Mails, "Records relating to Acts Providing for Federal Aid to Post Roads, <unitdate type="inclusive"> September 1912-March 1917</unitdate>"</unittitle></did>
+<c04 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Box 2. 97 pp.</unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Entry 214-General Records, <unitdate type="inclusive" normal="1915/1934">1915-1934</unitdate></unittitle></did>
+<c04 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Box 197. 32 pp.</unittitle></did></c04>
+<c04 level="file"><did><container type="reel" label="Roll">2</container><unittitle>Box 193. 54 pp.</unittitle></did></c04></c03></c02>
+</c01>
+
+
+<c01 level="series"><did><unittitle>Secretary of Agriculture, Record Group 16</unittitle></did>
+<note><p>(Originals at National Archives)</p></note><c02 level="file"><did><container type="reel" label="Roll">3</container><unittitle>Secretary's Office, <unitdate type="inclusive" normal="1918">1918</unitdate> - incoming correspondence. Acc. 234, Drawer 237 (metal box). 39 pp.</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">3</container><unittitle>Secretary's Office-Alpha 63, carton 3. 125 pp.</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">3</container><unittitle>Roads-Michigan, <unitdate type="inclusive" normal="1918">1918</unitdate> TR-240 (green folder). 133 pp.</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">3</container><unittitle>Secretary's Office, <unitdate type="inclusive" normal="1918">1918</unitdate> - Incoming correspondence. "Roads" Acc. 234, Draver 238. 22 pp.</unittitle></did></c02></c01>
+
+
+<c01 level="series"><did><unittitle>Manuscript Division, Library of Congress</unittitle></did>
+<c02 level="subseries"><did><container type="reel" label="Roll">4</container><unittitle>William Howard Taft Papers, Series 6, </unittitle></did><c03 level="file"><did><container type="reel" label="Roll">4</container><unittitle>File 1053 (Box 426)..<unitdate type="inclusive" normal="1914/1918">1914-1918</unitdate></unittitle><physdesc><extent> 31 pp</extent></physdesc></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Woodrow Wilson Papers, Series 4</unittitle></did>
+<c03 level="file"><did><container type="reel" label="Roll">4</container><unittitle>File 1, Box 1 "Department of Agriculture" <unitdate type="inclusive" normal="1914/1918">1914-1918</unitdate></unittitle><physdesc><extent> 24 pp</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">4</container><unittitle>File 791, Box 302 "National Highways Association" </unittitle><physdesc><extent> 9 pp</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">4</container><unittitle>File 361, Box 219 "Good Roads Agitation, <unitdate type="inclusive" normal="1913">1913</unitdate>" </unittitle><physdesc><extent> 33 pp</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">4</container><unittitle>File 361, Box 219 "Good Roads Agitation, <unitdate type="inclusive" normal="1914">1914</unitdate>"</unittitle><physdesc><extent> 11 pp.</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">4</container><unittitle>File 361, Box 220 "Good Roads Agitation, <unitdate type="inclusive" normal="1915">1915</unitdate>"</unittitle><physdesc><extent>3 pp</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">4</container><unittitle>File 361, Box 220 "Good Roads Agitation, <unitdate type="inclusive" normal="1916">1916</unitdate>"</unittitle><physdesc><extent>16 pp.</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">4</container><unittitle>File 361, Box 220 "Good Roads Agitation, <unitdate type="inclusive" normal="1917">1917</unitdate>"</unittitle><physdesc><extent>6 pp.</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">4</container><unittitle>File 361, Box 220 "Good Roads Agitation, <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>"</unittitle><physdesc><extent>37 pp.</extent></physdesc></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Bureau of Public Roads, Record Group 30</unittitle></did>
+<note><p>(Originals at National Archives)</p></note><c02 level="file"><did><container type="reel" label="Roll">4</container><unittitle>Selected records relating to Michigan Roads and Roads in general, <unitdate type="inclusive">ca. 1900-1919</unitdate>.</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

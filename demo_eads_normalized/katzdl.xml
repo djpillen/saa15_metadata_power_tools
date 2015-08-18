@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::katzdl.xml//EN" encodinganalog="Identifier">
+umich-bhl-90133</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Donald La Verne Katz papers, 1933-1989
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Katherine C. Owen </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-10-27</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Donald La Verne Katz papers, 1933-1989</titleproper>
+
+<author>Finding aid created by<lb/> 
+Katherine C. Owen, January 1990</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Katz, Donald La Verne, 1907-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Donald La Verne Katz papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1933-1989
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet in 3 boxes
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+90133 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of chemical engineering at the University of Michigan. Tapes and transcript of tapes of oral interviews with Donald Katz talking about his life and professional activities; reprints of his writings; files relating to his Ann Arbor Council of Churches activities; and files of his investigation of the Port Huron Water Tunnel explosion, 1971.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The papers were the gift of Professor Katz (Donor no. <num type="donor" encodinganalog="541$e">3302</num>) in 1988-1989.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Donald La Verne Katz papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Donald La Verne Katz, chemical engineer and educator, was born August 1, 1907 on the Schnackenberg-Katz farm, Waterloo Township, Michigan, one of four children of Gottlieb and Lucy Schnackenberg Katz; he died in Ann Arbor on May 29, 1989 at the age of 81. </p>
+
+<p>Katz attended a one-room school near his home through the eighth grade, began high school at Grass Lake, and then commuted to Jackson to complete high school.  He earned the B.S. degree in chemical engineering at the University of Michigan in 1931, and continued his studies there for the M.S. in 1932 and Ph.D. in 1933.  He worked his way through school, and in later years, attributed his ability to accomplish many tasks to the work ethic he had learned as a young farm boy.</p>
+
+<p>He was employed by Phillips Petroleum Company in Bartlesville, Oklahoma, 1933-1936, where he initiated a petroleum production research program leading to the concept, probably first enunciated by Katz, of reservoir engineering.  In 1936 he returned to the University of Michigan as assistant professor of chemical engineering, rising to associate professor (1942-1943), professor (1943-1966), Alfred H. White university professor of chemical engineering (1966-1977), and professor emeritus (1977 until his death); he was chairman of the department of chemical and metallurgical engineering, 1951-1962.</p>
+
+<p>Katz's consultation career in gas reservoir and storage facilities began in the 1950s as a consultant on behalf of Michigan Consolidated Gas Company (MichCon) in the design of underground storage fields to meet the need for natural gas in winter.  He was also a consultant on two pipeline projects.  As a consultant to the Natural Gas Pipeline Company of America and the Northern Illinois Gas Company, he designed aquifer storage fields for natural gas in Illinois and Iowa.</p>
+
+<p>As an educator, Professor Katz was instrumental in promoting the use of computers in engineering and design education.</p>
+
+<p>Katz was a prolific writer of papers and books and had a number of patents granted to him. Among the books, his <title render="italic">Handbook of Natural Gas Engineering</title> (1959) was translated into Russian in 1965; the book solidified his global reputation as an expert in phase behavior, gas hydrates, underground storage and reservoir engineering.</p>
+
+<p>He was chairman of the National Academy of Sciences-National Research Council (NAS-NRC) Committee on Hazardous Marine Materials, Advisory to the U.S. Coast Guard, 1964-1972, receiving the Coast Guard's highest award for distinguished public service.  He also chaired the NAS-NRC  Committee on Air Quality and Power Plant Emissions, 1974-1975, which studied acid rain and recommended stack gas scrubbing for high-sulfur coal plants.</p>
+
+<p>Katz was president of the American Institute of Chemical Engineers in 1959, a member of many other professional societies, and the recipient of numerous scientific awards, including the prestigious National Medal of Science from President Reagan in a 1983 White House ceremony.</p>
+
+<p>In his community, Dr. Katz served as a member of the Ann Arbor Board of Education, 1948-1957, and president of the board for three years.  A member of the First United Methodist Church, he also served on the Ann Arbor Council of Churches in the 1940s.</p>
+
+<p>Katz was married in 1932 to Lila Maxine Crull who died in 1965.  Two children were born to them.  His second wife was Elizabeth Harwood Correll. </p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The papers of Donald L. Katz consist of five series: Biography/Personal, Ann Arbor Council of Churches, Papers, Publications and Patents, Cassette Tapes, Interviews of Donald L. Katz, and Port Huron Water Tunnel Explosion.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Ann Arbor Council of Churches (Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Engineers--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Explosions.</subject>
+<genreform source="aat" encodinganalog="655">Oral histories.</genreform>
+<geogname source="lcsh" encodinganalog="651">Port Huron (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Engineering.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Chemical Engineering.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<subject source="lcsh" encodinganalog="650">Water tunnels.</subject>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Biography/Personal</unittitle></did><scopecontent><p>Biography/Personal includes Katz's curriculum vitae and a transcript of taped interviews about his life, which was recorded in 1987 by Enid Galler; a table of contents and index to the transcript is included. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Curriculum vitae</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Transcript of taped interviews, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>National Medal of Science Award, <unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Ann Arbor Council Of Churches, <unitdate type="inclusive" normal="1944/1963">1944-1963</unitdate></unittitle></did><scopecontent><p>Ann Arbor Council of Churches contains material on the Weekday Religious Education program which existed in Ann Arbor from 1944 to 948.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Weekday Religious Education, <unitdate type="inclusive" normal="1944/1948">1944-1948</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Papers, Publications and Patents</unittitle></did><scopecontent><p>Papers, Publications, and Patents is a listing and collection of reprints of his non-book publications in chronological order by date of publication.  </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Chronological files, <unitdate type="inclusive" normal="1933/1988">1933-1988</unitdate> </unittitle> <physdesc><extent>12 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Bibliography of publications (arranged chronologically and by subject headings)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Cassette Tapes</unittitle></did><scopecontent><p>The Cassette Tapes are the oral history interviews with Donald L. Katz. Transcripts of these interviews will be found in the Biography/Personal series.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Interviews of Donald L. Katz, <unitdate type="inclusive" normal="1987">1987</unitdate> </unittitle> <physdesc><extent>6 tapes</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Port Huron Water Tunnel Explosion, <unitdate type="inclusive">December 11, 1971</unitdate></unittitle></did><scopecontent><p>The Port Huron Water Tunnel Explosion series includes correspondence and reports.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Consideration of the factors involved in the <unitdate type="inclusive">December 11, 1971</unitdate> Port Huron Water Tunnel Explosion, report of J.A. Nicholls, <unitdate type="inclusive">August 1, 1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Correspondence-attorneys</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Detroit Metropolitan Water Services Raw Water Intake Tunnel and Shafts, contract drawings, <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Miscellaneous reports, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>A study of the explosion in the Port Huron Water Tunnel <unitdate type="inclusive">December 11, 1971</unitdate> by Donald L. Katz, <unitdate type="inclusive">July 25, 1973</unitdate> </unittitle></did> <note><p>(include revisions, June 21, 1974 and addendum 1975)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

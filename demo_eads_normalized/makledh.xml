@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::makledh.xml//EN" encodinganalog="Identifier">
+umich-bhl-07115</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Hussein Makled papers, 1956-1999
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Leonard A. Coombs </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>September 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-09-12</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Hussein Makled papers, 1956-1999</titleproper>
+
+<author>Finding aid created by<lb/> 
+Leonard A. Coombs, 2007</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+
+<persname source="lcnaf" encodinganalog="100">
+Makled, Hussein.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Hussein Makled papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1956-1999
+</unitdate>
+
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear feet. 
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+07115 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language>,<language langcode="ara" encodinganalog="041">Arabic</language>, <language langcode="per" encodinganalog="041">Farsi</language> </langmaterial>
+
+<abstract>
+Hussein Makled is a leader in the Arab American community of Southeastern Michigan, one of the founding members of the Islamic Center of America. The papers of Hussein Makled document his work as a leader of the Islamic Center of America and its predecessor organizations, as well as the career of Imam Mohamad Jawad Chirri.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Hussein Makled (donor no. <num type="donor" encodinganalog="541$e">9928</num>) in 2007.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Hussein Makled papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Hussein Makled is a leader in the Arab American community of Southeastern Michigan, one of the founding members of the Islamic Center of America. Makled moved to Highland Park, Mich., from Lebanon in the 1940s because of the economic opportunities in Michigan. He joined the Hashmi Society, a mosque in Dearborn's South End, and soon convinced the scholar Mohamad Jawad Chirri, who he had known in Lebanon, to provide guidance to the society. Chirri became imam of the Hashmi Society, and Chirri and Makled, along with a group of young members, began raising money to build a proper mosque. After years of fundraising, which included a gift of over $40,000 from Egyptian president Gamal Abdel Nasser, ground was broken for the Islamic Center of Detroit in 1962. Makled remained active in the Center as it grew to become the Islamic Center of America and moved to a new mosque, dedicated in 2003, known as the largest mosque in North America.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The papers of Hussein Makled document his work as a leader of the Islamic Center of America and its predecessor organizations, as well as the career of Imam Mohamad Jawad Chirri. The collection is divided into two series: Topical files and Photographs. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Arab Americans--Michigan.</subject>
+<persname source="lcnaf" encodinganalog="600">Chirri, Mohamad Jawad.</persname>
+<corpname source="lcnaf" encodinganalog="610">Islamic Center of America (Dearborn, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Islamic Center Foundation Society.</corpname>
+<persname source="lcnaf" encodinganalog="600">Makled, Hussein.</persname>
+<subject source="lcsh" encodinganalog="650">Muslims--Michigan.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Arab Americans--Michigan--Spiritual life.</subject>
+<persname source="lcnaf" encodinganalog="600">Chirri, Mohamad Jawad.</persname>
+<persname source="lcnaf" encodinganalog="600">Jackson, Jesse, 1941-</persname>
+<geogname source="lcsh" encodinganalog="651">Iran.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Islamic Center of America (Dearborn, Mich.)</corpname>
+<subject source="lctgm" encodinganalog="650">Mosques--Michigan--Detroit.</subject>
+<persname source="lcnaf" encodinganalog="600">Nasser, Gamal Abdel, 1918-1970.</persname>
+<persname source="lcnaf" encodinganalog="600">Qāsim, Abd al-Karīm, 1914-1963.</persname>
+<subject source="lctgm" encodinganalog="650">Religious services--Michigan--Detroit.</subject>
+<subject source="lctgm" encodinganalog="650">Religious services--Iran.</subject>
+<persname source="lcnaf" encodinganalog="600">Sadr, Mūsá.</persname>
+
+</controlaccess>
+
+
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Berry, Nabih.</persname>
+<persname source="lcnaf" encodinganalog="700">Elahi, Mohammad Ali.</persname>
+<persname source="lcnaf" encodinganalog="700">Nasser, Gamal Abdel, 1918-1970.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Topical files</unittitle></did><scopecontent><p>The Topical files series includes records of the Islamic Center Foundation Society, the organization that planned and raised funds for the building of the Islamic Center of Detroit. Of particular interest is a letter that accompanied Egyptian president Nasser's contribution to the center in 1959. The series also includes writings by and about Imam Chirri, along with one letter of Chirri's successor, Imam Mohammad Ali Elahi, describing the situation at the Center in 1994.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Berry, Nabih, essay re Mohamad Jawad Chirri</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Chirri, Mohamad Jawad, essay re Five schools of Islamic jurisprudence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Elahi, Mohammad Ali, letter re Islamic Center of America (in Farsi), <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Islamic Center Foundation Society</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence re donation from Gamal Abdel Nasser, <unitdate type="inclusive" normal="1959">1959</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence re Swiss bank account, <unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence miscellaneous, <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial records, <unitdate type="inclusive" normal="1956/1960">1956-1960</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial records, <unitdate type="inclusive" normal="1960/1970">1960-1970</unitdate> </unittitle> <physdesc><extent>4 volumes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial reports, <unitdate type="inclusive" normal="1962">1962</unitdate> and <unitdate type="inclusive" normal="1966">1966</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial miscellaneous</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes, <unitdate type="inclusive" normal="1956/1959">1956-1959</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Islamic Center of Detroit, board members, <unitdate type="inclusive">ca. 1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Islamic Center of America, correspondence and other documents, <unitdate type="inclusive" normal="1990/1995">1990-1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Islamic Services, Inc., <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ismail, Vehbi, pamphlet owned by</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Makled, Hussein, essay re Mohamad Jawad Chirri</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Makled, Hussein, essay re history of Islamic Center</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellanea</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did><scopecontent><p>The photograph series contains photos relating to the Islamic Center mosque built in 1962 and 1963 and to the career of Imam Chirri. Photos are included of Chirri with various Islamic and world leaders, among them Jesse Jackson, Gamal Abdel Nasser, Abdul Karim Qassem, and Moussa al-Sadr, along with photos of Chirri leading Friday prayers in Iran in 1979.  </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Chirri, Mohamad Jawad</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Iran, Chirri leading Friday prayers, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Islamic Center of America</unittitle></did></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

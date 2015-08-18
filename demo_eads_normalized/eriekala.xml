@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::eriekala.xml//EN" encodinganalog="Identifier">
+umich-bhl-851226</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Erie and Kalamazoo Railroad records, 1834-1968
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-11-12</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Erie and Kalamazoo Railroad records, 1834-1968</titleproper>
+      <author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <corpname source="lcnaf" encodinganalog="110">
+Erie and Kalamazoo Railroad.
+</corpname>
+      </origination>
+      <unittitle encodinganalog="245">
+Erie and Kalamazoo Railroad records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1834-1968
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+12 linear feet and 2 oversize volumes
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851226 Bb 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+The first railroad west of the Appalachians. Correspondence, legal papers, receipts, account books, bank statements, and stock certificate books; also reports to the Interstate Commerce Commission and Michigan and Ohio regulatory agencies. and minutes, 1834-1919, of the Board of Directors.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload"/>
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The records were donated by the company (donor no. <num type="donor" encodinganalog="541$e">3047</num>).  
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The record group is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is not held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Erie and Kalamazoo Railroad records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>The Erie and Kalamazoo Railroad was chartered on April 22, 1833, to connect Port Lawrence (later named Toledo) with western Michigan. Later, as a part of the Lake Shore and Michigan Southern, the New York Central, the Penn Central and the Conrail systems, the railroad carried passengers until November 1956.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Erie and Kalamazoo Railroad record group consists of minutes, correspondence, annual reports to regulatory agencies, and various business and legal documents, including payrolls, stock transfers, dividends paid, and check registers.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">Erie and Kalamazoo Railroad.</corpname>
+        <subject source="lcsh" encodinganalog="650">Railroads--Michigan.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <corpname source="lcnaf" encodinganalog="610">Erie and Kalamazoo Railroad.</corpname>
+        <subject source="lctgm" encodinganalog="650">Railroads--Michigan.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655">Prints.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Organizational records</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Minute book, <unitdate type="inclusive" normal="1834/1919">1834-1919</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence, <unitdate type="inclusive" normal="1840/1952">1840-1952</unitdate></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>
+                <unitdate type="inclusive" normal="1840/1914">1840-1914</unitdate>
+              </unittitle>
+              <physdesc>
+                <extent>29 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">2</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1915/1939">1915-1939</unitdate>
+              </unittitle>
+              <physdesc>
+                <extent>32 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1939/1952">1939-1952</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle>
+              <physdesc>
+                <extent>25 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>Business papers, <unitdate type="inclusive" normal="1834/1918">1834-1918</unitdate></unittitle>
+            <physdesc>
+              <extent>47 folders</extent>
+            </physdesc>
+          </did>
+          <note>
+            <p>(include payrolls, stock transfers, wills, and other legal documents)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Business papers, <unitdate type="inclusive" normal="1919/1952">1919-1952</unitdate></unittitle>
+            <physdesc>
+              <extent>33 folders</extent>
+            </physdesc>
+          </did>
+          <note>
+            <p>(missing 1951)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Annual Reports to Interstate Commerce Commission</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Annual Reports to the Public Utilities Commission of Ohio</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">7</container>
+            <unittitle>Annual Reports to the Railroad Commission of the State of Michigan, <unitdate type="inclusive" normal="1915/1918">1915-1918</unitdate> and <unitdate type="inclusive" normal="1935/1938">1935-1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">7</container>
+            <unittitle>Minutes of meetings of company stockholders, <unitdate type="inclusive" normal="1921/1959">1921-1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">7</container>
+            <unittitle>Ledger, <unitdate type="inclusive" normal="1848/1849">1848-1849</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">7</container>
+            <unittitle>Journal, <unitdate type="inclusive" normal="1848/1849">1848-1849</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Publications</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">7</container>
+              <unittitle>Leases and contracts</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">7</container>
+              <unittitle>Mortgages</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">7</container>
+              <unittitle>Miscellaneous: notes and research material, etc.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">7</container>
+            <unittitle>Michigan Historical Collections file (re transfer of records to the library)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">7</container>
+            <unittitle>Postcards containing <genreform normal="Prints">print</genreform> image of the railroad</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">8</container>
+            <unittitle>Letterpress books, <unitdate type="inclusive" normal="1902/1913">1902-1913</unitdate></unittitle>
+            <physdesc>
+              <extent>2 volumes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">8</container>
+            <unittitle>Miscellaneous business papers</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">9</container>
+            <unittitle>Check registers</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">10</container>
+            <unittitle>Check registers</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">10</container>
+            <unittitle>Stock certificate books</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">11</container>
+            <unittitle>Check registers</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">12</container>
+            <unittitle>Correspondence and unprocessed miscellanea, <unitdate type="inclusive">ca. 1943-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Dividend books</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="volume" label="Oversize Volume">1</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1885/1922">1885-1922</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="volume" label="Oversize Volume">2</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1939/1946">1939-1946</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">12</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1946/1948">1946-1948</unitdate>
+              </unittitle>
+            </did>
+            <note>
+              <p>(unbound)</p>
+            </note>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

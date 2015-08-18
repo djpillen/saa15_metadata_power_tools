@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::cookpubs.xml//EN" encodinganalog="Identifier">
+umich-bhl-851497</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Cook Brothers Printing Company (Hastings, Mich.) records, 1890-1945
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>August 2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-08-13</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Cook Brothers Printing Company <lb/>(Hastings, Mich.) records, 1890-1945</titleproper>
+      <author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <corpname source="lcnaf" encodinganalog="110">
+Cook Brothers Printing Company (Hastings, Mich.).
+</corpname>
+      </origination>
+      <unittitle encodinganalog="245">
+Cook Brothers Printing Company (Hastings, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1890-1945
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+30 oversize volumes
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851497 BB Outsize
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Publishers of the Hastings Banner; financial records.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload"/>
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The record group was the gift of Richard Cook (donor no. <num type="donor" encodinganalog="541$e">3240</num>).</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Cook Brothers Printing Company (Hastings, Mich.) records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>The Cook Brothers Printing Company was owned and operated by Marshall L. Cook and William Randolph Cook. This company was responsible for the printing of the <title render="italic">Hastings Banner</title> newspaper and other printing jobs.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The records of the firm are exclusively financial and include cash books, advertising books, job books, ledgers, an inventory, and monthly statements of accounts.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="650">Business records.</subject>
+        <subject source="lcsh" encodinganalog="630">Hastings banner.</subject>
+        <geogname source="lcsh" encodinganalog="651">Hastings (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650">American newspapers--Michigan--Hastings.</subject>
+        <subject source="lcsh" encodinganalog="650">Printing industry--Michigan--Hastings.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Cook, Marshall L., 1858-1955.</persname>
+        <persname source="lcnaf" encodinganalog="700">Cook, William Randolph, 1866-1946.</persname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <container type="volume" label="Oversize Volume">1</container>
+          <unittitle>Cash Book</unittitle>
+          <physdesc>
+            <extent>15 voulmes</extent>
+          </physdesc>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> March 2, 1908-March 31, 1909</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> April 1, 1909-April 29, 1911</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> May 1, 1911-April 3, 1913</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> April 7, 1913-March 27, 1915</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> March 29, 1915-January 30, 1917</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> February 1, 1917-June 30, 1919</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> July 2, 1919-May 17, 1921</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> May 18, 1921-May 31, 1923</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> June 1, 1923-June 10, 1925</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> June 11, 1925-May 31, 1927</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> June 1, 1927-June 22, 1929</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> June 24, 1929-September 30, 1931</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> October 1, 1931-July 31, 1934</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> August 1, 1934-December 31, 1936</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> January 2, 1937-November 12, 1938</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="volume" label="Oversize Volume">2</container>
+          <unittitle>Advertising Book</unittitle>
+          <physdesc>
+            <extent>5 volumes</extent>
+          </physdesc>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> April 18, 1906-September 28, 1910</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> October 4, 1910-April 30, 1914</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> May 7, 1914-October 25, 1917</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> November 1, 1917-December 30, 1925</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> January 6, 1926-October 31, 1934</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="volume" label="Oversize Volume">3</container>
+          <unittitle>Job Book</unittitle>
+          <physdesc>
+            <extent>6 volumes</extent>
+          </physdesc>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> February 1908-December 1913</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> January 1914-September 1919</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> September 1919-July 1925</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> August 1925-January 1934</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> February 1934-December 1939</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <unitdate type="inclusive"> January 1940-June 1945</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="volume" label="Oversize Volume">4</container>
+          <unittitle>Other records</unittitle>
+          <physdesc>
+            <extent>4 volumes</extent>
+          </physdesc>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>Ledger, <unitdate type="inclusive"> January 1890-July 1898</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Ledger, <unitdate type="inclusive"> July 1898-March 1905</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Inventory, <unitdate type="inclusive" normal="1912">1912</unitdate> (revised <unitdate type="inclusive" normal="1914">1914</unitdate>)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Monthly Statements of accounts, <unitdate type="inclusive" normal="1907/1910">1907-1910</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+    <descgrp type="add">
+      <relatedmaterial>
+        <head>Related Material</head>
+        <p>The Bentley Library also has the personal, business, and political papers of Marshall L. Cook and William Randolph Cook.</p>
+      </relatedmaterial>
+    </descgrp>
+  </archdesc>
+</ead>

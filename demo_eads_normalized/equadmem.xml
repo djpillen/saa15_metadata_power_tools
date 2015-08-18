@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::equadmem.xml//EN" encodinganalog="Identifier">
+umich-bhl-2012064</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+East Quad Memory Project (University of Michigan) records, 1977-2012
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michael Shallcross, 2012</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2012">
+2012</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2012</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2012-12-12</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+East Quad Memory Project (University of Michigan) records, 1977-2012
+</titleproper>
+      <author>Finding aid created by<lb/> 
+Michael Shallcross, 2012
+</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <corpname source="lcnaf" encodinganalog="110">
+University of Michigan. East Quad Memory Project
+</corpname>
+      </origination>
+      <unittitle encodinganalog="245">
+East Quad Memory Project (University of Michigan) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1977-2012
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+.1 linear feet and 5.72 GB
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2012064 Bimu 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+A community history project intended to record memories and information about East Quad, the traditional home of Residential College, before the structure underwent significant renovations in the summer of 2012. The collection includes video footage and email correspondence of current and former residents, administrators, faculty, and staff sharing stories about life in East Quad as well as a documentary video, images of murals, and a cookbook from the Halfway Inn café.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload"/>
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+Donated by East Quad Memory Project (donor no. <num type="donor" encodinganalog="541$e">10773</num>) in April 2012.
+
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>No further additions to the records are expected.</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>The collection is open without restriction.</p>
+        <p>
+          <extptr href="uarpacc" show="embed" actuate="onload"/>
+        </p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+East Quad Memory Project (University of Michigan) records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+      <processinfo>
+        <p>
+          <extptr href="digitalproc" show="embed" actuate="onload"/>
+        </p>
+      </processinfo>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>The East Quad Memory Project was organized by Residential College (RC) student Rosie Levine in the spring of 2012 with support from college administration. An outgrowth from a class assignment, the East Quad Memory Project's goal was to record information and personal memories about RC's traditional home before extensive renovations were undertaken in the summer of 2012. Current and former staff, administrators, professors, and residents contributed stories and memories to the project via email and video-recorded talks at the East Quadapalooza event held on March 30, 2012. Participants also provided historical records dating back to the late 1970s, which included event materials, cook book, and a Residential College fortieth anniversary video created in 2007.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The East Quad Memory Project records preserves the memories of East Quad as shared by current and former Residential College students, staff and administrators. The collection provides documents the impact of the College's unique environment on students and will furthermore be of use to those interested in the social life and customs of University of Michigan students. The record group consists of two series: East Quadapalooza and Historical Records. </p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">East Quadrangle (University of Michigan)</corpname>
+        <corpname source="lcnaf" encodinganalog="610">East Quad Memory Project.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. Residential College.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. Student housing.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. Students--Social life and customs.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">East Quadapalooza.</corpname>
+        <subject source="lcsh" encodinganalog="650">Education--Michigan.</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>East Quadapalooza</unittitle>
+        </did>
+        <scopecontent>
+          <p>The East Quadapalooza series includes promotional materials and video footage from East Quadapalooza, an event organized by Rosie Levine and held in the East Quad's Greene Lounge from 5-8 p.m. on March 30, 2012. Former and current professors, administrators, staff, and residents shared memories of life in East Quad over the years, many of which were captured on digital video. The evening concluded with a music performance at the Halfway Inn. </p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Concert ticket, <unitdate type="inclusive" normal="2012">2012</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Promotional poster, <unitdate type="inclusive" normal="2012">2012</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <physloc>Online</physloc>
+            <unittitle>Video footage of individuals sharing stories about East Quad, <unitdate type="inclusive" normal="2012">2012</unitdate> (10 files)  </unittitle>
+            <dao href="http://hdl.handle.net/2027.42/90953" show="new" actuate="onrequest">
+              <daodesc>
+                <p>[download  file]</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Historical Records</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Historical Records series is comprised of materials collected over the course of the project. These include email correspondence between Rosie Levine and individuals who sought to share memories of East Quad, event fliers and a newsletter from the 1980s, a cookbook from the Halfway Inn café, and a catalog and images of East Quad's murals.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <physloc>Online</physloc>
+            <unittitle>Catalog of murals in East Quad (with images), <unitdate type="inclusive" normal="2012">2012</unitdate></unittitle>
+            <dao href="http://hdl.handle.net/2027.42/90954" show="new" actuate="onrequest">
+              <daodesc>
+                <p>[download  file]</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <physloc>Online</physloc>
+            <unittitle>Email correspondence: memories of East Quad, <unitdate type="inclusive" normal="2012">2012</unitdate></unittitle>
+            <dao href="http://hdl.handle.net/2027.42/90954" show="new" actuate="onrequest">
+              <daodesc>
+                <p>[download  file]</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Hayden Notes (newsletter), <unitdate type="inclusive">ca. 1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <physloc>Online</physloc>
+            <unittitle>Recipes from the Halfway Inn: cookbook, <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
+            <dao href="http://hdl.handle.net/2027.42/90954" show="new" actuate="onrequest">
+              <daodesc>
+                <p>[download  file]</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Residential College Commencement Program, <unitdate type="inclusive" normal="2012">2012</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Women's Issues symposia fliers, <unitdate type="inclusive">ca. 1980-1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <physloc>Online</physloc>
+            <unittitle>Self Portraits of the Residential College (fortieth anniversary documentary), <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle>
+            <dao href="http://hdl.handle.net/2027.42/90954" show="new" actuate="onrequest">
+              <daodesc>
+                <p>[download  file]</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

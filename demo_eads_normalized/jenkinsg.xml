@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::jenkinsg.xml//EN" encodinganalog="Identifier">
+umich-bhl-851583</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Guy H. Jenkins papers, 1931-1957
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-25</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Guy H. Jenkins papers, 1931-1957</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Jenkins, Guy Hugh.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Guy H. Jenkins papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1931-1957
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot and 1 oversize item
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851583 Aa 2; Ac
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Chief of the Lansing bureau of Booth Newspapers, Inc. Correspondence and other materials concerning his newspaper career and his interest in Michigan politics (particularly the election of 1932) and Michigan politicians Frank Murphy and Blair Moody.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection came from Mrs. Guy H. Jenkins (donor no. <num type="donor" encodinganalog="541$e">3322</num>) and from Herbert G. Watkins (donor no. <num type="donor" encodinganalog="541$e">2482</num>). 
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Guy H. Jenkins papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Guy Hugh Jenkins was born April 13, 1888 in Saginaw, Michigan. After graduation from high school in 1907, he went to work the following year as a reporter for the associated Booth newspapers. He came to Lansing in 1927 to assist the bureau in coverage of state government. In 1930, he was selected Chief of the Lansing Bureau. He died May 4, 1957.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Jenkins collection consists of correspondence dating from 1931 to 1957, various subject files pertaining to issues of state government, and files of his expense accounts. Some of the individuals with whom Jenkins had correspondence included William A. Comstock, James A. Farley, John A. Hannah, Howard C. Lawrence, Frank Murphy, and Frank A. Picard. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Booth Newspapers, Inc.</corpname>
+<subject source="lcsh" encodinganalog="650">Elections--Michigan--1932.</subject>
+<subject source="lcsh" encodinganalog="650">Journalists--Michigan--Lansing.</subject>
+<geogname source="lcsh" encodinganalog="651">Lansing (Mich.)</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1929-1938.</geogname>
+<persname source="lcnaf" encodinganalog="600">Moody, Blair, 1902-1954.</persname>
+<subject source="lcsh" encodinganalog="650">American newspapers--Michigan.</subject>
+<persname source="lcnaf" encodinganalog="600">Jenkins, Guy H.</persname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Comstock, William Alfred, 1877-1949.</persname>
+<persname source="lcnaf" encodinganalog="700">Farley, James A. (James Aloysius), 1888-1976.</persname>
+<persname source="lcnaf" encodinganalog="700">Hannah, John A., 1902-</persname>
+<persname source="lcnaf" encodinganalog="700">Lawrence, Howard Cyrus, 1890-1961.</persname>
+<persname source="lcnaf" encodinganalog="700">Murphy, Frank, 1890-1949.</persname>
+<persname source="lcnaf" encodinganalog="700">Picard, Frank A., 1889-1963.</persname></controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1931">1931</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1932">1932</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1933/1935">1933-1935</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1936">1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-June 1937</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">July-December 1937</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-April 1938</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">May-December 1938</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-June 1939</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">July-December 1939</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-April 1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">May-December 1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Jan-June 1941</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">July-December 1941</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1942">1942</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1943">1943</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1944/1945">1944-1945</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1946">1946</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1947">1947</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1948">1948</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1949">1949</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1950/1953">1950-1953</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1954/1957">1954-1957</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Subject files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Consumers Power Company, <unitdate type="inclusive" normal="1937/1939">1937-1939</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ingham County Grand Jury, <unitdate type="inclusive" normal="1946/1952">1946-1952</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Jenkins honorary degree from the University of Michigan, <unitdate type="inclusive" normal="1951">1951</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bills passed by the Michigan legislature, <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan correctional institutions and prison riots, <unitdate type="inclusive" normal="1947/1952">1947-1952</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Bell Telephone Company, <unitdate type="inclusive" normal="1931/1936">1931-1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Liquor Control Commission, <unitdate type="inclusive" normal="1938/1940">1938-1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Frank Murphy, <unitdate type="inclusive" normal="1936/1942">1936-1942</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Blair Moody, <unitdate type="inclusive" normal="1951">1951</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Expense Accounts</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1937/1938">1937-1938</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1939/1940">1939-1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1945/1948">1945-1948</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1949/1952">1949-1952</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellanea, <unitdate type="inclusive" normal="1870/1948">1870-1948</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>Resolution of the Michigan State Senate commending Jenkins, <unitdate type="inclusive" normal="1951">1951</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc><descgrp type="add"><index><head>Selective Index to Correspondents</head>
+<indexentry><persname>Comstock, William Alfred, 1877-1949.</persname><ref><list type="simple"><item>Aug. 20 and 21, 1935, Aug. 28, 1937</item></list></ref></indexentry>
+<indexentry><persname>Farley, James A. (James Aloysius), 1888-1976.</persname><ref><list type="simple"><item>July 30, 1940 and Sept. 20, 1940</item></list></ref></indexentry>
+<indexentry><persname>Hannah, John A., 1902-</persname><ref><list type="simple"><item>Nov. 3, 1942, Dec. 21, 1942, Apr. 28, 1945, Feb. 21, 1950 and June 7, 1955</item></list></ref></indexentry>
+<indexentry><persname>Lawrence, Howard Cyrus, 1890-1961.</persname><ref><list type="simple"><item>1937, Oct. 7, 1938, Dec. 23, 1938, Aug. 11, 1939, Mar. 25, 1940, Apr. 1, 1940, May 14, 1940</item></list></ref></indexentry>
+<indexentry><persname>Murphy, Frank, 1890-1949.</persname><ref><list type="simple"><item>1936, Oct. 27, 1937, Nov. 9, 1938, 1939, Jan. 8, 1940, May 20, 1940, Aug. 25, 1941, Sept. 5, 1941 and Jan. 26, 1942</item></list></ref></indexentry>
+<indexentry><persname>Picard, Frank A., 1889-1963.</persname><ref><list type="simple"><item>Oct. 9, 1936, 1937, 1938, Jan. 28, 1939, Mar. 16, 1939, Aug. 25, 1939, Mar. 13, 1941, Apr. 21, 1942, Dec. 14, 1942, Jan. 20, 1943, Mar. 21, 1947</item></list></ref></indexentry>
+</index>
+ 
+</descgrp></archdesc>
+
+</ead>

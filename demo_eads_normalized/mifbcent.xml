@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::mifbcent.xml//EN" encodinganalog="Identifier">
+umich-bhl-85294</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Michigan Football Centennial Committee records, 1978-1981
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Avra Michelson </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>November 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-11-28</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Michigan Football Centennial Committee Records, 1978-1981</titleproper>
+
+<author>Finding aid created by<lb/> 
+Avra Michelson, March 1983</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Michigan Football Centennial Committee
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Michigan Football Centennial Committee records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1978-1981
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.8 linear feet 
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85294 Br 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Committee established to celebrate 100th anniversary of University of Michigan football; files relating to U-M football and to the work of the committee.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was received from the chairman of the committee, Paul Bigby (donor no. <num type="donor" encodinganalog="541$e">6508</num>) and came to the library in December 1982.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Michigan Football Centennial Committee records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The University of Michigan Football Centennial Committee was created August, 1978 to coordinate the activities associated with the 100th year celebration of University of Michigan football in 1979. George O. Hackett organized the first meeting and served as the Centennial Committee's initial chairman. After Hackett's June 1979 resignation, Paul Bigby replaced him as chairman and served in this capacity until the committee ceased functioning. Other executive committee members included Donald B. Canham, George R. Cavender, Robert G. Forman, Will Perry, and Michael Radock. Many alumni as well as Millie Schembechler participated in the nearly twenty ad hoc committees responsible for preparations.</p>
+
+<p>Celebratory activities were held throughout the 1979 football season. A Centennial Kick-off Banquet, Memorabilia Exhibit, and mock staging of University of Michigan's first football game (with Racine College, 1879) were some of the celebration activities. October homecoming was commemorated with a Go Blue Brunch and special parade. Updates on Michigan's All-American players were featured throughout the events, and souvenirs with the '100 years of UM football theme' were made available for purchase.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The records of the Michigan Football Centennial Committee measure 0.8 linear feet and document the life of the organization from August 7, 1978 to April 9, 1981. The record group has been arranged into two principle series of materials: papers concerning the history of UM football, and records of the Michigan Football Centennial Committee.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Anniversaries, etc.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Football.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan Football Centennial Committee.</corpname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Bigby, Paul.</persname>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>History of University of Michigan Football</unittitle></did><scopecontent><p>The first series - history of UM football - includes the booklet published by the Committee, <title render="italic">University of Michigan Football, 1879-1979</title>, as well as related articles, anecdotes, and miscellaneous items. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>University of Michigan Football, <unitdate type="inclusive" normal="1879/1979">1879-1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Racine College vs. Michigan, <unitdate type="inclusive" normal="1879">1879</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous (articles, anecdotes, etc.)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>University of Michigan Centennial Committee</unittitle></did><scopecontent><p>The second series - records of the Centennial Committee -includes correspondence, membership lists, planning reports, minutes, press releases, newsclippings, broadsides and ephemera, and other materials relating to the administration of the various program activities. Here are all items relevant to the organization and operation of the Committee, as well as those detailing program planning, fund raising, and public relations. The bulk of this series consists of correspondence among the executive committee members. This material is arranged into two chronological sequences: Hackett's papers while chairman, and organizational correspondence. Of special note is the final report of the committee, which is important because it summarizes the work and finances of the Michigan Football Centennial Committee. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Final Report, <unitdate type="inclusive">April 9, 1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership List</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Planning Reports, Agendas, and Minutes, <unitdate type="inclusive">circa October 1978-May 1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>George O. Hackett, Chairman</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">August 1978-March 1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">April 1979-June 1979</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1978">1978</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">February-June 1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">July-September 1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October-December 1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1980">1980</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Program Activities</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Centennial Kick-off Banquet, <unitdate type="inclusive">September 8, 1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Memorabilia Exhibit, <unitdate type="inclusive">September 8, 1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Go Blue Brunch, <unitdate type="inclusive">October 27, 1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>All-American Homecoming Parade, <unitdate type="inclusive">October 27, 1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Souvenir Book</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Related Materials</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Broadsides and Ephemera</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Marching Band participation</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Captains</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Greatest Fans</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Public Relations materials, <unitdate type="inclusive">March-October 1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Replies to first questionnaire</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>University of Michigan Centennial Fund</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

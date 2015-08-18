@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::bernstia.xml//EN" encodinganalog="identifier">umich-bhl-0225</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for I. A. Bernstein Papers <date>1950-1989</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Sarah Keen</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">February 2002</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Sarah Keen, <date>February 2002</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031001</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>2002-03-25</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>I. A. Bernstein Papers, <date type="inclusive">1950-1989</date></titleproper><author>Finding aid prepared by: <lb/>Sarah Keen</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Bernstein, I. A.</persname></origination>
+<unittitle encodinganalog="245">I. A. Bernstein Papers
+<unitdate type="inclusive" encodinganalog="245$f" normal="1950/1989">1950-1989</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1978/1989">1978-1989</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">1 linear ft.</extent></physdesc>
+<abstract>Biochemist; professor of biological chemistry at the University of Michigan. Bernstein had appointments in the school of public health and the medical school. Research and teaching files relate in part to his research involvement in the PBB investigations in Michigan in the 1970s; also course materials, personal and biographical information, correspondence, and photographs.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">0225 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>This collection was the gift of Claire Bernstein (donor no. <num type="donor" encodinganalog="541$e">9054</num>), I. A. Bernstein's wife and came to the library in 2001.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has not been transferred to the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., I. A. Bernstein Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Isadore A. Bernstein was born on December 23, 1919 in Clarksburg, West Virginia.  In 1941 he received his Bachelor of Arts degree from Johns Hopkins University.  He married Claire Bernstein in 1942 and they had two children, Lynne, born in 1949, and Amy, born in 1954.  From 1941 to 1946 Bernstein served in the U.S. Army in the Northern Pacific theatre.  Bernstein did his graduate work at Case Western Reserve University (CWRU) in Cleveland, Ohio, under the tutelage of Harland G. Wood.  Bernstein received his Ph.D. in biochemistry from the university in 1952.  For the next year, Bernstein remained at CWRU as a senior instructor in the department of biochemistry.</p>
+<p>In 1953 Bernstein came to the University of Michigan as a research associate at the Institute of Industrial Health in the School of Public Health, a position he held until 1956 and then again from 1959 to 1970.  Bernstein began teaching at the University in 1954 as an instructor of biological chemistry in the Department of Dermatology in the Medical School.  In 1957 he became an assistant professor in the same department and in 1961 was promoted to associate professor.  Also in 1961 Bernstein began teaching as an associate professor in the Department of Industrial Health in the School of Public Health, a position that he held until 1967 when he was promoted to professor.  A year later, Bernstein was also promoted to professor of biological chemistry in the Department of Dermatology in the Medical School.  In 1970 the Department of Industrial Health became the Department of Environmental and Industrial Health in the School of Public Health.  In 1971 a Department of Biological Chemistry was created in the Medical School, replacing Bernstein's previous appointment in the Department of Dermatology.</p>
+<p>Bernstein was involved with The Institute of Environmental and Industrial Health from 1970 to 1989, both as a research associate (1970-1978) and as the associate director for research (1978-1989).  From 1983 to 1987 he was the director of the Toxicology Program in the Department of Environmental and Industrial Health in the School of Public Health.  Bernstein retired from the University in 1990 as an active emeritus professor.</p>
+<p>Bernstein also had a number of other involvements at the University, the following of which are a select few.  From 1959 to 1971 he was on the Human Use of Radioisotopes Subcommittee of the University Radiation Policy Committee.  He was the program director for the United States Public Health Service Postdoctoral Research Training Grant in Environmental Biology, Epidermal Neo- and Hyperplasia, at the School of Public Health.  From 1962 to 1970 he sat on the Research Advisory Committee at the School of Public Health and was the chair from 1967 to 1970.  He was also on the Research Committee of the University of Michigan Cancer Research Institute.  From 1970 to 1984 Bernstein was the chairman of the University Radiation Policy Committee.</p>
+<p>Bernstein belonged to a variety of societies including: Sigma Xi, the American Chemical Society, the American Society for Microbiology, the American Institute for Biological Sciences, and the American Public Health Association.  He also received a number of honors including: the Stephen Rothman Memorial Award, Society for Investigative Dermatology in 1981; the Distinguished Faculty Achievement Award, University of Michigan in 1981; Kunsho, Order of the Rising Sun, Gold Rays and neck ribbon, Emperor and Government of Japan in 1989; and an appointment as an Honorary Professor of Kunming Medical College in China.</p>
+<p> In addition to authoring and co-authoring numerous articles and book chapters, Bernstein was also very involved in a number of activities outside of the University including the Society of Investigative Dermatology and the American Association of University Professors.  In 1976 he was chairman of Governor William Milliken's PBB Scientific Panel.  PBB (polybrominated biphenyl) is a fire retardant chemical that was accidentally mixed with cattle feed in the early 1970s and led to food contamination.  Bernstein was also the coordinator for the United States for the U.S. -- Japan Joint Seminar on Biochemistry of Epidermal Differentiation in 1976, 1979, 1982, and 1985 and a member of the National Environmental Health Science Council, NIEHS/NIH, 1984 to 1987.  Bernstein passed away on January 11, 1998.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>Isadore A. Bernstein's papers relate largely to his involvements with biochemistry and his teaching and research at the University of Michigan and abroad.  These interests are reflected both in his research files and his correspondence.  The collection is divided into three series: Research and Teaching, Personal and Biographical Information, and Correspondence.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><persname source="lcnaf" encodinganalog="600">Bernstein, I. A.</persname><subject source="lcsh" encodinganalog="650">Biochemistry--Study and teaching.</subject><subject source="lcsh" encodinganalog="650">Polybrominated biphenyls--Toxicology--Michigan.</subject><corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname></controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head><persname source="lcnaf" encodinganalog="600">Bernstein, I. A.</persname></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Research and Teaching</unittitle></did><scopecontent><p>The Research and Teaching series highlights some of Bernstein's more prominent research involvements such as PBB (polybrominated biphenyls) investigations during the 1970s when he was part of Michigan Governor Milliken's PBB Scientific Advisory Panel.  The course materials include overhead slides, articles, and notes that he used in teaching three different courses.</p></scopecontent>
+<c02 level="file"><did><unittitle>PBB</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Reports and Correspondence</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper Clippings, <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Public Hearing Transcript</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Research Materials</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Heart Research</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Published Articles and Chapters</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Papers</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Course Materials</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Unidentified Course</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Drug Metabolism</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Molecular mechanisms of environmental toxicology, <unitdate type="inclusive" normal="1984/1985">1984-1985</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Molecular mechanisms of environmental toxicology, <unitdate>undated</unitdate></unittitle></did></c03></c02></c01>
+<c01 level="series"><did><unittitle>Personal and Biographical Information</unittitle></did><scopecontent><p>The Personal and Biographical Information series includes army records (1941-1946); honors and awards and his curriculum vitae; and materials regarding his graduate school advisor Harland G. Wood.  This series also includes newspaper clippings largely relating to his activities at the University of Michigan, and personal and academic photographs.  Friends and colleagues created the Memorial Website to document Bernstein's achievements and involvements.  The retirement materials consist of a selection of letters from colleagues and friends presented to Bernstein on his retirement in 1990. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Army Records</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Honors and Awards</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>National Advisory Environmental Health Council</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Harland G. Wood</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper Clippings</unittitle></did></c02>
+<c02 level="file"><did><unittitle><genreform source="aat" encodinganalog="655" normal="Photographs">Photographs</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>U.S. -- Japan Symposium</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Memorial Website</unittitle><physdesc><physfacet>print-out</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Retirement Materials</unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did><scopecontent><p>The Correspondence series is largely from Bernstein' time at the University of Michigan.  The General correspondence is mainly about various awards and honors he received, including the Distinguished Faculty Award at the University of Michigan in 1981.  The Japan correspondence is comprised of application or support materials for his teaching in Japan; some of these are written in Japanese.  The China correspondence relates to Bernstein's trips to teach, lecture, and consult on research projects in China in 1983 and 1986.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive" normal="1960/1989">1960-1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Japan</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>China, <unitdate type="inclusive" normal="1982/1984">1982-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>China, <unitdate type="inclusive" normal="1985/1988">1985-1988</unitdate></unittitle></did></c02></c01></dsc></archdesc></ead>

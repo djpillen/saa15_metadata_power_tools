@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::willsfam.xml//EN" encodinganalog="Identifier">
+umich-bhl-86297</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Williams family papers, 1838-1953
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Thomas E. Powers (1972) and Christopher Leonard (1985) </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>August 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-08-28</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Williams family papers, 1838-1953</titleproper>
+
+<author>Finding aid created by<lb/> 
+Thomas E. Powers (1972) <lb/>Christopher Leonard (1985)</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<famname source="lcnaf" encodinganalog="100">
+Williams family.
+</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Williams family papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1838-1953
+</unitdate>
+
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86297 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+A. L. Williams family of Owosso, Michigan. Personal and business correspondence of A. L. Williams, Owosso, Michigan pioneer, railroad entrepreneur, and spiritualist; and personal letters of other members of the family, including May Williams Dewey, wife of E. O. Dewey (Thomas E. Dewey family); and miscellaneous newspaper clippings, business ledgers, and personal and business diaries concerning business affairs and daily activities; "spirit messages" received from departed family and others; also photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The Williams family collection was received in two accessions. The first was the gift of Mr. and Mrs. Sherman E. Welch (donor no. <num type="donor" encodinganalog="541$e">5174</num>) in 1971; the second was the gift of Jane E. McCormick (donor no. <num type="donor" encodinganalog="541$e">7144</num>) in 1984 and 2001.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Williams family papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The first member of the Williams family to come to Michigan was Oliver Williams (1774-1834). In 1808, Oliver, a native of Massachusetts, established a mercantile business at Detroit, trading supplies for furs. In 1815, he moved his family to Detroit and opened a hotel and boarding house called the Yankee. In 1819, Oliver moved to a site northwest of Pontiac, Michigan. It is said that the first school in the county was established in 1821 and operated out of his sheep shed.</p>
+
+<p>In 1838, two of Oliver's sons, Alfred Leonzo and Benjamin Oliver, bought land and became the first settlers of what was to become Owosso, Michigan.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Williams Family [Owosso] collection consists of 2 linear feet of material. It includes the personal and business papers of four generations of Williamses from 1838 to 1953. However, the bulk of the material relates to the family of Alfred Leonzo Williams between 1860 and 1890.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Agriculture--Michigan--Shiawassee County.</subject>
+<subject source="lcsh" encodinganalog="650">Business records.</subject>
+<persname source="lcnaf" encodinganalog="600">Dewey, Edmund Otis, 1861-1921.</persname>
+<famname source="lcnaf" encodinganalog="600">Dewey family.</famname>
+<geogname source="local" encodinganalog="691">Michigan--Social life and customs--1861-1870.</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Social life and customs--1871-1880.</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Social life and customs--1881-1890.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Olivet College.</corpname>
+<geogname source="lcsh" encodinganalog="651">Owosso (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Railroads--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">Shiawassee County (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Social life and customs--19th century.</geogname>
+<subject source="lcsh" encodinganalog="650">Spiritualists--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Owosso.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Log cabins.</subject>
+<corpname source="lcnaf" encodinganalog="610">Olivet College.</corpname>
+<persname source="lcnaf" encodinganalog="600">Williams, Alfred Leonzo, 1808-1886.</persname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Dewey, May Williams.</persname>
+<persname source="lcnaf" encodinganalog="700">Williams, Alfred Leonzo, 1808-1886.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Family papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Family History</unittitle></did><scopecontent><p>The Family History file contains several family histories and genealogical charts. The genealogy compiled by Ephraim S. Williams in 1877 is the most complete.</p></scopecontent></c02>
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did><scopecontent><p>The Correspondence is arranged chronologically. The earliest Correspondence, beginning in 1840, is mostly between Alfred and Benjamin, and their mother and brother Ephraim. Between 1860 and 1863, Alfred was usually away on railroad business. Thus, there is correspondence between him and his wife and children. Subjects include farm prices, prospects for the fall harvest, and family news. Especially interesting is his correspondence with son Schuyler. They discuss the outbreak of the Civil War, draft evaders in Detroit, and college life in Ann Arbor. Through the 1870s and 1880s, most of the correspondence is between Alfred's wife Harriet and their children who had married and moved away. It deals primarily with family news. However, other interesting correspondence in this period includes letters dealing with Alfred's 1885 application for a patent on his vapor bath and the courtship correspondence (1872-1873) of Emma Williams and William Kilpatrick, an Owosso attorney and later state senator. The correspondence of Florence (Flo) Kilpatrick, daughter of Emma and William, is also included. While attending Olivet College in the 1890's, she maintained a regular correspondence with Florence (Flossie) Ayers, a friend from Owosso. Their frequent letters covered a wide range of personal concerns and experiences.</p></scopecontent>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1840/1860">1840-1860</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1861/1865">1861-1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1866/1870">1866-1870</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1871/1874">1871-1874</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1875">1875</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1876/1878">1876-1878</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1879/1880">1879-1880</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1881/1882">1881-1882</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1883/1885">1883-1885</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1885">1885</unitdate> (A.L. Williams' patent)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1886/1890">1886-1890</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1891/1898">1891-1898</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1899/1953">1899-1953</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Miscellanea</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General (includes advertisements, business cards, and programs)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Personal (includes poems, stories, and drawings)</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper Clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Business Papers </unittitle> <physdesc><extent>12 folders</extent></physdesc></did><scopecontent><p>The business papers include receipts, routine business correspondence and deeds (including the original 1838 deed to Alfred Williams in Owosso). There are also title abstracts, account statements, loan forms, contracts, litigation (St. Nicholas Bank v. Alfred Williams, et al, 1862), and a stock certificate for 500 shares of the American Non-Explosive Boiler Attachment Company.</p></scopecontent></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Business Ledgers And <genreform normal="Diaries">Diaries</genreform> </unittitle> <physdesc><extent>13 vols.</extent></physdesc></did><scopecontent><p>The thirteen volumes of Business Ledgers and Diaries deal mostly with the business affairs of Alfred L. Williams.</p></scopecontent></c02>
+<c02 level="file"><did><unittitle>Printed</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> The Liverpool, London, and Paris Guide</title>, Guion Line Steamers,  <unitdate type="inclusive">ca. 1873</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Abury Illustrated</title>, William Long, <unitdate type="inclusive" normal="1858">1858</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did><scopecontent><p>The Photographs are of two general types. First, there are several photographs of Olivet College and its students in the 1890's. Second, there are three family photographs: a portrait of Alfred L. Williams, a portrait of an unnamed young girl, and an informal group shot in front of a farmhouse.</p></scopecontent></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Family correspondence, <unitdate type="inclusive" normal="1852/1881">1852-1881</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Spiritualist messages</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

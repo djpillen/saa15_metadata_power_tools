@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::robinsam.xml//EN" encodinganalog="identifier">
+umich-bhl-85373</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Samuel S. Robinson Papers, 1852-1888
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>May 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2014-12-26</date><item>Updated with new accession.</item></change><change><date>2006-05-10</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Samuel S. Robinson Papers, 1852-1888</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff, 1976</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Robinson, Samuel S. (Samuel Stillman), 1824-1904.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Samuel S. Robinson Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1852-1888
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot (8 volumes and 3 folders)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85373 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Mine manager in the American west and northern Michigan. Letterpress books containing business correspondence detailing his work with the Quincy Copper Mine in Hancock, Michigan, as superintendent of the Detroit Bridge and Iron Works, and in Georgetown, New Mexico, and Twin River, Nevada; also include miscellaneous letters, and partial calendar to the letterpress books.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Charles Lee (donor no. <num type="donor" encodinganalog="541$e">5864</num>) and came to the library in 1976.  
+The diary was received in 2014 from Robin B. McLeod (donor no. <num type="donor" encodinganalog="541$e">11187</num>).</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+No copyright restrictions
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Samuel S. Robinson Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>S. S. Robinson, a descendant of early New England colonists, was born in 1824 in New Hampshire, where as a young man he worked as a school teacher, stone mason, and bridge builder. Moving to the Upper Peninsula about 1850 [1853], he made himself a mining expert through study and experience. His first charge was the Sharon and Derby mine in present Gogebic County. From 1860 to 1865 he was manager of the Quincy mine near Hancock. He later operated silver mines in Nevada, Colorado, and New Mexico.</p>
+
+<p>Robinson's mining career was interspersed with periods of bridge building. As superintendent of the Detroit Bridge and Iron Works in the early 1870's, he constructed railroad bridges at St. Joseph, Missouri, Huntington, Indiana, Chicago, and elsewhere in the Middle West. He died on his farm at Pontiac in 1904.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists primarily of letterpress books recording copies of outgoing correspondence. There is a partial calendar to some of the letters compiled by a descendant, Arney Robinson Childs in 1964 and a diary written in 1852-1853 while living in New England, with the last entry noting his departure for Michigan. </p>
+
+<p>Many of the letters reflect the operations of his business enterprises and related matters--land speculation, dealing in mining stocks, the difficulties of procuring labor and supplies, shipping on the lakes, the almost insurmountable hardships of overland transportation into new country. But, since many of the letters are personal ones, they record much about the manners and customs of the day: in New England, where Robinson kept in touch with his childhood acquaintances; in the frontier west, described vividly in letters sent back east; and in Michigan, which remained home base for him and his family until his death on his farm at Pontiac in 1904.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Bridges.</subject>
+<subject source="lcsh" encodinganalog="650">Copper mines and mining--West (U.S.)</subject>
+<subject source="lcsh" encodinganalog="650">Copper mines and mining--Michigan--Upper Peninsula.</subject>
+<corpname source="lcnaf" encodinganalog="610">Detroit Bridge and Iron Works.</corpname>
+<geogname source="lcsh" encodinganalog="651">Hancock (Mich.).</geogname>
+<geogname source="lcsh" encodinganalog="651">Upper Peninsula (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Nevada.</geogname>
+<geogname source="lcsh" encodinganalog="651">New Mexico.</geogname>
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Letterpress books</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">June 4, 1862-January 4, 1864</unitdate> </unittitle> <physdesc><extent>300 pp.</extent></physdesc></did> <note><p>(Book A. Partial calendar, Quincy Mine, Hancock, Michigan; Powder journey and mail contract correspondence)</p></note></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive">September 15, 1863-June 1866</unitdate> </unittitle> <physdesc><extent>837 pages</extent></physdesc></did> <note><p>(original volume rebound into three parts)</p></note> <note><p>(Quincy Mine and other topics; Mail contract-correspondence and reports)</p></note>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Part 1 <unitdate type="inclusive">September 15, 1863-December 31, 1864</unitdate> </unittitle> <physdesc><extent>Pages 1-302</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Part 2 <unitdate type="inclusive">January 4, 1865-December 29, 1865</unitdate> </unittitle> <physdesc><extent>Pages 303-661</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Part 3 <unitdate type="inclusive">January 1, 1866-June 1866</unitdate> </unittitle> <physdesc><extent>Pages 662-837</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January 1868-August 1868</unitdate> </unittitle> <physdesc><extent>243 pages</extent></physdesc></did> <note><p>(Twin River, Nevada)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">August 1871-1877</unitdate> </unittitle> <physdesc><extent>291 pages</extent></physdesc></did> <note><p>(St. Joseph, Missouri-Detroit, Michigan;  Some wayside correspondence from various points;  Visit to Father Norton during his last illness, January 1875)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">June 1876-June 1878</unitdate> and <unitdate type="inclusive">December 8, 1888</unitdate> </unittitle></did> <note><p>(243 pages)</p></note> <note><p>(Book B. Partial calendar. Hayes election; Kansas City; Detroit Bridge &amp; Iron Works; Frank's trip to Texas in 1877)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">September 25, 1881-January 9, 1883</unitdate> </unittitle> <physdesc><extent>292 pages</extent></physdesc></did> <note><p>(Georgetown, New Mexico; family and social correspondence; some accounts of the murder of John Risque and John Stawson by Apaches; also April 22 or 23 letter to Hon. H.M. Teller, Secretary Interior, May 19, p109)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Related papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Diary, <unitdate type="inclusive" normal="1852/1853">1852-1853</unitdate></unittitle></did></c02>
+
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Partial calendar to the letterpress books</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous correspondence, <unitdate type="inclusive" normal="1858/1865">1858-1865</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

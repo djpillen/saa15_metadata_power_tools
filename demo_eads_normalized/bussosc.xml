@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::bussosc.xml//EN" encodinganalog="identifier">umich-bhl-0158</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Oscar Buss Photographs <date>ca. 1923-1950s</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by THomas E. Powers</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2001</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>October 2001</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031001</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>2001-10-23</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Oscar Buss Photographs, <date type="inclusive">ca. 1923-1950s</date></titleproper><author>Finding aid prepared by: <lb/>Thomas E. Powers</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Buss, Oscar F.</persname></origination>
+<unittitle encodinganalog="245">Oscar Buss Photographs
+<unitdate type="inclusive" encodinganalog="245$f">ca. 1923-1950s</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">ca. 700 photographs in 2 boxes</extent></physdesc>
+<abstract>Amateur photographer of Ann Arbor, Michigan, bookkeeper with the Symons Food Co. in Ann Arbor. Photographs taken highlighting Ann Arbor and University of Michigan views, notably football games, arrivals and departures at the train station, train wrecks, and other vehicular mishaps, graduation ceremonies, parades, and business and university buildings. Some photographs are of gatherings of the Ku Klux Klan in Jackson, Michigan and outside the city, 1920s.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">0158 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository encodinganalog="852"><corpname><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was donated by Allan and Linda Elsasser (donor no. <num type="donor" encodinganalog="541$e">9119</num>) in August 2001.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has not been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Oscar Buss Photographs, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>During his life, Oscar F. Buss worked as a bookkeeper with different Ann Arbor companies, one of them being Symons Food, a grocery retail company. Buss was also an amateur photographer who beginning in the early 1920s took hundreds of photographs documenting life and activities within the city of Ann Arbor, Michigan and at the University of Michigan.  In addition to views of the city and its buildings, Buss was present with his camera at numerous community events: parades, football games, commencements, building construction sites, comings and goings at the train station, and student activities.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The Buss photograph collection consists of approximately 700 prints dating from aproximately 1923 to the early 1950s.  The views are primarily relating to the University of Michigan and to Ann Arbor although there are also images of Detroit, Ypsilanti, and Jackson.  The bulk of the collection concerns University of Michigan events (commencements, football games and gameday activities, and student life) and buildings (standing or in the process of construction).  There are also numerous images of parades: patriotic, military, circus, etc.</p>
+<p>Of note are the several images that Buss took of members of the Ku-Klux-Klan walking together on a street in Jackson, Michigan, probably in the period of 1924-1928, and of a Klan gathering in an open field, perhaps near to Jackson.</p></scopecontent>
+
+<controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head><persname source="lcnaf" encodinganalog="600">Buss, Oscar F.</persname><subject source="lctgm" encodinganalog="650">Graduation ceremonies--Michigan--Ann Arbor.</subject><geogname source="lcsh" encodinganalog="651">Jackson (Mich.)</geogname><corpname source="lcnaf" encodinganalog="610">Ku Klux Klan (1915- )--Michigan--Jackson.</corpname><corpname source="lcnaf" encodinganalog="610">Majestic Theatre (Ann Arbor, Mich.)</corpname><subject source="lctgm" encodinganalog="650">Military parades and processions--Michigan--Ann Arbor.</subject><subject source="lctgm" encodinganalog="650">Laborers--Michigan--Ann Arbor.</subject><subject source="lctgm" encodinganalog="650">Railroad accidents--Michigan--Ann Arbor.</subject><subject source="lctgm" encodinganalog="650">Railroad stations--Michigan--Ann Arbor.</subject><subject source="lctgm" encodinganalog="650">Road construction--Michigan.</subject><corpname source="lcnaf" encodinganalog="610">University of Michigan--Buildings.</corpname><corpname source="lcnaf" encodinganalog="610">University of Michigan--Football.</corpname></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle><genreform source="aat" normal="Photographs">Photographic prints</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor buildings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor car/train disaster</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor various street views</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Detroit-Ann Arbor bus</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Detroit and miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ku-Klux-Klan in Jackson and surrounding (?) area</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Majestic Theater-Ann Arbor</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Central train station</unittitle><physdesc><extent>2 envelopes</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Parades</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miliary</unittitle><physdesc><extent>4 envelopes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Various (include circus)</unittitle><physdesc><extent>3 envelopes</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Planes, dirigibles</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Road-building (include African American laborers)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Roosevelt (Franklin) speaking on platform of train</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Storm (?) aftermath</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Symons Food Co. (employees and office)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Trains and train mishaps</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>U.S. 112 (now US 12)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Vehicular accidents</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Washtenaw County Fair, <unitdate type="inclusive" normal="1924">1924</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Yost, Fielding H</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ypsilanti centennary celebration, <unitdate type="inclusive" normal="1923">1923</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous and unidentified</unittitle><physdesc><extent>5 envelopes</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>University of Michgan</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Buildings (various)</unittitle><physdesc><extent>6 envelopes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Burton Tower</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Commencements</unittitle><physdesc><extent>3 envelopes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Football games and football gameday activities</unittitle><physdesc><extent>8 envelopes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Michigan Stadium</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Student activities (include Michigamua)</unittitle><physdesc><extent>4 envelopes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Yost Field House</unittitle></did></c03></c02></c01></dsc></archdesc></ead>

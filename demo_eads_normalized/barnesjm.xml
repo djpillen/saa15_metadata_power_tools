@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::barnesjm.xml//EN" encodinganalog="Identifier">
+umich-bhl-8835</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+J. Milton Barnes collection, 1972 and 1977-1980
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-11-24</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+J. Milton Barnes collection, 1972 and 1977-1980</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Barnes, J. Milton, 1894-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+J. Milton Barnes collection 
+<unitdate type="inclusive" encodinganalog="245$f">
+1972 and 1977-1980
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+12 sound cassettes and 1 volume
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8835 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Ypsilanti, Michigan newspaperman and local historian. Recorded reminiscences of the life and culture of Ypsilanti in period of ca. 1900-1910.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of J. Milton Barnes (donor no. <num type="donor" encodinganalog="541$e">5446</num>).  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the collection expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+J. Milton Barnes collection, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>J. Milton Barnes was a Ypsilanti newspaperman and local historian.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of sound cassettes with J. Milton Barnes reminiscing about life in Ypsilanti, Michigan during the late nineteenth and twentieth century. Topics covered include working at the Ypsilanti Press, the Opera House, the interurban train, the Barnhill Marching Band, and Michigan State Normal College (now Eastern Michigan University). The collection also includes a narrative reminiscences entitled Ypsilanti's Third Half Century covering the period from 1917 to ca. 1970.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Ypsilanti (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Ypsilanti (Mich.)--History.</geogname>
+<persname source="lcnaf" encodinganalog="600">Barnes, J. Milton, 1894-</persname>
+
+</controlaccess>
+
+
+
+<controlaccess><head>Subjects - Sound Recordings:</head>
+<persname source="lcnaf" encodinganalog="600">Barnes, J. Milton, 1894-</persname>
+<subject source="lcsh" encodinganalog="650">Bands (Music)--Michigan--Ypsilanti.</subject>
+<subject source="lcsh" encodinganalog="650">Street-railroads--Michigan--Ypsilanti.</subject>
+<corpname source="lcnaf" encodinganalog="610">Michigan State Normal College.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Barnhill Marching Band.</corpname>
+<geogname source="lcsh" encodinganalog="651">Ypsilanti (Mich.)--History.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Ypsilanti Opera House (Ypsilanti, Mich.)</corpname>
+<subject source="lcsh" encodinganalog="630">Ypsilanti press.</subject>
+
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Reminiscences</unittitle></did>
+<c02 level="file"><did><unittitle><genreform normal="Sound recordings">Sound cassettes</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Depot Town, <unitdate type="inclusive" normal="1979">1979</unitdate> </unittitle> <physdesc><extent>2 cassettes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ypsilanti in the horse era</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Story of the Stone Age of the Ypsilanti Press </unittitle> <physdesc><extent>2 cassettes</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan State Normal College</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Remembrance of trip in Lake Superior region of Canada (told by Barnes and Elsie Fisher Barnes)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Old parlor songs</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Barnhill Marching Band</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ypsilanti Opera House</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Stories of Ypsilanti Downtown Stores</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Sketch of Interurban Train in Ypsilanti, Mich.</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Volume entitled "Ypsilanti's Third Half Century"</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

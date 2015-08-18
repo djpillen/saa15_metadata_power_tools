@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::mccauley.xml//EN" encodinganalog="Identifier">
+umich-bhl-89498</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Dorothy McCauley papers
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Thomas E. Powers, August 1989 </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Paul Jordan, 
+<date>2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-04-13</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Dorothy McCauley Papers, 1961-1989</titleproper>
+
+<author>Finding aid created by<lb/> 
+Thomas E. Powers, August 1989</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Dorothy McCauley
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Dorothy McCauley papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1961-1989
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet (2 boxes)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+89498 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Newsletters and minutes of executive committee of the Dav-Joy-Lin-Dex Community Council; newsletters of area block clubs; files relating to her community and organizational involvement; published materials; and photographs.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+This collection was the gift of Mrs. Dorothy McCauley and the Dav-Joy-Lin-Dex Community Council, June 13, 1989. (Donor no. <num type="donor" encodinganalog="541$e">7697</num>). 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Dorothy McCauley papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Dorothy McCauley, long-time resident of Detroit, Michigan, was organizer and executive director of the Dav-Joy-Lin-Dex Community Council, an association of businesses, church and school leaders, and block clubs in the area bounded by Davison, Joy, Linwood, and Dexter in northwest Detroit. Founded in 1961, the Dav-Joy-Lin-Dex Community Council is a "non-partisan, civic organization dedicated to maintaining, improving and developing the area as a better place to live." The Council has involved itself with youth, senior citizen, recreation, health, welfare, education, and other local and civic programs. The Council has been especially concerned with matters of home improvement and neighborhood development. With money received from the city of Detroit's Neighborhood Opportunity Fund, McCauley as head of the Council's Non-Profit Housing Corporation worked to coordinate the screening and contracting of senior citizen home repairs. McCauley was ever vigilant about the kinds of businesses wanting to operate in her neighborhood, using the influence of the Council to circulate petitions addressed to Detroit Common Council urging them to deny requests of individuals wanting to establish arcades, a methadone treatment center, and other "seedy, slum-inducing businesses" that had been uprooted from the city's downtown because of urban renewal.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The McCauley collection consists of the records of the Dav-Joy-Lin-Dex Community Council but including as well files documenting McCauley's other community activities. Of most importance in understanding the work of the Council are its <title render="italic">News Bulletins</title> which date from 1960 to 1989. In addition to neighborhood news, the bulletins included notes about city government, particularly as they related to this local neighborhood. The <title render="italic">News Bulletins</title> were also the place where McCauley informed the community about the Council's various petition drives.</p>
+
+<p>As executive secretary of the Council, McCauley wanted her group to act as a clearinghouse of information about matters of neighborhood concern. Her collection reflects this interest. Besides material about the Council, McCauley also preserved records about the various block clubs that made up the Council. The great bulk of these relate to the Dexter-Elmhurst Advisory Board, but there are also newsletters for the Glynn Court Block Club and the Calvert Civic Block Club.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Citizens' associations--Michigan--Detroit.</subject>
+<corpname source="lcnaf" encodinganalog="610">Dav-Joy-Lin-Dex Community Council (Detroit, Mich.)</corpname>
+<geogname source="lcsh" encodinganalog="651">Detroit (Mich.)</geogname>
+<persname source="lcnaf" encodinganalog="600">McCauley, Dorothy.</persname>
+<subject source="lcsh" encodinganalog="650">African Americans--Michigan--Detroit.</subject>
+<subject source="lctgm" encodinganalog="650">Children.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects-Visual Material:</head>
+
+<subject source="lcsh" encodinganalog="650">African Americans--Michigan--Detroit.</subject>
+<subject source="lctgm" encodinganalog="650">Children.</subject>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Biographical material</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical material</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Dav-Joy-Lin-Dex Community Council</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution and bylaws and descriptive information</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Executive Board and Council minutes</unittitle></did></c02>
+<c02 level="file"><did><unittitle>News Bulletins</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1960/1969">1960-1969</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1970/1974">1970-1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1975/1979">1975-1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1980/1989">1980-1989</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Fragments</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Petitions to Detroit City Council (and other city agencies)</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Chronological file</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1961/1969">1961-1969</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1970/1979">1970-1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1980/1989">1980-1989</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Administrative miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dav-Joy-Lin-Dex Non-profit Housing Corporation </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Topical Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>All Sales Advisory Committee</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Block Clubs</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Calvert City Block Club</unittitle></did></c03>
+<c03 level="file"><did><unittitle>Dexter Elmhurst Community Advisory Board</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Agendas</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Minutes,<unitdate type="inclusive" normal="1978/1989">1978-1989</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Glynn Court Block Club</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Community Screening Committee</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Detroit Association of Black Organizations</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Kirwood General Hospital</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Metropolitan Detroit Anti-Crime Coalition</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Police-community relations</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Published materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Published materials</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Photographs</unittitle></did>
+<scopecontent><p>The  photographs series consist of  a folder of color snapshots of African American children in Detroit, Michigan, and a neighborhood youth center.</p></scopecontent><c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Photographs</unittitle></did></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

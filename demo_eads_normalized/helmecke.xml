@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::helmecke.xml//EN" encodinganalog="Identifier">
+umich-bhl-861026</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Helmecke family papers, 1908-1913
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-01-08</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Helmecke family papers, 1908-1913</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<famname source="lcnaf" encodinganalog="100">
+Helmecke family.
+</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Helmecke family papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1908-1913
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+861026 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Helmecke family of Grand Rapids, Michigan. Letters from Carl Albert Helmecke and his sister Marie Gertrud Helmecke while students at the University of Michigan; and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Mrs. Carl A. Helmecke (donor no. <num type="donor" encodinganalog="541$e">7135</num>).  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Helmecke family papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Helmecke family of Grand Rapids had two members who attended the University of Michigan. Carl Albert Helmecke was a 1912 graduate of the College of LS&amp;A. He received his master's degree in 1913. His sister, Marie Gertrud Helmecke received her A.B. degree in 1914.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists primarily of letters (in German) written to family and friends from Carl A. Helmeck and his sister Marie Gertrud Helmecke while attending the University of Michigan. The letters of Carl Helmecke date from 1908 to 1913 and include some letters written while attending a summer class in Dijon, France in 1911 and while employed as a tutor in Florida in 1913. The collection also includes some photographs and memorabilia from the period when attending the University.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Deutscher Verein (University of Michigan).</corpname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Grand Rapids.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Cercle Français.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Correspondence.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1901-1910.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1911-1920.</corpname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<persname source="lcnaf" encodinganalog="600">Helmecke, Carl Albert.</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Cross Country Club.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Engineering. Class of 1912.</corpname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Helmecke, Carl Albert.</persname>
+<persname source="lcnaf" encodinganalog="700">Helmecke, Marie Gertrud.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><unittitle>Carl Albert Helmecke</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1908/1912">1908-1912</unitdate> </unittitle></did> <note><p>(52 letters written while a student at the University of Michigan)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">July-August 1911</unitdate> </unittitle></did> <note><p>(13 letters regarding summer term at Dijon, France)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-April 1913</unitdate> </unittitle></did> <note><p>(16 letters written while tutoring a wealthy young man in Florida)</p></note></c03></c02>
+<c02 level="file"><did><unittitle>Marie Gertrud Helmecke</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1911/1912">1911-1912</unitdate> </unittitle></did> <note><p>(ca. 70 letters written while a student at the University of Michigan)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1913/1914">1913-1914</unitdate> </unittitle></did> <note><p>(ca. 70 letters written while a student at the University of Michigan)</p></note></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Memorabilia and <genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photograph of Carl Helmecke, <unitdate type="inclusive" normal="1913">1913</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Postcards of University of Michigan, Country Club, <unitdate type="inclusive">1908/09</unitdate> and Engineering Class of <unitdate type="inclusive" normal="1912">1912</unitdate> taken in <unitdate type="inclusive" normal="1908">1908</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Anthropometric charts</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>YMCA handbook</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Cloth flag with numerals "47" in University of Michigan colors</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership cards</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

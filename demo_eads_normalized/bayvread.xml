@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::bayvread.xml//EN" encodinganalog="Identifier">
+umich-bhl-299141</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Books published for the use of the Bay View Reading Club, 1887-1914
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Library </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-12-19</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Books published for the use of the Bay View Reading Club, 1887-1914</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Bay View Reading Club.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Books published for the use of the Bay View Reading Club 
+<unitdate type="inclusive" encodinganalog="245$f">
+1887-1914
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">2009141 Aa 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The provenance of this collection is unknown.
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the collection are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Books published for the use of the Bay View Reading Club, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Bay View Reading Club was a program of the Bay View Association. Also known as the Bay View Reading Circle, the club flourished in the period of 1893-1921.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>This is a collection of books published for the use of the Bay View Reading Club. The books have been listed alphabetically by author.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Group reading--Michigan.</subject>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Books published for the use of the Bay View Reading Club </unittitle></did> <c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Boulger, Demetrious C. <title render="italic">Belgium</title>. <date>1913</date></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bryce, James. <title render="italic">South America: Observations and Impressions</title>. <date>1912</date> (Macmillan)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Carson, W. E. <title render="italic">Mexico: The Wonderland of the South</title>. <date>1913</date> (Macmillan)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clough, Ethlyn T., ed. <title render="italic">Africa: An Account of Past and Contemporary Conditions and Progress</title>. <date>1911</date></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clough, Ethlyn T., <title render="italic">Norwegian Life: An Account of Past and Contemporary Conditions and Progress in Norway and Sweden</title>. <date>1909</date></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clough, Ethlyn T., <title render="italic">Oriental Life: An Account of Past and Contemporary Conditions and Progress in Asia, Excepting China, India and Japan</title>. <date>1910</date></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clough, Ethlyn T., <title render="italic">South American Life: An Account of Past and Contemporary Conditions and Progress in South America</title>. <date>1912</date></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Compton, Herbert. <title render="italic">Indian Life in Town and Country</title>. <date>1904</date> (Putnam's )</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dowden, Edward. <title render="italic">A History of French Literature</title>. <date>1898</date> (Appleton)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Griffis, William Elliot. <title render="italic">Brave Little Holland, and What She Has Taught Us</title>. Revised ed. <date>1894</date> (Houghton Mifflin)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hall, John M., ed. <title render="italic">England: An Account of Past and Contemporary Conditions and Progress</title>. <date>1906</date></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hall, John M., ed. <title render="italic">England: An Account of Past and Contemporary Conditions and Progress</title>. Reprint. <date>1914</date></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hall, John M., <title render="italic">Greek Life</title>. <date>1908</date></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hall, John M., <title render="italic">United States</title>. <date>1907</date></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hawtrey, Mrs. H.C. <title render="italic">A Short History of Germany</title>. <date>1913</date></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Higgin, L. <title render="italic">Spanish Life in Town and Country</title>. <date>1902</date> (Putnam's)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hoppin, James M. <title render="italic">Old England</title>. <date>1900</date> (Houghton Mifflin)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lummis, Charles F. <title render="italic">The Awakening of a Nation: Mexico of Today. </title> <date>1902</date> (Harper)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Martin, W.A.P. <title render="italic">The Awakening of China</title>. <date>1910</date> (Doubleday, Page)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Palmer, Francis H.E. <title render="italic">Austro-Hungarian Life in Town and Country</title>. <date>1903</date> (Putnam's)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Parmalee, Mary Platt. <title render="italic">Evolution of an Empire: A Brief Historical Sketch of the United States</title>. <date>1896</date> (Harison)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Parmalee, Mary Platt. <title render="italic">A Short History of France</title>. <date>1905</date> (Scribner's)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Parmalee, Mary Platt. <title render="italic">A Short History of France</title>. Revised ed. <date>1908</date> (Scribner's)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Parmalee, Mary Platt. <title render="italic">A Short History of Germany</title>. <date>1897</date> (Harison)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Parmalee, Mary Platt. <title render="italic">A Short History of Rome and Italy</title>. <date>1901</date> (Scribner's)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Parmalee, Mary Platt. <title render="italic">A Short History of Rome and Italy</title>. <date>1908</date> (Scribner's)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Parmalee, Mary Platt. <title render="italic">A Short History of Russia</title>. <date>1899</date> (Continental) </unittitle><physdesc><extent>2 copies</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Parmalee, Mary Platt. <title render="italic">The Story of Spain Briefly Told</title>. <date>1898</date> (Continental)</unittitle><physdesc><extent>3 copies</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Parry, Emma Louise. <title render="italic">Life Among the Germans</title>. <date>1887</date> (Lathrop)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Stoddard, Charles Augustus. <title render="italic">Across Russia: From the Baltic to the Danube</title>. <date>1891</date> (Scribner's)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Witt, Robert Clermont. <title render="italic">How to Look at Pictures</title>. <date>1905</date></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

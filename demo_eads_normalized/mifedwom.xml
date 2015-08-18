@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::mifedwom.xml//EN" encodinganalog="Identifier">
+umich-bhl-851874</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Michigan State Federation of Women’s Clubs records, 1896-1957
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>April 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-04-03</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Michigan State Federation of Women’s Clubs records, 1896-1957</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Michigan State Federation of Women’s Clubs.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Michigan State Federation of Women’s Clubs records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1896-1957
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851874 Bk.W 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>State-wide organization ccordinating some acitvites of local Women's Club; records include
+correspondence, reports and minutes of meetings.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was the gift of Mrs. George Hunter (donor no. <num type="donor" encodinganalog="541$e">3371</num>) and came to the library in 1959.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Michigan State Federation of Women’s Clubs records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>In 1895, delegates from local women's clubs from throughout the state met in an organization convention to form the Michigan State Federation of Women's Clubs. The purpose of the organization then was to cooperate on those issues which were common to most of the state's women's clubs and to provide guidance to newly formed local groups.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The records of the organization relate primarily to the formative years of the Federation, the late 1890s to approximately 1920. Included are secretary's records and reports, correspondence, and committee materials.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Societies and clubs.</subject>
+<corpname source="lcnaf" encodinganalog="610">Michigan State Federation of Women's Clubs.</corpname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Organizational records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers, <unitdate type="inclusive">undated</unitdate> and <unitdate type="inclusive" normal="1896/1957">1896-1957</unitdate> </unittitle> <physdesc><extent>18 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Corresponding Secretary's Reports, <unitdate type="inclusive" normal="1899/1904">1899-1904</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Corresponding Secretary's Reports, <unitdate type="inclusive" normal="1905/1914">1905-1914</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Committee on Education Reports, <unitdate type="inclusive" normal="1898/1905">1898-1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legislative Committee Reports, <unitdate type="inclusive" normal="1898/1905">1898-1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Board of Managers Reports, <unitdate type="inclusive" normal="1898/1907">1898-1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Recording Secretary's Reports, <unitdate type="inclusive" normal="1898/1903">1898-1903</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Badge Pin Committee Reports, <unitdate type="inclusive" normal="1899/1907">1899-1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lucinda H. Stone Memorial Scholarship, <unitdate type="inclusive" normal="1904/1908">1904-1908</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>State Convention Registration Lists, <unitdate type="inclusive" normal="1901/1911">1901-1911</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fifty Year History of the club, <unitdate type="inclusive" normal="1946">1946</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notebook:  include minutes and annual reports, <unitdate type="inclusive" normal="1941/1943">1941-1943</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Record book of the Corresponding Secretary, <unitdate type="inclusive" normal="1896/1899">1896-1899</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Record book containing memoranda of correspondence and disposition of material, <unitdate type="inclusive" normal="1910/1914">1910-1914</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Record book containing memoranda of correspondence and disposition of material, <unitdate type="inclusive" normal="1914/1926">1914-1926</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Record book of papers and materials loaned, <unitdate type="inclusive" normal="1916/1921">1916-1921</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Record book of material and correspondence received, <unitdate type="inclusive" normal="1914/1919">1914-1919</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::hydeww.xml//EN" encodinganalog="identifier">
+umich-bhl-851491
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Wesley W. Hyde Papers, 1902-1913
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>April 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050420</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Wesley W. Hyde Papers, 1902-1913</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff, 1970</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Hyde, Wesley W.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Wesley W. Hyde papers,  
+<unitdate type="inclusive" encodinganalog="245$f">
+1902-1913
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+851491 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Grand Rapids, Michigan, attorney, member of the Michigan Commission on Uniform Legislation, and organizer of the Civic Club of Grand Rapids. Correspondence, speeches, articles and legal documents relating to his interest in municipal reform. 
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Beal B. Hyde (donor no. <num type="donor" encodinganalog="541$e">4842</num>) and came to the library in 1970. Additional material came from Alexander P. Hyde, MD (donor no. <num type="donor" encodinganalog="541$e">9570</num>) in 2005. 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Wesley W. Hyde Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Wesley Hyde was born in Macomb County, Michigan, then moved with his parents to Kent County in 1860.  He studied law in his father's office.  In August 1875, he was appointed deputy county clerk, then becoming county clerk in 1876 where he served until 1880.  Hyde was admitted to the bar in 1877 and began the practice of law in his father's office, subsequently forming partnerships with John W, Stone, then J. Edward Earle, and Edwin F. Uhl.</p>
+<p>In 1899, he was appointed member of the State Board of Law Examiners, serving as that body's secretary.  In 1903, he was appointed a member of the Michigan Commission on Uniform Legislation.</p>
+<p>In 1901, he was one of the organizers of the Civic Club of Grand Rapids.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520"><p>The Hyde collection is arranged into two series: Correspondence and other Personal Papers; and Speeches and Writings.  The collection contains little relating to his legal or other public activities.  Much of the correspondence concerns his efforts to have published his volume entitled "Social Guides." His speeches pertain to issues of good government and Grand Rapids municipal reform.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Church and social problems--Michigan.</subject><corpname source="lcnaf" encodinganalog="610">Civic Club of Grand Rapids (Mich.)</corpname>
+<geogname source="lcsh" encodinganalog="651">Grand Rapids (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Lawyers--Michigan--Grand Rapids.</subject>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Commission on Uniform Legislation.</corpname>
+<subject source="lcsh" encodinganalog="650">Social reformers--Michigan--Grand Rapids.</subject>
+<subject source="lcsh" encodinganalog="650">Strikes and lockouts--Michigan.</subject>
+
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Ballinger, Richard Achilles, 1858-1922.</persname>
+<persname source="lcnaf" encodinganalog="700">Cooley, Charles Horton, 1864-1929.</persname>
+<persname source="lcnaf" encodinganalog="700">James, William, 1842-1910.</persname>
+<persname source="lcnaf" encodinganalog="700">Parmelee, Maurice, 1882-1969.</persname>
+<persname source="lcnaf" encodinganalog="700">Pound, Roscoe, 1870-1964.</persname>
+<persname source="lcnaf" encodinganalog="700">Small, Albion Woodbury, 1854-1926.</persname>
+<persname source="lcnaf" encodinganalog="700">Wilcox, Delos F. (Delos Franklin), 1873-1928.</persname>
+<persname source="lcnaf" encodinganalog="700">Willoughby, Westel Woodbury, 1867-1945.</persname>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence and other Personal Papers</unittitle></did>
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1894/1910">1894-1910</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1911/1913">1911-1913</unitdate>  and <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legal documents</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Commissions</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Genealogy</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings</unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Speeches and writings</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General</unittitle><physdesc><extent>7 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Can We Divorce Municipal Government from National Party Politics?" <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Private Property in Land" <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"History and Development of Social Science" <unitdate type="inclusive">September 8, 1897</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Autobiography of Andrew Dixon White" read before University Club of Grand Rapids, <unitdate type="inclusive">February 23, 1906</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Municipal Ownership" read before class in Applied Christianity, Fountain Street Baptist Church, <unitdate type="inclusive">December 1906</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Is the Influence of Newspapers and Periodicals Greater for Good or Evil" read before a social science class in the Westminster Presbyterian Church, <unitdate type="inclusive">Spring 1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Workmen's Compensation Act" <unitdate type="inclusive">May 18, 1911</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Manuscript of unpublished volume entitled "Social Guides"</unittitle></did></c02></c01>
+
+
+</dsc><descgrp type="add"><index><head>Partial Index to Correspondence</head>
+<indexentry><persname>Ballinger, Richard Achilles, 1858-1922.</persname>
+<ref><list type="simple"><item>March 11, 1911</item></list></ref></indexentry>
+<indexentry><persname>Cooley, Charles Horton, 1864-1929.</persname>
+<ref><list type="simple"><item>June 9, 1909, June 17, 1909, July 5, 1909</item></list></ref></indexentry>
+<indexentry><persname>James, William, 1842-1910.</persname>
+<ref><list type="simple"><item>May 17, 1909</item></list></ref></indexentry>
+<indexentry><persname>Parmelee, Maurice, 1882-1969.</persname>
+<ref><list type="simple"><item>March 6, 1913</item></list></ref></indexentry>
+<indexentry><persname>Pound, Roscoe, 1870-1964.</persname>
+<ref><list type="simple"><item>February 25, 1913</item></list></ref></indexentry>
+<indexentry><persname>Small, Albion Woodbury, 1854-1926</persname>
+<ref><list type="simple"><item>January 7, 1910, December 24, 1910, December 31, 1910, January 9, 1911, January 12, 1911</item></list></ref></indexentry>
+<indexentry><persname>Wilcox, Delos F. (Delos Franklin), 1873-1928.</persname>
+<ref><list type="simple"><item>February 15, 1909, September 7, 1909</item></list></ref></indexentry>
+<indexentry><persname>Willoughby, Westel Woodbury, 1867-1945.</persname>
+<ref><list type="simple"><item>July 22, 1911</item></list></ref></indexentry>
+</index> 
+ 
+</descgrp></archdesc>
+
+</ead>

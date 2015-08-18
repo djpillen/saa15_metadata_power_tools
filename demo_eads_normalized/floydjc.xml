@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::floydjc.xml//EN" encodinganalog="identifier">
+umich-bhl-921123</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+John C. Floyd Papers, 1960-1978
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Paula Jabloner </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>May 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-05-10</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+John C. Floyd Papers, 1960-1978</titleproper>
+
+<author>Finding aid created by<lb/> 
+Paula Jabloner, January 1991</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Floyd, John C., 1927-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+John C. Floyd Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1960-1978
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+921123 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of internal medicine at the University of Michigan. Laboratory workbooks on diabetology and endocrinology from 1960 to 1978.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of John C. Floyd (Donor no. <num type="donor" encodinganalog="541$e">7876</num>) and came to the library in November 1990.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+John C. Floyd Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>John C. Floyd was born on July 3, 1927 in Olla, Louisiana.  He received his undergraduate degree in chemistry from Louisiana State University in 1949.  He also received his M.D. from the same university in 1954.  In 1958, John C. Floyd came to the University of Michigan Medical School as an instructor in internal medicine.  From 1959 until 1960, he was instructor of internal medicine at Louisiana State University School of Medicine.  In 1960 Floyd returned to the University of Michigan as assistant professor of internal medicine.  From 1964 to 1970 he was an associate professor at the medical school.  Floyd has been a professor of internal medicine at the University of Michigan since 1970.  Additionally, Floyd served as director of the Diabetes Care Unit at the University of Michigan Medical School from 1977 to 1986.</p>
+
+<p>John C. Floyd's major areas of research are diabetology and endocrinology.  He is a member of the American Diabetes Association serving on the board of directors from 1974 to 1980.  He has written numerous articles. For a complete listing of published articles and professional activities please consult the very inclusive curriculum vitae in folder 1, box 1.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The collection consists primarily of laboratory workbooks of various experiments conducted between 1960 and 1978.  The workbooks concern such subjects as the iodination of insulin, the immunization of guinea pigs, and the immuno assay of insulin.</p>
+
+<p>A second set of workbooks concern the growth hormone.  Unfortunately workbooks 4-8 are missing from this set.  The third sequence of workbooks relate to insulin radioiodination.</p>
+
+<p>Additionally, the collection includes experimental notes on glucagon radioiodination and gastrin iodination.  The last workbook consists of quality control estimates for the HPP assay.   There is also one folder of unidentified results from 1962.  For a fuller understanding of the results of the assays, please consult the curriculum vitae for published articles on these topics.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Endocrinology.</subject>
+<persname source="lcnaf" encodinganalog="600">Floyd, John C., 1927-</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Internal Medicine.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Medical school.</corpname>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Biographical</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Curriculum Vitae</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Laboratory workbooks</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Experiments re Insulin/Immuno Assay Data, <unitdate type="inclusive" normal="1960/1963">1960-1963</unitdate> </unittitle> <physdesc><extent>6 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Experiments re Insulin Iodination Data, <unitdate type="inclusive" normal="1962/1965">1962-1965</unitdate> </unittitle> <physdesc><extent>4 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Experiments re Growth Hormone, <unitdate type="inclusive" normal="1963/1967">1963-1967</unitdate> </unittitle> <physdesc><extent>4 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Experiments re Insulin Radioiodination, <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate> </unittitle> <physdesc><extent>2 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Experiments re Glucagon Radioiodinations, <unitdate normal="1967/1970">1967-1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Experiments re Gastrin Iodinations, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Experiments re Quality Control/HPP Assays, <unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Unlabeled experimental data, <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

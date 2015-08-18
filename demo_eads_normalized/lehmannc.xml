@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::lehmannc.xml//EN" encodinganalog="Identifier">
+umich-bhl-861093</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Charles Frederick Lehmann papers, 1953-1987
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Library staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-01-05</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Charles Frederick Lehmann papers, 1953-1987</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Library staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Lehmann, Charles Frederick, 1922-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Charles Frederick Lehmann papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1953-1987
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+4 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+861093 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of education at the University of Michigan. Files relating to his University activities, especially the Senate Advisory Committee on University Affairs, and to his participation on various University committees.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Charles Lehmann (donor no. <num type="donor" encodinganalog="541$e">6790</num>) and came to the library in different accessions.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Charles Frederick Lehmann papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Charles F. Lehmann was a native of Bluffton, Ohio.  He received his A.B. degree from the University of Michigan in 1948.  He continued his education at the University, earning his A.M. degree in history in 1955 and his Ph.D. degree in education in 1957.  He served as a supervising teacher at University High School in Ann Arbor in 1948; an assistant professor at Northern Michigan College of Education in Marquette from 1948 to 1950; and a consultant in school organization and plant at the Department of Public Instruction in Lansing from 1950 to 1952.  In 1953, he was invited to direct a research project at The University of Michigan sponsored by the Midwest Administration Center at the University of Chicago and funded by the Kellogg Foundation.</p>
+
+<p>Lehmann joined The University of Michigan faculty in 1955 as a lecturer in the School of Education.  He was named assistant professor and assistant dean of the School of Education in 1957; he was promoted to associate professor in 1959 and to professor and associate dean in 1963.</p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Charles Lehmann papers relate to his University of Michigan activities and responsibilities. Many of the files pertain to his participation on the Senate Advisory Committee on University Affairs and his work as associate dean of the School of Education.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. School of Education.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Senate. Advisory Committee on University Affairs.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence files</unittitle></did>
+<c02 level="file"><did><unittitle>Intra University</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1956/1959">1956-1959</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Personal and Professional Correspondence (early career)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1953/1954">1953-1954</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1957/1960">1957-1960</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Associate Dean Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1964">1964</unitdate> (A-Z) </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate> (A-Z) </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate> (A-B)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate> (C-Z) </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Personal and Professional Correspondence (later career)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1970/1987">1970-1987</unitdate> </unittitle> <physdesc><extent>19 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>University Administrators and Colleagues</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Barker, Kenneth</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Barnard, Ruth</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Berger, Carl</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Bertolaet, Frederick</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Biddle, Bruce</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Cohen, Wilbur</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Davidge, Lyn</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Fleming, Robben W.</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Frye, Billy</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Rhodes, Frank</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Rubin, Norman</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Shapiro, Harold</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Smith, Allan</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Stark, Joan</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>General Topical File</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Center for the Continuing Education of Women</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Dicken School</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Geography Dept. discontinuance</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Institute for Human Adjustment, <unitdate type="inclusive" normal="1966/1968">1966-1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Plant Operation Review</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Public Instruction, Dept. of, <unitdate type="inclusive" normal="1953/1957">1953-1957</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Saturday Seminar Series </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>School of Education Appraisal Committee</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Senate Advisory Committee on University Affairs </unittitle></did> <note><p>(include Senate Assembly activities)</p></note>
+<c02 level="file"><did><unittitle>Meeting Files</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive" normal="1975">1975</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive" normal="1976">1976</unitdate> </unittitle> <physdesc><extent>9 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive" normal="1977">1977</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive" normal="1977">1977</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive" normal="1978">1978</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>Topical Files</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Academic Affairs Advisory Committee, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Committee on Economic Status of the Faculty </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Dearborn Meeting, <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Faculty Handbook, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Miscellaneous</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Nominating Committee, <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Rules and Organization of the University Senate</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle>Senate Assembly </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><unittitle>Tenure, <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle></did></c03></c02></c01> 
+
+</dsc></archdesc>
+
+</ead>

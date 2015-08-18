@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::mcfarlan.xml//EN" encodinganalog="Identifier">
+umich-bhl-85295</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+James H. McFarlan Papers, 1881-1924
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Helmi Raaska </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2006">
+2006</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>June 2006</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2006-06-12</date>
+        <item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+James H. McFarlan Papers, 1881-1924</titleproper>
+      <author>Finding aid created by<lb/> 
+Helmi Raaska, January 1984</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <persname source="lcnaf" encodinganalog="100">
+McFarlan, James H. (James Hoyt)
+</persname>
+      </origination>
+      <unittitle encodinganalog="245">
+James H. McFarlan Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1881-1924
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+2 linear ft. (12 volumes) and 1 oversize volume
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85295 Aa 2; AC
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+1876 graduate of the University of Michigan, later teacher in Linden, Mich., homesteader in Windsor (later known as White Lake), Dakota Territory, and lawyer in Flint, Mich. Diary includes reminiscences of student activities at the University of Michigan; extensive description of homesteading (Aug. 1881-Mar. 1882 and Apr.-May 1883); and briefer descriptions of teaching. Collection also includes scattered financial records of the Flint Land Company; letterpress books, 1897-1902, of correspondence relating primarily to his law practice and to the dealings of the Flint Land Company.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload"/>
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection came to the library in two accessions.  The bulk of the collection was donated by Mrs. Shirley Stevens (donor no. <num type="donor" encodinganalog="541$e">6997</num>) in November 1983.  The diary was donated by Linda Winkelhaus Gordon (donor no. <num type="donor" encodinganalog="541$e">8312</num>) in November 1994.  
+</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+No copyright restrictions
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+James H. McFarlan Papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>James Hoyt McFarlan received a B.S. degree from the University of Michigan in 1876. After teaching in several Michigan communities he moved to Windsor, Dakota Territory (later known as White Lake) in Aug. 1881 as a homesteader. He returned to Linden, Mich. the following March, after proving his claim. He made another trip to White Lake in 1883 to buy and sell land, returning again to Michigan. In 1884 McFarlan became a lawyer, settling eventually in Flint, Mich. He practiced law in Flint individually and in partnership with George D. Williams and Guy M. Wilson, and was also a partner in the Flint Land Company, Ltd.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The collections includes a diary, financial materials, and letterpress books.  The diary, 1881-1885, includes a reminiscence of McFarlan's student activities at the University of Michigan, an extensive description of his 1881-1882 homesteading experience, and briefer descriptions of his teaching experiences in Linden, Mich. and other communities. The financial materials concerns his business activities in Flint, Mich. Included are a daybook (1899-1903) and journal (1914-1924) of the Flint Land Company. The letterpress books (1897-1902) contain copies of correspondence relating to his law practice, notably the activities of the law firm of McFarlan, Williams and Wilson, and to the dealings of the Flint Land Company.  The collection also includes a transcript of a court case involving property in Flint, Michigan.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <geogname source="lcsh" encodinganalog="651">Flint (Mich.)--Commerce.</geogname>
+        <corpname source="lcnaf" encodinganalog="610">Flint Land Company.</corpname>
+        <subject source="lcsh" encodinganalog="650">Frontier and pioneer life--South Dakota--White Lake.</subject>
+        <subject source="lcsh" encodinganalog="650">Lawyers--Michigan--Flint.</subject>
+        <subject source="lcsh" encodinganalog="650">Land use--Michigan--Flint.</subject>
+        <geogname source="lcsh" encodinganalog="651">Linden (Mich.)</geogname>
+        <persname source="lcnaf" encodinganalog="600">McFarlan, James H. (James Hoyt)</persname>
+        <corpname source="lcnaf" encodinganalog="610">McFarlan, Williams and Wilson.</corpname>
+        <subject source="lcsh" encodinganalog="650">Pioneers--South Dakota--White Lake.</subject>
+        <subject source="lcsh" encodinganalog="650">Teachers--Michigan--Linden.</subject>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1871-1880.</corpname>
+        <geogname source="lcsh" encodinganalog="651">White Lake (S.D.)</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Business records.</genreform>
+        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Personal and business Papers</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <genreform normal="Diaries">Diary</genreform>, <unitdate type="inclusive" normal="1881/1885">1881-1885</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Flint Land Company</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Daybook, <unitdate type="inclusive">September 23, 1899-April 30, 1903</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="volume" label="Oversize Volume">1</container>
+              <unittitle>Journal, <unitdate type="inclusive">January 1914-July 1924</unitdate></unittitle>
+            </did>
+            <note>
+              <p>(oversize volume)</p>
+            </note>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Letterpress books</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">September 10, 1897-January 21, 1898</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">January 21, 1898-May 7, 1898</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">May 7, 1898-September 20, 1898</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">September 20, 1898-March 14, 1899</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive">March 14, 1899-July 15, 1899</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">2</container>
+              <unittitle>
+                <unitdate type="inclusive">July 17, 1899-March 23, 1900</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">2</container>
+              <unittitle>
+                <unitdate type="inclusive">March 24, 1900-August 16, 1900</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">2</container>
+              <unittitle>
+                <unitdate type="inclusive">December 17, 1901-June 10, 1902</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">2</container>
+              <unittitle>
+                <unitdate type="inclusive">June 10, 1902-December 1, 1902</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Transcript of court case concerning property in Flint</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

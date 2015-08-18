@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::taubmanl.xml//EN" encodinganalog="Identifier">
+umich-bhl-87330</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Taubman Medical Libray records, 1966-1980
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Darwin C. Matthews, November 1982</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2006-08-14</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-08-14</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Taubman Medical Libray Records, 1966-1980
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Darwin C. Matthews, November 1982
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Taubman Medical Libray 
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Taubman Medical Libray records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1966-1980
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+87330 Bimu C430 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Records, 1966-1980, related to the planning and construction of the Taubman Medical Library, which is located in the University of Michigan's Medical Center area and serves the University's Medical and Health Information communities.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection (Donor Number <num type="donor" encodinganalog="541$e">6832</num>) was acquired by the Bentley Library in October 1982.
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506">
+<p>The record group is open without restriction.</p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Taubman Medical Libray, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Taubman Medical Library, built between 1978 and 1980, is located in the University of Michigan's Medical Center area and serves the University's Medical and Health Information communities.  </p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of the library's Planning Phase (1966-1977) and Construction Phase (1978-1980).  The papers concerning the planning phase include building programs, designs, architectural programs, questionnaires, proposals, consultant reports, and notes and correspondence.  The construction phase files contain the minutes of the building construction meetings and the library-moving project.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Libraries--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Buildings.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Taubman Medical Library.</corpname>
+</controlaccess>
+
+
+
+
+
+
+
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Planning Phase, <unitdate type="inclusive" normal="1966/1979">1966-1979</unitdate></unittitle></did>
+<c02 level="file"><did><unittitle><unitdate type="inclusive" normal="1965/1973">1965-1973</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Building Program for the Proposed Health Sciences Information Center at the University of Michigan, <unitdate type="inclusive" normal="1965/1967">1965-1967</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Design for a University Health Services Information Center, <unitdate type="inclusive" normal="1966">1966</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Health Sciences Information Center Library and Medlars Questionnaires, <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Medical Center Library, by David K. Maxfield, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle></did></c03><c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Notes and Correspondence, <unitdate type="inclusive" normal="1965/1973">1965-1973</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive" normal="1974/1979">1974-1979</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Grant Request Proposal, <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Additional Information for Grant, <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>The Rice Proposal, <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>First Proposal, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Consultants and Aftermath, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Second Draft and Aftermath, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Final Accepted Proposal, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Notes and Correspondence, <unitdate type="inclusive" normal="1975">1975</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Program for the Library Portion of the Medical Center Library and Learning Resource Center, <unitdate type="inclusive" normal="1975">1975</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Prospectus for a Medical Library "The Medical Center Library and the Learning Resource Center," <unitdate type="inclusive" normal="1975">1975</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Report to the Medical Center Library and Learning Resource Center Building Committee User Survey, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Architectural Programs, <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Combined Program Draft JUG/NSF, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>Specifications for the University of Michigan Medical Center Library and Learning Resource Center</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Job 7602, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle><physdesc><extent>one volume</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Addendum to <unitdate type="inclusive" normal="7602">7602</unitdate>, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Schematic Planning, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Library Shelving, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Notes and Correspondence, <unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Medical Center Library and Learning Resource Center Building Program, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle></did></c04></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Construction Phase <unitdate type="inclusive" normal="1978/1980">1978-1980</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Building Construction Meeting Minutes, <unitdate type="inclusive" normal="1978/1980">1978-1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Moving Project, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle></did></c02></c01>
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

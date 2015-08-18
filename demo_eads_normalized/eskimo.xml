@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::eskimo.xml//EN" encodinganalog="identifier">umich-bhl-861010</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Eskimo Art, Inc. Records, <date>1953-1994</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Jessica Silver</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2002-07-01</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>2001</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>2002-05-21</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Eskimo Art, Inc. Records, <date type="inclusive">1953-1994</date></titleproper><author>Finding aid prepared by: <lb/>Jessica Silver</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="recordgrp" relatedencoding="marc21"><did>
+<origination><corpname source="lcnaf" encodinganalog="110">Eskimo Art, Inc.</corpname></origination>
+<unittitle encodinganalog="245">Eskimo Art, Inc. Records
+<unitdate type="inclusive" encodinganalog="245$f" normal="1953/1994">1953-1994</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">2 linear ft. (in 3 boxes)</extent></physdesc>
+<abstract>Agency established by Eugene Power to provide market for Inuit art, also gallery for Inuit art. Correspondence, scrapbooks, and office files detailing the company's activities.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">861010 Bp 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The records came from the firm (donor no. <num type="donor" encodinganalog="541$e">7312</num>) in 1986 and 1996.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Eskimo Art, Inc. Records, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Eugene Power launched Eskimo Art Inc. in 1953 as a non-profit corporation "to promote an interest and appreciation of Eskimo art in the US."  Over four decades, Power's company was instrumental in bringing worldwide attention to the prints, sculptures and engravings of the Inuit Eskimos of Cape Dorset, West Baffin Island in Northern Canada.  Power's son Philip Power dissolved the company shortly after his father's death in 1993.</p>
+<p>A graduate of the University of Michigan, Power founded University Microfilms International. (UMI) in 1938 and by 1953 had become a wealthy Ann Arborite and well known philanthropist and supporter of the arts.  Eskimo Art Inc. was in part the result of Power's personal relationship with James Houston, a Canadian artist and authority on printmaking.  In the late 1950s, Houston both introduced and trained selected Inuit men and women in printmaking techniques based on traditional Japanese methods, with the goal that they might sell their artwork to supplement their hunting activities.  Before this time, several Inuit men at Cape Dorset produced sculptures.</p>
+<p>For more than three decades, Houston and his wife published and lectured widely, while working closely with the Canadian Handicrafts Guild, the Canadian government, and the Hudson's Bay Company to distribute Inuit artwork to the world.  Eskimo Art Inc. maintained relationships with all three organizations, becoming the US distributor for Canada's Department of Northern Affairs and Natural Resources, the body charged with the supervision of Canadian Eskimo cooperatives.  Houston, in turn, served on the Board of Trustees for Eskimo Art Inc., retaining a personal relationship with Power.</p>
+<p>Eskimo Art Inc.'s main endeavor included the organization of permanent and traveling exhibitions of Inuit art in Ann Arbor and around the United States.  The company worked primarily in conjunction with the Smithsonian Institution and the Canadian galleries.  Eskimo Art Inc. also loaned and sold artwork to individual collectors, dealers, galleries and museums.  The company sponsored events and lectures in Ann Arbor, raised money for the Inuit causes (such as for the purchase a hunting boat in 1960), and returned "a great" but untold part of its one million in sales to the Inuit people.</p>
+<p>Several Cape Dorset artist whose work Eskimo Art Inc. distributed in the early days, became extremely well known, in particular Lucy Quinnjauak and Kenojuak Ashevak.  In 1964, Canada's National Film Board produced a film on Kenojuak and in 1977, Power purchased her The Enchanted Owl, one of the most famous prints ever produced in the Canadian North, for $10,000.  Inuit works which sold for $10 or $15 in the early days of the company sold for as much as $18,000 by the late 1970's.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The records of Eskimo Art, Inc. is valuable for their documentation of the firm's role in bringing awareness of Inuit art and culture to the United States, and its attempt to prevent the commercialization of this artwork. The records have been arranged into four series:  Correspondence files, Informational, Scrapbooks, and Cape Dorset Annual Exhibit.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><subject source="lcsh" encodinganalog="650">Art.</subject><subject source="lcsh" encodinganalog="650">Eskimo art.</subject><subject source="lcsh" encodinganalog="650">Artists.</subject><subject source="lcsh" encodinganalog="650">Eskimo artists.</subject><corpname source="lcnaf" encodinganalog="610">Eskimo Art, Inc.</corpname><subject source="lcsh" encodinganalog="650">Eskimo sculpture.</subject><persname source="lcnaf" encodinganalog="600">Power, Eugene B., 1905-</persname></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform>Photographs.</genreform><genreform source="aat" encodinganalog="655">Scrapbooks.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Correspondence files</unittitle></did><scopecontent><p>The Correspondence series documents Eskimo Art's activities through its personal and business relationship with James and Alma Houston, with dealers, sales representative and Canadian suppliers.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Canada. Department of Northern Affairs and National Resources, <unitdate type="inclusive" normal="1954/1964">1954-1964</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gow (Col. and Mrs. Harry Gow) (sales representatives), <unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Houston (James and Alma), <unitdate type="inclusive" normal="1953/1963">1953-1963</unitdate></unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Jaffe, Lilly Weil (dealer), <unitdate type="inclusive" normal="1962/1966">1962-1966</unitdate></unittitle><physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Povungnetok Cooperative (supplier), <unitdate type="inclusive" normal="1958/1961">1958-1961</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Informational</unittitle></did><scopecontent><p>The Informational series includes newspaper clippings, articles, and press and publicity materials detailing the work and activities of the firm. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings and articles, <unitdate type="inclusive" normal="1961/1994">1961-1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Brochures and advertisements, <unitdate type="inclusive" normal="1981/1990">1981-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Press releases, <unitdate type="inclusive" normal="1986/1993">1986-1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Publicity information, <unitdate type="inclusive" normal="1985/1986">1985-1986</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle><genreform source="aat" normal="Scrapbooks">Scrapbooks</genreform></unittitle></did><scopecontent><p>The Scrapbook series provides rich documentation of the introduction of Inuit artwork to the American and Canadian public and depicts changing public perceptions of Eskimo culture.  The scrapbooks include articles, literature, reports, photographs of exhibits and artwork, printed reproductions, catalogs and press material.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Vol. 1, <unitdate type="inclusive" normal="1953/1954">1953-1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Vol. 2, <unitdate type="inclusive" normal="1955/1962">1955-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Vol. 3, <unitdate type="inclusive" normal="1962/1967">1962-1967</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Vol. 4, <unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Vol. 5, <unitdate type="inclusive" normal="1981/1989">1981-1989</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Cape Dorset Annual Exhibit</unittitle></did><scopecontent><p>The Cape Dorset Annual Exhibit series consists of <genreform normal="Photographs">photographs</genreform> of this annual exhibit for the years 1988 and 1989 as well as some printed maerial.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1988">1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1989">1989</unitdate></unittitle></did></c02></c01></dsc></archdesc></ead>

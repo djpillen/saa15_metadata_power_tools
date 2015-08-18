@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::citizens.xml//EN" encodinganalog="identifier">umich-bhl-85102</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Citizens Opposed to Super Sewer Records <date>1968-1976</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Frank Boles</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2003</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>May 2003</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031001</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20030528</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Citizens Opposed to Super Sewer <lb/>Records,  1968-1976</titleproper><author>Finding aid prepared by: <lb/>Frank Boles</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="recordgrp" relatedencoding="marc21"><did>
+<origination><corpname source="lcnaf" encodinganalog="110">Citizens Opposed to Super Sewer.</corpname></origination>
+
+<unittitle encodinganalog="245">Citizens Opposed to Super Sewer records
+<unitdate type="inclusive" encodinganalog="245$f" normal="1968/1976">1968-1976</unitdate></unittitle>
+
+<physdesc><extent encodinganalog="300">1 linear ft.</extent></physdesc>
+
+<abstract>Organization formed to oppose construction of a sewer interceptor for Oakland, Macomb, Washtenaw and Wayne counties, Michigan.  Office records, clippings, and topical files.</abstract>
+
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">85102 Bt 2</unitid>
+
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The record group was donated by William Pollard (donor no. <num type="donor" encodinganalog="541$e">6415</num>) in 1980.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>The record group is open for research.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>Copyright has not been transferred to the Regents of the University of Michigan.</p></userestrict>
+
+<prefercite encodinganalog="524"><p>item, folder title, box no., Citizens Opposed to Super Sewer Records, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>In 1967 the Detroit Metropolitan Area Regional Planning Commission (later a part of the Southeast Michigan Council of Governments-SEMCOG) approved the construction of a single sewer interceptor collecting sewage from parts of Oakland, Macomb, Washtenaw and Wayne counties. "super sewer," as the project was popularly known, involved over 90 miles of sewer construction, ending at Pointe Mouillée where a massive plant was planned to treat the waste water before it entered Lake Erie.</p>
+<p>Opposition to the project slowly began to grow. By 1973 "super sewer" had become a major political question within southeastern Michigan. Opposition was based on three arguments. The cost effectiveness of building one large project compared to upgrading already existing local sewage facilities was questioned. The ecological effect of the project, particularly its effect on the rate of water flow in the Huron River, became a matter of concern. Finally, political opposition, based on the perception that super sewer benefited Wayne County and the city of Detroit to the detriment of other parts of the region, emerged.</p>
+<p>Citizens Opposed to Super Sewer (COSS) was one of the groups which fought the construction of the project. A voluntary organization, COSS was most active in 1973. Its membership was composed primarily of non-Wayne County residents.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The records created by COSS consists of office records of the organization, primarily generated in 1973 and 1974. The files include correspondence, statements, memoranda, and collected information.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Citizens Opposed to Super Sewer.</corpname>
+<subject source="lcsh" encodinganalog="650">Sewerage--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Citizens' associations--Michigan.</subject>
+</controlaccess>
+</controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Office material</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1968">1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1972">1972</unitdate></unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><unitdate type="inclusive" normal="1973">1973</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Department of Natural Resources</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Environmental Protection Agency/Corps of Engineers</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Fundraising</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters to the editor</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Water Resources Commission</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle><physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Modeling and Simulation of Lakes and Impoundments</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Names</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Notes</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Pointe Mouillée Waterfowlers Association</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Speaking requests</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1974">1974</unitdate></unittitle><physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1975">1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1976">1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02></c01></dsc></archdesc></ead>

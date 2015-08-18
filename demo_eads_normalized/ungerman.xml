@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::ungerman.xml//EN" encodinganalog="Identifier">
+umich-bhl-88542</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Charles William Ungermann papers, 1915-1967
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-02-27</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Charles William Ungermann papers, 1915-1967</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Ungermann, Charles William, d. 1968.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Charles William Ungermann papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1915-1967
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot and 2 oversize folders
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+88542 Aa 2; UAm; UAl
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Detroit, Michigan, police officer. Scrapbooks containing material concerning the Detroit Police Department and Ungermann's career; also photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of the Charles Ungermann family (donor no. <num type="donor" encodinganalog="541$e">5613</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Charles William Ungermann papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Charles W. Ungermann was a long-time member of the Detroit Police Department. He died in 1968.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of scrapbooks relating to his career, to the activities of the police department, and to civil defense activities. The photographs in the collection are of Detroit, Michigan buildings, streets, people, and activities, especially as they relate to the work of the Detroit Police Department; group and individual portraits and photographs of Detroit Police, and photos of police training; photos of war bond drives and other war work during World War II; and photos of WJR radio broadcasting during the 1930s.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Detroit (Mich.). Police Dept.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Airships.</subject>
+<corpname source="lcnaf" encodinganalog="610">American Legion.</corpname>
+<subject source="lctgm" encodinganalog="650">Automobile industry.</subject>
+<subject source="lctgm" encodinganalog="650">Automobiles.</subject>
+<subject source="lctgm" encodinganalog="650">Baseball.</subject>
+<geogname source="lcsh" encodinganalog="651">Belle Isle Bridge (Detroit, Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Broadcasting--1931-1940.</subject>
+<subject source="lctgm" encodinganalog="650">Buildings--Michigan--Detroit.</subject>
+<subject source="lctgm" encodinganalog="650">Buses.</subject>
+<subject source="lctgm" encodinganalog="650">Business enterprises--Michigan--Detroit.</subject>
+<subject source="lctgm" encodinganalog="650">Children.</subject>
+<subject source="lctgm" encodinganalog="650">City and town life.</subject>
+<subject source="lctgm" encodinganalog="650">Community service.</subject>
+<geogname source="lcsh" encodinganalog="651">Detroit (Mich.)</geogname>
+<geogname source="lctgm" encodinganalog="651">Detroit (Mich.)--Buildings.</geogname>
+<geogname source="lctgm" encodinganalog="651">Detroit (Mich.)--Business enterprises.</geogname>
+<geogname source="lctgm" encodinganalog="651">Detroit (Mich.)--Fires.</geogname>
+<geogname source="lctgm" encodinganalog="651">Detroit (Mich.)--Police stations.</geogname>
+<geogname source="lctgm" encodinganalog="651">Detroit (Mich.)--Streets.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Detroit (Mich.). Police Dept.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Detroit Tigers (Baseball team)</corpname>
+<subject source="lctgm" encodinganalog="650">Fires--Michigan--Detroit.</subject>
+<corpname source="lcnaf" encodinganalog="610">General Motors Corporation.</corpname>
+<subject source="lctgm" encodinganalog="650">Ice skating.</subject>
+<corpname source="lcnaf" encodinganalog="610">Knights Templar (Masonic order)</corpname>
+<subject source="lctgm" encodinganalog="650">Minstrel shows.</subject>
+<geogname source="lcsh" encodinganalog="651">Orchard Lake (Mich.)</geogname>
+<subject source="lctgm" encodinganalog="650">Parades and processions.</subject>
+<subject source="lctgm" encodinganalog="650">Picnics.</subject>
+<subject source="lctgm" encodinganalog="650">Police--Michigan--Detroit.</subject>
+<subject source="lctgm" encodinganalog="650">Police stations--Michigan--Detroit.</subject>
+<corpname source="lcnaf" encodinganalog="610">Ste. Claire (Ship)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Shrine of the Little Flower (Royal Oak, Mich.)</corpname>
+<subject source="lctgm" encodinganalog="650">Streets--Michigan--Detroit.</subject>
+<subject source="lctgm" encodinganalog="650">Traffic accidents.</subject>
+<persname source="lcnaf" encodinganalog="600">Ungermann, Charles William, d. 1968.</persname>
+<corpname source="lcnaf" encodinganalog="610">WJR (Radio station : Detroit, Mich.)</corpname>
+<subject source="lctgm" encodinganalog="650">War bonds and funds.</subject>
+<subject source="lctgm" encodinganalog="650">War work.</subject>
+<subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Personal </unittitle></did> <note><p>(includes <genreform normal="Photographs">photographs</genreform>)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Police</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Civil defense</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Airships at Ford Airport</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>American Legion parade, <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Automobile accidents</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Automobile industry</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Detroit and vicinity views: includes burning of Belle Isle Bridge, <unitdate type="inclusive" normal="1915">1915</unitdate>, and Shrine of the Little Flower </unittitle></did> <note><p>(see also oversize folder UAm)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Detroit police </unittitle></did> <note><p>(see also oversize folder UAm)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fisher Body Craftsmants Guild: includes General Motors Buildings and Bob-Lo boat (St. Claire)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Knights Templar parade, <unitdate type="inclusive" normal="1928">1928</unitdate> </unittitle></did> <note><p>(see also oversize folder UAm)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>WJR radio broadcasts</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>World Series, <unitdate type="inclusive" normal="1935">1935</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="folder" label="Oversize Folder">UAl</container><unittitle>Detroit Art Center, <unitdate type="inclusive" normal="1920/1929" certainty="approximate">1920s</unitdate> </unittitle></did> <note><p>(in oversize folder UAl)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

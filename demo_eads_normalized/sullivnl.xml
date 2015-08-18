@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::sullivnl.xml//EN" encodinganalog="identifier">
+umich-bhl-92961
+</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Finding Aid for 
+Louis H. Sullivan architectural drawings, 1875-1922
+</titleproper>
+        <author encodinganalog="creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="date">
+2006 </date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>March 2006</date></creation>
+      <langusage>The finding aid is written in  <language langcode="eng">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>20060327 </date>
+        <item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Louis H. Sullivan architectural drawings, 1875-1922</titleproper>
+      <author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21">
+    <did>
+      <origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Sullivan, Louis H., 1856-1924.
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+Louis H. Sullivan architectural drawings 
+<unitdate type="inclusive" encodinganalog="245$f">
+1875-1922
+</unitdate>
+
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+1 folder (photocopies); 2 boxes (framed originals)</extent>
+      </physdesc>
+      <unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+92961 Aa 1
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+American architect. Pencil drawings of architectural ornament details, preliminary drawings for the Merchants National Bank, Grinnell, Iowa, and early humor and figure studies; also manuscript, 1922, entitled, "The Chicago Tribune Competition."</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The materials were found in the papers of Professor Emil Lorch (donor no. <num type="donor" encodinganalog="541$e">4041</num>).  Provenance is otherwise unknown.  
+</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research, but because of the fragility of the individual items, the library has restricted access to the originals (except with special permission).  There are photocopies and photographic prints of every item in the collection.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Louis H. Sullivan architectural drawings, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>American architect, born Sept. 3, 1856 in Boston, Massachusetts. He studied architecture under William Ware and Eugene Letang at Massachusetts Institute of Technology. Sullivan moved to Chicago in 1873 and obtained work with William LeBaron Jenney.  Studied at the Ecole de Beaus-Arts in Paris for brief time in 1874 before returning to Chicago where he worked as a draftsman in the office of Joseph S. Johnston &amp; John Edelman.  In 1879 Sullivan joined the firm of Dankmar Adler and by 1883 had become a partner in the firm of Adler &amp; Sullivan.  The firm  designed over 180 buildings during its existence, primarily residential, and office buildings.  The firm employed a number of young draftsmen and architects--Frank Lloyd Wright, George Elmslie and William Purcell-- who, influenced by Sullivan's philosophy, would develop the Prairie Style of architecture.  Adler left the firm in 1895.  Sullivan's practice began to decline over the next five years but he did complete one of his most famous designs for the Schlesinger and Mayer department store (later Carson, Pirie, Scott) in Chicago.  After the turn of the century Sullivan's practice consisted mainly of small banks and commercial buildings in the Midwest, most notably the Farmer's National Bank in Owatanna, Minnesota.  Sullivan died April 14, 1924.  </p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>Pencil drawings of architectural ornament details, preliminary drawings for the Merchants National Bank, Grinnell, Iowa, and early humor and figure studies; also manuscript, 1922, entitled, "The Chicago Tribune Competition." This collection was accumulated by University of Michigan architecture professor Emil Lorch.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <subject source="lctgm" encodinganalog="650">Architecture.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Merchants National Bank (Grinnell, Iowa)</corpname>
+        <persname source="lcnaf" encodinganalog="700">Lorch, Emil, 1870-1963.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="gmgpc" encodinganalog="655">Architectural drawings.</genreform>
+        <genreform source="gmgpc" encodinganalog="655">Cartoons.</genreform>
+        <genreform source="gmgpc" encodinganalog="655">Drawings.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Louis Sullivan drawings </unittitle>
+        </did>
+        <note>
+          <p>(photocopies; originals in the BHL vault)</p>
+        </note>
+        <c02 level="file">
+          <did>
+            <container type="folder" label="Folder">1</container>
+            <unittitle>Architectural ornament/Horse, <unitdate type="inclusive">undated</unitdate> </unittitle>
+            <physdesc>
+              <physfacet>H: 7 1/2" W: 12 1/2"; collage: two-sided drawing. Tracing paper with graphite pencil drawing attached to one side; Straight graphite pencil on the other.</physfacet>
+            </physdesc>
+          </did>
+          <note>
+            <p>(copy negatives available na7070 na12,752)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder" label="Folder">1</container>
+            <unittitle>Comical sketch of man and woman with inscription, <unitdate type="inclusive" normal="1875">1875</unitdate> </unittitle>
+            <physdesc>
+              <physfacet>H: 12" W: 8 1/4 " Rectangular Drawing: Pen and ink on tracing paper.</physfacet>
+            </physdesc>
+          </did>
+          <note>
+            <p>(copy negative available na8185)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder" label="Folder">1</container>
+            <unittitle>Architectural ornaments, <unitdate type="inclusive" normal="1875/1876">1875-1876</unitdate> </unittitle>
+            <physdesc>
+              <physfacet>H: 5" W: 6"; Six sketches on four notebook pages, notebook in graphite pencil on mould made of paper with blue lines; the pieces have been cut out of a notebook, and parts of the inscription are lost.</physfacet>
+            </physdesc>
+          </did>
+          <note>
+            <p>(copy negative available na7064-na7069)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder" label="Folder">1</container>
+            <unittitle>Merchants National Bank, Grinnell, Iowa, <unitdate type="inclusive" normal="1913">1913</unitdate> </unittitle>
+            <physdesc>
+              <physfacet>H: 11"W:8 3/8" Three preliminary architectural drawings: floor plans, 4th Ave. elevation, Broad St. elevation. Graphite pencil on yellow wove. The paper is pharmaceutical prescription paper, of The Storm Pharmacy, Grinnell, Iowa.</physfacet>
+            </physdesc>
+          </did>
+          <note>
+            <p>(copy negatives available na3156 and na3763 (duplicates), na3157 and na3764 (duplicates), na3158 na8184 na8183)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder" label="Folder">1</container>
+            <unittitle>Ornament design, <unitdate type="inclusive" normal="1881">1881</unitdate> </unittitle>
+            <physdesc>
+              <physfacet>H: 12" W: 8 1/4 "; Rectangular Drawing: Graphite pencil on wove paper.</physfacet>
+            </physdesc>
+          </did>
+          <note>
+            <p>(copy negative available na8182)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder" label="Folder">1</container>
+            <unittitle>Head of Girl, <unitdate type="inclusive" normal="1885">1885</unitdate> </unittitle>
+            <physdesc>
+              <physfacet>H: 7" W: 10 1/4"; Rectangular Drawing: Graphite pencil on wove paper.</physfacet>
+            </physdesc>
+          </did>
+          <note>
+            <p>(copy negative available na7073)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder" label="Folder">1</container>
+            <unittitle>Female Figure Nude, <unitdate type="inclusive" normal="1879">1879</unitdate> </unittitle>
+            <physdesc>
+              <physfacet>H: 12 3/4" W: 8 1/4"; Rectangular Drawing: Graphite pencil on wove paper.</physfacet>
+            </physdesc>
+          </did>
+          <note>
+            <p>(copy negative available na7074)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder" label="Folder">1</container>
+            <unittitle>Architectural ornament, <unitdate type="inclusive">undated</unitdate> </unittitle>
+            <physdesc>
+              <physfacet>Collage: two sided octahedral-shaped drawing. Graphite pencil drawing on wove card stock. Three pieces tracing paper with pencil drawing glued to recto, one piece glued to verso.</physfacet>
+            </physdesc>
+          </did>
+          <note>
+            <p>(copy negatives available na7071, na7072)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder" label="Folder">1</container>
+            <unittitle>Manuscript entitled "The Chicago Tribune Competition," <unitdate type="inclusive" normal="1922">1922</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

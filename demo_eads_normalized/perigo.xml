@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::perigo.xml//EN" encodinganalog="Identifier">
+umich-bhl-93833</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Donald J. Perigo papers, 1975-1984
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Susana Tejada </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>December 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-12-07</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Donald J. Perigo papers, 1975-1984</titleproper>
+
+<author>Finding aid created by<lb/> 
+Susana Tejada, May 1993</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Perigo, Donald J.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Donald J. Perigo papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1975-1984
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear foot.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+93833 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Administrative member of the board of directors of the University Cellar, student-controlled bookstore at the University of Michigan. University Cellar files include articles of incorporation and bylaws, background materials, board of directors minutes, and subject files.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Donald Perigo (Donor no. <num type="donor" encodinganalog="541$e">7993</num>), and came to the library in 1991.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Donald J. Perigo papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Dr. Donald J. Perigo was the Director of Orientation and Campus Information Center in the Office of the Vice President for Student Services at the University of Michigan, later serving as University Ombudsman.  From 1984 to 1986, Perigo also served as an administrative member of the University Cellar Corporation Board of Directors.  </p>
+
+<p>Since the collection consists exclusively of materials  gathered by Perigo during his tenure as a Board member of the University Cellar, the following brief history of the organization is in order.</p>
+
+<p>The University Cellar was the University of Michigan's student-controlled bookstore, which operated from 1969 until its permanent closure in 1986.  In September 1969, the University Cellar was organized as a result of a series of student sit-ins and demonstrations demanding a student-run bookstore.  The bookstore was formally established on the first floor of the Michigan Union with monies collected from student fees and a contribution from the Board of Regents.</p>
+
+<p>The bookstore was originally under the control of the Student Government Council.  However, in 1970, when the store was moved to the basement of the Union, it was incorporated as a non-profit organization dedicated to student discounts.  It was at this time that the name of the bookstore was changed to the University Cellar, Inc.  A new ten-member Board of Directors was created, consisting of six students, three faculty members, and one university administrator.</p>
+
+<p>In 1974, the University Cellar successfully outbid several companies for the right to establish a branch bookstore in the North Campus Commons.  That year also marked the last time the bookstore received any financial assistance from the University.</p>
+
+<p>Due to a number of factors, the Michigan Union bookstore was forced to relocate in the spring of 1982 to a new location on the corner of Liberty and Division streets in downtown Ann Arbor.  The store's financial situation weakened considerably after the relocation.  In the fall of 1986, the University Cellar was refused a new line of credit, and a tentative buyout offer was accepted from the Barnes and Noble bookstore chain.  The lease on the North Campus store was transferred to Barnes and Noble as well.  Further negotiations regarding the transfer of the main store's lease broke down, and on December 24, 1986 the University Cellar closed its doors.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Donald J. Perigo Papers primarily comprise background materials relating to the University Cellar prior to Perigo's appointment on the Board of Directors.  The bulk of the collection includes Board minutes and memoranda, University Cellar job descriptions and evaluations, financial records, and materials pertaining to union representation by the Industrial Workers of the World (IWW, Local 660) for a labor contract.  Also of interest is one folder of University Cellar case studies written by former student workers, which describe their personal impressions of the bookstore. The collection is arranged alphabetically and thereafter chronologically.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Booksellers and bookselling.</subject>
+<persname source="lcnaf" encodinganalog="600">Perigo, Donald J.</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University Cellar.</corpname>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>University Cellar Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Articles of Incorporation, Bylaws, and Policies, <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Background Materials (chronological history of the Cellar, etc.), <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Board of Directors</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1980">1980</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1981/1984">1981-1984</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Case Studies, <unitdate type="inclusive" normal="1975">1975</unitdate>, <unitdate type="inclusive" normal="1978/1981">1978-1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Finances</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1978/1980">1978-1980</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Management Services Group</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Evaluations, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Job Descriptions, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Salaries, <unitdate type="inclusive" normal="1980/1981">1980-1981</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>North Campus</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Expansion, <unitdate type="inclusive">ca. 1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Insecticide Spraying, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Operations Review, <unitdate type="inclusive">circa 1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Union Negotiations</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1980">1980</unitdate></unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

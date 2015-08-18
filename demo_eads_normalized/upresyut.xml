@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::upresyut.xml//EN" encodinganalog="Identifier">
+umich-bhl-89347</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+United Presbyterian Youth (Mich.) records, 1937-1960
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-02-29</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+United Presbyterian Youth (Mich.) records, 1937-1960</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+United Presbyterian Youth (Mich.).
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+United Presbyterian Youth (Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1937-1960
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+89347 Ba 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Youth ministry of the Presbyterian Church, Michigan Synod. Minutes of meetings, notebooks of the Westminster Fellowship, bulletins, and other miscellanea.  
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The records were donated by the Synod of Michigan of the United Presbyterian Church (donor no. <num type="donor" encodinganalog="541$e">3821</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+United Presbyterian Youth (Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The United Presbyterian Youth is an organization within the Synod of Michigan of the United Presbyterian Church established to minister to young people with a variety of programs and activities.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The record group includes minutes of meetings, notebooks of the Westminster Fellowship, bulletins, and other miscellanea.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">United Presbyterian Church in the U.S.A.--Michigan.</corpname>
+<corpname source="lcnaf" encodinganalog="610">United Presbyterian Church in the U.S.A. Synod of Michigan.</corpname>
+<subject source="lcsh" encodinganalog="650">Youth--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Youth--Religious life--Michigan.</subject>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Organizational records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous papers, <unitdate type="inclusive">undated</unitdate> and <unitdate type="inclusive" normal="1951/1960">1951-1960</unitdate> </unittitle> <physdesc><extent>11 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notebook; include minutes of Presbyterian Youth organizations, <unitdate type="inclusive" normal="1937/1954">1937-1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notebook concerning the Westminster Fellowship, <unitdate type="inclusive" normal="1946/1957">1946-1957</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notebook concerning the Westminster Fellowship, <unitdate type="inclusive" normal="1956/1959">1956-1959</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notebook concerning United Presbyterian Youth, <unitdate type="inclusive" normal="1959/1960">1959-1960</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notebook; includes minutes of the Westminster Fellowship, <unitdate type="inclusive" normal="1947/1954">1947-1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notebook concerning the Girl Scouts, <unitdate type="inclusive" normal="1952/1958">1952-1958</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

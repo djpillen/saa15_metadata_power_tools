@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::filamprs.xml//EN" encodinganalog="Identifier">
+umich-bhl-06118</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Filipino-American Presbyterian Church, Southfield, Mich., records, 2000-2005
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+M. Ricah Marquez </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+M. Ricah Marquez, 
+<date>October 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-11-15</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Filipino-American Presbyterian Church, Southfield, Mich., records, 2000-2005</titleproper>
+
+<author>Finding aid created by<lb/> 
+M. Ricah Marquez, October 2006</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Filipino-American Presbyterian Church (Southfield, Mich.)
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Filipino-American Presbyterian Church, Southfield, Mich., records 
+<unitdate type="inclusive" encodinganalog="245$f">
+2000-20005</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+06118 Ba 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The Filipino-American Presbyterian Church was established in 2000.  The records contain correspondence, meeting minutes, agendas, church publications and reports.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group came from Jean Loup (donor no. <num type="donor" encodinganalog="541$e">8656</num>) on September 19, 2006.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Filipino-American Presbyterian Church, Southfield, Mich., records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Filipino-American Presbyterian Church, New Church Development (NCD) was established in 1999.  Previous to its establishment, the church started off with a few families who worshipped from house to house.  As the congregation grew, worship was then held at Greenfield Presbyterian Church, Berkley, MI.  Reverend Fred Baliad presided over worship.  The church moved to a permanent location at the Southfield Presbyterian Church under Rev. Fe Esperanza B. Ayap.  The congregation organized and participated in various activities such as community fundraisers, cultural events, charities, hosting of special guests, national conferences, and assisting new Filipino immigrants.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Filipino-American Presbyterian Church records are organized into two series: Church History and Administrative Activities.  Together, these series contain meeting minutes, agendas, photographs, reports, publications, and correspondence.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Filipino-American Presbyterian Church (Southfield, Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Filipino Americans--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Presbyterian Church (U.S.A.)--Michigan--Southfield.</corpname>
+<geogname source="lcsh" encodinganalog="651">Southfield (Mich.)--Church history.</geogname>
+
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Church History</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Background, <unitdate type="inclusive" normal="2000/2003">2000-2003</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="2001/2004">2001-2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous, <unitdate type="inclusive" normal="2000/2005">2000-2005</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Programs, <unitdate type="inclusive" normal="2000/2005">2000-2005</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Publications</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Flyers</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters, <unitdate type="inclusive" normal="2000/2004">2000-2004</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>New Church Development (NCD) anniversary programs, <unitdate type="inclusive" normal="2003/2004">2003-2004</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Sunday Worship programs, <unitdate type="inclusive" normal="2000/2005">2000-2005</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Administrative Activities</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Administrative Commission agendas and minutes, <unitdate type="inclusive" normal="2000/2005">2000-2005</unitdate></unittitle><physdesc><extent>2 folders and 1 notebook</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Church Pastor Employment, <unitdate type="inclusive" normal="2001/2005">2001-2005</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Music Education Director, <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>New Church Development (NCD) steering committee, <unitdate type="inclusive" normal="2002/2003">2002-2003</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pastor's Reports, <unitdate type="inclusive" normal="2001/2004">2001-2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Synod Report, <unitdate type="inclusive" normal="2002/2003">2002-2003</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

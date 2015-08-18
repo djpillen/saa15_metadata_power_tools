@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::minss.xml//EN" encodinganalog="Identifier">umich-bhl-2009031</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Minority Student Services (University of Michigan) publications, 1972-1986
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Marilyn M. McNitt, 1993</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2009-02-19</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Minority Student Services (University of Michigan) publications, 1972-1986
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Marilyn M. McNitt, 1993
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan.  Minority Student Services.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Minority Student Services (University of Michigan) publications 
+<unitdate type="inclusive" encodinganalog="245$f">
+1972-1986
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">2009031 Bimu 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Office of Minority Student Services (MSS) was established in 1977 as successor to the Office of Special  Services to meet the diverse needs of minority students and to promote the cultural diversity represented across the University. Name changed to Office of Multi-Ethnic Student Affairs in 1995. Includes miscellaneous brochures, directories, newsletters, and manuals.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+ACQUISITON
+<num type="donor" encodinganalog="541$e">NO.</num>
+ 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>Periodic additions to the records expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The Vice President and Chief Financial Officer records are open for research except for certain records restricted by statute or university policy.  Restricted material includes personnel-related files, including search, review, promotion, and tenure files; student educational records; client/patient records; and records of executive officers of the university.</p>
+
+<p>The RECORD GROUP record group includes restricted material in the following categories: 
+<list type="simple">
+<item>Personnel Related Records  -- Boxes X_X</item>
+<item>Student Academic Records -- Boxes X-X</item>
+<item>Patient/Client Records -- Boxes X-X</item>
+<item>Eecutive Officer Records -- Boxes X-X</item>
+</list></p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+COPYRIGHT
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Minority Student Services (University of Michigan) publications, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>In 1972, The Office of Special Services and Programs was a central area for communities of color at the University of Michigan, with a staff of advocates that served a variety of ethnic constituencies. In 1977, the Office of Minority Student Services (MSS) was created to meet the diverse needs of minority students and to promote the cultural diversity represented across the University. By 1995, the office changed its name to Multi-Ethnic Student Affairs, and included the Trotter Multicultural Center.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The  Minority Student Services publications consist of miscellaneous brochures, directories, newsletters, and manuals.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Minority Student Services.</corpname>
+<corpname source="lcnaf" encodinganalog="710">University of Michigan. Community Services.</corpname>
+<corpname source="lcnaf" encodinganalog="710">University of Michigan. Minority Counseling and Information.</corpname>
+<title source="aacr2" encodinganalog="740">Minorities at Michigan.</title>
+
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Brochures.</genreform>
+<genreform source="aat" encodinganalog="655">Directories.</genreform>
+<genreform source="aat" encodinganalog="655">Manuals.</genreform>
+<genreform source="aat" encodinganalog="655">Newsletters.</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Publications</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Brochures, <unitdate type="inclusive" normal="1978/1986">1978-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Directories</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Minority Directory</title>, <unitdate type="inclusive">1981/82</unitdate>, <unitdate type="inclusive" normal="1989/1991">1989-1991</unitdate>, <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Manuals</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Minorities at Michigan</title>, <unitdate type="inclusive" normal="1974/1980">1974-1980</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Profiles in Black, Red, and Brown (A Guide for Minority Students)</title>, <unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Newsletters</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Minority Student Services Newsletter</title>, <unitdate type="inclusive" normal="1985/1990">1985-1990</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>[Newsletter], <unitdate type="inclusive" normal="1980/1981">1980-1981</unitdate></unittitle></did></c03></c02><c02 level="file"><did><unittitle>Miscellaneous </unittitle></did></c02></c01>
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

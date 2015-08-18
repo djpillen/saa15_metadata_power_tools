@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::camerong.xml//EN" encodinganalog="Identifier">
+umich-bhl-85106</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+George G. Cameron papers, 1952-1978
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>November 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-11-03</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+George G. Cameron papers, 1952-1978</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Cameron, George Glenn, 1905-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+George G. Cameron papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1952-1978
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85106 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of Near Eastern Languages and Literature at the University of Michigan; personal and professional correspondence relating to archeological expeditions and discoveries in Iran and the Near East.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Mrs. George Cameron (donor no. <num type="donor" encodinganalog="541$e">2688</num>) and came to the library in 1982.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+George G. Cameron papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>George G. Cameron was born July 30, 1905 in Washington, Pa. He studied at Washington and Jefferson College and then received a bachelor's degree from Muskingum College in 1927.  He earned a master's degree (1930) and a Ph. D (1932) both from the University of Chicago's Oriental Institute.  He taught Assyro-Babylonian cuneiform and related studies at Chicago until 1948, when he came to the University of Michigan as professor and founder of the Department of Near Eastern Studies.  He was chairman of the department from 1948 to 1969.  He continued to teach until 1975.</p>
+
+<p>As a scholar, Cameron participated in many expeditions and explorations in the Near East. He was the author of many books, articles, and reviews, as well as the editor of texts of Assyro-Babylonian cuneiform and in Elamite and Old Persian.  He was editor of the <title render="italic">Journal of Near Eastern Studies</title> from 1941 to 1948 and had also been editor of the<title render="italic">American Journal of Semitic Languages and Literatures</title>.</p>
+
+<p>George Cameron died September 15, 1979. </p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The George Cameron papers consist of personal and professional correspondence mainly in the 1960s and 1970s.  Very little of the materials relates to his work as founder and professor of the U-M Department of Near Eastern Studies.  The bulk relates to his interaction and communication with other scholars in the field. The collection has been arranged into three series: Biographical, Correspondence, and Other materials. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Archaeology.</subject>
+<corpname source="lcnaf" encodinganalog="610">Azazels (University of Michigan)</corpname>
+<persname source="lcnaf" encodinganalog="600">Cameron, George Glenn, 1905-</persname><corpname source="lcnaf" encodinganalog="610">University of Michigan. Research Club.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Near Eastern Studies.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
+<subject source="lcsh" encodinganalog="650">Travelers.</subject>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<persname source="lcnaf" encodinganalog="600">Cameron, George Glenn, 1905-</persname>
+<famname source="lcnaf" encodinganalog="600">Cameron family.</famname>
+<geogname source="lcsh" encodinganalog="651">Iran.</geogname>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Biographical</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Personal</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Professional</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>A-C (miscellaneous)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Adams, Robert M. (University of Chicago), <unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Alten, Ivan, <unitdate type="inclusive" normal="1959/1966">1959-1966</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Balcer, Jack (Ohio State University), <unitdate type="inclusive" normal="1970/1978">1970-1978</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>D-G (miscellaneous)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Diakonoff, Igor M (Institut Vostokovedenija, Leningrad), <unitdate type="inclusive" normal="1963/1975">1963-1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Gershevitch, Ilya (Cambridge), <unitdate type="inclusive" normal="1952/1972">1952-1972</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>H-I (miscellaneous)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Hallo-Kelsey-Finkelstein, <unitdate type="inclusive" normal="1971/1974">1971-1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Hallock, Richard T. (University of Chicago), <unitdate type="inclusive" normal="1954/1976">1954-1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Hinz, Walther (Seminar fUr Iranistik der Universitfit Gottingen, DBR), <unitdate type="inclusive" normal="1962/1976">1962-1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>J-N (miscellaneous)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>McAlpin, David W. (University of Pennsylvania), <unitdate type="inclusive" normal="1973/1975">1973-1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>P-R (miscellaneous)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Parkhideh, Abbas (Tehran, Iran), <unitdate type="inclusive" normal="1957/1975">1957-1975</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Reiner, Erica (University of Chicago), <unitdate type="inclusive" normal="1961/1967">1961-1967</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>S-T (miscellaneous)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Schmidt, Hans Peter (Royal University of Leiden), <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Schmitt, Rildiger (Universitit des Saarlanders, Saarbrucken, DBR), <unitdate type="inclusive" normal="1971/1976">1971-1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Sollberger, Edmund (British Museum), <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Stolper, Matthew (University of Michigan), <unitdate type="inclusive" normal="1974/1978">1974-1978</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Stronach, David (the British Institute of Persian Studies), <unitdate type="inclusive" normal="1963/1976">1963-1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>U-Z (miscellaneous)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Von Voightlander, Elizabeth, <unitdate type="inclusive" normal="1972/1978">1972-1978</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Field Notes, <unitdate type="inclusive" normal="1954/1955">1954-1955</unitdate> England and Egypt; <unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate> Israel; and <unitdate type="inclusive" normal="1974">1974</unitdate> Iran </unittitle> <physdesc><extent>2 books</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Organizations</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Azazels, University of Michigan, <unitdate type="inclusive" normal="1970/1978">1970-1978</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>The Research Club of the University of Michigan, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Manuscript, unpublished, War Record and Atlas, <unitdate type="inclusive" normal="1945">1945</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did></c02>
+<c02 level="file"><did><physloc>Artifacts</physloc><unittitle>Medallions (2) given to Professor Cameron by the Iranian Government</unittitle></did>
+<c03 level="file"><did><physloc>Artifacts</physloc><unittitle>The Order of Homayoun, <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle></did></c03>
+<c03 level="file"><did><physloc>Artifacts</physloc><unittitle>The University of Tehran Honoris Causa, <unitdate type="inclusive" normal="1954">1954</unitdate></unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

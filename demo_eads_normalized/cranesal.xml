@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::cranesal.xml//EN" encodinganalog="Identifier">
+umich-bhl-851113</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Salmon Crane family papers, 1838-1975
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-10-23</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Salmon Crane family papers, 1838-1975</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Crane, Salmon, 1812-1888.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Salmon Crane family papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1838-1975
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1838-1883
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851113 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Tecumseh, Michigan, builder; account books and miscellaneous family papers.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Theodore Crane (donor no. <num type="donor" encodinganalog="541$e">1005</num>).
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Salmon Crane family papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Salmon Crane was a building and businessman from Tecumseh, Michigan.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection consists of account books of Salmon Crane's business activities, including a ledger previously used for the accounts, 1838-1841, of Spafford and Smith, Tecumseh merchants, and as day book, 1857-1858, of the <title render="italic"> Tecumseh Herald</title> newspaper. In addition, there are miscellaneous papers of Crane's sons, Theodore H. and Eugene W. Crane, both soldiers in Co. E, 18th Michigan Infantry during the Civil War. Other family members represented in the collection include Charles S. and Verner B. Crane. Photographer Walker Evans was the great-grandson of Salmon Crane.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Business records.</subject>
+<subject source="lcsh" encodinganalog="650">Construction industry.</subject>
+<subject source="lcsh" encodinganalog="650">General stores--Michigan--Tecumseh.</subject>
+<geogname source="lcsh" encodinganalog="651">Lenawee County (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">American newspapers--Michigan--Tecumseh.</subject>
+<corpname source="lcnaf" encodinganalog="610">Spafford and Smith (Merchants : Tecumseh, Mich.)</corpname>
+<geogname source="lcsh" encodinganalog="651">Tecumseh (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="630">Tecumseh herald.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Infantry Regiment, 18th (1862-1865). Company E.</corpname>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+
+
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Crane, Charles Samuel, 1847-1922.</persname>
+<persname source="lcnaf" encodinganalog="700">Crane, Eugene W., 1842-1873.</persname>
+<persname source="lcnaf" encodinganalog="700">Crane, Theodore Horace, 1844-1924.</persname>
+<persname source="lcnaf" encodinganalog="700">Crane, Verner Brown, 1852-1898.</persname></controlaccess>
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Salmon Crane papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Invitations, <unitdate type="inclusive" normal="1839/1840">1839-1840</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous financial material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous correspondence and specifications</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Daybook, <unitdate type="inclusive" normal="1863">1863</unitdate> previously used as account book, <unitdate type="inclusive" normal="1838/1841">1838-1841</unitdate> of Spafford and Smith, Tecumseh merchants, and as day book, <unitdate type="inclusive" normal="1857/1858">1857-1858</unitdate> of the <title render="italic"> Tecumseh Herald</title> newspaper.</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Account books</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1840/1864">1840-1864</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1864/1866">1864-1866</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1866/1868">1866-1868</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1869/1874">1869-1874</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1874/1880">1874-1880</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1881/1883">1881-1883</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other family members</unittitle></did>
+<c02 level="file"><did><unittitle>Theodore H. Crane</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Civil War letters, <unitdate type="inclusive" normal="1862/1865">1862-1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Account books, <unitdate type="inclusive" normal="1872/1873">1872-1873</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous correspondence</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Eugene W. Crane papers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Charles S. Crane papers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Verner B. Crane papers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Chadwick family papers</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Walker Evans miscellanea </unittitle></did> <note><p>(great-grandson of Salmon Crane)</p></note></c02></c01>
+ 
+</dsc></archdesc>
+
+</ead>

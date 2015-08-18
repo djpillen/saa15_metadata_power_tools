@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::thurberg.xml//EN" encodinganalog="Identifier">
+umich-bhl-2012171</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Gene Thurber papers, 1967-1990
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2012">
+2012</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2012</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2012-11-27</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Gene Thurber papers, 1967-1990</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff, 2012</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Thurber, Gene
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Gene Thurber papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1967-1990
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2012171 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of James Thurber (donor no. <num type="donor" encodinganalog="541$e">10815</num>) and came to the library in August 2012.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Gene Thurber papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Gene D. Thurber (1926-2010) was a special education administrator and consultant. In the 1970s he was a consultant in the Special Education Division of the Michigan State Department of Education. He also served as a member of the Michigan Special Olympics Board of Directors (1969-1982) and as Director of Special Education for Kent County (1978-1990). </p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Gene Thurber collection consists of reports and studies and other materials received on the topic of special education in Michigan. A significant portion of the collection concerns his work with the Kent Intermediate School District. Very few items in the collection were authored by Thurber.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Thurber, Gene.</persname>
+<corpname source="lcnaf" encodinganalog="610">Michigan Association of Intermediate Special Education Administrators.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Dept. of Education.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Special Education Service Area.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Kent Intermediate School District.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Special Olympics Michigan (Organization)</corpname>
+<subject source="lcsh" encodinganalog="650">Special education--Michigan.</subject>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Kent Intermediate School District, <unitdate type="inclusive" normal="1978/1990">1978-1990</unitdate> </unittitle></did> <note><p>(Thurber was administrative assistant for operations in special education for the district)</p></note>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reports, planning materials, policy statements, needs assessment</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Michigan Special Olympics, <unitdate type="inclusive" normal="1979/1983">1979-1983</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Programs (scattered issues), brochures, planning materials</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Vocational Education Special Education Project, <unitdate type="inclusive" normal="1970/1979" certainty="approximate">1970s</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Program guide and various manuals designed to assist special education teachers in developing instructional plans for handicapped students</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Michigan Association of Intermediate Special Education Administrators, <unitdate type="inclusive" normal="1967/1973">1967-1973</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>By-laws, minutes of meetings, and related materials</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Michigan Department of Education, Special Education Services </unittitle></did> <note><p>(Thurber was instructional specialist and mentally impaired program consultant)</p></note>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Competency-based instructional materials</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Institute on Secondary Programming</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Objectives for Elementary Programming</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Inclusive Education in Michigan</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Michigan Council for Exceptional Children, Annual Convention, <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Career Education Handbook for Implementation</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Secondary Education Career Manual</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Institute of the Study of Michigan Experimental Programs for the Educationally Handicapped</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Career Education for the handicapped Person</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Special Education Task Force Report, <unitdate type="inclusive">February 1978</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>"Development and Implementation of Secondary Special Education Programs" <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Teacher Competencies Task Force</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Workshop: Special Education / Career Education Field Test, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Proposed model guidelines for secondary special education programs, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Observation and client evaluation in workshops; a guide and a manual, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Special Education Code Development</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Muskegon Area Learning Program</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Recommended Prevocational Competencies for Special Education in [various areas]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+ 
+
+</dsc><descgrp type="add"><relatedmaterial><head>Related Material</head><p>The library also has the records of the Society for the Preservation of Michigan Special Education History and the papers of Lynwood Beekman who was closely associated with special education legislation in Michigan.</p></relatedmaterial></descgrp></archdesc>
+
+</ead>

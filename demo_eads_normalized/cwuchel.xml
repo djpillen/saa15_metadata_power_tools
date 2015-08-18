@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::cwuchel.xml//EN" encodinganalog="Identifier">
+umich-bhl-2014054</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Church Women United in Chelsea records
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Olga Virakhovskaya </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2014">
+2014</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2014</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2013-04-22</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Church Women United in Chelsea records, 1961-1992</titleproper>
+
+<author>Finding aid created by<lb/> 
+Olga Virakhovskaya, April 2014</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="relatedmaterial" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Church Women United in Chelsea
+</corpname> 
+
+ 
+</origination>
+
+<unittitle encodinganalog="245">
+Church Women United in Chelsea records<unitdate type="inclusive" encodinganalog="245$f">
+1961-1992
+</unitdate>
+ 
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.65 linear feet (in 2 boxes)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2014054 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Records of Chelsea, Michigan chapter of Church Women United, an interdenominational church women's organization.  Minutes of meetings, reports, memoranda, scrapbooks, and collected printed materials relating to activities and interests.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was received from Church Women United in Michigan (donor no. <num type="donor" encodinganalog="541$e">6474</num>) in April 2012</p></acqinfo>
+
+ 
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Church Women United in Chelsea records, Bentley Historical Library, University of Michigan</p></prefercite>
+ 
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Church Women United is a national volunteer Christian ecumenical women's movement initiated and carried out by women in the United States and Puerto Rico.  It is a movement that brings together women of diverse races, cultures and traditions in closer Christian fellowship, prayer, advocacy, and action for peace with justice in the world.  </p>
+
+<p>The Chelsea, Mich. chapter was formed in 1961 by a group of women executive officers of four Protestant denominations --Congregational Christian, Evangelical and Reformed, Episcopalian, and Methodist-- and other interested women from these and other churches.  </p>
+
+</bioghist>
+ 
+
+<scopecontent encodinganalog="520">
+<p>Materials include reports outlining chapter's annual activities and finances, Chelsea chapter constitution, Board and chapter meetings minutes, memoranda, scrapbooks, guest books and directories, and collected printed items produced by the National and Michigan Church Women Unites.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Church Women United in Chelsea.</corpname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Chelsea--Societies and clubs.</subject>
+<subject source="lcsh" encodinganalog="650">Women--Religious life--Michigan--Chelsea.</subject>
+
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Church Women United in Chelsea Records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual reports, <unitdate type="inclusive" normal="1966/1981">1966-1981</unitdate> (with gaps)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Directories</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Meetings minutes</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1961/1969">1961-1969</unitdate> </unittitle></did> <note><p>(bound volume)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1970-April 1980</unitdate> </unittitle></did> <note><p>(bound volume)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">September 1980-May 1992</unitdate> </unittitle></did> <note><p>(bound volume)</p></note></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Memoranda, <unitdate type="inclusive" normal="1979">1979</unitdate>, <unitdate type="inclusive" normal="1985/1987">1985-1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Printed material, collected</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Guestbook, <unitdate type="inclusive" normal="1975/1991">1975-1991</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Scrapbook, <unitdate type="inclusive" normal="1961/1981">1961-1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Scrapbook, <unitdate type="inclusive" normal="1982/1991">1982-1991</unitdate></unittitle></did></c02></c01>
+
+
+</dsc><descgrp type="add"><relatedmaterial><head>Related collections</head><p>Bentley Historical Library holds records of the following Church Women United organizations: 
+<list type="simple">
+<item><title render="italic" linktype="simple" href="http://quod.lib.umich.edu/b/bhlead/umich-bhl-8580" show="replace" actuate="onrequest">Church Women United in Michigan, 1929-1993.</title>  Finding aid available online</item>
+
+<item><title render="italic" linktype="simple" href="http://quod.lib.umich.edu/b/bhlead/umich-bhl-88166" show="replace" actuate="onrequest">Church Women United in Ann Arbor, 1941-2004.</title>  Finding aid available online</item></list></p>
+</relatedmaterial></descgrp>
+
+
+
+
+
+</archdesc>
+
+</ead>

@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::weeksrp.xml//EN" encodinganalog="identifier">
+umich-bhl-86214
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Robert P. Weeks Papers, 1961-1970
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Nancy Webster</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2006 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2006</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20060208 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Robert P. Weeks Papers, 1961-1970</titleproper>
+
+<author>Finding aid created by<lb/> 
+Nancy Webster, 1991</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+
+
+<persname source="lcnaf" encodinganalog="100">
+Weeks, Robert P. (Robert Percy), 1915-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Robert P. Weeks papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1961-1970
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+86214 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Member of the Ann Arbor (Mich.) City Council, 1964-1968, and chairman of Ann Arbor Housing Commission, 1969-1970. Correspondence, speeches, resolutions, and newspaper clippings concerning his activities on the city council and his interest in public housing.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Robert P. Weeks (Donor No. <num type="donor" encodinganalog="541$e">4956</num>) in 1970.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Robert P. Weeks Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Robert P. Weeks was born in 1915 and has lived in Ann Arbor since his early twenties.  Originally a journalist, Weeks later became a professor of English in the College of Engineering at the University of Michigan, where he taught until his retirement.  American literature, with an emphasis on Ernest Hemmingway, was his specialty.  Weeks also published work on subjects as diverse as automation and King Strang of Beaver Island.</p>
+
+<p>Weeks was active in local Ann Arbor Democratic politics.  He ran successfully for the third ward city council seat in 1964 and 1966.  While on council, Weeks took an especial interest in such issues as fair housing and employment practices, human rights, city planning, and the need for improved public transportation.  At the end of his second term, Weeks was appointed chairperson of the Ann Arbor Housing Commission, serving in this position until June 1970.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Robert P. Weeks Papers consist exclusively of those papers created while serving on the Ann Arbor city council and with the Ann Arbor Housing Commission.  The original order and subject listings of Weeks' topical file has been retained.  The papers document both Weeks' activities and interests as a council person and chair of the Ann Arbor Housing Commission as well as the politics of the time.  Notable is the information contained in the papers about the debate over the building and location of subsidized housing in Ann Arbor.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Ann Arbor (Mich.). Common Council.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Ann Arbor (Mich.). Housing Commission.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Democratic Party (Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Housing--Michigan--Ann Arbor.</subject>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1961-1970.</geogname>
+<subject source="lcsh" encodinganalog="650">Municipal government--Michigan--Ann Arbor.</subject>
+<persname source="lcnaf" encodinganalog="600">Weeks, Robert P. (Robert Percy), 1915-</persname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Ann Arbor City Council files, <unitdate type="inclusive" normal="1961/1970">1961-1970</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Beautification</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Board of Supervisors (Mayoral Appointments)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Campaign (1964)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Campaign (1966)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Citizen Complaints</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Civil Rights</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Council Amusements</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dean (Elizabeth Russell) Fund</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dutch Elm Disease</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Efficiency of Council Meetings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Election Dates</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Eli/Burton Roads</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fair Housing</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Housing (press release)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Public Housing</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Housing Commission </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Housing Inspection (code enforcement)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Housing (low income)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Historic Buildings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Human Rights Commission</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Huron River</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Income Tax (city)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Local Issues (Ann Arbor Democratic Party)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mace</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mass Transit</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mayor</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Parks</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pay (Mayor and Council)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Planning</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Police</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Recount (April 1966 City Election)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Selection Committee (Ann Arbor Democrats)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Signs</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>University/City Relations</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Zoning</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

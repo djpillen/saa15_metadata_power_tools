@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::leroyja.xml//EN" encodinganalog="identifier">umich-bhl-851677</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for James A. LeRoy Papers <date>1893-1944</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Thomas E. Powers</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1999</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>April 1999</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>1999-10-30</date><item>converted to new container style</item></change>
+<change><date>1999-04-27</date><item>Original encoding from Word 6.0 file using Word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>James A. LeRoy Papers, <date>1893-1944</date></titleproper><author>Finding aid prepared by: <lb/>Thomas E. Powers</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">LeRoy, James A. (James Alfred), 1875-1909.</persname></origination>
+<unittitle encodinganalog="245">James A. LeRoy Papers
+<unitdate type="inclusive" encodinganalog="245$f" normal="1893/1944">1893-1944</unitdate>
+<unitdate type="bulk" encodinganalog="245$g" normal="1898/1909">1898-1909</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">2 linear ft.</extent></physdesc>
+<abstract>Writer and diplomat who served in the Philippines, 1900-1901 and 1905, and Mexico, 1903-1907; papers include correspondence, travel journals, photographs, and scrapbooks.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">851677 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository encodinganalog="852"><corpname encodinganalog="852"><subarea>Bentley Historical Library </subarea>University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection came from different sources.  In 1943, the estate of Edwin C. Goddard donated the travel accounts of LeRoy's trips to the Philippines.  Donor no. <num encodinganalog="541$e">1872</num>  LeRoy's daughter, Mrs. Elizabeth Kallock donated additional miscellaneous materials in the 1970s and 1983. Donor no. <num type="donor" encodinganalog="541$e">5281</num></p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., James A. LeRoy Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>James A. LeRoy was born December 9, 1875 in Pontiac, Michigan.  He was educated at the University of Michigan, graduating in 1896.  He returned to Pontiac as a public school principal but soon thereafter accepted a position with the <title render="italic">Detroit Free Press </title>as a sports writer.  He moved on to the <title render="italic">Detroit News</title> as a political writer, then to the <title render="italic">Baltimore Herald</title>.  In 1901, while working in Baltimore, LeRoy came to the attention of <persname>Dean C. Worcester, </persname>who selected him to serve as private secretary to the Philippine Commission.  He easily mastered Spanish and became a student of Spanish and Philippine history.  While in the Philippines, LeRoy's work gained the approval of Governor General William Howard Taft who entrusted him with other, increasing responsibilities.  Skilled as a writer, LeRoy was uniquely qualified to communicate his impressions of the Philippines in the few years after the 1898 war.  In the coming years, he would write extensively, notably his monograph, <title render="italic">Philippine life in town and country</title>.  Unfortunately poor health forced LeRoy to resign before completing his two-year assignment.  He returned to Pontiac and then accepted appointment as consul to Durango, Mexico from August 1903 to March 1907.  His service in Mexico was briefly interrupted when selected to accompany now Secretary of War Taft as part of a congressional delegation to the Philippines in 1905.  LeRoy died in Fort Bayard, New Mexico on February 26, 1909.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The collection documents the academic career of LeRoy as a student at the University of Michigan and his two trips to the Philippines in 1901 and 1905.  The materials have been groups into four series:  Biographical/Personal, Philippine Islands, Durango, Mexico, and Scrapbooks.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><geogname source="lcsh" encodinganalog="651">Philippines--History--1898-1946.</geogname><geogname source="lcsh" encodinganalog="651">Mexico--History--1867-1910.</geogname><persname source="lcnaf" encodinganalog="600">Taft, William H. (William Howard), 1857-1930.</persname><persname source="lcnaf" encodinganalog="600">LeRoy, James A. (James Alfred), 1875-1909.</persname></controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head><geogname source="lcsh" encodinganalog="651">Philippines--History--1898-1946.</geogname></controlaccess>
+
+<controlaccess><head>Contributors:</head><persname source="lcnaf" encodinganalog="700">LeRoy, Mabel.</persname></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Biographical/Personal</unittitle></did><scopecontent><p>The Biographical/Personal series consists of a biographical sketch of LeRoy written by his daughter, correspondence written to his wife while serving in Durango, Mexico, and miscellaneous personal letters.</p></scopecontent>
+<c02 level="file"><did><container label="Box" type="box">1</container><unittitle>Biographical sketch</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Letters to his wife</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1907">1907</unitdate></unittitle></did><note><p>(photocopies)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-June 1908</unitdate></unittitle></did><note><p>(photocopies)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1909">1909</unitdate></unittitle></did><note><p>(photocopies)</p></note></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous correspondence, <unitdate type="inclusive" normal="1904/1908">1904-1908</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous correspondence of Mabel LeRoy, <unitdate type="inclusive" normal="1909/1944">1909-1944</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Philippine Islands</unittitle></did><scopecontent><p>The Philippine Islands series is notable for LeRoy's extended journal account of his activities and observations while traveling in the Philippines in 1900-1901 and 1905.  LeRoy was a keen and perceptive observer and his skill as a writer manifests itself in these journal/travelogues.</p></scopecontent>
+<c02 level="file"><did><container label="Box" type="box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1900/1902">1900-1902</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence concerning his writings on, and continuing interest in, the Philippine Islands, <unitdate type="inclusive" normal="1904/1909">1904-1909</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Travelogue account of trip to the Philippines, <unitdate type="inclusive" normal="1900/1901">1900-1901</unitdate></unittitle></did><note><p>(1987 accession)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Manuscript of travelogue account of trip to the Philippine Islands, <unitdate type="inclusive" normal="1901">1901</unitdate></unittitle><physdesc><extent>7 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Manuscript of travelogue account of trip to the Philippine Islands, <unitdate type="inclusive" normal="1905">1905</unitdate></unittitle><physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings relating to the travels of Secretary of War William Howard Taft in the Philippine Islands, <unitdate type="inclusive" normal="1905">1905</unitdate></unittitle><physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches of Secretary of War William Howard Taft</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Philippine miscellanea, <unitdate type="inclusive" normal="1902/1903">1902-1903</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Philippine miscellanea, <unitdate type="inclusive" normal="1905">1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Article, "Apolenario Mabini on the Failure of the Fililpino Revolution" edited for the<title render="italic">American Historical Review</title>, <unitdate type="inclusive" normal="1906">1906</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers concerning publication, contracts, and royalties for book, <title render="italic">The Americans in the Philippines</title>, <unitdate type="inclusive" normal="1913/1927">1913-1927</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photograph album</genreform> with Philippine Islands views, <unitdate type="inclusive" normal="1900">1900</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"James A. LeRoy's critique of John R. M. Taylor's <title render="italic">The Philippine Insurrection against the United States</title> " edited with brief introduction by John M. Gates</unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Durango, Mexico</unittitle></did><scopecontent><p>The Durango, Mexico series consists of a single letterpress book of LeRoy's correspondence while serving in Mexico in 1903-1904.</p></scopecontent>
+<c02 level="file"><did><container label="Box" type="box">1</container><unittitle>Letterpress book written while serving in Durango, <unitdate type="inclusive" normal="1903/1904">1903-1904</unitdate></unittitle></did><note><p>(1987 accession)</p></note></c02></c01>
+<c01 level="series"><did><unittitle>Scrapbooks</unittitle></did><scopecontent><p>The Scrapbook series consists of five volumes containing clippings and memorabilia detailing his student life at the University of Michigan in the mid-1890s and his service in the Philippines and Mexico.  Included are clipping copies of some of the articles that he wrote for various newspapers.</p></scopecontent>
+<c02 level="file"><did><container label="Box" type="box">2</container><unittitle>Volume1 <unitdate type="inclusive" normal="1893/1898">1893-1898</unitdate></unittitle><note><p>(concerns life at the University of Michigan, largely athletic competitions, and copies of articles written for Detroit newspapers)</p></note></did><note><p>(1987 accession)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Volume 2, <unitdate type="inclusive">September 1898-September 1899</unitdate></unittitle></did><note><p>(concerns University of Michigan athletics, and contains copies of sports and political articles written for Detroit newspapers)</p></note><note><p>(1987 accession)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Volume 3, <unitdate type="inclusive" normal="1904/1909">1904-1909</unitdate></unittitle></did><note><p>(contains clippings, largely obituaries of LeRoy, copies of articles, photographs, telegrams)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Volume 4, <unitdate type="inclusive" normal="1900/1918">1900-1918</unitdate></unittitle></did><note><p>(contains clippings of his newspaper articles, correspondence and memorabilia relating to the life and interests of James A. LeRoy and Mabel LeRoy)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Volume 5<unitdate type="inclusive" normal="1905">1905</unitdate></unittitle><note><p>(contains clippings, programs, invitations, and memorabilia from trip to Philippine Islands)</p></note></did><note><p>(1987 accession)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous clippings</unittitle></did></c02></c01></dsc></archdesc></ead>

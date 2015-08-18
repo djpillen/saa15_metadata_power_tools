@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::arnoldsa.xml//EN" encodinganalog="Identifier">
+umich-bhl-0717</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Arnold-Safford family papers, 1856-1992
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Carrie Hintz </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Carrie Hintz, 
+<date>January 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-02-16</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Arnold-Safford family papers, 1856-1992</titleproper>
+
+<author>Finding aid created by<lb/> 
+Carrie Hintz, January 2007</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<famname source="lcnaf" encodinganalog="100">
+Arnold family.
+</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Arnold-Safford family papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1856-1992
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0717 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Orlan Arnold was an environmental chemist who conducted research on water and air pollution. Virginia Safford Arnold was a pianist and music teacher. The collection includes correspondence, professional papers, biographical material, press clippings, and photographs relating to life and careers of Orlan Arnold and Virginia Safford Arnold. Also included are genealogical and other materials for the Albright, Crawford, Safford, and Sunderland families.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Materials were donated to the library by Joyce Marie Kottra (donor no. <num type="donor" encodinganalog="541$e">9606</num>), daughter of Orlan Arnold and Virginia Safford Arnold, in 2005.</p></acqinfo>
+
+
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Arnold-Safford Family papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Orlan Arnold was born in 1903 in York, Nebraska.  He graduated from York High School before receiving his BA from Grinnell College in 1928 and his PhD in chemistry from the University of Wisconsin in 1934.  He was a noted environmental chemist who designed, and directed Ajem Laboratories in Livonia, Michigan from 1946 to 1973.  In 1973 he joined the Peabody Corporation of New York where he continued to direct research relating to water and air pollution as well as other environmental concerns.  At the time of his death he held over one hundred US and foreign patents and had received awards and honors from organizations ranging from the Phi Lambda Upsilon honorary fraternity to the American Chemical Society and the New York Academy of Sciences. </p>
+
+<p>Virginia Gertrude Safford Arnold, daughter of Homer E. Safford and Gertrude Sunderland Safford, was born in Detroit, Michigan in 1907.  She graduated from Detroit Northern High School and attended Antioch College from 1924 to 1925 before transferring to Grinnell College, where she met her future husband, in 1925.  She received a BA and a BM from Grinnell in 1929.  Virginia and Orlan married on September, 1 1930 and moved to Madison, Wisconsin where Virginia, an accomplished pianist, taught music in Madison's public schools, as well as directed choirs and performed on local radio stations.  She continued teaching and playing music professionally throughout her life, and become actively involved with the American Association of University Women.  </p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Arnold-Safford family papers contain photographic materials and mementos dating from as early as 1856, but the majority of the collection is comprised of materials from the beginning of the twentieth century through the late 1930s.  The collection is divided into four series: Orlan Arnold Papers, Virginia Safford Arnold Papers, Genealogical Research, and Family Photographs and Mementos.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<famname source="lcnaf" encodinganalog="600">Arnold family.</famname>
+<famname source="lcnaf" encodinganalog="600">Albright family.</famname>
+<famname source="lcnaf" encodinganalog="600">Crawford family.</famname>
+<persname source="lcnaf" encodinganalog="600">Arnold, Orlan.</persname>
+<persname source="lcnaf" encodinganalog="600">Arnold, Virginia Safford.</persname>
+<famname source="lcnaf" encodinganalog="600">Safford family.</famname>
+<famname source="lcnaf" encodinganalog="600">Sunderland family.</famname>
+
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Tintypes.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Orlan Arnold, <unitdate type="inclusive" normal="1937/1980">1937-1980</unitdate></unittitle></did><scopecontent><p>The Orlan Arnold papers span 1937-1980 and focus on his professional life and accomplishments.  The resume file includes a number of his curriculum vitae, as well as information on his patents.  His correspondence spans 1937-1980 and relates to his career and to his strong alumni connections to Grinnell College, in particular their chemistry department.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Professional Papers and Resumes</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1937/1980">1937-1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Honors and Awards, <unitdate type="inclusive" normal="1938/1980">1938-1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Press Clippings</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Virginia Safford Arnold, <unitdate type="inclusive" normal="1925/1932">1925-1932</unitdate></unittitle></did><scopecontent><p>Virginia Safford Arnold's papers are a rich collection of information relating to family life and education in the 1920s.  The bulk of this series, the correspondence file, is comprised of Virginia's letters to her family during the last two years of her college education.  It documents her everyday domestic and academic triumphs and troubles, as well as her unfolding romance with Orlan Arnold.  The education file has correspondence relating to her transfer from Antioch College to Grinnell, as well as material relating to her extracurricular activities as a member of an American Friends Service Committee "Peace Caravan."  Her final file contains some of her writing--a short memoir piece she wrote to her grandchildren and another that she submitted to Reader's Digest in the hopes of having it published.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1928/1932">1928-1932</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Education, <unitdate type="inclusive" normal="1925/1929">1925-1929</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Memoirs</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Genealogical Research</unittitle></did><scopecontent><p>The third series is the Genealogical Research.  The Safford family has a long-standing interest in family history and genealogy, and this series includes genealogical charts and other material for the Albright, Crawford, Safford, and Sunderland families compiled by Homer E. Safford, Virginia Safford Arnold, and Alice Sunderland Wethy. Many of these genealogical resources include biographical as well as genealogical information.  </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Albright Family Volume</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Crawford Family</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Safford Family</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sunderland Safford Family</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Family <genreform normal="Photographs">Photographs</genreform> and Mementos, <unitdate type="inclusive" normal="1856/1939" certainty="approximate">1856-1930s</unitdate></unittitle></did><scopecontent><p>The fourth series is Family Photographs and Memoirs.  The most notable item in this series is the 1930 scrapbook commemorating Virginia and Orlan's marriage.  There are two folders dedicated to this scrapbook--the first contains the book itself and the second folder contains the additional letters and clippings that were inserted into the back of the book.  The Robert Safford family folder focuses on Homer Safford and his siblings as children.  The other photographs are of various identified and unidentified family members, including Orlan and Virginia.  The photographs are particularly notable in the number of pre-twentieth century informal snapshots.  The family memoirs include items such as Virginia's valentines to her mother and a program from the 1876 Philadelphia World's Fair.  </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Virginia Safford Arnold and Orlan Arnold's Wedding Scrapbook <unitdate type="inclusive" normal="1930">1930</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photographs</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photo Album and <genreform normal="Tintypes">Tintypes</genreform></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photographs of Robert Safford's Family</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Family Mementos</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Virginia Safford Arnold's mementos</unittitle></did></c02></c01>
+
+
+</dsc><descgrp type="add"><relatedmaterial><head>Related Materials</head><p>Researchers interested in the Sutherland and Safford families should consult other materials held by the Bentley Historical Library, particularly Alice Sunderland Wethy's <title render="italic">A Genealogical-Biographical Compilation of the Sunderland and Broadhead Families</title> (Bentley Historical Library, call number BD/2/S958/W539/v.2). The library also has related manuscript collections. These include the Safford Family papers and Sunderland family members, Jabez T. Sunderland, Eliza Jane Read Sunderland, Edson Read Sunderland, and Florence Sunderland.</p></relatedmaterial></descgrp></archdesc>
+
+</ead>

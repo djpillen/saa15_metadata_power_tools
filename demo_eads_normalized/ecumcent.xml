@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader relatedencoding="Dublin Core" audience="internal">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::ecumcent.xml//EN" encodinganalog="identifier">
+umich-bhl-04106
+</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Finding Aid for 
+Ecumenical Center and International Residence (University of Michigan) Records, 1947-1999
+</titleproper>
+        <author encodinganalog="creator">Collection processed and finding aid created by 
+Bentley Historical Library staff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="date">
+2005</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>May 2005</date></creation>
+      <langusage>The finding aid is written in  <language langcode="eng">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>20050506</date>
+        <item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Ecumenical Center and International Residence <lb/>(University of Michigan) <lb/>Records, 1947-1999</titleproper>
+      <author>Finding aid created by<lb/> 
+Bentley Historical Library staff, 2005</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21">
+    <did>
+      <origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Ecumenical Center and International Residence (University of Michigan)
+</corpname>
+
+</origination>
+      <unittitle encodinganalog="245">
+Ecumenical Center and International Residence (University of Michigan) Records,  
+<unitdate type="inclusive" encodinganalog="245$f">
+1947-1999
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+13 lin. ft.
+</extent>
+      </physdesc>
+      <unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+04106 Bimu 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Campus ministry at the University of Michigan, sponsored by different congregations and denominations, community groups, and individuals and providing housing for international and U.S. students. Minutes, financial materials, correspondence, and other records of the Center and of its predecessor organizations.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The records were received from the Ecumenical Center (donor no. <num type="donor" encodinganalog="541$e">9489</num>) in August 2004. 
+</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>
+The record group is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+The Center has transferred its copyright to the Regents of the University of Michigan.</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Ecumenical Center and International Residence (University of Michigan) Records
+, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>The Ecumenical Center and International Residence, a campus ministry at the University of Michigan provides housing for international and U.S. students.  Sponsored by different congregations, denominations, community groups, and individuals, the Center was formerly called the Ecumenical Campus Center, which was established as a joint ministry of the Ecumenical Association for International Understanding (formerly known as the Protestant Foundation for International Students) and the University of Michigan Presbyterian Corporation.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>This record group is arranged by record creator and by kinds of records.  The series include: University of Michigan Presbyterian Corporation; Protestant Foundation for International Students; Ecumenical Association for International Understanding; Ecumenical Campus Center; and Other Records. The bulk of the records consist of minutes of meetings, financial information, and reports of programs.  There is also an extensive set of newsletters, building campaign materials, and accumulated information from denominational bodies supporting the Center.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">Ecumenical Center and International Residence.</corpname>
+        <subject source="lcsh" encodinganalog="650">Church work with students--Michigan--Ann Arbor.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Ecumenical Association for International Understanding.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Protestant Foundation for International Students (University of Michigan)</corpname>
+        <subject source="lcsh" encodinganalog="650">Students, Foreign--Michigan--Ann Arbor.</subject>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. Presbyterian Corporation.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>University of Michigan Presbyterian Corporation (UMPC) records</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Minutes, <unitdate type="inclusive" normal="1952/1972">1952-1972</unitdate></unittitle>
+          </did>
+          <note>
+            <p>(volumes with overlapping dates probably maintained by different officers)</p>
+          </note>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1952/1969">1952-1969</unitdate>
+              </unittitle>
+              <physdesc>
+                <extent>8 volumes</extent>
+              </physdesc>
+            </did>
+            <note>
+              <p>(some volumes also contain program reports, correspondence, and financial statements)</p>
+            </note>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">2</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1965/1970">1965-1970</unitdate>
+              </unittitle>
+              <physdesc>
+                <extent>6 volumes</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1970/1972">1970-1972</unitdate>
+              </unittitle>
+              <physdesc>
+                <extent>5 volumes</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Protestant Foundation for International Students (PFIS)</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Photograph album, <unitdate type="inclusive" normal="1954/1955">1954-1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Minute book, <unitdate type="inclusive" normal="1947/1967">1947-1967</unitdate></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1947/1957">1947-1957</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">4</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1957/1967">1957-1967</unitdate>
+              </unittitle>
+              <physdesc>
+                <extent>6 volumes</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Ecumenical Association for International Understanding (EAIU) (successor to PFIS; name changed in June 1968)</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Committee reports, <unitdate type="inclusive" normal="1965/1971">1965-1971</unitdate></unittitle>
+          </did>
+          <note>
+            <p>(volume covers both PFIS and EAIU activities)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Minute books, <unitdate type="inclusive" normal="1968/1972">1968-1972</unitdate></unittitle>
+            <physdesc>
+              <extent>2 volumes</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Ecumenical Campus Center</unittitle>
+        </did>
+        <note>
+          <p>(being the joint ministry of the EAIU and the UMPC; a name later changed to Ecumenical Center and International Residence)</p>
+        </note>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Record books, <unitdate type="inclusive" normal="1970/1994">1970-1994</unitdate></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">5</container>
+              <unittitle> <unitdate type="inclusive" normal="1970/1974">1970-1974</unitdate></unittitle>
+              <physdesc>
+                <extent>4 volumes</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">6</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1973/1986">1973-1986</unitdate>
+              </unittitle>
+              <physdesc>
+                <extent>4 volumes and 2 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">7</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1985/1989">1985-1989</unitdate>
+              </unittitle>
+              <physdesc>
+                <extent>5 volumes</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">8</container>
+              <unittitle> <unitdate type="inclusive" normal="1990/1994">1990-1994</unitdate></unittitle>
+              <physdesc>
+                <extent>4 volumes and 1 folder</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Other records</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">9</container>
+            <unittitle>Synod Committee on Campus Ministry in Michigan, <unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">9</container>
+            <unittitle>Synod Committee on Ministry in Higher Education in Michigan, <unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">9</container>
+            <unittitle>Presbytery of Southern Michigan, <unitdate type="inclusive" normal="1964/1966">1964-1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">9</container>
+            <unittitle>Presbytery of Detroit, <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>  and <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
+            <physdesc>
+              <extent>4 volumes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">10</container>
+            <unittitle>Newsletters, <unitdate type="inclusive" normal="1987/1999">1987-1999</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">11</container>
+            <unittitle>Unfoldered records</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Boxes">12-13</container>
+            <unittitle>Building Fund Campaign Committee records</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::usaricof.xml//EN" encodinganalog="identifier">umich-bhl-86594</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Michigan Infantry Regiment, 1st (1861-1865), Co. F. quartermaster records, 1861-1865</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Sheon Montgomery</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2000-03</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Sheon Montgomery, <date>March 2000</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>2002-05-21</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Michigan Infantry Regiment, 1st (1861-1865), <lb/>Co. F. Quartermaster <lb/>Records, 1861-1865</titleproper><author>Finding aid prepared by: <lb/>Sheon Montgomery</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="recordgrp" relatedencoding="marc21"><did>
+<origination><corpname source="lcnaf" encodinganalog="110">United States. Army. Michigan Infantry Regiment, 1st (1861-1865), Company F.</corpname></origination>
+<unittitle encodinganalog="245">Michigan Infantry Regiment, 1st (1861-1865), Co. F. quartermaster records
+<unitdate type="inclusive" encodinganalog="245$f" normal="1861/1865">1861-1865</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">1 microfilm roll (partial)</extent></physdesc>
+
+
+<abstract>Microfilm copy of records of quartermaster of Michigan Civil War unit of U.S. Army. Includes reports, muster rolls, equipment inventories, payrolls and other administrative records.</abstract>
+
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">mf362c</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>These materials were acquired in 1952 from Mrs. George K. (Bessie C.) March (Donor no. <num type="donor" encodinganalog="541$e">2922</num>).</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The records are open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Michigan Infantry Regiment, 1st (1861-1865), Co. F. quartermaster records, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Organized at Detroit, Michigan, the 1st Michigan Regiment Infantry mustered September 16, 1861.  The following is only a partial synopsis of regiment activities.</p>
+<p>The regiment served in Maryland until May 1862, then in Virginia for the remainder of 1862, where the 1st Infantry was engaged in several battles, including Mechanicsville (June), Bull Run (August), and Fredericksburg (December).  The regiment did return to Maryland briefly in September 1862 for the Maryland Campaign and the Battle of Antietam.</p>
+<p>In 1863 the 1st Infantry participated in the Chancellorsville Campaign in Virginia (April-May); the Gettysburg Campaign in Pennsylvania (June-July) and pursuit of Lee to Manassas Gap (July); Bristoe Campaign (Oct.) and Rappahannock (Nov.); and the Mine Run Campaign (Nov.-Dec.).</p>
+<p>The Regiment was on duty near Culpeper until May 1864. From there it moved to participate in the Campaign from the Rapidan to the James River (May-June); Battle of the Wilderness (May); Battle of Spottsylvania (May); Jericho Mills (May) and Cold Harbor (June).  It was then part of the Siege of Petersburg from June 1864 to April 1865, as well as participating in several other activities throughout the remainder of 1864 and 1865.</p>
+<p>The 1st Michigan Regiment Infantry was mustered out on July 9, 1865.  According to A Compendium of the War of the Rebellion by Frederick H. Dyer (Broadfoot Publishing Co., Morningside Press, 1994, Vol. 2, p1281) the "[r]egiment lost during service 15 Officers and 172 enlisted men killed and mortally wounded and 1 Officer and 149 Enlisted men by disease.  Total 337."</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>This collection consists of the quartermaster records for Co. F of the 1st Michigan Regiment Infantry, arranged in chronological order.  The bulk of the records are from 1863-1864, and include reports for the following: articles lost or destroyed; auditor; clothing, camp and garrison equipage allocation and return; equipment; expenditures; inspection; inventories; muster rolls; orders; ordnance and ordnance stores; pay rolls; stores; and vouchers.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname><corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Infantry Regiment, 1st (1861-1865). Company F.</corpname></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Quartermaster Records</unittitle></did>
+<c02 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive" normal="1861/1862">1861-1862</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">January-June 1863</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">July-September 1863</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">October-December 1863</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">Jan.-March 1864</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container label="Roll" type="reel">1</container><unittitle><unitdate type="inclusive">April 1864-1865</unitdate></unittitle></did></c02></c01></dsc></archdesc></ead>

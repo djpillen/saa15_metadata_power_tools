@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::goodcalv.xml//EN" encodinganalog="identifier">umich-bhl-851318</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Finding Aid for 
+Calvin Goodrich Papers, 1938-1946
+</titleproper>
+        <author encodinganalog="creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="date">
+2006 </date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>April 2006</date></creation>
+      <langusage>The finding aid is written in  <language langcode="eng">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>20060404 </date>
+        <item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Calvin Goodrich Papers, 1938-1946</titleproper>
+      <author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21">
+    <did>
+      <origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Goodrich, Calvin.</persname>
+</origination>
+      <unittitle encodinganalog="245">
+Calvin Goodrich Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1938-1946
+</unitdate>
+
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+0.6 linear ft.
+</extent>
+      </physdesc>
+      <unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+851318 Aa 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Newspaperman and curator of mollusks at the University of Michigan Museum of Zoology; correspondence from friend W. N. Weech writing from England during World War II; unpublished writings; and photographs.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection was largely the gift of Calvin Goodrich (donor no. <num type="donor" encodinganalog="541$e">1550</num>) and came to the library beginning in 1944.  The manuscript of "Immigrant Michigan" came from the University of Michigan Press(donor no. <num type="donor" encodinganalog="541$e">2546</num>) where Mr. Goodrich had sent it for possible publication.</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Calvin Goodrich Papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Calvin Goodrich was born February 27, 1874 in Chicago, Illinois.  Educated at the University of Michigan and the University of Kansas, Goodrich began a first career as a journalist in Kansas, Toledo, Cleveland, and Detroit among other cities.  Beginning in 1924, he then devoted his career to malacology, becoming assistant curator then curator of mollusks at the University of Michigan Museum of Zoology.  He retired from his position in 1944. He died November 7, 1954.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The collection has been arranged into the following series W. N. Weech; Unpublished writings; and Photographs.  The Weech series consists of letters from W. N. Weech describing conditions in England during World War II.  The Unpublished writings includes the manuscript of his unpublished book, "Immigrant Michigan," with sections on transportation, newspapers ,pioneer life, and immigration.  There are also manuscript of articles and notes on various topics.  The photographs are of nineteenth century homes, farms, and businesses in various Michigan communities.  There is also a photograph of a bust of Goodrich sculpted by Carlton Angell.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <geogname source="lcsh" encodinganalog="651">Michigan--Emigration and immigration.</geogname>
+        <subject source="lcsh" encodinganalog="650">Frontier and pioneer life--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">American newspapers--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">Transportation--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
+        <subject source="lcsh" encodinganalog="650">Immigrants--Michigan.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <geogname source="lctgm" encodinganalog="651">Beaver Island (Mich.)--Dwellings.</geogname>
+        <subject source="lctgm" encodinganalog="650">Buildings--Michigan--Colon.</subject>
+        <geogname source="lctgm" encodinganalog="651">Colon (Mich.)--Buildings.</geogname>
+        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Beaver Island.</subject>
+        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Goodrich.</subject>
+        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Jackson County.</subject>
+        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Marshall.</subject>
+        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Saugatuck.</subject>
+        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Union City.</subject>
+        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Washtenaw County.</subject>
+        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--White Pigeon.</subject>
+        <subject source="lctgm" encodinganalog="650">Fences.</subject>
+        <subject source="lctgm" encodinganalog="650">Hotels and taverns.</subject>
+        <geogname source="lcsh" encodinganalog="651">Huron County (Mich.)</geogname>
+        <geogname source="lctgm" encodinganalog="651">Jackson County (Mich.)--Dwellings.</geogname>
+        <geogname source="lctgm" encodinganalog="651">Marshall (Mich.)--Dwellings.</geogname>
+        <geogname source="lctgm" encodinganalog="651">Saugatuck (Mich.)--Dwellings.</geogname>
+        <geogname source="lctgm" encodinganalog="651">Union City (Mich.)--Dwellings.</geogname>
+        <geogname source="lctgm" encodinganalog="651">Washtenaw County (Mich.)--Dwellings.</geogname>
+        <geogname source="lctgm" encodinganalog="651">White Pigeon (Mich.)--Dwellings.</geogname>
+        <persname source="lcnaf" encodinganalog="700">Angell, Carleton Watson, 1887-1963.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Weech, William Nassau, 1878-</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>W. N. Weech</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Letters from W.N. Weech, <unitdate type="inclusive" normal="1938/1946">1938-1946</unitdate> </unittitle>
+            <physdesc>
+              <extent>9 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellaneous material and clippings from W.N. Weech</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Unpublished writings</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>Articles</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Rural fences of Michigan</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Paper on the study of early Michigan history</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Article on Ralph Olmstead Keeler</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Notes on Roche de Boeuf</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Tanganyika Territory</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Wildlife in <unitdate type="inclusive" normal="1840">1840</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellaneous notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Immigrant Michigan: essays upon certain phases of forty years of northern middlewestern settlement, <unitdate type="inclusive" normal="1820/1860">1820-1860</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>
+            <genreform normal="Photographs">Photographs</genreform>
+          </unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Bust of Calvin Goodrich sculpted by Carleton Angell</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Fences</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Au Sable River</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Beaver Island</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Forester</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Goodrich</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Hudson</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Huron County</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Jackson County</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>L'Arbe Croche</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Lenawee County</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Marshall</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Michipicotan Island (Ontario, Canada)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellaneous and unidentified</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Port Hope</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Port Huron</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Saugatuck</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Washtenaw County</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>White Pigeon</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Plates from "Immigrant Michigan"</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

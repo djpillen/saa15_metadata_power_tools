@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::lawwives.xml//EN" encodinganalog="identifier">
+umich-bhl-043
+</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Finding Aid for 
+Lawyers' Wives of Washtenaw County Records, 1955-1980
+</titleproper>
+        <author encodinganalog="creator">Collection processed and finding aid created by 
+Jessica Lu</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="date">
+2003</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Jessica Lu, 
+<date>November 2003</date></creation>
+      <langusage>The finding aid is written in  <language langcode="eng">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>20050421</date>
+        <item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Lawyers' Wives of Washtenaw County Records, 1955-1980</titleproper>
+      <author>Finding aid created by<lb/> 
+Jessica Lu, November 2003</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21">
+    <did>
+      <origination>
+        <corpname source="lcnaf" encodinganalog="110">
+Lawyers' Wives of Washtenaw County
+</corpname>
+      </origination>
+      <unittitle encodinganalog="245">
+Lawyers' Wives of Washtenaw County records
+<unitdate type="inclusive" encodinganalog="245$f">
+1955-1980
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+0.3 linear ft. and 2 oversize volumes
+</extent>
+      </physdesc>
+      <unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+043 Bk 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Social organization of wives and widows of Washtenaw County lawyers. Records document history, membership, activities, and administration of the organization from 1955 to 1980.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload"/>
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The record group was donated by Mrs. William Pierce (Donor no. <num type="donor" encodinganalog="541$e">8966</num>) in May 2000.  
+</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>
+The record group is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Lawyers' Wives of Washtenaw County Records
+, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Lawyers' Wives of Washtenaw County was previously Women's Auxiliary of the Washtenaw County Bar Association (1955-1964).  It changed its name to Lawyers' Wives of Washtenaw County in 1965 and became an Auxiliary of Lawyers' Wives of Michigan. The organization's purpose is to promote the interests of the Lawyers' Wives of Washtenaw County and to encourage sociability among the members of the Auxiliary.  The membership of the organization consists of the wives and widows of Washtenaw County lawyers. </p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The Lawyers' Wives of Washtenaw County records includes information regarding the activities, administration and membership of the organization from 1955 to 1980.  It also includes some reports and meeting minutes from its parent organization, Lawyers' Wives of Michigan, especially materials related to its involvement in Law Day activities from 1974 to 1978.  The record group is divided into two series: Organization History and Administrative Records and Lawyers' Wives of Michigan.  </p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">Lawyers' Wives of Washtenaw County.</corpname>
+        <subject source="lcsh" encodinganalog="650">Lawyers' spouses--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">Lawyers' spouses--Michigan--Washtenaw County.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Lawyers' Wives of Michigan.</corpname>
+        <subject source="lcsh" encodinganalog="650">Women--Michigan--Washtenaw County--Societies and clubs.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <corpname source="lcnaf" encodinganalog="610">Lawyers' Wives of Washtenaw County.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Organization History and Administrative Records</unittitle>
+        </did>
+        <scopecontent>
+          <p>The first series, Organization History and Administrative Records, contains two scrapbooks regarding the history of the organization from 1955 to 1976, including programs and membership directories, president's reports, budgets, newspaper clippings, photographs, brochures, invitation cards, and newsletters.  This series also contains meeting agendas and minutes, budgets, newsletters from 1976 to 1980, a copy of the 1971 constitution and by-laws, and some photos, slides and negatives of the organization's activities.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">1</container>
+            <unittitle>Scrapbooks "Lawyers' Wives of Washtenaw County Through the Years" <unitdate type="inclusive" normal="1955/1976">1955-1976</unitdate></unittitle>
+            <physdesc>
+              <extent>2 volumes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Board Meeting Agenda and Minutes, <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Budgets, <unitdate type="inclusive" normal="1977/1979">1977-1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Newsletter <title render="italic">Pro Feminis Loquitur (This speaks for the women)</title>, <unitdate type="inclusive" normal="1977/1980">1977-1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Constitution and By-laws, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Historian's File, <unitdate type="inclusive" normal="1966/1973">1966-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <genreform normal="Photographs">Photographs</genreform>, <unitdate type="inclusive" normal="1969/1974">1969-1974</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Lawyers' Wives of Michigan</unittitle>
+        </did>
+        <scopecontent>
+          <p>The second series, Lawyers' Wives of Michigan, consists of records related to the parent organization: Lawyers' Wives of Michigan.  It mainly contains meeting minutes, reports, newsletters and materials related to annual Law Day programs covering 1974 to 1978, including reports, memos, notes and planning guides.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Law Day, <unitdate type="inclusive" normal="1974/1978">1974-1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Newsletter, <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Executive Board and Council Meeting, <unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Lawyers' Wives of Calhoun County Reports,  <unitdate type="inclusive">ca. 1976</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

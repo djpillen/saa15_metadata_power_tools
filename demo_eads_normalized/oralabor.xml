@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::oralabor.xml//EN" encodinganalog="Identifier">
+umich-bhl-851306</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+German Christian Agricultural and Benevolent Society of Ora Labora records, 1862-1895
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>April 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2010-07-14</date><item>Revision made to substitute microfilm edition of the collection.</item></change><change><date>2007-04-30</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+German Christian Agricultural and Benevolent Society of Ora Labora <lb/>Records, 1862-1895 [microform]</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+German Christian Agricultural and Benevolent Society of Ora Labora.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+German Christian Agricultural and Benevolent Society of Ora Labora records 
+ [microform]<unitdate type="inclusive" encodinganalog="245$f">
+1862-1895
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 microfilm reel
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851306 mf259c
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+German communal colony founded near Bay Port, Michigan by Emil Baur. Minutes, accounts, constitution, maps, and other related papers; also photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was donated in 1958 by Mrs. Robert E. Morse of Pigeon, Michigan (donor no. <num type="donor" encodinganalog="541$e">3432</num>).  Additions were received in 1963.</p></acqinfo>
+
+
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+No copyright restrictions
+</p></userestrict>
+
+
+<altformavail><p>The originals of these records are located in the library. Researchers will normally be expected to use the microfilm edition</p></altformavail><prefercite encodinganalog="524"><p>[item], folder, box,
+German Christian Agricultural and Benevolent Society of Ora Labora records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The German Christian Agricultural and Benevolent Society of Ora Labora was a German communal colony founded near Bay Port, Michigan by Emil Baur.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The records of Ora Labora date from 1862 to 1895 and include minutes, accounts, constitution, maps, and other related papers. Some of the records are in German with some English translation.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Baur, Emil Gottlob, d. 1894.</persname>
+<geogname source="lcsh" encodinganalog="651">Bay Port (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Cooperative societies--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">German Christian Agricultural and Benevolent Society of Ora Labora.</corpname>
+<subject source="lcsh" encodinganalog="650">German Americans--Michigan.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<geogname source="lctgm" encodinganalog="651">Bay Port (Mich.)--Collective settlements.</geogname>
+<subject source="lctgm" encodinganalog="650">Collective settlements--Michigan--Bay Port.</subject>
+<subject source="lctgm" encodinganalog="650">German Americans--Organizations.</subject>
+<corpname source="lcnaf" encodinganalog="610">German Christian Agricultural and Benevolent Society of Ora Labora.</corpname>
+</controlaccess>
+
+
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Bauer, Emil Gottlob, d. 1894.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Society Records</unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Constitution, <unitdate type="inclusive" normal="1863">1863</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> history</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>History by Lela Puffer</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Maps of colony lands</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Land certificates, <unitdate type="inclusive" normal="1860">1860</unitdate> and <unitdate type="inclusive" normal="1884">1884</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Letters, <unitdate type="inclusive" normal="1862/1938">1862-1938</unitdate> (scattered dates)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Authorization of settlement of society's affairs with Harmony Society, <unitdate type="inclusive" normal="1869">1869</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Typescript of report, <unitdate type="inclusive" normal="1862/1868">1862-1868</unitdate> (English translation)</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Account sheet, <unitdate type="inclusive" normal="1866/1867">1866-1867</unitdate> listing names of colonists, their shares, and their payment in goods</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Clippings</unittitle></did>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive" normal="1888/1893">1888-1893</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive" normal="1926/1949">1926-1949</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><genreform normal="Photographs">Photographs</genreform> (copyprints); including portraits and view of the community </unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Account book, <unitdate type="inclusive" normal="1864/1865">1864-1865</unitdate> </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Account book, <unitdate type="inclusive" normal="1866/1894">1866-1894</unitdate> </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Minute book, <unitdate type="inclusive" normal="1862/1868">1862-1868</unitdate> </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Account book-Minute book </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Account book, <unitdate type="inclusive" normal="1865/1895">1865-1895</unitdate></unittitle></did></c02></c01>
+
+
+
+</dsc></archdesc>
+
+</ead>

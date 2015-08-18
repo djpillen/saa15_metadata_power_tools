@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::onealjoe.xml//EN" encodinganalog="Identifier">
+umich-bhl-2009183</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Joe O’Neal papers, 1912-1918 and 1969-1972
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2010">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2010</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2010-01-04</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Joe O’Neal papers, 1912-1918 and 1969-1972</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+O’Neal, Joe
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Joe O’Neal papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1912-1918 and 1969-1972
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot (in 2 boxes)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2009183 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Joe O’Neal (donor no. <num type="donor" encodinganalog="541$e">10268</num>) in October 2009.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Joe O’Neal has transferred his copyright to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Joe O’Neal papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Joe O'Neal is president of O'Neal Construction, an Ann Arbor, Michigan based general contractor and construction manager. The firm was established in 1961. Notable among the projects he had overseen is the building of the Power Center for the Performing Arts at the University of Michigan (project completed in 1971). Another is the construction of new gates and other repairs on the four dams on the Huron River in Ann Arbor. The project was completed in 1972.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The O'Neal collection consists of project files from the building of the Power Center for the Performing Arts on the University of Michigan campus and the construction of new gates and other repairs on the four dams on the Huron River in Ann Arbor, Michigan. The collection consists mainly of photographs detailing progress on each project, with some correspondence, construction documents, clippings, and dedication materials. The collection has been maintained in the order received from the donor. Some of the files include comments by the donor on the photographs and explaining the various stages of construction for each project.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Dams--Michigan--Ann Arbor.</subject>
+<geogname source="lcsh" encodinganalog="651">Huron River (Oakland County-Monroe County, Mich.)</geogname>
+<persname source="lcnaf" encodinganalog="600">O'Neal, Joe.</persname>
+<corpname source="lcnaf" encodinganalog="610">Power Center for the Performing Arts.</corpname>
+<subject source="lcsh" encodinganalog="650">Theaters--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Buildings.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lctgm" encodinganalog="650">Construction--Michigan--Ann Arbor.</subject>
+<subject source="lctgm" encodinganalog="650">Dam construction--Michigan--Ann Arbor.</subject>
+<geogname source="lcsh" encodinganalog="651">Huron River (Oakland County-Monroe County, Mich.)</geogname>
+<persname source="lcnaf" encodinganalog="600">O'Neal, Joe.</persname>
+<corpname source="lcnaf" encodinganalog="610">Power Center of the Performing Arts.</corpname>
+<subject source="lctgm" encodinganalog="650">Theaters--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Buildings.</corpname>
+
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Project Files</unittitle><note><p>(The folder headings were provided by the donor; the series consists largely of  <genreform normal="Photographs">photographs.</genreform>)</p></note></did>
+<c02 level="file"><did><unittitle>Power Center for the Performing Arts, <unitdate type="inclusive" normal="1969/1971">1969-1971</unitdate> </unittitle></did> <note><p>(include some later publicity and retrospective articles)</p></note>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Project Sign (photograph)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Notification of Award to O'Neal Construction</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Site before Construction</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Dale Fisher Aerial Photographs-From Start to Finish</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Early Foundation Work-Stage Area</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Main Front Concrete Columns</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Proscenium Beam</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Structural Steel Erection</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Balthazar Korab Structural Steel Photographs</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Auditorium and Balcony</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Final Concrete Placement on Stage Tower</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Temporary Access to Stage Tower Wall Forming Equipment and Permanent Spiral Stairway to Access Fly Gallery At Top of Stage</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Concrete Spiral Stairs</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Plaster Sound Clouds at Ceiling of Auditorium</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Faces of the People That Built Power Center</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Construction Photographs</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Grand Opening</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Exterior Photographs-Project Complete</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Clippings</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"University Record" Articles</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Publications</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Documents</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>O'Neal Construction; U.W. Stoll Marketing Pieces</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Scaffolding Wasn't Part of the Set"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>OSU Football Program <unitdate type="inclusive">November 25, 1972</unitdate> Labeling the Power Center for the Performing Arts as the Power Plant</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>UM Acceptance of Power Center; Miscellaneous Communications</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Huron River Dams project</unittitle></did>
+<c03 level="file"><did><unittitle>Working files, <unitdate type="inclusive" normal="1970/1972">1970-1972</unitdate></unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Prior to Dam Project (1)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Barton Dam (2)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Argo Dam (3)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Geddes Dam (4)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Superior Dam (5)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Photos Taken at Time Project was Bid -- Before any Construction (6)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Dedication (7)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Progress Reports (8)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper Articles (9)</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Gallup Park (10)</unittitle></did></c04></c03>
+<c03 level="file"><did><unittitle>Original maps and plans, <unitdate type="inclusive" normal="1912/1918">1912-1918</unitdate> </unittitle> <physdesc><physfacet>photocopies</physfacet></physdesc></did>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Map of the Argo Power Plant of the Eastern Michigan Edison Co. prepared by Gardner S. Williams, consulting engineer, <unitdate type="inclusive" normal="1912">1912</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Plans for the Barton Plant of the Huron River Development designed for the Eastern Michigan Edison Company by Gardner S. Williams, consulting engineer, <unitdate type="inclusive" normal="1912">1912</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Plans for the Geddes Plant of the Huron River Development designed for the Detroit Edison Company by Gardner S. Williams, consulting engineer, <unitdate type="inclusive" normal="1917">1917</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">2</container><unittitle>Plans for the Superior Plant of the Huron River Development designed for the Detroit Edison Company by Gardner S. Williams, consulting engineer, <unitdate type="inclusive" normal="1918">1918</unitdate></unittitle></did></c04></c03></c02>
+</c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

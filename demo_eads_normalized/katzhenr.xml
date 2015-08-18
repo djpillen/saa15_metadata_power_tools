@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::katzhenr.xml//EN" encodinganalog="identifier">umich-bhl-86559</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for  Henry Katz papers,<date>1919.</date></titleproper>
+<author encodinganalog="creator">Finding aid prepared by Len Coombs</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2003-06</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Len Coombs, <date>2003-05</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20100526</date><item>Corrected errors LAC</item></change>
+<change><date>20091223</date><item>Edited for style LAC</item></change>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20030530</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+<titleproper>Finding Aid for <lb/>Henry Katz papers,<date>1919.</date></titleproper>
+<author>Finding aid prepared by: <lb/>Len Coombs</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Katz, Henry.</persname></origination>
+<unittitle encodinganalog="245">Henry Katz papers
+<unitdate type="inclusive" encodinganalog="245$f" normal="1919">1919</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">1  folder</extent></physdesc>
+<abstract>Soldier from New York City, N.Y., member of Medical Detachment, 339th U.S. Infantry who served in the Allied intervention in Russia, 
+1918-1920, the "Polar Bear Expedition." Collection includes summary of his activities and military orders relating to his service in the 
+Polar Bear expedition to Archangel. </abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">86559 Aa 1</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was donated by Henry Katz, of New York, New York, in 1965 
+(Donor no.: <num type="donor" encodinganalog="541$e">4226</num>).</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Henry Katz papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Resident of <geogname normal="New York (N.Y.)">New York City</geogname>, served as captain, 
+<corpname normal="United States. Army. Infantry, 339th. Medical Detachment.">Medical Detachment, 339th Infantry</corpname>.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The papers include a copy of the "Summary of activities of medical personnel with 
+<corpname normal="United States. Army. Infantry, 339th. Battalion, 1st.">1st Battalion 339th Infantry</corpname>, Sept. 1918-May 1919, 
+which describes medical work at <geogname normal="Shenkursk (Russia)">Shenkursk</geogname> and fighting at 
+<geogname normal="Tulgas (Russia)">Toulgas</geogname>, Sept. 1918; <geogname normal="Kodyma (Russia)">Kodema</geogname>[?], Dec. 1918; and 
+<geogname normal="Vistafka (Russia)">Vistafka</geogname>, Jan.-Feb. 1919. Also included are Katz's promotion and discharge papers.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects</head>
+<persname source="lcnaf" encodinganalog="600">Katz, Henry.</persname>
+<geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied Intervention, 1918-1920.</geogname>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+<subject source="local" encodinganalog="690">Polar Bear Expedition.</subject></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Papers</unittitle></did>
+<c02 level="file"><did><container type="folder" label="Folder">1</container>
+<unittitle><unitdate type="inclusive" normal="1919">1919</unitdate></unittitle>
+<physdesc><extent>4 items</extent></physdesc></did></c02></c01></dsc></archdesc></ead>

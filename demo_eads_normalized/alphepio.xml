@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::alphepio.xml//EN" encodinganalog="Identifier">
+umich-bhl-861077</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Alpha Epsilon Iota, Alpha Chapter (University of Michigan) Records, 1902-1973
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>July 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-07-18</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Alpha Epsilon Iota, Alpha Chapter <lb/>(University of Michigan) <lb/>Records, 1902-1973</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff, 1982</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Alpha Epsilon Iota. Alpha Chapter (University of Michigan)
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Alpha Epsilon Iota, Alpha Chapter (University of Michigan) Records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1902-1973
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+861077 Bimu F41 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+University of Michigan chapter of a national women’s medical sorority. Minute books, publications and other organizational records.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was deposited by the Alpha Chapter of Alpha Epsilon Iota (donor no. <num type="donor" encodinganalog="541$e">6720</num>) and came to the library in 1981.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Alpha Epsilon Iota, Alpha Chapter (University of Michigan) Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Alpha Epsilon Iota, Alpha Chapter, is the University of Michigan chapter of a national women’s medical sorority.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The record group includes minute books, publications and other organizational records.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Societies, etc.</corpname>
+<subject source="lcsh" encodinganalog="650">Women physicians--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor--Societies and clubs.</subject>
+<subject source="lcsh" encodinganalog="650">Greek letter societies--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Physicians--Michigan.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lctgm" encodinganalog="650">African Americans--Women.</subject>
+<corpname source="lcnaf" encodinganalog="610">Alpha Epsilon Iota. Alpha Chapter (University of Michigan)</corpname>
+<subject source="lcsh" encodinganalog="650">Christmas.</subject>
+<subject source="lctgm" encodinganalog="650">Clothing and dress.</subject>
+<subject source="lctgm" encodinganalog="650">Fraternities and sororities.</subject>
+<subject source="lctgm" encodinganalog="650">Interiors.</subject>
+<subject source="lctgm" encodinganalog="650">Parties.</subject>
+<subject source="lctgm" encodinganalog="650">Pets.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1961-1970.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing--1961-1970.</corpname>
+<subject source="lcsh" encodinganalog="650">Women college students--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Chapter records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>By-laws and articles of incorporation </unittitle> <physdesc><extent>1 volume and 1 folder</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Minute books</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1902/1905">1902-1905</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1905/1922">1905-1922</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1922/1930">1922-1930</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1930/1943">1930-1943</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1937/1951">1937-1951</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Officers' reports, <unitdate type="inclusive" normal="1928/1940">1928-1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Vice president's handbook</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual reports of Grand Chapter Meetings, <unitdate type="inclusive" normal="1904/1936">1904-1936</unitdate> (scattered dates)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ritual books </unittitle> <physdesc><extent>2 volumes and 2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Visitor's book, <unitdate type="inclusive" normal="1915/1930">1915-1930</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gift book, <unitdate type="inclusive" normal="1921/1956">1921-1956</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>House regulations</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1944">1944</unitdate>, <unitdate type="inclusive" normal="1962/1973">1962-1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership lists</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legal documents</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters, <unitdate type="inclusive" normal="1922/1969">1922-1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Publications</unittitle></did>
+<c02 level="file"><did><unittitle><title render="italic">Journal</title></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1923">1923</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1932">1932</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><title render="italic">Directory-Journal</title></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1938">1938</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1940">1940</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1944">1944</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1946">1946</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1948">1948</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1950">1950</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><title render="italic">Chapter Officers' Handbook</title></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1941">1941</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1946">1946</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><title render="italic">Constitution and Statutes</title></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1915">1915</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1944">1944</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1951">1951</unitdate></unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

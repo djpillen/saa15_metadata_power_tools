@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::engstrom.xml//EN" encodinganalog="Identifier">
+umich-bhl-851227</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Arnell Engstrom papers, 1952-1970
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Thomas A. La Porte </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-10-30</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Arnell Engstrom papers, 1952-1970</titleproper>
+
+<author>Finding aid created by<lb/> 
+Thomas A. La Porte, June 1993</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Engstrom, Arnell, 1897-1970.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Arnell Engstrom papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1952-1970
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1960-1968
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851227 Aa 2 
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Traverse City, Michigan, businessman, Republican state legislator and chairman of the appropriations committee of the Michigan house of representatives. Correspondence: legislative and campaign files, and files, including materials regarding his election campaigns; personal files; and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The papers came to the library from the Engstrom estate through the Traverse City State Bank (Donor No. <num type="donor" encodinganalog="541$e">5090</num>) in 1971 and 1972.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Board of Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Arnell Engstrom papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Arnell Engstrom was born June 6, 1897 at Traverse City, Michigan.  A high school graduate, Engstrom married the former Mareda Heiges in 1919, with whom he had one son, Richard.</p>
+
+<p>Engstrom was co-owner of the Engstrom-Hicks Insurance agency.  In 1940 he was elected by the 104th Representative District (encompassing the counties of Benzie, Grand Traverse, Leelanau, Wexford and parts of Kalkaska and Missaukee) to the Michigan House of Representatives, a post to which he was subsequently reelected fourteen times.  At the time of his departure from the legislature in 1968 he was the longest serving legislator in the state.</p>
+
+<p>Throughout his career in the House, Engstrom established himself as a prominent Republican and representative of northern lower Michigan.  Sitting on the powerful Ways and Means Committee, a committee which he chaired for the last twelve years of his career, Engstrom became one of the more influential members of the House.  In addition to his chairmanship of the Ways and Means Committee, Engstrom served on several other committees, among them the Committee on Higher Education.</p>
+
+<p>In addition to his career in the state legislature, Engstrom was actively involved in his Traverse City community.  He served on the city's board of supervisors, the city commission and the local school board and was also a founding trustee of the Northwestern Michigan College.  These activities were supplemented by his involvement with membership in the Congregational Church, as well as the local Elks, Masons and Kiwanis Clubs.</p>
+
+<p>Engstrom was an active outdoorsman and conservationist who enjoyed both hunting and fishing.  He usually joined several friends on a yearly hunting trip to Canada and in 1957 he traveled with a group to the African continent for a successful safari big game hunt.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>Arnell Engstrom served in the Michigan House of Representatives from 1940 to 1968.  The Arnell Engstrom Papers, however, only document his activities from approximately 1955 through 1970, with the papers being strongest for the years 1960 to 1968.</p>
+
+<p>The papers are divided into three series: Correspondence Files, Legislative Files, and a small Personal series.  This arrangement is a combination of the original arrangement of the materials (the Correspondence Files and the Legislative Files) and an artificial arrangement of some materials that document Engstrom's personal activities.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Engstrom, Arnell, 1897-1970.</persname>
+<subject source="lcsh" encodinganalog="650">Legislators--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Legislature.</corpname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1946-1960.</geogname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1961-1970.</geogname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+<corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
+<geogname source="lcsh" encodinganalog="651">Traverse City (Mich.)</geogname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<persname source="lcnaf" encodinganalog="600">Engstrom, Arnell, 1897-1970.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence Files</unittitle></did>
+<scopecontent><p>The Correspondence Files are arranged alphabetically.  Some papers are arranged according to the sender, some according to the receiver, some by the subject and some by the sending or receiving agency.  Therefore if a researcher is looking for correspondence between Engstrom and a given individual, it may be necessary to look in several places.  For example, letters to and from Charles Anspach, president of Central Michigan University can be found filed under both 'A' for Anspach and 'C' for Central Michigan.  In addition, although this is a correspondence series, certain non-correspondence material may be found among the papers.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1955/1970">1955-1970</unitdate> [A-Z] </unittitle> <physdesc><extent>24 folders</extent></physdesc></did> <note><p>(includes individual file folder for Philip A. Hart)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Legislative Files, <unitdate type="inclusive" normal="1955/1970">1955-1970</unitdate></unittitle></did>
+<scopecontent><p>The Legislative Files are arranged alphabetically by topical.  Included here is a short subseries of legislative materials arranged alphabetically by correspondent.  Some of these materials are identical in nature to those found in the Correspondence Files, yet this arrangement seems to reflect the original arrangement of the materials.</p></scopecontent>
+<c02 level="file"><did><unittitle>Topical file</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Audit and Appropriations</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Committee on Higher Education </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Elections, <unitdate type="inclusive" normal="1952/1962">1952-1962</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Election, <unitdate type="inclusive" normal="1964">1964</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Election, <unitdate type="inclusive" normal="1966">1966</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Interlochen National Music Camp</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Interstate Cooperation</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Legislative information, <unitdate type="inclusive" normal="1964">1964</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Legislative Service Bureau</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Libraries</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Tourist Council</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Retirement announcement</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Sault Ste. Marie Armory</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Seventy-first birthday announcement</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Testimonial Dinner, <unitdate type="inclusive">May 1, 1965</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Alphabetical file </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Personal</unittitle></did>
+<scopecontent><p>The Personal series includes materials relating to Engstrom's involvement as a trustee of Northwestern Michigan College, as well as his 1957 African trip and a folder of personal studio portraits.</p></scopecontent>
+<c02 level="file"><did><unittitle>Northwestern Michigan College</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>General</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Educational Fund, Inc.</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Board of Trustees Minutes</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>African Trip</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

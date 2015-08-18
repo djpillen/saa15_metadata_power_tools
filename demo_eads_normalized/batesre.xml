@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::batesre.xml//EN" encodinganalog="Identifier">
+umich-bhl-9524</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Bates Real Estate (Ann Arbor, Mich.) records, ca. 1955-ca. 1980
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-11-03</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Bates Real Estate (Ann Arbor, Mich.) records, ca. 1955-ca. 1980</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Bates Real Estate (Ann Arbor, Mich.)
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Bates Real Estate (Ann Arbor, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1955-ca. 1980
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+10 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9524 Bb.2 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Ann Arbor, Michigan, real estate business. Information card file of homes for sale, including price, details about the house and the property, and photograph of the house.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was the gift of the Bates Real Estate firm (donor no. <num type="donor" encodinganalog="541$e">8342</num>), March 1995.  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Bates Real Estate (Ann Arbor, Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Bates Real Estate was an Ann Arbor, Michigan business firm.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>This collection consists of information file cards used by the Bates Real Estate company in its business of selling homes in Ann Arbor, Michigan.  Each card contains information about the physical characteristics of homes for sale in period of approximately 1955 to 1980.  The cards also include a photograph of the house.  The collection is arranged alphabetically by the name of the street where the house is located.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Bates Real Estate.</corpname>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Commerce.</geogname>
+<subject source="lcsh" encodinganalog="650">Architecture, Domestic--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Real estate business--Michigan--Ann Arbor.</subject>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Bates Real Estate.</corpname>
+<geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Dwellings.</geogname>
+<subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Ann Arbor.</subject>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Information card files</unittitle></did><note><p>arranged alphabetically by street name</p></note>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Abbott-Boyce</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Braeside-Cloverlawn</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Coler-Elmwood</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">4</container><unittitle>Encore-Gross</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">5</container><unittitle>Haab-Kuehnle</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">6</container><unittitle>Lafayette-Miller</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">7</container><unittitle>Miner-Plymouth</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">8</container><unittitle>Pomona-Starwich</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">9</container><unittitle>State-Wellington</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">10</container><unittitle>Wells-Zukey Lake</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

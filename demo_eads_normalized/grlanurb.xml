@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::grlanurb.xml//EN" encodinganalog="Identifier">
+umich-bhl-85203</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Greater Lansing Urban League records, 1964-1976
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>May 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-05-21</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Greater Lansing Urban League records, 1964-1976</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Greater Lansing Urban League.
+</corpname>
+
+
+</origination>
+
+<unittitle encodinganalog="245">
+Greater Lansing Urban League records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1964-1976
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85203 Bd 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Affiliate chapter of the National Urban League. Annual reports, minutes of board of directors, and subject files concerning the work of the league in matters of employment and other community services; also speeches and other files of Charles H. Mitchner, executive director.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was deposited by the chapter (donor no.<num type="donor" encodinganalog="541$e">6078</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Greater Lansing Urban League records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Greater Lansing Urban League is a chapter of the National Urban League. The chapter is involved in such issues as employment, housing, and other welfare concerns.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Greated Lanasing Urban League reocrds have been arranged into two series: Organizational Records and Programs and Topical Files. The Organizational records series consists of the minutes of the board of directors, audits, and annual and other reports. The Programs series includes files on the different activities of the League in matters of jobs, education and housing. This series also includes speeches and other files of Charles H. Mitchner, executive director of the League chapter.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">Lansing (Mich.).</geogname>
+<corpname source="lcnaf" encodinganalog="610">National Urban League.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Greater Lansing Urban League.</corpname>
+<persname source="lcnaf" encodinganalog="700">Mitchner, Charles H.</persname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Organizational Records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>By-laws and revisions</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Minutes of Board of Directors and supplementary papers</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1964/1966">1964-1966</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> January-February 1973</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> March-April 1973</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> May-June 1973</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> September-October 1973</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> November-December 1973</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> January 1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> February-March 1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> April-June 1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> September-October 1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive"> November-December 1974</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Annual Report</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1971">1971</unitdate>, <unitdate type="inclusive" normal="1972">1972</unitdate> and <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Audits</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1972">1972</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Personnel policy statement</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Quarterly reports and fact sheets, <unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Quarterly reports and fact sheets, <unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Programs and topical files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minority Education Survey Program, <unitdate type="inclusive" normal="1975">1975</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>National Urban League materials </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Calendars</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Jackson County Outreach program, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minority Health Service Proposal, <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Proposal for Providing Service</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Consumer Health, Education and Training Program</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Leadership Development Program, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletter, "Outreach"</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Management Training and Development Seminar </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Conference of Municipal officials, <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Lansing Urban Renewal material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Speeches by executive director, Charles H. Mitchner</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Employment materials </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Welfare</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Lansing Family Health Center Project, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Project "Leap"</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Assistant Regional Director for Governmental Affairs</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellanea </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Newspaper clippings, <unitdate type="inclusive" normal="1969/1976">1969-1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>National Urban League Black Student Summer Program Annual Report, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>National Urban League Field Services New Thrust Proposal Summaries, <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Comprehensive Employment and Training Act Proposal, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Family Helpers Proposal, Lansing School District, <unitdate type="inclusive"> February 1969</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

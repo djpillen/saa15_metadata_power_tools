@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::mcnamee.xml//EN" encodinganalog="identifier">umich-bhl-88561</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Ruth Braden McNamee Papers <date>1964-1984</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Christopher Leonard</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2002</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>October 2002</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20021023</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Ruth Braden McNamee Papers,  1964-1984</titleproper><author>Finding aid prepared by: <lb/>Christopher Leonard</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">McNamee, Ruth Braden, 1921-</persname></origination>
+<unittitle encodinganalog="245">Ruth Braden McNamee Papers
+<unitdate type="inclusive" encodinganalog="245$f" normal="1964/1984">1964-1984</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">0.5 linear ft.</extent></physdesc>
+<abstract>Mayor of Birmingham, Michigan, 1970-1971, and Republican member of the Michigan House of Representatives, 1974-1984. Biographical material, speeches and articles, subject files relating to her public service activities, and photographs.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">88561 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was donated by Ruth Braden McNamee (donor no. <num type="donor" encodinganalog="541$e">7179</num>) in April 1985 and July 1986.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Ruth Braden McNamee Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Ruth Braden McNamee was born in New York City in 1921. She attended Bucknell University, receiving a bachelor's degree in 1942 in political science and English. In 1946, she married William A. McNamee with whom she has two children.</p>
+<p>McNamee served on the Birmingham (Michigan) city commission from 1965-1974. She was also mayor of Birmingham from 1970-1971. In 1974, McNamee was elected to the Michigan House of Representatives as a Republican representing the 64th district in Oakland County. She was re-elected to her seat in 1976, 1978, 1980, and 1982 but chose not to run in 1984. In addition, she has held positions as Oakland County supervisor (1968), member of S.E.M.C.O.G. (1969-1974), trustee of the Michigan Municipal League, and trustee of Bucknell University (1982-1987).</p>
+<p>Highlights of her career include passage of Birmingham's fair housing ordinance, controlling the civil disturbance of August 1970, drafting a state law regulating transactions in precious metals, and casting the deciding vote in 1984 in the Michigan House against a US constitutional convention on the balanced budget issue.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The papers of Ruth Braden McNamee cover her career in politics from 1964 to 1984 and include four inches of material. Most of the material is from her service as mayor of Birmingham (1970-1971) and as a state representative from Oakland County (1974-1984). The papers have been divided into four series: Biographical/Personal, Speeches and articles, Birmingham city government, and Michigan house of representatives. There are also several photographs which remain with the papers in a separate folder at the end of the collection.</p>
+<p>Most of the collection is made up of legislative newsletters, press releases, and speeches given by McNamee. In the last two series, there are also interesting files on: Birmingham's fair housing ordinance, the first passed by referendum in a white community in the country; the 1970 Birmingham-Detroit mayoral exchange between McNamee and Roman Gribbs; the August 1970 riot in Birmingham which led McNamee to declare a state of emergency, impose a dusk to dawn curfew, prohibit public gatherings, and contemplate requesting National Guard forces; the Precious Metals Recovery Act; her 1984 vote against a US constitutional convention; and correspondence with the Millikens, mostly Helen, on the Equal Rights Amendment.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><geogname source="lcsh" encodinganalog="651">Birmingham (Mich.)--Politics and government.</geogname><subject source="lcsh" encodinganalog="650">Discrimination in housing--Michigan.</subject><persname source="lcnaf" encodinganalog="600">McNamee, Ruth Braden, 1921-</persname><corpname source="lcnaf" encodinganalog="610">Michigan. Legislature. House of Representatives.</corpname><subject source="lcsh" encodinganalog="650">Women legislators--Michigan.</subject><subject source="lcsh" encodinganalog="650">Women mayors--Michigan--Birmingham.</subject><subject source="lcsh" encodinganalog="650">Mayors--Michigan--Birmingham.</subject><subject source="lcsh" encodinganalog="650">Legislators--Michigan.</subject></controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head><persname source="lcnaf" encodinganalog="600">McNamee, Ruth Braden, 1921-</persname><corpname source="lcnaf" encodinganalog="610">Michigan. Legislature. House of Representatives.</corpname><persname source="lcnaf" encodinganalog="600">Milliken, William G., 1922-</persname></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Biographical/Personal</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Vita and Overview Articles</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper Articles, <unitdate type="inclusive" normal="1964/1984">1964-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Awards and Honors</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Campaign Materials</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Political scrapbook containing correspondence and clippings, <unitdate type="inclusive" normal="1965/1985">1965-1985</unitdate></unittitle><physdesc><physfacet>photocopies</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers largely concerning religious views and politics, <unitdate type="inclusive" normal="1965/1985">1965-1985</unitdate></unittitle></did><note><p>(correspondence, articles, etc.)</p></note></c02></c01>
+<c01 level="series"><did><unittitle>Speeches and Articles</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1970/1981">1970-1981</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Birmingham city government</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fair Housing Ordinance, <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Birmingham-Detroit Mayoral Exchange, <unitdate type="inclusive">May 1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Civil Disturbance (parks riot), <unitdate type="inclusive">August 1970</unitdate></unittitle><note><p>clippings and correspondence</p></note></did></c02></c01>
+<c01 level="series"><did><unittitle>Michigan House of Representatives</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legislative Newsletters, <unitdate type="inclusive" normal="1975/1981">1975-1981</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Press Releases, <unitdate type="inclusive" normal="1975/1984">1975-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Precious Metals Recovery Act, <unitdate type="inclusive" normal="1981/1982">1981-1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>US Constitutional Convention, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle><note><p>clippings and correspondence</p></note></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Milliken, William and Helen, <unitdate type="inclusive" normal="1978/1983">1978-1983</unitdate>  (correspondence and 1978 nomination speech)</unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle><genreform source="aat" normal="Photographs">Photographs</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Campaign photo and bill signing (with Governor William Milliken)</unittitle></did></c02></c01></dsc></archdesc></ead>

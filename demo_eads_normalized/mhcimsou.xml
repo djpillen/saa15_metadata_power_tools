@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::mhcimsou.xml//EN" encodinganalog="Identifier">
+umich-bhl-87202</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Immigration Sources Project records, 1977-1979
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>April 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-04-01</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Immigration Sources Project records, 1977-1979</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Michigan Historical Collections
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Immigration Sources Project records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1977-1979
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+87202 Bimu C445 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Project established by the Michigan Historical Collections of the University of Michigan to survey archival records relating to the study of immigration in the Netherlands, Poland, Finland, Ireland, and Michigan. Administrative files.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The project records were retired from the files of the Michigan Historical Collections (donor no. <num type="donor" encodinganalog="541$e">5994</num>)</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Immigration Sources Project records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Immigration Sources Project was established by the Michigan Historical Collections of the University of Michigan to survey archival records relating to the study of immigration in the Netherlands, Poland, Finland, Ireland, and Michigan. The assumption underlying the project was that the European archives would contain materials of immigrants writing home from Michigan and that these letters would provide the most revealing documentation of the immigrant experience.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The project files include population data, notes, lists, questionnaires, and correspondence.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Archives.</subject>
+<geogname source="lcsh" encodinganalog="651">Netherlands--Emigration and immigration.</geogname>
+<geogname source="lcsh" encodinganalog="651">Poland--Emigration and immigration.</geogname>
+<geogname source="lcsh" encodinganalog="651">Finland--Emigration and immigration.</geogname>
+<geogname source="lcsh" encodinganalog="651">Ireland--Emigration and immigration.</geogname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Emigration and immigration.</geogname>
+<subject source="lcsh" encodinganalog="650">Irish Americans--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Dutch Americans--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Finnish Americans--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Polish Americans--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Immigrants--Michigan.</subject>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Project files</unittitle></did>
+<c02 level="file"><did><unittitle>County population data (Mich.)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>A-I , <unitdate type="inclusive" normal="1910">1910</unitdate>, <unitdate type="inclusive" normal="1930">1930</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>J-W,  <unitdate type="inclusive" normal="1910">1910</unitdate>, <unitdate type="inclusive" normal="1930">1930</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>City population data (Mich.) <unitdate type="inclusive" normal="1910/1930">1910-1930</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ward population data (Detroit, Grand Rapids, Saginaw) <unitdate type="inclusive" normal="1910">1910</unitdate> only</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Rough Notes</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Netherlands Survey</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Poland Survey I</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Poland Survey II</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ireland Survey I</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ireland Survey I </unittitle></did> <note><p>(includes copies of immigrant letters collected by Jo Ellen Vinyard)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Finland Survey</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Lists</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Catholic Churches (Michigan)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Churches-non Catholic (Michigan)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Associations (Michigan)</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Guide maps</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Returned questionnaires from Michigan</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Public Libraries</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Historical Societies</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Museums</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Colleges and Universities</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Project correspondence </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous publications of the project</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

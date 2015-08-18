@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::boydfam.xml//EN" encodinganalog="Identifier">
+umich-bhl-85498</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Boyd family papers, 1761-1945
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-12-04</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Boyd family papers, 1761-1945</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<famname source="lcnaf" encodinganalog="100">
+Boyd family.
+</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Boyd family papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1761-1945
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85498 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+William H. Boyd family of Monroe, Michigan. Correspondence, diaries, addresses, photograph, and miscellaneous papers concerning family and business affairs, temperance, slavery and the First Presbyterian Church of Monroe, Michigan. Correspondents include: Isaac P. Christiancy and Alpheus Felch.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Carrie L. Boyd (donor no. <num type="donor" encodinganalog="541$e">1083</num>) and came to the library in different accessions, 1937-1945.</p></acqinfo>
+
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Boyd family papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>William H. Boyd was born in Hartwick, Otsego county, New York on October 6, 1811. He was educated at Ovid Academy and Rensselaer Institute, then returned to Ovid, New York where he worked with his father in his mercantile business. In 1836, he decided to move to Monroe, Michigan where he opened a dry goods business, to which he eventually added groceries, hardware and products.</p>
+
+<p>In Monroe, Boyd continued his church activities begun in New York state. He joined the First Presbyterian Church and became active in the state Sunday School Association. He also attended national and international conventions of the association, and was a member and vice-president (1876) of the American Sunday School Union.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Boyd family collection includes correspondence, diaries of family members, addresses, photographs, and miscellaneous papers concerning family and business affairs, temperance, slavery and the First Presbyterian Church of Monroe, Michigan. Correspondents include: Isaac P. Christiancy and Alpheus Felch.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+
+<famname source="lcnaf" encodinganalog="600">Boyd family.</famname>
+<corpname source="lcnaf" encodinganalog="610">First Presbyterian Church (Monroe, Mich.)</corpname>
+<geogname source="lcsh" encodinganalog="651">Monroe (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Monroe.</subject>
+<corpname source="lcnaf" encodinganalog="610">Presbyterian Church--Michigan--Monroe.</corpname>
+<subject source="lcsh" encodinganalog="650">Antislavery movements--United States.</subject>
+<subject source="lcsh" encodinganalog="650">Temperance--Michigan--Monroe.</subject>
+<persname source="lcnaf" encodinganalog="700">Boyd, Carrie Lucy, 1864-1949.</persname>
+<persname source="lcnaf" encodinganalog="700">Boyd, Irving Payson, 1851-1923.</persname>
+<persname source="lcnaf" encodinganalog="700">Boyd, William Augustus, 1785-1854.</persname>
+<persname source="lcnaf" encodinganalog="700">Boyd, William H. (William Hart), 1811-1898.</persname>
+<persname source="lcnaf" encodinganalog="700">Christiancy, Isaac Peckham, 1812-1890.</persname>
+<persname source="lcnaf" encodinganalog="700">Felch, Alpheus, 1804-1896.</persname>
+
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<persname source="lcnaf" encodinganalog="600">Boyd, Irving Payson, 1851-1923.</persname>
+<persname source="lcnaf" encodinganalog="600">Boyd, William H. (William Hart), 1811-1898.</persname>
+<famname source="lcnaf" encodinganalog="600">Boyd family.</famname>
+
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1832/1859">1832-1859</unitdate> </unittitle></did> <note><p>(include letter from Alpheus Felch,  April 21, 1848)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1860/1869">1860-1869</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1870/1878">1870-1878</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1881/1884">1881-1884</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1885/1889">1885-1889</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1890/1899">1890-1899</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1900/1904">1900-1904</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1905/1910">1905-1910</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1912/1945">1912-1945</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Genealogical material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Deeds and legal agreements, <unitdate type="inclusive" normal="1761/1855">1761-1855</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notes of William H. Boyd while a student at Rensselaer School, <unitdate type="inclusive" normal="1832">1832</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches and notes of William H. Boyd</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Addresses and notes on temperance by William H. Boyd</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History of the Presbyterian Church of Monroe by Carrie Boyd</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Presbyterian Church historical material</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous addresses and notes </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform>: portraits of family members and friends</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Business ledger and cash book </unittitle> <physdesc><extent>3 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Scrapbooks, notebooks, expense book, etc.</unittitle></did></c02>
+<c02 level="file"><did><unittitle><genreform normal="Diaries">Diaries</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Diary of Irving Payson Boyd, <unitdate type="inclusive" normal="1865">1865</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Diary of Carrie L. Boyd, <unitdate type="inclusive" normal="1876">1876</unitdate></unittitle></did></c03></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::lidicoat.xml//EN" encodinganalog="identifier">umich-bhl-9948</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Richard T. Liddicoat Papers, <date>1890-1960</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Crystal Zeh</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">1999</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Crystal Zeh, <date>October 1999</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>1999-10-26</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Richard T. Liddicoat Papers, <date type="inclusive">1890-1960</date></titleproper><author>Finding aid prepared by: <lb/>Crystal Zeh</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Liddicoat, Richard T. (Richard Thomas), b. 1891.</persname></origination>
+<unittitle encodinganalog="245">Richard T. Liddicoat Papers
+<unitdate type="inclusive" encodinganalog="245$f" normal="1890/1960">1890-1960</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">0.7 linear ft.</extent></physdesc>
+<abstract>University of Michigan professor of engineering mechanics; papers include biographical information, writings, visual materials, and World War II letters of his two sons.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">9948 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The papers were transferred to the library though Eloise Liddicoat, daughter-in-law of Richard T. Liddicoat, in 1999. (Donor no. <num type="donor" encodinganalog="541$e">8829</num>)</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Richard T. Liddicoat Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>In a formal statement conferring upon him the title of University of Michigan, Richard T. Liddicoat is remembered by colleagues with "affectionate esteem for his devotion to duty and for his friendliness and verve."  This devotion led Professor Liddicoat to his most memorable research success, a helicopter, the ideas from which were later used in large jet powered models.</p>
+<p>Professor Liddicoat was born in Ishpeming, Michigan of Cornish mining ancestry.  In 1912 he enrolled in the University of Michigan College of Engineering, and was graduated with a baccalaureate in civil engineering in 1916.  While he served in World War I, his young wife, Carmen, and their infant son, Richard ("Dick"), born in 1918, lived with his parents in Kearsarge, Michigan.  Their son, William, ("Bill") was born several years later.</p>
+<p>In 1919, Liddicoat joined the staff of the University of Michigan College of Engineering as an instructor in engineering mechanics.  Research into helicopters would be one of his continuing interests at the university.  In 1923, he created a device for illustrating critical speeds and resonance in helical springs and shafts.  Throughout the next several years, Liddicoat also found time to continue his education doing graduate work at the Massachusetts Institute of Technology, the California Institute of Technology and the University of Michigan.  He obtained his master's degree in 1930 and his doctorate from the University of Michigan in 1940.  Liddicoat was made assistant professor in 1925 and full professor in 1957.  He retired from the university in 1962.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The collection of Richard Liddicoat is contained in four small series:  Biographical Information/Personal Material, Writings, Visual Materials, and World War II Letters of his two sons Richard and William.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><persname source="lcnaf" encodinganalog="600">Liddicoat, Richard T. (Richard Thomas), b. 1891.</persname><corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname><corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Engineering Mechanics.</corpname><subject source="lcsh" encodinganalog="650">World War, 1939-1945--Personal narratives, American.</subject><corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Engineering.</corpname></controlaccess>
+
+<controlaccess><head>Subjects - Visual Material:</head><persname source="lcnaf" encodinganalog="600">Liddicoat, Richard T. (Richard Thomas), b. 1891.</persname><subject source="lctgm" encodinganalog="650">Classrooms--Michigan--Ann Arbor.</subject><subject source="lctgm" encodinganalog="650">Helicopters--American.</subject><subject source="lctgm" encodinganalog="650">Teachers--Michigan--Ann Arbor.</subject></controlaccess>
+
+<controlaccess><head>Contributors:</head><persname source="lcnaf" encodinganalog="700">Liddicoat, Richard T. (Richard Thomas), 1918-</persname></controlaccess>
+
+<controlaccess><head>Genre/Form:</head><genreform source="aat" encodinganalog="655">Motion pictures.</genreform><genreform source="aat" encodinganalog="655">Photographs.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Biographical Information/Personal Material</unittitle></did><scopecontent><p>There is a small folder of Biographical Information/Personal Material, which includes brief biographical information contained in a letter written by the Board of Regents conferring upon Liddicoat the title of professor emeritus.  Also found in this series is a narrative written by Eloise Liddicoat, the wife of his son Bill and a program from a school play of Liddicoat's son, Bill, which bears Jesse Owens autograph on the back.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical citation, etc.</unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle>Writings</unittitle></did><scopecontent><p>The Writings series includes Liddicoat's 1940 dissertation entitled "Analytical determination of coefficient of contraction for perfect or nonviscous liquid flowing through sharp-edged circular orifice in plane wall."  There is also a report done in 1931 on his experimental study of human tolerance for horizontally applied accelerating forces and a manual that he wrote in 1946 on materials testing.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dissertation, <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Research Papers, <unitdate type="inclusive" normal="1931">1931</unitdate>, <unitdate type="inclusive" normal="1952">1952</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Laboratory Manual, <unitdate type="inclusive" normal="1946">1946</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unittitle><genreform normal="Photographs">Visual Material</genreform></unittitle></did><scopecontent><p>The Visual Material series includes both photographs and a motion picture film.  The photographs depict the College of Engineering as it looked when housed in West Engineering, now known as West Hall.  There are also photographs taken in Kearsarge and in Ann Arbor.  Within a red album are photographs of the Liddicoat family in Kearsarge, many of these are of Professor Liddicoat's wife, Carmen, and their infant son, Richard, Jr., and some World War I memorabilia.  Also included is a formal photograph of the Liddicoat family, and a portrait of Professor Liddicoat.  There are a number of images documenting his education and career as an engineer at the University of Michigan.  These include pictures of Liddicoat as a student surrounded by his undergraduate friends, as a teacher in a West Engineering classroom, with colleagues in his West Engineering office, photographs of the interior of his laboratory at the University of Michigan.  The motion picture concerns Liddicoat's research with helicopters.  The film has not yet been viewed because of broken sprockets and access will be prohibited until the film has been copied into a videotape format.</p></scopecontent>
+<c02 level="file"><did><unittitle><genreform source="aat" normal="Photographs">Photographs</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Red Album, Liddicoat family in Kearsarge, Michigan, <unitdate type="inclusive" normal="1918">1918</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Family Portrait, <unitdate>undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>West Engineering, <unitdate>undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Helicopter Research, 1920-1927</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="map-case" label="Drawer">11</container><unittitle><genreform source="aat" normal="Motion pictures">Motion picture</genreform> of helicopter demonstration, <unitdate type="inclusive">ca. 1930</unitdate></unittitle><physdesc><physfacet>16 mm; ca. 10 minutes</physfacet></physdesc></did><note><p>(restricted access pending repair and duplication)</p></note></c02><c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>Engineering drawings of helicopter, <unitdate type="inclusive">June 1923</unitdate></unittitle><physdesc><extent>2 items</extent></physdesc></did><note><p>(restricted access pending repair and duplication)</p></note></c02></c01>
+<c01 level="series"><did><unittitle>World War II Letters</unittitle></did><scopecontent><p>The  series World War II Letters includes letters written to Liddicoat and his wife from their two sons Richard and William serving in the military.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters written to parents by William and Richard Liddicoat during the war</unittitle></did></c02></c01></dsc></archdesc></ead>

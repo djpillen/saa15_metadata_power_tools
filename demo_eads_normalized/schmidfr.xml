@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::schmidfr.xml//EN" encodinganalog="Identifier">
+umich-bhl-2013093</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Friedrich Schmid church records
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michael Shallcross  </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2013">
+2013</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2013</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2013-09-04</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Friedrich Schmid church records, 1833-1875</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michael Shallcross, 2013</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Schmid, Friedrich, 1807-1883
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Friedrich Schmid church records, 
+<unitdate type="inclusive" encodinganalog="245$f">
+1833-1875
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+8.78 GB (online)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2013093 Aa 3
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Friedrich Schmid was a pioneering clergyman, regarded as the first Lutheran pastor in Michigan.  He organized the first Evangelical Lutheran Congregation in the state, helped organize some 20 churches in southeastern Michigan, and founded and served as the first president of the Michigan Synod.  Collection includes digital images of records of baptisms, marriages, and deaths, 1833-1875.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Donated by Rev. Lyle Hallauer of the Salem Evangelical Lutheran Church in Ann Arbor, Mich. (Donor No.   
+<num type="donor" encodinganalog="541$e">6441</num>), and Zion Lutheran Church in Ann Arbor, Mich. (Donor No.<num type="donor" encodinganalog="541$e">6828</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Friedrich Schmid church records, Bentley Historical Library, University of Michigan</p></prefercite>
+
+<processinfo><p>In preparing digital materials for long-term preservation and access, the Bentley Historical Library adheres to professional best practices and standards to ensure the authenticity, integrity, and security of material.  For more information on the library's digital processing procedures and policies, please see http://deepblue.lib.umich.edu/handle/2027.42/93344.</p>
+<p><extptr href="digitalproc" show="embed" actuate="onload"/></p>
+</processinfo>
+
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Friedrich Schmid (sometimes identified as Frederick) was born on September 6, 1807 in Germany and was ordained a Lutheran minister on April 10, 1833 upon completion of his studies at the Basel Mission House.  German immigrants in Washtenaw County had previously requested a pastor from the Basel Mission Society and so Schmid was sent to America, arriving in Ann Arbor on August 20, 1833 and preaching his first sermon the same week.  By November 3 he had established the territory's first Evangelical Lutheran Congregation in Scio Township (which later became Salem Lutheran Church).  As the congregation grew, the original log cabin church was replaced by a frame building, partially funded by supporters in Stuttgart, Germany.  Schmid married Louise Mann, a fellow immigrant from Germany, on September 4, 1834 and the couple had six sons and six daughters. </p>
+
+<p>Identified as the first German Lutheran pastor in Michigan, Schmid traveled around the territory (and then state) extensively, organizing congregations and founding 20 churches in Monroe, Ypsilanti, Plymouth, Lansing, Grand Rapids, Saginaw, Sebewaing and other places.  Although Schmid's work took him across the state and led him to found the Michigan Synod and serve as its president, he retained a strong interest in the Lutheran community around Ann Arbor.  He resigned as pastor of Salem Lutheran Church in 1867, but continued as Pastor of Bethlehem Church in Ann Arbor until 1871. The question of a new location for the Bethlehem Church split the congregation in 1875. A number of the members, including Reverend Schmid, withdrew from the Bethlehem Church and organized the Zion Lutheran Church. Schmid died in Ann Arbor on August 30, 1883, a week shy of his seventy-sixth birthday; he was was survived by Louise, who passed away on March 10, 1899. </p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>Materials in this online collection include digitized copies of registers of baptisms, marriages, deaths, and general information about families in the congregations of Salem Lutheran Church and Zion Lutheran Church (along with its precursor organization, Bethlehem Church) in the period between 1833 and 1875.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Schmid, Friedrich, 1807-1883.</persname>
+<subject source="lcsh" encodinganalog="650">Marriage records--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Registers of births, etc.--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">Salem Evangelical Lutheran Church (Ann Arbor, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Zion Lutheran Church (Ann Arbor, Mich.)</corpname>
+
+</controlaccess>
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Friedrich Schmid church records</unittitle></did>
+<c02 level="file"><did><physloc>Online</physloc><unittitle>Family Register, approximately <unitdate type="inclusive" normal="1833/1838">1833-1838</unitdate></unittitle> <physdesc><extent>1.5 GB</extent></physdesc><dao href="http://hdl.handle.net/2027.42/99578" show="new" actuate="onrequest"><daodesc><p>[view item]</p></daodesc></dao></did></c02>
+<c02 level="file"><did><physloc>Online</physloc><unittitle>Record of Baptisms, <unitdate type="inclusive" normal="1833/1845">1833-1845</unitdate></unittitle><physdesc><extent>1.1 GB</extent></physdesc><dao href="http://hdl.handle.net/2027.42/99574" show="new" actuate="onrequest"><daodesc><p>[view item]</p></daodesc></dao></did></c02>
+<c02 level="file"><did><physloc>Online</physloc><unittitle>Record of Baptisms, <unitdate type="inclusive" normal="1845/1875">1845-1875</unitdate></unittitle><physdesc><extent>1.6GB</extent></physdesc><dao href="http://hdl.handle.net/2027.42/99575" show="new" actuate="onrequest"><daodesc><p>[view item]</p></daodesc></dao></did></c02>
+<c02 level="file"><did><physloc>Online</physloc><unittitle>Record of Deaths, <unitdate type="inclusive" normal="1833/1871">1833-1871</unitdate></unittitle><physdesc><extent>1.1 GB</extent></physdesc><dao href="http://hdl.handle.net/2027.42/99576" show="new" actuate="onrequest"><daodesc><p>[view item]</p></daodesc></dao></did></c02>
+<c02 level="file"><did><physloc>Online</physloc><unittitle>Record of Marriages, <unitdate type="inclusive" normal="1833/1871">1833-1871</unitdate></unittitle><physdesc><extent>1.4 GB</extent></physdesc><dao href="http://hdl.handle.net/2027.42/99579" show="new" actuate="onrequest"><daodesc><p>[view item]</p></daodesc></dao></did></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::histart.xml//EN" encodinganalog="Identifier">
+umich-bhl-2013070</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Department of History of Art (University of Michigan) records, 1946-2013
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Hannah Gulick, November 2013. Digital materials processed by Elise Reynolds, February 2014 </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2014">
+2014</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2014</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2014-07-28</date><item>Original encoding from Word 2010 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Department of History of Art <lb/>(University of Michigan) records, <lb/>1946-2013
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Hannah Gulick, November 2013. <lb/>Digital materials processed by Elise Reynolds, February 2014
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Department of History of Art.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Department of History of Art (University of Michigan) records
+<unitdate type="inclusive" encodinganalog="245$f">
+1946-2013
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.0 linear feet, 407.7 MB
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2013070 Bimu 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The Department of History of Art was originally established as the Department of Fine Arts in 1911. The collection ranges from 1946 to 2013 and primarily contains personnel files, newsletters and other departmental publications, and meeting minutes of the Executive Committee and Faculty Meetings. 
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by the Department of History of Art (Donor No. <num type="donor" encodinganalog="541$e">8397</num>) beginning in 1995 with additions in 2012 and 2013. 
+ 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>Periodic additions to the records are expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The RG records are open for research except for certain records restricted by statute or university policy.  Restricted material includes personnel-related files, including search, review, promotion, and tenure files; student educational records; client/patient records; and records of executive officers of the university.</p>
+
+<p>The RECORD GROUP record group includes restricted material in the following categories: 
+<list type="simple">
+<item>Personnel Related Records  -- Digital files</item>
+
+</list></p>
+
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>
+<num type="donor" encodinganalog="541$e">8397</num>
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Department of History of Art (University of Michigan) records, Bentley Historical Library, University of Michigan</p></prefercite>
+
+
+<processinfo>
+<p><extptr href="digitalproc" show="embed" actuate="onload"/></p>
+</processinfo>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Before the establishment of a formal department dedicated to the study of the history of art, the topic was taught by a few professors from the Departments of Greek and Latin who incorporated the study of art into their classes. There was no defined art history department until 1911 with the creation of the Department of Fine Arts under the College of Literature, Science, and the Arts. The first chair of the new department was Howard Cross, who received the title as well as appointment as Assistant Professor of Fine Arts. In 1919 the department grew with the addition of Bruce Donaldson as an Instructor of Fine Arts. Over the course of Cross's administration, six graduate degrees in fine arts were awarded, and in 1922 Cross was succeeded by Donaldson as the new chair of the department. It was during Donaldson's administrative years that the department became less focused on the teaching of fine arts and more focused on the integration of classes regarding the history of art. In 1959, the department changed its name to the Department of History of Art.  </p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Department of History of Art collection is comprised up of three series: Personnel, Publications and Administration.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Art--History.</subject>
+<subject source="lcsh" encodinganalog="650">Art--Study and teaching--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Department of History of Art.</corpname>
+</controlaccess>
+
+
+
+
+
+
+
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Personnel</unittitle></did>
+<scopecontent><p>The Personnel series contains files on former faculty members, primarily from the 1950s and 1960s although the content dates from 1946 to 1993. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Grigaut, Paul L., <unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Loehr, Max, <unitdate type="inclusive" normal="1950/1963">1950-1963</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ludden, Franklin Monroe, <unitdate type="inclusive" normal="1948/1956">1948-1956</unitdate>, <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Maurer, Evan, <unitdate type="inclusive" normal="1981/1988">1981-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Old, Clifton C., <unitdate type="inclusive" normal="1964/1982">1964-1982</unitdate>, <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Phillips, Jr., Kyle Meredith, <unitdate type="inclusive" normal="1960/1962">1960-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Plummer, James, <unitdate type="inclusive" normal="1946/1963">1946-1963</unitdate> </unittitle></did> <note><p>(Includes photo)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Stechow, Wolfgang, <unitdate type="inclusive" normal="1962/1964">1962-1964</unitdate>, <unitdate type="inclusive" normal="1966">1966</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Stern, Harold P., <unitdate type="inclusive" normal="1963">1963</unitdate>, <unitdate type="inclusive" normal="1967/1977">1967-1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Waller, Bret, <unitdate type="inclusive" normal="1973/1976">1973-1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Wenley, Archibald G., <unitdate type="inclusive" normal="1949/1962">1949-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Wethey, Harold E., <unitdate type="inclusive" normal="1946/1986">1946-1986</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did> <note><p>(includes photo)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Publications</unittitle></did>
+<scopecontent><p>The Publications series includes information about the East Asian Art and Archaeology Newsletter, and issues of the departmental newsletter, flyers for events held by the department, four years of the student publication Helicon Review, and the articles which the History of Art 489 class published regarding their study of Disney World. </p></scopecontent><c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Department Newsletter, 2004-2009/10</unittitle></did></c02>
+<c02 level="file"><did><unittitle>East Asian Art and Archaeology Newsletter</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Funding, <unitdate type="inclusive" normal="1983/2001">1983-2001</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Grant Correspondence, <unitdate type="inclusive" normal="1976/2003">1976-2003</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Lu-Sheng, Chen Correspondence, <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletter Proposal</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Subscription Services</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Events, <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic">Helicon Review</title> The University of Michigan Undergraduate History of Art Journal (Volumes II-V), <unitdate type="inclusive" normal="2009/2012">2009-2012</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>HISTART 489, <unitdate type="inclusive" normal="2008">2008</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Administration [Digital]</unittitle></did>
+<scopecontent><p>The Administration series contains records of the meeting minutes of the Executive Committee from 2008 to 2013 and Faculty Meetings, 1962-2013. These records are kept digitally. Because of occasional discussions relating to personnel matters, the minutes are governed by a personnel records restriction.</p></scopecontent><c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Executive Committee Meeting Minutes, <unitdate type="inclusive" normal="2008/2013">2008-2013</unitdate></unittitle></did> <accessrestrict><p>[PR Restricted until  July 1, <date type="restriction" normal="2043-07-01">2043</date>]</p></accessrestrict></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Executive Committee Meeting Minutes, <unitdate type="inclusive" normal="2008/2013">2008-2013</unitdate></unittitle></did> <accessrestrict><p>[PR Restricted until  July 1, <date type="restriction" normal="2043-07-01">2043</date>]</p></accessrestrict></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Faculty Meeting Minutes, <unitdate type="inclusive" normal="2011/2012">2011-2012</unitdate></unittitle></did> <accessrestrict><p>[PR Restricted until  July 1, <date type="restriction" normal="2042-07-01">2042</date>]</p></accessrestrict></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Faculty Meeting Minutes, <unitdate type="inclusive" normal="2012/2013">2012-2013</unitdate></unittitle></did> <accessrestrict><p>[PR Restricted until  July 1, <date type="restriction" normal="2043-07-01">2043</date>]</p></accessrestrict></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Faculty Meeting Minutes, <unitdate type="inclusive" normal="1962/1999">1962-1999</unitdate></unittitle></did> <accessrestrict><p>[PR Restricted until  July 1, <date type="restriction" normal="2029-07-01">2029</date>]</p></accessrestrict></c02></c01> 
+
+</dsc>
+
+<descgrp type="add"><relatedmaterial><head>Related Material</head><p>The <title render="italic">East Asian Art and Archaeology</title> Newsletter is cataloged separately under Bentley Library call number <title render="italic">FImu C26 E13 N558</title>. The newsletter was originally published under the East Asian Program until 1993 when the program changed its name to Center for Japanese Studies.</p></relatedmaterial></descgrp></archdesc>
+
+
+
+</ead>

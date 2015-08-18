@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::smiley.xml//EN" encodinganalog="identifier">umich-bhl-85377</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for Monica Smiley Papers <date>1982-1984</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Helmi Raaska</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2003</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Thomas E. Powers, <date>July 2003</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc>
+<change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20030725</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>Monica Smiley Papers, <date type="inclusive">1982-1984</date></titleproper><author>Finding aid prepared by: <lb/>Helmi Raaska</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="marc21"><did>
+<origination><persname source="lcnaf" encodinganalog="100">Smiley, Monica.</persname></origination>
+<unittitle encodinganalog="245">Monica Smiley Papers
+<unitdate type="inclusive" encodinganalog="245$f" normal="1982/1984">1982-1984</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">1 linear ft.</extent></physdesc>
+<abstract>Officer with the Michigan Conference of the National Organization for Women.  Administrative and topical files relating to her NOW activities.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">85377 Aa 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The collection was donated by Monica Smiley (donor no. <num type="donor" encodinganalog="541$e">7117</num>) in October 1984.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The collection is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., Monica Smiley Papers, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>Monica Smiley, a native of Bay City, earned a bachelor's degree in journalism from Bradley University in Peoria, Illinois. She worked as a newspaper reporter and editor, as well as a magazine and newsletter editor and publisher. Beginning in 1978, Smiley was employed by Photo Marketing Association International of Jackson where she was promoted to Director of Communications and Editor and Publisher of Photo Marketing magazine. She resigned her position at Photo Marketing Association in 1984 to assist in the establishment of impact Publishing Company of Jackson, where she serves as vice-president.</p>
+<p>An outspoken feminist, Ms. Smiley has been active in the women's movement. She held a variety of leadership positions in the Jackson Chapter of the Michigan Conference of the National Organization for Women. From 1979 to 1981, she was president of the Jackson Chapter. At the state level she served as conference secretary, co-editor of the <title render="italic">Michigan NOW Times</title>, and administrative vice-president. She was elected to the presidency of the Michigan Conference of NOW in 1983. </p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The papers, 1982-1984, reflect Ms. Smiley's involvement with the Michigan Conference of NOW. They have been arranged into two series: Administrative Files and Topical Files.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><subject source="lcsh" encodinganalog="650">Equal Rights Amendments</subject><corpname source="lcnaf" encodinganalog="610">National Organization for Women. Michigan Conference.</corpname><persname source="lcnaf" encodinganalog="600">Smiley, Monica.</persname><subject source="lcsh" encodinganalog="650">Women--Michigan--Societies and clubs.</subject><subject source="lcsh" encodinganalog="650">Women's rights--Michigan.</subject><subject source="lcsh" encodinganalog="650">Women social reformers--Michigan.</subject><subject source="lcsh" encodinganalog="650">Social reformers--Michigan.</subject></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Administrative files</unittitle></did><scopecontent><p>Administrative Files consist of bylaws, minutes, correspondence, newsletters, and press releases of the Michigan Conference. Also included are papers relating to the Education Task Force, Legislative Liaison, Political Action Committee, and the 1983 and 1984 state conferences.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bylaws, <unitdate type="inclusive" normal="1982">1982</unitdate> and <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Minutes</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>State Coordinating Council, <unitdate type="inclusive" normal="1982/1984">1982-1984</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>State Officers Meetings, <unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Education Task Force, <unitdate type="inclusive" normal="1980/1983">1980-1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Leadership Lists, <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Legislative Liaison, <unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Memos from National office, <unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Newsletters</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Hotline, <unitdate type="inclusive" normal="1983">1983</unitdate> and <unitdate>undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>Local Chapters (scattered dates)</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor-Washtenaw County</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Battle Creek</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Dearborn</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Detroit</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Downriver</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Jackson</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Macomb</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Midland</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Northwest Wayne County</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Saginaw/Bay Area</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Traverse City</unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Ypsilanti</unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Memo to Great Lakes Regional Leadership, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Political Action Committee, <unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Press Releases, <unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>State Conference</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1983">1983</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1984">1984</unitdate></unittitle></did></c03></c02></c01>
+<c01 level="series"><did><unittitle>Topical files</unittitle></did><scopecontent><p>Topical Files contain information on matters relating to women's issues. Among these issues are 
+ERA, and legislation regarding sexual orientation, sexual assault, and non-discriminatory insurance rates. The researcher should consult the Legislative Liaison folder in conjunction with the topical files. The folder on the 1984 U.S. presidential campaign contains papers relating to NOW's endorsement of Mondale-Ferraro as well as material distributed by the Women's Truth Squad on Reagan, and Sonia Johnson campaign literature. The last folder consists of papers relating to a 1984 seminar on valuing work held in Bay City. Included in this folder is Ms. Smiley's speech on comparable worth in the communications and media industry.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dressel Amendment to Elliott-Larsen Civil Rights Act, <unitdate type="inclusive" normal="1983">1983</unitdate> (re Sexual Orientation)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>ERA, <unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sexual Assault, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>U.S. Presidential Campaign, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Unisex Insurance Rates, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Valuing Work Seminar, Bay City, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle></did></c02></c01></dsc></archdesc></ead>

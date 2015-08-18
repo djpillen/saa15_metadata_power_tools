@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::jonescha.xml//EN" encodinganalog="Identifier">
+umich-bhl-85233</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Charles R. Jones papers, 1894-1942
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-26</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Charles R. Jones papers, 1894-1942</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Jones, Charles R. (Charles Reading), 1862-1944.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Charles R. Jones papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1894-1942
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85233 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Prohibition Party officer; correspondence, topical files, clippings, and other related papers.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by the family (donor no. <num type="donor" encodinganalog="541$e">6067</num>)  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Charles R. Jones papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Charles R. Jones was chairman of the Prohibition Party of Pennsylvania, 1897-1905; chairman of the Prohibition Party National Committee, 1905-1912; and later executive vice-president of the Business Men's Research Foundation.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Jones collection consists of correspondence, minutes, newspaper clippings, printed materials, photographs, and a transcript of the debate between Samuel Dickie and David S. Rose, 1909. Correspondents include: Neal Dow, James H. Ferriss, Benjamin O. Flower, Anna A. Gordon, Virgil G. Hinshaw, Robert H. Patton, Charles Scanlon, George K. Turner and John G. Woolley.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Business Men's Research Foundation.</corpname>
+<persname source="lcnaf" encodinganalog="600">Dickie, Samuel, 1851-1925.</persname>
+<persname source="lcnaf" encodinganalog="600">Jones, Charles R. (Charles Reading), 1862-1944.</persname>
+<subject source="lcsh" encodinganalog="650">Prohibition--United States.</subject>
+<corpname source="lcnaf" encodinganalog="610">Prohibition National Committee (U.S.)</corpname>
+<persname source="lcnaf" encodinganalog="600">Rose, David S., b. 1856.</persname>
+<geogname source="lcsh" encodinganalog="651">United States--Politics and government--1901-1909.</geogname>
+<geogname source="lcsh" encodinganalog="651">United States--Politics and government--1909-1913.</geogname>
+<geogname source="lcsh" encodinganalog="651">United States--Politics and government--1897-1901.</geogname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<persname source="lcnaf" encodinganalog="600">Jones, Charles R. (Charles Reading), 1862-1944.</persname>
+<subject source="lctgm" encodinganalog="650">Temperance--United States.</subject>
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Dow, Neal, 1804-1897.</persname>
+<persname source="lcnaf" encodinganalog="700">Ferriss, James H. (James Henry), 1849-1926.</persname>
+<persname source="lcnaf" encodinganalog="700">Flower, B. O. (Benjamin Orange), 1858-1918.</persname>
+<persname source="lcnaf" encodinganalog="700">Gordon, Anna Adams, 1853-1931.</persname>
+<persname source="lcnaf" encodinganalog="700">Hinshaw, Virgil G. (Virgil Goodman), 1876-1952.</persname>
+<persname source="lcnaf" encodinganalog="700">Patton, Robert H. (Robert Howard), 1860-1939.</persname>
+<persname source="lcnaf" encodinganalog="700">Scanlon, Charles, 1869-1927.</persname>
+<persname source="lcnaf" encodinganalog="700">Turner, George Kibbe, 1869-1952.</persname>
+<persname source="lcnaf" encodinganalog="700">Woolley, John G. (John Granville), 1850-1922.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Prohibition Party files</unittitle></did>
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1894/1907">1894-1907</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1908">1908</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1909/1942">1909-1942</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Articles by Jones, <unitdate type="inclusive" normal="1907">1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Transcript of Debate between Samuel Dickie and David S. Rose, <unitdate type="inclusive" normal="1909">1909</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>American Business Men's Prohibition Foundation, <unitdate type="inclusive" normal="1930/1938">1930-1938</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Prohibition National Committee Minute Book, <unitdate type="inclusive" normal="1907/1908">1907-1908</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous papers, <unitdate type="inclusive" normal="1899/1939">1899-1939</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Newspaper clippings</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1905/1906">1905-1906</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1907/1935">1907-1935</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings, concerning the Pennsylvania election campaign, <unitdate type="inclusive" normal="1906">1906</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notebook containing advisory boards in Michigan counties, <unitdate type="inclusive" normal="1920">1920</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous notebooks</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Printed material</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1900/1908">1900-1908</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1909/1933">1909-1933</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Obituaries, <unitdate type="inclusive" normal="1944">1944</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform>: portraits of Jones, and photo of collage portrait, probably of men and women active in the Temperance movement</unittitle></did></c02></c01>
+ 
+
+</dsc><descgrp type="add"><index><head>Selective Index to Correspondents</head>
+<indexentry><persname>Dow, Neal, 1804-1897.</persname><ref><list type="simple"><item>Mar. 9, 1894</item></list></ref></indexentry>
+<indexentry><persname>Ferriss, James H. (James Henry), 1849-1926.</persname><ref><list type="simple"><item>Nov. 22, 1907</item></list></ref></indexentry>
+<indexentry><persname>Flower, B. O. (Benjamin Orange), 1858-1918.</persname><ref><list type="simple"><item>Sept. 11, 1907</item></list></ref></indexentry>
+<indexentry><persname>Gordon, Anna Adams, 1853-1931.</persname><ref><list type="simple"><item>Dec. 28, 1908; Jan. 20, 1927</item></list></ref></indexentry>
+<indexentry><persname>Hinshaw, Virgil G. (Virgil Goodman), 1876-1952.</persname><ref><list type="simple"><item>Jan. 10, 1928</item></list></ref></indexentry>
+<indexentry><persname>Patton, Robert H. (Robert Howard), 1860-1939.</persname><ref><list type="simple"><item>Mar. 16, 1907; Dec. 31, 1912</item></list></ref></indexentry>
+<indexentry><persname>Scanlon, Charles, 1869-1927.</persname><ref><list type="simple"><item>Nov. 25, 1907</item></list></ref></indexentry>
+<indexentry><persname>Turner, George Kibbe, 1869-1952.</persname><ref><list type="simple"><item>Nov. 27, 1907; Dec. 12, 1907; Jan. 6, 1908</item></list></ref></indexentry>
+<indexentry><persname>Woolley, John G. (John Granville), 1850-1922.</persname><ref><list type="simple"><item>Feb. 23, l906</item></list></ref></indexentry>
+</index>
+</descgrp></archdesc>
+
+</ead>

@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::phisigso.xml//EN" encodinganalog="Identifier">
+umich-bhl-89201</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Phi Sigma Society. Beta Chapter (University of Michigan) records, 1916-1970
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Barbara Sagraves </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>January 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-01-03</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Phi Sigma Society. Beta Chapter <lb/>(University of Michigan) <lb/>Records, 1916-1970</titleproper>
+
+<author>Finding aid created by<lb/> 
+Barbara Sagraves, March 1989</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Phi Sigma Society. Beta Chapter (University of Michigan)
+</corpname>
+
+
+</origination>
+
+<unittitle encodinganalog="245">
+Phi Sigma Society. Beta Chapter (University of Michigan) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1916-1970
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+89201 Bimu F41 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+University of Michigan chapter of honorary society for students in the biological sciences. Chapter news taken from "The Biologist;" membership information; banquet programs; and miscellaneous material received from the national office.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were donated by the Beta Chapter (donor no. <num type="donor" encodinganalog="541$e">7458</num>) in 1987.</p></acqinfo>
+
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Phi Sigma Society. Beta Chapter (University of Michigan) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Phi Sigma Society, an honorary society whose purpose is to promote interest in the biological sciences, was founded at Ohio State University, March 17, 1915. But prior to the formal creation of the Phi Sigma Society activities were well under way in Michigan for what would become the second chapter of the national society, the Beta Chapter.</p>
+
+<p>In Ann Arbor at the University of Michigan an informal association of four student assistants in the zoology department had begun to meet on a regular basis to discuss topics of interest within the fields of natural science. Formally organized in 1910 as the Natural Science Club (also known as the Zoology Assistant's Club) with a charter membership of ten, this organization sponsored regular lectures and discussions, eventually adopting a constitution (April 30, 1914).</p>
+
+<p>After the creation of the Phi Sigma Society the members of the Natural Science Club petitioned the national organization on May 10, 1916 for membership as the Beta Chapter. There were sixteen members in this new chapter representing the fields of zoology, botany and forestry. On June 3, 1916 the last meeting of the Zoological Assistant's Club was held, later that year on December 14 was the first initiation of the Beta Chapter.</p>
+
+<p>The national organization, located in Charleston, Illinois, and Beta Chapter are still active. At this writing (1989), the national organization list sixty-seven chapters and a membership of 50,000. The national magazine, "The Biologist" is published providing information about the national and chapter organizations. Chapters continue to promote research in the biological sciences by sponsoring lectures, discussion series and field trips. The national organization is affiliated with the American Association for the Advancement of Science and the Association of College Honor Societies.</p>
+
+<p>Like its forerunner the Natural Science Club, the Beta Chapter of Phi Sigma continues to sponsor lectures and discussions of interest to those in the biological sciences. Affiliation with the national chapter requires attendance by a chapter representative at biennial national meetings. The national chapter also presents awards to outstanding undergraduates and graduate members of local chapters.</p>
+
+<p>Members of the Beta Chapter have remained active at both the chapter and national levels. Past executive officers have included Dr. Henry van der Schalie and Dr. Karl F. Lagler of the University of Michigan.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The record group consists of one linear foot of membership forms, clippings, business correspondence, and memorabilia. The records cover the period of 1916-1970 with the bulk of the materials in the mid-1950s to early 1960s. Valuable to a researcher interested in the origins of the national society and the local chapter, the various files are also useful for anyone interested in student life and student organizations at both a local and national level. Finally, with its extensive membership files, the records can be used to chart the changing face of the student population.</p>
+
+<p>The largest set of files in the record group relate to Membership. These records, from 1916 to 1970, contain the names and other background information of all the active members of the Beta Chapter. Unfortunately, the records for 1941-1961 are missing as these files would have provided an important backdrop to the changing student population of the 1950s. As the records of the 1960s show there were increasing numbers of women joining the organization and assuming leadership positions. </p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Phi Sigma Society. Beta Chapter (University of Michigan)</corpname><corpname source="lcnaf" encodinganalog="610">University of Michigan--Honorary societies.</corpname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Chapter records</unittitle></did>
+<c02 level="file"><did><unittitle>History</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Natural Science Club (clipping), <unitdate type="inclusive" normal="1916">1916</unitdate> (?)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Chapter News from "The Biologist" <unitdate type="inclusive" normal="1916/1959">1916-1959</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence with the Executive Secretary-Treasurer Fred Orcutt, <unitdate type="inclusive" normal="1952/1964">1952-1964</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Membership, <unitdate type="inclusive" normal="1916/1970">1916-1970</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership Ledger-Member Nos. 1-272, <unitdate type="inclusive" normal="1916/1926">1916-1926</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership Forms-Member Nos. 273-771, <unitdate type="inclusive" normal="1926/1940">1926-1940</unitdate> </unittitle> <physdesc><extent>11 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership Forms-Member Nos. 1777-1807, <unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership Forms-Member Nos. 1898-2029, <unitdate type="inclusive" normal="1966/1970">1966-1970</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><unittitle>Membership File Cards</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle>Member Nos. 771-805 (<unitdate type="inclusive" normal="1940/1949" certainty="approximate">1940s</unitdate>); and Member Nos. 1859, 1871-1897, <unitdate type="inclusive" normal="1964">1964</unitdate> </unittitle> <physdesc><extent>1 expandable folder</extent></physdesc></did></c04></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Banquet Programs, <unitdate type="inclusive" normal="1924/1931">1924-1931</unitdate>, <unitdate type="inclusive" normal="1933">1933</unitdate>, <unitdate type="inclusive" normal="1935/1940">1935-1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Phi Sigma-National Office</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution and Bylaws, <unitdate type="inclusive" normal="1949">1949</unitdate>, <unitdate type="inclusive" normal="1955">1955</unitdate>, <unitdate type="inclusive" normal="1959">1959</unitdate>, <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>National Council Ritual, <unitdate type="inclusive" normal="1929">1929</unitdate>, <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Chapter Manual, <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle></did></c03></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

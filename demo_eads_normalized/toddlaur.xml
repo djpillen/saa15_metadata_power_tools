@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::toddlaur.xml//EN" encodinganalog="Identifier">
+umich-bhl-86228</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Laurence Todd papers, 1902-1957
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>February 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-02-27</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Laurence Todd papers, 1902-1957</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Todd, Laurence, 1882-1957.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Laurence Todd papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1902-1957
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86228 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Michigan-born newspaperman; correspondence and diaries relating to his professional career.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Alden Todd (donor no. <num type="donor" encodinganalog="541$e">5274</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Laurence Todd papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Laurence Todd was born December 15, 1882 in Nottawa, Michigan. He was a reporter for the <title render="italic">Kalamazoo Gazette</title> (1904-05), later its city editor (1907). During this period, 1905-1908, Todd also attended the University of Michigan but did not graduate. He next moved to California, working as a reporter for the <title render="italic"> San Francisco Bulletin</title> (1909), the <title render="italic">San Francisco News</title> (1909-1912), and as correspondents for the Scripps news service in. Sacramento (1912). He then moved to Washington D.C. working with United Press Bureau (1912-1913) and as correspondent for the International News Service (1913-1915). From 1915-1916, he was Secretary to Socialist Congressman Meyer London. Following, he became correspondent for the <title render="italic">Non-Partisan Leader</title> and other labor papers (1916-1919); the <title render="italic">Federated Press</title> (1919-1933); and <title render="italic">TASS</title> (the telegraph agency of the Soviet Union, 1923-1952). He also reported on the San Francisco conference establishing the United Nations and other UN conferences. He died November 30, 1957.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection is comprised of two series: Correspondence and Diaries. The letters are to members of his family describing his journalistic activities and political events of the day. There are letters with observations about Governor Hiram Johnson of California (1910-1917), comments about suffrage for women, 1911-1920, impressions about the two World Wars, and the Progressive Party campaign of Henry Wallace in 1948. The diaries, 1934-1936, discuss his daily life, American politics during the New Deal, and international relations particularly with the Soviet Union.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+
+<corpname source="lcnaf" encodinganalog="610">Democratic Party (Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Depressions--1929--United States.</subject>
+<corpname source="lcnaf" encodinganalog="610">Federated Press.</corpname>
+<corpname source="lcnaf" encodinganalog="610">International News Service.</corpname>
+<persname source="lcnaf" encodinganalog="600">Johnson, Hiram, 1866-1945.</persname>
+<subject source="lcsh" encodinganalog="650">Journalists--United States.</subject>
+<geogname source="lcsh" encodinganalog="651">Kalamazoo (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="630">Kalamazoo gazette.</subject>
+<persname source="lcnaf" encodinganalog="600">London, Meyer, 1871-1926.</persname>
+<corpname source="lcnaf" encodinganalog="610">National Nonpartisan League.</corpname>
+<subject source="lcsh" encodinganalog="650">New Deal, 1933-1939.</subject>
+<subject source="lcsh" encodinganalog="650">American newspapers.</subject>
+<subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1948.</subject>
+<corpname source="lcnaf" encodinganalog="610">Progressive Party (U.S. : 1948)</corpname>
+<subject source="lcsh" encodinganalog="650">Progressivism (United States politics)</subject>
+<subject source="lcsh" encodinganalog="650">Radicalism--United States.</subject>
+<persname source="lcnaf" encodinganalog="600">Roosevelt, Franklin D. (Franklin Delano), 1882-1945.</persname>
+<geogname source="lcsh" encodinganalog="651">Soviet Union.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Telegrafnoe agentstvo SSSR.</corpname>
+<persname source="lcnaf" encodinganalog="600">Todd, Albert May, 1850-1931.</persname>
+<persname source="lcnaf" encodinganalog="600">Todd, Laurence, 1882-1957.</persname>
+<famname source="lcnaf" encodinganalog="600">Todd family.</famname>
+<geogname source="lcsh" encodinganalog="651">United States--Politics and government--1901-1953.</geogname>
+<persname source="lcnaf" encodinganalog="600">Wells, H. G. (Herbert George), 1866-1946.</persname>
+<persname source="lcnaf" encodinganalog="600">Wilson, Woodrow, 1856-1924.</persname>
+<subject source="lcsh" encodinganalog="650">Women--Suffrage--United States.</subject>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+<subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
+<subject source="lcsh" encodinganalog="650">American newspapers--California.</subject>
+<subject source="lcsh" encodinganalog="650">American newspapers--Michigan.</subject>
+
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1899/1957">1899-1957</unitdate> </unittitle> <physdesc><extent>41 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Diaries">Diaries</genreform></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1934">1934</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1935">1935</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1936">1936</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

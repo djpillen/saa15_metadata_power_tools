@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::dunnfran.xml//EN" encodinganalog="Identifier">
+umich-bhl-861150</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Francis Wayland Dunn papers, 1856-1874
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-03-02</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Francis Wayland Dunn papers, 1856-1874</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Dunn, Francis Wayland, 1843-1874.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Francis Wayland Dunn papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1856-1874
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet (20 volumes and 36 folders)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+861150 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Student at Hillsdale College, soldier during the Civil War with the 64th Illinois Volunteers. Diaries, 1860-1872, describing student life, wartime activities, trip to Europe and the Near East, and western trip containing impressions of Indians and Mormons; also correspondence, various writings, and commonplace book, 1872.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of the Dunn-Slayton family (donor no. <num type="donor" encodinganalog="541$e">3361</num>) and came to the library in 1957.</p></acqinfo>
+
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Francis Wayland Dunn papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Francis Wayland Dunn was born January 29, 1843 in Wayne, Astabula County, Ohio. Following graduation from Hillsdale College in 1862 Dunn enlisted in Company A, 64th Illinois Infantry. He later served in Company H, First Alabama Cavalry (Union) as sergeant major. After the war, Dunn taught at Hillsdale College. He also traveled extensively in the Middle East and much of Europe. He died December 13, 1873.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Francis Wayland Dunn collection consists of diaries, correspondence, writings, and miscellaneous personal materials.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+
+<persname source="lcnaf" encodinganalog="600">Dunn, Ransom, 1818-1900.</persname>
+<geogname source="lcsh" encodinganalog="651">Europe--Description and travel.</geogname>
+<corpname source="lcnaf" encodinganalog="610">Hillsdale College.</corpname>
+<geogname source="lcsh" encodinganalog="651">Middle East--Description and travel.</geogname>
+<subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Army. Illinois Infantry Regiment, 64th (1861-1865)</corpname>
+<geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+<geogname source="lcsh" encodinganalog="651">West (U.S.)--Description and travel.</geogname>
+
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle><genreform normal="Diaries">Diaries</genreform></unittitle></did><scopecontent><p>The diaries cover the period of 1860-1872. From September 1862 to November 1864, Wayland, and his brother Ransom, were mustered into the Yates Sharpshooters, 64th Regiment Illinois Volunteers. In the summer of 1863 Wayland became sergeant major of 'H' Co., Alabama Volunteers, First U.S. Cavalry (Union). The diaries provide detailed daily entries spanning his entire period of service. Wayland participated in campaigns in the following states -Arkansas, Tennessee, Mississippi, Alabama, and Georgia. Details are given of camp life, various skirmishes, the effect of the war on the south, foraging parties, the burning of Corinth, battlefield scenes and the siege at Lookout Mountain.</p>
+
+<p>A diary entry in May 1865 describes a visit to Chicago, where Dunn paid his respects to the martyred President Lincoln whose body was lying in state in the City Hall building. Later that same year, Wayland and a friend went on a sightseeing trip. Leaving New York on November 25, the tour included England, France, Italy, Egypt, Palestine, Turkey (Ottoman Empire), a Danube excursion, Austria, Prussia, Netherlands, Scotland and Canada - in that order. During the entire tour, extensive daily entries (2 - 5 pp.) provide details of places visited, and Wayland's impressions of the people and living conditions. There are approximately 750 pages of entries describing the trip. During July-August 1868, Wayland relates his experiences while traveling by horseback in Kansas and Nebraska. The diary entries describe taking part in buffalo hunts, Indian life, customs, games, etc. He also mentions witnessing a near fight between Sioux and Pawnees. In October-November 1868, Wayland relates his experiences among the Mormons in Utah.  He tells of Mormon meetings, life, efforts to rid Salt Lake City of non-Mormon merchants. Wayland attended several meetings where Brigham Young was present. He also talked with a young son of Brigham about the leader's family life. In 1869-1870, he describes a trip through California.</p>
+</scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1860">1860</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1860/1862">1860-1862</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Diary fragments: Camp Life, <unitdate type="inclusive" normal="1862">1862</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Diary fragments: Civil War, <unitdate type="inclusive" normal="1863/1864">1863-1864</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Diary fragments </unittitle></did> <note><p>(including maps, writings of W.J. Dennis and C.C. Nelson, and miscellaneous)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">August 1864-December 1864</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January 1865-November 1865</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">November 1865-March 1866</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">March 1866-May 1866</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">May 1866-July 1866</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">July 1866-January 1867</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January 1867-May 1867</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">May 1867-February 1868</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">February 1868-May 1868</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">June 1868-October 1868</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">October 1868-July 1869</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1868/1869">1868-1869</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">July 1869-March 1870</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">April 1870-December 1870</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">April 1871-April 1872</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did><scopecontent><p>The correspondence dates from 1856 to 1876. As a whole the correspondence is of a personal nature, useful primarily for biographical purposes. There are numerous letters from his father, Reverend Ransom Dunn, while Wayland attended school and college, and during his service in the Civil War. Very little of the correspondence deals with Michigan subjects other than student life at Hillsdale College. Most of the college friends with whom Wayland corresponded were not Michigan residents.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>By date</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1856/1876">1856-1876</unitdate> </unittitle> <physdesc><extent>18 folders</extent></physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle>By name</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Davis, Julian, <unitdate type="inclusive" normal="1860/1864">1860-1864</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Dunn, Ransom, <unitdate type="inclusive" normal="1854/1865">1854-1865</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Hopkins, John J., <unitdate type="inclusive" normal="1862/1864">1862-1864</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Pratt, R.H., <unitdate type="inclusive" normal="1861/1864">1861-1864</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Stark, J.H., <unitdate type="inclusive" normal="1861/1862">1861-1862</unitdate> </unittitle></did> <note><p>(include letters from J. H. Stark, volunteer, probably a New Yorker stationed at Camp Union Hill near Baltimore, and later with the Army of the Potomac under McClellan)</p></note></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other materials</unittitle></did><scopecontent><p>Within the Other Materials series, there are several folders of manuscript writings consisting principally of articles for the <title render="italic">Christian Freeman</title>. Wayland was editor of the paper for several brief periods in the late 1860s. One interesting article concerns Mormon life. The remainder deal with religious topics, prohibition and current events.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Civil War miscellaneous, including war records, musters, affidavits, discharge papers, etc.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous, including correspondence of Southern Soldier, draft of play, verse, etc. (passport)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous writings </unittitle> <physdesc><extent>8 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Commonplace book, <unitdate type="inclusive" normal="1872">1872</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc><descgrp type="add"><relatedmaterial><head>Related Material</head><p>The library also has collections of papers of Dunn's father Ransom Dunn and his brother Newell Ransom Dunn.</p></relatedmaterial></descgrp></archdesc>
+
+</ead>

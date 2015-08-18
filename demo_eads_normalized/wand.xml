@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::wand.xml//EN" encodinganalog="identifier">
+umich-bhl-89161
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Women's Action for Nuclear Disarmament, Washtenaw County Chapter records, 1985-1991
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Barbara Scanlon</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Barbara Scanlon, 
+<date>July 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050726</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Women's Action for Nuclear Disarmament,<lb/> Washtenaw County Chapter<lb/>Records, 1985-1991</titleproper>
+
+<author>Finding aid created by<lb/> 
+Barbara Scanlon, July 2005</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Women's Action for Nuclear Disarmament. Washtenaw County Chapter.
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+Women's Action for Nuclear Disarmament, Washtenaw County Chapter records,  
+<unitdate type="inclusive" encodinganalog="245$f">
+1985-1991
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.0 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+89161 Bj 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Established in 1984, disbanded in 1992, the Washtenaw County chapter of Women's Action for Nuclear Disarmament (WAND), was a local women's initiative advocating peaceful alternatives to armed conflict. The group's members sought to accomplish this goal through coalition-building with other peace and justice organizations, education, political action, and promotion of nonviolent conflict resolution.  The record group includes meeting agenda and minutes of the Coordinating Committee (the central organizing body) and subsidiary committees (Executive, Political Action, Strategic Planning). Also included is the WAND newsletter, summaries of member surveys (1985-1987), flyers of special events, and videotapes of protest demonstrations.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records of the organization came from Karen Jania (donor no. <num type="donor" encodinganalog="541$e">7661</num>) in 1989 and from Tobi Hanna-Davies (donor no. <num type="donor" encodinganalog="541$e">8963</num>) in 2001.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Women's Action for Nuclear Disarmament, Washtenaw County Chapter records
+, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Washtenaw County WAND was formed in December 1984 by two women who attended a speech in Detroit by Dr. Helen Caldicott on the topic of peace and nuclear disarmament.  With a core group of approximately 12 individuals, the women sought affiliation with the national WAND organization and helped to arrange a visit of Dr. Caldicott to Ann Arbor in March 1985.  Two weeks later, the first formal meeting of WAND was held with 150 people in attendance.</p>
+<p>The primary purpose of the organization was to empower women to work towards the elimination of nuclear weapons and to educate themselves and the general public about the dangers of continued weapons production.  By 1986, the chapter, now fully organized, worked on many fronts: lobbying , building coalitions with other like-minded individuals and groups, and holding public events and monthly educational presentations.</p>
+<p>In addition, the chapter organized a Mother's Day Celebration for Peace in West Park, sponsored an Art Fair booth, gathered 5,000 anti-nuclear petition signatures at the Farmers' Market, sent representatives to national meetings on peace and women's issues, lobbied as defense bills came up in Congress, trained speakers to reach out to community groups on nuclear issues, and brought informed speakers to their meetings.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>
+Women's Action for Nuclear Disarmament, Washtenaw County Chapter records include meeting agendas and minutes of the Coordinating Committee (the central organizing body) and subsidiary committees (Executive, Political Action, Strategic Planning). Also included is the WAND newsletter, summaries of member surveys (1985-1987), flyers of special events, and videotapes of protest demonstrations.
+The WAND records are organized into four series: Administrative Records, Newsletters, Campaign files and Audio and Visual Materials.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Nuclear disarmament.</subject>
+<subject source="lcsh" encodinganalog="650">Peace--Societies, etc.</subject>
+<geogname source="lcsh" encodinganalog="651">Washtenaw County (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Washtenaw County--Societies and clubs.</subject>
+<corpname source="lcnaf" encodinganalog="610">Women's Action for Nuclear Disarmament. Washtenaw County Chapter (Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Women and peace.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<corpname source="lcnaf" encodinganalog="610">Women's Action for Nuclear Disarmament. Washtenaw County Chapter (Mich.)</corpname>
+<subject source="lctgm" encodinganalog="650">Demonstrations--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Peace movements--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Persian Gulf War, 1991--Protest movements.</subject>
+<subject source="lcsh" encodinganalog="650">Women and peace.</subject>
+</controlaccess>
+
+<controlaccess><head>Contributors - Videotapes:</head>
+<persname source="lcnaf" encodinganalog="700">Pollack, Lana, 1942-</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Administrative Records</unittitle></did>
+<scopecontent><p>The Administrative Records (0.4 linear feet) include by-laws as well as committee reports and meeting minutes.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>By-Laws</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Committee Meeting Agendas and Minutes, <unitdate type="inclusive" normal="1986/1988">1986-1988</unitdate></unittitle></did><note><p>(includes Executive, Political Action/Strategies, and Strategic Planning Committees)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Coordinating Committee Meeting Agenda and Minutes, <unitdate type="inclusive" normal="1986/1990">1986-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Coordinating Committee Retreat Agenda and Summaries, <unitdate type="inclusive" normal="1985/1988">1985-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speaker's Bureau, <unitdate type="inclusive" normal="1986/1988">1986-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Member Surveys, <unitdate type="inclusive" normal="1985/1988">1985-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership Lists, <unitdate type="inclusive" normal="1987/1990">1987-1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Records</unittitle><physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Newsletters, <unitdate type="inclusive" normal="1985/1991">1985-1991</unitdate></unittitle></did>
+<scopecontent><p>The Newsletters (0.2 linear feet) date from 1985 through 1991 are arranged chronologically.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1985/1986">1985-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1987">1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1988">1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1989">1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1990">1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1991">1991</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Campaigns files</unittitle></did>
+<scopecontent><p>Folders for Specific Campaigns (0.2 linear feet) are arranged alphabetically by campaign title.  Notable is the Coalition Against Weapon Research material dating from 1986 to 1988.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Coalition Against Weapon Research, <unitdate type="inclusive" normal="1986/1988">1986-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Peace and Justice Coalition SE Chapter, <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mother's Day for Peace</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>No MX on RR, <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Parenting in the Nuclear Age</unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Audio and Visual Material</unittitle></did>
+<scopecontent><p>The Audio and Visual Materials (0.2 linear feet) include an audio cassette of a speech by Dr. Caldicott and 6 videotapes of various protests, speeches and meetings organized by WAND.</p></scopecontent>
+<c02 level="file"><did><unittitle><genreform normal="Sound recording">Audio-cassette</genreform></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Dr. Helen Caldicott at the Cleveland City Club Forum re: testing in New Zealand, <unitdate type="inclusive">undated</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><genreform normal="Motion pictures">Videotapes</genreform> (VHS)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Senator Lana Pollack at a WAND Meeting with introductions, <unitdate type="inclusive">9/25/1988</unitdate></unittitle><physdesc><physfacet>vhs tape; 33 minutes</physfacet></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Teach-In on the Persian Gulf Crisis" at the University of Michigan Law School with Dr. Ronald Stockton and Dr. Anthony Sullivan speaking on "Regional and Comprehensive Solutions to the Persian Gulf Crisis", <unitdate type="inclusive">10/16/1990</unitdate></unittitle><physdesc><physfacet>vhs tape; 2 hours</physfacet></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"No War in the Gulf Rally" at the Federal Building, Ann Arbor, MI, <unitdate type="inclusive">1/12/1991</unitdate></unittitle><physdesc><physfacet>vhs tape; 60 minutes</physfacet></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Bishop Thomas Gumbleton speaking on the "Aftermath of the War in the Gulf" for the St. Mary's Student Parish, Huron Valley Pax Christae, and the Interfaith Council for Peace, <unitdate type="inclusive">4/3/1991</unitdate></unittitle><physdesc><physfacet>vhs tape; 1 hour 40 minutes</physfacet></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Protests at U of M Commencement during a visit of President Bush, <unitdate type="inclusive">5/4/1991</unitdate></unittitle><physdesc><physfacet>vhs tape; 90 minutes</physfacet></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Year of Conscience" featuring Gulf War Noontime Vigil in Ann Arbor, MI featuring interviews with Catherine Strout, Rev. Ann Marie Coleman, Dr. David Bassett, and Jan Wright, <unitdate type="inclusive">8/21/1991</unitdate></unittitle><physdesc><physfacet>vhs tape; 27:25 minutes</physfacet></physdesc></did></c03></c02></c01>
+
+
+
+</dsc></archdesc>
+
+</ead>

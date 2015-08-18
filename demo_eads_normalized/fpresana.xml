@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::fpresana.xml//EN" encodinganalog="Identifier">
+umich-bhl-86799</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+First Presbyterian Church (Ann Arbor, Mich.) records, 1872-1972
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>June 2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-06-10</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+First Presbyterian Church (Ann Arbor, Mich.) records, 1872-1972</titleproper>
+      <author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<corpname source="lcnaf" encodinganalog="110">
+First Presbyterian Church (Ann Arbor, Mich.).
+</corpname>
+</origination>
+      <unittitle encodinganalog="245">
+First Presbyterian Church (Ann Arbor, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1872-1972
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+2.5 linear feet, 1 oversize folder, and 2 microfilm rolls
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86799 Ba 2; UBAm; Ba Microcopy
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Presbyterian church established in Ann Arbor, Michigan in 1826; session minutes, correspondence, miscellaneous other record books.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The bulk of the records came from the church (donor no. <num type="donor" encodinganalog="541$e">3602</num>); other materials came from the Presbyterian Corporation (donor no. <num type="donor" encodinganalog="541$e">1763</num>) and the Presbyterian Campus Center (donor no. <num type="donor" encodinganalog="541$e">3660</num>)  
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The record group is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is not held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+First Presbyterian Church (Ann Arbor, Mich.) records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>The First Presbyterian Church of Ann Arbor was established in 1826.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The record group consists of session minutes, 1872-1972; records of University of Michigan student organization named the Presbyterian Corporation of the University of Michigan (formerly the Tappan Presbyterian Hall Association); records of other church groups, including the First Presbyterian Society, the Christian Endeavor Society, the Women's Foreign Missionary Society and the Westminster Guild; and photographs.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+        <corpname source="lcnaf" encodinganalog="610">United Presbyterian Church in the U.S.A.--Michigan--Ann Arbor.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Presbyterian Corporation of the University of Michigan.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Religion.</corpname>
+        <subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor--Societies and clubs.</subject>
+        <subject source="lcsh" encodinganalog="650">Youth--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650">Women--Religious life--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650">Youth--Religious life--Michigan--Ann Arbor.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Churches.</geogname>
+        <subject source="lctgm" encodinganalog="650">Churches--Michigan--Ann Arbor.</subject>
+        <corpname source="lcnaf" encodinganalog="610">First Presbyterian Church (Ann Arbor, Mich.)</corpname>
+        <subject source="lctgm" encodinganalog="650">Presbyterian churches--Michigan--Ann Arbor.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Session minutes, <unitdate type="inclusive" normal="1872/1972">1872-1972</unitdate></unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="reel" label="Roll">1</container>
+            <unittitle>
+              <unitdate type="inclusive">May 3, 1872-January 8, 1957</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="reel" label="Roll">2</container>
+            <unittitle>
+              <unitdate type="inclusive">January 31, 1957-January 13, 1972</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence and other papers</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Historical sketch, <unitdate type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Papers, undated, <unitdate type="inclusive" normal="1887/1895">1887-1895</unitdate> and <unitdate type="inclusive">1903-June 1929</unitdate> </unittitle>
+            <physdesc>
+              <extent>17 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive"> July 1929-1959</unitdate> </unittitle>
+            <physdesc>
+              <extent>24 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Church organizations</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Minute book of the First Presbyterian Society, <unitdate type="inclusive" normal="1883/1908">1883-1908</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Secretary's Record of the Women's Foreign Missionary Society, <unitdate type="inclusive" normal="1915/1926">1915-1926</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Christian Endeavor Society records, <unitdate type="inclusive" normal="1897/1910">1897-1910</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Presbyterian Corporation of the University of Michigan (formerly the Tappan Presbyterian Hall Association)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>Minute book, <unitdate type="inclusive" normal="1890/1917">1890-1917</unitdate> (TPHA)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>Minute book, <unitdate type="inclusive" normal="1917/1923">1917-1923</unitdate> (TPHA)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>Records, <unitdate type="inclusive" normal="1922/1933">1922-1933</unitdate> (UMPC)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Westminster Guild records, <unitdate type="inclusive" normal="1949/1953">1949-1953</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>
+            <genreform normal="Photographs">Photographs</genreform>
+          </unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Photographs of exterior of church buildings and miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Oversize Folder" type="folder">UBAm</container>
+            <unittitle>Church personalities </unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

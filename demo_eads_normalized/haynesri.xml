@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::haynesri.xml//EN" encodinganalog="Identifier">
+umich-bhl-0440</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Rick Haynes Michigan Militia collection, 1993-1999
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Olga Virakhovskaya </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2011">
+2011</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2011</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2011-01-26</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Rick Haynes Michigan Militia collection, 1993-1999</titleproper>
+
+<author>Finding aid created by<lb/> 
+Olga Virakhovskaya, 2011</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Haynes, Rick
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Rick Haynes Michigan Militia collection 
+<unitdate type="inclusive" encodinganalog="245$f">
+1993-1999
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0440 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Collection of photocopies of records, publications, and materials of and about Michigan civilian militia organization; with a number of publications produced by civilian militias outside of the state of Michigan. Materials were originally collected by Rick Haynes, who at different times served as Information Officer and the 8th Division Michigan Militia Corps Wolverines Divisional Officer.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Collection was donated by Jo Ellen Vinyard (donor no. <num type="donor" encodinganalog="541$e">7735</num>) in 2000.  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Rick Haynes Michigan Militia collection, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Rick Haynes has been with the Michigan Militia since it was founded in 1994 by Norm Olson, a pastor and gun shop owner, and a former U.S. Air Force Non-Commissioned Officer. Haynes served as Information Officer for over 2 years and later became the Divisional Officer for the 8th Division Michigan Militia Corps Wolverines. Haynes has continuously worked with several militia administration leaders, including Norm Olson, Lynn Van Huzien, Tom Wayne, Joe Pilchack, among others.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Rick Haynes collection consists of photocopies of correspondence, newsletters, and other collected information detailing activities and ideology of the Michigan Militia.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Haynes, Rick.</persname>
+<subject source="lcsh" encodinganalog="650">Militia movements--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Michigan Militia Corps.</corpname>
+<subject source="lcsh" encodinganalog="650">Right-wing extremists--Michigan.</subject>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Records</unittitle></did><scopecontent><p>The Records series includes indexes and contents of materials that were originally placed in two 3-ring binders called "Book O" and "Book W" (at present the meaning of titles of these books is not clear). The Books contain correspondence, memoranda, and various materials distributed among member of the Michigan militia.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Book O index</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Book O </unittitle><physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Book W index</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Book W </unittitle><physdesc><extent>6 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Topical files</unittitle></did><scopecontent><p>The Topical files series contains collected materials on various topics, information about events and meetings, training manuals, and miscellaneous material.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>4th Brigade, 8th Division</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Events, <unitdate type="inclusive" normal="1995/1999">1995-1999</unitdate> (scattered)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Federal government</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Military and police force</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Militias</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Narcotics</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Norman Olson</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Oklahoma City bombing</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Petition de Droit, <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Public health issues</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Technology</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Training</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>United Nations and international issues</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>U.S. laws and legislation</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Publications</unittitle></did><scopecontent><p>The Publications series contains newsletters published by Michigan militia and militia organizations from other states, as well as articles and research material about Michigan militia and the militia movement in the U.S. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Relevance, <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate> (scattered), </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Weekly Update, <unitdate type="inclusive">August 1995-October 1996</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>News Room, <unitdate type="inclusive" normal="1997">1997</unitdate> (scattered), <unitdate type="inclusive">February 1999</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Weekly News, <unitdate type="inclusive">October 1998-April 1999</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan militia miscellaneous publications, 1995-[1996 ?]</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous militia publications from outside of state of Michigan, <unitdate type="inclusive" normal="1994/1996">1994-1996</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan militia Web site</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Research materials about Michigan Militia </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

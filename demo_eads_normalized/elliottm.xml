@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::elliottm.xml//EN" encodinganalog="Identifier">
+umich-bhl-9456</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Margaret Elliott papers, 1920-1951
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Caryn Stein (July 1994)</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-10-18</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Margaret Elliott papers, 1920-1951</titleproper>
+
+<author>Finding aid created by<lb/> 
+Caryn Stein, July 1994</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Elliott, Margaret, 1891-1978.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Margaret Elliott papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1920-1951
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9456 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of personnel management in the School of Business Administration of the University of Michigan, also professor of economics in the department of economics. Margaret Elliott also wrote under her married name Elliott Tracy. The collection consists of scattered files from her professional career, documenting in part her research of women's roles in business and professional careers in the World War II era; file concerning her activities with the American Association of University Women; and various subject files.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The papers were transferred to the Bentley Historical Library from the Kresge Business Administration Library at the University of Michigan (Donor No. <num type="donor" encodinganalog="541$e">6413</num>) in April 1994.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research with the exception of one indicated folder.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Margaret Elliott papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Margaret Elliott was born in Lowell, Massachusetts in 1891.  She received her A.B. degree from Wellesley in 1914, and her M.A. and Ph.D. from Radcliffe in 1921 and 1924, respectively.  Her dissertation was titled, <title render="italic">Earnings of Women in Business and the Professions</title>.</p>
+
+<p>Margaret Elliott was an instructor at Abbott Academy, Andover, Massachusetts from 1915 to 1917, and was appointed as an assistant professor of Personnel Management in the newly organized School of Business Administration at the University of Michigan in 1924, after she received her doctoral degree.  In 1929, she was promoted to associate professor in both the business school and the Department of Economics in the College of Literature, Science, and the Arts.  She was promoted to full professor in 1931 in both departments.  Margaret Elliott was the first woman to be a full professor at the School of Business Administration.</p>
+
+<p>Margaret Elliott was an active member of several organizations, including the National Federation of Business and Professional Women, and the American Association of University Women (AAUW).  After she retired from her work with the AAUW, a national fellowship was established in her name.</p>
+
+<p>Margaret Elliott married Professor John Evarts Tracy of the Michigan Law School in 1933.  The couple had no children of their own, but they did raise his sister's children after her death.  John Tracy died in 1959.  Margaret Elliott Tracy died in 1978 at the age of 87.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Margaret Elliott collection, arranged alphabetically, pertains to her professional career.  Most of the papers focus on her research of women's roles in business and professional careers in the World War II era.  The papers provide valuable insight into the way women viewed their role in higher education and the workforce in the 1930s and 1940s. One folder in the papers, "Dissertations and thesis critiques," contains interesting information about the topics students were choosing for their dissertations in the World War II era.  This file is closed to researchers for seventy five years from the date of creation because it contains personally identifiable student information.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">American Association of University Women.</corpname>
+<persname source="lcnaf" encodinganalog="600">Elliott, Margaret, 1891-1978.</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Economics.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. School of Business Administration.</corpname>
+<subject source="lcsh" encodinganalog="650">College teachers--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Women college teachers--Michigan--Ann Arbor.</subject>
+
+</controlaccess>
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Professional papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>American Association of University Women (AAUW), National Fellowship Program Chair, <unitdate type="inclusive" normal="1951/1954">1951-1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Correspondence</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Findings and Publication of Research, <unitdate type="inclusive" normal="1930/1931">1930-1931</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous, <unitdate type="inclusive" normal="1932/1940">1932-1940</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>National Federation of Business and Professional Women's Clubs, <unitdate type="inclusive" normal="1930/1933">1930-1933</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Questions about Research, <unitdate type="inclusive" normal="1930/1940">1930-1940</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Final and Midterm Exam Questions, <unitdate type="inclusive" normal="1926/1934">1926-1934</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lecture Invitations, <unitdate type="inclusive" normal="1930/1945">1930-1945</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Recruitment of Guest Speakers for Undergraduate Classes, <unitdate type="inclusive" normal="1931/1939">1931-1939</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Research in England (Whitney Traveling Fellow), <unitdate type="inclusive" normal="1924">1924</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Speeches and articles, including research and notes for, <unitdate type="inclusive" normal="1920/1945">1920-1945</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><physloc>Vault</physloc><unittitle>Dissertations and thesis critiques, <unitdate type="inclusive" normal="1930/1946">1930-1946</unitdate> </unittitle></did> <accessrestrict><p>[The file is closed until <date type="restriction" normal="2021-01-01">January 1, 2021]</date></p></accessrestrict></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

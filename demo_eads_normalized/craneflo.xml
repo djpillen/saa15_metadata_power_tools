@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::craneflo.xml//EN" encodinganalog="Identifier">
+umich-bhl-90168</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Florence R. Crane papers
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Anita L. Morse, January, 1990.</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Paul Jordan, 
+<date>2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-04-20</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Florence R. Crane Papers, 1949-1989</titleproper>
+
+<author>Finding aid created by<lb/> 
+Anita L. Morse, January, 1990.</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Crane, Florence R. (1911 -    )
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Florence R. Crane Papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1949-1989
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+90168 Aa 2 Ac
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Republican member of the Ann Arbor, Michigan City Council, 1957-1961; active participant in civic and political affairs on the state and local level. Subject files relating to her involvement with various civic and community organizations.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Florence R. Crane (Donor No. <num type="donor" encodinganalog="541$e">7622</num>) in November 1988 and March 1989.
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Florence R. Crane papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Florence R. Crane was born in 1911. She received her bachelor's degree from the University of California at Los Angeles. Crane and her husband, Dr. H. R. Crane, University of Michigan Professor of Physics, moved to Ann Arbor, Michigan in 1935.</p>
+
+<p>Crane was active in civic and political affairs on the state and local levels. She served as Publicity Chair and Executive Committee Chair of the Ann Arbor Citizens' Council and as Chair of the Citizen's Housing Committee, 1953-1955. She served on the Ann Arbor City Republican Committee (Chair, 1954-55). She was Ann Arbor City Councilwoman, 1957-1961. She was appointed to the Michigan State Corrections Commission and served from 1964 to 1981. A curriculum vita and newspaper biography are noted in the folder inventory.
+</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The Florence R. Crane papers document her activities as a civic leader in Ann Arbor and in Michigan and reflect her civic and political involvements. The papers cover the years 1949-1989 and include materials on Ann Arbor charter revision, housing, and zoning and planning activities; the Republican Party; the Michigan Corrections Commission; the University of Michigan; and other civic activities.</p>
+
+<p>The Crane papers have been retained in their original order and arranged in five series: Ann Arbor Citizens' Council, Ann Arbor Citizen's Housing Committee, Ann Arbor City Council, Michigan Corrections Commission, Republican Party and Topical.
+</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Ann Arbor Citizens' Council.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Ann Arbor (Mich.). Common Council.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Ann Arbor (Mich.). Housing Commission.</corpname>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Politics and government.</geogname>
+<persname source="lcnaf" encodinganalog="600">Crane, Florence R., 1911-</persname>
+<subject source="lcsh" encodinganalog="650">Municipal government--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Women in politics--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Women civic leaders--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Civic leaders--Michigan--Ann Arbor.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<corpname encodinganalog="610" source="lcnaf">corpname</corpname>
+<persname source="lcnaf" encodinganalog="600">Crane, Florence R., 1911-</persname>
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Ann Arbor Citizens' Council</unittitle></did><scopecontent><p>The Ann Arbor Citizens' Council materials contain reports, citizens' petitions, pamphlets, newspaper clippings from 1949 to 1954, a 1962 "Report of Citizens' Council Municipal Charter Revision Committee," and a 1963 report on activities written by Florence Crane, Executive Committee Chair.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Charter Revision</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Report,<unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Ann Arbor Citizen's Housing Committee</unittitle></did><scopecontent><p>The Ann Arbor Citizen's Housing Committee folders include correspondence, minutes and agendas, c.1953-1954 and "Report of the Housing Survey of Ann Arbor," 1954.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Agendas,correspondence, minutes, c.<unitdate type="inclusive" normal="1953/1954">1953-1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Report of the Housing Survey, <unitdate type="inclusive" normal="1954">1954</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Ann Arbor City Council</unittitle></did><scopecontent><p>The Ann Arbor City Council materials covers the years 1957 to 1959. A newspaper biography of Crane can be found in the 1957 folder and a curriculum vita in the 1958-59 folder.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Campaign, clippings, correspondence, pamphlets <unitdate type="inclusive">circa 1957</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Campaign, clippings, correspondence, pamphlets, curriculum vita, <unitdate type="inclusive">circa 1958</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Michigan Corrections Commission</unittitle></did><scopecontent><p>The Michigan Corrections Commission materials include materials from 1964 to 1979. Correspondence has been placed in one folder, and reports and other materials have been placed in a second folder. Of special interest in the "Petitions and Reports" folder is a court action brought by feminist groups against the University of Michigan for discriminatory action in excluding women from a sociology course in penology co-offered with the Department of Correction and reports on conditions in Michigan prisons, particularly women's prisons. Information concerning inmate parole requests or medical and behavioral problems has been removed.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Petitions, reports</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Republican Party</unittitle></did><scopecontent><p>The Republican Party materials include Republican special events from 1951 to 1956 and Ann Arbor Republican City Committee correspondence, budgets and meetings, 1953-1955.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor City Republican Committee, Correspondence, <unitdate type="inclusive">circa 1953</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor City Republican Committee, Correspondence, <unitdate type="inclusive">circa 1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor City Republican Committee, Agendas, Activities, <unitdate type="inclusive">circa 1955</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Special Events, GOP, <unitdate type="inclusive">circa 1951-1956</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Topical</unittitle></did><scopecontent><p>The Topical materials include various civic activities of Crane.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor Chamber of Commerce-Report on Agency Space and Capital Needs, <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Friends of the Ann Arbor Hands on Museum, Financial Reports, Membership, Minutes,<unitdate type="inclusive" normal="1984/1988">1984-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Correspondence</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>No Name Reading and Elbow Bending Club of Ann Arbor</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photoprints -- aSnapshot of Crane and her husband</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>University of Michigan. Faculty Women's Club</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

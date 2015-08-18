@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::romanijh.xml//EN" encodinganalog="Identifier">
+umich-bhl-991</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+John H. Romani papers, 1957-1991
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Jack Simpson </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-02-04</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+John H. Romani papers, 1957-1991</titleproper>
+
+<author>Finding aid created by<lb/> 
+Jack Simpson, 1998</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Romani, John Henry, 1925-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+John H. Romani papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1957-1991
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1970-1990
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+991 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor and administrator in the University of Michigan School of Public Health; files pertaining to Romani's presidency of the American Public Health Association, 1979-1980; correspondence, 1970-1991, mainly professional and relating to the field of public health; and lectures and speeches concerning the public health profession.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by John H. Romani (donor no. <num type="donor" encodinganalog="541$e">7998</num>) in 1991.  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+John H. Romani papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>John H. Romani was born in Milan, Italy in 1925.  He received his Ph.D. in political science from the University of Michigan in 1955.  He served as a professor and administrator in the School of Public Health at the University of Michigan from 1961 until 1969, when he took a position as vice-chancellor of the University of Wisconsin-Milwaukee.  In 1971 he returned to the School of Public Health at Michigan, where he remained until his retirement in 1993.  He also served as the president of the American Public Health Association in 1979-1980.  In his inaugural address, Romani focused on the budget difficulties of health care organizations and addressed the impact of the environment on public health.  During his career, Romani lectured and wrote on public health issues, and served as a mentor to many aspiring public health professionals.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The John Romani Papers consist primarily of correspondence, manuscripts, newspaper clippings and press releases. The collection is organized into three series: American Public Health Association Presidency, Correspondence, and Lectures and Speeches.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Romani, John Henry, 1925-</persname>
+<corpname source="lcnaf" encodinganalog="610">American Public Health Association.</corpname>
+<subject source="lcsh" encodinganalog="650">Public health.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. School of Public Health.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>American Public Health Association Presidency</unittitle></did><scopecontent><p>The American Public Health Association Presidency series documents Romani's election and tenure in the presidency.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, Clippings, and Press Releases, <unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Presidential Address, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did><scopecontent><p>The Correspondence series consists of professional correspondence, mostly concerning the field of public health.</p></scopecontent>
+
+
+<c02 level="subseries"><did><unittitle>Chronological</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1980">1980</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1981">1981</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1982/1987">1982-1987</unitdate> </unittitle> <physdesc><extent>13 folders</extent></physdesc></did></c03></c02>
+
+
+<c02 level="subseries"><did><unittitle>Alphabetical</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>D-W, <unitdate type="inclusive" normal="1970/1974">1970-1974</unitdate> </unittitle> <physdesc><extent>9 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>A-C, <unitdate type="inclusive" normal="1980/1981">1980-1981</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>D-Z, <unitdate type="inclusive" normal="1980/1981">1980-1981</unitdate> </unittitle> <physdesc><extent>23 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>A-Z, <unitdate type="inclusive" normal="1982/1991">1982-1991</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c03></c02>
+
+
+<c02 level="subseries"><did><unittitle>Individuals</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Robert Brown, <unitdate type="inclusive" normal="1970/1974">1970-1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>William Haber, <unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>William L. Hayes, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Bernard James, <unitdate type="inclusive" normal="1971/1973">1971-1973</unitdate></unittitle></did></c03></c02>
+
+
+<c02 level="subseries"><did><unittitle>Organizations</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>American Society for Public Administration; Section on Human Resource Administration, <unitdate type="inclusive" normal="1985/1986">1985-1986</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Association of State and Territorial Public Laboratory Directors, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Lectures and Speeches</unittitle></did><scopecontent><p>The Lectures and Speeches series consists of drafts for speaking engagements and several publication manuscripts. Most of the drafts concern the public health profession.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Lectures and Speeches, <unitdate type="inclusive" normal="1957/1980">1957-1980</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

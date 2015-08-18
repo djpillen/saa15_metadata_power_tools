@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader relatedencoding="Dublin Core" audience="internal">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::hultquis.xml//EN" encodinganalog="identifier">
+umich-bhl-0330
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Donald E. Hultquist Papers, 1962-1999
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Janet K. Yoder</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>May 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050506</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Donald E. Hultquist Papers, 1962-1999</titleproper>
+
+<author>Finding aid created by<lb/> 
+Janet K. Yoder, February 2003</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Hultquist, Donald E.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Donald E. Hultquist Papers,  
+<unitdate type="inclusive" encodinganalog="245$f">
+1962-1999
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1979-1987
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.3 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+0330 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of biochemistry at the University of Michigan. Files related to civic activities and participation in University-wide debates on issues of public policy; include files from work on Citizens' Advisory Committee on Racial Balance and Equal Opportunity in Ann Arbor Schools, 1979; also papers dealing with debate within the University over classified and non-classified research sponsored by U.S. Department of Defense, 1968-1986.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+This collection was the gift of Donald E. Hultquist (donor no. <num type="donor" encodinganalog="541$e">9242</num>) and came to the library in 2002.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Donald E. Hultquist Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Donald E. Hultquist is professor emeritus of the Biochemistry Department at the University of Michigan. Dr. Hultquist received his Ph.D. from the University of Rochester in 1962. He joined the Department of Biochemistry at the University of Michigan in 1964 and remained until his retirement in 2000. During his tenure, Professor Hultquist served on numerous committees in the Department of Biology, the Medical School and for the University of Michigan. He ended is career with the Department of Biochemistry as Associate Chair. His research interests included Methemogloblin reduction in normal and abnormal cells, the role of proteases in thyroid maturation and the chemistry of hemes and neme protein. In 1976, Professor Hultquist received the University of Michigan's Distinguished Service and Outstanding Teaching Award. He also received the Japan Society's Promotion of Science Fellowship in 1985.</p>
+<p>Professor served two terms on the University Senate Assembly (1980-1983, 1995-1998). He also served on the Research Polices Committee (1980-1985) and was actively involved in the debate over classified and non-classified research at the University of Michigan. He supported the effort to prevent the University from conducting Department of Defense classified and non-classified research that would eventually be used to destroy human life or incapacitate human beings.</p>
+<p>As a member of the Ann Arbor community, Professor Hultquist was an advocate for racial balance in the community's public schools. In 1979, He served as coordinator of the Citizens' Racial Advisory Committee on Racial Balance and Educational Opportunities formed by the Ann Arbor Schools administration.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520"><p>The Donald E. Hultquist papers contain material pertaining to Professor Hultquist's professional and civic activities from 1962-1999, in particular, his work on behalf of racial desegregation in Ann Arbor Schools and his involvement in the University's debate over classified research. The collection is divided into three series: Academic accomplishments; Citizens' Advisory Committee on Racial Balance and Equal Opportunity in Ann Arbor Schools; and Classified Research at the University of Michigan.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Hultquist, Donald E.</persname>
+<corpname source="lcnaf" encodinganalog="610">Citizen's Advisory Committee on Racial Balance and Educational Opportunities in Ann Arbor Schools.</corpname>
+<subject source="lcsh" encodinganalog="650">Military research--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">School integration--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Schools--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Research.</corpname>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Academic Accomplishments</unittitle></did><scopecontent><p>The first series, Academic Accomplishments, contains Professor Hultquist's curriculum vita and copies of his scientific research papers. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Curriculum Vita</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Published Scientific Papers, <unitdate type="inclusive" normal="1962/1979">1962-1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Published Scientific Papers, <unitdate type="inclusive" normal="1980/1999">1980-1999</unitdate></unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Citizen's Advisory Committee on Racial Balance and Educational Opportunities in Ann Arbor Schools, <unitdate type="inclusive" normal="1977/1980">1977-1980</unitdate></unittitle></did><scopecontent><p>The second series, Citizens' Advisory Committee on Racial Balance and Equal Opportunity in Ann Arbor Schools, contains information detailing the efforts of the Advisory Committee and the Ann Arbor School Administration, to develop alternative methods for desegregating and to provide equal educational opportunities in the Ann Arbor School system. A majority of the committee's work is found in the reports submitted to the schools' administration. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Activities of the Advisory Committee on Racial Balance in Ann Arbor Schools</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constituting <unitdate type="inclusive" normal="1979">1979</unitdate> Racial Imbalance Committee</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reports from Ann Arbor Schools to the Committee</unittitle><physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Outside Information Provided to the Committee (not Ann Arbor Schools), <unitdate type="inclusive" normal="1977">1977</unitdate>, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Committee Minutes, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Task Force Reports, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Task Force on Achievement</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Community Solutions</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Housing</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Resource Allocation and Evaluation</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Workings of the Committee, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reports of the Task Forces I-V, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>School Administration &amp; School Board, <unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reports of the Citizen's Advisory Committee, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reports of the Citizen's Advisory Committee Appendix, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings</unittitle></did></c02></c01>
+
+<c01 level="series"><did><unittitle>Classified Research at the University of Michigan</unittitle></did><scopecontent><p>The third series titled, Classified Research at the University of Michigan deals with the debate over classified and non-classified research sponsored by the U.S. Department of Defense at the University of Michigan. During Professor's Hultquist terms in the Senate Assembly he was opposed to the University's involvement in any classified research that would result in the harm or death of human beings. This series represents the formal documents (reports, correspondence, reviews) documenting the involved parties' various opinions.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Debate I  --  Classified Research at the University of Michigan, <unitdate type="inclusive" normal="1968/1972">1968-1972</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Documents involving University Administration and Regents, <unitdate type="inclusive" normal="1976">1976</unitdate>, <unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reports from the Research Policy Committee</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reports and Reviews from other Groups, <unitdate type="inclusive" normal="1981/1985">1981-1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Documents from Research Policy Committee, <unitdate type="inclusive" normal="1981/1985">1981-1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Involvement of Don Hultquist, <unitdate type="inclusive" normal="1981/1987">1981-1987</unitdate></unittitle></did><note><p>(include presentation given by Professor Hultquist on the history of the debate)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Input from Individual and Groups, <unitdate type="inclusive" normal="1982/1986">1982-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Senate Assembly Documents, <unitdate type="inclusive" normal="1972">1972</unitdate>, <unitdate type="inclusive" normal="1981/1983">1981-1983</unitdate>  <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Nuclear Free Zone (proposed amendment to Ann Arbor city charter)</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

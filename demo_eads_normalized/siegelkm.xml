@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::siegelkm.xml//EN" encodinganalog="Identifier">
+umich-bhl-89273</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Keeve Milton Siegel papers, 1953-1983
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Shelley Hayreh </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-11-18</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Keeve Milton Siegel papers, 1953-1983</titleproper>
+
+<author>Finding aid created by<lb/> 
+Shelley Hayreh, 2008</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Siegel, K.M. (Keeve Milton), 1923-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Keeve Milton Siegel papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1953-1983
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+89273 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Keeve Milton Siegel was an inventor, physicist and professor of electrical engineering.  Siegel’s papers consist of correspondence, memorandums, newspaper clippings, scientific reports, and files covering his academic, corporate and personal dealings.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated in 1976 by Ruth B. Siegel (donor no. <num type="donor" encodinganalog="541$e">5810</num>); additional materials were received in June, 2008.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Keeve Milton Siegel papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Keeve Milton Siegel, known as Kip among his friends, was born in New York City on January 9, 1924.  In 1948, Siegel graduated from Rensselaer Polytechnic Institute with a Bachelor of Science in theoretical physics.  He went on to receive his master's degree in physics from the school in 1950.  After graduating, Siegel married Ruth E. Boerker on June 22, 1951.  The couple had two sons Leigh and David.</p>
+
+<p>Also in 1951, Siegel moved to Ann Arbor to begin his first position with the University of Michigan as a research associate at UM Engineering Research Institute.  As a research associate, Siegel headed the upper atmosphere research group and UM Radiation Laboratory from 1951-1956.  In 1957, Siegel was appointed professor of electric engineering, a post he held until 1967.  While a professor at the University, Siegel founded Conductron Corporation in 1960.  Under his direction as President of Conductron, the corporation became one the area's largest industries.  However, in 1967, the McDonnell-Douglas Corporation purchased Conductron and moved it out of Ann Arbor.</p>
+
+<p>After leaving Conductron Corporation, Siegel founded KMS Industries in 1969.  He became known internationally for his inventions in the field of optics.  As chairman of KMS, Siegel focused much of his research on the development of laser induced nuclear fusion.  Siegel believed passionately in the need to develop nuclear fusion as a clean and renewable source of energy.  The research done at KMS on nuclear fusion was the only privately funded venture of its kind in the United States.</p>
+
+<p>Siegel died March 14, 1975.  </p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Keeve Milton Siegel Papers document Siegel's corporate, academic, and personal activities between the years 1953 to his death in 1975.  The collection consists primarily of correspondence, memorandums, newspaper clippings, and scientific reports.  The collection contains the following series: Corporate Activities, Research, and Personal/Biographical.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Astronomy--Michigan--Ann Arbor.</subject>
+<geogname source="lcsh" encodinganalog="651">Moon.</geogname>
+<subject source="lcsh" encodinganalog="650">Physicists.</subject>
+<corpname source="lcnaf" encodinganalog="610">Conductron Corporation.</corpname>
+<corpname source="lcnaf" encodinganalog="610">KMS Industries.</corpname>
+<subject source="lcsh" encodinganalog="650">Laser fusion.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Urey, Harold Clayton, 1893-1981.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Corporate Activities, <unitdate type="inclusive" normal="1958/1980">1958-1980</unitdate></unittitle></did><scopecontent><p>Corporate Activities series documents Siegel's commercial dealings and multiple business ventures.  The series contains two subseries: KMS and Other corporations.  Sub-series KMS covers Siegel's activities as founder and chairman of KMS Industries and consists of materials related to the company's major research projects like laser induced nuclear fusion and thermonuclear energy.  Sub-series Other corporation reflects Siegel's diverse corporate profile and consists of various background material on the different corporations Siegel invested in and correspondence related to Siegel's role as president of Conduction Corporation. </p></scopecontent>
+
+
+<c02 level="subseries"><did><unittitle>KMS, <unitdate type="inclusive" normal="1958/1980">1958-1980</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Atomic Energy Act, <unitdate type="inclusive" normal="1970/1974">1970-1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Delft URSI Meeting, <unitdate type="inclusive" normal="1958/1966">1958-1966</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive" normal="1969/1981">1969-1981</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>KMSiegel Horses, <unitdate type="inclusive" normal="1966/1973">1966-1973</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Laser Fusion, <unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Middle East Business, <unitdate type="inclusive" normal="1974/1980">1974-1980</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Nuclear Fusion Systems, <unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Siegel's Notes (fragments), <unitdate type="inclusive">ca. 1970s</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Texas Gas, <unitdate type="inclusive" normal="1974/1983">1974-1983</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Thermonuclear Energy and Hydrogen Research, <unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>War Protest, <unitdate type="inclusive" normal="1972">1972</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03></c02>
+
+
+<c02 level="subseries"><did><unittitle>Other corporations, <unitdate type="inclusive" normal="1962/1975">1962-1975</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Conductron Corporation, <unitdate type="inclusive" normal="1962/1967">1962-1967</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Datamax Corporation, <unitdate type="inclusive" normal="1971/1975">1971-1975</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Leisuretron, <unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Mechanical Technology Incorporated, <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Technion Israel Institute of Technology, <unitdate type="inclusive" normal="1970/1975">1970-1975</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Research</unittitle></did><scopecontent><p>Research series contains files from Siegel's office at the University of Michigan and correspondence related to his work for the Center for Research on Conflict Resolution.  The Report Files consist of scientific research reports written by Siegel and by other members of the academic community and are arranged alphabetically by the last name of the researcher.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Center for Research on Conflict Resolution, <unitdate type="inclusive" normal="1964/1967">1964-1967</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lunar Research, <unitdate type="inclusive" normal="1960/1969">1960-1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Report Files, <unitdate type="inclusive" normal="1953/1965">1953-1965</unitdate></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>A</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>B</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>C </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>G</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>K </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>L </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>M-P</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>R</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>S </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>U-W</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Personal/Background, <unitdate type="inclusive" normal="1961/1978">1961-1978</unitdate></unittitle></did><scopecontent><p>Personal/Biographical series reflects Siegel's desire to serve the University, his local religious community and Israel.  The series contains newspaper clippings about Siegel's death, correspondence related to his active participation in the University of Michigan President's Club and Beth Israel Congregation, and various files from committees Siegel served on.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Beth Israel Congregation, <unitdate type="inclusive" normal="1963/1966">1963-1966</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Clippings, <unitdate type="inclusive" normal="1970/1975">1970-1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Estate Files, <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>General, <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Research Policy Committee, <unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>University of Michigan President's Club, <unitdate type="inclusive" normal="1962/1967">1962-1967</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>United Jewish Appeal Emergency Fund, <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Lecture on Electromagnetic Diagnostics of the Moon, <unitdate type="inclusive">July 10, 1961</unitdate> </unittitle> <physdesc><physfacet>1 reel-to-reel <genreform normal="Sound recording">tape</genreform>; 7 in., 3 3/4 ips</physfacet></physdesc></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

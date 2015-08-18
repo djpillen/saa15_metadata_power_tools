@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::cookann.xml//EN" encodinganalog="Identifier">
+umich-bhl-2014021</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Ann Bradford Cook papers, ca. 1914, 1980
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Elise Reynolds, February 2014</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2013">
+2014</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2014</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc>
+
+<revisiondesc><change><date>2014-06-03</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Ann Bradford Cook papers, ca. 1914, 1980
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Elise Reynolds, February 2014
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Ann Bradford Cook
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Ann Bradford Cook papers
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1914, 1980
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.25 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2014021 Aa2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Photographs and printed material regarding the Martha Cook building on the University of Michigan campus, from Ann Cook, grandniece of benefactor William W. Cook.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The Cook papers were donated by Margaret Leary in 2014  
+(<num type="donor" encodinganalog="541$e">11074</num>).
+ 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>No further additions to the papers are expected.</p></accruals>
+
+<accessrestrict encodinganalog="506">
+<p>The collection is open without restriction.</p>
+
+
+
+</accessrestrict>
+
+
+<userestrict encodinganalog="540"><p>Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Ann Bradford Cook papers, Bentley Historical Library, University of Michigan</p></prefercite>
+
+
+
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Ann Bradford Cook was born in Ann Arbor on May 17, 1924. She received her A.B. From the University of Michigan in 1945 and a second degree in Home Economics from Wayne University in 1951. For most of her career Cook served as a dietician at Harper Hospital in Detroit.  She was an active member of the Detroit Garden Club and served several terms on the Board of Governors of the Martha Cook Building, a women's dormitory at the University of Michigan. Cook died January 13, 2014.</p>
+
+<p>Cook was the granddaughter of Chauncey Ferris Cook, a brother of William W. Cook a graduate from the University of Michigan Law School in 1882 and a major benefactor who donated the Martha Cook dormitory and much of the Law Quad. She grew up in the same house where William W. Cook was raised in Hillsdale, Michigan, and owned many items that had been in the house, including materials about the Martha Cook Building at the University of Michigan. </p>
+
+
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Ann Cook records consist of two series: Printed Materials and Photographs. The Printed Materials include a book written by Olive Chernow, director of Martha Cook Building from 1973-1979, and a news clipping about the building.</p>
+
+<p>The Photographs series includes various photographs of the interior and exterior of the Martha Cook Building, during and after construction. Photographers include the George R. Fuller Company, Daines and Nickel, and A. B. Bogart. Photographs are arranged by photographer or size, and the box listing provides a description of each photograph. </p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head><corpname source="lcnaf" encodinganalog="610">University of Michigan. Martha Cook building.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing.</corpname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<persname source="lcnaf" encodinganalog="600">Cook, Ann Bradford.</persname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Martha Cook building.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing.</corpname>
+
+</controlaccess>
+
+
+
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Printed Materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Chernow, Olive,<title render="italic">My Years at the Martha Cook Building</title> , <title render="italic">1973-1979</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>News Clippings, <unitdate type="inclusive" normal="1915">1915</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Photographs</unittitle></did>
+<c02 level="file"><did><unittitle>6.5x9" Photographs</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Gold room</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>7.5x9.5" Photographs</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Gold room</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Red Room showing portrait of Martha Cook</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Exterior from west, with Samuel Parsons' garden in foreground</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>First floor entry hall; four chairs and Venus</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Front entrance with Portia present</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>11x14" Photographs</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Gold room</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Red Room (?)</unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>George R. Fuller Co. Photographs</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Pile of bricks in foreground, <unitdate type="inclusive">August 4, 1914</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Foundations in, <unitdate type="inclusive">September 1, 1914</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Steel frame, brickwork on exterior, <unitdate type="inclusive">October 1, 1914</unitdate></unittitle></did></c03>
+<c03 level="file"><did><unittitle>View along Tappan, west facade, completed exterior, <unitdate type="inclusive">September 1, 1915</unitdate></unittitle></did></c03></c02></c01> 
+
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

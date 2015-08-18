@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::wasalcoh.xml//EN" encodinganalog="Identifier">
+umich-bhl-88507</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Washtenaw Council on Alcoholism records, 1966-1988
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Marian J. Matyn </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-02-05</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Washtenaw Council on Alcoholism records, 1966-1988</titleproper>
+
+<author>Finding aid created by<lb/> 
+Marian J. Matyn, 1988</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Washtenaw Council on Alcoholism.
+</corpname>
+
+</origination>
+<unittitle encodinganalog="245">
+Washtenaw Council on Alcoholism records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1966-1988
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.7 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+88507 Bj 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Washtenaw County, Michigan, citizens group concerned with alcohol-related problems. History, administrative records, and slides.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records came from the organization (donor no. <num type="donor" encodinganalog="541$e">7488</num>) in 1988.  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Washtenaw Council on Alcoholism records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>In 1956, a group of citizens concerned about alcohol-related problems organized the Washtenaw Committee on Alcoholism (WCA), Incorporated as the Washtenaw County Council on Alcoholism in 1960, the Council was renamed several times, eventually gaining its present name in 1972.</p>
+
+<p>Originally offering limited informational and referral services to the public through a voluntary staff, the WCA was recognized in 1976 as having one of the most comprehensive alcoholic treatment programs in the United States. Included in the Council's programs are the Substance Abuse Program offered to junior high school classes, Family Group Therapy Program, workshops, seminars and in-service training.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Washtenaw Council on Alcoholism records consist of reports, minutes, newsletters, printed materials, correspondence, and slides dating from 1966 to 1988. The files are arranged alphabetically by topic and chronologically within each folder. The History file provides useful background information about the organization. Also included are various reports and minutes that record the concerns and plans of the organization. The "Slides" folders contain visual images pertaining to the programs the WCA offers to the public.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Alcoholism.</subject>
+<geogname source="lcsh" encodinganalog="651">Washtenaw County (Mich.)</geogname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Alcoholism.</subject>
+<corpname source="lcnaf" encodinganalog="610">Washtenaw Council on Alcoholism (Mich.)</corpname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="gmgpc" encodinganalog="655">Slides.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Organizational records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Accreditation Correspondence, <unitdate type="inclusive">February 1975-December 1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Activity Reports, <unitdate type="inclusive">July 1975-June 1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alcoholism Today Newsletters, <unitdate type="inclusive">January 1974-April 1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Meeting Minutes, <unitdate type="inclusive">January 1974-April 1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual Reports, <unitdate type="inclusive" normal="1973/1982">1973-1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Antabuse, <unitdate type="inclusive" normal="1961/1969">1961-1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Audit Reports, <unitdate type="inclusive">June 1973-June 1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Board of Directors Meeting Minutes, <unitdate type="inclusive">March-June 1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Board of Trustees Meeting Minutes, <unitdate type="inclusive">January 1973-November 1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings, <unitdate type="inclusive">ca. 1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Community Relations, <unitdate type="inclusive">February 1986-May 1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution and By-laws, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Executive Committee Meeting Minutes, <unitdate type="inclusive">December 1967-October 1982</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Reports, <unitdate type="inclusive">September 1985-September 1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Form Letters, <unitdate type="inclusive">July 1974-February 1982</unitdate> and <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General Correspondence, <unitdate type="inclusive">January-October 1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General Meeting Minutes, <unitdate type="inclusive">January-February 1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History, <unitdate type="inclusive" normal="1986">1986</unitdate> (25th anniversary)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mission Statements, Policies, Organizational Charts, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>National Council on Alcoholism Correspondence, <unitdate type="inclusive">April-August 1966</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Nominating Committee, <unitdate type="inclusive">February 1971</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>President's Reports, <unitdate type="inclusive" normal="1971/1987">1971-1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Printed Materials, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Services for Problem Drinkers Project, <unitdate type="inclusive">October 1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Slides">Slides</genreform>, <unitdate type="inclusive">ca. 1980</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Staff Reports, <unitdate type="inclusive" normal="1979/1988">1979-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Studies, <unitdate type="inclusive" normal="1974/1987">1974-1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Treatment Committee, <unitdate type="inclusive">March 1975</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

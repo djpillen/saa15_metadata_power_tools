@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::chudwin.xml//EN" encodinganalog="Identifier">
+umich-bhl-861090</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+David Chudwin papers, 1968-1972
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-10-26</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+David Chudwin papers, 1968-1972</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Chudwin, David
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+David Chudwin papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1968-1972
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+861090 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Reporter and editor of the Michigan Daily, student newspaper of the University of Michigan. Leaflets and newsletters collected relating to campus issues.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of David Chudwin (donor no. <num type="donor" encodinganalog="541$e">5821</num>) and came to the library in 1976.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+David Chudwin papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>David Chudwin was a reporter and editor for the<title render="italic">Michigan Daily</title>, student newspaper of the University of Michigan.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Chudwin papers consists of leaflets and newsletters collected relating to campus issues, especially concerning the protest over the war in Vietnam, the debate over the propriety of University classified research, the ecology movement, the Black Action Movement, and the activities of various radical groups. Also included are transcripts of interviews conducted on the issue of classified research.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Political activity.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1961-1970.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1971-1980.</corpname>
+<subject source="lcsh" encodinganalog="650">Vietnam War, 1961-1975.</subject>
+<subject source="lcsh" encodinganalog="650">Demonstrations--Michigan--Ann Arbor.</subject>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Collected Material</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Black Action Movement, <unitdate type="inclusive">March 1970</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Radical Groups</unittitle></did><note><p>(e.g. SDS, White Panthers)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Black Panthers and other black groups</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Tenants Union and Rent Strike</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Welfare Mothers Demonstrations, <unitdate type="inclusive">September 1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Strike over proposed student bookstore, <unitdate type="inclusive">September 1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Vietnam War protest</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>St. Joseph Mercy Hospital controversy, <unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Enact Teach-in, <unitdate type="inclusive">April 1970</unitdate> and Ecology</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>University issues</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Classified Research Issue, <unitdate type="inclusive" normal="1970/1972">1970-1972</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Transcripts of interviews</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Re. classified research at the University of Michigan </unittitle></did> <note><p>(include interviews with James T. Wilson, A. Geoffrey Norman, William Brown, and Thomas Butler)</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

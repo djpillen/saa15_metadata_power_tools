@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::palmera2.xml//EN" encodinganalog="identifier">
+umich-bhl-93790
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Palmer Family Architectural Drawings, 1950, 1963-1964, and 1980
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Terry Hoover </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2004 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>September 2004</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20040908 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Palmer Family Architectural Drawings, 1950, 1963-1964 and 1980</titleproper>
+
+<author>Finding aid created by<lb/> 
+Terry Hoover, 1991</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+
+
+<famname source="lcnaf" encodinganalog="100">
+Palmer Family.
+</famname></origination>
+
+<unittitle encodinganalog="245">
+Palmer Family Architectural Drawings,  
+<unitdate type="inclusive" encodinganalog="245$f">
+1950, 1963-1964 and 1980
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1950
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+3 oversize folders
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+93790 Aa
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Ann Arbor, Michigan family. Architectural drawings and renderings for their Ann Arbor, Michigan home designed by Frank Lloyd Wright and his associates.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection is on loan from William and Mary Palmer (Donor No. <num type="donor" encodinganalog="541$e">7999</num>) in 1991.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Palmer Family Architectural Drawings, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>William and Mary Palmer commissioned Frank Lloyd Wright to design a home on their property at 227 Orchard Hills Drive in Ann Arbor, Michigan.  The plans were drawn up in 1950, construction began in 1951 and the house was completed in 1952.  In 1963, the Palmers commissioned John Howe, head draftsman for Wright and one of the organizers of the Taliesin Association, to design a separate structure which was called a "Tea House" by Howe and the "Garden House" by the Palmers.  The plans were completed in 1963, revised in 1964 and the structure completed in 1965.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520"><p>The Palmer Family collection consists of three oversized folders located in the basement blueprint cabinet.  The folders contain topological maps of the property, a complete set (10) of blueprints for the house, an oversized floor plan, blueprints of perforate block, hand-colored drawings of the garden plans and a colored house plan signed by Wright. The collection also contains the first rendering of the Tea House with two pages of revisions, furniture design details for the Tea House and an outside lantern.</p>
+<p>Since coming to the library in 1992, photocopies and photographic copies have been made of some of the more fragile items in the collection.  The researcher is encouraged to consult these before inquiring about access to the originals.  The number in parentheses at the end of each description is an identifying number assigned by the donor for indiviudal drawings or a group of related drawings.</p>
+<p>For an extensive selection of photographs of the Palmer house, the researcher should consult  <title render="italic">The Wright Style</title> by Carla Lind (1992).</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Dwellings--Michigan--Ann Arbor.</subject>
+<persname source="lcnaf" encodinganalog="600">Wright, Frank Lloyd, 1867-1959.</persname>
+
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Architectural drawings.</genreform></controlaccess></controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Blueprints And Drawings</unittitle></did>
+<c02 level="file"><did><container type="folder" label="Folder">1</container><unittitle>Topographic map, <unitdate type="inclusive">undated</unitdate></unittitle></did><note><p>(# 1)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">1</container><unittitle>Topographic drawing with paste-up of house done by client, <unitdate type="inclusive">undated</unitdate></unittitle></did><note><p>(# 2)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">1</container><unittitle>Blueprints of house, <unitdate type="inclusive" normal="1950">1950</unitdate></unittitle></did><note><p>(complete set of 10 with pencil notations)</p></note><note><p>(# 3)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">1</container><unittitle>Blueline prints of house, <unitdate type="inclusive" normal="1950">1950</unitdate></unittitle></did><note><p>(complete set bound)</p></note><note><p>(# 4)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">1</container><unittitle>Blueprint pages, nos. 2, 4, 5, 6, 9, <unitdate type="inclusive" normal="1950">1950</unitdate></unittitle></did><note><p>(# 5)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">2</container><unittitle>Blueprint, <unitdate type="inclusive" normal="1950">1950</unitdate></unittitle></did><note><p>(page 10 without pencil marks)</p></note><note><p>(# 6)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">2</container><unittitle>Floor plan, <unitdate type="inclusive">undated</unitdate></unittitle></did><note><p>(# 7)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">2</container><unittitle>General house plan, <unitdate type="inclusive">undated</unitdate></unittitle></did><note><p>(tracing by client)</p></note><note><p>(# 8)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">2</container><unittitle>General plan, sheet 3, <unitdate type="inclusive">undated</unitdate></unittitle></did><note><p>(partial copy, reverse printed)</p></note><note><p>(# 9)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">2</container><unittitle>Blueprint of precast perforated block, <unitdate type="inclusive" normal="1950">1950</unitdate></unittitle><physdesc><extent>2 blueprints</extent></physdesc></did><note><p>(# 10)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">2</container><unittitle>Rug plan, <unitdate type="inclusive">undated</unitdate></unittitle><physdesc><extent>2 blueprints and 1 whiteprint</extent></physdesc></did><note><p>(# 11)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">3</container><unittitle>Tea House plan, <unitdate type="inclusive">undated</unitdate></unittitle></did><note><p>(# 12)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">3</container><unittitle>Tea House plans (first renderings), <unitdate type="inclusive">undated</unitdate></unittitle></did><note><p>(# 14)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">3</container><unittitle>Blueprint for table and lantern, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle></did><note><p>(# 14)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">3</container><unittitle>Furnishing details, <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle></did><note><p>(# 14)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">3</container><unittitle>Tea House, <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle></did><note><p>(two sheets of revisions and one sheet of interior details)</p></note><note><p>(# 15)</p></note></c02>
+<c02 level="file"><did><container type="folder" label="Folder">3</container><unittitle>Garden plans, <unitdate type="inclusive" normal="1950">1950</unitdate></unittitle></did><note><p>(hand colored, one copy signed by Wright)</p></note><note><p>(# 16)</p></note></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

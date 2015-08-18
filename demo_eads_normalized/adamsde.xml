@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::adamsde.xml//EN" encodinganalog="Identifier">
+umich-bhl-9931</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Donald E. Adams papers, 1930-1998
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Courtney Egan </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>April 2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-04-29</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Donald E. Adams papers, 1930-1998</titleproper>
+      <author>Finding aid created by<lb/> 
+Courtney Egan, March 2008</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<persname source="lcnaf" encodinganalog="100">
+Adams, Donald Earl, 1912-
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+Donald E. Adams papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1930-1998
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1930-1980
+</unitdate>
+
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+6 linear feet
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9931 Aa 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Chairman of the board of the Oakland County Community Mental Health Services Board and Oakland County Judge of Probate.  The collection includes correspondence, diaries, and bound volumes.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+      <physloc>Portions located in offsite storage; prior notification required for access.</physloc>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+This collection was given by Donald E. Adams and his wife Elizabeth Adams (donor no. <num type="donor" encodinganalog="541$e">857</num>).</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Donald E. Adams papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Donald E. Adams was born in Waterford, Michigan and attended Waterford and Pontiac public schools.  He received his Bachelor of Arts degree from the University of Michigan in 1934 and his Juris Doctor degree in 1936.  Adams began his career in public service in 1937 as a Justice of the Peace in Waterford Township.  In 1961 he was elected to serve as Probate Judge in Oakland County and held that post until his retirement in 1977.  Throughout his career, Adams also served on the boards of various public service organizations, including the Oakland County Community Mental Health Services Board.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>This collection documents various aspects of Donald Adams' personal and professional life.  His career as a judge and correspondence with his wife and family receive particular attention.  The collection is divided into four series: Oakland County Community Mental Health Services Board, Personal, Professional, and Compiled Information.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <persname source="lcnaf" encodinganalog="600">Adams, Donald Earl, 1912-</persname>
+        <persname source="lcnaf" encodinganalog="600">Adams, Elizabeth S.</persname>
+        <subject source="lcsh" encodinganalog="650">Mental health--Michigan--Oakland County.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Oakland County Community Mental Health Services Board.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Oakland County Community Mental Health Services Board</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Oakland County Community Mental Health Services Board series (4 linear feet) is comprised of files accumulated from Adams' work as member and chairman of the board of the Oakland County Community Mental Health Services Board.  The Board was established in the 1960s to implement the new state mental health code whose intent was to involve local communities in mental health care services.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Boxes">1-4</container>
+            <unittitle>Working Files</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Personal</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Personal series (0.9 linear feet)  includes correspondence with Elizabeth Sparks Adams, and other family and friends.  Some correspondence dates to the period prior to Adams' marriage to Elizabeth and to Adams' service in the Navy.  Also included are a set of Adams' diaries dating from 1930 to 1936.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">5</container>
+              <unittitle>Elizabeth to Donald (Betty to Don), <unitdate type="inclusive" normal="1930/1939" certainty="approximate">1930s</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">5</container>
+              <unittitle>Various, <unitdate type="inclusive" normal="1930/1939" certainty="approximate">1930s</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">5</container>
+              <unittitle>Various, <unitdate type="inclusive" normal="1940/1949" certainty="approximate">1940s</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>
+              <genreform normal="Diaries">Diaries</genreform> </unittitle>
+            <physdesc>
+              <extent>3 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>High School</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Notebooks</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>University of Michigan </unittitle>
+            <physdesc>
+              <extent>2 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Professional</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Professional series  (0.1 linear feet)  contains material related to Adams' brief employment with the Michigan State Highway Department.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Michigan State Highway Department</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Compiled Information</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Compiled Information series (1 linear foot)  consists of bound volumes containing clippings, correspondence, and <genreform normal="Photographs">photographs</genreform> documenting Adams' accomplishments as a judge and commemorating his retirement.  Also included is an album with materials related to Michigan and Adams family history.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Career as Judge</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Family and Local History</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Retirement from Judgeship</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

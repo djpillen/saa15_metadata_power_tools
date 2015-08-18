@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::scanfrat.xml//EN" encodinganalog="Identifier">
+umich-bhl-85361</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Scandinavian Fraternity of America, North Star Lodge No. 27 (Escanaba, Mich.) records, 1887-1970
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-02-16</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Scandinavian Fraternity of America, <lb/>North Star Lodge No. 27 (Escanaba, Mich.) records, 1887-1970</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Scandinavian Fraternity of America. North Star Lodge No. 27 (Escanaba, Mich.).
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Scandinavian Fraternity of America, North Star Lodge No. 27 (Escanaba, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1887-1970
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85361 Bd 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="swe" encodinganalog="041">Swedish</language> and <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Minutes, cashbooks, and membership dues records.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was the gift of the organization and came to the library through Dalip Rehnquist (donor no. <num type="donor" encodinganalog="541$e">6198</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are expected.
+</p></accruals>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Scandinavian Fraternity of America, North Star Lodge No. 27 (Escanaba, Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>According to some sources, the Scandinavian Fraternity of America was founded in 1894 as the Scandinavian Brotherhood of America. The records of the North Star Lodge in Escanaba pre-date the official founding of the organization by several years. In 1915, after consolidation with other organizations, the fraternity changed its name to the Scandinavian Fraternity of America. The Scandinavian Fraternity was principally a beneficial group dedicated to aiding members threatened by sickness, unemployment, or death. The organization was open to both women and men, and their non-Scandinavian spouses as well. The Fraternity attracted new immigrant members largely through an influx in Scandinavian immigration to the United States during the early 1920s.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The records of the organization include minutes of meetings, cashbooks, and records of dues paid by the membership. Most of the records are in Swedish.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Michigan--Emigration and immigration.</geogname>
+<geogname source="lcsh" encodinganalog="651">Escanaba (Mich.).</geogname>
+<subject source="lcsh" encodinganalog="650">Scandinavian Americans--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Swedish Americans--Michigan.</subject>
+<geogname source="lcsh" encodinganalog="651">Scandinavia--Emigration and immigration.</geogname>
+<subject source="lcsh" encodinganalog="650">Immigrants--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Immigrants--Michigan--Societies, etc.</subject>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Minutes</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1887/1891">1887-1891</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1891/1896">1891-1896</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1896/1900">1896-1900</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1900/1905">1900-1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1911/1916">1911-1916</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1917/1929">1917-1929</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1958/1967">1958-1967</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Cashbook</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1887/1895">1887-1895</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1895/1901">1895-1901</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1902/1907">1902-1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1907/1911">1907-1911</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1932/1948">1932-1948</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1949/1967">1949-1967</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other financial</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous financial materials, <unitdate type="inclusive" normal="1965/1970">1965-1970</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Membership records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Membership dues records </unittitle> <physdesc><extent>6 volumes</extent></physdesc></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

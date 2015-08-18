@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::browerww.xml//EN" encodinganalog="Identifier">
+umich-bhl-8565</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+W. W. Brower papers, 1880s-1890s
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2011">
+2011</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2011</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2011-09-13</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+W. W. Brower papers, 1880s-1890s</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Brower, W. W. (Willis W.)
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+W. W. Brower papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1880s-1890s
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8565 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The provenance of this collection is unknown.</p></acqinfo>
+
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the collection are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+W. W. Brower papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>W. W. Brower was a general store keeper and undertaker of Fife Lake, Michigan.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The W. W. Brower collection consists of correspondence, financial records, advertisements, catalogs, photographs, and scrapbook dealing with his work; and material concerning the Independent Order of Good Templars and the American Protective Association. The photographs are of tombstones and hearses. The catalogs are from casket manufacturers and other firms providing supplies to his undertaking business.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">American Protective Association.</corpname>
+<geogname source="lcsh" encodinganalog="651">Fife Lake (Mich.).</geogname>
+<subject source="lcsh" encodinganalog="650">General stores--Michigan--Fife Lake.</subject>
+<corpname source="lcnaf" encodinganalog="610">Independent Order of Good Templars--Michigan.</corpname>
+<subject source="lcsh" encodinganalog="650">Undertakers and undertaking--Michigan--Fife Lake.</subject>
+<persname source="lcnaf" encodinganalog="600">Brower, W. W. (Willis W.)</persname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<persname source="lcnaf" encodinganalog="600">Brower, W. W. (Willis W.)</persname>
+<subject source="lctgm" encodinganalog="650">Hearses.</subject>
+<subject source="lctgm" encodinganalog="650">Tombs and sepulchral monuments.</subject>
+<subject source="lctgm" encodinganalog="650">Undertakers.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Commercial Catalog Collection</head>
+<subject source="lcsh" encodinganalog="650">Architecture--Details.</subject>
+<subject source="lcsh" encodinganalog="650">Furniture--Catalogs.</subject>
+<subject source="lcsh" encodinganalog="650">Undertakers and undertaking.</subject>
+</controlaccess>
+
+
+<controlaccess><head>Contributors: Commercial Catalog Collection</head>
+
+<corpname source="lcnaf" encodinganalog="710">Mills and Lacey Manufacturing Company.</corpname>
+<corpname source="lcnaf" encodinganalog="710">Durfee Embalming Fluid Company.</corpname>
+<corpname source="lcnaf" encodinganalog="710">Powers and Walker Casket Company.</corpname>
+<corpname source="lcnaf" encodinganalog="710">Detroit Casket Company.</corpname>
+<persname source="lcnaf" encodinganalog="700">Allen, Z. E.</persname>
+<corpname source="lcnaf" encodinganalog="710">Kent Furniture Manufacturing Company.</corpname>
+<persname source="lcnaf" encodinganalog="700">Hoffman, H. L.</persname>
+<persname source="lcnaf" encodinganalog="700">Halstead, J.</persname>
+<persname source="lcnaf" encodinganalog="700">Mullens, W. H.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Business papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellanea</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings, <unitdate type="inclusive">undated</unitdate> and <unitdate type="inclusive" normal="1895">1895</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>American Protective Association, Constitution and Ceremony</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Independent Order of Good Templars, <unitdate type="inclusive">undated</unitdate> and <unitdate type="inclusive" normal="1893/1896">1893-1896</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous financial records, <unitdate type="inclusive">undated</unitdate> and <unitdate type="inclusive" normal="1890/1891">1890-1891</unitdate>, of W.W. Brower General Store of Fife Lake</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1892/1896">1892-1896</unitdate>, concerning his work as an undertaker</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Funeral equipment advertisements and catalogs</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1893">1893</unitdate>, from the Guarantee Nursery Company</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1893">1893</unitdate>, concerning band instruments and music</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Sheet music and musical instrument advertisements, <unitdate type="inclusive">undated</unitdate> and <unitdate type="inclusive" normal="1894/1897">1894-1897</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1893/1895">1893-1895</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1896">1896</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Furniture advertisements</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous advertisements</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Scrapbook</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform> of tombstones and hearses </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

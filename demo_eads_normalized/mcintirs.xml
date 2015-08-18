@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::mcintirs.xml//EN" encodinganalog="identifier">
+umich-bhl-89509</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Sam McIntire Papers, ca. 1920-1988
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Thomas E. Powers </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2006">
+2006</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>June 2006</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2006-06-14</date>
+        <item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Sam McIntire Papers, ca. 1920-1988</titleproper>
+      <author>Finding aid created by<lb/> 
+Thomas E. Powers, October 1989</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21">
+    <did>
+      <origination>
+
+<persname source="lcnaf" encodinganalog="100">
+McIntire, Sam, 1915-1988.</persname>
+</origination>
+      <unittitle encodinganalog="245">
+Sam McIntire Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+ca. 1920-1988
+</unitdate>
+
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+1 linear ft. (2 boxes)</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+89509 Aa 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>Michigan State Police officer, later mayor of Mackinac Island, Michigan, and owner of the Iroquois Hotel on Mackinac Island. Scattered correspondence and miscellanea; largely photographs, prints, and slides, some of which had been collected by S. Alicia Poole, of views of Mackinac Island, the Straits of Mackinac, and Great Lakes ships and passenger ferries; also personal photographs relating in part to his association with Michigan governor G. Mennen Williams and his Michigan State Police activities.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The collection (donor no. <num type="donor" encodinganalog="541$e">7721</num>) came to the library in August 1989, and was the gift of Mrs. Margaret D. McIntire.</p>
+      </acqinfo>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright has been transferred to the University of Michigan.</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Sam McIntire Papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>Sam McIntire began his career as a State Police aide to Michigan Governor G. Mennen Williams.  Because Governor Williams maintained a residence on Mackinac Island, McIntire often accompanied the governor there.  Through these visits, McIntire came to love the Island and decided that he wanted to live there himself.  In 1954, he retired from the State Police and, after some time working in Detroit, he and his wife, Margaret, purchased Mackinac's famous Iroquois-on-the-Beach Hotel.  For more than thirty years, McIntire actively involved himself in Island civic affairs, serving for twenty years as a member of the City Council and three terms as the Island's mayor.  In addition, McIntire was founding president of the Star Ferry Line, and also a member of a group that purchased the Chippewa Hotel.  He died in 1988.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The McIntire collection consists largely of photographs, slides, postcards, and prints of views of Mackinac Island and the straits of Mackinac.  Many of the images are of Great Lakes ships and Straits of Mackinac ferries.  As some of these images are labeled "Poole" and because S. Alicia Poole owned the Iroquois before McIntire, it is probable that some of these images at one time belonged to Poole.  The researcher should note that the library has a separate S. Alicia Poole collection and should consult both collections for information about Mackinac Island.</p>
+      <p>A small part of the collection (approximately 1.5 linear inches) consists of manuscript materials detailing McIntire's career.  Of interest are correspondence and reports illustrative of some of the problems that a Mackinac Island mayor confronted.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <persname source="lcnaf" encodinganalog="600">McIntire, Sam, 1915-1988.</persname>
+        <geogname source="lcsh" encodinganalog="651">Mackinac Island (Mich.)</geogname>
+        <corpname source="lcnaf" encodinganalog="610">Michigan State Police.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <subject source="lctgm" encodinganalog="650">Ferries.</subject>
+        <subject source="lctgm" encodinganalog="650">Ice industry--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651">Mackinac Island (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Mackinac Island (Mich. : Island)</geogname>
+        <geogname source="lctgm" encodinganalog="651">Mackinac Island (Mich.)--Buildings.</geogname>
+        <corpname source="lcnaf" encodinganalog="610">Michigan. State Police.</corpname>
+        <subject source="lctgm" encodinganalog="650">Police--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650">Railroad accidents.</subject>
+        <subject source="lctgm" encodinganalog="650">Ships--Great Lakes.</subject>
+        <subject source="lcsh" encodinganalog="650">Snowmobiles.</subject>
+        <subject source="lctgm" encodinganalog="650">Strikes.</subject>
+        <subject source="lcsh" encodinganalog="650">Tourism</subject>
+        <subject source="lctgm" encodinganalog="650">Traffic accidents.</subject>
+        <persname source="lcnaf" encodinganalog="600">Truman, Harry S., 1884-1972.</persname>
+        <persname source="lcnaf" encodinganalog="600">Williams, G. Mennen, 1911-</persname>
+        <subject source="lctgm" encodinganalog="650">Winter.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Poole, S. Alicia.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="gmgpc" encodinganalog="655">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655">Postcards.</genreform>
+        <genreform source="gmgpc" encodinganalog="655">Prints.</genreform>
+        <genreform source="lctgm" encodinganalog="655">Slides.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Manuscript</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellanea </unittitle>
+          </did>
+          <note>
+            <p>(includes Mackinac Island-related correspondence, Michigan State Police memorabilia, etc.)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Michigan State Police class notebook </unittitle>
+          </did>
+          <note>
+            <p>(probably belonging to Sam McIntire's brother, Ralph McIntire)</p>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Visual Materials: Personal</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <genreform normal="Photographs">Photographs</genreform>
+            </unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Portraits and informal photographs of Sam McIntire</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>World War II activities</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Michigan State Police activities (accidents, strikes, etc.)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Sam McIntire and G. Mennen Williams </unittitle>
+            </did>
+            <note>
+              <p>(including visit of Harry Truman to Mackinac Island in 1955)</p>
+            </note>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Visual Materials: Collected</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <genreform normal="Photographs">Photographs</genreform> </unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Mackinac Island:  Views </unittitle>
+              <physdesc>
+                <extent>2 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Mackinac Island:  Views (painted photographs)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Mackinac Island:  Winter Views</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Mackinac Island:  Buildings</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Great Lakes ships and Straits of Mackinac ferries </unittitle>
+              <physdesc>
+                <extent>2 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">2</container>
+              <unittitle>Photographs of Great Lakes ships and Mackinac Island views </unittitle>
+              <physdesc>
+                <extent>ca. 30 photographs</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <genreform normal="Prints">Prints</genreform>
+            </unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Mackinac Island, Mackinaw City, St. Ignace, etc.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <genreform normal="Postcards">Postcards</genreform>
+            </unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Mackinac Island views</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Great Lakes ships and straits of Mackinac ferries</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>
+              <genreform normal="Slides">Slides</genreform>
+            </unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Mackinac Island views </unittitle>
+              <physdesc>
+                <extent>3 folders</extent>
+              </physdesc>
+            </did>
+            <note>
+              <p>(probably originally came from S. Alicia Poole)</p>
+            </note>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

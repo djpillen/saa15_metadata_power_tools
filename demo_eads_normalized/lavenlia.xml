@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::lavenlia.xml//EN" encodinganalog="Identifier">
+umich-bhl-9916</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Lavender Information and Library Association records, 1989-2007
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Jack Simpson, January 1999</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014-03-24</date>
+        <item>Finding aid updated with addition of new material.</item>
+      </change>
+      <change>
+        <date>2008-12-05</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Lavender Information and Library Association records, date</titleproper>
+      <author>Finding aid created by<lb/> 
+Jack Simpson, January 1999; finding aid was updated in 2014</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Lavender Information and Library Association, 1989-2007 
+</corpname>
+</origination>
+      <unittitle encodinganalog="245">
+Lavender Information and Library Association records
+<unitdate type="inclusive" encodinganalog="245$f">
+1989-2007
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+2.0 linear feet 
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+9916 Bimu 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Organization established in 1989 by University of Michigan librarians and information science professionals and students to promote awareness of lesbian, gay, bisexual and transgender issues within the university libraries and School of Information. Prior names have been Gay and Lesbian Library Staff (GALLS), Gay and Lesbian Library Association (GALLA), and Bisexual, Gay and Lesbian Library Association (BGALLA).
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+Transferred from the Lavender Information and Library Association (donor  no. <num type="donor" encodinganalog="541$e">8255</num>) in periodic accessions between 1994 and 1998. Additional material was donated by Scott Dennis in 2008 and 2013.
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+Periodic additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The Lavender Information and Library Association record group is open for research except for the material in box 2.  This material contains information deemed sensitive by the organization and is restricted for 50 years from the date of creation at the request of the organization.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Lavender Information and Library Association records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>The Lavender Information and Library Association (LILA) was formed in June 1989, by members of the University of Michigan library staff.  The original name of the organization, Gay and Lesbian Library Staff (GALLS) reflected its founding membership.  When the group decided to include library students as members, the organization's name was changed to the Gay and Lesbian Library Association (GALLA), which was later revised to Bisexual, Gay and Lesbian Library Association (BGALLA).  In 1996, the name was changed to LILA to include transgendered people and to reflect changes in the library and information profession.</p>
+      <p>In 2013, LILA became Information Across the Spectrum, and was chiefly associated with the University of Michigan School of Infomation.</p>
+      <p>The mission of LILA was to promote awareness of lesbian, gay, bisexual and transgender issues within the School of Information, the university libraries and throughout the university.  It also served as a social and advocacy organization for gay, lesbian, bisexual, and transgendered library/information students and staff.  LILA activities have included maintenance of a computer message board, promotion of social events, and building exhibits promoting awareness of its constituent communities.  The organization also served as a liaison, working with the School of Information administration and student groups and maintaining relations with lesbian, gay, bisexual, and transgendered organizations at the university. </p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The records of the Lavender Information and Library Association (LILA) are organized in five series:  Electronic Mail, Meeting Minutes and Agendas, Publicity and Public Relations, Later Accessions, and Artifacts.  Documentation details the events and activities of LILA as well as issues and events of general interest to the gay, lesbian, bisexual and transgender community.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">Lavender Information and Library Association.</corpname>
+        <subject source="lcsh" encodinganalog="650">Gay college students--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650">Gays--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">Homosexuality--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650">Lesbians--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">Sexual orientation--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650">Libraries--Michigan--Ann Arbor.</subject>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Societies, etc.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan. Library--Employees--Societies, etc.</corpname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Electronic Mail (Print Outs)</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Electronic Mail series is the largest group of records.  It consists of print outs of incoming and outgoing electronic mail, which includes informal messages, agendas, minutes, and forwarded newsletters. </p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1993/1995">1993-1995</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1994">1994</unitdate> </unittitle>
+            <physdesc>
+              <extent>2 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1996">1996</unitdate> </unittitle>
+            <physdesc>
+              <extent>5 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1997">1997</unitdate> </unittitle>
+            <physdesc>
+              <extent>7 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1998">1998</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Meeting Minutes and Agendas</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Meeting Minutes and Agendas series consists of agendas and minutes pertaining to LILA meetings.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>BGALLA Agendas, <unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>BGALLA/GALLA Minutes, <unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate> </unittitle>
+            <physdesc>
+              <extent>2 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Publicity and Public Relations</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Publicity and Public Relations series consists of flyers, brochures, public correspondence and press releases. </p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Pamphlets, flyers and public correspondence, <unitdate type="inclusive" normal="1989/1998">1989-1998</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Press Releases, <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Photographs and captions of "Diversity and Thought in Deed" exhibit, <unitdate type="inclusive">ca. 1992</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Later Accessions</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Later Accessions series contains materials donated at various times by LILA member Scott Dennis.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <unittitle>Papers</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1989/1997">1989-1997</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="1998/2002">1998-2002</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>
+                <unitdate type="inclusive" normal="2003/2007">2003-2007</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Photograph album of 10th anniversary party, <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Miscellaneous photos (including CD)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Miscellanea</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Artifacts</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Artifacts series consists of one BGALLA T-shirt and one LILA T-shirt. </p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>T-shirts, <unitdate type="inclusive" normal="1992/1997">1992-1997</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Restricted Files</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Restricted Files, <unitdate type="inclusive" normal="1993/1998">1993-1998</unitdate></unittitle>
+          </did>
+          <accessrestrict>
+            <p>(Restricted 50 years from date of creation)</p>
+          </accessrestrict>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::butleri.xml//EN" encodinganalog="Identifier">
+umich-bhl-93800</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Irene Linda Lather Butler papers, 1923-1991
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Kristin Roberts </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2006">
+2006</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>2006-10-13</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Irene Linda Lather Butler papers, 1923-1991</titleproper>
+
+<author>Finding aid created by<lb/> 
+Kristin Roberts, April 1993</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Butler, Irene Linda Lather, 1901-1991.</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Irene Linda Lather Butler papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1923-1991
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+93800 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Registered nurse and artist from Grand Rapids, Michigan and Tucson, Arizona. Letters exchanged with William Butler during their courtship and the first months of their marriage, 1923-1925; diaries, 1915-1979, detailing daily life and observations; subject files relating in part to her interest in nursing and sculpture.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated in 1992 by the estate of Irene Butler (donor no. <num type="donor" encodinganalog="541$e">7602</num>) and through the assistance of her niece, Nancy D. Cook.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Irene Linda Lather Butler papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Irene Linda Lather Butler was born on July 8, 1901 in Traverse City, Michigan.  Active in many areas, she was both a registered nurse and an artist of some fame.  After completing high school, Irene Lather in September 1919 completed a three-year course of study at the Blodgett School of Nursing at Blodgett Hospital in Grand Rapids, Michigan.  She continued her education, completing a specialized course in obstetrics on June 20, 1923 at Dr. Joseph B Delee's Lying-In-Hospital.  After this four-month course, she received a diploma and a gold pin with a diamond, certifying that she had completed the course and could deliver babies if necessary.</p>
+
+<p>Irene Linda Lather married William Butler on March 15, 1924 in Kalamazoo, Michigan.  When her husband became the head of the Department of Urology at the Grand Rapids Clinic in 1925, Irene Butler worked for him as his nurse and secretary.  In 1931 she joined the Women's Auxiliary to the Kent County Medical Society.  She was appointed membership chairman for 1935-36 and was elected president in 1938.  Also active in the Michigan State Medical Society, she was elected exhibition chairman in 1938 and in 1939 she was elected treasurer and in 1941 president.</p>
+
+<p>Irene Butler was also an artist whose work has been exhibited in various prominent galleries in Grand Rapids and Arizona.  In 1933, she first began studying painting and sculpture at the Grand Rapids Art Gallery.  In 1956 she was honored with a one-person show of her work at the Gallery.  Wood and stone sculptures of hers were displayed, as well as paintings.  When she and her husband retired to Tucson, Arizona, she devoted her time to artistic endeavors.  Irene Linda Lather Butler died December 23, 1991 at the age of 90.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Irene Butler collection consists of four series of papers:  Personal/Biographical, Correspondence, Diaries, and Artistic Endeavors.  Together these series reflect Butler's lively mind and her awareness of the world about her.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject source="lcsh" encodinganalog="650">Artists--Michigan--Grand Rapids.</subject>
+<persname source="lcnaf" encodinganalog="600">Butler, Irene Linda Lather.</persname>
+<subject source="lcsh" encodinganalog="650">Courtship.</subject>
+<geogname source="lcsh" encodinganalog="651">Grand Rapids (Mich.)</geogname>
+<genreform source="aat" encodinganalog="655">Love letters.</genreform>
+<subject source="lcsh" encodinganalog="650">Nurses--Michigan--Grand Rapids.</subject>
+<subject source="lcsh" encodinganalog="650">Nursing--Michigan--Grand Rapids.</subject>
+<subject source="lcsh" encodinganalog="650">Women artists--Michigan--Grand Rapids.</subject>
+<subject source="lcsh" encodinganalog="650">Sculptors--Michigan--Grand Rapids.</subject>
+<subject source="lcsh" encodinganalog="650">Women sculptors--Michigan--Grand Rapids.</subject>
+
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Butler, William.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Diaries.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Personal/Biographical</unittitle></did><scopecontent><p>The Personal/Biographical series (0.25 linear foot) consists of photocopies of photographs of Irene as she grew up and became a nurse.  There are also photocopies of images of her family taken near the turn of the century.  Also included is an undated term paper Irene wrote while in training to become a nurse.  Irene Butler's autobiography - <title render="italic">Live, Live, Live</title> is also available at the Bentley Historical Library.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photocopies of <genreform normal="Photographs">photographs</genreform> of Irene Butler and her family, including photocopies from the period of her childhood and when she was studying to be a nurse </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>School term paper relating to history of nursing, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did><scopecontent><p>The Correspondence series (0.75 linear feet) consists of correspondence exchanged with her husband-to-be.  The majority of the letters were written between 1923 and 1925 during their engagement and the first months of their marriage.  Another group of letters document her organizational activities with the Michigan State Medical Society Auxiliary and the Grand Rapids League of Women Voters.</p></scopecontent>
+<c02 level="file"><did><unittitle>Personal</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters from Irene Butler to William Butler, <unitdate type="inclusive">October 29, 1923-October 29, 1979</unitdate> (mainly 1923-1925) </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters from William Butler to Irene Butler, <unitdate type="inclusive">June 30, 1923-March 15, 1981</unitdate> (mainly 1923-1925) </unittitle> <physdesc><extent>7 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> letters exchanged between Irene and William</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Letter to a friend relating to her nursing career, <unitdate type="inclusive" normal="1920/1929" certainty="approximate">1920s</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Organizational</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan State Medical Society Auxiliary, <unitdate type="inclusive" normal="1942/1972">1942-1972</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Various associations (including: Grand Rapids League of Women Voters, American Red Cross, art associations), <unitdate type="inclusive" normal="1942/1952">1942-1952</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle><genreform normal="Diaries">Diaries</genreform></unittitle></did><scopecontent><p>The Diaries series (1915-1979; 1.25 linear feet) is a record of Irene Butler's life's activities beginning in 1915 when she was fifteen and ending when she was 78 years old.  The travel diaries describe events that occurred while she was vacationing throughout the U.S. over the years and once to Europe in 1961.  Her "Sunday only" diaries, which she began writing when she was 86, consist of more detailed, personal reflections written near the end of her life.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1915/1979">1915-1979</unitdate> </unittitle> <physdesc><extent>49 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Travel diaries (includes trips throughout U.S. as well as a trip to Europe in 1961) <unitdate type="inclusive" normal="1939/1985">1939-1985</unitdate> </unittitle> <physdesc><extent>22 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Sundays only diaries, <unitdate type="inclusive" normal="1987/1989">1987-1989</unitdate> </unittitle> <physdesc><extent>6 volumes</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Artistic Activities</unittitle></did><scopecontent><p>The Artistic Activities series (0.25 linear feet) consists of art exhibit brochures, many from exhibits in Arizona where she had her work displayed.  There are also photocopies of many works of art she had created throughout her life. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Art Exhibit Brochures, mainly from Arizona</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Photocopies of her art work</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

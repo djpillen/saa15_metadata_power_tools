@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::boycee.xml//EN" encodinganalog="Identifier">
+umich-bhl-85799</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Earnest Boyce papers, 1953-1959
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Jenifer A. Smith</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-11-05</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Earnest Boyce papers, 1953-1959</titleproper>
+
+<author>Finding aid created by<lb/> 
+Jenifer A. Smith, 1992</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Boyce, Earnest, 1892-1986.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Earnest Boyce ppers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1953-1959
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85799 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> and <language langcode="spa" encodinganalog="041">Spanish</language>. </langmaterial>
+
+<abstract>
+Representative of the University of Michigan who helped plan the El Olivar Highway Equipment Training Project in Mexico. Correspondence, reports, contracts, and photographs concerning El Olivar Highway Equipment Training Project of the U. S. Foreign Operations Administration and University of Michigan.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Earnest Boyce (Donor No. <num type="donor" encodinganalog="541$e">4781</num>) in 1969 and 1978.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to The University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Earnest Boyce Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Earnest Boyce, chairman of the Civil Engineering Department at The University of Michigan from 1947-1961, also served as the university's representative for planning the El Olivar Highway Equipment Training Project, a venture initiated by the United States Government's Foreign Operations Administration (FOA).  Boyce, working for the FOA, sent many advisors and consultants from the university to Mexico to aid in the establishment of a vocational training center.  The purpose of the vocational center was to teach industrial workers, engineers, and farmers to operate and care for highway construction machinery, tractors, farming implements, and other heavy machinery.</p>
+
+<p>The need for such a program was established by members of the Mexican Highway Association who discovered that because of insufficient technical knowledge much of the heavy road building equipment was operating at less than 45% of efficiency and that a large percentage of the equipment failures were due to a lack of proper servicing and maintenance adjustments.  Because of this demonstrated need for trained operators and mechanics, technical cooperation in the development program was requested from the United States Government.</p>
+
+<p>As a result of this request the governments of Mexico and the United States formulated and signed an agreement on April 6, 1954, which established the Centro de Adiestramiento de Operadores (CAO).  This vocational training school was governed by a board of directors which monitored the activities of the school with the cooperation of the two American technicians.</p>
+
+<p>The first American technician at the site, Almando A. Vezzani, arrived in Mexico to co-operate in the physical planning of the CAO in December 1954, and was followed shortly by Howard Gerrish, who acted as the chief of instructors.  The preliminary work was begun promptly with these two technicians working with the director of the CAO, Ing. Luis Rivero del Val.  In addition to preparation of the physical plant, it was also necessary to compile lists of tools, obtain equipment, and employ qualified teaching personnel.</p>
+
+<p>Since the CAO was considered an unqualified success the original contract, which expired in 1956, was extended until the beginning of 1959.  It was anticipated that by 1959 the CAO would have had enough experience to continue operation independent of outside technical co-operation.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Earnest Boyce Papers (1953-1959) document the establishment and continuation of the Centro de Adiestramiento de Operadores (CAO).  The collection focuses on the activities of the El Olivar Highway Equipment Training Project, but also included in the collection is a folder of correspondence that outlines a related project in Bolivia.  Background materials, found in the first folder, provide a concise overview of the project's mission, primary participants, and history.  These background materials state the CAO's importance not only for Mexican engineers and mechanics, but for a continued co-operation between the United States and Mexico.</p>
+
+<p>Included in the collection are papers documenting the creation of the formal contractual governmental agreement (including the original contract) and the continued university involvement with the building and maintenance of the physical plant and the hiring of teachers and consultants.</p>
+
+<p>Four folders contain a complete run of official reports which document the progress and day-to-day activities of the CAO.  These reports were originally sent to Earnest Boyce by A.A. Vezzani, then superseded by Neil Lottridge.</p>
+
+<p>Six folders of correspondence document the working relationships of the men involved with the project and the inevitable problems that occur when people of different cultures must work together.</p>
+
+<p>Of special interest are the many photographs of the primary advisors of the CAO and several newspaper and periodical articles written to publicize the inauguration and the continuing activities of the school.  Although many of the newspaper articles are in Spanish, many pictures are included which also provide important information.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Centro de Adiestramiento de Operadores (Mexico City, Mexico)</corpname>
+<geogname source="lcsh" encodinganalog="651">Mexico.</geogname>
+<subject source="lcsh" encodinganalog="650">Roads--Design and construction.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Foreign Operations Administration.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Civil Engineering.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Centro de Adiestramiento de Operadores (Mexico City, Mexico)</corpname>
+<subject source="lctgm" encodinganalog="650">Roads--Mexico.</subject>
+</controlaccess>
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Centro de Adiestramiento de Operadores (CAO) files</unittitle></did>
+<c02 level="file"><did><unittitle>Background Materials</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Project Summaries</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Prospectus (in Spanish)</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Contracts (including revisions and amendments)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Reports--Centro de Adiestramiento de Operadores, <unitdate type="inclusive" normal="1954/1959">1954-1959</unitdate> </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General Correspondence, <unitdate type="inclusive" normal="1953/1959">1953-1959</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Consultants</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Gerrish, Howard H. (educational advisor)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Hofman, Vincent J.</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Hulslander, Stewart C.</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Jones, Alvin W.</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Jones, Howard R.</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Lado, Robert</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Lottridge, Neil McDonald (technical advisor)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Moore, Daniel I. (audio-visual consultant)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Scott, Raymond Clare</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Torres, Pedro</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Vincent, Edward T.</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Wagner, Leslie E.</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Curriculum and Course Descriptions, <unitdate type="inclusive" normal="1955">1955</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Newspaper/Periodical Articles</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Editorial on the inauguration and curriculum of the CAO, (<title render="italic">Mas-Caminos</title>, <imprint>Agosto <date>1955</date>, 7-32</imprint>)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Arribo del Senor Vezzani," <title render="italic">(Mas-Caminos</title>, <imprint>Enero <date>1955</date>, 10</imprint>)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Nueva Educativa Institucion en Mexico," (<title render="italic">Mas-Caminos</title>, <imprint>Enero <date>1955</date>, 22-27)</imprint></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Ayuda Technica Norteamericana," (<title render="italic">Mas-Caminos</title>, <imprint>Mayo <date>1955</date>, 40-44</imprint>)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Vezzani, Almando, "Skilled Hands for Industry," (<title render="italic">Mexican-American Review</title>, <imprint><date>Sept. 1955</date>, 16-17; 27-29</imprint>)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"El CAO, Ejemplo de Cooperacion Internacional," (<title render="italic">Mas-Caminos</title>, <imprint><date>Sept. 1967</date>, 4-6</imprint>)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Funcionamiento del CAO," (<title render="italic">Mas-Caminos</title>, <imprint><date>Sept. 1967 </date>, 26-35</imprint>)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Fuerza Diesel</title>, <unitdate type="inclusive">Diciembre 1956</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photographs</genreform>--El Olivar Project</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Proposed Secondary Project--Bolivia</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

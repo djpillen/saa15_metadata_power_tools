@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::darypsi.xml//EN" encodinganalog="Identifier">
+umich-bhl-85131</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) records, 1896-1985
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>June 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-06-27</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) records, 1896-1985</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.).
+</corpname>
+
+
+</origination>
+<unittitle encodinganalog="245">
+Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1896-1985
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85131 Be.1 2; Be.1 Outsize
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Ypsilanti chapter of the Daughters of the American Revolution; organizational records.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was deposited by the chapter (donor no. <num type="donor" encodinganalog="541$e">6008</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The first regular meeting of the Ypsilanti chapter of the Daughters of the American Revolution was held October 19, 1896.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The record group includes secretary's minutes, treasurer's books, by-laws, and annual reports. In addition, there is a minute book of the organization's Junior Committee, 1948-1952. Of genealogical value is the compilation made of the names of individuals buried in the Oakwood Cemetery, Saline, Michigan.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">Cemeteries--Michigan--Saline.</subject>
+<corpname source="lcnaf" encodinganalog="610">Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.).</corpname>
+<subject source="lcsh" encodinganalog="650">Patriotic societies--Michigan--Ypsilanti.</subject>
+<corpname source="lcnaf" encodinganalog="610">Oakwood Cemetery (Saline, Mich.).</corpname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Ypsilanti--Societies and clubs.</subject>
+<geogname source="lcsh" encodinganalog="651">Ypsilanti (Mich.).</geogname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<subject source="lctgm" encodinganalog="650">Cemeteries--Michigan--Saline.</subject>
+<corpname source="lcnaf" encodinganalog="610">Oakwood Cemetery (Saline, Mich.)</corpname>
+
+<subject source="lcsh" encodinganalog="650">Cemeteries--Michigan--Saline</subject>
+<subject source="lctgm" encodinganalog="650">Tombs and sepulchral monuments.</subject>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Secretary's minutes, <unitdate type="inclusive" normal="1896/1985">1896-1985</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1896/1902">1896-1902</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1902/1907">1902-1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1907/1914">1907-1914</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1914/1921">1914-1921</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1921/1924">1921-1924</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1924/1929">1924-1929</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1929/1932">1929-1932</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1932/1940">1932-1940</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1941/1951">1941-1951</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1951/1962">1951-1962</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1962/1968">1962-1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1969/1971">1969-1971</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1974/1985">1974-1985</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Treasurer's books, <unitdate type="inclusive" normal="1896/1970">1896-1970</unitdate></unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1896/1918">1896-1918</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1918/1927">1918-1927</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1927/1936">1927-1936</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1936/1954">1936-1954</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive" normal="1954/1970">1954-1970</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>By-laws</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Annual reports, <unitdate type="inclusive">1974/1975-1984/1985</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Junior Committee: Secretary-Treasurer's book, <unitdate type="inclusive" normal="1946/1952">1946-1952</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Compilation of burials in Oakwood Cemetery, Saline, Michigan, <unitdate type="inclusive" normal="1958">1958</unitdate> </unittitle></did> <note><p>(include <genreform normal="Photographs">photographs</genreform>)</p></note></c02>
+    <c02 level="file"><did><container type="folder" label="Oversize Folder">Be.1</container><unittitle>Diagrams of Oakwood Cemetery </unittitle> <physdesc><extent>6 items</extent></physdesc></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

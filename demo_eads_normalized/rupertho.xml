@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::rupertho.xml//EN" encodinganalog="Identifier">
+umich-bhl-852170</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Hoover Rupert papers, 1954-1970
+</titleproper>
+
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>January 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-01-24</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Hoover Rupert papers, 1954-1970</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Rupert, Hoover.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Hoover Rupert papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1954-1970
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+852170 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Methodist clergyman and author; pastor of the Ann Arbor (Mich.) First United Methodist Church. Drafts and galleys of books and articles, correspondence relating to writings and printed sermons.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Dr. Hoover Rupert (donor no. <num type="donor" encodinganalog="541$e">5263</num>) and came to the library in 1972.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Hoover Rupert papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Hoover Rupert was senior minister of the First United Methodist Church of Ann Arbor, Michigan. He served from 1959 to June of 1972. While in Ann Arbor, Rupert was active in civic affairs and community leadership. He was a leader in the efforts to secure a Fair Housing Ordinance in Ann Arbor. Rupert was also an author, writing fifteen books and a syndicated magazine column.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection is comprised almost entirely of drafts of his writings and other materials relating to publication of his writings. There is also an extensive run of his published sermons.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Authors, American--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Clergy--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">First Methodist Church (Ann Arbor, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">United Methodist Church (U.S.)--Michigan--Ann Arbor.</corpname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Sermons.</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Writings and miscellaneous</unittitle></did>
+<c02 level="file"><did><unittitle>Writings</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"My People are Your People", <unitdate type="inclusive" normal="1968">1968</unitdate> [preliminary draft] </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"My People are Your People" ,<unitdate type="inclusive" normal="1968">1968</unitdate> [galleys] </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"What's Good About God", <unitdate type="inclusive" normal="1970">1970</unitdate> [galleys]</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"I Belong to the Church", <unitdate type="inclusive" normal="1954/1955">1954-1955</unitdate> [correspondence]</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"I Belong to the Church", <unitdate type="inclusive" normal="1955">1955</unitdate> [preliminary draft]</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Enjoy your Teenager", <unitdate type="inclusive" normal="1962">1962</unitdate> [correspondence]</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Christian Citizenship", <unitdate type="inclusive" normal="1964">1964</unitdate> [correspondence and draft]</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Epworth Notes", <unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate> [correspondence and draft]</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Epworth Notes", <unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate> [correspondence and draft]</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Epworth Notes", <unitdate type="inclusive" normal="1965">1965</unitdate> [correspondence and draft]</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Epworth Notes", <unitdate type="inclusive" normal="1966/1967">1966-1967</unitdate> [correspondence and draft]</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Conflict Can Be Constructive", <unitdate type="inclusive" normal="1965">1965</unitdate> [correspondence and drafts]</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"A Family View of Vocation", <unitdate type="inclusive" normal="1966">1966</unitdate> [correspondence and drafts]</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Confirmation study book, "A Search for Faith"</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Biographical material and miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Printed <genreform normal="Sermons">sermons</genreform></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

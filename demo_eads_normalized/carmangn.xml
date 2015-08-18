@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::carmangn.xml//EN" encodinganalog="Identifier">
+umich-bhl-85875</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+George N. Carman papers, 1839-1941
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2009">
+2009</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2009-03-13</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+George N. Carman papers, 1839-1941</titleproper>
+      <author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+<persname source="lcnaf" encodinganalog="100">
+Carman, George N., 1856-1941.
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+George N. Carman papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1839-1941
+</unitdate>
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+6 linear feet
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85875 Aa 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Educator, director of the Lewis Institute in Chicago, Illinois; professional and personal correspondence, diaries, and photographs.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+      <physloc>Portions located in offsite storage; prior notification required for access.</physloc>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+Portions of the collection came from George N. Carman (donor no. <num type="donor" encodinganalog="541$e">451</num>). The bulk of the collection came from Milo Quaife (donor no. <num type="donor" encodinganalog="541$e">1336</num>) who had received them from Carman’s niece Bertha Glassbrook.</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the papers are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+George N. Carman papers, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>George Noble Carman was born on July 18, 1856 in Walworth, Wayne County, New York.  He graduated from the University of Michigan in 1881.  While studying at the University of Michigan, Carman also taught at Ypsilanti High School.  He became principal of the school after receiving his degree.  He later became superintendent of schools at Union City, Michigan and principal of the Brooklyn, NY public school No. 15.</p>
+      <p>In 1889 Carman returned to the Midwest to become principal of the St. Paul Minnesota High School.  He was associate professor of English at the University of Chicago and dean of the Morgan Park Academy.  In 1893, Carman joined the staff of the University of Chicago as dean of the academy, a position he held until 1895 when he was named first director of Lewis Institute. Lewis Institute merged with Armour Institute of Technology in 1940 to form Illinois Institute of Technology.</p>
+      <p>Carman was also active in the North Central Association of Colleges and Secondary Schools since its organization in 1895, serving first as its treasurer and since 1903 as president. He was also secretary of the Association's commission on accredited schools which was organized in 1901. He died June 24, 1941.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The George N. Carman collection includes professional and family correspondence, autobiography and related materials, diaries 1875-1880, partly concerning his student life at University of Michigan, genealogical materials, photographs, and miscellanea relating to the Lewis Institute.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <persname source="lcnaf" encodinganalog="600">Carman, George N., 1856-1941.</persname>
+        <subject source="lcsh" encodinganalog="650">Education--Illinois--Chicago.</subject>
+        <corpname source="lcnaf" encodinganalog="610">Lewis Institute.</corpname>
+        <subject source="lcsh" encodinganalog="650">Schools--Illinois--Chicago.</subject>
+        <subject source="lcsh" encodinganalog="650">Teachers--Illinois--Chicago.</subject>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1871-1880.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <persname source="lcnaf" encodinganalog="600">Carman, Ada MacVicar.</persname>
+        <persname source="lcnaf" encodinganalog="600">Carman, George N., 1856-1941.</persname>
+        <famname source="lcnaf" encodinganalog="600">Carman family.</famname>
+        <subject source="lctgm" encodinganalog="650">Children.</subject>
+        <subject source="lctgm" encodinganalog="650">Offices--1891-1900.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655">Tintypes.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>
+              <unitdate type="inclusive">Undated</unitdate> and <unitdate type="inclusive" normal="1839/1893">1839-1893</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1894/1909">1894-1909</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1910/1921">1910-1921</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">4</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1922/1932">1922-1932</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1933/1941">1933-1941</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Other Material</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Carman farm materials</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Income tax returns</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Autobiography</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>Autobiographical materials</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>
+              <genreform normal="Diaries">Diaries</genreform>, <unitdate type="inclusive">September 1875-April 1880</unitdate> </unittitle>
+            <physdesc>
+              <extent>3 volumes</extent>
+            </physdesc>
+          </did>
+          <note>
+            <p>(include comments on student life at the University of Michigan, courses taken, expenses, reflections on life)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">5</container>
+            <unittitle>
+              <genreform normal="Photographs">Photographs</genreform>: portraits of Carman, his wife, and other family members; and other miscellaneous photographs. </unittitle>
+            <physdesc>
+              <extent>5 envelopes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Genealogy</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Student papers</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Graham Taylor articles</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">6</container>
+            <unittitle>Miscellanea, largely concerning Lewis Institute</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

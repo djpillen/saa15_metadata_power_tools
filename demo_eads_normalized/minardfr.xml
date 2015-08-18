@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::minardfr.xml//EN" encodinganalog="Identifier">
+umich-bhl-2009071</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Fred E. Minard photograph collection, 1918-1919</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections, Bentley Historical Library </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2010">
+2010</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Len Coombs, 
+<date>2010</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc>
+<change><date>20100526</date><item>Corrected errors LAC</item></change>
+<change><date>20100106</date><item>Original encoding.</item></change>
+<change><date>20120131</date><item>Edited to reflect migration of content from CD-ROM to Deep Blue JMBG</item></change>
+</revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Fred E. Minard photograph collection, 1918-1919</titleproper>
+
+<author>Finding aid created by<lb/> 
+Len Coombs, 2010</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Minard, Fred E.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Fred E. Minard photograph collection<unitdate type="inclusive" encodinganalog="245$f">
+1918-1919</unitdate>
+</unittitle>
+
+<physdesc><extent>296 MB [187 digital files]</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2009071 Aa 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Photograph collection of a soldier with the 168th Co., United States Army Transportation Corps, serving near Murmansk, Russia in the  Allied intervention 
+in Russia, 1918-1919, the "Polar Bear Expedition."</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Rea Ann Trotter, of Windsor, Colorado, in 2009 
+(Donor No. <num type="donor" encodinganalog="541$e">10169</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open for research.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>item, folder title, box. no., Fred E. Minard photograph collection, 1918-1919, Bentley Historical Library, 
+University of Michigan</p></prefercite>
+</descgrp>
+<bioghist encodinganalog="545">
+<p>Member of <corpname normal="United States. Army. Transportation Corps, 168th.">168th Co., United States Army Transportation Corps,</corpname> 
+serving near <geogname normal="Murmansk (Russia)">Murmansk, Russia,</geogname> near the end of World War I; resident of 
+<geogname normal="New Castle (Wyo.)">New Castle, Wyoming.</geogname></p>
+</bioghist>
+
+<scopecontent><p>This collection contains digital records; the original papers and/or photographs are owned by the donor.  The digital items in this collection were digitized from originals by the individual donors before being received by the Bentley Historical Library.  Preservation copies of these files with their original file names and CD-ROM file structures intact have been submitted to Deep Blue.  Access copies of these digital files can be viewed by clicking on the links next to the individual folders in the Content List below.</p>
+<p>In this finding aid, the files have been arranged into one series, Photographs.  Within each series, files are listed numerically according to the file arrangement they were given by the donor.  The porginal files in this collection are in TIF format. Access copies were made in jpeg format.</p>
+<p>Files include digitized <genreform normal="Photographs.">photographs</genreform> of ports, camps in <geogname normal="England.">England</geogname> and <geogname normal="France.">France,</geogname> the <geogname normal="Russia.">Russian</geogname> countryside, 
+<geogname normal="Murmansk (Russia)">Murmansk,</geogname> soldiers on patrol and in camp, battle casualties, battle damage and 
+construction on Russian railroads, airplanes, and other subjects, ca. 1918-1919.  Many of these photographs are described in a printed list distributed by 
+<persname normal="Wilson, John E.">John E. Wilson</persname>, which can be found online in the "Finding Aid for the North Russia  pictures, taken by John E. Wilson."</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head>
+<geogname source="lcnaf" encodinganalog="651.">England.</geogname>
+<geogname source="lcnaf" encodinganalog="651.">France.</geogname>
+<geogname source="lcnaf" encodinganalog="651.">Soviet Union -- History -- Allied intervention, 1918-1920.</geogname>
+<subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+<subject source="lctgm" encodinganalog="650">Airplanes.</subject>
+<subject source="lctgm" encodinganalog="650">Campaigns and battles -- Soviet Union.</subject>
+<subject source="lctgm" encodinganalog="650">Carts and wagons.</subject>
+<subject source="lctgm" encodinganalog="650">Dogsleds.</subject>
+<subject source="lctgm" encodinganalog="650">Military art and science.</subject>
+<subject source="lctgm" encodinganalog="650">Military camps.</subject>
+<subject source="lctgm" encodinganalog="650">Military cookery.</subject>
+<subject source="lctgm" encodinganalog="650">Military life.</subject>
+<subject source="lctgm" encodinganalog="650">Military parades and ceremonies.</subject>
+<subject source="lctgm" encodinganalog="650">Railroads -- Russia (Federation)</subject>
+<subject source="lctgm" encodinganalog="650">Recreation.</subject>
+<subject source="lctgm" encodinganalog="650">Refugees -- Russian.</subject>
+<subject source="lctgm" encodinganalog="650">Ships.</subject>
+<subject source="lctgm" encodinganalog="650">Skiing.</subject>
+<subject source="lctgm" encodinganalog="650">Soldiers -- American -- Russia (Federation)</subject>
+<subject source="lctgm" encodinganalog="650">War casualties.</subject>
+	<subject source="lctgm" encodinganalog="650">War damage. </subject>
+<corpname encodinganalog="690" source="local">Polar Bear Expedition.</corpname>
+
+
+</controlaccess>
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Photographs</unittitle></did>
+
+<c02 level="file"><did>
+<unittitle>Photographs (digitized)</unittitle><physdesc><extent>187 files</extent></physdesc></did><c03 level="file"><did><container type="folder" label="Folder">1</container><unittitle>France</unittitle><dao show="new" actuate="onrequest" href="minard0001"><daodesc><p>[view items]</p></daodesc></dao></did></c03><c03 level="file"><did><container type="folder" label="Folder">2</container><unittitle>Russian Expedition Photos by John Wilson</unittitle><dao show="new" actuate="onrequest" href="minard0002"><daodesc><p>[view items]</p></daodesc></dao></did></c03></c02>
+<c02 level="file"><did>
+<container label="Box" type="box">1</container><unittitle>Photograph Prints</unittitle><physdesc><extent>4 folders</extent></physdesc></did>
+<note><p>(Original photographs)</p></note><c03 level="file"><did><unittitle>France</unittitle><physdesc><extent>1 folder</extent></physdesc></did></c03><c03 level="file"><did><unittitle>Russian Expedition Photos by John Wilson</unittitle><physdesc><extent>3 folder</extent></physdesc></did></c03></c02>
+</c01>
+
+
+
+<c01 level="series"><did>
+<unittitle>Papers</unittitle><physdesc><extent>1 folder</extent></physdesc></did>
+<c02><did><container label="Box" type="box">1</container><unittitle>Papers</unittitle></did><note><p>(Copy of Minard's discharge papers and complete list of John Wilson photos.</p></note></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

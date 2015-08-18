@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::nelp.xml//EN" encodinganalog="identifier">
+umich-bhl-0372</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+New England Literature Program (University of Michigan) records, 1975-2005
+
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Joel A. Blanco, March 2003; Zac Monahan, September 2005</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+January 2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Laura Schmidt, 
+<date>January 2005</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050128</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+New England Literature Program <lb/>(University of Michigan), <lb/>Records, 1975-1998
+</titleproper>
+
+<author>Finding aid created by<lb/> 
+Joel A. Blanco, March 2003<lb/>
+Zac Monahan, September 2005
+</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. New England Literature Program.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+New England Literature Program (University of Michigan) records
+<unitdate type="inclusive" encodinganalog="245$f">
+1975-2005
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.0 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+0372  Bimu C26 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The New England Literature Program, established in 1975, is a UM academic program based in Maine in which students and staff members live and work together closely, reading New England authors, writing, and exploring the New England countryside.  The study of New England authors and culture is merged with other activities like camping, art, and canoeing.  These records document the history of the program, and include correspondence, clippings, and journal anthologies.
+</abstract>
+
+
+<repository><corpname encodinganalog="852">
+<subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group (donor no. <num type="donor" encodinganalog="541$e">9170</num>) was received in 2002. 
+
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The records are open for research.
+</p>
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+New England Literature Program (University of Michigan) Records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+
+<p>The New England Literature Program (NELP) is a University of Michigan academic program that takes place at Camp Wohelo on Sebago Lake, Maine.  Begun in 1975, and offered during the Spring half-term, students and staff members live and work together closely, reading New England authors, writing, and exploring the New England countryside, its people, culture, and history.  The program was conceived by professors of English Walter Clark and Alan Howes. </p>
+<p>In addition to formal academic work in literature and writing, non-credit instruction is given in canoeing, camping, art, and nature studies.  Students teach or co-teach classes as part of their NELP experience.  In addition, the program includes trips to places of natural and cultural interests, including several multi-day hiking and camping trips. </p>
+<p>NELP offers creative writing workshops, but most writing is done in a journal.  The journals are both personal and academic.  Every NELP participant belongs to a journal group, which meets twice a week for discussion and sharing.  Writing assignments of various sorts are connected with the readings, and they are supplemented by writing on topics of the students' own choosing.  Student writing often explores creative expression, the natural world and the New England environment, and the writer's response to the NELP experience.  For additional information, please consult the NELP website available (as of April 2003) at:  http://www.lsa.umich.edu/english/nelp/whatisnelp.asp. 
+</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+
+<p>The records of the University of Michigan's New England Literature Program (NELP) covers the period from 1975 to 1998 and includes historical information, correspondence, and journal anthologies. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. New England Literature Program.</corpname>
+<subject source="lcsh" encodinganalog="650">Creative writing.</subject>
+<subject source="lcsh" encodinganalog="650">Diaries--Authorship.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of English Language and Literature.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Curricula.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Literature, Science, and the Arts.</corpname>
+
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Historical Information</unittitle></did>
+<scopecontent>
+<p>The historical information includes general information about the program, along with newspaper clippings and a directory of students that were part of NELP during the period 1975 to 1983.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1975/1983">1975-1983</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1998">1998</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<scopecontent><p>The records also include correspondence regarding administrative issues, like funding and admissions, and letters from alumni.  The latter gives researchers a sense of how positive and strong the program is for students. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Administrative, <unitdate type="inclusive" normal="1979">1979</unitdate> <unitdate type="inclusive" normal="1984">1984</unitdate> <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Alumni, <unitdate type="inclusive" normal="1983/1986">1983-1986</unitdate> <unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletters <unitdate type="inclusive" normal="1987">1987</unitdate> <unitdate type="inclusive" normal="1989">1989</unitdate> <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Journal Anthologies</unittitle></did>
+<scopecontent><p>The bulk of the material consists of journal anthologies.  These anthologies compile excerpts from the journals written by the students during their program, and include writings, poems, and drawings.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1980/1986">1980-1986</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1988/1991">1988-1991</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1997">1997</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Publications</unittitle></did>
+<scopecontent><p>The two articles in the publications series were written by program co-founder Walter Clark describe the program.  One of the articles was written for the book <title render="italic">Teaching Environmental Program</title>, and the other for the College of Literature, Science and Arts. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Article for the College of Literature, Science and Arts, <unitdate type="inclusive" normal="1985/1986">1985-1986</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Article on<title render="italic">Teaching Environmental Program</title>, <unitdate type="inclusive" normal="1982/1984">1982-1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Article in<title render="italic">Michigan Daily</title>, see <unitdate type="inclusive">October 13, 1974</unitdate> issue</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Article in<title render="italic">Change Magazine</title>, <unitdate type="inclusive">July 1976</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Article for the College of Literature, Science and Arts, Fall <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Program Materials</unittitle></did>
+<scopecontent>
+<p>The program materials consist of course packs, staff manuals and student/staff lists from various years.</p></scopecontent>
+
+<c02 level="file"><did><unittitle>Coursepacks</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1992">1992</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1996">1996</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="2005">2005</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Staff Materials</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="2000">2000</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="2005">2005</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Student and Staff Lists</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="2001">2001</unitdate>, <unitdate type="inclusive" normal="2004">2004</unitdate>, <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle></did></c03></c02></c01>
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

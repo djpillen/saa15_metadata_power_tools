@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::barrabee.xml//EN" encodinganalog="Identifier">
+umich-bhl-857
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Marcia Barrabee Papers, 1961-1969
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Library staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date">
+2006 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>April 2006</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20060428 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Marcia Barrabee Papers, 1961-1969</titleproper>
+
+<author>Finding aid created by<lb/> 
+Bentley Historical Library staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<persname source="lcnaf" encodinganalog="100">
+Barrabee, Peter
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Marcia Barrabee Papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1961-1969
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+857 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Ann Arbor peace activist during the Vietnam War era; correspondence and other materials relating to her activities within peace organizations.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Marcia Barrabee (donor no. <num type="donor" encodinganalog="541$e">5820</num>) and came to the library in 1976. Periodic additions have been made.</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Marcia Barrabee Papers
+, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Marcia Barrabee was a peace activist during the Vietnam War era. She was also newsletter editor of Ann Arbor Women for Peace.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The collection includes correspondence, newsletters, printed material, and newspaper clippings concerning the Women Strike for Peace, the House Un-American Activities Committee, the National Mobilization Committee to End the War in Vietnam, disarmament, the draft, civil defense and fallout shelters. The collection has been arranged into the following series: Ann Arbor Women for Peace; Women Strike for Peace; Peace Issues; and Surveillance Files.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Ann Arbor Women for Peace.</corpname>
+<subject source="lcsh" encodinganalog="650">Civil defense.</subject>
+<subject source="lcsh" encodinganalog="650">Disarmament.</subject>
+<subject source="lcsh" encodinganalog="650">Draft.</subject>
+<corpname source="lcnaf" encodinganalog="610">Student Mobilization Committee to End the War in Vietnam.</corpname>
+<subject source="lcsh" encodinganalog="650">Pacifism.</subject>
+<subject source="lcsh" encodinganalog="650">Peace--Societies, etc.</subject>
+<corpname source="lcnaf" encodinganalog="610">United States. Congress. House. Committee on Un-American Activities.</corpname>
+<subject source="lcsh" encodinganalog="650">Vietnam War, 1961-1975.</subject>
+<corpname source="lcnaf" encodinganalog="610">Women Strike for Peace.</corpname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor--Societies and clubs.</subject>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Ann Arbor Women for Peace</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate> </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1962">1962</unitdate> </unittitle> <physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1963">1963</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1964">1964</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1965">1965</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1966">1966</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1967/1969">1967-1969</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Women Strike for Peace</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>General </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers concerning the House Un-American Activities Committee subpoenas issued to the Women Strike for Peace, <unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers concerning attempts to abolish the House Un-American Activities Committee, 1964-1968.</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Women Strike for Peace <title render="italic"> National Information Memo</title></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1962">1962</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Jan-December 1963 </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1964">1964</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Women Strike for Peace <title render="italic"> Memo</title></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1964">1964</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-December 1965</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1966/1967">1966-1967</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle><title render="italic"> Women's Peace Movement Bulletin</title></unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-December 1962</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">January-December 1963</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1964">1964</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Peace Issues</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic"> Peace Inquiry and Action Weekly</title></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Addresses </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Disarmament </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Draft </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Arms industry conversion</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Peaceful alternatives </unittitle> <physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Dow Chemical Company protest, <unitdate type="inclusive" normal="1968">1968</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Teach-in on the draft at The University of Michigan, <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>National Mobilization Committee to End the War in Vietnam, <unitdate type="inclusive" normal="1967">1967</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Step Toward Peace Day, <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Civil defense and fallout shelters </unittitle> <physdesc><extent>8 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Newspaper clippings </unittitle> <physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Notebooks on peace activities </unittitle> <physdesc><extent>7 volumes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous </unittitle></did> <note><p>(include Ann Arbor Strike for Peace phone chain)</p></note></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Surveillance</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>File kept by Michigan State Police</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>File kept by FBI</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

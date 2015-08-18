@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::aasesqui.xml//EN" encodinganalog="Identifier">
+umich-bhl-87475</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Ann Arbor Sesquicentennial Commission records, 1972-1974
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Bentley Historical Library staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2009">
+2009</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2009-02-09</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Ann Arbor Sesquicentennial Commission <lb/>Records, 1972-1974</titleproper>
+      <author>Finding aid created by<lb/> 
+Bentley Historical Library staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <corpname source="lcnaf" encodinganalog="110">
+Ann Arbor (Mich.). Sesquicentennial Commission.
+</corpname>
+      </origination>
+      <unittitle encodinganalog="245">
+Ann Arbor Sesquicentennial Commission records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1972-1974
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+3 linear feet and 1 oversize volume.
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+87475 Bp.2 2; BP.2 Outsize
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Agency established to plan and coordinate activities in celebration of Ann Arbor, Michigan's, sesquicentennial. Minutes, printed matter, and administrative files of Douglas Crary, commission chairman; scrapbook relating to celebratory events and projects; and photographs.</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload"/>
+      </repository>
+      <physloc>Portions located in offsite storage; prior notification required for access.</physloc>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The records came from commission chairman Douglas Crary (donor no. <num type="donor" encodinganalog="541$e">4935</num>) in 1974.</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The record group is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Ann Arbor Sesquicentennial Commission records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>The Ann Arbor Sesquicentennial Commission was established in 1972 as a commission of the city to plan and coordinate events and projects to celebrate the sesquicentennial of the founding in 1824of the city of Ann Arbor. The Commission was chaired by Douglas Crary.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The records of the commission include minutes of meetings, project files, publications celebrating the history of Ann Arbor, a scrapbook of events, and photographs of activities.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--History.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects - Visual Materials:</head>
+        <corpname source="lcnaf" encodinganalog="610">First National Bank Building (Ann Arbor, Mich.)</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Ann Arbor Railroad Depot (Ann Arbor, Mich.)</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Ann Arbor Art Fairs (Ann Arbor, Mich.)</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Ann Arbor (Mich.). Sesquicentennial Commission.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Buildings.</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Anderson's Paint Store (Ann Arbor, Mich.)</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Haarer Building (Ann Arbor, Mich.)</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Kempf House (Ann Arbor, Mich.)</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Masonic Temple (Ann Arbor, Mich.)</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Michigan--Campus.</corpname>
+        <subject source="lctgm" encodinganalog="650">Art.</subject>
+        <subject source="lctgm" encodinganalog="650">Art festivals.</subject>
+        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Buildings.</geogname>
+        <geogname source="lctgm" encodinganalog="651">Dixboro (Mich.)--Buildings.</geogname>
+        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Ann Arbor.</subject>
+        <geogname source="lcsh" encodinganalog="651">Berkshire Road (Ann Arbor, Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Washington Street (Ann Arbor, Mich.)</geogname>
+        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Streets</geogname>
+        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Business enterprises</geogname>
+        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Dwellings</geogname>
+        <subject source="lctgm" encodinganalog="650">Buildings--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650">Business enterprises--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650">Railroad stations--Michigan--Ann Arbor.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Crary, Douglas D., 1910-</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Administrative Records</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Prospectus</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Minutes, <unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Printed material (largely articles about specific sesquicentennial events)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Project files</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Project files</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Notebook containing minutes and committee materials</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Ann Arbor Sesquicentennial Journal</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Drafts of articles</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Miscellanea</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>
+            <genreform normal="Photographs">Photographs</genreform>
+          </unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Ann Arbor Buildings</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Ann Arbor Sesquicentennial celebration activities</unittitle>
+            <physdesc>
+              <extent>4 envelopes</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Ann Arbor Street Art Fair, <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Collected historical photos </unittitle>
+            <physdesc>
+              <physfacet>copy prints</physfacet>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>Ann Arbor</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>University of Michigan</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">3</container>
+              <unittitle>Portraits</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Dixboro, Michigan</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>University of Michigan views and buildings</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbook</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">1</container>
+            <unittitle>
+              <genreform normal="Scrapbooks">Scrapbook</genreform>, <unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate></unittitle>
+          </did>
+          <note>
+            <p>(includes copied clippings from 1924 celebration)</p>
+          </note>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

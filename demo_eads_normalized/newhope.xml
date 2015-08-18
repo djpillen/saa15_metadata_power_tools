@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::newhope.xml//EN" encodinganalog="identifier">
+umich-bhl-921086
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+New Hope Baptist Church (Ann Arbor, Mich.) records, 1965-2004 
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Paula Jabloner </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+2004 </date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>October 2004</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20041001 </date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+New Hope Baptist Church (Ann Arbor, Mich.) <lb/>Records, 1965-2004</titleproper>
+
+<author>Finding aid created by<lb/> 
+Paula Jabloner, 1992</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+New Hope Baptist Church (Ann Arbor, Mich.)
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+New Hope Baptist Church (Ann Arbor, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1965-2004
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.3 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+921086 Ba 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Ann Arbor, Michigan, African American church. Files relating to church administration and activities; financial record books and reports; minutes of church officers; church anniversary booklets and other publications; and other subject files.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were donated in February 1992 (Donor no. <num type="donor" encodinganalog="541$e">8011</num>).  Additions were received in 2004.  
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+New Hope Baptist Church (Ann Arbor, Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The organizational meeting for the New Hope Baptist Church, which serves the African American community, was held in the living room of an Ann Arbor resident on December 12, 1965.  The Church was organized by the Reverend Albert Lightfoot, Jr. an assistant minister of the Second Baptist Church of Ypsilanti, Michigan and thirteen others who gathered together to fulfill their spiritual needs.  The Reverend Lightfoot, who was born in Birmingham, Alabama and later moved to Michigan with his wife and seven children,  became the first pastor of New Hope and continues to serve the church.  The name of the church was chosen by Reverend Lightfoot to signify a new beginning for the group, and new hope for those searching for spiritual meaning in their lives.  The church incorporated on October 3, 1966, and through the years has been affiliated with both the Southern Baptist Convention and the National Baptist Convention.</p>
+<p>For its first seven years the church used the Ann Arbor YM-YWCA for worship and sunday school.  In 1972, a building was purchased at 218 Chapin Street in Ann Arbor.  Architect David Byrd, a graduate of the University of Michigan College of Architecture and a deacon of the church, was responsible for drawing up the plans to renovate and enlarge the building, which was dedicated on July 21, 1974.  As Byrd wrote at the time of the dedication of the church:</p>
+<p>In this design we find an expression of many things which remind us of Thy Son who on earth took clay, as our bricks are made of and did make the blind to see.  The wood is natural as the wood that stood on Calvary.  We inscribed the building with the words, "Remember ME".  These words were the last lines of communication between Jesus and a mortal man, a sinner. (See Building Dedication folder, Building Dedication program, for additional thoughts from Byrd on his design of the building.)</p>
+<p>Members helped with much of the church renovation work.  Membership in the church grew from 250 in 1975 to 653 a decade later, largely because of word of mouth and recruitment efforts undertaken by church members.  The building was again enlarged in 1985 with the addition of a social hall, new offices, and several classrooms.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520"><p>The records of the New Hope Baptist Church are arranged alphabetically by topic.  Although limited in quantity, they are a source of much information on the life of the church.</p>
+<p>The Church Anniversary Booklets and Pastoral Anniversaries publications contain histories and information on church activities, especially those of the many church auxiliaries.  The incomplete run of the church newsletter,  <title render="italic">Whispering Pines</title>, is a source of information on church events and social gatherings, denominational news, and sometimes includes messages from the pastor and biographical sketches of individual members.  The Building Dedication folder contains two programs from the 1974 dedication.  The Correspondence file primarily consists of routine outgoing letters of greeting, letters of recommendation and invitations from Lightfoot.  The Minutes files are from meetings of church officers and the male choir, and include minutes from the organizational meeting of the church on December 12, 1965.  The minutes are useful for tracing the early efforts of members to raise funds for a permanent home for the church and to increase membership.  Although incomplete, information from the Financial Reports files can be used to study changes over time in income and expenses of the church.  The Membership Information file consists of orientation materials given to new members of the church.  The materials are useful for understanding the theological and organizational underpinnings of New Hope.  The Officers Profiles folder provides interesting demographic information on the educational and employment background of church leaders.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<subject source="lcsh" encodinganalog="650">African American churches--Michigan--Ann Arbor.</subject>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Church history.</geogname>
+<subject source="lcsh" encodinganalog="650">African Americans--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Baptists, Black--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">New Hope Baptist Church (Ann Arbor, Mich.).</corpname></controlaccess></controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Topical Files</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual reports, <unitdate type="inclusive" normal="1995">1995</unitdate> and <unitdate type="inclusive" normal="2000/2003">2000-2003</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Auxiliary Training Session, <unitdate type="inclusive">January 3, 1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Brotherhood: Reorganization and Structure for More Effective Service to the Community and to Our Membership, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Building Dedication, <unitdate type="inclusive">July 21, 1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Church Anniversary Booklets, <unitdate type="inclusive" normal="1977">1977</unitdate>, <unitdate type="inclusive" normal="1979">1979</unitdate>, <unitdate type="inclusive" normal="1980">1980</unitdate>, <unitdate type="inclusive" normal="1985">1985</unitdate>, <unitdate type="inclusive" normal="1987">1987</unitdate>, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Church Anniversary Booklets, <unitdate type="inclusive" normal="1998/2003">1998-2003</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Church Directory, <unitdate type="inclusive" normal="1980">1980</unitdate>, <unitdate type="inclusive" normal="1983">1983</unitdate>, <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1985/1988">1985-1988</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Effective Church Leadership Program, <unitdate type="inclusive">August 1987</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Financial Record Books</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1968">1968</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1972">1972</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1973">1973</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1976">1976</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1982?</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Record Book-various (mortgage burning, Women's Day, Men's Day, 1982)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Financial Record Book-Auxiliaries, <unitdate type="inclusive" normal="1970/1975">1970-1975</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Financial Reports</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Annual, <unitdate type="inclusive" normal="1977/1999">1977-1999</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Quarterly and Bi-annual, <unitdate type="inclusive" normal="1977">1977</unitdate>, <unitdate type="inclusive" normal="1985/1995">1985-1995</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Weekly, <unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate>  <unitdate type="inclusive" normal="1986/1988">1986-1988</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Junior Nurses: Purpose and Program (re: rendering assistance to congregants during worship service), <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership Information, <unitdate type="inclusive">undated</unitdate> and <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership directory, <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Minutes</unittitle></did>
+<c03 level="file"><did><unittitle>Church Officers</unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1965/1976">1965-1976</unitdate></unittitle></did></c04>
+<c04 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate></unittitle></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Male Choir, <unitdate type="inclusive" normal="1983/1987">1983-1987</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletter, Whispering Hope, <unitdate type="inclusive" normal="1977">1977</unitdate>, <unitdate type="inclusive" normal="1981">1981</unitdate>, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Officers Profiles, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pastoral Anniversaries, <unitdate type="inclusive" normal="1966">1966</unitdate>, <unitdate type="inclusive" normal="1983/1985">1983-1985</unitdate>  <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Pastoral Anniversaries, <unitdate type="inclusive" normal="1995/2004">1995-2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Scholarship Fund Committee, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Youth Church Christian Board, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02></c01>
+
+
+
+</dsc></archdesc>
+
+</ead>

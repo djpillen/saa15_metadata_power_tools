@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::ruthvenp.xml//EN" encodinganalog="Identifier">
+umich-bhl-745</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Alexander G. Ruthven speeches, articles, pamphlets, reprints, 1929-1944
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-11-18</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Alexander G. Ruthven speeches, articles, pamphlets, reprints, 1929-1944</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Ruthven, Alexander Grant, 1882-
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Alexander G. Ruthven speeches, articles, pamphlets, reprints
+<unitdate type="inclusive" encodinganalog="245$f">
+1929-1944
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+46 items in 1 box
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+[745] DA 2; R976; S742
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+President of the University of Michigan, commencement speeches, addresses, articles and miscellaneous publications on academic and administrative issue at the University of Michigan and higher education generally.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was assembled from a variety of sources.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records expected.
+</p></accruals>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright status of individual items is unclear
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Alexander G. Ruthven speeches, articles, pamphlets, reprints, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545"><p>Alexander G. Ruthven was born April 1, 1882 in Hull, Iowa.  He received his BS degree in 1903 from Morningside College and his Ph.D. in Zoology from the University of Michigan.  As a zoologist, Ruthven's major interest was in reptiles and amphibians - snakes, lizards turtles, frogs, etc. He wrote extensively in his disciple and also directed various scientific expeditions in North, South and Central America.  Also, before assuming the presidency, Ruthven was chief field naturalist with the Michigan Geological and Biological Survey (1908-1912).</p>
+<p>Ruthven's entire career was spent at the University of Michigan where he was successively instructor of zoology and curator of the Museum of Zoology (1906-1911); assistant professor and curator of the Museum of Zoology (1911-1913); assistant professor and director of the Museum of Zoology (1913-1915); profess and director of the Museum of Zoology (1915-1929); director of University Museums (1922-1936); chairman of the department of zoology and director of the Zoological Laboratories (1927-1929); and dean of administration (1928-1929).  Upon President Little's resignation, Ruthven was named to a committee of three to administer the affairs of the University.  With administrative skills demonstrated in this position, Ruthven in October 1929 was selected by the regents as president of the University of Michigan.  He served in this position until 1951 when Harlan Hatcher assumed office.</p>
+<p>Upon assuming office as president, Ruthven worked to reform the administrative structure of the university.  He believed that the university must distribute authority and responsibility among the many units and officers which make up the total structure.  Early on he selected two vice-presidents, one in charge of business affairs and the other in charge of educational investigations.  He also appointed a director of plant extension, and some time later, a vice-president in charge of university relations outside the campus.  In 1944, the university's administrative structure included a provost, two vice-presidents, and a secretary.  Deans and directors of schools, colleges, and other educational units were given authority commensurate with their responsibilities.  Usually, advisory or executive committees were set up to aid unit heads with their duties.</p>
+<p>During Ruthven's tenure, the School of Music was formally affiliated and integration with the university.  In 1941, the School of Public Health was established; and in 1951, the School of Social Work was established. Other important developments during his tenure were the creation of an Institute of Public Administration and the reorganization of the School of Forestry as the School of Natural Resources.</p>
+<p>Ruthven died January 19, 1971.</p></bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Ruthven speeches and publications collections consists of  commencement speeches, addresses, articles and miscellaneous publications on academic and administrative issue at the University of Michigan and higher education generally.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<subject encodinganalog="650" source="lcsh">Baccalaureate addresses.</subject><persname encodinganalog="600" source="lcnaf">Ruthven, Alexander Grant, 1882-</persname><corpname encodinganalog="610" source="lcnaf">University of Michigan--Presidents--Biography.</corpname><corpname encodinganalog="610" source="lcnaf">University of Michigan--History.</corpname>
+
+
+</controlaccess>
+
+
+
+
+
+
+
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle><bibref>Speeches, articles, pamphlets, reprints</bibref></unittitle></did>
+<c02 level="item"><did><container type="box" label="Box">1</container><unittitle><bibref>"Some Problems of the University". <title render="italic">University of Michigan Official Publications</title>,<imprint>Vol. XXXI, no. 27.  <date>November 16, 1929</date></imprint>.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Predicts Decline in Athletic Interest." <title render="italic">Michigan Alumnus</title>,  <imprint><date>November 29, 1930</date></imprint>.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"The Good Alumnus". Baccalaureate Address, <imprint><date>1930</date></imprint>.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Pride and Prejudice". An address given at the Second Baptist Church, Ann Arbor,  October 18, 1931.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"A Brief for the Large University".<title render="italic">University of Michigan Official Publications</title>, Vol .XXXII, no. 37.  January 10, 1931.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"University President on College Temptations". <title render="italic">Michigan Christian-Advocate</title>,  October 29, 1931.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Administration at Michigan"</bibref>, <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Evils of our Colleges"</bibref>, <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"The Michigan Plan"</bibref>, <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Our System of Higher Education"</bibref>, <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Ethical and Religious Values in Education". <title render="italic">Religious Education</title>,  April, 1932.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"The Super-University"/"The University Housing Program". <title render="italic">University of Michigan Official Publications</title>, Vol. XXXIII, no. 37.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Parental Training". 1932.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Problems and Progress at the University of Michigan" <title render="italic">University of Michigan Official Publications</title>, Vol. XXXIV, no. 47.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Religious Instruction at the University of Michigan"</bibref>, <unitdate type="inclusive">November 16, 1933</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Preparation of the Budget"</bibref>, <unitdate type="inclusive" normal="1934">1934</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Discipline as a Factor in Social Integration". <title render="italic">University of Michigan Official Publications</title>, <imprint>Vol. XXXVI, no. 15.  <date>August 22, 1934</date></imprint>.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Modern Trends in Professional Education". <imprint><date type="publication">1934</date></imprint></bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Problems and Progress at the University of Michigan". <title render="italic">University of Michigan Official Publications</title>, <imprint>Vol. 35, no. 16, <date>Jan 1934</date></imprint>.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Experiencing Education". <imprint>Official publication, Bureau of Alumni Relations, University of Michigan,  <date>January 27, 1934</date></imprint>.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Some Thoughts on Retiring Ages"</bibref>, <unitdate type="inclusive" normal="1934">1934</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Code for Professors" 1935.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"An Eternal Triangle". Baccalaureate address</bibref>, <unitdate type="inclusive">June 1935</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>Commencement address</bibref>, <unitdate type="inclusive">June 1936</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Academic Freedom"</bibref>, <unitdate type="inclusive" normal="1937">1937</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Cultivation or Confusion", Commencement address.</bibref>, <unitdate type="inclusive" normal="1937">1937</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Leadership or Regimentation in Higher Education"</bibref>, <unitdate type="inclusive" normal="1937">1937</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Uses of Publicity as seen by a University President",</bibref> <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Some Remarks on the Organization of Research in the Universities",</bibref> <unitdate type="inclusive" normal="1938">1938</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Education and Service". Commencement address</bibref>, <unitdate type="inclusive">June 18, 1938</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Common Sense of Religion"</bibref>, <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>Excerpts from the president's report</bibref>, <unitdate type="inclusive" normal="1939/1940">1939-1940</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"A Decade of University History". <title render="italic">University of Michigan Official Publications</title>, <imprint>Vol. 41, no.68.  <date>February 21, 1940</date>.</imprint></bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Never to Grow Old". Commencement address.</bibref>, <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Balancing the Curricula".<title render="italic">The Classical Journal</title>, <imprint>Vol. XXXV, no. 7.  <date>April 1940</date></imprint>.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"The University of Michigan and National Defense". <title render="italic">Michigan Alumnus Quarterly Review</title>,  <imprint><date>April 26, 1941</date></imprint>.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Our Moral Heritage". 1941.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Universities in Wartime".<title render="italic">The Nation's Schools</title>, <imprint>Vol. 31, no. 1.  <date>January 1943</date></imprint>.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"A Liberal Arts College in the Modern World"</bibref>, <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"A Wartime Address to the Alumni". <imprint>Vol. 43, no. 133</imprint>.</bibref></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"The Armor of Honest Thought" Commencement address</bibref>, <unitdate type="inclusive">1942 </unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Creative Imagination in Wartime". 1943. Commencement address, University of New Mexico</bibref>, <unitdate type="inclusive">February 25, 1944</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"The Need for Higher Education to Study its Program"</bibref>, <unitdate type="inclusive" normal="1945">1945</unitdate></unittitle></did></c02>
+<c02 level="item"><did><unittitle><bibref>"Now that commencement is here".</bibref></unittitle></did></c02>
+<c02 level="file"><did><unittitle><bibref>Unlisted clippings </bibref></unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

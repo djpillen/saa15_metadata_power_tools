@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::selmonbe.xml//EN" encodinganalog="Identifier">
+umich-bhl-8628</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Bertha Eugenia Loveland Selmon papers, 1932-1949
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-04</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Bertha Eugenia Loveland Selmon papers, 1932-1949</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Selmon, Bertha Eugenia Loveland, 1877-1949.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Bertha Eugenia Loveland Selmon papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1932-1949
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2.3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+8628 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Battle Creek, Michigan, physician; correspondence and research materials relating to her history of Michigan women physicians.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Dr. Selmon (donor no. <num type="donor" encodinganalog="541$e">1199</num>); additional materials came from Mrs. Albert Hazzard (donor no. <num type="donor" encodinganalog="541$e">1837</num>) and from Mrs. William A. Cox (donor no. <num type="donor" encodinganalog="541$e">2614</num>).</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Bertha Eugenia Loveland Selmon papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Dr. Bertha Loveland Selmon was born in Columbus Grove, Putnam County, Ohio, Dec. 15, 1877, the daughter of Nicholas Eugene and Annie Parker Loveland. She graduated from Dr. John Harvey Kellogg's Sanitarium and Battle Creek College in 1898. She continued her study at the American Medical Missionary College in Chicago, graduating with a degree in medicine in 1902.  On July 6, 1903 she was married to Dr. Arthur Selmon and the couple immediately moved to China where they worked as medical missionaries, first in Honan Province, then in Shanghai. They returned to the United States in 1924 where she became a private physician as well as practicing industrial medicine with the W.K. Kellogg Corn Flake Co. In Battle Creek she was one of the founders of the Maternal Health Center and served as its clinician from 1932 until 1943.  Apart from medical practice Selmon had two principal interest -- the furtherance of birth control or controlled parenthood and the study of the lives and careers of women physicians. As history editor of the <title render="italic">Medical Women's Journal</title>, Selmon collected pictures and compiled life stories of women doctors. She died January 25, 1949.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Selmon collection includes biographical material and correspondence dating from 1932 to her death in January 1949. Most of the correspondence is with medical colleagues and concerns professional subjects, including the Medical Women's National Association, early women physicians in Michigan, and birth control. Among her correspondents is Dr. Augusta Thompson. The bulk of the collection concerns Selmon's research and writings on Michigan women physicians. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Baker, Minnie Dell Sprague, 1858-1934.</persname>
+<geogname source="lcsh" encodinganalog="651">Battle Creek (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Birth control.</subject>
+<persname source="lcnaf" encodinganalog="600">Cook, Dana G., 1855-1932.</persname>
+<persname source="lcnaf" encodinganalog="600">Cooper, Margaret Cochrane, 1835-1907.</persname>
+<corpname source="lcnaf" encodinganalog="610">Detroit Medical College.</corpname>
+<persname source="lcnaf" encodinganalog="600">Flatt, Anna Hall Stewart.</persname>
+<persname source="lcnaf" encodinganalog="600">Haines, Blanche Moore, 1865-1944.</persname>
+<persname source="lcnaf" encodinganalog="600">Heney, M. Alice, 1867-1941.</persname>
+<persname source="lcnaf" encodinganalog="600">Kellogg, Margaret M. McCauley, 1852-1938.</persname>
+<persname source="lcnaf" encodinganalog="600">Kirkland, Helen Maria Upjohn, 1839-1901.</persname>
+<persname source="lcnaf" encodinganalog="600">Kress, Lauretta E., 1863-</persname>
+<persname source="lcnaf" encodinganalog="600">Lindsay, Catherine, 1842-1923.</persname>
+<corpname source="lcnaf" encodinganalog="610">Medical Women's National Association.</corpname>
+<subject source="lcsh" encodinganalog="650">Medicine--Michigan--Battle Creek.</subject>
+<persname source="lcnaf" encodinganalog="600">Norris, Maria, 1856-1938.</persname>
+<persname source="lcnaf" encodinganalog="600">Outwater, Eva J. Shedd, 1856-1908.</persname>
+<subject source="lcsh" encodinganalog="650">Physicians--Michigan.</subject>
+<persname source="lcnaf" encodinganalog="600">Roth, Linda Gage, 1873-1944.</persname>
+<persname source="lcnaf" encodinganalog="600">Rutherford, Frances A., 1842-1922.</persname>
+<persname source="lcnaf" encodinganalog="600">Schwendener, Hattie A., 1858-1942.</persname>
+<persname source="lcnaf" encodinganalog="600">Stegman, Louie Vandervoort, 1868-1930.</persname>
+<persname source="lcnaf" encodinganalog="600">Strong, Martha Cochrane, 1843-1926.</persname>
+<persname source="lcnaf" encodinganalog="600">Upjohn, Millie Kirby, 1852-1920.</persname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Women physicians--Michigan.</subject>
+<persname source="lcnaf" encodinganalog="600">Selmon, Bertha Eugenia Loveland, 1877-1949.</persname>
+<subject source="lcsh" encodinganalog="650">Physicians--Michigan.</subject>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<corpname source="lcnaf" encodinganalog="610">Detroit Medical College.</corpname>
+<subject source="lctgm" encodinganalog="650">Physicians--Michigan.</subject>
+<subject source="lctgm" encodinganalog="650">Women.</subject>
+<subject source="lcsh" encodinganalog="650">Women physicians--Michigan.</subject>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Thompson, Augusta Louise Rosenthal, b. 1859.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Biographical / Miscellaneous</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings of obituaries and other biographical information</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Record book of news clippings and notes concerning public health</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Correspondence</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">1932-January 1949</unitdate> and <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>35 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Writings by Bertha Loveland Selmon</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>"Pioneer Women in Medicine" (manuscript)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Women in Medicine, chapters 3-8</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Michigan Women in Medicine, chapters 9-15 (Chapter 15 by Pearl Bliss-Cox, Secretary to Dr. Selmon)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Writings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Personal writings and Poetry</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Michigan Women Physicians</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Card files of Women Physicians in Michigan</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>"Women Physicians of Michigan" (manuscript) by Frances A. Rutherford, M.D.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Biographical notes about Augusta Louise Rosenthal Thompson, M.D.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Biography of Sarah Gibson</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous notes on the history of Michigan Women in Medicine </unittitle> <physdesc><extent>30 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Miscellaneous notes </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle><genreform normal="Photographs">Photographs</genreform> and exhibit cards relating to Michigan women physicians</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

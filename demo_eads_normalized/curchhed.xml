@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::curchhed.xml//EN" encodinganalog="Identifier">
+umich-bhl-85119</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+H. Edmund Curch papers, 1884-1964
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Richard Doolen </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-10-29</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+H. Edmund Curch papers, 1884-1964</titleproper>
+
+<author>Finding aid created by<lb/> 
+Richard Doolen, 1979</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Curch, H. Edmund, 1873-1962.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+H. Edmund Curch papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1884-1964
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85119 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Disciples of Christ clergyman; ministerial papers.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was the gift of Mr. and Mrs. Carl McAlvey (donor no. <num type="donor" encodinganalog="541$e">6355</num>) and came to the library in 1979.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+H. Edmund Curch papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>H. Edmund Curch was a Disciples of Christ clergyman. He served in various Michigan communities, including Trowbridge and Belding.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The H. Edmund Curch collection includes correspondence and other materials concerning pastorates in Trowbridge and Belding, Michigan. There are also papers relating to organizational work for the denomination, including establishing new congregations and arrangements for holding conventions and conferences. Also retained were related state and national denominational printed material. Some of the papers are of his wife, Nettie Curch.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Belding (Mich.).</geogname>
+<subject source="lcsh" encodinganalog="650">Clergy--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Disciples of Christ--Michigan.</corpname>
+<geogname source="lcsh" encodinganalog="651">Trowbridge (Mich.).</geogname>
+</controlaccess>
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">Curch, Nettie.</persname></controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Ministerial papers, <unitdate type="inclusive" normal="1884/1964">1884-1964</unitdate></unittitle></did>
+<c02 level="file"><did><unittitle>Correspondence, reports and related items</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1884/1885">1884-1885</unitdate> and <unitdate type="inclusive" normal="1897/1905">1897-1905</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1906/1910">1906-1910</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1911/1919">1911-1919</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1920/1962">1920-1962</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Publications of individual Disciples Congregations</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous programs, announcements for conventions and other meetings of Disciples in Michigan, <unitdate type="inclusive" normal="1895/1964">1895-1964</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clippings re. Disciples of Christ in Michigan</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous items for Michigan Disciples, <unitdate type="inclusive">undated</unitdate></unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous publications from the national missions agencies of the Disciples of Christ</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Disciples of Christ denominational tracts and publications</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Church and Sunday School materials from non-Disciples of Christ groups and agencies</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Two monographs on the history of the Disciples of Christ in Canada</unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

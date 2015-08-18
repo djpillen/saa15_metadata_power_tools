@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::kolbc.xml//EN" encodinganalog="Identifier">
+umich-bhl-0733</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Chris Kolb papers, 1997-2006
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Thomas E. Powers </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>March 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2006-03-20</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Chris Kolb papers, 1997-2006</titleproper>
+
+<author>Finding aid created by<lb/> 
+Polly Reynolds, March 2007</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+
+<persname source="lcnaf" encodinganalog="100">
+Kolb, Chris.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Chris Kolb papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1997-2006
+</unitdate>
+
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0733 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Chris Kolb was a Democratic State Representative for the Michigan House of Representatives representing the 53rd district (Ann Arbor and Pittsfield Township) from January 2001 to January 2007. Kolb's papers include legislative files mainly relating to gay issues, including gay marriage and hate crime legislation.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The papers were donated by Chris Kolb (donor no. <num type="donor" encodinganalog="541$e">9839</num>) in January 2007.</p></acqinfo>
+
+
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Chris Kolb papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Chris Kolb was a Democratic State Representative for the 53rd district (Ann Arbor and Pittsfield Township) from January 2001 to January 2007. He was especially involved in legislative issues relating to gay rights, land use and the environment, and health insurance.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>Kolb's papers include legislative files mainly relating to gay issues, including gay marriage and hate crime legislation. The Kolb papers have been divided into two series: Career Files and Legislative Files. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Kolb, Chris.</persname>
+<subject source="lcsh" encodinganalog="650">Legislators--Michigan.</subject>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Legislature. House of Representatives.</corpname>
+<subject source="lcsh" encodinganalog="650">Gay rights--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Same-sex marriage--Law and legislation--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Hate crimes--Law and legislation--Michigan.</subject>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--2001-2010.</geogname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Career Files, <unitdate type="inclusive" normal="2002/2006">2002-2006</unitdate></unittitle></did><scopecontent><p>Kolb's Career Files (0.1 linear feet, 2002-2006) includes files on Kolb's political career including his political campaign advertisements. Also found in this series are files on Kolb's participation in the Henry Toll Fellowship program which includes some background information on Kolb's career.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor advertisements (political campaign), <unitdate type="inclusive" normal="2002/2006">2002-2006</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Henry Toll Fellowship, <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>St. Mary's Christian Fellowship Image Award, <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Legislative Files, <unitdate type="inclusive" normal="1997/2006">1997-2006</unitdate></unittitle></did><scopecontent><p>Kolb's Legislative Files (0.9 linear feet, 1997-2006) make up the bulk of the material in his papers. The files are mainly topical research files relating to different issues that Kolb was involved in while a member of the Michigan House of Representatives. </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Articles (Michigan related), <unitdate type="inclusive" normal="2001/2004">2001-2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Attorney General/Proposal 2, <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Call to order speeches, <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Conscientious Objection Package (House Bill 5006), <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="2001/2006">2001-2006</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Co-sponsorship-same season sports, <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Domestic partnership benefits, <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Domestic violence legislation-unemployment insurance (House Bill 5508)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Environmental issues, <unitdate type="inclusive" normal="2004/2006">2004-2006</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Gay marriage, <unitdate type="inclusive" normal="2003/2004">2003-2004</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>Hate crimes</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>General, <unitdate type="inclusive" normal="2001/2003">2001-2003</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>House bills (includes old Lynne Martinez files, HB 4674, <unitdate type="inclusive">1997/1998</unitdate>)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Pride rally, <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Health insurance, <unitdate type="inclusive" normal="2001">2001</unitdate>, <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Lesbian, Gay, Bisexual, Transgender issues (LGBT)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Kwame Kilpatrick, <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Non-discrimination, <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Second parent adoptions, <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ten Commandments (HB 4433), <unitdate type="inclusive" normal="2005">2005</unitdate> </unittitle></did></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

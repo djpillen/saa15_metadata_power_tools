@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core"><eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::uccwomen.xml//EN" encodinganalog="identifier">umich-bhl-03166</eadid>
+
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Finding Aid for United Church of Christ Women of Michigan Records <date>1915-2008</date></titleproper>
+<author encodinganalog="creator">Collection processed and finding aid prepared by Adriane Hanson</author></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher><date encodinganalog="date">2003</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by Adriane Hanson, <date>December 2003</date></creation>
+<langusage>The finding aid is written in  <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20141226</date><item>Changes made with the addition of new material.</item></change>
+
+<change><date>20130619</date><item>Changes made with the addition of new material.</item></change>
+<change><date>20091123</date><item>Changes made with the addition of new material.</item></change><change><date>20031010</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change>
+<change><date>20031204</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage><publisher>Michigan Historical Collections <lb/>Bentley Historical Library<lb/>University of Michigan</publisher><titleproper>Finding Aid for <lb/>United Church of Christ Women of Michigan <lb/>Records, <date type="inclusive">1915-2013</date></titleproper><author>Finding aid prepared by: <lb/>Adriane Hanson</author></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="recordgrp" relatedencoding="marc21"><did>
+<origination><corpname source="lcnaf" encodinganalog="110">United Church of Christ Women of Michigan</corpname></origination>
+<unittitle encodinganalog="245">United Church of Christ Women of Michigan Records
+<unitdate type="inclusive" encodinganalog="245$f" normal="1915/2013">1915-2013</unitdate>
+<unitdate type="bulk" encodinganalog="245$g" normal="1945/2013">1945-2013</unitdate></unittitle>
+<physdesc><extent encodinganalog="300">2.5 linear feet.</extent></physdesc>
+<abstract>Record books and other records, including minutes, correspondence, annual reports, directories, newsletters and other materials relating to their activities, as well as historical essays.</abstract>
+<unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">03166 Ba 2</unitid>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea> University of Michigan</corpname><extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>The records (donor no. <num type="donor" encodinganalog="541$e">9368</num>) were received August 19, 2003 from the United Church of Christ Women of Michigan. Periodic additions have been received.</p></acqinfo>
+<accessrestrict encodinganalog="506"><p>The record group is open for research.</p></accessrestrict>
+<userestrict encodinganalog="540"><p>Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+<prefercite encodinganalog="524"><p>item, folder title, box no., United Church of Christ Women of Michigan Records, Bentley Historical Library, University of Michigan</p></prefercite></descgrp>
+
+<bioghist encodinganalog="545"><p>The United Church of Christ Women (UCC Women) can trace its beginnings to the first meeting of the Michigan Branch of the Women's Board of Missions of the Interior in 1874.  It was the first state-wide organization for women active in the Congregational Church.  By 1915, there were two active groups:  the Michigan Branch of the Women's Board of Missions of the Interior and the Woman's Home Missionary Union.  In 1926, the two groups merged and became The Women's Missionary Society of the Michigan Congregational Conference.  In 1936, the group adopted a new constitution and became the Women's Department of Michigan Congregational Christian Conference.  The name was changed to the Women's Fellowship in 1943.  In 1964, the group merged with the Evangelical and Reformed Women's Guild (formed in 1940 with members from Michigan and Indiana).  Finally, in 1980, the group adopted the name UCC Women of Michigan.</p>
+<p>The UCC Women of Michigan coordinate the activities of the regional UCC Women groups and sets annual goals.  Within the group, they have the divisions of Social Concerns, Christian Education, Spiritual Life and Evangelism, and Material Aids and Missionary Education.  They also promote cooperation with other Christian groups.  In 1987, the UCC Women began a relationship with the Michigan Region of the Christian Church Disciples of Christ women.  The two groups attend each other's meetings and retreats, hold joint meetings, and have established "clusters" of regional groups for interaction and Bible study.</p>
+<p>The UCC Women have a dual purpose, to maintain a bond between the women in the group and help their individual spiritual development, and to reach out to the community and the world to promote Christianity and relieve suffering. For individual development, they study together and hold an annual, week-long retreat every summer for members.  Their outreach program consists of monetary donations and collecting items to send as relief within the United States and throughout the world.  They also provide scholarships to women, both clergy and lay, for education.  One of their projects has been to provide substantial support to the Madras Women's Christian College in India.</p>
+<p>Current  information is available at http://www.ucc.org/women/index.html  The site is part of the education page of the national United Church of Christ, and includes a digital archive of the quarterly newsletter "Common Lot," which the UCC Women help support.</p></bioghist>
+
+<scopecontent encodinganalog="520"><p>The UCC Women records are mainly composed of records from the organization's meetings and information for the annual retreats.  Records are from as early as 1915, and are available for most years from 1945-1962 and all years from 1962-2008.  The records are divided into three series.  Record books, Annual Records, and Other Records.</p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects:</head><subject source="lcsh" encodinganalog="650">Congregational churches--Michigan.</subject><corpname source="lcnaf" encodinganalog="610">Evangelical and Reformed Church--Michigan.</corpname><corpname source="lcnaf" encodinganalog="610">United Church of Christ--Michigan.</corpname><corpname source="lcnaf" encodinganalog="610">United Church of Christ Women of Michigan.</corpname><corpname source="lcnaf" encodinganalog="610">Woman's Home Missionary Union of Michigan.</corpname><subject source="lcsh" encodinganalog="650">Women--Michigan--Societies and clubs.</subject><subject source="lcsh" encodinganalog="650">Women--Religious life--Michigan.</subject></controlaccess></controlaccess>
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Record Books</unittitle></did><scopecontent><p>The Record Books series consists of six volumes of records.  Book I contains salvaged records of the earlier women's groups, mostly meeting minutes, ranging from 1915-1944.  Books II-V contain the reports of the annual meetings of the Women's Fellowship Michigan Congregational Christian Conference, as well as retreat information and correspondence pertaining to the group activities.  They cover most years from 1945-1974.  Book VI contains the records of the UCC Women of Michigan from 1974-1979.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1915/1945">1915-1945</unitdate> (Book I; scattered dates)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1945/1955">1945-1955</unitdate> (Book II)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1956/1960">1956-1960</unitdate> (Book III)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1961/1964">1961-1964</unitdate> (Book IV)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1964/1974">1964-1974</unitdate> (Book V)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1974/1979">1974-1979</unitdate> (Book VI)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Annual Records</unittitle></did><scopecontent><p>The second series, Annual Records, covers every year from 1962 to 2007 and contains the minutes and reports from the annual meetings, as well as minutes from board meetings throughout the year.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1962/1969">1962-1969</unitdate> </unittitle> <physdesc><extent>8 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><unitdate type="inclusive">1970-2012/13</unitdate> </unittitle> <physdesc><extent>43 folders</extent></physdesc></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other Records</unittitle></did><scopecontent><p>The Other Records series consists of newsletters, bylaws and organizational manuals, and membership directories, records of the UCC Women of Michigan Investment Committee; also included essays on the history of UCCW and UCC Women of Michigan.  </p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Newsletter: The Communicator, <unitdate type="inclusive" normal="2001/2008">2001-2008</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Bylaws and manual, <unitdate type="inclusive" normal="1975">1975</unitdate>, <unitdate type="inclusive" normal="1983">1983</unitdate>, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Directories, <unitdate type="inclusive">1963/64-2006/07</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>History of UCCW</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>UCC Women of Michigan Investment Committee File, <unitdate type="inclusive" normal="1975/1987">1975-1987</unitdate> (scattered years)</unittitle></did></c02></c01>
+
+  
+</dsc></archdesc></ead>

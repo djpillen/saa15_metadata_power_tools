@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::gargoyle.xml//EN" encodinganalog="Identifier">
+umich-bhl-0737</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Gargoyle records, 1910-2012
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Polly Reynolds, March 2007 </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2012">
+2013</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>20123</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2013-02-06</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Gargoyle records, 1910-2012</titleproper>
+
+<author>Finding aid created by<lb/> 
+Polly Reynolds, March 2007</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Gargoyle (Organization)
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Gargoyle records
+<unitdate type="inclusive" encodinganalog="245$f">
+1910-2012
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1993-1999
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+3 linear feet and 1 outsize box
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+0737 Bimu 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+The Gargoyle, a University of Michigan humor magazine, was first published in 1909. The collection includes correspondence, ephemera, photographs, reminiscences from <title render="italic">Gargoyle</title> staff members, and some original artwork.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Materials received from multiple donors, including John Dobbertin, Jr. (donor no. <num type="donor" encodinganalog="541$e">332</num>), 
+Doris A. Smith (donor no. <num type="donor" encodinganalog="541$e">8686</num>), 
+Norman Williamson (donor no. <num type="donor" encodinganalog="541$e">84482</num>), 
+Beverly Burlingame (donor no.<num type="donor" encodinganalog="541$e">9735</num>), 
+Student Publications Office (donor no. <num type="donor" encodinganalog="541$e">332</num>), and the Board for Student Publications (donor no. <num type="donor" encodinganalog="541$e">1509</num>). 
+<num type="donor" encodinganalog="541$e">332</num>
+
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research without restriction.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Gargoyle records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The<title render="italic">Gargoyle</title> , a University of Michigan humor magazine regulated by the Board for Student Publications, was first published in 1909. <title render="italic">Gargoyle</title> began as a part humor and part fine arts publication. <title render="italic">Gargoyle</title> is still published at the University of Michigan. For a more in-depth discussion of the history of <title render="italic">Gargoyle</title> including reminiscences and first-hand accounts from former <title render="italic">Gargoyle</title> staff members, researchers should consult the book <title render="italic">Gargoyle The University of Michigan Humor Magazine Laughs at the 20th Century</title>, compiled and edited by John Dobbertin, Jr. in 1999.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520">
+<p>The collection includes various materials and papers from former staff members, primarily from John Dobbertin, Jr., <title render="italic">Gargoyle</title> editor from 1962-1964. Dobbertin organized many reunions and served as a clearing house for Gargoyle ephemera. Materials include correspondence, ephemera, photographs, reminiscences from <title render="italic">Gargoyle</title> staff members, printed material, and original artwork. </p>
+
+<p>The collection has been divided into two series: Manuscript Materials and Printed Materials. </p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Periodicals.</corpname>
+<subject source="lcsh" encodinganalog="650">College wit and humor.</subject>
+<corpname encodinganalog="610" source="lcnaf">University of Michigan--Alumni and alumnae.</corpname><corpname encodinganalog="610" source="lcnaf">University of Michigan--Students--Social Life.</corpname>
+
+
+</controlaccess>
+
+
+
+
+
+
+<controlaccess><head>Contributors: </head>
+
+<corpname encodinganalog="710" source="lcnaf">Dobbertin, John.</corpname><corpname encodinganalog="710" source="lcnaf">Hodge, Max.</corpname><corpname encodinganalog="710" source="lcnaf">Schulz, Charles M.</corpname><corpname encodinganalog="710" source="lcnaf">Smith, Doris Ann.</corpname><corpname encodinganalog="710" source="lcnaf">Zatret, Phil.</corpname>
+
+</controlaccess><controlaccess><head>Genre/Form: </head><genreform source="gmgpc" encodinganalog="655">Magazine covers.</genreform><genreform source="gmgpc" encodinganalog="655">Periodical Illustrations.</genreform><genreform source="gmgpc" encodinganalog="655">Posters.</genreform><genreform source="gmgpc" encodinganalog="655">Cartoons (humorous images)</genreform></controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Manuscript Materials, <unitdate type="inclusive" normal="1937/2012">1937-2012</unitdate></unittitle></did>
+<scopecontent><p>The Manuscript Materials (0.8 linear feet, 1937-2012) include correspondence, ephemera, photographs, reminiscences from Gargoyle staff members, and original artwork. Researchers will find original Gargoyle artwork (cover art and other illustrations) by former art editors, Doris A. Smith, Max Hodge, Phil Zaret, and others as well as an original cartoon by "Peanuts" cartoonist Charles Schulz created for an issue of the <title render="italic">Gargoyle</title> marking its revival in 1962. Photographs include the Gargoyle 1993 reunion and miscellaneous photographs of Gargoyle staff in the 1930s and 1940s. The correspondence contains letters mainly addressed to John Dobbertin, Jr. from former Gargoyle staff, including former editor George Quick. The correspondence also contains letters from Arthur Miller and Charles Schulz. The reminiscences consist of various recollections of former staff members on life at Gargoyle during their time at the University of Michigan compiled by Dobbertin to be used in the Gargoyle book. The collection also includes two printing plates, both Max Hodge designs, one for the January 1938 cover and the other for a "Michigarg" board game (color prints of the board game can be found in the oversize folder).</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Printing Plates, <unitdate type="inclusive" normal="1937/1938">1937-1938</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Promotional posters</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Artwork, <unitdate type="inclusive" normal="1936/1969">1936-1969</unitdate>, <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1962">1962</unitdate> Revival Issue cover signed by attendees at 100th reunion, <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Artwork, <unitdate type="inclusive" normal="1936/1969">1936-1969</unitdate>, <unitdate type="inclusive" normal="1993/2003">1993-2003</unitdate>, <unitdate type="inclusive" normal="2009">2009</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Clippings</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1962">1962</unitdate>, <unitdate type="inclusive" normal="1993/2001">1993-2001</unitdate>, <unitdate type="inclusive" normal="2009/2012">2009-2012</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did> <note><p/></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Ephemera, <unitdate type="inclusive" normal="1939/1993">1939-1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Layouts, <unitdate type="inclusive">[1966 ?]</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>"Order of the Gargoyle," <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Photographs, <unitdate type="inclusive" normal="1937/1993">1937-1993</unitdate>, <unitdate type="inclusive" normal="1999">1999</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Reminiscences, <unitdate type="inclusive" normal="1993/1999">1993-1999</unitdate> </unittitle> <physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Reunion, <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Staff members</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Paul Showers, <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Doris A. Smith, <unitdate type="inclusive" normal="1960/1997" certainty="approximate">1960s-1997</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Norm Williamson, <unitdate type="inclusive" normal="2001/2002">2001-2002</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Printed Materials, <unitdate type="inclusive" normal="1910/2006">1910-2006</unitdate></unittitle></did>
+<scopecontent><p>The Printed Materials (2.2 linear feet, 1910-2006) include various published items including a copy of <title render="italic">Gargoyle The University of Michigan Humor Magazine Laughs at the 20th Century,</title> the <title render="italic">Gargalum</title> newsletter, and duplicate issues of the<title render="italic">Gargoyle</title>. For a more complete set of the<title render="italic">Gargoyle</title>, researchers should consult the separately cataloged issues in MIRLYN.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic">Gargalum</title> (newsletter), <unitdate type="inclusive" normal="1994/2007">1994-2007</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle><title render="italic">Gargoyle The University of Michigan Humor Magazine Laughs at the 20th Century</title>, <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle><title render="italic">Gargoyle</title>  (duplicate issues)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">2</container><unittitle>Bound copy of <unitdate type="inclusive" normal="1930/1931">1930-1931</unitdate> issues </unittitle></did> <note><p>(Paul Showers copy)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive" normal="1910/1947">1910-1947</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">4</container><unittitle><unitdate type="inclusive" normal="1948/2006">1948-2006</unitdate></unittitle></did></c03></c02></c01>
+
+
+</dsc>
+
+
+<descgrp><relatedmaterial><head>Relatd Material</head>
+<p>Additional <title render="italic">Gargoyle</title> materials can be found in other collections at the Bentley, including the Board for Student Publications records and the Paul Showers papers. The Board for Student Publications includes some <title render="italic">Gargoyle</title> financial and administrative material (1937-1951). The Paul Showers papers contain writings and correspondence when Showers was on the <title render="italic">Gargoyle</title> staff in the 1930s. The Bentley also owns issues of the <title render="italic">Baby Gargoyle</title>, a separate annual "pocket-sized" publication produced by<title render="italic">Gargoyle</title>.</p>
+</relatedmaterial></descgrp>
+
+
+</archdesc>
+
+</ead>

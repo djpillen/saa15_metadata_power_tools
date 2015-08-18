@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::standsag.xml//EN" encodinganalog="Identifier">
+umich-bhl-86936</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+St. Andrew’s Church (Saginaw, Mich.) records, 1862-1956
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-09-23</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+St. Andrew’s Church (Saginaw, Mich.) records, 1862-1956</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+St. Andrew’s Church (Saginaw, Mich.).
+</corpname>
+
+</origination>
+
+<unittitle encodinganalog="245">
+St. Andrew’s Church (Saginaw, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1862-1956
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2 microfilm reels
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+86936 mf 537c, mf 538c
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Baptismal, marriage, death, and communion and confirmation records.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were made available for microfilming by the church (donor no. <num type="donor" encodinganalog="541$e">7215</num>).  
+</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is closed except with the permission of the donor. </p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+St. Andrew’s Church (Saginaw, Mich.) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>St. Andrew's Church was founded in 1852.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The record group consists of microfilm of church registers containing records of baptisms, communion and confirmations, marriages and burials. The records are closed to research except with the permission of the church.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<geogname source="lcsh" encodinganalog="651">Saginaw (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Catholic Church--Michigan--Saginaw.</corpname>
+<corpname source="lcnaf" encodinganalog="610">St. Andrew's Church (Saginaw, Mich.)</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+
+ 
+
+<c01 level="series"><did><unittitle>Church registers</unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle>Index to Baptismal Records</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Baptismal Records <unitdate type="inclusive" normal="1862/1935">1862-1935</unitdate></unittitle></did>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">September 7, 1862-May 13, 1894</unitdate> </unittitle></did> <note><p>(also includes records of first communion and confirmation, 1874-1878 pp.718-711)</p></note></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle> May 27, 1894-April 26, <unitdate type="inclusive">1908  May 21</unitdate>-August 21, <unitdate type="inclusive" normal="1921">1921</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">May 10, 1908-June 30, 1935</unitdate> </unittitle></did> <note><p>(does not include May 21-August 21, 1921)</p></note></c03></c02>
+<c02 level="file"><did><unittitle>Registrum Matrimonii, <unitdate type="inclusive" normal="1862/1949">1862-1949</unitdate></unittitle></did>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">November 21, 1862-December 24, 1901</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">January 15, 1902-February 26, 1908</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive">June 23, 1908-January 22, 1949</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Registrum Defunctor, <unitdate type="inclusive" normal="1862/1956">1862-1956</unitdate></unittitle></did>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive">November 25, 1862-January 17, 1902</unitdate> </unittitle></did> <note><p>(also includes record of first communion and confirmation, 1880 and April 24, 1887-June 21, 1901)</p></note></c03>
+<c03 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive">June 12, 1902-November 12, 1956</unitdate></unittitle></did></c03></c02></c01>
+</dsc></archdesc>
+
+</ead>

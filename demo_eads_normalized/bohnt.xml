@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::bohnt.xml//EN" encodinganalog="Identifier">
+umich-bhl-2014042</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Theodore R. Bohn papers
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Molly Malcolm </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2014">
+2014</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2014</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2014-04-08</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Theodore R. Bohn Papers, 1942-1983</titleproper>
+
+<author>Finding aid created by<lb/> 
+Molly Malcolm, March 2014</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Bohn, Theodore R.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Theodore R. Bohn Papers
+<unitdate type="inclusive" encodinganalog="245$f">
+1942-1983
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1950s-1960s
+</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2014042 Aa 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Papers of Honorable Theodore R. Bohn, a Michigan Democratic politician and judge for the 3rd Circuit Court of Wayne County, including civil rights legislation and legal materials regarding immigration reform and labor union organizing from the 1950s-1960s.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Materials acquired from Julia B. Dean (Donor no. <num type="donor" encodinganalog="541$e">11016</num>) in October 2013.</p></acqinfo>
+ 
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Theodore R. Bohn papers, Bentley Historical Library, University of Michigan</p></prefercite>
+
+
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Judge Theodore R. Bohn was born on a farm near Bay City, Michigan. He attended Bay City Junior College and then went on to attain a degree from the University of Minnesota. He moved to Detroit in 1932, and soon began taking night courses at the Detroit College of Law. He started practicing law in Detroit in 1936, and continued to do so for eight years. In 1942, he took a job with the federal Department of Justice, a position he held for five years. </p>
+
+<p>Bohn then returned to private practice in Detroit, and was a partner in a firm specializing in labor law, Rothe, Marston, Edwards &amp; Bohn. Bohn was elected as the Wayne County Democratic Chairman and served for four years. He was also the president of the Michigan Association for Justice in Lansing from 1949-53. Judge Bohn was also an honorary member of the University of Michigan Lawyer's Club beginning in 1955. </p>
+
+<p>Theodore Bohn was appointed to the bench of the Michigan Circuit Court by Governor G. Mennen "Soapy" Williams in 1955, and continued to serve as a judge in the 3rd Judicial Circuit of Wayne County until his retirement in December 1982. Throughout his career, Bohn contributed greatly to Williams' political campaigns, both as Michigan Governor and State Supreme Court Justice. Bohn supported Williams financially, socially and politically, often campaigning on his behalf. The two remained close colleagues throughout Bohn's 27 years as a member of the 3rd Circuit Court of Wayne County.</p>
+
+</bioghist>
+ 
+<scopecontent encodinganalog="520">
+<p>The Theodore R. Bohn papers is comprised of fourteen folders. The first nine folders contain a variety of materials and formats. The final five folders all contain photographs. This collection contains political correspondence, campaign election materials, photographs, ballots and ephemera from the career of Judge Theodore R. Bohn. Re-election materials and correspondence from Bohn's colleagues are also included, especially material from G. Mennen Williams' various campaigns. </p>
+
+<p>A small run of the Bulletin of the Michigan Committee on Civil Rights is also included, both the state chapter and the Detroit chapter, between the years 1950-1952. In addition, the collection contains pamphlets, speeches and mailings on the subjects of labor organizing, civil rights struggles and resulting anti-discrimination legislation, and immigration policy reform. Also included are newspaper clippings pertaining to the arrests and trials of union leader Jimmy Hoffa in 1967 and 1971.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Bohn, Theodore R.</persname>
+<subject source="lcsh" encodinganalog="650">Civil rights--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Elections--Michigan--Detroit.</subject>
+<persname source="lcnaf" encodinganalog="600">Hoffa, James R. (James Riddle), 1913-</persname>
+<subject source="lcsh" encodinganalog="650">Judges--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Labor unions--Michigan--Detroit.</subject>
+<corpname source="lcnaf" encodinganalog="610">Michigan. Circuit Court (Wayne County)</corpname>
+<subject source="lcsh" encodinganalog="650">Political campaigns--Michigan--Detroit.</subject>
+<persname source="lcnaf" encodinganalog="600">Williams, G. Mennen, 1911-1988.</persname>
+
+</controlaccess>
+ 
+
+ 
+ 
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Ballots.</genreform>
+<genreform source="aat" encodinganalog="655">Clippings.</genreform>
+<genreform source="aat" encodinganalog="655">Correspondence.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+ 
+
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Theodore R. Bohn papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1952/1983">1952-1983</unitdate> (scattered dates)</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Election Campaigns</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Bohn, <unitdate type="inclusive" normal="1955/1977">1955-1977</unitdate> (scattered dates)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>G. Mennen Williams, <unitdate type="inclusive" normal="1952/1982">1952-1982</unitdate> (scattered dates)</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Other Colleagues</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Labor Unions, Civil Rights and Immigration Policy Reform</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Michigan Committee on Civil Rights (MCCR)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Bulletin, Convention Notes and Keynote Speech, <unitdate type="inclusive" normal="1950">1950</unitdate> &amp; <unitdate type="inclusive" normal="1952">1952</unitdate>.</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Detroit Chapter -- Constitution and Bulletin, <unitdate type="inclusive" normal="1950/1951">1950-1951</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper Clippings (Jimmy Hoffa), <unitdate type="inclusive" normal="1967">1967</unitdate> and <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Obituaries and Funeral Notices</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Photographs</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Circuit Court Judges Group Portraits</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Judicial Appointments &amp; Responsibilities</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous Group Portraits</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Professional Portraits</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Social Gatherings and Political Appearances</unittitle></did></c03></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

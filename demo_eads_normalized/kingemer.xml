@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::kingemer.xml//EN" encodinganalog="Identifier">
+umich-bhl-2014069</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Emery C. King and Jacqueline C. King Collection, 1991-1998
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Olga Virakhovskaya, May 2014</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2013">
+2014</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2014</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2014-05-10</date><item>Original encoding from Word 2010 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Emery C. King and Jacqueline C. King Collection, 1991-1998</titleproper>
+
+<author>Finding aid created by<lb/> 
+Olga Virakhovskaya, May 2014</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+King, Emery C.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Emery C. King and Jacqueline C. King collection
+<unitdate type="inclusive" encodinganalog="245$f">
+1991-1998
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+68 Betacam videotapes (in 3 boxes) and 46.3 GB (online)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2014069 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Oral history interviews relating to the National Negro Labor Council (NNLC) and to unions at the Ford Rouge River Plant in Dearborn, Mich., taken during production of the 1994 documentary <title render="italic">The Freedom Train</title>. Also includes digital video of both <title render="italic">The Freedom Train</title> and <title render="italic">The Rouge</title> documentaries.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Donated by Kingberry Productions Emery King (donor no.<num type="donor" encodinganalog="541$e">11088</num>) in April 2014.
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research without restriction.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Emery C. King and Jacqueline C. King Collection, Bentley Historical Library, University of Michigan</p></prefercite>
+
+<processinfo>
+<p><extptr href="digitalproc" show="embed" actuate="onload"/></p>
+</processinfo>
+
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>National Negro Labor Council (NNLC) was established to end discrimination against African American workers in hiring, promotions, and within the labor unions.  In 1950, 900 predominantly black labor delegates from various unions met in Chicago to discuss discrimination of African American workers not only on the job but within the labor unions as well.  This discussion resulted in formation of NNLC the following year.  In the early 1950s NNLC became highly visible force in the American labor movement by supporting African American workers in organizing industrial strikes and boycotts.  During this period NNLC had 5,000 members with chapters in every major industrialized city and had especially close links to progressive unions, such as Detroit's UAW Local 600.  Through boycotts, the NNLC took on institutions and entire industries that discriminated in their hiring and promotion practices.  The organization's success drew the ire of the House Un-American Activities Committee.  The NNLC's activities were labeled "communistic" and the union and its leaders were investigated by the House Un-American Activities Committee, which ordered the union's members to register with the committee or to disband.  NNLC was disbanded in 1955.</p>
+
+<p><title render="italic">The Freedom Train</title> (1994) is the first documentary to chronicle the history of the NNLC. The NNLC fought discrimination in unions and in the workplace.  The interviews were taken after the first NNLC reunion in Detroit that commemorated the organization's 40th anniversary.  Using archival footage, photographs, and interviews with surviving members of the NNLC and others, the film looks at the history of the NNLC and the battles it fought to end racism and discrimination in the workplace and in labor unions.  In addition to the interviews with NNLC members, the documentary includes footage of speeches by Walter Reuther, Herbert Brownell, and Martin Luther King, Jr., and audio recordings from the proceedings of the House Un-American Activities Committee.  The documentary was produced, written and edited by John Owens; narrated by Emery King; Emery and Jacqueline Casselberry King executive producers.</p>
+
+<p>A later documentary <title render="italic">The Rouge</title> (1998) also explores the complexities of race and labor relations in the twentieth century.  Using interviews as well as archival footage and photographs, the film presents the history of the Ford Rouge River plant in Dearborn, Michigan from the early 1920s to early 1940s.  It focuses on the lives and backgrounds of those who worked there, including their struggles for labor rights, such as the ability to unionize.  This documentary was similarly produced, written and edited by John Owens; narrated by Emery King; Emery and Jacqueline Casselberry King executive producers.  </p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The Collection includes 68 Betacam tapes and digital online material arranged into two series:  Ford Rouge River Plant, Dearborn, Mich. and the National Negro Labor Council.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lcsh" encodinganalog="650">African American labor union members--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">African Americans--Economic conditions--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">African Americans--Employment--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Discrimination in employment--United States.</subject>
+<corpname source="lcnaf" encodinganalog="610">Ford Motor Company. Rouge River Plant.</corpname>
+<corpname source="lcnaf" encodinganalog="610">National Negro Labor Council (U.S.)</corpname>
+<genreform source="aat" encodinganalog="655">Digital moving image formats.</genreform>
+
+</controlaccess>
+
+
+
+
+<controlaccess><head>Contributors: </head>
+
+<persname source="lcnaf" encodinganalog="700">King, Emery C.</persname>
+<persname source="lcnaf" encodinganalog="700">King, Jacqueline C.</persname>
+<persname source="lcnaf" encodinganalog="700">Owens, John P.</persname>
+<corpname source="lcnaf" encodinganalog="710">Kingberry Productions.</corpname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Betacam (TM)</genreform>
+<genreform source="aat" encodinganalog="655">Betacam-SP.</genreform>
+
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Ford Rouge River Plant, Dearborn, Mich.</unittitle></did>
+<scopecontent><p>The Ford Rouge River Plant, Dearborn, Mich. series (33 Betacam tapes and  MG; includes 46.3 GB online) includes oral history interviews related to unions at the Ford Rouge Plant in Dearborn, Mich., taken during production of the 1994 WDIV-TV Detroit documentary <title render="italic">The Freedom Train</title>.  Also found here are <title render="italic">The Freedom Train</title> and <title render="italic">The Rouge</title> documentaries.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bardelli, Alfred </unittitle> <physdesc><extent>2 tapes</extent></physdesc></did> <note><p>(tape 2 with Rudolph Nelson; see also Nelson, Rudolph tapes)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Boatin, Paul</unittitle> <physdesc><extent>4 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dorash, Walter </unittitle> <physdesc><extent>4 tapes</extent></physdesc></did> <note><p>(includes Kus, Irene and James, Naomi; see also James, Naomi E. tape)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Downs, Linda</unittitle> <physdesc><extent>2 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fraser, Douglas</unittitle></did></c02>
+<c02 level="file"><did><physloc label="Box">online</physloc><unittitle><title render="italic">Freedom Train</title></unittitle><physdesc><physfacet>.MOV and .MP4 files</physfacet></physdesc><dao href="http://hdl.handle.net/2027.42/107656" show="new" actuate="onrequest"><daodesc><p>[view item]</p></daodesc></dao></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>James, Naomi E.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hicks, George and Leanna</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Leach, Nathaniel</unittitle> <physdesc><extent>2 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lewis, David L.</unittitle> <physdesc><extent>2 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Moore, David W.</unittitle> <physdesc><extent>3 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Nelson, Rudolph</unittitle> <physdesc><extent>2 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>O'Connell, Michael G.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Rodriguez family</unittitle></did></c02>
+<c02 level="file"><did><physloc label="Box">online</physloc><unittitle><title render="italic">The Rouge</title></unittitle><physdesc><physfacet>.MOV and .MP4 files</physfacet></physdesc><dao href="http://hdl.handle.net/2027.42/107657" show="new" actuate="onrequest"><daodesc><p>[view item]</p></daodesc></dao></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Southern, Lillian E.</unittitle> <physdesc><extent>2 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Valli, Guido and Valli family </unittitle> <physdesc><extent>3 tapes</extent></physdesc></did> <note><p>(tape 3 with Elizabeth Jackson)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Warren, Walter and Lopez, Jose</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>National Negro Labor Council</unittitle></did>
+<scopecontent><p>The National Negro Labor Council (35 Betacam tapes and MG) includes oral history interviews and photographic images related to NNLC.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Babson, Steve</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Benard, Jack</unittitle> <physdesc><extent>2 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Bussoll, Joel </unittitle> <physdesc><extent>2 tapes</extent></physdesc></did> <note><p>(tape 2 with Hartford Memorial Baptist Church)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Demis, Ray</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Doswell, Morris </unittitle> <physdesc><extent>2 tapes</extent></physdesc></did> <note><p>(tape 2 includes Bernie Bollinson)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Garvin, Vicki</unittitle> <physdesc><extent>2 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Johnson, Joseph</unittitle> <physdesc><extent>2 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Higgins, Chester</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Laws, Pearl</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Parks, John</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Shapiro, Harold</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Wailes, Chaptman</unittitle> <physdesc><extent>2 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Williams, Francis</unittitle> <physdesc><extent>2 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Wright, James</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Young, Coleman (National Executive Secretary)</unittitle> <physdesc><extent>4 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Labor Council</unittitle> <physdesc><extent>4 tapes</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Local 600</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>NNLC</unittitle> <physdesc><extent>5 tapes</extent></physdesc></did></c02></c01>
+</dsc></archdesc>
+
+</ead>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::chrsperu.xml//EN" encodinganalog="Identifier">
+umich-bhl-00102</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Isaac P. Christiancy diplomatic despatches and instructions, 1879-1881
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+National Archives and Records Administration </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2009">
+2009</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2009</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2009-01-15</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Isaac P. Christiancy <lb/>Diplomatic despatches and instructions, 1879-1881</titleproper>
+
+<author>Finding aid created by<lb/> 
+National Archives and Records Administration</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Christiancy, Isaac Peckham, 1812-1890.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Isaac P. Christiancy diplomatic despatches and instructions 
+<unitdate type="inclusive" encodinganalog="245$f">
+1879-1881
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+6 microfilm reels (positive)
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+00102 Aa Microcopy
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Michigan judge and U.S. Senator; U.S. minister to Peru, 1879-1881. Despatches sent to Washington from Peru, and diplomatic instructions received from the state department.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The papers were microfilmed from originals in the National Archives and Records Administration.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Isaac P. Christiancy diplomatic despatches and instructions, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Isaac P. Christiancy was a justice on the Michigan Supreme Court serving from 1858 to 1874 at which time he was appointed United States Senator. He resigned the next year and subsequently was appointed by President Rutherford B. Hayes to serve as Minister to Peru. He resigned this position in 1881.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>These records, microfilmed from originals in the National Archives, consist of official dispatches to the United States State Department from Christiancy in his role as Minister to Peru. Also included are the instructions sent to Christiancy from Washington.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Christiancy, Isaac Peckham, 1812-1890.</persname>
+<subject source="lcsh" encodinganalog="650">Diplomatic and consular service, American.</subject>
+<geogname source="lcsh" encodinganalog="651">Peru--Foreign Relations--United States.</geogname>
+<corpname source="lcnaf" encodinganalog="610">United States. Dept. of State.</corpname>
+<geogname source="lcsh" encodinganalog="651">United States--Foreign Relations--Peru.</geogname>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Despatches from United States Ministers to Peru</unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">1</container><unittitle><unitdate type="inclusive">April 16-November 26, 1879</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">2</container><unittitle><unitdate type="inclusive">December 1, 1879-April 28, 1880</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">3</container><unittitle><unitdate type="inclusive">May 3-December 16, 1880</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">4</container><unittitle><unitdate type="inclusive">December 7, 1880-April 13, 1881</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="reel" label="Roll">5</container><unittitle><unitdate type="inclusive">April 16-September 27, 1881</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Diplomatic Instruction of the Department of States, <unitdate type="inclusive" normal="1801/1906">1801-1906</unitdate></unittitle></did>
+<c02 level="file"><did><container type="reel" label="Roll">6</container><unittitle>Peru, <unitdate type="inclusive">July 7, 1863-June 23, 1883</unitdate></unittitle></did></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

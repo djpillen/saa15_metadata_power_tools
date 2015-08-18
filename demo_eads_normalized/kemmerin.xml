@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="-//us::MiU-H//TEXT us::MiU-H::kemmerin.xml//EN" encodinganalog="Identifier">
+umich-bhl-2013072</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+Catherine Kemmering collection
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Olga Virakhovskaya </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2013">
+2013</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2013</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2013-07-31</date>
+        <item>Original encoding from Word 2007 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+Catherine Kemmering collection, 1976-1988 and 1995</titleproper>
+      <author>Finding aid created by<lb/> 
+Olga Virakhovskaya, July 2013</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Kemmering, Catherine
+</persname>
+</origination>
+      <unittitle encodinganalog="245">
+Catherine Kemmering collection
+<unitdate type="inclusive" encodinganalog="245$f">
+1976-1988 and 1995
+</unitdate>
+
+</unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+3 linear feet
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2013072 Aa 2
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+      <abstract>
+Collection of scrapbooks and artifacts related to the Michigan Womyn's Music Festival; also a photo album with photographs from the 1978 National ERA Rally in Washington, D.C.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+Material was donated by the Estate of Catherine Kemmering (Donor no.   
+<num type="donor" encodinganalog="541$e">10932</num>) in May 2013.</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The collection is open to research. All photographs are prohibited from duplication.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Catherine Kemmering collection, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>The Michigan Womyn's Music Festival is the oldest and largest continuing outdoor women-only festival.  It was founded in 1976 by Lisa Vogel, her sister Kristie Vogel, and friend Mary Kindig who conceived the idea of organizing a women's outdoor music festival after attending the outdoor Midwest Women's Festival and the in-door Boston Women's Music Festival.  To help create the Michigan festival, Lisa, Kristie and Mary formed the We Want the Music Collective. The collective raised money, booked performances, distributed information and tickets. The first festival took place on August 20-22, 1976 in Mt. Pleasant, on the 120 acres of land rented by the Collective.  Singer-songwriter Holly Near and singer Teresa Trull were among the first Michigan Womyn's Music Festival performers.  While the organizers expected about 1,000 people to attend, the first Festival was attended by approximately 2,000. After the first year's success, it was decided to extend the length of the Festival to 4 days. The length of the festival was extended to 5 days by 1986. Between 1977 and 1981 the Festival was held in Hesperia, Mich.  In 1982 the Festival moved to a 650-acre location between Hart and Ludington in Oceana County, Mich.  </p>
+      <p>The week-long Festival has grown in number of attendees and diversity of performances, activities, and educational and vocational workshops.  Over the years the festival has become ethnically diverse and includes "Womyn of Color"-only space and a "Jewish Womyn's Tent." The festival is family friendly and provides childcare, including a camp for boys aged 5 to 10 (boys aged 4 and under are allowed within the festival).  Women volunteers serve as builders, electricians, sound workers, mechanics, security guards, make meals, and provide daycare during the festival.  </p>
+      <p>After the festival, volunteers dismantle constructions, completely remove all non-organic materials from the land, and bury electrical boxes.   </p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The collection includes scrapbooks and programs of the Michigan Womyn's Music Festival held between the 1st Festival (1976) and the 13th Festival (1988) -- with the exception of the 11th Festival (1986) -- and the 20th Festival (1995).  Scrapbooks include photographs, maps, memoranda, correspondence, and ephemera. Also two cotton shirts from the 1982 and 1984 festivals.</p>
+      <p>In addition, the collection includes a photo album with photographs taken during the 1978 National ERA Rally in Washington, D.C.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <corpname source="lcnaf" encodinganalog="610">Michigan Womyn's Music Festival.</corpname>
+        <subject source="lcsh" encodinganalog="650">Women's music festivals--Michigan.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Terms:</head>
+        <genreform source="aat" encodinganalog="655">Photo albums.</genreform>
+        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Catherine Kemmering collection</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>1st: <unitdate type="inclusive">August 20-22, 1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>2nd: <unitdate type="inclusive">August 25-28, 1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>3rd: <unitdate type="inclusive">August 17-20, 1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>4th: <unitdate type="inclusive">August 23-26, 1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>5th: <unitdate type="inclusive">August 14-17, 1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>6th: <unitdate type="inclusive">August 13-16, 1981</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>7th: <unitdate type="inclusive">August 12-15, 1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>7th Michigan Womyn's Music Festival cotton shirt, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>8th: <unitdate type="inclusive">August 11-14, 1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>9th: <unitdate type="inclusive">August 9-12, 1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>9th Michigan Womyn's Music Festival cotton shirt, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>10th: <unitdate type="inclusive">August 8-11, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>12th: <unitdate type="inclusive">August 12-16, 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>13th: <unitdate type="inclusive">August 10-14, 1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>20th: <unitdate type="inclusive">August 8-13, 1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">3</container>
+            <unittitle>
+              <unitdate type="inclusive" normal="1978">1978</unitdate> National ERA Rally</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::chapinfa.xml//EN" encodinganalog="Identifier">
+umich-bhl-85112</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Chapin family (Niles, Mich.) papers, 1879-1937
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-12-18</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Chapin family (Niles, Mich.) papers, 1879-1937</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<famname source="lcnaf" encodinganalog="100">
+Chapin family
+</famname>
+</origination>
+
+<unittitle encodinganalog="245">
+Chapin family (Niles, Mich.) papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1879-1937
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1 linear foot and 4 oversize folders
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+85112 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Niles, Michigan business family involved in various business endeavors, including mining; business papers and plans.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by the heirs of Charles A. Chapin (donor <num type="donor" encodinganalog="541$e">6476</num>) in 1980.</p></acqinfo>
+
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright status is unknown
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Chapin family (Niles, Mich.) papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Henry A. Chapin of Niles, Michigan, and his son Charles A. Chapin of Chicago, Illinois, were owners of the Chapin Mine in Iron Mountain, Michigan, and partial owners of the Indiana and Michigan Electric Company.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>This collection includes business papers of the family of Henry Austin Chapin of Niles, Michigan (1813-1898), his son, Charles Augustus Chapin, of Chicago, Illinois, (who died between 1913 and 1915), and the heirs of Charles Augustus Chapin.</p>
+
+<p>The collection includes business papers relating to the family's operations, including leases, reports, and maps of Chapin Mining Company, operators of the Chapin Mine. There are also leases, correspondence and legal papers of Indiana and Michigan Electric Company relating to power dams at Buchanan and Berrien Springs, Michigan. Other portions of the papers include newsletters and related material of the American Manganese Producers Association; and papers relating to the Chapin Memorial (First) Presbyterian Church, Niles, Michigan.</p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">American Manganese Producers Association.</corpname>
+<geogname source="lcsh" encodinganalog="651">Berrien Springs (Mich.)</geogname>
+<geogname source="lcsh" encodinganalog="651">Buchanan (Mich.)</geogname>
+<persname source="lcnaf" encodinganalog="600">Chapin, Charles A. (Charles Augustus)</persname>
+<persname source="lcnaf" encodinganalog="600">Chapin, Henry A. (Henry Austin), 1813-1898.</persname>
+<famname source="lcnaf" encodinganalog="600">Chopin family.</famname>
+<corpname source="lcnaf" encodinganalog="610">Chapin Mine (Iron Mountain, Mich.)</corpname>
+<subject source="lcsh" encodinganalog="650">Electric industries.</subject>
+<corpname source="lcnaf" encodinganalog="610">First Presbyterian Church (Niles, Mich.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Indiana and Michigan Electric Company.</corpname>
+<subject source="lcsh" encodinganalog="650">Iron mines and mining--Michigan--Iron Mountain.</subject>
+<geogname source="lcsh" encodinganalog="651">Iron Mountain (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Manganese.</subject>
+<corpname source="lcnaf" encodinganalog="610">Menominee Mining Company.</corpname>
+<geogname source="lcsh" encodinganalog="651">Niles (Mich.)</geogname>
+<corpname source="lcnaf" encodinganalog="610">Presbyterian Church--Michigan--Niles.</corpname>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>American Manganese Producers Association, newsletters and related material</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1929">1929</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1930">1930</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1931">1931</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1932">1932</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Chapin Memorial (First) Presbyterian Church, Niles, Michigan</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers, <unitdate type="inclusive" normal="1915">1915</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Chapin Mining Company, papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1889">1889</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1895">1895</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1896">1896</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1901">1901</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1915">1915</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1920">1920</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1922">1922</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1924">1924</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1925">1925</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1932">1932</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1934">1934</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1937">1937</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Report, by J. R. Finlay, <unitdate type="inclusive" normal="1921">1921</unitdate> and Report, by E. G. Kingsford, <unitdate type="inclusive">undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>History of Chapin Mine, <unitdate type="inclusive" normal="1923">1923</unitdate> </unittitle> <physdesc><physfacet>typescript of newspaper article</physfacet></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Report, by M. C. Lake, <unitdate type="inclusive" normal="1927">1927</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Indiana &amp; Michigan Electric Company </unittitle></did> <note><p>(papers relating to power dams at Berrien Springs and Buchanan, Michigan)</p></note>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive">Undated</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1891">1891</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1894">1894</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1897">1897</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1899">1899</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1900">1900</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1901">1901</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1902">1902</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1903">1903</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1904">1904</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1905">1905</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1906">1906</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1907">1907</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1909">1909</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1913">1913</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1915">1915</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1919">1919</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1920">1920</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Menominee Mining Company</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Papers, <unitdate type="inclusive" normal="1879">1879</unitdate> and <unitdate type="inclusive" normal="1886">1886</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Chapin, Hamilton, and Ludington Mines, Oliver Mining Company</unittitle></did>
+<c02 level="file"><did><unittitle>Plans of underground workings</unittitle></did>
+<c03 level="file"><did><container label="Oversize Folder" type="folder">1</container><unittitle><unitdate type="inclusive" normal="1908/1910">1908-1910</unitdate> </unittitle></did> <note><p>(oversize folder no. 1)</p></note></c03>
+<c03 level="file"><did><container label="Oversize Folder" type="folder">2</container><unittitle><unitdate type="inclusive" normal="1911/1913">1911-1913</unitdate>, <unitdate type="inclusive" normal="1920">1920</unitdate> </unittitle></did> <note><p>(oversize folder no. 2)</p></note></c03>
+<c03 level="file"><did><container label="Oversize Folder" type="folder">3</container><unittitle><unitdate type="inclusive" normal="1922/1924">1922-1924</unitdate> </unittitle></did> <note><p>(oversize folder no. 3)</p></note></c03>
+<c03 level="file"><did><container label="Oversize Folder" type="folder">4</container><unittitle><unitdate type="inclusive" normal="1925">1925</unitdate> </unittitle></did> <note><p>(oversize folder no. 4)</p></note></c03>
+<c03 level="file"><did><container label="Oversize Folder" type="folder">4</container><unittitle><unitdate type="inclusive" normal="1931">1931</unitdate> (with annotations showing <unitdate type="inclusive" normal="1931">1931</unitdate> activity) </unittitle></did> <note><p>(oversize folder no. 4)</p></note></c03></c02>
+<c02 level="file"><did><container label="Oversize Folder" type="folder">4</container><unittitle>Longitudinal sections, <unitdate type="inclusive" normal="1931">1931</unitdate> </unittitle></did> <note><p>(oversize folder no. 4)</p></note></c02></c01>
+ 
+
+</dsc></archdesc>
+
+</ead>

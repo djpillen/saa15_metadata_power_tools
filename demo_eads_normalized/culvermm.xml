@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::culvermm.xml//EN" encodinganalog="Identifier">
+umich-bhl-2014064</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Mary M. Culver papers
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Christopher Schunter and Olga Virakhovskaya  </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2014">
+2014</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2014</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2014-05-29</date><item>Original encoding from Word 2010 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Mary M. Culver Papers, 1856-2008</titleproper>
+
+<author>Finding aid created by<lb/> 
+Olga Virakhovskaya, May 2014</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+ 
+
+<persname source="lcnaf" encodinganalog="100">
+Culver, Mary M.
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Mary M. Culver Papers,<unitdate type="inclusive" encodinganalog="245$f">
+1856-2008
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1973-1997</unitdate>
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+2.3 linear feet (in 3 boxes)</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2014064 Aa 2</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Papers of Washtenaw County, Mich. architectural historian and preservation activist Mary M. Culver.  Collection includes records of Washtenaw County, Mich. historic preservation organizations, Culver's research files and presentations, and images of Michigan historic buildings.  </abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Donated by Mary M. Culver (donor no.   
+<num type="donor" encodinganalog="541$e">11082</num>) in two different accessions in 2014.</p></acqinfo>
+
+ 
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is not held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Mary M. Culver papers, Bentley Historical Library, University of Michigan</p></prefercite>
+
+
+
+ 
+
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Resident of Ypsilanti, Mich., Mary M. Culver Papers served as member and chair of Ann Arbor's Historic District Commission and other organizations, and taught Michigan architectural history. </p>
+
+</bioghist>
+
+ 
+
+<scopecontent encodinganalog="520">
+<p>Collection reflects Culver's work in the areas of and historic preservation and Michigan architectural history, and divided into two series: Committee Work and Research and Presentations. </p></scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+ <corpname source="lcnaf" encodinganalog="610">Ann Arbor Historic Commission (Mich.)</corpname>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Buildings, structures, etc.</geogname>
+<subject source="lcsh" encodinganalog="650">Architects--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Architects and builders--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Architecture--Michigan--History.</subject>
+<subject source="lcsh" encodinganalog="650">Historic buildings--Michigan.</subject>
+<subject source="lcsh" encodinganalog="650">Historic districts--Michigan--Ann Arbor.</subject>
+<persname source="lcnaf" encodinganalog="600">Kimball, Fiske, 1888-1955.</persname>
+<persname source="lcnaf" encodinganalog="600">Mills, Stephen, b. 1809.</persname>
+<persname source="lcnaf" encodinganalog="600">Pond, Allen Bartlit.</persname>
+<persname source="lcnaf" encodinganalog="600">Pond, Irving K. (Irving Kane), 1857-1939.</persname>
+
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+
+<subject source="lctgm" encodinganalog="650">Buildings--Michigan--Ann Arbor.</subject></controlaccess>
+
+ 
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Color slides.</genreform>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Committee work</unittitle></did><scopecontent><p>The Committee Work series (1 linear foot) includes reports, minutes of meetings, correspondence, proposals, petitions, research materials, and publications of Ann Arbor area historic preservation organizations, most notably, the Ann Arbor Historic District Commission.  Issues discussed in documents include surveying buildings and sites of historical and architectural value, preservation of historic buildings and sites, collection and preservation of historic records, establishing Historic Districts with special description and preservation standards, special celebrations and commemorative plaques.  </p></scopecontent>
+<c02 level="file"><did><unittitle>Ann Arbor Historical Commission</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1959/1967">1959-1967</unitdate> </unittitle></did> <note><p>(bound volume)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1966/1970">1966-1970</unitdate> </unittitle></did> <note><p>(bound volume)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1971">1971</unitdate> </unittitle></did> <note><p>(bound volume)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1972">1972</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><unittitle>Ann Arbor Historic District Commission</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1978">1978</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1978/1992">1978-1992</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Division Street Historic Study Committee, <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Meeting minutes, <unitdate type="inclusive" normal="1977/1984">1977-1984</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Public History Program proposal, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle></did></c03></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor Tomorrow, <unitdate type="inclusive" normal="1973/1977">1973-1977</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Downtown Concept Plan (Draft 2), <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Downtown Historic District Study Committee Final report and appendix, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspaper clippings, <unitdate type="inclusive" normal="1968/1974">1968-1974</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Miscellaneous, <unitdate type="inclusive" normal="1974/1993">1974-1993</unitdate> (scattered)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Research and Presentations</unittitle></did><scopecontent><p>The Research and Presentations series (1.3 linear feet) includes biographies of and Culver's presentations on noted architects and builders with connections to Ann Arbor, Mich. area.  Volumes include images of historic buildings by Stephen Mills, Irving Kane Pond, Allen Bartlit Pond, and Fiske Kimball.  Also included here are photocopies of Washtenaw County assessment rolls from the 1850s and 1860s and Culver's notebook with description of historic buildings. Visual materials in this series include color slides with images of historic buildings throughout the state (including Ann Arbor, Ypsilanti, Washington, Dundee, Tecumseh, Jackson County, and other areas), photographs of the old Ann Arbor Post Office on Main Street with enclosed National Register of Historic Places Inventory Nomination Form, and slides with miscellaneous images Culver used for teaching.</p>
+
+</scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Architectural descriptions, <unitdate type="inclusive">undated</unitdate> </unittitle></did> <note><p>(notebook)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Designers Showcase: a Stephen Mills historic house, <unitdate type="inclusive" normal="1992">1992</unitdate> </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Greek revival: one pioneer's interpretation of the classical ideal, <unitdate type="inclusive" normal="1992">1992</unitdate> </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Houses of Stephen Mills by Kevin Coleman, <unitdate type="inclusive" normal="1991">1991</unitdate> </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Pond &amp; Pond: sons of a pioneer, architects of the U-M's hearthstone, <unitdate type="inclusive" normal="1995">1995</unitdate> (?) </unittitle> <physdesc><extent>1 volume</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Preservation vanguard: Fiske Kimball: author, architect, and teacher, <unitdate type="inclusive" normal="1993">1993</unitdate> </unittitle> <physdesc><extent>1 volume</extent></physdesc></did> <note><p>(includes photo slides)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Preservation vanguard: Fiske Kimball: author, architect, and teacher, <unitdate type="inclusive" normal="1994">1994</unitdate> </unittitle> <physdesc><extent>1 volume</extent></physdesc></did> <note><p>(Problems in Architectural Interpretation course)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Stephen Mills, <unitdate type="inclusive" normal="1809">1809</unitdate> to <unitdate type="inclusive" normal="1896">1896</unitdate> his life, his times, and his house, <unitdate type="inclusive" normal="1991">1991</unitdate> </unittitle> <physdesc><extent>1 volume</extent></physdesc></did> <note><p>(includes photo slides)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Washtenaw County Assessment rolls, <unitdate type="inclusive" normal="1856/1868">1856-1868</unitdate> </unittitle></did> <note><p>(outsize)</p></note></c02>
+<c02 level="file"><did><unittitle>Visual Materials</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Images of historic buildings (photo slides), <unitdate type="inclusive" normal="1968/2001">1968-2001</unitdate> </unittitle> <physdesc><extent>192 slides</extent></physdesc></did></c03>
+<c03 level="file"><did><unittitle>Boxed slides, <unitdate type="inclusive" normal="1990/1997">1990-1997</unitdate></unittitle></did>
+<c04 level="file"><did><container type="box" label="Box">3</container><unittitle><unitdate type="inclusive" normal="1324">1324</unitdate> Pontiac Trail, Ann Arbor, Mich. </unittitle> <physdesc><extent>59 slides</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">3</container><unittitle>Jackson County, Mich. </unittitle> <physdesc><extent>54 slides</extent></physdesc></did></c04>
+<c04 level="file"><did><container type="box" label="Box">3</container><unittitle>Miscellaneous teaching </unittitle> <physdesc><extent>53 slides</extent></physdesc></did></c04></c03>
+<c03 level="file"><did><container type="box" label="Box">3</container><unittitle>Main Ann Arbor Post Office, 220 Main St., <unitdate type="inclusive" normal="1976">1976</unitdate> (photographs and negatives)</unittitle></did></c03></c02></c01>
+
+</dsc></archdesc>
+
+</ead>

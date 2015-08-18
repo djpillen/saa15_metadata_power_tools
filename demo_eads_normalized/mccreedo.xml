@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::mccreedo.xml//EN" encodinganalog="Identifier">
+umich-bhl-2015007</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Dores McCree papers 
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Lori Donovan </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2015">
+2015</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Olga Virakhovskaya, 
+<date>2015</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2015-02-20</date><item>Original encoding from Word 2010 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Dores McCree Papers, 1985-1999</titleproper>
+
+<author>Finding aid created by<lb/> 
+Lori Donovan, in December, 2014</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+ 
+<persname source="lcnaf" encodinganalog="100">
+McCree, Dores
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Dores McCree papers  
+<unitdate type="inclusive" encodinganalog="245$f">
+1985-1999
+</unitdate>
+ 
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear feet</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2015007 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Minority student advisor for the University of Michigan Law School from 1988-1995.  Collection includes materials related to the Law School, students, and minority student activities as well as personal correspondence from students and photographs.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Donated by Sharon Lewis (donor no. <num type="donor" encodinganalog="541$e">10979</num>), in August, 2013.</p></acqinfo>
+ 
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Dores McCree papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Dores McCree was an advisor to minority students at the University of Michigan Law School from 1988-1995 with duties that included recruitment of minority students, career counseling, and coordination of minority student events.</p>
+
+<p>Dores was married to Wade H. McCree, Jr. who served as a Judge on the Wayne County Circuit Court, the U.S. District Court for Eastern Michigan and as U.S. Solicitor General.  He was a law professor at the University of Michigan from 1981 until his death in 1987, at which point Dores began her work with the law school.  The McCrees had three children, Kathleen, Wade III, and Karen.</p>
+</bioghist>
+
+<arrangement encodinganalog="351">
+<p>
+The collection is divided into two series: Law School Publications and Events and Personal Materials.</p>
+</arrangement>
+
+<scopecontent encodinganalog="520">
+<p>This collection contains records and publications pertaining to the University of Michigan Law School, its minority student programs and recruitment activities, and personal correspondence between Dores McCree and students she worked with. </p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">McCree, Dores.</persname>
+<subject source="lcsh" encodinganalog="650">Minorities--Education (Higher)--Michigan--Ann Arbor.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Law School.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Law School--Directories.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
+
+</controlaccess>
+
+ 
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+<c01 level="series"><did><unittitle>Law School Publications and Events</unittitle></did><scopecontent><p>The Law School Publications and Events series (1 linear foot, 1985-1999) consists primarily of published materials related to the law school, its students, faculty, and minority student activities.  These include photographic directories, career services publications, faculty biographies, and minority events and enrollment information.</p>
+
+</scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photographic directories, <unitdate type="inclusive" normal="1985/1995">1985-1995</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Career Services Publications, <unitdate type="inclusive" normal="1993/1999">1993-1999</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Faculty Biographies and Information, <unitdate type="inclusive" normal="1986/1995">1986-1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minority Student Events, <unitdate type="inclusive" normal="1989/1993">1989-1993</unitdate> </unittitle> <physdesc><extent>2 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Minority Student Enrollment Information, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><container type="box" label="Box">2</container><unittitle>Personal Papers</unittitle></did><scopecontent><p>The Personal Papers series (0.5 linear feet, 1987-1995) includes correspondence from students and photographs of commencement activities and other campus events.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1987/1995">1987-1995</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Photographs, <unitdate type="inclusive" normal="1989/1995">1989-1995</unitdate></unittitle></did></c02></c01>
+
+</dsc><descgrp type="add"><relatedmaterial><head>Related Materials</head><p>The <title render="italic" linktype="simple" href="http://quod.lib.umich.edu/b/bhlead/umich-bhl-9762" show="replace" actuate="onrequest">Law School (University of Michigan) oral history interviews, 1988-2002</title> collection includes an oral history interview with Dores McCree.</p>
+
+<p>The papers of Dores McCree's husband, Wade H. McCree Jr. are located at Wayne State University's Walter P. Reuther library and include personal correspondence between Wade and Dores McCree as well as family photos and other information.</p>
+</relatedmaterial></descgrp></archdesc>
+
+</ead>

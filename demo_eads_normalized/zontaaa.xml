@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::zontaaa.xml//EN" encodinganalog="Identifier">
+umich-bhl-93805</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Zonta Club of Ann Arbor, Michigan records, 1972-1990
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Kristin Roberts </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2007">
+2007</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>August 2007</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2007-08-02</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Zonta Club of Ann Arbor, Michigan records, 1972-1990</titleproper>
+
+<author>Finding aid created by<lb/> 
+Kristin Roberts, January 1993</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Zonta Club of Ann Arbor, Michigan.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Zonta Club of Ann Arbor, Michigan records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1972-1990
+</unitdate>
+
+<unitdate type="bulk" encodinganalog="245$g">
+1987-1990
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet.
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+93805 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Ann Arbor chapter of international women's professional and service organization. Administrative records, newsletters, yearly members booklets, correspondence, and other materials relating to club activities.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+This record group (donor no. <num type="donor" encodinganalog="541$e">8090</num>) was received in 1992 and came through club president Margaret Massialas.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+Periodic additions to the records are not expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Zonta Club of Ann Arbor, Michigan records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Zonta is a Sioux Indian word meaning "to band together for a purpose."  The creators of Zonta International, a service organization of executive women in business and other professions, wanted the organization to represent such values as honesty, trust and inspiration.  Zonta members believe by embracing in friendships and joining efforts and talents with others who are like-minded, they enrich their personal and professional lives.  Through club meetings, inter-city functions, work shops, district conferences and international conferences, they also work to improve the status of women throughout the world.  The Zonta Club of Ann Arbor, a chapter of Zonta International, was organized by members of the Detroit chapter on March 28, 1924 and was chartered on May 16, 1924 with fifteen members.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The records of the Zonta Club of Ann Arbor cover the period 1972 to 1990, though the bulk of the materials date since 1987.  The record group largely concerns the official functions of the Club and the various events that it sponsored.  The folders in the record group are arranged alphabetically, with the contents of folders either arranged chronologically or alphabetically.</p>
+
+<p>The folders labeled Administrative, Board Meeting Agenda, Business and Social Meetings, and Treasurer's Reports contain organizational records of the club.  Included with these files are such items as the president's conference report, the proposed budget for operations, the report of pledges and contributions, various committee reports, committee announcements, officers reports, and financial credits and disbursements.  The Correspondence folder constitutes the largest portion of the collection.  Included is correspondence with the Zonta International Headquarters in Chicago, Illinois, with the state (District XV) office, and with other clubs in the area (Area III).  Also included is correspondence with other service organizations that Zonta of Ann Arbor financially endorsed or worked with in charity functions.</p>
+
+<p>The Published Meetings file contains a set of booklets which are produced annually with the following topics in each booklet: the Zonta Blessing, Zonta Code, Clubwomens Collect written by Mary Stewart, listing of former Club Presidents, Officers Board Members, Committees, yearly calendar, and roster of members.  The Social and Educational file contains notices of upcoming charity, social events, educational seminars and regional and national conferences of Zonta International.  </p>
+
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)</geogname>
+<subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor--Societies and clubs.</subject>
+<corpname source="lcnaf" encodinganalog="610">Zonta Club of Ann Arbor, Michigan.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Zonta International.</corpname>
+
+</controlaccess>
+
+
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Organizational records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Administrative Files</unittitle></did><note><p>)nclude President's Conference Report, 1989 Proposed Budget for Operations, 1988-1990 and Report of Pledges and Contributions)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Background Information</unittitle></did><note><p>( includes "Everything You Always Wanted to Know About Zonta")</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Board Meeting Agenda, <unitdate type="inclusive"> June 21, 1988-June 19, 1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Business and Social Meetings, <unitdate type="inclusive"> October 18, 1988-February 27, 1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence-Incoming File, <unitdate type="inclusive"> August 4, 1979-May 30, 1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence-Outgoing File, <unitdate type="inclusive"> January 7, 1989-May 6, 1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Members of Ann Arbor Zonta Club File</unittitle></did><note><p>(include memorials of deceased members; and Membership Committee Report for 1988/89-new members)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletter File,  <unitdate type="inclusive">June 20, 1986-November / December 1989</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Published Meetings: include 50th Anniversary booklet, <unitdate type="inclusive" normal="1924/1974">1924-1974</unitdate> and yearly booklets, <unitdate type="inclusive">1972-1989/90</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Social and Educational Events, <unitdate type="inclusive"> January 17, 1989-July 13, 1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Standard Bylaws/ Rules of Procedure</unittitle></did><note><p>(include proposed amendments; and job description of club president)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Treasurer's Reports, <unitdate type="inclusive"> January 10, 1989-May 1, 1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Record book, <unitdate type="inclusive">ca. 1984-1986</unitdate></unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

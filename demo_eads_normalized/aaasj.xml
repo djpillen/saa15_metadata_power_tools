@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::aaasj.xml//EN" encodinganalog="Identifier">
+umich-bhl-0371</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Academics for Affirmative Action and Social Justice (University of Michigan) records, 1997-2000
+
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Joel A. Blanco, April 2003 </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date">
+April 2005</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Leslie Knoblauch, 
+<date>April 2005</date></creation>
+
+<langusage>The finding aid is written in  <language encodinganalog="Language" langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050421</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>University Archives and Records Program<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Academics for Affirmative Action and Social Justice <lb/>Records, 1997-2000
+
+</titleproper>
+<author>Finding aid created by<lb/> 
+Joel A. Blanco, April 2003
+</author>
+</titlepage></frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+University of Michigan. Academics for Affirmative Action and Social Justice.
+</corpname></origination>
+
+<unittitle encodinganalog="245">
+Academics for Affirmative Action and Social Justice (University of Michigan) records
+<unitdate type="inclusive" encodinganalog="245$f">
+1997-2000
+</unitdate></unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+0371 Bimu 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Academics for Affirmative Action and Social Justice (AAASJ), a multi-racial coalition of University of Michigan 
+students, faculty and staff, was established in response to the lawsuits filed in 1997 challenging the university’s 
+admissions practices.  AAASJ supported affirmative action and protested inequality through education, debates and 
+rallies.  The record group contains correspondence, newsletters, and essays.
+</abstract>
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The record group was received in August 2002. (Donor #
+<num type="donor" encodinganalog="541$e">9235</num>).
+ 
+</p></acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open without restriction.</p>
+<p><extptr href="uarpacc" show="embed" actuate="onload"/></p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Academics for Affirmative Action and Social Justice (University of Michigan) Records, Bentley Historical Library, 
+University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Academics for Affirmative Action and Social Justice (AAASJ), a multi-racial coalition of University of Michigan 
+students, faculty and staff, was established in 1997 to defend affirmative action through the education and 
+mobilization of the university community.  It was founded as a consequence of the lawsuits filed in 1997 challenging 
+the University of Michigan’s affirmative action admissions policies.  The lawsuits ( <title render="italic">Grutter v. 
+Bollinger, et al</title> and <title render="italic">Gratz and Hamacher v. Bollinger, et al</title> ) were ultimately 
+heard by the U.S. Supreme Court in 2003. </p>
+<p>Founded by graduate students Nadia Kim and Tom Guglielmo, AAASJ’s stated goals were:  defend affirmative action; 
+enlighten the community through education and action about the significance of race and the prevalence of racism and 
+other forms of social injustice; and support the University of Michigan administration’s defense of affirmative action 
+policies while also encouraging improvement of those policies.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The records of Academics for Affirmative Action and Social Justice (AAASJ) cover the period 1997-2000, and contain 
+adminstrative information about the organization such as correspondence, records of events, newsletters, and 
+statements.</p>
+<p>The bulk of the collection consists of correspondence (including printouts of email) between the founders of 
+AAASJ, Nadia Kim and Tom Guglielmo, and members of the organization.  Most of the correspondence contains details 
+regarding meetings, events and news related to affirmative action.  The record group also contains information 
+regarding events sponsored by AAASJ like debates and rallies. </p>
+<p>AAASJ published a newsletter titled <title render="italic">Veritas</title>, with information about affirmative 
+action and the organization’s position on the University of Michigan’s admissions policies.  The record group contains 
+newsletters covering the period 1998-1999.  A VHS videotape of the panel session  <title render="italic">It’s All About 
+Mike</title> is also include in this collection.  The session, which took place on January 27, 2000, was a debate 
+about affirmative action between members of AAASJ and the <title render="italic">Michigan Review</title>.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<corpname source="lcnaf" encodinganalog="610">Academics for Affirmative Action and Social Justice.</corpname>
+<subject source="lcsh" encodinganalog="650">Multicultural education.</subject>
+<subject source="lcsh" encodinganalog="650">Affirmative action programs--Michigan--Ann Arbor.</subject>
+<subject source="lcsh" encodinganalog="650">Universities and colleges--Admission.</subject>
+<subject source="lcsh" encodinganalog="650">Discrimination in education.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Political activity.</corpname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+
+<corpname encodinganalog="710" source="lcnaf">corpname</corpname>
+<persname encodinganalog="700" source="lcnaf">persname </persname>
+<geogname encodinganalog="655" source="lcsh">geogname</geogname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Videotapes.</genreform></controlaccess></controlaccess>
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Administrative</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Background Information, n. d., <unitdate type="inclusive" normal="1998">1998</unitdate>, <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Correspondence, <unitdate type="inclusive" normal="1997/2000">1997-2000</unitdate></unittitle><physdesc><extent>6 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Events, <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newsletter<title render="italic">Veritas</title>, <unitdate type="inclusive" normal="1998/1999">1998-1999</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Statements and Essays, n. d., <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Videotape (VHS): <title render="italic">It's All About Mike, AAASJ vs. Michigan Review</title> Debate, <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>AAASJ Pin (AAASJ working for M)</unittitle></did></c02></c01>
+
+</dsc>
+
+</archdesc>
+
+
+
+</ead>

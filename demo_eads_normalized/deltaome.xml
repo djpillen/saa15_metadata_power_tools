@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::deltaome.xml//EN" encodinganalog="Identifier">
+umich-bhl-87386</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Delta Omega. Delta Chapter (University of Michigan) records, 1925-1971
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Julia McGinnis </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>June 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-06-27</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Delta Omega.  Delta Chapter <lb/>(University of Michigan) records, 1925-1971</titleproper>
+
+<author>Finding aid created by<lb/> 
+Julia McGinnis, 1992</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+<corpname source="lcnaf" encodinganalog="110">
+Delta Omega.  Delta Chapter (University of Michigan).
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+Delta Omega. Delta Chapter (University of Michigan) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1925-1971
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.4 linear foot
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+87386 Bn 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Honorary public health society. Historical information, minutes, financial material, constitution and by-laws, membership material, and papers presented at annual initiation banquets.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The records were transferred from the Delta Chapter (Donor No. <num type="donor" encodinganalog="541$e">5165</num>) in October 1971.</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the records are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Delta Omega.  Delta Chapter (University of Michigan) records, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The Delta Omega Society was founded at the School of Hygiene and Public Health of Johns Hopkins University in 1924 by Major Edgar Erskine Hume of the Medical Corps, U.S. Army and Past Assistant Surgeon Claude William Mitchell.  The organization was created to be a national honorary public health fraternity with the purpose of recognizing and encouraging scholarship and research by graduate students in public health.  The society also sought to honor those public health professionals who possessed exceptional qualifications or who had achieved prominence in the field.</p>
+
+<p>The Delta Chapter of the Delta Omega Society was founded at the University of Michigan's School of Public Health in 1925.  Like the national organization, the Delta Chapter existed to honor those public health students who had worked hard to deserve distinction.  Since the national society sought to serve as an honorary society, the Delta Chapter concentrated its activities on selecting and initiating members from the University's public health program.  The culminating event of the chapter's activities rested in the Initiation Banquet at which a public health professional would present a paper on some topic relating to the field.</p>
+
+<p>The ranks of Delta Omega expanded over the years with yearly initiations of between 10 and 20 new members.  The Chapter was deactivated in July 1971.</p>
+
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>These organizational records consist of the following six series: Historical Information; Minutes; Financial; By-Laws; Membership/Officers; and Annual Initiation Banquets.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Delta Omega. Delta Chapter (University of Michigan)</corpname>
+<subject source="lcsh" encodinganalog="650">Public health--United States.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Honorary societies.</corpname>
+
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Historical Information/Publications</unittitle></did><scopecontent><p>Historical Information (1 folder; 1942-1951) consists of two publications of the Delta Omega Society.  The first, written in 1942, is a publication of the national organization which provides background information about the development of the society.  The second publication was done by the Delta Chapter in 1957 to describe its function and history.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> The Delta Omega Society</title>, <unitdate type="inclusive" normal="1942">1942</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><title render="italic"> Delta Omega</title>, <unitdate type="inclusive" normal="1951">1951</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Minutes</unittitle></did><scopecontent><p>Minutes (6 folders; 1925-1971 scattered) include the written records of various committee meetings.  The first type of minutes consists of a fairly complete record of the annual meetings (1925-1971).  The first part includes both semi-annual and annual meeting minutes.  After 1947, only annual meeting minutes were kept.  Also included in this series are business meeting minutes covering the time periods 1952-1955 and 1960-1964.  This committee discussed financial transactions and plans.  Minutes from the Executive Council covering 1959-1961 discuss administrative details.  The Policy Committee dealt with procedural issues with the records representing 1950-1957.  The final type of minutes has been labelled Miscellaneous and represents one record from 1951 for the following committees:  Constitution and By-Laws, Membership, and Program and Publicity.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1925/1947">1925-1947</unitdate> (Semiannual/annual meetings)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1947/1971">1947-1971</unitdate> (Annual Meetings)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1952/1964">1952-1964</unitdate> (scattered dates) (Business Meetings)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1959/1961">1959-1961</unitdate> (Executive Council Meetings)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1950/1957">1950-1957</unitdate> (Policy Committee)</unittitle></did></c02>
+<c02 level="file"><did><unittitle>Miscellaneous</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Constitution and By-Laws Committee, <unitdate type="inclusive"> February 19, 1951</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Membership Committee, <unitdate type="inclusive"> January 30, 1951</unitdate> and <unitdate type="inclusive"> March 6, 1951</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Program and Publicity Committee, <unitdate type="inclusive"> January 10, 1951</unitdate></unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Annual Financial Records</unittitle></did><scopecontent><p>Financial Records (1 folder; 1925-1971 scattered) consists of annual summaries of finances from 1925 through 1971.  The summaries are one-page documents which list the amounts of money taken in from membership dues and spent on various events and supplies.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1925/1971">1925-1971</unitdate> (scattered dates)</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>By-Laws</unittitle></did><scopecontent><p>By-Laws (1 folder; scattered dates) consist of several revisions of the rules that governed the Chapter as adopted and from the national organization.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1952">1952</unitdate>, <unitdate type="inclusive" normal="1958">1958</unitdate>, <unitdate type="inclusive" normal="1960">1960</unitdate>, <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Membership</unittitle></did><scopecontent><p>Membership/Officers (2 folders; 1928-1968) contains lists of members, both faculty and students.  The membership lists of varying completeness cover 1928 to 1968 while the lists of officers run from 1940 to 1968.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Member listings, <unitdate type="inclusive" normal="1928/1968">1928-1968</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Officers, <unitdate type="inclusive" normal="1940/1968">1940-1968</unitdate></unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Annual Initiation Banquets</unittitle></did><scopecontent><p>Annual Initiation Banquets (3 folders; 1940-1970) reflect the culminating event of the year for the Chapter.  The programs show the members initiated at each banquet from 1940 to 1969.  The papers are copies of the presentations at each banquet by a public health professional.</p></scopecontent>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Programs, <unitdate type="inclusive" normal="1940/1969">1940-1969</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Annual Lectures, <unitdate type="inclusive" normal="1944/1970">1944-1970</unitdate> (scattered dates)</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1944">1944</unitdate>, "Public Health as an International Problem"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1951">1951</unitdate>, "Rice as a Factor in Asiatic Diets"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1952">1952</unitdate>, "The Misery of Man and What to Do About It"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1954">1954</unitdate>, "Epidemiological Techniques and Data in Public Health Planning"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1955">1955</unitdate>, "Interrelation Between Public Health and Medical Care, 1750-1950"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1956">1956</unitdate>, "The Effect of Cultural Factors Upon Health Problems"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1957">1957</unitdate>, "Problems in Adult Immunization"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1958">1958</unitdate>, "World-Wide Malaria Eradication"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1960">1960</unitdate>, "The Population Explosion"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1961">1961</unitdate>, "Public Health Significance of Aeroallergens"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1962">1962</unitdate>, "The Changing World of Health"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1963">1963</unitdate>, "Public Health: the Art of the Possible"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1964">1964</unitdate>, "Public Health Program Planning for the Future"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1965">1965</unitdate>,  "Total Action Against Poverty More than a Name"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1966">1966</unitdate>, "Social Policy for Health:  the Heart, Cancer, Stroke Controversy"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1967">1967</unitdate>,"Health Planning on a Community Basis"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1969">1969</unitdate>, "Transmission of Viral Diseases by Drinking Water"</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><unitdate type="inclusive" normal="1970">1970</unitdate>, "Community and the Public's Health"</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Realia</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fraternity pin with photograph</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

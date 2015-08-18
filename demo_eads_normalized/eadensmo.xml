@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::eadensmo.xml//EN" encodinganalog="Identifier">
+umich-bhl-851033</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for 
+E.A. Densmore General Store (Dansville, Mich.) records, 1857-1953
+
+</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2008">
+2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2008</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2008-12-02</date>
+        <item>Original encoding from Word 2003 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for<lb/>
+E.A. Densmore General Store (Dansville, Mich.) records, 1857-1953</titleproper>
+      <author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <corpname source="lcnaf" encodinganalog="110">
+E.A. Densmore General Store (Dansville, Mich.)</corpname>
+      </origination>
+      <unittitle encodinganalog="245">
+E.A. Densmore General Store (Dansville, Mich.) records 
+<unitdate type="inclusive" encodinganalog="245$f">
+1857-1953
+</unitdate></unittitle>
+      <physdesc>
+        <extent encodinganalog="300">
+14 volumes (in 1 box) and 2 oversize volumes
+</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+851033 Bb.2 2; BB.2 Outsize
+</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>
+Dansville, Michigan, general store. Ledgers, daybooks, cash books, and other business records.
+</abstract>
+      <repository>
+        <corpname encodinganalog="852">
+          <subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload"/>
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>
+The records were the gift of Mrs. Edward E. Lofberg (donor no. <num type="donor" encodinganalog="541$e">4028</num>).  
+</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>
+No further additions to the records are expected.
+</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>
+The record group is open to research.
+</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>
+Copyright is held by the Regents of the University of Michigan.
+</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+E.A. Densmore General Store (Dansville, Mich.) records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>The E.A. Densmore General Store was located in Dansville, Michigan, in Ingham County.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The record group includes business day books, ledgers, cashbooks, stock purchases and inventories, and collection books. Some of the records were maintained by E. Rice. It is not clear if these were accounts for a separate firm or whether these were earlier records for a predecessor general store.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="650">Business records.</subject>
+        <geogname source="lcsh" encodinganalog="651">Dansville (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650">General stores--Michigan--Dansville.</subject>
+        <geogname source="lcsh" encodinganalog="651">Ingham County (Mich.)</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Contributors: </head>
+        <persname source="lcnaf" encodinganalog="700">Densmore, Ernest Albert.</persname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Business records</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Sales record, <unitdate type="inclusive" normal="1857">1857</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Stock inventories, <unitdate type="inclusive" normal="1863">1863</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Day book (E. Rice), <unitdate type="inclusive" normal="1866/1867">1866-1867</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Day book (Rice and Cobb), <unitdate type="inclusive" normal="1869">1869</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Day book (E. Rice), <unitdate type="inclusive" normal="1869/1873">1869-1873</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Disbursements, <unitdate type="inclusive" normal="1888/1891">1888-1891</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Stock purchase and inventory, <unitdate type="inclusive" normal="1892/1895">1892-1895</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Ledger, <unitdate type="inclusive" normal="1893/1895">1893-1895</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Collections book, <unitdate type="inclusive" normal="1894/1900">1894-1900</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Ledger, <unitdate type="inclusive" normal="1899/1901">1899-1901</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Cash book, <unitdate type="inclusive" normal="1912">1912</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Receipts and accounts, <unitdate type="inclusive" normal="1913">1913</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Ledger, <unitdate type="inclusive" normal="1915/1946">1915-1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">2</container>
+            <unittitle>Records of legal fees collected, <unitdate type="inclusive" normal="1933/1953">1933-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">1</container>
+            <unittitle>Collections book, <unitdate type="inclusive" normal="1894/1903">1894-1903</unitdate></unittitle>
+          </did>
+          <note>
+            <p>(outsize volume)</p>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume">2</container>
+            <unittitle>Cashbook, <unitdate type="inclusive" normal="1910/1913">1910-1913</unitdate></unittitle>
+          </did>
+          <note>
+            <p>(outsize volume)</p>
+          </note>
+        </c02>
+      </c01>
+    </dsc>
+    <descgrp type="add">
+      <relatedmaterial>
+        <relatedmaterial>
+          <head>Related Material</head>
+          <p>The library also has a small collection of Densmore family materials. This includes a farm account book of Thad Densmore, 1876-1880; a day book, 1880-1892; the University of Michigan law thesis of Ernest Albert Densmore, 1902; and a short history of the Densmore and Rice families.</p>
+        </relatedmaterial>
+      </relatedmaterial>
+    </descgrp>
+  </archdesc>
+</ead>

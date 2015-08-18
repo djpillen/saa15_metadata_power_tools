@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::helerann.xml//EN" encodinganalog="Identifier">
+umich-bhl-2011064</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+Ann Heler Papers, 1993-1998
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Owen Ellis, May 2011 </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2011">
+2011</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>2011</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2011-06-08</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Ann Heler Papers, 1993-1998</titleproper>
+
+<author>Finding aid created by<lb/> 
+Owen Ellis, May 2011</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+
+<persname source="lcnaf" encodinganalog="100">
+Heler, Ann
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Ann Heler papers 
+<unitdate type="inclusive" encodinganalog="245$f">
+1993-1998
+</unitdate>
+
+
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+0.5 linear feet and 1 oversize folder
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+2011064 Aa 2; UAm
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Papers of Ann Heler, a resident of Ferndale, Mich., who was a leader of the gay and lesbian community. Heler also participated in the Gay Games, a cultural event for the purpose of unity and identity within the national and international gay and lesbian community.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+The collection was donated by Ann Heler (donor no. <num type="donor" encodinganalog="541$e">10513</num>) in 2011.  
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright has not been transferred to the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Ann Heler Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Ann Heler was a resident of Ferndale, Mich. and an active member of the gay and lesbian community. In the early 1990's Heler organized FANs "Friends and Neighbors", to protect the rights of the gay and lesbian population in Ferndale Michigan. As the city became a more tolerant place for the community to live, FANs disbanded about 10 years after they began. Heler later joined Team Great Lakes, participating in Gay Games IV in 1994. The Gay Games began in 1982 as a cultural event for the purpose of unity and identity within the national and international gay and lesbian community.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>The collection largely documents Ann Heler's involvement in the Gay Games during the 1990's. The emphasis of these sporting events was to help the Gay and Lesbian Community establish a global unity and strengthen their identity. The Papers of Ann Heler are arranged into two series: Personal Records, and Other Materials, and one outsize folder.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+
+<persname source="lcnaf" encodinganalog="600">Heler, Ann.</persname>
+<corpname source="lcnaf" encodinganalog="610">Gay Games.</corpname>
+<subject source="lcsh" encodinganalog="650">Gays and sports.</subject>
+<subject source="lcsh" encodinganalog="650">Lesbians--Michigan--Ferndale.</subject>
+</controlaccess>
+
+
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+<genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+
+
+<c01 level="series"><did><unittitle>Personal Records</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Human Rights Campaign Fund Dinner, <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photojournal of Gay Games III and Cultural Festival entitled "The Spirit Captured" <unitdate type="bulk" normal="1990">1990</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Photojournal of Gay Games IV and Stonewall entitled "Unity" <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle></did></c02>
+<c02 level="file"><did><unittitle>Team Great Lakes</unittitle></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Ephemera -- Poster and Pin for Gay Games <unitdate type="inclusive" normal="1994">1994</unitdate> </unittitle></did> <note><p>(see also oversize folder)</p></note></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Flyers and other mailings, correspondence, lists of members, and similar records</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle><genreform normal="Photographs">Photograph</genreform> of people with posters assembled in front of public building; also <genreform normal="Photographs">photograph</genreform> of outdoor information booth</unittitle></did></c03></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Other Materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>GLBT magazines with some content on the Gay Games </unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Newspapers and Clippings</unittitle></did></c02>
+<c02 level="file"><did><unittitle><genreform normal="Videotapes">Videotapes</genreform> </unittitle> <physdesc><physfacet>VHS</physfacet></physdesc></did>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Compilation of three segments regarding the Gay Games, <unitdate type="inclusive">undated</unitdate> </unittitle> <physdesc><extent>ca. 15 min.</extent></physdesc></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Dog Gone Proud: Story of the Grand Rapids Front Runners" <unitdate type="inclusive">undated</unitdate></unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>"Gay Games IV/Stonewall 25" <unitdate type="inclusive" normal="1994">1994</unitdate> Network Q: Television for Gay America</unittitle></did></c03>
+<c03 level="file"><did><container type="box" label="Box">1</container><unittitle>Promotional video entitled "Spirit of the Games" <unitdate type="inclusive" normal="1993">1993</unitdate> </unittitle> <physdesc><extent>ca. 5 min.</extent></physdesc></did></c03></c02>
+    <c02 level="file"><did><container type="folder" label="Oversize Folder">1</container><unittitle>Poster</unittitle></did></c02>
+<c02 level="file"><did><unittitle>FANs of Ferndale metal street sign</unittitle></did></c02></c01>
+ 
+
+</dsc><descgrp type="add"><relatedmaterial><head>Related Material</head><p>The library also has the papers of Dewey Ames, an organizer of the Gay Games.</p></relatedmaterial></descgrp></archdesc>
+
+</ead>

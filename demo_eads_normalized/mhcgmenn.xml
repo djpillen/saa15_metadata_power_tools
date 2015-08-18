@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::mhcgmenn.xml//EN" encodinganalog="Identifier">
+umich-bhl-87360</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="Title">Finding Aid for 
+G. Mennen Williams and Nancy Quirk Williams oral history project, 1980-1982
+
+</titleproper>
+<author encodinganalog="Creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff </author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="Date" normal="2008">
+2008</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Thomas E. Powers, 
+<date>March 2008</date></creation>
+
+<langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language></langusage>
+<descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+
+<revisiondesc><change><date>2008-03-26</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+G. Mennen Williams and Nancy Quirk Williams <lb/>oral history project, 1980-1982</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21"><did>
+
+<origination>
+
+<corpname source="lcnaf" encodinganalog="110">
+Michigan Historical Collections.
+</corpname>
+</origination>
+
+<unittitle encodinganalog="245">
+G. Mennen Williams and Nancy Quirk Williams oral history project 
+<unitdate type="inclusive" encodinganalog="245$f">
+1980-1982
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+3 linear feet
+</extent></physdesc>
+
+<unitid encodinganalog="852$h" repositorycode="miu-h" countrycode="us" type="call number">
+87360 Bimu C445 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Oral history project of the Michigan Historical Collection to document politics and government during the gubernatorial administration of G. Mennen Williams; transcripts of interviews, sound cassettes, and administrative records of the project.</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Project donor no. is <num type="donor" encodinganalog="541$e">6632</num>. 
+</p></acqinfo>
+
+<accruals encodinganalog="584"><p>
+No further additions to the papers are expected.
+</p></accruals>
+
+<accessrestrict encodinganalog="506"><p>
+The record group is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+G. Mennen Williams and Nancy Quirk Williams oral history project, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>The G. Mennen Williams and Nancy Quirk Williams oral history project was conducted by Ruth Bordin and Ruth Wasem under the auspices of the Michigan Historical Collections of the University of Michigan. The purpose was to interview individuals associated with politics and public policy during the gubernatorial administration of G. Mennen Williams, 1948-1960.</p>
+</bioghist>
+
+
+
+<scopecontent encodinganalog="520">
+<p>This is a collection of oral history tapes and interviews relating to the history of the gubernatorial administration of G. Mennen Williamas. Interviews have been arranged alphabetically and include Paul Adams, Michael Berry, Geraldine N. Bledsoe, Ernest R. Boehm, Raymond Clevenger, John D. Dingell, Tom Downs, Alfred B. Fitt, Hicks and Martha Griffiths, Adelaide Hart, Jane B. Hart, Erma Henderson, Stella Lecznar, Wade H. McCree, Louis Mezzano, Victor G. Reuther, Horace Sheffield, Otis Smith, Paul W. Weber, Nancy (Quirk) Williams, Joseph L. Wisniewski, and Leonard Woodcock. Project files also include questionnaires (but not interviews) from other individuals associated with G. Mennen Williams.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<corpname source="lcnaf" encodinganalog="610">Democratic Party (Mich.)</corpname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1946-1960.</geogname>
+<persname source="lcnaf" encodinganalog="600">Williams, G. Mennen, 1911-</persname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+</controlaccess>
+
+
+
+<controlaccess><head>Subjects - Sound Recordings:</head>
+<corpname source="lcnaf" encodinganalog="610">Michigan Historical Collections.</corpname>
+<geogname source="local" encodinganalog="691">Michigan--Politics and government--1946-1960.</geogname>
+<persname source="lcnaf" encodinganalog="600">Williams, G. Mennen, 1911-</persname>
+<persname source="lcnaf" encodinganalog="600">Williams, G. Mennen, Mrs.</persname>
+<geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+
+</controlaccess>
+
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Adams, Paul L. (Paul Lincoln), 1908-</persname>
+<persname source="lcnaf" encodinganalog="700">Bordin, Ruth Birgitta Anderson, 1917-</persname>
+<persname source="lcnaf" encodinganalog="700">Clevenger, Raymond Francis, 1926-</persname>
+<persname source="lcnaf" encodinganalog="700">Downs, Tom, 1916-</persname>
+<persname source="lcnaf" encodinganalog="700">Griffiths, Hicks G., 1910-</persname>
+<persname source="lcnaf" encodinganalog="700">Griffiths, Martha Wright, 1912-</persname>
+<persname source="lcnaf" encodinganalog="700">Hart, Adelaide 1900-</persname>
+<persname source="lcnaf" encodinganalog="700">Henderson, Erma, 1917-</persname>
+<persname source="lcnaf" encodinganalog="700">Lecznar, Stella.</persname>
+<persname source="lcnaf" encodinganalog="700">Sheffield, Horace Linsey, 1916-</persname>
+<persname source="lcnaf" encodinganalog="700">Smith, Otis Milton, 1922-1994.</persname>
+<persname source="lcnaf" encodinganalog="700">Wasem, Ruth Ellen.</persname>
+<persname source="lcnaf" encodinganalog="700">Wisniewski, Joseph, 1906-</persname>
+<persname source="lcnaf" encodinganalog="700">Williams, G. Mennen, Mrs,</persname>
+<persname source="lcnaf" encodinganalog="700">Berry, Michael, 1920-</persname>
+<persname source="lcnaf" encodinganalog="700">Bledsoe, Geraldine Neale.</persname>
+<persname source="lcnaf" encodinganalog="700">Boehm, Ernest R.</persname>
+<persname source="lcnaf" encodinganalog="700">Dingell, John D.</persname>
+<persname source="lcnaf" encodinganalog="700">Fitt, Alfred Bradley, 1923-</persname>
+<persname source="lcnaf" encodinganalog="700">Hart, Jane Briggs.</persname>
+<persname source="lcnaf" encodinganalog="700">McCree, Wade H. (Wade Hampton), 1920-1987.</persname>
+<persname source="lcnaf" encodinganalog="700">Mezzano, Louis.</persname>
+<persname source="lcnaf" encodinganalog="700">Reuther, Victor G. (Victor George), 1912-</persname>
+<persname source="lcnaf" encodinganalog="700">Weber, Paul W.</persname>
+<persname source="lcnaf" encodinganalog="700">Woodcock, Leonard.</persname></controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Oral histories.</genreform>
+<genreform source="aat" encodinganalog="655">Sound recordings.</genreform></controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Transcripts and tapes of interviews</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Adams, Paul </unittitle></did> <controlaccess><p>[restricted access; no release form]</p></controlaccess></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Berry, Michael</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Bledsoe, Geraldine </unittitle></did> <controlaccess><p>[restricted access; no release form]</p></controlaccess></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Boehm, Ernest R. </unittitle></did> <controlaccess><p>[restricted access; no release form]</p></controlaccess></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Clevenger, Raymond</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Dingell, John D.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Downs, Tom</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Fitt, Alfred</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Griffiths, Hicks and Martha </unittitle></did> <controlaccess><p>[restricted access; no release form]</p></controlaccess></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hart, Adelaide</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Hart, Jane Briggs</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Henderson, Erma</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lecznar, Stella</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>McCree, Wade</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Mezzano, Louis</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Reuther, Victor</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Sheffield, Horace</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Smith, Otis</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Weber, Paul W.</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Williams, Nancy</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Wisniewski, Joseph</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Woodcock, Leonard</unittitle></did></c02></c01>
+
+
+
+<c01 level="series"><did><unittitle>Administrative materials</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Questionnaires, A-K</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Questionnaires, L-Z</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">3</container><unittitle>Administrative files</unittitle></did></c02></c01>
+
+
+</dsc></archdesc>
+
+</ead>

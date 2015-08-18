@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+
+<eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::goddarde.xml//EN" encodinganalog="identifier">
+umich-bhl-851364
+</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="title">Finding Aid for 
+Edwin C. Goddard papers, [ca. 1884]-[ca. 1940]
+</titleproper>
+<author encodinganalog="creator">Collection processed and finding aid created by 
+Michigan Historical Collections staff</author></titlestmt>
+
+<publicationstmt><publisher encodinganalog="publisher">Bentley Historical Library, University of Michigan</publisher>
+<date encodinganalog="date">
+200508</date></publicationstmt></filedesc>
+
+<profiledesc>
+<creation>Encoded finding aid created by 
+Greg Kinney, 
+<date>200508</date></creation>
+
+<langusage>The finding aid is written in  <language langcode="eng">English</language></langusage></profiledesc>
+
+<revisiondesc><change><date>20050817</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader>
+
+<frontmatter><titlepage>
+
+<publisher>Michigan Historical Collections<lb/>Bentley Historical Library<lb/>University of Michigan</publisher>
+
+<titleproper>Finding aid for<lb/>
+Edwin C. Goddard Papers, <lb/>[ca. 1884]-[ca. 1940]</titleproper>
+
+<author>Finding aid created by<lb/> 
+Michigan Historical Collections staff</author>
+
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21"><did>
+
+<origination>
+<persname source="lcnaf" encodinganalog="100">
+Goddard, Edwin C. (Edwin Charles), 1865-1942
+</persname>
+</origination>
+
+<unittitle encodinganalog="245">
+Edwin C. Goddard papers
+<unitdate type="inclusive" encodinganalog="245$f">
+[ca. 1884]-[ca. 1940]
+</unitdate>
+</unittitle>
+
+<physdesc><extent encodinganalog="300">
+1.5 linear ft.
+</extent></physdesc>
+
+<unitid encodinganalog="099" repositorycode="miu-h" countrycode="us" type="call number">
+851364 Aa 2
+</unitid>
+
+<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> </langmaterial>
+
+<abstract>
+Professor of mathematics and later of  law at the University of Michigan., papers include addresses and essays, family genealogies, class notebooks, and a draft manuscript and source materials for a history of the U-M Law School.
+</abstract>
+
+
+<repository><corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+<extptr href="bhladd" show="embed" actuate="onload"/></repository></did>
+
+<descgrp type="admin">
+<acqinfo encodinganalog="541"><p>
+Donor Nos. 
+<num type="donor" encodinganalog="541$e">343</num>, 
+<num type="donor" encodinganalog="541$e">645</num>, 
+<num type="donor" encodinganalog="541$e">1872</num>.
+</p>
+</acqinfo>
+
+<accessrestrict encodinganalog="506"><p>
+The collection is open to research.
+</p></accessrestrict>
+
+<userestrict encodinganalog="540"><p>
+Copyright is held by the Regents of the University of Michigan.
+</p></userestrict>
+
+
+<prefercite encodinganalog="524"><p>[item], folder, box,
+Edwin C. Goddard Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<p>Edwin C. Goddard was a professor of mathematics and later of  law at the University of Michigan, 1895-1935.</p>
+<p>Goddard was born August 20, 1965 in Winnebago, Illinois, the son of  James W. and Mary Blodgett Goddard.  He attended Winnebago schools and prepared for the university at Ann Arbor High School. He graduated form the University of Michigan with a  bachelor of philosophy degree in 1889 and took a job teaching mathematics at Saginaw High School and served as principal from 1891-1895.  From 1995-1900 was an instructor in mathematics at the University of Michigan. While teaching mathematics, Goddard enrolled in the Law Department and received a bachelor of law degree in 1899 and began teaching in the law department in 1900.</p>
+<p>Goddard was promoted to full professor in 1903. Among his specialties were agency, bailment, public utilities, and real property law.  He was secretary of the law faculty form 1901-1917 and in 1917-1918 served as chairman of the administrative committee of the Law School, directing its activities in the absence on leave of Dean Henry Bates.  Goddard was a member of the first board of Governors of the Lawyers Club and served on the board until his retirement in 1935.</p>
+<p>He was also active in community life, serving at various times as member of the board of education, park board, community fund and city selective service board and was prominent in the affairs of the First Congregational Church.</p>
+<p>Goddard was married to Lillian Rosewarne of Decatur, Michigan in July of 1892.  Goddard died  August 18, 1942.</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<p>The Edwin Charles Goddard papers consist of addresses and essays on various subjects by Goddard and his wife Lillian; miscellaneous letters; notes and letters on European trip, 1908-1909; family genealogy; outline of an algebra course; University of Michigan law thesis; original manuscript and manuscript material for his history of University of Michigan Law School; Ann Arbor High School and University of Michigan student notebooks on courses by Henry C. Adams, James B. Angell, Isaac N. Demmon, John Dewey, Henry S. Frieze, Charles M. Gayley, Richard Hudson, Elisha Jones, Andrew C. McLaughlin, George S. Morris, Albert B. Prescott, Jacob E. Reighard, Volney M. Spalding, and Victor C. Vaughan.  Also included are portraits of Goddard and of his mother, Mary Blodgett Goddard, and her family.</p>
+</scopecontent>
+
+<controlaccess><p><extptr href="accnote" show="embed" actuate="onload"/></p><controlaccess><head>Subjects:</head>
+<persname source="lcnaf" encodinganalog="600">Adams, Charles Kendall, 1835-1902.</persname>
+<persname source="lcnaf" encodinganalog="600">Angell, James Burrill, 1829-1916.</persname>
+<corpname source="lcnaf" encodinganalog="610">Ann Arbor High School (Mich.)</corpname>
+<persname source="lcnaf" encodinganalog="600">Demmon, Isaac Newton, 1842-1920.</persname>
+<persname source="lcnaf" encodinganalog="600">Dewey, John, 1859-1952.</persname>
+<geogname source="lcsh" encodinganalog="651">Europe--Description and travel.</geogname>
+<persname source="lcnaf" encodinganalog="600">Frieze, Henry S. (Henry Simmons), 1817-1889.</persname>
+<persname source="lcnaf" encodinganalog="600">Gayley, Charles Mills, 1858-1932.</persname>
+<persname source="lcnaf" encodinganalog="600">Hudson, Richard, 1845-1915.</persname>
+<persname source="lcnaf" encodinganalog="600">Jones, Elisha, 1832-1888.</persname>
+<subject source="lcsh" encodinganalog="650">Law.</subject>
+<subject source="lcsh" encodinganalog="650">Lawyers--Michigan--Ann Arbor.</subject>
+<persname source="lcnaf" encodinganalog="600">McLaughlin, Andrew Cunningham, 1861-1947.</persname>
+<persname source="lcnaf" encodinganalog="600">Morris, George Sylvester, 1840-1889.</persname>
+<persname source="lcnaf" encodinganalog="600">Prescott, A. B. (Albert Benjamin), 1832-1905.</persname>
+<persname source="lcnaf" encodinganalog="600">Reighard, Jacob Ellsworth, 1861-.</persname>
+<persname source="lcnaf" encodinganalog="600">Spalding, Volney Morgan, 1849-1918.</persname>
+<subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
+<subject source="lcsh" encodinganalog="650">Travelers.</subject>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Botany.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Chemistry.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Classical Studies.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of English Language and Literature.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Germanic Languages and Literatures.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of History.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Mathematics.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Philosophy.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Political Science.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan. Law School.</corpname>
+<corpname source="lcnaf" encodinganalog="610">University of Michigan--Student notebooks.</corpname>
+<persname source="lcnaf" encodinganalog="600">Vaughan, Victor C. (Victor Clarence), 1851-1929.</persname>
+</controlaccess>
+
+<controlaccess><head>Subjects - Visual Materials:</head>
+<famname source="lcnaf" encodinganalog="600">Blodgett family.</famname>
+<famname source="lcnaf" encodinganalog="600">Goddard family.</famname>
+<persname source="lcnaf" encodinganalog="600">Goddard, Edwin C. (Edwin Charles), 1865-1942.</persname>
+</controlaccess>
+
+<controlaccess><head>Contributors: </head>
+<persname source="lcnaf" encodinganalog="700">Goddard, Lillian Rosewarne.</persname>
+</controlaccess>
+
+<controlaccess><head>Genre Terms:</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+
+</controlaccess>
+
+
+
+<dsc type="combined">
+<c01 level="series"><did><unittitle>Papers</unittitle></did>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Blodgett family genealogy</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letters from abroad</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Letter on Ann Arbor city charter, <unitdate type="inclusive" normal="1920">1920</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Ann Arbor High School diploma, 194o</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Essays</unittitle><physdesc><extent>4 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Lectures on law</unittitle><physdesc><extent>8 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Essay on William Morris</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Essays on literature</unittitle><physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Essays by Lillian Rosewarne Goddard</unittitle><physdesc><extent>3 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Manuscript of history of University of Michigan Law School (2vols.)</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Research materials: Law School history</unittitle><physdesc><extent>5 folders</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Travel diary, l908-1909</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Notebook of course in Latin composition, Ann Arbor High School, <unitdate type="inclusive" normal="1884/1887">1884-1887</unitdate></unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Outline of work in algebra for Courses l and la, University of Michigan, <unitdate type="inclusive" normal="1896/1897">1896-1897</unitdate></unittitle></did><note><p>(arranged by EA. Layman and E.C. Goddard)</p></note></c02>
+<c02 level="file"><did><container type="box" label="Box">1</container><unittitle>Essays and talks given before various organizations </unittitle><physdesc><extent>4 vols.</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>University of Michigan student notebooks </unittitle><physdesc><extent>11 viols.</extent></physdesc></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>University of Michigan law thesis</unittitle></did></c02>
+<c02 level="file"><did><container type="box" label="Box">2</container><unittitle>Photographs</unittitle></did><scopecontent><p>Photogrpahs include portraits of Goddard and of his mother, Mary Blodgett Goddard, and her family.</p>
+</scopecontent></c02></c01>
+
+</dsc></archdesc>
+
+</ead>
