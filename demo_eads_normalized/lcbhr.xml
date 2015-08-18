@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+    <eadid countrycode="us" mainagencycode="MiU-H" publicid="us//::miu-h//TXT us::miu-h::lcbhr.xml//EN" encodinganalog="Identifier">umich-bhl-91464</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Livonia Citizens For Better Human Relations (Mich.) records, 1963-1976</titleproper>
+        <author encodinganalog="Creator">Collection processed and finding aid created by Thomas E. Powers</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Bentley Historical Library, University of Michigan</publisher>
+        <date encodinganalog="Date" normal="2006">2007</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded finding aid created by Thomas E. Powers <date>April 2007</date></creation>
+      <langusage encodinganalog="Language">The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2007-04-12</date>
+        <item>Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <titleproper>Finding aid for <lb/>Livonia Citizens For Better Human Relations (Mich.) <lb/>Records, 1963-1976</titleproper>
+      <author>Finding aid created by <lb/>Lisa Pratt, June 1991</author>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="MARC21">
+    <did>
+      <origination>
+        <corpname source="lcnaf" encodinganalog="110">Livonia Citizens for Better Human Relations (Mich.)</corpname>
+      </origination>
+      <unittitle encodinganalog="245">Livonia Citizens For Better Human Relations (Mich.) records <unitdate type="inclusive" encodinganalog="245$f" normal="1963/1976">1963-1976</unitdate></unittitle>
+      <physdesc altrender="whole">
+        <extent encodinganalog="300" altrender="materialtype spaceoccupied">0.5 linear feet</extent>
+      </physdesc>
+      <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">91464 Bj 2</unitid>
+      <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
+      <abstract>Livonia, Michigan human rights organization; administrative files, correspondence, topical files, newsletters, and newspaper clippings relating to activities of the organization.</abstract>
+      <repository>
+        <corpname encodinganalog="852"><subarea>Bentley Historical Library</subarea>, University of Michigan</corpname>
+        <extptr href="bhladd" show="embed" actuate="onload"/>
+      </repository>
+    </did>
+    <descgrp type="admin">
+      <acqinfo encodinganalog="541">
+        <p>The record group was donated by Doris and Winthrop Sears (Donor No. <num type="donor" encodinganalog="541$e">7886</num>) in November 1990.</p>
+      </acqinfo>
+      <accruals encodinganalog="584">
+        <p>Periodic additions to the records are not expected.</p>
+      </accruals>
+      <accessrestrict encodinganalog="506">
+        <p>The record group is open to research.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>Copyright has been transferred to the Regents of the University of Michigan.</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <p>[item], folder, box,
+Livonia Citizens For Better Human Relations (Mich.) records, Bentley Historical Library, University of Michigan</p>
+      </prefercite>
+    </descgrp>
+    <bioghist encodinganalog="545">
+      <p>The Livonia Citizens for Better Human Relations (LCBHR) was founded in September 1963, incorporated in January 1964, and dissolved in March 1976. The organization met monthly in local religious buildings, and membership was open to all persons living or working in the city or school district of Livonia, Michigan.</p>
+      <p>The purpose of the organization was to "promote good will, understanding and respect for human dignity as well as for the law among present and future members of this community regardless of their race, color, religion, or national origin" through a variety of activities. These activities included publishing a monthly newsletter, establishing a Students Committee for Better Human Relations, and sponsoring lectures and guest speakers on the issues of civil rights, equal housing, and busing to increase public awareness and encourage peaceful inter-racial relations. In 1969 they organized a local boycott of California grapes in support of migrant workers. Representatives of the organization corresponded with local politicians and community leaders, as well as state senators and representatives, expressing their concerns and urging reform.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <p>The records of the Livonia Citizens for Better Human Relations contain rich information relating to race relations in the Livonia community during the years 1963 to 1976. The organization's activities are best documented in the extensive Meeting Minutes and Newsletters. The efforts of LCBHR members to discourage prejudice and discrimination within the community are documented in letters to various political figures in the Correspondence, Topical Files, Newspaper Clippings, and Newsletters files.</p>
+    </scopecontent>
+    <controlaccess>
+      <p>
+        <extptr href="accnote" show="embed" actuate="onload"/>
+      </p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="650">Social action--Michigan--Societies, etc.</subject>
+        <subject source="lcsh" encodinganalog="650">Civil rights--Michigan--Livonia.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n82268584.html">Livonia (Mich.)</geogname>
+        <corpname source="lcnaf" encodinganalog="610">Livonia Citizens for Better Human Relations (Mich.)</corpname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unittitle>Organization files</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unittitle>Administrative Files</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Articles of Incorporation and Constitution</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Meeting Minutes <unitdate type="inclusive">1995 April 5</unitdate></unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">6 folders</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Membership <unitdate type="inclusive">1/2/1990-2/3/1991</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Correspondence <unitdate type="inclusive" normal="1963/1973">1963-1973</unitdate></unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">3 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Topical Files</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Civil Rights</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Equal Housing</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Grape Boycott/Migrant Workers</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Northwest Inter-faith Center for Racial Justice</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Other Human Relations Organizations</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Schools</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Students Committee for Better Human Relations (SCBHR)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" label="Box">1</container>
+              <unittitle>Wayne County Millage Proposals</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Newsletters <unitdate type="inclusive" normal="1966/1976">1966-1976</unitdate></unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">2 folders</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box">1</container>
+            <unittitle>Newspaper Clippings <unitdate type="inclusive" normal="1967/1974">1967-1974</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
